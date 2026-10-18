@@ -1,0 +1,19 @@
+0	N. Ou
+1	S. Ou
+2	Hokuriku
+3	N. Kanto
+4	S. Kanto
+5	Koshin
+6	Tokai
+7	Nobi-Ise
+8	N. Kinki
+9	S. Kinki
+10	San'in
+11	San'yo
+12	Shikoku
+13	N. Kyushu
+14	S. Kyushu
+15	Korea
+16	Ming
+17	Ryukyu
+18	Nanban

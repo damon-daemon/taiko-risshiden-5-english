@@ -1,0 +1,24 @@
+0	Itto
+1	Shinkage
+2	Shinto
+3	Chujo
+4	Yoshioka
+5	Tsuda
+6	Hayashizaki Muso
+7	Ippa
+8	Ono Itto
+9	Ten
+10	Gan
+11	Saburi
+12	Jigen
+13	Hozoin
+14	Niten Ichi
+15	Mijin
+16	Yagyu Shinkage
+17	Taisha
+18	Kasumi
+19	Inatomi
+20	Heki
+21	Kanemaki
+22	Zuihasai
+23	Takada

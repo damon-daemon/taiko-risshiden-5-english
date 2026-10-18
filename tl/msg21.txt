@@ -1,0 +1,1899 @@
+# msg21: system messages, new game, new officers, mini-games, rejoining/hiring talks.
+@0
+Is this all right?
+@1
+Is this all right?
+@2
+No new officers will appear. Is this all right?
+@3
+You have no cards at all. Is this all right?
+@4
+Choose a scenario.
+@5
+Start the game with this hero?
+@6
+Cancel the ability settings.\nIs this all right?
+@7
+Not all bonus points have been assigned.\nIs this all right?
+@8
+Reset the abilities to their initial values.\nIs this all right?
+@9
+Use these settings?
+@10
+Enter the new officer's name.
+@11
+Family name: up to 4 characters; given name: up to 3.
+@12
+Readings: up to 8 characters.
+@13
+The family name is too long!
+@14
+The given name is too long!
+@15
+The family name's reading is too long!
+@16
+The given name's reading is too long!
+@17
+No {02}yd has been entered.
+@18
+The {02}yd contains\ncharacters that cannot be used.
+@19
+Choose the new officer's face.
+@20
+Enter the age (15 to 45).
+@21
+Choose the line that fits\nthe new officer's character.
+@22
+If it won't sing,
+@23
+the cuckoo.
+@24
+kill it
+@25
+I'll make it sing
+@26
+I'll wait till it sings
+@27
+I'll sing myself
+@28
+leave it be
+@29
+find another
+@30
+forget it
+@31
+"If the cuckoo won't sing, {02}yd."\nIs this all right?
+@32
+Starting the game.
+@33
+{02}{01}g's base has been changed\nto the superior's base.
+@34
+Adjust the TV brightness so that the bar
+@35
+below the line can no longer be seen.
+@36
+Use ⑤ to adjust the screen position.
+@37
+① to confirm, ② to cancel.
+@38
+③ restores the default settings.
+@39
+Save the current screen settings\nto the memory card (PS2)?\nSaving overwrites the system data (new officer data,\noptions, screen settings, card data, etc.).
+@40
+Save the current options\nto the memory card (PS2)?\nSaving overwrites the system data (new officer data,\noptions, screen settings, card data, etc.).
+@41
+Load the game.\nIs this all right?
+@42
+Save the game.\nIs this all right?
+@43
+Choose the person who will play the mini-game.
+@44
+Spin the reels and line up the pictures.\nThe higher your Accounting and Speech,\nthe more winning pictures appear.\nPlayed at shops.
+@45
+Bounce the ball with the bar and break\nthe blocks within the time limit.\nHigher Ninjutsu adds blocks; higher Valor and Intellect\nmake the bar bigger.\nPlayed at castles, ninja villages and pirate forts.
+@46
+Lay water channel panels and connect\nthe channel within the time limit.\nHigher Politics adds time;\nhigher Farming adds panels.\nPlayed at castles and Nanban temples.
+@47
+Find as many gold nuggets as you can\nwhile digging within the time limit.\nHigher Politics makes gold appear more often;\nhigher Mining adds time.\nPlayed at castles and samurai houses.
+@48
+Place building materials and fill every\nhole in the building within the time limit.\nHigher Politics and Intellect\ngive more time;\nhigher Building gives more materials.\nPlayed at castles, ninja villages,\npirate forts and samurai houses.
+@49
+Judge whose cards add up\nto more: yours or your opponent's.\nCharm and Intellect above your opponent's add time;\nhigher Speech gives more cards, numbers to choose\nand starting points.\nPlayed at castles and samurai houses.
+@50
+Find the person you are told to among the\ncandidates within the time limit.\nHigher Politics and Intellect give more time;\nhigher Ninjutsu adds candidates.\nPlayed at ninja villages.
+@51
+Choose tea utensils and repeat\nthe order you were shown.\nHigher Charm\ngives more time;\nhigher Tea adds utensils.\nPlayed at tea masters' houses.
+@52
+Mix the requested medicine from amounts and\ningredients within the time limit.\nHigher Intellect and Charm give more time; higher\nMedicine adds ingredients and medicines.\nPlayed at physicians' houses.
+@53
+Choose panels and clear all of them\nwithin the time limit.\nHigher Intellect and Leadership\ngive more time;\nhigher Tactics adds panels.\nPlayed at samurai houses.
+@54
+Adjust the firing angle and hit as many\ntargets as you can in a limited number of shots.\nHigher Leadership and Valor\nmake the targets bigger;\nhigher Gunnery gives more shots.\nPlayed at smithies.
+@55
+Adjust the angle and the draw\nand hit as many targets as you can\nin a limited number of shots.\nHigher Leadership and Valor\nmake the targets bigger;\nhigher Archery gives more shots.\nPlayed at samurai houses.
+@56
+Choose numbers from 1 to 9 and complete\nthe equations within the time limit.\nHigher Intellect and Politics\ngive more time;\nhigher Accounting makes the equations longer.\nPlayed at merchant houses.
+@57
+Rotate the rows and columns\nto line up the nine pictures.\nHigher Etiquette adds card types and\nbasic turns.\nHigher Charm\nadds extra turns.\nPlayed at temples.
+@58
+Steer your horse left and right\nto dodge the flying arrows.\nHigher Leadership and Valor\nallow more misses;\nhigher Cavalry adds time.\nPlayed at stables.
+@59
+Take turns rolling three dice\nand compete for the best combination.\nPlayed at taverns.
+@60
+Take turns turning over flower cards\nand compete to make combinations.\nPlayed at taverns.
+@61
+Take turns rolling two dice\nand try to roll double ones (pin).\nPlayed at taverns.
+@62
+"New Officers" has been added\nto the start menu.
+@63
+"Chapter of the Rising Dragon" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@64
+"Chapter of Conquest" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@65
+"Chapter of Upheaval" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@66
+"Chapter of Peace" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@67
+"Chapter of Chaos" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@68
+"Mini-Games" has been added\nto the start menu.
+@69
+"Music Room" has been added\nto the start menu.
+@70
+When you start a game "From the Beginning",\nyou can now edit the hero's abilities.
+@71
+Officer editing is now available.\nIn the game, "Functions" - "Edit Officers"\nlets you change any officer's abilities.
+@72
+"Chapter of Exile" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@73
+"Chapter of Dreams" can now be chosen.\nIt is available when you start\na game "From the Beginning".
+@74
+You have no cards.
+@75
+You have no valuables.
+@76
+There are no trade goods.
+@77
+Already equipped.
+@78
+Equipped {02}3g.
+@79
+Ugh... it hurts...
+@80
+So poison could not cure the illness after all...
+@80.1
+So poison can't cure an illness after all...
+@81
+No, it got worse.\nFighting poison with poison was too much...
+@81.1
+Oh no, it got worse.\nFighting poison with poison didn't work...
+@82
+What is this!\nThe poison has made me ill...
+@82.1
+Oh no!\nThe poison has made me ill...
+@83
+I'm in the best of health.\nNo need for medicine.
+@83.1
+I'm in the best of health.\nNo need for medicine.
+@84
+I've never felt better!
+@84.1
+I've never felt better!
+@85
+Good, my strength is back.
+@85.1
+Good, my strength is back.
+@86
+I feel my strength returning...\nThe illness is cured!
+@86.1
+I feel my strength returning...\nThe illness is cured!
+@87
+I've recovered somewhat...\nbut the illness isn't cured yet.
+@87.1
+I've recovered somewhat...\nbut the illness isn't cured yet.
+@88
+It seems no one else has a rare valuable.
+@88.1
+It seems no one else has a rare valuable.
+@89
+So this medicine had no effect after all.
+@89.1
+So this medicine didn't work after all.
+@90
+Changing the gender will reset the current face.\nIs this all right?
+@91
+Is everything all right?
+@92
+Stop creating this officer?
+@93
+Delete this person?
+@94
+Change the face type?\n(All face parts will be reset.)
+@95
+The face type does not match the gender.\nIs this all right?
+@96
+Create new officers, edit the selected new officer, or delete officers.
+@97
+Showing the new officers marked for deletion.
+@98
+Exported new officer data "{02}yd" to "{02}zd".
+@99
+Could not export new officer data "{02}yd".
+@100
+Loaded new officer data "{02}yd".
+@101
+The new officer data "{02}yd"\nis invalid.
+@102
+The new officer data "{02}yd"\nuses face parts you have not unlocked.
+@103
+Failed to load new officer data "{02}yd".
+@104
+The file "{02}yd" is not\nTaiko Risshiden V new officer data.
+@105
+A new officer is set as the father,\nso the birth year cannot be changed.
+@106
+A new officer has this officer set\nas father,\nso the birth year cannot be changed.
+@107
+A new officer has this officer set\nas father.\n\nThe father data will be cleared.\nDelete this person anyway?
+@108
+Save the edited new officer data\nto the memory card (PS2)?\nSaving overwrites the system data (new officer data,\noptions, screen settings, card data, etc.).
+@109
+Do you really want to enter service?
+@110
+Do you really want to become a ninja?
+@111
+Do you really want to become a pirate?
+@112
+Do you really want to become an apprentice?
+@113
+{01}C1{00},\nI have come with an important request.
+@113.1
+{01}C1{00},\nI have come with an important request.
+@114
+{01}C1{00},\nI have a favor to ask.
+@114.1
+{01}C1{00},\nI have come today with a request.
+@115
+Oh? What request?
+@115.1
+Oh?\nYou have a request?
+@116
+Oh?\nWhat request?
+@116.1
+Oh?\nA request from you?\nHow unusual.
+@117
+Let me serve\nunder you,\nI beg you.
+@117.1
+I, {02}{01}g,\nwish with all my heart\nto serve under you!
+@118
+I would like to serve\nunder you...
+@118.1
+I, {02}{01}g,\nwish with all my heart\nto serve under you!
+@119
+...Hmph, what are you saying now?\nYou will never return to this house.\nDon't talk nonsense.
+@119.1
+...Hmph, what are you saying now?\nYou will never return to this house.\nPlease don't talk nonsense.
+@119.2
+...What are you saying now?\nYou will never be let into this house again.\nGive it up.
+@119.3
+...What are you saying now?\nYou will never be let into this house again.\nPlease give it up.
+@119.4
+...What are you saying now?\nYou will never be let into this house again.\nGive it up.
+@119.5
+...What are you saying now?\nYou will never be let into this house again.\nPlease give it up.
+@119.6
+{01}C1{00}...\nYou left this house once...\nPlease give it up.
+@120
+You want to serve under me...?\nWhat are you saying now?\nDon't be ridiculous!
+@120.1
+You must be joking!\nTaking you back now\nis simply not allowed.
+@120.2
+Wanting to serve under me now\nis asking the impossible.\nPlease give it up.
+@120.3
+...You must be joking.\nTaking you back now\nis out of the question.
+@120.4
+What are you saying now...?\nI really can't agree to that.\nPlease don't trouble me so.
+@120.5
+Not now...\nEven if you ask, it's impossible.\nPlease don't trouble me so.
+@120.6
+{01}C1{00}...\nYou left this house once.\nPlease give it up.
+@121
+...Hmph, what are you saying now?\nYou will never be let into this house again.\nDon't talk nonsense.
+@121.1
+...Hmph, what are you saying now?\nYou will never be let into this house again.\nPlease don't talk nonsense.
+@121.2
+...What are you saying now?\nYou will never be let into this house again.\nGive it up.
+@121.3
+...What are you saying now?\nYou will never be let into this house again.\nPlease give it up.
+@121.4
+...What are you saying now?\nYou will never be let into this house again.\nGive it up.
+@121.5
+...What are you saying now?\nYou will never be let into this house again.\nPlease give it up.
+@121.6
+{01}C1{00}...\nYou will never be let into this house again...\nGive it up.
+@121.7
+{01}C1{00}...\nYou will never be let into this house again...\nPlease give it up.
+@122
+You want to serve under me...?\nThat's impossible now, surely.\nDon't be ridiculous!
+@122.1
+You must be joking!\nTaking you back now\nis absolutely impossible.
+@122.2
+Wanting to serve under me now\nis asking the impossible.\nPlease give it up.
+@122.3
+...You must be joking.\nTaking you back now\nis out of the question.
+@122.4
+What are you saying now...?\nI really can't agree to that.\nPlease don't trouble me so.
+@122.5
+Not now...\nEven if you ask, it's impossible.\nPlease don't trouble me so.
+@122.6
+Even if you ask, {01}C1{00},\nthat is the one thing I cannot do...\nYou understand, don't you?
+@122.7
+Even if you ask, {01}C1{00},\nthat is the one thing I cannot do...\nI trust you understand?
+@123
+...Hmph, what are you saying now?\nYou left this house once.\nDon't talk nonsense.
+@123.1
+...Hmph, what are you saying now?\nYou left this house once.\nPlease don't talk nonsense.
+@123.2
+...What are you saying now?\nYou left this house once.\nGive it up.
+@123.3
+...What are you saying now?\nYou left this house once.\nPlease give it up.
+@123.4
+...What are you saying now?\nYou left this house once.\nGive it up.
+@123.5
+...What are you saying now?\nYou left this house once.\nPlease give it up.
+@123.6
+{01}C1{00}...\nYou left this house once, so...\nGive it up.
+@123.7
+{01}C1{00}...\nYou left this house once...\nPlease give it up.
+@124
+You want to serve under me...?\nThat's impossible now, surely.\nDon't be ridiculous!
+@124.1
+You must be joking!\nTaking you back now\nis simply not allowed.
+@124.2
+Wanting to serve under me now\nis asking the impossible.\nGive it up for now.
+@124.3
+...You must be joking.\nYou left this house once.\nPlease give it up for now.
+@124.4
+...It isn't that easy to take you back.\nYou left this house once.\nGive it up for now.
+@124.5
+...It isn't that easy to take you back.\nYou left this house once.\nPlease give it up for now.
+@124.6
+{01}C1{00}...\nYou left this house once.\nWe can't take you back yet.
+@124.7
+{01}C1{00}...\nYou left this house once.\nWe cannot take you back yet.
+@125
+Forgive me, but\nyou are a fine ninja.\nSomeone of my standing could never hire you.
+@125.1
+I'm grateful for the thought, but\nyou are a fine ninja.\nSomeone of my standing could never hire you.
+@126
+...I'm glad you feel that way, but\nyou are a fine ninja.\nSomeone of my standing could never hire you.
+@126.1
+I'm grateful for the thought, but\nyou are a fine ninja.\nSomeone of my standing could never take you in.
+@127
+What!\nYou wish to serve me?
+@127.1
+What!\nYou wish to serve me?
+@128
+Oh!\nYou wish to serve me?
+@128.1
+Oh!\nYou wish to work for our house?
+@129
+I will surely be of use to you!\nPlease,\ngrant my request!
+@129.1
+I will surely be of use to you!\nPlease,\ngrant my request!
+@130
+I want to be of use to you.\nPlease,\nwon't you grant my request?
+@130.1
+I will surely be of use to you!\nPlease,\ngrant my request!
+@131
+What!\nYou left this house once,\nand now you wish to serve us again?
+@131.1
+What!\nYou left this house once,\nand now you wish to serve us again?
+@132
+Oh!\nYou left this house once,\nand you wish to serve again?
+@132.1
+Oh!\nYou left this house once,\nand you wish to serve again?
+@133
+I wish to serve you once more.\nPlease,\ngrant my request!
+@133.1
+Yes, I wish to serve you once more.\nPlease,\ngrant my request!
+@134
+I want to be of use to you.\nPlease,\nwon't you grant my request?
+@134.1
+I wish to serve you once more.\nPlease,\ngrant my request!
+@135
+...I accept your feelings.\nVery well, from now on\nyou will work under me.
+@135.1
+...I understand your feelings.\nVery well, from now on\nwill you help me?
+@136
+...I understand how you feel.\nVery well, from now on\nplease support me.
+@136.1
+...I accept your feelings.\nVery well, from now on\nplease work under me.
+@137
+Oh!\nI'm grateful!
+@137.1
+Oh!\nThank you very much!
+@138
+Thank you.
+@138.1
+Thank you very much!
+@139
+But now that you are my subordinate,\nthings can't be as they were between us.\nKeep that in mind.
+@139.1
+But now that you serve me,\nwe are lord and retainer.\nYou will follow my orders.
+@140
+Now that you are my subordinate,\nthings can't be as they were between us.\nKeep that in mind.
+@140.1
+But now that you serve me,\nwe are lord and retainer.\nYou will follow my orders.
+@141
+I understand.\nFrom now on I will work\nas hard as I can for you!
+@141.1
+Yes, sir!\nFrom now on I will work\nas hard as I can for you!
+@142
+I understand.\nFrom now on I will\ndo my best for you.
+@142.1
+Yes!\nFrom now on I will\ndo my best for you.
+@143
+Good. Then\nI will have a house prepared for you.\nGo and see it.
+@143.1
+Then I will have a house\nprepared for you at once.
+@144
+Then I will have a residence\nprepared for you\nin the castle town.
+@144.1
+Then I will have a house\nprepared for you in the castle town.
+@145
+Even you\ncannot become my {01}C{A4}{01}.
+@145.1
+I hardly know you;\nI can't make you my {01}C{A4}{01}.
+@145.2
+I hardly know you;\nI cannot make you my {01}C{A4}{01}.\n
+@145.3
+Even you\ncannot become my {01}C{A4}{01}.
+@146
+Even you\ncannot become my {01}C{A4}{01}.
+@146.1
+I hardly know you;\nI can't make you my {01}C{A4}{01}.
+@146.2
+Even you\ncannot become my {01}C{A4}{01}.
+@147
+I see...
+@147.1
+...I spoke out of turn.
+@148
+I see...
+@148.1
+...I spoke\nout of turn.
+@149
+...You would serve me, a mere {02}{01}i,\nand not the boss?
+@149.1
+...You would serve me, a mere {02}{01}i,\nand not the chief?
+@149.2
+...You would serve me,\na mere {02}{01}i?
+@149.3
+...You would serve me,\nwho am not even a daimyo?
+@149.4
+...You wish to serve me, a mere {02}{01}i,\nand not the boss?
+@149.5
+...You wish to serve me, a mere {02}{01}i,\nand not the chief?
+@149.6
+...You wish to serve me,\na mere {02}{01}i?
+@149.7
+...You wish to serve me,\nwho am not even a daimyo?
+@150
+...You would serve me, a mere {02}{01}i,\nand not the boss?
+@150.1
+...You would serve me, a mere {02}{01}i,\nand not the chief?
+@150.2
+...You would serve me,\na mere {02}{01}i?
+@150.3
+...You would serve me,\nwho am not even a daimyo?
+@150.4
+...You wish to serve me, a mere {02}{01}i,\nand not the boss?
+@150.5
+...You wish to serve me, a mere {02}{01}i,\nand not the chief?
+@150.6
+...You wish to serve me,\na mere {02}{01}i?
+@150.7
+...You wish to serve me,\nwho am not even a daimyo?
+@151
+I want to work for you\nand no one else.
+@151.1
+I want to work for you\nand no one else.
+@151.2
+I wish to work under you\nand no one else.
+@151.3
+I want to work under you\nand no one else.
+@152
+...Your feelings make me glad.\nI'm counting on you.\nHelp me.
+@152.1
+...Your feelings\nmake me glad.\nI'm counting on you.
+@152.2
+...Your feelings\nmake me truly glad.\nI am in your hands.
+@152.3
+...Your feelings\nmake me very glad.\nI'm counting on you.
+@153
+Right!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
+@153.1
+Yes!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
+@153.2
+Yes, sir!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
+@153.3
+Yes!\nFrom now on please let me\nwork as hard as I can for you, {01}C1{00}!
+@154
+In that case, I must ask\n{01}C8{00} for a house for you.
+@154.1
+In that case, I will ask\n{01}C8{00} for a house for you.
+@154.2
+In that case, I must ask\n{01}C8{00} for a house for you...
+@154.3
+In that case, I need to ask\n{01}C8{00} for a house for you...
+@155
+I'm grateful for the offer, but...\nI'm not yet ready\nto make use of you.
+@155.1
+Me, your {01}C{AA}{01}...?\nThat is too great an honor...
+@156
+I'm glad of the offer, but\nI'm not yet ready\nto make use of you...
+@156.1
+Me, your {01}C{AA}{01}?\nThose are kind words, but\nI really cannot accept.
+@157
+...I see.
+@157.1
+...I see.
+@158
+Oh, there is one thing\nI must tell you.
+@158.1
+There's one more thing\nI should tell you.
+@158.2
+There is one more thing\nI must tell you.
+@158.3
+There was one more thing\nI should tell you.
+@159
+Unless something special comes up, a council\nis held at this castle early in every odd month.\n\nOf course, you must attend the council too.
+@159.1
+Unless something special comes up, a council is held\nat {01}C8{00}'s castle early in every odd month.\n\nOf course, you must attend the council too.
+@160
+Ninja missions are handed out at any time.\nWhen you are summoned, you must come\nto the ninja house within a month.
+@160.1
+Ninja missions are handed out at any time.\nWhen you are summoned, you must go\nto {01}C8{00}'s house within a month.
+@161
+Pirate councils are held at any time.\nWhen you are summoned, you must come\nto the pirate house within a month.
+@161.1
+Pirate councils are held at any time.\nWhen you are summoned, you must go\nto {01}C8{00}'s house within a month.
+@162
+Unless something special comes up, a council\nis held at this shop early in every odd month.\nOf course, you must attend the council too.
+@162.1
+Unless something special comes up, a council is held\nat {01}C8{00}'s shop early in every odd month.\nOf course, you must attend the council too.
+@163
+Unless something special comes up, a council\nis held at this castle early in every odd month.\nOf course, you must attend the council too.
+@163.1
+Unless something special comes up, a council is held\nat {01}C8{00}'s castle early in every odd month.\nOf course, you must attend the council too.
+@164
+Ninja missions are handed out at any time.\nWhen you are summoned, you must come\nto this ninja house within a month.
+@164.1
+Ninja missions are handed out at any time.\nWhen you are summoned, you must go\nto {01}C8{00}'s house within a month.
+@165
+Pirate councils are held at any time.\nWhen you are summoned, you must come\nto this pirate house within a month.
+@165.1
+Pirate councils are held at any time.\nWhen you are summoned, you must go\nto {01}C8{00}'s house within a month.
+@166
+Unless something special comes up, a council\nis held at this shop early in every odd month.\nOf course, you must attend the council too.
+@166.1
+Unless something special comes up, a council is held\nat {01}C8{00}'s shop early in every odd month.\nOf course, you must attend the council too.
+@167
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@167.1
+You receive missions from {01}C8{00}\nat the council. Carrying them out in time and\nreporting back is your duty from now on.
+@168
+You receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@168.1
+You receive missions from {01}C8{00}.\nCarrying them out in time and reporting\nback will be your duty from now on.
+@169
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@169.1
+You receive missions from {01}C8{00}\nat the council. Carrying them out in time and\nreporting back is your duty from now on.
+@170
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your work from now on.
+@170.1
+You receive missions from {01}C8{00}\nat the council. Carrying them out in time and\nreporting back is your work from now on.
+@171
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@171.1
+You receive missions from {01}C8{00}\nat the council. Carrying them out in time and\nreporting back is your duty from now on.
+@172
+You receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@172.1
+You receive missions from {01}C8{00}.\nCarrying them out in time and reporting\nback will be your duty from now on.
+@173
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your duty from now on.
+@173.1
+You receive missions from {01}C8{00}\nat the council. Carrying them out in time and\nreporting back is your duty from now on.
+@174
+At the council you receive missions from me.\nCarrying them out in time and reporting to me\nwill be your work from now on.
+@174.1
+You receive missions from {01}C8{00}\nat the council. Carrying them out in time and\nreporting back is your work from now on.
+@175
+The next council is early in month {02}o{CB}.\n{01}C1{00}, being late for the council\nwill not be tolerated.
+@176
+{01}C1{00}, being late for a summons\nwill not be tolerated.
+@177
+The next council should be some time away.\n{01}C1{00}, being late for the council\nwill not be tolerated.
+@178
+The next council is early in month {02}o{CB}.\n{01}C1{00}, being late for the council\nwill not be tolerated.
+@179
+The next council is early in month {02}o{CB}.\nWhatever you do, don't be late for it...
+@180
+Whatever you do, don't be late for a summons...
+@181
+The next council should be some time away.\nWhatever you do, don't be late for it...
+@182
+The next council is early in month {02}o{CB}.\n{01}C1{00}, being late for the council\nwill not be tolerated.
+@183
+Understood.
+@183.1
+As you wish.
+@183.2
+As you command.
+@184
+I understand.
+@184.1
+Understood.
+@184.2
+Yes!
+@185
+That's my {02}3g,\nwhich has been missing for days...?
+@186
+(Oh no,\n this is the {02}3g\n I got from {01}C1{00}!)\nI-I just remembered something urgent.\nI must be going!
+@186.1
+(Oh no,\n this is the {02}3g\n I got from {01}C1{00}!)\nI-I just remembered something urgent.\nI must be going!
+@187
+Hey, wait!
+@187.1
+Hey, wait!
+@188
+Blast, that was careless of me...
+@188.1
+Oh dear, that was careless of me...
+@189
+A gift?\nIt seems you aren't\ncarrying anything.
+@189.1
+A gift?\nIt seems you aren't\ncarrying anything.
+@190
+Oh, a gift?\nI'm delighted, but\nI've already received one this month.
+@190.1
+Hm, a gift?\nI already got one this month.
+@190.2
+A gift?\nI've already received one this month.\nI can't keep accepting them...
+@190.3
+A gift?\nI already received one this month.\nI can't keep accepting them.
+@191
+Oh, a gift?\nI'm delighted, but you already\nserved me tea this month.
+@191.1
+Hm, a gift?\nBut I already had tea\nwith you this month...
+@191.2
+A gift?\nYou already served me tea this month.\nI can't keep accepting...
+@191.3
+A gift?\nI already had tea with you this month.\nI can't keep accepting.
+@192
+A gift?\nWhat will you give me?
+@192.1
+A gift?\nWhat would you give me?
+@192.2
+A gift?\nWhat might it be?
+@193
+(Considering {01}C'{00}'s standing,\n anything worth less than {02}od\n would be an insult.)
+@193.1
+(Considering {01}C'{00}'s standing,\n anything worth less than {02}od\n would be an insult.)
+@194
+(...Blast,\n I don't have a single thing\n worth {02}od or more.)
+@194.1
+(...Oh no,\n I don't have a single thing\n worth {02}od or more.)
+@195
+What is it?
+@195.1
+What's the matter?
+@196
+No, forgive me...\nI meant to give you something,\nbut I don't have it with me...
+@196.1
+Well, um...\nI left what I meant to give you\nat home...
+@197
+I see. A pity.\nAnother time, then.
+@197.1
+Hehe, don't worry about it.\nI'll look forward to next time.
+@198
+(I don't know {01}C'{00}'s tastes.\n What could they like...?)
+@198.1
+(Hmm, I don't know {01}C'{00}'s tastes.\n What could they like...?)
+@199
+(I don't know {01}C'{00}'s tastes.\n What should I do...?)
+@199.1
+(I don't know {01}C'{00}'s tastes.\n What should I do...?)
+@198.2
+(If I remember right, {01}C'{00}\n likes arms and armor.)
+@198.3
+(If I remember right, {01}C'{00}\n likes works of art.)
+@198.4
+(If I remember right, {01}C'{00}\n likes books.)
+@198.5
+(If I remember right, {01}C'{00}\n likes goods from Nanban lands.)
+@199.2
+(If I remember right, {01}C'{00}\n likes arms and armor.)
+@199.3
+(If I remember right, {01}C'{00}\n likes works of art...)
+@199.4
+(If I remember right, {01}C'{00}\n likes books.)
+@199.5
+(I heard {01}C'{00}\n likes goods from Nanban lands...)
+@200
+(Oops, no, no.\n I need the {02}3g for work.\n I can't hand it over here.)
+@200.1
+(Oh, no.\n I need the {02}3g for work.\n I can't hand it over here.)
+@201
+(Shall I give the {02}3g?)
+@201.1
+(Shall I give the {02}3g?)
+@202
+Oh, this is splendid...\nI accept it with thanks.
+@202.1
+Oh!\nThis is splendid...\nI accept it with thanks.
+@202.2
+Well, well...\nI accept it with thanks.
+@202.3
+Well, well...\nThen I'll accept it.
+@202.4
+...I see.\nThen I'll accept it.
+@203
+Oh, this is for me?\nI accept it with thanks.
+@203.1
+Oh!\nSomething this splendid, for me?\nI accept it with thanks.
+@203.2
+Oh, how lovely!\nI accept it with thanks.
+@203.3
+Oh, thank you very much.\nI'll gladly accept it.
+@203.4
+...Oh, um,\nthank you very much.
+@204
+(They seem very pleased.)
+@204.1
+(They seem quite pleased.)
+@204.2
+(They seem fairly pleased.)
+@204.3
+(They don't seem very pleased.)
+@205
+(They seem very pleased.)
+@205.1
+(They seem quite pleased.)
+@205.2
+(They seem fairly pleased.)
+@205.3
+(They don't seem very pleased...)
+@206
+You've done so much for me.\nI have no words to thank you.
+@206.1
+Thank you so much, as always.\nI don't know how to thank you...
+@207
+It's not much in return,\nbut please take this.
+@207.1
+Here, a token of my thanks...\nIf this will do,\nplease accept it.
+@208
+That's right, {01}C1{00},\nI have something to discuss.
+@208.1
+Oh yes, {01}C1{00},\nI have something to discuss...
+@209
+Yes? What is it?
+@209.1
+Yes? What is it?
+@210
+I'll be blunt.\n{01}C1{00}, what do you say?\nWould you serve me directly?
+@210.1
+I'll be frank.\n{01}C1{00}, what do you say?\nWould you serve me directly?
+@211
+What!\nYou want me to serve you\ninstead of {01}C {00}?
+@211.1
+Eh...?\nYou want me to serve you\ninstead of {01}C {00}?
+@212
+That's right...\nI'm asking because I see promise in you.\nI won't let {01}C {00} suffer for it.
+@212.1
+Yes, I'm asking because I see promise in you.\nI won't let {01}C {00} suffer for it.
+@213
+............
+@213.1
+............
+@214
+It's not a bad offer, surely.\nWhat do you say?\nWill you serve me?
+@214.1
+It's not a bad offer, surely.\nWhat do you say?
+@215
+Really accept the offer to become a direct vassal?
+@215.1
+Really accept the offer to become a direct vassal?
+@216
+...It is more than I deserve...\n{01}C1{00}, I am at your service\nfrom now on.
+@216.1
+...It is more than I deserve.\n{01}C1{00}, I am at your service\nfrom now on.
+@217
+Oh! I'm grateful!\nNothing could please me more!
+@217.1
+Wonderful!\nI knew you would say so.
+@218
+Then please put in a good word\nwith {01}C8{00} for me.\nI'll take my leave.
+@218.1
+Then please put in a good word\nwith {01}C8{00} for me.\nI'll take my leave.
+@219
+It is more than I deserve, but...\nplease pretend you never asked.\nI'll take my leave for today.
+@219.1
+It is more than I deserve, but\nI don't think I can give a good answer.\nI'll take my leave for today...
+@220
+I see... No, forgive me.\nForget about today.
+@220.1
+...I understand.\nPlease forget about today.
+@221
+Forgive me, I'm not feeling well...\nI'll keep you company when I recover.
+@221.1
+I'm sorry, I'm not feeling well...\nI'll keep you company when I recover.
+@222
+Forgive me, I'm busy right now...\nPlease come another day.
+@222.1
+I'm sorry, I'm busy right now.\nCould you come another day?
+@223
+You look quite unwell...\nYour health comes first.\nCome back when you're feeling better.
+@223.1
+Aren't you feeling unwell?\nYour health comes first.\nPlease come back when you're feeling better.
+@224
+Oh, a match, is it?\nI don't mind...\nShall we have a bout, then?
+@224.1
+You'd like a match?\nVery well, let's go.
+@225
+Very well,\nbut I won't go easy on you.
+@225.1
+Understood.\nI won't go easy on you.
+@226
+I'm impressed. A complete defeat.\nI shall give you this.
+@226.1
+I'm impressed.\nIt was a complete defeat.\nPlease accept this.
+@226.2
+I'm impressed. A complete defeat.\nI shall give you this.
+@226.3
+I'm impressed.\nIt was a complete defeat.\nPlease accept this.
+@226.4
+I'm impressed. Utterly beaten.\nI shall give you this.
+@226.5
+I'm impressed.\nIt was a complete defeat.\nPlease accept this.
+@227
+Phew...\nToday was a complete defeat for me.\nPlease accept this.
+@227.1
+...It seems I am beaten.\nPlease accept this.
+@227.2
+...I'm beaten.\nPlease take this.
+@227.3
+You win!\nPlease take this.
+@228
+That is my very soul.\nSomeone like you\nwill put it to good use.
+@228.1
+It is like my very soul...\nSomeone like you\nwill put it to good use.
+@229
+It was a narrow margin, but\na loss is a loss. Well done.\nLet's have another match any time.
+@229.1
+Hmm, quite a skill you have.\nLet's have another match any time.
+@229.2
+Hmm, well done.\nLet's have another match any time.
+@230
+Phew, that was close...\nI won't lose next time!
+@230.1
+It seems I lost today.\nLet's have another match.
+@230.2
+I-I give up...\nLet's have another match.
+@231
+That was a close call.\nLuck was with me.\nLet's have another match any time.
+@231.1
+That was quite a match.\nLet's have another any time.
+@231.2
+You still have far to go.\nLet's have another match any time.
+@232
+Phew, that was close...\nLet's have another match.
+@232.1
+That was a good match.\nLet's have another.
+@232.2
+Hehe, you still have far to go.\nI'll take your challenge any time.
+@233
+Do you really want to become a ronin?
+@234
+You can't change profession while on a mission.
+@235
+{01}C1{00}, there is something\nI must speak to you about.
+@235.1
+{01}C1{00}, there is something\nI must speak to you about.
+@236
+{01}C1{00}, I have something to tell you.
+@236.1
+{01}C1{00}, there is something\nI must speak to you about.
+@237
+What is it? So formal.
+@237.1
+What is it? So formal.
+@237.2
+What is it? So formal.
+@238
+...Yes. I've been thinking,\nand I wish to leave your service.
+@238.1
+I, {02}{01}f, have been thinking,\nand I wish to leave your service.
+@239
+I've been thinking,\nand I want to leave your service.
+@239.1
+Selfish as it is, I, {02}{01}f,\nwish to leave your service.
+@240
+What, leave my service?!\nWhy?!
+@240.1
+What, you'd leave my service?!\nWhat are you saying all of a sudden!
+@241
+Leave my service?!\nWhy?!
+@241.1
+You're leaving my service?\nWhy? Tell me the reason!
+@242
+...I have thought it through.\n{01}C1{00}, please indulge\nmy selfishness without a word.
+@242.1
+Please don't ask me why...\n{01}C1{00}, I beg you,\ngrant me this selfish wish!
+@243
+...I have thought it through.\n{01}C1{00}, please indulge\nmy selfishness without a word.
+@243.1
+Please don't ask me why...\n{01}C1{00}, I beg you,\ngrant me this selfish wish!
+@244
+This is no joke!\nWhy would you abandon me?\nAre you saying I have failed you?
+@244.1
+This is no joke!\nWhy abandon me, {02}{01}f?\nHave I failed you somehow?
+@245
+Why, so suddenly...?\nI can't let you leave without a reason.\nIf you're unhappy, tell me.
+@245.1
+Please wait!\nIs something not to your liking?\nWhy so suddenly...?
+@246
+No, I mean nothing by it.\nPlease, say nothing\nand dismiss me...
+@246.1
+No, I mean nothing by it.\nPlease, say nothing\nand dismiss me...
+@247
+No, I mean nothing by it.\nPlease, say nothing\nand dismiss me...
+@247.1
+It isn't that I'm unhappy.\nPlease, say nothing\nand dismiss me...
+@248
+............
+@248.1
+............
+@249
+...Very well, I won't ask.\nFrom now on you are no child of mine,\nand I no parent of yours.
+@249.1
+...Very well, I won't ask.\nBut from this moment\nyou are a stranger to me.
+@249.2
+...Then I will ask nothing.\nBut from this moment\nyou are a stranger to me.
+@250
+Next time we meet, we will likely be rivals in trade...
+@250.1
+Next time we meet, we will surely be rivals in trade...
+@250.2
+Next time we meet, we will likely be enemies.
+@250.3
+Next time we meet, we will surely be enemies.
+@251
+...Very well, I won't ask.\nFrom now on you are no child of mine,\nand I no parent of yours.
+@251.1
+...I understand.\nAs of today our bond\nof lord and retainer is broken. Go!
+@251.2
+...Then I will ask nothing more.\nAs of today you are a stranger to me.\nGo wherever you please!
+@252
+{01}C1{00}, I'm sorry...
+@252.1
+{01}C1{00}, forgive me.\nI will never forget your kindness...
+@253
+{01}C1{00}...
+@253.1
+{01}C1{00}...\nI will never forget your kindness.
+@254
+Why are you dawdling?!\n{01}C{07}SNever show your face before me again!
+@254.1
+Why are you dawdling?!\n{01}C{07}SPlease leave!
+@255
+I can't leave a rival in trade here.\n
+@255.1
+I can't leave an enemy here.\n
+@256
+I don't want to see your face anymore.\nPlease leave at once!
+@256.1
+What are you doing?\nYou're no longer one of {01}C{A8}{01}.\nLeave at once!
+@257
+...Farewell!
+@257.1
+Yes, sir! I'll take my leave!
+@258
+Well then, this is goodbye...
+@258.1
+I'll take my leave...
+@259
+{01}C1{00}!\nIs it true you're becoming a ronin?!
+@259.1
+{01}C1{00}!\nIs it true\nthat you're becoming a ronin?
+@260
+{01}C1{00}!\nIs it true\nthat you're becoming a ronin?!
+@260.1
+{01}C1{00}, please wait!\nIs it true\nthat you're becoming a ronin?!
+@261
+Yes, I'm sorry.\nI have my reasons.\nIt's a long story...
+@261.1
+Yes, I'm sorry.\nI have my reasons.\nIt's a long story...
+@261.2
+Yes, I'm very sorry.\nI have my reasons.\nIt's a long story...
+@261.3
+Yes, I'm sorry.\nI have my reasons.\nIt would be a long story...
+@262
+No, if it's your decision,\nI won't pry.\n...However!
+@262.1
+No, if it's your decision,\nI won't pry.\n...However!
+@263
+No, if it's your decision,\nI won't ask any more.\n...However.
+@263.1
+No, since it's your decision,\nI won't ask any more.\n...However.
+@264
+However?
+@264.1
+However?
+@265
+For a time I too will be a ronin\nand stand where you stand.\n\nBut if you ever serve someone again,\nI will serve you once more.\nKeep that in your heart!
+@265.1
+For a time I too will be a ronin\nand stand where you stand.\n\nBut if you ever serve someone again,\nI wish to serve you once more.\nI beg you!
+@266
+From now on I too will be a ronin\nand stand where you stand.\n\nBut if you ever serve someone again,\nI will serve you once more.\nDon't forget that...
+@266.1
+From now on I too will be a ronin\nand stand where you stand.\n\nBut if you ever serve someone again,\nI wish to serve you once more.\nPlease keep that in your heart...
+@267
+Yes, I gratefully accept\nyour feelings.\n{01}C1{00}, take care.
+@267.1
+Thank you...\n{01}C1{00}, let's meet again.
+@267.2
+Yes, I gratefully accept\nyour feelings.\n{01}C1{00}, take care...
+@267.3
+Thank you...\n{01}C1{00}, take care...
+@268
+Then I'll wait for that day.\nFarewell!
+@268.1
+Then I will wait for that day.\nFarewell!
+@269
+Then I'll wait for that day.\nGood luck in battle!
+@269.1
+Then I will wait for that day.\nGood luck in battle!
+@270
+You...
+@271
+I'm putting you through hardship too...\nForgive my selfishness.
+@272
+No, I will follow you\nall my life.\nCome, let's move at once.
+@273
+Thank you.\nThen for now, let's move\nto {02}{15}e in this province.
+@274
+Leaving this room\nis somehow sad...\nNo, I won't have regrets now.
+@274.1
+Leaving this room\nis a little sad...\nNo, I have no regrets now.
+@275
+Well, for now I'll move\nto {02}{15}e in this province.
+@275.1
+Well, for now I'll move\nto {02}{15}e in this province.
+@276
+Really attack {02}{03}g?
+@277
+Hm? What is it, {01}C1{00}?\nWhy so solemn...
+@277.1
+Oh? What is it, {01}C1{00}?\nWhy so solemn...
+@278
+Oh? {01}C1{00},\nyou look pale.
+@278.1
+Oh? {01}C1{00},\nyou look pale...
+@279
+...N-no, it's nothing.
+@279.1
+...N-no,\nit's nothing.
+@280
+...I see.\nWorking too hard, perhaps?
+@280.1
+...I see.\nWell, as long as you're fine.
+@281
+............
+@281.1
+............
+@282
+Hm? {01}C1{00},\nwhat is it?
+@282.1
+Hmm? {01}C1{00},\nwhat is the matter?
+@283
+Hmm? {01}C1{00},\nis something wrong?
+@283.1
+Hm? {01}C1{00},\nis something wrong?
+@284
+...Don't ask why.\n{01}C1{00}, your life is mine!
+@284.1
+...Don't ask why.\n{01}C1{00}, your life is mine!
+@284.2
+...Don't ask why.\n{01}C1{00}, your life is mine!
+@284.3
+...Please don't ask why.\n{01}C1{00}, I must take your life!
+@285
+{01}C1{00}!\nFor my own reasons, I must take your life!
+@285.1
+{01}C1{00}!\nFor my own reasons, I must take your life!
+@285.2
+{01}C1{00}!\nFor my own reasons, I must take your life!
+@285.3
+{01}C1{00}, prepare yourself!\nFor my own reasons, I must take your life!
+@286
+What!\n{01}C1{00}, have you lost your mind?!
+@286.1
+You insolent wretch!\nI'll cut you down myself!
+@287
+Eek!\n{01}C1{00}, what are you doing?!
+@287.1
+I thought something was strange.\nIt's you who should prepare yourself!
+@288
+...Now, I must get away\nbefore there's an uproar.
+@288.1
+I did it... I must get away\nbefore there's an uproar.
+@289
+Ugh... It can't be helped.\nIt's a pity, but I'll withdraw.
+@289.1
+Ugh...\nIt can't be helped, I'll withdraw.
+@290
+The day will come when we settle this...
+@290.1
+Tougher than I thought.\nWe'll settle this another day...!
+@291
+That I should lose... Martial arts run deep.\nI cannot die until I have seen\ntheir summit with my own eyes...
+@291.1
+Eek!\nToo strong! Help!
+@291.2
+...Y-you'll pay for this!\nI'll get you back some day...
+@292
+That I should lose... Martial arts run deep.\nI cannot die until I have seen\ntheir summit with my own eyes...!
+@292.1
+Too strong!\nI'm no match for this...
+@292.2
+Y-you'll pay for this!\nI'll get you back some day...
+@293
+H-hey!\nWhat did I hire you for...?\nWait for me!
+@294
+It's a pity to die here, but...\nbeing killed by you must be fate.\nCome, kill me and be done with it!
+@294.1
+Ugh...\nSo my luck has run out.\nCome, finish me!
+@295
+A worthy end.\nThen let it be a single stroke!\nHah!
+@295.1
+A worthy end.\nThen let it be a single stroke!\nHah!
+@296
+Eek!!\nP-please, spare my life!
+@296.1
+Eeek!!\nP-please, spare my life!
+@297
+If you have any pride, prepare yourself!\nHah!
+@297.1
+If you have any pride, prepare yourself!\nHah!
+@298
+Y-you want money?\nThen I'll give it to you!\nI'll give it to you, so let me go!
+@298.1
+W-wait!\nIf you want money, I'll give you all of it...\nPlease, let me go!
+@299
+Let them go?
+@300
+Thank goodness...\nW-well then,\nI'll take my leave.
+@300.1
+I-I'm saved...
+@301
+Guoh...!!
+@301.1
+Gufh!
+@301.2
+Ugh!!
+@301.3
+Gwaaah!
+@301.4
+Gyaaah!
+@301.5
+Hiiee!
+@301.6
+Waaah!
+@301.7
+How bitter...
+@302
+N-no... it can't be...
+@302.1
+Uguh!
+@302.2
+Gofh!!
+@302.3
+Uh... ugh...
+@302.4
+Kyaaah!
+@302.5
+Hiiee!
+@302.6
+Nooo!
+@302.7
+So this... is the end...
+@303
+...Now, what shall I do?
+@303.1
+Then prepare yourself.\nIf you have a death poem, I will hear it.
+@303.2
+Come on, make your peace!\nBegging for your life won't help!
+@304
+...Now, what shall I do?
+@304.1
+Then please prepare yourself.\nIf you have a death poem, I will hear it.
+@304.2
+Ready to meet your end?\nBegging for your life won't help!
+@305
+Hey! Hand over all your money!\nThen get lost!
+@305.1
+Come on, hand over all your money!\nThen get lost!
+@306
+Begging for your life with money...\nAren't you ashamed, as a martial artist?\nBut I will let you go this time.
+@306.1
+Oh, money, is it?\nVery well, that will do.\nNow be gone!
+@307
+Begging with money, how pathetic...\nYou're not even worth killing.\nJust go.
+@307.1
+Fine, I'll let you go.\nJust go.
+@308
+Begging for your life...\nAren't you ashamed, as a martial artist?\nBut I will let you go this time.
+@308.1
+You're not even worth killing.\nBe gone!
+@309
+Begging for your life, how pathetic...\nYou're not even worth killing.\nJust go.
+@309.1
+Fine, I'll let you go.\nJust go.
+@310
+...The path of martial arts begins\nwith facing up to defeat.\nI will let you go this time.
+@310.1
+It would be a waste to kill you here...\nWe'll meet again on the battlefield.\n...Now go!
+@310.2
+It would be a waste to kill you here...\n...Now go!
+@311
+That's enough...\nNow you know how unskilled you are.\nGo and train again from the start.
+@311.1
+Don't throw your life away.\nThere must be things you have to do...\nNow go.
+@312
+Tch! You don't even have money?!\nThen I've no use for you!\nTake this!
+@312.1
+You don't even have money?\nThen I've no more use for you.\nTake this!
+@313
+Begging forgiveness with money... pathetic.\nYou're the lowest of the low!\nHah!
+@313.1
+Begging forgiveness with money, how pathetic...\nYou're the lowest of the low!\nHah!
+@314
+Tch! Begging for your life, how gutless.\nThis is what scum like you get!\nTake this!
+@314.1
+Begging for your life, how gutless.\nThis is what people like you get!\nHah!
+@315
+Begging for your life at a time like this, how unsightly!\nI'll finish you off!\nHah!
+@315.1
+Begging for your life at a time like this...\nThere's nothing more to say.\nPrepare yourself!
+@316
+Don't act tough!\nI'll give you what you asked for!\nTake this!
+@316.1
+Fine, I understand.\nI'll give you what you asked for!\nHah!
+@317
+Your resolve is admirable, but...\nI can't let you go here!\nPrepare yourself!
+@317.1
+A worthy resolve.\n...Hah!
+@319
+Y-you win... But your life\nwon't last long either...\nDon't think you can escape...
+@319.1
+Ugh, you got me...\nBut this isn't over.\nDon't think you can escape...
+@320
+For the crime of deserting our village,\natone with your death!\nThe final blow!
+@320.1
+For the crime of deserting our village,\natone with your death!\nThe final blow!
+@321
+To defeat me...\nw-well done...
+@321.1
+To defeat me...\nw-well done...
+@322
+Prepare yourself!
+@322.1
+Prepare yourself!
+@324
+Fallen like dew, vanishing like dew, such is my life.\nEven Naniwa is a dream within a dream...
+@325
+So this too is retribution...
+@326
+I wished to play kemari once more...\nWas I born\nin the wrong age...
+@327
+If only I had gunpowder,\nmy head would not be put on display...
+@328
+Fifty years of a man's life,\nset against the realm of heaven,\nare but a fleeting dream...
+@329
+Matsu... I'm sorry...\nForgive me...
+@330
+I leave no words behind, and go at last.\nI will not lose my way; I leave it to fate...
+@331
+Loyalty and treason are not two gates;\nthe great Way runs through the heart's source.\nAfter {02}yd years' dream, I return to the One.
+@332
+So five generations of Asakura end here...
+@333
+{02}yd years, one dream; glory, a cup of sake.\nI know not life, nor do I know death.\nThe years were but a dream...
+@334
+Watch well\nhow a man of Satsuma dies!!
+@335
+Life is like climbing a slope\nwith a heavy burden on your back...\nWas my burden too heavy...?
+@336
+Will the great house of Takeda\nend with me...?
+@337
+Once more\nI wished to command to my heart's content...
+@338
+I ask only this:\nsink my bones in Lake Suwa.
+@339
+So I misread the times...
+@340
+Is this too the will of Heaven...?
+@341
+Lord,\nI come to Thee...
+@342
+With the clear moon of my heart before me,\nI go, lighting the darkness of this fleeting world...
+@343
+Tea?\nIt seems you don't have\nany tea utensils.
+@343.1
+Tea?\nIt seems you don't have\nany tea utensils.
+@344
+Hm, tea...\nBut I already had some this month.
+@344.1
+Tea?\nI've already had some this month.\nI can't keep accepting kindness...
+@345
+Hm, tea...\nBut I already received a gift this month,\nso no more...
+@345.1
+Tea?\nI already received a gift this month.\nI can't keep accepting kindness...
+@345.2
+Tea?\nI already received a gift this month.\nLet's leave it for another time.
+@344.2
+Tea?\nI've already had some this month.\nLet's leave it for another time.
+@346
+Tea?\nThen I'd be glad to have some.
+@346.1
+Oh, tea?\nI'll gladly have some.
+@347
+(...Considering {01}C'{00}'s standing,\n I must use utensils worth\n at least {02}od, or it would be rude.)
+@347.1
+(...Considering {01}C'{00}'s standing,\n I must use utensils worth\n at least {02}od, or it would be rude.)
+@348
+(...Blast,\n I don't have a single utensil\n worth {02}od or more.)
+@348.1
+(...Oh no,\n I don't have a single utensil\n worth {02}od or more.)
+@350
+No, forgive me...\nI forgot\nmy tea utensils...
+@350.1
+Um...\nI left my tea utensils at home...
+@352
+(Then this time I'll use\n my most valuable piece, the {02}3g.)
+@352.1
+(Right, this time I'll use\n my most valuable piece, the {02}3g.)
+@353
+Oh! This is splendid tea...\nI accept it with thanks.
+@353.1
+Well, well, a fine performance...\nI accept it with thanks.
+@353.2
+A fine performance.\nThen I'll accept.
+@353.3
+...I see.\nThen I'll accept.
+@354
+Ah...\nDrinking tea like this\ncalms the heart.
+@354.1
+Drinking tea\nsoothes the heart, doesn't it?
+@354.2
+A fine performance.\nThen I'll accept.
+@354.3
+...Thank you.
+@358
+The tea you made\nwas truly splendid!\n
+@358.1
+The tea you made\nwas truly splendid.\n
+@359
+{01}C1{00}, today there is\nsomething I must speak to you about.
+@359.1
+{01}C1{00}, today there is\nsomething I must speak to you about.
+@360
+What is it? So formal.
+@360.1
+What is it? So formal.
+@361
+I'll be frank.\n{01}C8{00} would very much\nlike to have you join us.
+@361.1
+I'll be frank.\n{01}C8{00} would very much\nlike to have you join us.
+@362
+I'll be frank.\nWouldn't you like to put your talents\nto use under Lord {02}{03}f?
+@362.1
+I'll be frank.\nWouldn't you like to put your talents\nto use under Lord {02}{03}f?
+@363
+What!\nYou'd take me, a mere ronin...?\nDo you mean it?
+@363.1
+What!\nYou'd take me, a retainer of {02}{0B}e...?\nDo you mean it?
+@364
+Eh?!\nYou'd take me, a ronin...?\nAre you serious?
+@364.1
+Eh?!\nYou'd take me, who serves {02}{0B}e...?\nAre you serious?
+@365
+Indeed...\nIf you would come to us,\nit would be like a hundred men!
+@365.1
+Indeed...\nIf you would come to us,\nit would be like a hundred men!
+@366
+I don't lie.\nIf you would come to us,\nit would be like a hundred men!
+@366.1
+I don't lie.\nIf you would come to us,\nit would be like a hundred men!
+@367
+............
+@367.1
+............
+@368
+What do you say?\nLet me hear a good answer.
+@368.1
+What do you say?\nWon't you give me\na good answer...?
+@370
+(Considering {01}C'{00}'s record,\n it would be rude not to welcome them\n as a {02}yd.)
+@370.1
+(Considering {01}C'{00}'s record,\n it would be rude not to welcome them\n as a {02}yd.)
+@371
+(If I add {01}C'{00} to my followers...)
+@371.1
+(If I add {01}C'{00} to my followers...)
+@372
+(Hm, {01}C'{00} would need\n this much in stipend.)
+@372.1
+(Hm,\n I still have stipend to spare.\n Recruiting is no problem.)
+@373
+(Well, {01}C'{00} would need\n this much in stipend.)
+@373.1
+(Right,\n I still have stipend to spare.\n Recruiting is no problem.)
+@374
+(Then shall I really\n try to recruit {01}C1{00}?)
+@374.1
+(Then shall I really\n try to recruit {01}C1{00}?)
+@375
+(...No,\n I'll leave it for today.)
+@375.1
+(...Hmm,\n I'll leave it for today.)
+@376
+(Blast,\n I can't afford\n {01}C'{00}'s stipend...)
+@376.1
+(Oh no!\n I can't afford\n {01}C'{00}'s stipend...)
+@377
+...?\n{01}C1{00}, what is it?
+@377.1
+...?\n{01}C1{00}, what's the matter?
+@378
+Eh?\nN-no, it's nothing.
+@378.1
+Eh?\nN-no, it's nothing.
+@379
+...I see.\nWell, as long as you're fine.
+@379.1
+...I see.\nWell, as long as you're fine.
+@380
+(Come to think of it,\n I'm in no position to recruit anyone...)
+@380.1
+(Come to think of it,\n I'm in no position to recruit anyone...)
+@383
+I'll be frank.\n{01}C1{00}, we would very much\nlike you to join our side.
+@383.1
+I'll be frank.\n{01}C1{00}, we would very much\nlike you to join our side.
+@384
+What!\nYou'd take me, a mere ronin...?\n{01}C1{00}, do you mean it?
+@384.1
+What!\nYou'd take me, who serves {02}{0B}e...?\n{01}C1{00}, do you mean it?
+@385
+Eh?!\nYou'd take me, a ronin...?\n{01}C1{00}, are you serious?
+@385.1
+Eh?!\nYou'd take me, who serves {02}{0B}e...?\n{01}C1{00}, are you serious?
+@389
+...It is more than I deserve.\nPlease, introduce me to {01}C8{00}.
+@389.1
+...It is more than I deserve.\nPlease, introduce me to {01}C8{00}.
+@390
+Oh! I'm grateful!\n{01}C {00} will surely be pleased!
+@390.1
+You accept?!\n{01}C {00} will surely be pleased!
+@391
+Then I look forward to working with you.
+@391.1
+I look forward to working with you.
+@392
+It is more than I deserve!\nI am at your service.
+@392.1
+It is more than I deserve.\nI am at your service.
+@392.2
+Understood.\n\n\n...If I am needed that much,\nI will give up the life of a samurai\nand serve {02}{02}{EC} from today.
+@392.3
+Understood.\n\n\n...If I am needed that much,\nI will serve {02}{02}{EC}\nfrom today.
+@393
+Oh! I'm grateful!\nNothing could please me more!
+@393.1
+Wonderful!\nI couldn't be happier.
+@394
+Those are words I don't deserve!\nThen I'll take my leave for now.
+@394.1
+The honor is mine!\nThen I'll take my leave for now...
+@395
+It's a kind offer, but...\nI can't do that.\nLet's pretend it never happened.
+@395.1
+It's a kind offer, but...\nlet's pretend it never happened.
+@396
+It is more than I deserve, but...\nI too have men to look after...\nLet's pretend it never happened.
+@396.1
+It is more than I deserve, but\nI too have my men's livelihoods to keep.\nLet's pretend it never happened.
+@397
+I see...\nForgive me, then.
+@397.1
+I see...\nWhat a pity.
+@398
+You have always\nbeen so good to me.\n\nThis is...\n...No, it seems\nthe time isn't right yet.
+@398.1
+You have always\nbeen so good to me.\n\nThis is...\n...No, it seems\nthe time isn't right yet.
+@400
+Time sure flies\nwhen I'm talking with you.\nI'm lucky to have someone good to talk to.
+@400.1
+Time sure flies\nwhen I'm talking with you.\nHeh, if only every customer were like you...
+@401
+Time seems to pass so quickly\nwhen I'm talking with you.\n\nTruly, I'm fortunate to have\nsomeone like you I can trust.
+@401.1
+Talking with you,\nI forget my daily troubles.\n\nI'm truly fortunate to have\nsomeone like you I can trust.
+@402
+Time seems to pass so quickly\nwhen I'm talking with you.\nTruly, we get along well.
+@402.1
+Hehe, lately talking with you\nis my only pleasure.\nWe really do get along well.
+@403
+I'm counting on you.
+@403.1
+I look forward to working with you.
+@404
+I'm counting on you.
+@404.1
+I look forward to working with you.
+@405
+Thanks, as always!
+@406
+Thank you, as always.\nI'm truly grateful.
+@406.1
+Thank you, as always.
+@407
+You haven't yet mastered {02}yd.\nPlease, master it.
+@407.1
+It seems you haven't yet\nmastered {02}yd...\nPlease do master it.
+@408
+By the way,\nI hear you have mastered {02}yd.\nWould you let me test you?
+@408.1
+By the way,\nI hear you have mastered {02}yd.\nWould you let me test you?
+@409
+I hear you have mastered {02}yd.\nI too know\na little about it...\nWould you show me\nyour skill here, just once?
+@409.1
+I hear you have mastered {02}yd.\nI too know\na little about it...\nWould you show me\nyour skill here, just once?
+@410
+Hmm, splendid!
+@410.1
+Splendid!
+@411
+Splendid! As expected of you, {01}C1{00}.\nI am deeply impressed!
+@411.1
+Splendid! As expected of you, {01}C1{00}.\nI am deeply impressed!
+@412
+You seem to be off form today.
+@412.1
+You seem to be off form today.
+@413
+Come back when you have\nmade more of a name with the sword.
+@413.1
+Come back when your swordsmanship\nhas improved.
+@414
+Forgive me, but your swordwork\nstill has a long way to go.
+@414.1
+Forgive me, but your swordwork\nstill has a long way to go...
+@415
+I see promise in you, so I have a request.\nI want to fight someone with backbone.\nWill you have a match with me?
+@415.1
+I see promise in you, so I have a request.\nI want to fight someone with backbone...\nWill you have a match with me?
+@416
+Yeah, I see promise in you, so I've a favor.\nI want to test my skill with a gun.\nPlease, have a match with me, will ya?
+@417
+By the way,\nwill you have a match with me?
+@417.1
+By the way,\nwould you have a match with me?
+@418
+Keep it up, friend.
+@418.1
+Take care of yourself.
+@418.2
+Please, let's have more matches.
+@418.3
+Please, let's have more matches.
+@419
+Come back when you've learned\na little more about naval warfare.
+@420
+You need more training.
+@420.1
+Please keep training.
+@421
+By the way, I'm confident\nin my naval skills.\n{01}C1{00}, will you take me on?
+@422
+Hmm...\n{01}C1{00}! I give up!
+@422.1
+Hmm...\n{01}C1{00}, you win!
+@423
+It seems I win\nthis time.
+@424
+Infantry is the basis of war.\nCome back when you've gotten\nbetter at handling infantry.
+@425
+By the way, I'm confident\nin my command in battle.\n{01}C1{00}, will you take me on?
+@426
+Hmm, I can't bow to you yet.\nStudy tactics a little more.
+@427
+I hear your tactics\nare quite something, {01}C1{00}...\n\nWould you show me\nyour skill here, just once?
+@428
+Hmm, as expected of you, {01}C1{00}.
+@428.1
+As expected of you, {01}C1{00}!
+@429
+You haven't mastered the skill.\nYou still have far to go.
+@430
+You haven't mastered the formations.\nYou still have far to go.
+@431
+You haven't mastered the famous sights.\nYou still have far to go.
+@432
+You lack experience.\nGo and gain all kinds\nof experience.
+@432.1
+You still seem to\nlack experience.\nPlease gain all kinds of experience.
+@433
+Even you\ncan't be asked to do something\nthat costs this much.
+@434
+By the way, {01}C1{00},\nwhat do you think of the world today?
+@435
+The world today?
+@436
+Yes.\nSince the great Onin War the realm\nhas been in chaos, and the people suffer.
+@437
+I want to do what little I can\nto set the world right.\nBut for that, I need money.
+@438
+With half of your money, {01}C1{00},\nmany people could be saved.\nWill you lend me your help?
+@439
+Oh, how can I thank you...\nI know, it's a trifle,\nbut please accept this.
+@440
+I-I am deeply grateful!\nThen please accept this.
+@441
+I see...\nSo not even you, {01}C1{00},\nwill help me.
+@442
+I see...
+@443
+I want to leave a token\nthat {01}C1{00} was my friend.
+@443.1
+I am proud to have\n{01}C1{00} as a friend.\nI want to leave that pride in some form.
+@444
+Say, I see promise in you,\nand there's a favor I'd like to ask.\nGot a moment?
+@445
+{01}C1{00}, I have a request.
+@445.1
+{01}C1{00}, I have a request...
+@446
+Forgive me for being selfish, but\ncould you give me something\nthat represents me?
+@446.1
+I'm sorry to be selfish, but\ncould you give me something\nthat represents me?
+@447
+Sorry, but could you give me\nsomething that represents you?
+@447.1
+Could you give me\nsomething that represents you?\nI want to be like you...
+@448
+As a token of my loyalty,\nwould you give me something?\nIt will be a treasure of my house forever.
+@448.1
+As a token of my loyalty,\nwould you give me something?\nI want to make it a treasure of my house...
+@449
+...Forgive me, but\nI have nothing with me right now.
+@449.1
+I'm sorry,\nI have nothing with me right now.
+@450
+I see...\nA pity, but next time...
+@450.1
+Then next time...
+@450.2
+Then next time...
+@451
+Whoa! You'd give me something this fine?!\nIt'll be a family treasure forever!!\n\nThis is from me, as thanks.
+@451.1
+Whoa! I can have something this fine?!\nIt'll be a family treasure forever!!\n\nThis is from me, as thanks.
+@451.2
+This is a splendid piece!\nIt will be a family treasure forever!!\n\nThis is a token of my feelings.
+@451.3
+How splendid!\nI will treasure it all my life!!\n\nThis is a token of my feelings.
+@452
+Whoa... this is what suits me?\nSo this is\nwhat you think of me...
+@452.1
+Whoa... this is what suits me?\nSo this is\nwhat you think of me...
+@452.2
+This is what suits me?\nSo this is\nwhat you thought of me, {01}C1{00}...
+@452.3
+This is what befits me...\nSo this is\nwhat you thought of me, {01}C1{00}...
+@452.4
+This is what suits me?\nSo this is\nwhat you thought of me, {01}C1{00}...
+@453
+(Hmm...\n it seems they didn't\n like it.)
+@453.1
+(Oh...\n it seems they didn't like it.)
+@454
+"{02}=e"\ncan now be played.
+@455
+If you save the current data,\n"{02}=e" can be chosen\nwhen you start a new game.
+@456
+Then next time...
+@456.1
+Then next time...
+@457
+...What are you saying?\nI have no intention of making a merchant my {01}C{AA}{01}.\nIf you insist, give up being a merchant and come back.
+@457.1
+...What are you saying?\nYou are a merchant, aren't you?\nI can't employ you unless you change your status.
+@458
+(Shall I offer my money\n and ask for better treatment?)
+@459
+...Please accept this.\nI humbly ask for\ngood treatment...
+@460
+Oh! Well, well!\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
+@460.1
+Oh, this is most welcome!\n{01}C1{00}, I will welcome you\nwith the best treatment I can.
+@460.2
+Yes, I accept this with thanks.\nI will see that you are welcomed\nas a vassal with good treatment.
+@460.3
+Hm, I'll take it.\nI'll consider your treatment a little.\nDon't expect too much.
+@460.4
+Oh, this is most welcome!\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
+@460.5
+Yes, I accept this with thanks.\nI will see that you are welcomed\nas a vassal with good treatment.
+@460.6
+Hm, I'll take it.\nI'll consider your treatment a little.\nDon't expect too much.
+@460.7
+Yes, I accept this with thanks.\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
+@460.8
+Hm, I'll take it.\nI'll consider your treatment a little.\nDon't expect too much.
+@460.9
+Hm, I'll take it.\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
+@460.10
+...I see.\nThen I'll take it.
+@461
+I am utterly tired\nof being a daimyo.\nWould you become daimyo?\nIn exchange for all the wealth\nyou have saved at home,\nI will hand over my castle.
+@462
+If you hand your castle to me,\nmy lord, what will you do?
+@463
+Once I lay down the burden of daimyo,\nI will serve you as chief retainer.
+@464
+I am serious.\nWhat do you say?
+@465
+Heavens, no!\nI could never serve\nas a daimyo.
+@466
+I see, what a pity.
+@467
+Then, unworthy as I am,\nI will take charge of {02}{15}e.
+@468
+Oh, truly?!
+@469
+But before I take on {02}{15}e,\nI wish to settle the matter\nof my shop and the rest.
+@470
+Hm, if that's the case,\nI'll send someone.
+@471
+Then please send for the head clerk\nof {02}{83}{A3} in {02}{16}e.
+@472
+Then I'll fetch him.\nPlease wait a moment.
+@473
+Master!\nWhatever has happened?!
+@474
+Well, you see...\nfor these reasons,\nI am to become a daimyo.
+@475
+Truly?!\nWhy, congratulations!\nBut what will become of {02}{83}{A3}?
+@476
+I mean to entrust {02}{83}{A3} to you.\nFrom now on you are the master of {02}{83}{A3}.\nI'm counting on you.\nWhile we're at it,\nwould you tell my wife what happened,\nand have her come to {02}{15}e?
+@477
+I understand...\nI will tell your wife myself.\nAnd I will look after {02}{83}{A3}.\n...Master, even after you become daimyo\nyou will surely need money.\nI will send you money from the shop every month.\nMaster, so this really is farewell.\nPlease take good care of yourself.\nThank you for everything... Farewell.
+@478
+I mean to entrust {02}{83}{A3} to you.\nFrom now on you are the master of {02}{83}{A3}.\nTake good care of it.
+@479
+I understand...\nI will look after {02}{83}{A3}.\n\n...Master, even after you become daimyo\nyou will surely need money.\nI will send you money from the shop every month.\nMaster, so this really is farewell.\nPlease take good care of yourself.\nThank you for everything... Farewell.
+@480
+Sorry to keep you waiting.\nWell then...
+@481
+From now on, you are the daimyo.\nI am at your service.
+@482
+You are too kind.\nI ask for your guidance\nfrom now on.
+@483
+Our house's final goal is {02}yd.
+@483.1
+Our house's final goal is {02}yd.
+@484
+So for now, to develop our lands,\nwe are putting weight on\n{02}yd.
+@484.1
+So for now, to develop our lands,\nwe are putting weight on\n{02}yd.
+@485
+For now, to strengthen our defenses,\nwe are carrying out {02}yd.
+@485.1
+For now, to strengthen our defenses,\nwe are carrying out {02}yd.
+@486
+Our immediate goal is to take {02}{15}e,\nso we are carrying out {02}yd.
+@486.1
+Our immediate goal is to take {02}{15}e,\nso we are carrying out {02}yd.
+@487
+Our immediate goal is to defeat {02}{0B}e,\nso we are carrying out {02}yd.
+@487.1
+Our immediate goal is to defeat {02}{0B}e,\nso we are carrying out {02}yd.
+@488
+Our immediate goal is to unify {02}{1F}e,\nso we are carrying out {02}yd.
+@488.1
+Our immediate goal is to unify {02}{1F}e,\nso we are carrying out {02}yd.
+@489
+Our immediate goal is to unify {02}zd,\nso we are carrying out {02}yd.
+@489.1
+Our immediate goal is to unify {02}zd,\nso we are carrying out {02}yd.
+@490
+To unify the realm,\nthis month we are carrying out {02}yd.
+@490.1
+To unify the realm,\nthis month we are carrying out {02}yd.
+@491
+(Shall I propose "{02}yd"?)
+@491.1
+(Shall I propose "{02}yd"?)
+@492
+Yes, sir!
+@492.1
+Understood.
+@493
+(Now, if I propose "{02}yd",\n which target should I suggest?)
+@493.1
+(Now, if I propose "{02}yd",\n which target should I suggest?)
+@494
+(Shall I propose\n "{02}yd" against {02}{0B}e?)
+@494.1
+(Shall I propose\n "{02}yd" against {02}{0B}e?)
+@495
+(Shall I propose\n "{02}yd" for {02}{15}e?)
+@495.1
+(Shall I propose\n "{02}yd" for {02}{15}e?)
+@496
+(Shall I propose "{02}yd"?)
+@496.1
+(Shall I propose "{02}yd"?)
+@497
+Hmm... {02}yd, is it...
+@497.1
+I see...\n{02}yd, is it?
+@498
+Oh, {02}{83}{A3} wishes to invest\nin our {02}{01}e house?\nAnd what will you invest?
+@498.1
+Oh! {02}{83}{A3} will invest\nin the {02}{01}e house?\nAnd what will you invest?
+@499
+Oh, {02}yd, is it?\nThen how much would that be\nin money?
+@499.1
+{02}yd, is it?\nThen how much would that be\nin money?
+@500
+Oh! Well, well!\n{02}{83}{A3}, I gladly accept\nyour goodwill.
+@500.1
+Oh, this is most welcome!\n{02}{83}{A3}, I thank you.
+@500.2
+Yes, I accept this with thanks.\n{02}{83}{A3}, I am glad.
+@500.3
+Yes, I'll take it.\n{02}{83}{A3}, well done.
+@500.4
+I'll take what I'm given.
+@501
+Oh, how wonderful!\n{02}{83}{A3}, I gladly accept\nyour goodwill.
+@501.1
+I'm most grateful.\n{02}{83}{A3}, thank you.
+@501.2
+Then I accept this with thanks.\n{02}{83}{A3}, I'm glad.
+@501.3
+Then I'll gladly take it.\n{02}{83}{A3}, well done.
+@501.4
+Then I'll accept it.
+@502
+I'd like to name you purveyor\nto our {02}{01}e house.\nWill you accept?
+@502.1
+I'd like to name you purveyor\nto our {02}{01}e house.\nWhat do you say, will you accept?
+@503
+Oh, good!\nI'm counting on you.
+@503.1
+Wonderful!\nI'm counting on you from now on.
+@504
+I see, what a pity.
+@504.1
+I see...\nWhat a pity.
+@505
+{02}zd can now be chosen\nas a {02}yd part in "New Officers".

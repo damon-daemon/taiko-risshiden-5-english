@@ -1,0 +1,105 @@
+0	Sword Saint
+1	Swordsman
+2	Fencer
+3	Swordfighter
+4	Peerless Spear
+5	Spear Master
+6	Spear Expert
+7	Spear Adept
+8	Peerless Kunai
+9	Kunai Master
+10	Kunai Expert
+11	Kunai Adept
+12	Peerless Chain
+13	Chain Master
+14	Chain Expert
+15	Chain Adept
+16	Peerless Gun
+17	Gun Master
+18	Gun Expert
+19	Gun Adept
+20	Peerless Bow
+21	Bow Master
+22	Bow Expert
+23	Bow Adept
+24	God of War
+25	Wise General
+26	Strategist
+27	Schemer
+28	Tea Saint
+29	Tea Sage
+30	Tea Master
+31	Connoisseur
+32	Diplomatist
+33	Silver Tongue
+34	Persuader
+35	Orator
+36	Wise Lord
+37	Great Minister
+38	Top Magistrate
+39	Able Official
+40	Peerless Smith
+41	Master Smith
+42	Skilled Smith
+43	Craftsman
+44	Divine Healer
+45	Great Doctor
+46	Fine Doctor
+47	Good Doctor
+48	Lord-Killer
+49	Manslayer
+50	Traitor
+51	Ruthless Lord
+52	Double-Dealer
+53	Wicked Tyrant
+54	Master Ninja
+55	Top Gambler
+56	Unrivalled
+57	Globetrotter
+58	Wanderer
+59	New Duke Zhou
+60	Arts Patron
+61	Merchant King
+62	Appraiser
+63	Ashigaru Adept
+64	Cavalry Adept
+65	Gunnery Adept
+66	Navy Adept
+67	Archery Adept
+68	Martial Adept
+69	Tactics Adept
+70	Ninjutsu Adept
+71	Building Adept
+72	Farming Adept
+73	Mining Adept
+74	Abacus Adept
+75	Manners Adept
+76	Speech Adept
+77	Tea Adept
+78	Medicine Adept
+79	Itto-ryu
+80	Shinkage-ryu
+81	Shinto-ryu
+82	Chujo-ryu
+83	Yoshioka-ryu
+84	Tsuda-ryu
+85	Hayashizaki
+86	Ippa-ryu
+87	Ono Itto-ryu
+88	Ten-ryu
+89	Gan-ryu
+90	Saburi-ryu
+91	Jigen-ryu
+92	Hozoin-ryu
+93	Niten Ichi-ryu
+94	Mijin-ryu
+95	Yagyu Shinkage
+96	Taisha-ryu
+97	Kasumi-ryu
+98	Inatomi-ryu
+99	Heki-ryu
+100	Kanemaki-ryu
+101	Zuihasai-ryu
+102	Takada-ryu
+103	School Founder
+104	Ultimate Guard

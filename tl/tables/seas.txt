@@ -1,0 +1,20 @@
+0	North Sea of Japan
+1	Sanriku Coast
+2	Off Boso
+3	Sado Strait
+4	Sagami Bay
+5	Enshu Sea
+6	Wakasa Bay
+7	Kumano Sea
+8	Off San'in
+9	Kitan Strait
+10	Harima Sea
+11	Inland Sea
+12	Tosa Bay
+13	Bungo Channel
+14	Genkai Sea
+15	Osumi Strait
+16	Tsushima Strait
+17	East China Sea
+18	Tokara Sea
+19	South China Sea

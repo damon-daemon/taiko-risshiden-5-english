@@ -1,0 +1,1280 @@
+@0
+{02}{02}g,\nthe mission deadline is in 10 days.
+@1
+{02}{02}g,\nthe mission deadline has passed.\nPlease return to report at once.
+@2
+{02}{02}g,\nthe mission deadline has come, but\nour fort is at war right now.\n"It can't be helped; no report is needed"\nare your orders.
+@2.1
+{02}{02}g,\nthe mission deadline has come, but\nour village is at war right now.\n"It can't be helped; no report is needed"\nare your orders.
+@2.2
+{02}{02}g,\nthe mission deadline has come, but\nour castle is at war right now.\n"It can't be helped; no report is needed"\nare your orders.
+@3
+{02}{02}g,\nthe council period has begun.\nBe sure to come to the castle within 5 days.
+@4
+{02}{02}g,\nthe council period has begun.\nBe sure to come to the pirate house within 5 days.
+@5
+{02}{02}g,\nonly 5 days remain until the deadline.\nPlease come to the ninja house at once.
+@6
+{02}{02}g,\nthe council period has begun.\nBe sure to come to the shop within 5 days.
+@7
+{02}{02}g,\nthe council period has begun, but your orders\nare to skip it and put the mission first.
+@8
+{02}{02}g,\nthe council deadline has passed.\nPlease return to the castle at once.
+@9
+{02}{02}g,\nthe deadline has passed.\nPlease come to the ninja house at once.
+@10
+{02}{02}g,\nthe council deadline has passed.\nPlease come to the pirate house at once.
+@11
+{02}{02}g,\nthe council deadline has passed.\nPlease return to the shop at once.
+@12
+{02}{02}g,\nthe council period has begun, but this time\nit is cancelled because our lord is away.
+@13
+{02}{02}g,\na council will be held in a month.\n\nWhen the council period comes,\nplease come to the pirate house.
+@14
+{02}{02}g,\nthe chief is calling for you.\nBe sure to come to the ninja house within a month.
+@15
+Oh yes,\nthe job's deadline is in 10 days.
+@15.1
+Oh yes,\nthe job's deadline is in 10 days.
+@16
+Oh no,\nthe job's deadline has passed.
+@16.1
+Hmm, damn,\nthe job's deadline has passed.
+@17
+Oh yes,\nI feel like the {02})e ship flag\nis about to expire...
+@17.1
+Oh yes,\nI feel like the {02})e ship flag\nis about to expire...
+@18
+{02}{02}g!\nA corps of {02}{0D}e is closing\non our {02}{18}e!
+@19
+{02}{02}g!\nA corps of {02}{0D}e, reinforcing the enemy,\nis closing on {02}{18}e!
+@20
+Mmm,\nI don't feel very well.
+@20.1
+Hmm,\nI don't feel very well.
+@21
+{02}{01}g fell ill.\nThey can't use their full abilities.
+@22
+Phew!\nI feel much better now.
+@22.1
+Good!\nI feel much better now.
+@23
+{02}{01}g recovered their health.
+@24
+Our bodyguard deal ends today.\nWell, I'm off.\nSee ya!
+@24.1
+The bodyguard term ends today.\nThen I shall take my leave.
+@24.2
+My escort duty ends today.\nFarewell, then!
+@25
+{02}{02}g,\nthe people under {02}{15}e are discontent.\nYou'd better deal with it soon.
+@26
+{02}{02}g,\nthe uprising under {01}C,' {02}{15}e\nseems to have died down.
+@27
+{02}{02}g,\nthe discontent under {01}C,' {02}{15}e exploded,\nand the people have risen up!
+@28
+our
+@29
+{02}{02}g,\nI have a message\nfrom {02}{03}g.
+@30
+"If I cannot even receive my stipend,\n I cannot serve loyally.
+@31
+{01}C{0E}{00} hereby\n take my leave."\nThat is the message.
+@32
+What!\n{01}C {00}?!\nOh, how could this happen...
+@32.1
+What!\n{01}C {00}?!\nWhat does this mean...
+@33
+{02}{02}g and their followers\nhave left {02}{01}g\nand gone off somewhere.
+@33.1
+{02}{02}g\nhas left {02}{01}g\nand gone off somewhere.
+@34
+{02}{02}g,\n{02}{03}g is complaining\nthat their stipend is too low.
+@35
+{02}{02}g,\nI bring a message from {02}{03}g:\n"Your work of late is poor, so you are relieved as military instructor."
+@36
+{02}{0B}e can now\nbuild large ships.
+@37
+{02}{02}i, this month's income from\nship flags in {02}{15}e was {02}o{C8}.
+@38
+{02}{02}g,\n{02}{03}g of our band\nhas passed away.
+@38.1
+{02}{02}g,\n{02}{03}g of our band\nhas passed away.
+@38.2
+{02}{02}g,\n{02}{03}g of our house\nhas passed away.
+@38.3
+{02}{02}g,\nyour teacher {02}{03}g\nhas passed away.
+@38.4
+{02}{02}g,\n{02}{03}g\nhas passed away.
+@38.5
+{02}{02}g,\n{02}{03}g of {02}{0D}e has passed away.
+@39
+(So the tea gathering I was invited to is off...)
+@39.1
+(So the tea gathering I was invited to is off...)
+@40
+No!\nWe've lost a fine person...
+@40.1
+What is this......\nWe've lost a fine person.
+@40.2
+I see...\nWe've lost a fine person.
+@40.3
+I see......\nWe've lost a fine person.
+@41
+Eh...?! No...\n{01}C8{00}?\nIt can't be......
+@41.1
+What?!\n{01}C8{00}......\nWhat does this mean......
+@42
+One can't defy fate, but\nit's so sad......\n
+@42.1
+One can't defy fate, but\nit's so sad......\n
+@43
+What... should I\ndo now...?
+@43.1
+What... should I\ndo now...?
+@44
+No... now that {01}C8{00} is gone,\nI must work for {02}{0B}e.
+@44.1
+No... I'll carry on {01}C8{00}'s will\nand give my all for {02}{0B}e.
+@45
+{02}{01}g became\na direct vassal of {02}{0B}e.\nTheir current mission is cancelled.
+@46
+From now on, {02}{01}g's home\nmoves to {02}{01}{81}.
+@47
+With {01}C8{00} gone,\nI have no attachment to {02}{0B}e...
+@47.1
+With {01}C8{00} gone,\nI have no attachment to {02}{0B}e...
+@48
+{02}{01}g became a ronin.\nFrom now on, {02}{01}g's home\nmoves to {02}{01}{81}.
+@49
+Those who served {02}{03}g\nbecame ronin.
+@50
+Master, since {02}{03}g has died, we have been removed as purveyor by {02}{10}e.
+@51
+{02}{02}g,\n{02}{03}g, head of {02}{0B}e,\nhas passed away.
+@52
+{02}{03}g seems to have\nsucceeded as head of the house.
+@52.1
+{02}{03}g is said\nto have succeeded them.
+@53
+I see...... so {01}C8{00}\nhas finally become a daimyo......
+@53.1
+I see...... so {01}C8{00}\nnow leads the ninja band......
+@53.2
+I see...... so {01}C8{00}\nhas finally become a great merchant......
+@53.3
+I see...... so {01}C8{00}\nnow leads the pirate band......
+@54
+I see...... understood.
+@54.1
+I see...... understood.
+@55
+{02}{02}g! Terrible news!\nThe chief is gravely ill!\nPlease return to {02}{17}e at once!
+@55.1
+{02}{02}g! Terrible news!\nThe master is gravely ill!\nPlease return to {02}{17}e at once!
+@55.2
+{02}{02}g! Terrible news!\nThe boss is gravely ill!\nPlease return to {02}{17}e at once!
+@55.3
+{02}{02}g! Terrible news!\nOur lord is gravely ill!\nPlease return to {02}{17}e at once!
+@56
+What!! That's terrible!\nUnderstood, I'll go at once!
+@56.1
+What! That's terrible.\nRight, I'll go at once!
+@57
+It seems they're still alive...\nAnyway, I must hurry!
+@57.1
+It seems they're still alive.\nI must hurry!
+@58
+{01}C1{00}!\n{01}C1{00}!!
+@59
+Ahh......\n{01}C1{00}...\nI'm glad I saw you once more before dying......
+@60
+Now, everyone......\nyou have served me well until now.\nI thank you......
+@61
+When I'm gone,\nmake this {02}{02}f my heir\nand support them......
+@62
+{01}C{0E}{00}...?!
+@63
+Ugh...
+@64
+{01}C1{00}!
+@65
+{02}{01}g, Sengoku daimyo of {02}{01}{81},\nended a stormy life\nat the age of {02}{01}|...
+@65.1
+{02}{01}g, pillar of {02}{01}{81},\nended a stormy life\nat the age of {02}{01}|...
+@66
+{02}{02}g succeeded\n{02}{01}g.
+@67
+At last I have my own shop...\nFor a samurai, that's lord of a castle.\n\nTo feed my people\nI must work hard from now on!
+@67.1
+At last I have my own shop...\nFor a samurai, that's lord of a castle.\n\nTo feed my people\nI must work hard from now on!
+@67.2
+At last I'm head of a ninja band...\nLeading my people,\nI must work hard from now on!
+@67.3
+At last I'm head of a ninja band...\nLeading my people,\nI must work hard from now on!
+@67.4
+At last I'm head of a navy...\nLeading my people,\nI must work hard from now on!
+@67.5
+At last I'm head of a navy...\nLeading my people,\nI must work hard from now on!
+@67.6
+At last I'm a daimyo...\nTo feed my people\nI must work hard from now on!
+@67.7
+At last I'm a daimyo...\nTo feed my people\nI must work hard from now on!
+@67.8
+I wonder what will become\nof {02}{03}{EC} now...
+@67.9
+I wonder what will become\nof {02}{03}{EC} now...
+@67.10
+So {01}C8{00} has finally become {02}{03}i...
+@67.11
+So {01}C8{00} has finally become {02}{03}i...
+@68
+{01}C8{00} as heir?\nI can never accept that!
+@68.1
+{01}C8{00} as heir?\nI can never accept that!
+@69
+{02}{01}g declared independence\nwith {02}{15}e as their base\nand became a daimyo.
+@70
+{02}{02}g and others followed {02}{01}g\nand left {02}{0B}e.
+@71
+{01}C1{00}, what will you do?\nSide with {01}C{0E}{00} and I promise\nyou the rank of {02}yd...
+@71.1
+{01}C1{00}, what will you do?\nSide with {01}C{0E}{00}, or with them?
+@72
+It goes without saying.\nThe only one I serve\nis {01}C8{00}!
+@72.1
+It goes without saying.\nThe only one I serve\nis {01}C8{00}!
+@73
+I see...... a pity.\nNext time we meet may be on the battlefield.\n......Farewell!
+@73.1
+I see...... a pity.\nNext time we meet may be on the battlefield.\n......Farewell!
+@74
+I decided from the start\nto follow {02}{02}f!
+@75
+Oh! Well said!\nYou'll never regret it!
+@76
+{02}{01}g became a vassal\nof the {02}{03}g house.
+@77
+{02}{0B}e was destroyed.
+@78
+In month {02}{84}f of year {02}{84}e, {02}{0B}e lost\n{02}{15}e and was finally destroyed...
+@79
+Then, in a thorough hunt for survivors,\n{02}{01}g too lost their life...\nat the age of {02}{01}|...
+@80
+{02}{02}g,\nthe master is calling for you.\nPlease go to the main shop in {02}{15}f at once.
+@81
+The master...?\nI wonder what it is.\nLet's go.
+@81.1
+The master...?\nWhat could it be?\nRight, let's go.
+@82
+Master, you sent for me so suddenly.\nWhat is it?
+@83
+Ah, you've come! It's sudden, but\nI think it's about time {01}C{19}{00}\nwent independent with a shop.
+@84
+Meaning...?
+@85
+In short, starting a branch shop of your own.\nDon't you want a shop\nof your own by now, {01}C{19}{00}?
+@86
+I'm deeply grateful for the offer,\nbut I'm resolved to spend my life at {02}{0B}e...\nPlease let me work in this shop all my life.
+@87
+I see... then I won't push you.\nKeep working for {02}{0B}e's growth.\nSorry to call you here today.\nYou may go back to the shop.
+@88
+Then I'll take my leave.
+@89
+Thank you very much!\nI too have long wanted\na shop of my own.
+@90
+I see... then I grant {01}C{19}{00}\na branch shop!\n\nWe may become rivals from now on,\nbut follow the way of trade as you see fit.
+@91
+Yes... Master, your great kindness\nI, {02}{01}f, will never forget!
+@92
+If you're starting a new shop,\nyou'll need a shop name.\nWhat will you call it?
+@93
+"{02}yd-ya", then?
+@94
+{02}yd-ya, a good name.\nAt first, center on {02}{15}f\nand put your effort into trade in {02}ee.\nWhen you can, open branches.\nThat's about all the advice I can give.
+@95
+Master, I have no words to thank you.\nI'll keep striving in the way of trade.\n\nThank you for all these years...\nI take my leave.
+@96
+At last I too\nhave a shop of my own...
+@96.1
+At last I too\nhave a shop of my own...
+@97
+come of age
+@97.1
+come of age
+@98
+{02}{02}g,\nyour subordinate {02}{03}g\nhas {01}Cq'!
+@98.1
+{02}{02}g,\n{02}{03}g of our house\nhas {01}Cq'.
+@98.2
+{02}{02}g,\n{02}{03}g of {02}{0D}e\nhas {01}Cq', I hear.
+@99
+Master, the {02}{15}f branch has paid\n{02}o{C8} and {02}p{CB} guns\nas its New Year contribution.\nFrankly, it doesn't seem\nto be making much profit.
+@100
+Master, the {02}{15}f branch has paid\n{02}o{C8} and {02}p{CB} guns\nas its New Year contribution.
+@101
+Master, the branches have paid\n{02}o{C8} and {02}p{CB} guns\nas their New Year contribution.
+@102
+But {02}{03}g's\n{02}{15}f branch isn't making a profit,\nand its contribution was the smallest...
+@103
+As the New Year contribution, I paid\n{02}o{C8} to the main shop.
+@103.1
+As the New Year contribution, I paid\n{02}o{C8}, a fifth of the shop's funds,\nto the main shop.
+@104
+{02}{01}g's merit rose by {02}o{CB}!
+@105
+There isn't enough money\nfor the New Year contribution to the main shop...
+@106
+From the master:\n"You are relieved as manager\nof the {02}{15}f branch."
+@107
+{02}{02}g was dismissed as manager\nof the {02}{15}f branch and demoted to clerk.\nFrom now on, {02}{16}e is their base.
+@108
+{02}{02}g,\nan order from our lord.
+@109
+"A grand New Year council will be held;\n come to {02}{15}e this month,"\nare his words.
+@110
+"But if you are busy, you need not attend,"\nhe said.
+@111
+"The grand New Year council is over.\n I expect even greater work this year,"\nare his words.
+@112
+{02}{02}g, {02}{0D}e says\nit is breaking its alliance\nwith our house!
+@113
+Because {02}{0B}e broke the alliance,\n{02}{0C}e now has just cause\nto attack {02}{0B}e.
+@114
+{02}{02}g, {02}{0D}e has broken\nits alliance with {02}{0E}e.
+@115
+An envoy came from {02}{0B}e\nurging our house to surrender!\n\nOur lord refused at once, they say!
+@116
+Of course!\nWhat is {01}C8{00} thinking?\nDo they mean to mock our house?!
+@117
+{02}{0B}e refused {02}{0D}e's surrender demand.\n{02}{0B}e has just cause to attack {02}{0D}e.
+@118
+My lord, Lord {02}{03}g has come\nas an envoy from {02}{0B}e.
+@119
+{01}C1{00}, I have come as an envoy.\nLet me get straight to the point...
+@120
+{01}C1{00}, won't you submit\nto our {02}{0B}e?
+@121
+Wh-what?!\nBecome part of {02}{0B}e...?!
+@122
+Our lord very much wishes to welcome {01}C1{00}.
+@123
+Hmm, hmm......
+@124
+Surrender to {02}{0B}e?
+@125
+Don't be absurd!\nWe have our pride too!\nHow could we meekly surrender?!
+@126
+Our house has sunk low to be mocked like this!\nEnough, begone at once!\nOur ties with {02}{0B}e end here!
+@127
+A pity... I wished to serve our lord together.\nThen, farewell!
+@128
+Argh... what humiliation!
+@129
+Oh, a wise decision... from now on we are comrades in {02}{0B}e.
+@130
+{02}{0B}e was absorbed by {02}{0C}e.\nFrom now on {02}{01}g and their people\nare vassals of {02}{0C}e.
+@131
+{02}{02}g, {02}{0E}e has accepted\n{02}{0D}e's demand to surrender.
+@132
+{02}{0E}e has been destroyed.
+@133
+An envoy came from {02}{0B}e urging our house to submit.\nOur lord refused at once!
+@134
+Of course.\nWhat is {01}C8{00} thinking...\nThere's a limit to mocking our house!
+@135
+{02}{0B}e refused {02}{0D}e's demand to submit.\n{02}{0B}e has just cause to attack {02}{0D}e.
+@136
+My lord, Lord {02}{03}g has come\nas an envoy from {02}{0B}e.
+@137
+{01}C1{00}, won't you come\nunder the wing of our {02}{0B}e?
+@138
+Wh-what?!\nOur house submit to {02}{0B}e...?
+@139
+Our lord very much wishes for Lord {02}{02}e's strength.
+@140
+Submit to {02}{0B}e?
+@141
+A pity... well, it can't be helped.\nThen, farewell!
+@142
+Oh, a wise decision... then I shall take my leave.
+@143
+{02}{0B}e submitted to {02}{0C}e.
+@144
+{02}{02}g,\n{02}{0E}e has submitted to {02}{0D}e.
+@145
+{02}{02}g,\n{02}{0E}e, subject to {02}{0D}e,\nhas declared independence.
+@146
+An envoy came from {02}{0B}e seeking peace with our house.\nOur lord refused at once.
+@147
+My lord, Lord {02}{03}g has come\nas an envoy from {02}{0B}e.
+@148
+What!\nFrom {02}{0B}e? What do they want! Send them away!
+@149
+{01}C1{00}, it is {02}{01}f.\nDon't be so angry; hear {01}C{0E}{00} out.
+@150
+{01}C1{00}, won't you make peace\nwith our {02}{0B}e?
+@151
+What!\nPeace with {02}{0B}e?
+@152
+Fighting between our houses is pointless... our lord wishes for peace...
+@153
+Hmmm......
+@154
+What do you say... won't you settle for {02}o{C8}?
+@155
+Make peace with {02}{0B}e?
+@156
+We bow our heads so low and still... how bitter. You will regret this.\nThen, farewell!
+@157
+Peace now? Never!
+@158
+Oh, thank you!... Then {01}C{0E}{00} will return to report to our lord.
+@159
+{02}{0B}e and {02}{0C}e\nmade peace.
+@160
+{02}{02}g,\n{02}{0B}e and {02}{0C}e have made peace.
+@161
+{02}{02}g, {02}{0D}e says\nit is cutting off relations\nwith our house!
+@162
+Because {02}{0B}e declared war,\n{02}{0C}e now has just cause\nto attack {02}{0B}e.
+@163
+{02}{02}g,\nour lord seems to have been appointed\n{02}{03}{E8}, {02}{03}{E9}.
+@163.1
+{02}{02}g,\n{02}{03}g seems to have been appointed\n{02}{03}{E8}, {02}{03}{E9}.
+@164
+{02}{02}g, someone tried to sabotage {02}{15}e, but our people stopped it in time.
+@165
+{02}{02}g, someone tried to wreck {02}{15}e,\nbut people of {02}{0B}e\nstopped it in time.
+@166
+{02}{02}g, people of {02}{0B}e tried to wreck {02}{15}e, but our people stopped it in time.
+@167
+{02}{02}g, people of {02}{0C}e tried to wreck\n{02}{15}e, but people of {02}{0B}e\nstopped it in time.
+@168
+{02}{02}g,\n{02}{0B}e seems to have succeeded\nin sabotaging {02}{15}e.
+@169
+{02}{02}g,\nsomeone sabotaged {02}{15}e,\nand there has been damage.
+@170
+{02}{02}g, someone tried to spread strange rumors under {02}{15}e, but people of {02}{0B}e stopped it in time.
+@171
+{02}{02}g, agents of {02}{0C}e tried to spread\nstrange rumors under {02}{15}e,\nbut {02}{0B}e stopped it.
+@172
+{02}{02}g, {02}{0B}e seems to have\nspread rumors under {02}{15}e successfully.
+@173
+{02}{02}g,\nstrange rumors are spreading under {02}{15}e,\nand the people seem unsettled.
+@174
+{02}{02}g, someone tried to set fire to {02}{15}e, but our people stopped it in time.
+@175
+{02}{02}g, someone tried to set fire to\n{02}{15}e, but people of {02}{0B}e\nstopped it in time.
+@176
+{02}{02}g, people of {02}{0C}e tried to set fire to {02}{15}e, but our people stopped them.
+@177
+{02}{02}g, people of {02}{0C}e tried to set fire to {02}{15}e, but {02}{0B}e stopped them.
+@178
+{02}{02}g, {02}{0C}e seems to have\nsucceeded in setting fire to {02}{15}e.
+@179
+{02}{02}g,\nsomeone seems to have set fire to\n{02}{15}e, and there's been damage.
+@180
+But for that goal,\nthis {02}{15}e\nis a little inconvenient.
+@181
+So I intend to move\nmy residence castle to {02}{15}e!
+@182
+Everyone!\nMake your preparations and move\nto {02}{15}e without delay!
+@183
+{01}C1{00}! Orders from our lord!\nWe're moving to {02}{15}e!
+@184
+My! That's a big job!\nThen I'll get ready at once.\nYou go on ahead.
+@185
+Yes! I'm counting on you!
+@186
+Well... preparations for moving...\nI live alone... there's nothing really.\nI'll head to {02}{15}e as I am...
+@187
+{02}{02}g!\nOur lord has moved his residence\nto {02}{15}e!
+@188
+{02}{02}g!\nOrders from our lord!\n\nYou are to transfer to the castle\nof {02}{15}e.
+@189
+What! A castle transfer...\nWell, if it's our lord's order, it can't be helped.\nUnderstood!
+@190
+From now on, {02}{01}g's base\nis {02}{15}e.
+@191
+{02}{02}g!\nIt seems {02}{03}g\nhas moved to {02}{15}e.
+@192
+So our lord, saying this castle\nis inconvenient, has ordered\na castle transfer to {02}{15}e!
+@193
+{02}{02}g,\nI bring words from our lord.
+@194
+"The capture of {02}yd was splendid.\n Now work to develop the domain," he said.\nOur lord seemed pleased.
+@195
+Merit rose by {02}od.
+@196
+"You need no longer attack {02}yd,"\nhe said.
+@197
+"Capture {02}yd,"\nhe said.
+@198
+{02}{02}g, {02}{03}g, lord of {02}{17}e,\nhas betrayed our house\nand defected to {02}{0E}e!
+@198.1
+{02}{02}g, {02}{03}g, lord of {02}{17}e,\nhas betrayed {02}{0D}e\nand joined our side!
+@198.2
+{02}{02}g, {02}{03}g, lord of {02}{17}e,\nhas betrayed {02}{0D}e\nand defected to {02}{0E}e!
+@199
+With no chief retainer left to speak for us,\n{02}{0B}e was removed as purveyor\nto {02}{0C}e.
+@200
+Because of ties with {02}{03}g,\n{02}{0B}e switches from {02}{0C}e\nto purveyor for {02}{0D}e.
+@201
+{02}{02}g, {02}{03}g, lord of {02}{17}e,\nhas rebelled against our house\nand become a daimyo!
+@201.1
+{02}{02}g, {02}{03}g, lord of {02}{17}e,\nhas rebelled against {02}{0D}e\nand become a daimyo!
+@202
+{02}{02}g,\nthanks to {02}{03}g's work, you've been\nappointed {02}{02}{E8}, {02}{02}{E9}!\nCongratulations!
+@202.1
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Fujiwara no Ason {02}{02}f is raised\n to Senior First Rank and made Imperial Regent!"\nCongratulations indeed!!
+@202.2
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Minamoto no Ason {02}{02}f\n is made Shogun," are the words.\nCongratulations indeed!!
+@202.3
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Taira no Ason {02}{02}f is made\n Grand Chancellor of Senior First Rank!"\nCongratulations indeed!!
+@202.4
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, {02}{02}g is made\n Grand Chancellor of Senior First Rank!"\nCongratulations indeed!!
+@203
+{02}{02}g,\nan order from {02}{03}g.\n\n"Your current mission is cancelled.\n No need to continue; come back and rest,"\nis the message.
+@204
+Our lord... ill-fated in war,\nhas fallen in battle, they say!
+@204.1
+The chief... ill-fated in war,\nhas fallen in battle, they say!
+@204.2
+The boss... ill-fated in war,\nhas fallen in battle, they say!
+@205
+What!!\nOur lord?!\nWhat... what should I do...
+@205.1
+What!!\nOur lord?!\nWhat... what should I do...
+@205.2
+What!!\nThe chief?!\nWhat... what should I do...
+@205.3
+What!!\nThe chief?!\nWhat... what should I do...
+@205.4
+What!!\nThe boss?!\nWhat... what should I do...
+@205.5
+What!!\nThe boss?!\nWhat... what should I do...
+@206
+{02}{02}g!\nCarry on our late lord's will\nand become daimyo yourself!
+@206.1
+{02}{02}g!\nCarry on our late chief's will\nand become chief yourself!
+@206.2
+{02}{02}g!\nCarry on our late boss's will\nand become boss yourself!
+@207
+What?! Me...?!
+@207.1
+What?! Me...?!
+@208
+Surely no one will object\nto {02}{02}f succeeding!
+@209
+...Understood.\nI'll unite everyone in place of our late lord.
+@209.1
+...Very well.\nI'll unite everyone in place of our late lord.
+@209.2
+...Understood.\nI'll unite everyone in place of our late chief.
+@209.3
+...Very well.\nI'll unite everyone in place of our late chief.
+@209.4
+...Understood.\nI'll unite everyone in place of our late boss.
+@209.5
+...Very well.\nI'll unite everyone in place of our late boss.
+@210
+Yes!\nGracious words!
+@211
+{02}{03}g succeeded\n{02}{04}g and\nbecame daimyo.
+@211.1
+{02}{03}g succeeded\n{02}{04}g and\nbecame chief.
+@211.2
+{02}{03}g succeeded\n{02}{04}g and\nbecame boss.
+@212
+{02}{02}g, a message from the head clerk:\nthe trade with {02}{15}e\nmade {02}od kan.
+@213
+{02}{02}g,\nwe paid {02}od kan in war levy to {02}{0B}e.
+@214
+{02}{02}g,\nwe paid war levies totaling {02}pd kan to {02}od\ndaimyo houses we serve, starting with {02}{0B}e.
+@215
+{02}{02}g,\nwe couldn't pay the war levy to {02}{0B}e,\nso we were removed as purveyor.
+@216
+{02}{02}g,\nwe couldn't pay war levies to the {02}od\ndaimyo houses we serve, starting with {02}{0B}e.\nSo those houses have\nremoved us as purveyor.
+@217
+Manager, this month the trade routes\nmade a profit of {02}o{C8}.
+@218
+Manager, this month the trade routes\nmade a loss of {02}o{C8}......\nWe must do something about it.
+@219
+Master, this month the trade routes\nmade a total profit of {02}o{C8}.
+@220
+Master, this month the trade routes\nmade a total loss of {02}o{C8}.\nI think a review is needed......
+@221
+{02}{02}i, this month we earned\n{02}o{C8} in route escort fees.
+@222
+{02}{02}g,\nI have a message from our ally {02}{03}g.
+@223
+"By the bonds of our alliance, please take {02}{15}e," is the request.
+@224
+"I would like to entrust Lord {02}{02}e\n with taking {02}{1F}e," he says.
+@225
+"I ask Lord {02}{02}e\n to attack {02}{0B}e," is the request.
+@226
+"I ask Lord {02}{02}e\n to pacify {02}[e," is the request.
+@227
+{02}{02}g,\nI have a message from our ally {02}{03}g.
+@228
+"Your capture of {02}yd was splendid.\n We thank you," he says.\nHe seemed very pleased.
+@229
+{02}{0B}e paid our house\n{02}od kan as thanks.
+@230
+"The capture of {02}yd we requested\n is no longer needed,"\nhe says.
+@231
+{02}{02}g,\n{02}{0D}e says it is breaking its alliance with us!
+@232
+Because {02}{0B}e broke the alliance,\n{02}{0C}e now has just cause\nto attack {02}{0B}e.
+@233
+{02}{02}g, rumor has it {02}{0B}e and {02}{0C}e, under {02}{0D}e, have formed an alliance.
+@234
+{02}{02}g, {02}{0B}e has newly come under our house.
+@235
+{01}C1{00}, Lord {02}{03}g has come\nas an envoy from {02}{0B}e.
+@236
+Oho......\nWhat could they want?
+@237
+{01}C1{00}, I am {02}{01}g.\nI come on behalf of our {02}{0B}e.
+@238
+{01}C1{00}, would you let our {02}{0B}e\nwork under {02}{0C}e?
+@239
+What, {02}{0B}e wishes to come\nunder our house?
+@240
+Yes!\nPlease grant our request...
+@241
+Hmmm......
+@242
+Make {02}{0B}e a subordinate?
+@243
+A pity... but we can't join with {02}{0B}e.
+@244
+We bow our heads so low and still... how bitter. You will regret this.\nThen, farewell!
+@245
+Relations with {02}{0B}e worsened.
+@246
+...That helps.\nOur house too needed {02}{0B}e's strength.
+@247
+Oh! You accept!\nFrom now on our people will work for {02}{0C}e.\nCommand us as you wish... then, that's all for today.
+@248
+{02}{0B}e came under {02}{0C}e.
+@249
+{02}{02}g, {02}{0B}e has come under {02}{0C}e.
+@250
+{02}{02}g, {02}{0B}e has broken free of {02}{0C}e!
+@251
+{02}{02}g,\nI have a message from the chief.
+@252
+"The capture of {02}yd was splendid.\nWait quietly for the next orders," he says.\nThe chief seemed pleased.
+@253
+{02}{02}g, {02}{03}g, squad chief of {02}{17}e, has broken away from {02}{0D}e!
+@254
+{02}{02}g, {02}{0B}e tried to make {02}yd fashionable in {02}{15}e and seems to have failed.
+@255
+{02}{02}g, {02}{0B}e's rumors succeeded; {02}yd shows signs of becoming fashionable in {02}{15}e.
+@256
+{02}{02}g, rumor has it demand for {02}yd is rising in {02}{15}e.
+@257
+{02}{02}g, agents of {02}{0B}e tried to obtain {02}3g, but seem to have failed.
+@258
+{02}{02}g, agents of {02}{0B}e succeeded in obtaining {02}3g!
+@259
+Obtained {02}3g!
+@260
+{02}{02}g, agents of {02}{0B}e tried to attack {02}{03}g, but failed!
+@261
+{02}{02}g, {02}{04}g of {02}{0B}e tried to attack {02}{03}g, but was repelled!
+@262
+{02}{03}g was wounded.
+@263
+Relations with {02}{0B}e worsened.
+@264
+The failed attack revealed who we are; {02}{0B}e now has just cause to attack our house!
+@265
+{02}{02}g, agents of {02}{0B}e attacked {02}{03}g and wounded them!
+@266
+{02}{02}g, agents of {02}{0B}e succeeded in attacking {02}{03}g!
+@267
+{02}{02}g, agents of {02}{0B}e tried to raid the {02}{15}e-{02}{16}e route and seem to have failed.
+@268
+{02}{02}g, someone tried to raid the {02}{15}e-{02}{16}e route, but our band drove them off.
+@269
+{02}{02}g, someone tried to raid the {02}{15}e-{02}{16}e route, but people of {02}{0B}e drove them off.
+@270
+{02}{02}g, agents of {02}{0B}e succeeded in raiding {02}{0C}e's {02}{15}e-{02}{16}e route!
+@271
+{02}{02}g, someone raided our shop's {02}{15}e-{02}{16}e route!
+@272
+{02}{02}g,\nthe fleet carrying goods on our\n{02}{15}e-{02}{16}e route capsized in a storm!
+@272.1
+{02}{02}g,\nthe fleet carrying goods on our\n{02}{15}e-{02}{16}e route capsized in a storm!
+@272.2
+{02}{02}g,\nour shop's {02}{15}e-{02}{16}e route\nwas raided by wako pirates!
+@273
+{02}{02}g, {02}{03}g, ship captain of {02}{17}e, has broken away from {02}{0D}e!
+@274
+{02}{02}g,\nI've got a message from the boss.
+@275
+"The capture of {02}yd was splendid.\nWait quietly for the next orders," he says.\nThe boss looked satisfied.
+@276
+{02}{02}g,\n{02}{0D}e says it is breaking its alliance with us!
+@277
+{02}{02}g, {02}{0D}e has\npresented our house with\na war levy of 5000 kan.
+@278
+{02}{02}g, {02}{0B}e has newly become purveyor to {02}{0C}e.
+@279
+{02}{02}g, {02}{0B}e has replaced {02}{0D}e as the new purveyor to {02}{0C}e.
+@280
+My lord, one {02}{03}g has come\nas an envoy from {02}{0B}e.
+@281
+{01}C1{00}, thank you as always.\nI am {02}{01}g...\nLet me get straight to the point...
+@282
+{01}C1{00}, would you make {02}{0B}e\na purveyor to your house?
+@283
+What, you wish to become\nour house's purveyor?
+@284
+Yes, exactly...\nWe'd be honored to help my lord\nconquer the realm.\nAs a dowry,\nwe have 10000 kan here...
+@285
+Hmm, hmm......
+@286
+Make {02}{0B}e a purveyor?
+@287
+A pity, but our house\nhas no intention of hiring a new purveyor.\nYou may go.
+@288
+I see... a pity.\nThen it seems it wasn't meant to be.\nI take my leave.
+@289
+...Very well.\nWe were wanting a new purveyor too.
+@290
+Oh, thank you very much...\nWe intend to serve my lord with all our might.\nPlease look kindly on {02}{0B}e.\nThen I take my leave.
+@291
+{02}{0B}e became purveyor to {02}{0C}e.
+@292
+But our house already has\nthree purveyors...\nToo many is a problem...
+@293
+We'd have to drop one......\nNow, which merchant house to drop...
+@294
+Wh-what?!\nYou just said you'd make us\na purveyor...!
+@295
+Hmm... it can't be helped.\nI'll drop {02}{0C}e and rely on {02}{0B}e from now on.
+@296
+My lord, Lord {02}{03}g of {02}{0B}e\nhas come to speak with you.
+@297
+{01}C1{00}, thank you as always.\nI am {02}{01}g...\nLet me get straight to the point...
+@298
+{01}C1{00}, would you make our {02}{0B}e\nmerchant chief of {02}yd?
+@299
+What, you wish to become\nmerchant chief of {02}yd?
+@300
+Yes, exactly...\nAs a dowry,\nwe have 10000 kan here...
+@301
+Hmm, hmm......
+@302
+Make {02}{0B}e merchant chief of {02}yd?
+@303
+A pity, but I can't make {02}{0B}e\nmerchant chief of {02}yd.\nYou may go.
+@304
+I see... a pity.\nThen it seems it wasn't meant to be.\nI take my leave.
+@305
+Very well... {02}{0B}e's ability\nas merchants is beyond question.\nI permit you to be merchant chief of {02}yd.
+@306
+Oh, thank you very much...\n{02}{0B}e will serve your house with all its might.\nThen I take my leave.
+@307
+Appointed {02}{0B}e merchant chief of {02}yd.
+@308
+{02}{02}g, {02}{0B}e seems to have been appointed merchant chief of {02}yd.
+@309
+{02}{02}g, {02}{0B}e seems to have been\nappointed merchant chief of {02}yd\nin place of {02}{0C}e.
+@310
+{02}{02}g! Terrible news!\n\n\nJudging {02}{0C}e's service to {02}{0D}e lacking\nof late, they've replaced the merchant chief\nof {02}yd with {02}{0B}e!
+@311
+{02}{02}g! Terrible news!\n\n\n{02}{0D}e, which rules {02}yd, has appointed\n{02}{0B}e as the new merchant chief in our place!
+@312
+{02}{02}g, thanks to {02}{0B}e's work, the defense of {02}{15}e has risen.
+@313
+{02}{02}g, {02}{0B}e tried to expand {02}{15}e, but seems to have failed.
+@313.1
+{02}{02}g, thanks to {02}{0B}e's work, the size of {02}{15}e rose by {02}od.
+@314
+{02}{02}g, {02}{0B}e succeeded in buying up {02}{15}e's provisions, reducing its rice stores.
+@315
+{02}{02}g, {02}{0B}e tried to corner {02}{15}e's provisions, but the castle commander noticed and it failed.
+@316
+{02}{02}g, {02}{0B}e succeeded in developing {02}Ie from {02}Ge of {02}{15}e and {02}He of {02}{16}e.
+@317
+From now on, {02}Ie will be produced in {02}{15}e and {02}{16}e.
+@318
+{02}{02}g, {02}{0B}e has opened a new shop in {02}{15}e.
+@319
+{02}{03}g of {02}{17}f made {02}Ie\nfrom {02}Ge of {02}{15}f\nand {02}He of {02}{16}f, {02}{02}g.
+@320
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to start a fashion in {02}{15}e!
+@320.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nstarted a fashion in {02}{15}e!
+@321
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to obtain the valuable!
+@321.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nobtained the valuable!
+@322
+{02}{02}g, the agents of {02}{03}{EC}\nwe hired failed to raid the\n{02}{15}f-{02}{16}f route!
+@322.1
+{02}{02}g, the agents of {02}{03}{EC}\nwe hired raided the\n{02}{15}f-{02}{16}f route!
+@323
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to investigate {02}{15}e!
+@323.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nsent a report on {02}{15}e!
+@324
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to sabotage {02}{15}e!
+@324.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nsabotaged {02}{15}e!\n{02}{15}e's defense fell by {02}od.
+@325
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to spread rumors in {02}{15}e!
+@325.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nspread rumors in {02}{15}e!\nStability in {02}{15}e fell by {02}od.\n
+@326
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to set fire to {02}{15}e!
+@326.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nset fire to {02}{15}e!\n{02}{15}e's supplies were burned.
+@327
+{02}{02}g, the agents of {02}{03}{EC} we hired failed to blockade the routes from {02}{15}f!
+@327.1
+{02}{02}g, the agents of {02}{03}{EC} we hired blockaded the routes from {02}{15}f!
+@328
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to raid {02}{15}e!
+@328.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nraided {02}{15}e!
+@329
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to corner {02}{15}e's provisions!
+@329.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\ncornered {02}{15}e's provisions!
+@330
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to repair {02}{15}e!
+@330.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nrepaired {02}{15}e!\n{02}{15}e's defense rose by {02}od.
+@331
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to expand {02}{15}e!
+@331.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nexpanded {02}{15}e!\n{02}{15}e's size rose by {02}od.
+@332
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy the treasure!
+@332.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nbought the treasure!
+@333
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to learn {02}{04}{EC}'s strategy!
+@333.1
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Develop Territory".
+@333.2
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Defend Territory".
+@333.3
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Take {02}{15}e".
+@333.4
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Defeat {02}{0B}e".
+@333.5
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Unify the Province".
+@333.6
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Defend the Province".
+@333.7
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Unify the Region".
+@333.8
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Defend the Region".
+@333.9
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nlearned {02}{04}{EC}'s strategy!\n{02}{04}{EC}'s strategy is "Unify the Realm".
+@334
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to sell the provisions!
+@334.1
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}o{C8} for {02}yd!
+@335
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy provisions!
+@335.1
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od,000 koku of provisions as results!
+@336
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy warhorses!
+@336.1
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od warhorses as results!
+@337
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy guns!
+@337.1
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od guns as results!
+@338
+{02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy cannons!
+@338.1
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od cannons as results!
+@339
+{02}{02}g,\n{02}{03}g couldn't deliver the provisions\nto {02}{0B}e, they say.
+@339.1
+{02}{02}g, {02}{03}g delivered\n{02}od,000 koku of provisions\nsafely to {02}{0B}e, they say.
+@340
+{02}{02}g,\n{02}{03}g couldn't deliver the warhorses\nto {02}{0B}e, they say.
+@340.1
+{02}{02}g,\n{02}{03}g safely delivered {02}od warhorses\nto {02}{0B}e, they say.
+@341
+{02}{02}g,\n{02}{03}g couldn't deliver the guns\nto {02}{0B}e, they say.
+@341.1
+{02}{02}g,\n{02}{03}g safely delivered {02}od guns\nto {02}{0B}e, they say.
+@342
+{02}{02}g,\n{02}{03}g couldn't deliver the cannons\nto {02}{0B}e, they say.
+@342.1
+{02}{02}g,\n{02}{03}g safely delivered {02}od cannons\nto {02}{0B}e, they say.
+@343
+{02}{03}g\nwas very pleased, they say.
+@344
+{02}{03}g\nseemed disappointed, they say.
+@345
+Master, since {01}C8{00}\nhas passed away,\nour dojo has one instructor fewer.
+@346
+The fleet of {02}{0B}e sent\nto {02}{15}e has returned.\n\n{02}o{C8} in profit\nwas delivered to {02}{16}e.
+@347
+{02}{02}g,\n{02}{0B}e is blockading cargo\non the {02}{15}f-{02}{16}f route!
+@348
+In {02}{15}e, goods like {02}Ge are short,\nand prices may soar.\nI hope the people don't grow restless...
+@349
+{02}{02}g, the {02}{15}f-{02}{16}f route\nour band was hired to escort\nwas abolished by {02}{0B}e as unprofitable.
+@350
+Facility Guide
+@351
+Town Facilities
+@352
+Castle Town Facilities
+@353
+Ninja Village Facilities
+@354
+Pirate Fort Facilities
+@355
+Travel Screen
+@356
+About Towns
+@357
+There is one town in each province. Most towns have a rice dealer, stable, tavern, inn, houses and a guild. Some also have merchant houses, dojos, Western trading posts, Western temples, tea masters' homes, temples, artisans, smiths, doctors, court nobles and the palace. If the hero lives there, their home is too.
+@358
+About Castle Towns
+@359
+Castle towns have a castle, samurai homes and a castle drill ground. If the hero lives there, their home is too.\n\n{1B}C1● Domestic Commands{1B}C0\nIf the hero is a castle lord or higher and is in a castle they rule, they can use [Domestic].\n{1B}C3◆ Improve Order{1B}C0\nRaises the castle's stability.\n{1B}C3◆ Develop Fields{1B}C0\nRaises the castle's yield.\n{1B}C3◆ Develop Mines{1B}C0\nRaises the castle's mines.
+@360
+{1B}C3◆ Repair Castle{1B}C0\nRaises the castle's defense.\n{1B}C3◆ Expand Castle{1B}C0\nRaises the castle's size.\n\n{1B}C1● Sabotage Commands{1B}C0\nIf the hero heads a ninja band or is a squad chief\nand is in a castle another power rules, they can\nuse [Sabotage]. It needs 3000 kan or more.\n{1B}C3◆ Wreck{1B}C0\nLowers the castle's defense.
+@361
+{1B}C3◆ Rumors{1B}C0\nLowers the castle's stability.\n{1B}C3◆ Arson{1B}C0\nLowers the castle's supplies and defense.
+@362
+About Ninja Villages
+@363
+Ninja villages have a ninja house, village drill\nground, village training ground and ninja homes.\nIf the hero lives there, their home is too.\n\n{1B}C1● Domestic Commands{1B}C0\nIf the hero is a squad chief or higher and is in\na village they rule, they can use [Domestic].\n{1B}C3◆ Repair{1B}C0\nRaises the village's defense.\n{1B}C3◆ Expand{1B}C0\nRaises the village's size.
+@364
+{1B}C1● Sabotage Commands{1B}C0\nIf the hero heads a ninja band or is a squad chief\nand is in a village another power rules, they can\nuse [Sabotage]. It needs 3000 kan or more.\n{1B}C3◆ Wreck{1B}C0\nLowers the village's defense.\n{1B}C3◆ Arson{1B}C0\nLowers the village's supplies and defense.
+@365
+About Pirate Forts
+@366
+Pirate forts have a pirate house, fort drill ground, fort training ground, shipyard and pirate homes. If the hero lives there, their home is too.\n\n{1B}C1● Domestic Commands{1B}C0\nIf the hero is a ship captain or higher and is in a fort they rule, they can use [Domestic].\n{1B}C3◆ Repair{1B}C0\nRaises the fort's defense.\n{1B}C3◆ Expand{1B}C0\nRaises the fort's size.
+@367
+{1B}C1● Sabotage Commands{1B}C0\nIf the hero heads a ninja band or is a squad chief\nand is in a fort another power rules, they can\nuse [Sabotage]. It needs 3000 kan or more.\n{1B}C3◆ Wreck{1B}C0\nLowers the fort's defense.\n{1B}C3◆ Arson{1B}C0\nLowers the fort's supplies and defense.
+@368
+Rice Dealer
+@369
+A shop dealing in provisions.\nYou can buy and sell provisions and check prices.\n\n{1B}C1● Rice Dealer Commands{1B}C0\nOnly commands available for the hero's rank\nand mission are shown.\n{1B}C3◆ Check Prices{1B}C0\nCheck rice prices: buying and selling per 1000 koku.\n{1B}C3◆ Sell Provisions{1B}C0\nSell provisions at the town's rice price.\nWith the Accounting skill, you can haggle.\n* Related missions: "Buy Provisions", "Sell Provisions"
+@370
+{1B}C3◆ Buy Provisions{1B}C0\nBuy provisions at the town's rice price.\nWith the Accounting skill, you can haggle.\n* Related missions: "Buy Provisions", "Sell Provisions"
+@371
+Stable
+@372
+A shop dealing in warhorses. You can buy and\nsell horses, check prices and train in Cavalry.\n\n{1B}C1● Stable Commands{1B}C0\nOnly commands available for the hero's rank\nand mission are shown.\n{1B}C3◆ Check Prices{1B}C0\nCheck horse prices per 100 horses.\n{1B}C3◆ Study Cavalry{1B}C0\nTrain the Cavalry skill. Results may raise the\nskill or earn cards. Friendship rises too.\nCost and days depend on the skill level.
+@373
+{1B}C3◆ Buy Warhorses{1B}C0\nBuy horses at the town's horse price.\nWith the Accounting skill, you can haggle.\nRelated mission: "Buy Warhorses"
+@374
+Tavern
+@375
+Where locals come to drink.\nBesides drinking, you can take jobs and gamble.\n\n{1B}C1● Tavern Commands{1B}C0\n{1B}C3◆ Hire Bodyguard{1B}C0\nHire a bodyguard. They help you when bandits\nattack on the travel screen and so on.\nThey leave when the agreed period ends.\n{1B}C3◆ Dismiss Bodyguard{1B}C0\nDismiss your bodyguard. The fee you paid\nis not refunded.
+@376
+{1B}C3◆ Jobs{1B}C0\nTake tavern jobs to earn money.\nSome jobs can't be taken with a bodyguard.\n* For details on tavern jobs, see\n"Doing Jobs" in Help.\n{1B}C3◆ Drink{1B}C0\nHave a drink. You can also buy sake.\n{1B}C3◆ Gamble{1B}C0\nEarn money by gambling.
+@377
+Inn
+@378
+Stay to recover your strength.\nStaying costs money for each night.\nYou can also talk to other guests.\nBesides guests, a girl may be working\nat the inn.
+@379
+Houses
+@380
+Homes of ronin and of people belonging to\nmerchant houses. You can raise friendship\nand learn the skills they have.\nYou can also [Recruit] ronin to serve you.\n\n{1B}C1● House Commands{1B}C0\nOnly commands available for the hero's rank,\nrelation and friendship with them and current\nmission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities, skills and so on.
+@381
+{1B}C3◆ Recruit{1B}C0\nInvite them to serve you. On a "Recruit"\nmission, invite them to your power instead.\nYour subordinates' stipends come out\nof your own stipend.\n{1B}C3◆ Poach{1B}C0\nInvite a merchant to serve your power.\nOnly if the hero is a base lord (castle lord,\nsquad chief, ship captain, manager) or higher.\n{1B}C3◆ Apprentice{1B}C0\nServe as a merchant's apprentice.\nOnly if they are a clerk or higher.
+@382
+{1B}C3◆ Attack{1B}C0\nAttack and wound them.\nOnly if they belong to another power.\n{1B}C3◆ Gift{1B}C0\nGive a valuable to raise friendship.\nOnce a month.\n{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship.\nOnce a month, if you have tea ware.\n{1B}C3◆ Bout{1B}C0\nChallenge them to a duel to raise friendship.\nAny number of times a month.
+@383
+{1B}C3◆ Study Skill{1B}C0\nLearn a skill they have.\nResults may raise the skill or earn cards.\nFriendship rises too.\nCost and days depend on the skill level.\n* Once a skill reaches 4 and they say "nothing\nmore to teach", you can't train further.\n{1B}C3◆ Enroll{1B}C0\nJoin their school and make them your teacher.\nOnly if they belong to a school.
+@384
+{1B}C3◆ Learn Secret Art{1B}C0\nLearn a secret martial art (card). One a month.\n{1B}C3◆ Grant License{1B}C0\nGrant a license of your school. Only if they are the hero's student.\n{1B}C3◆ Make Instructor{1B}C0\nMake them an instructor at the hero's dojo. The stronger they are, the fewer students leave. Only if they are the hero's student and the hero runs a dojo at home.
+@385
+Merchant House
+@386
+A shop dealing in all sorts of goods. You can buy valuables and guns, study Accounting and so on. Serving a merchant house opens the way to becoming a merchant.\n\n{1B}C1● Merchant House Commands (normal){1B}C0\nOnly commands available for the hero's rank, relation and friendship with them and current mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.
+@387
+{1B}C3◆ Escort Routes{1B}C0\nOffer to escort a merchant house's trade routes. With good relations and more power than the current escort, you win the escort rights. Only if the hero heads a ninja band or pirate band.\n{1B}C3◆ Buy Goods{1B}C0\nBuy valuables. More friendship with the merchant may add more kinds. With the Accounting skill, you can haggle.
+@388
+{1B}C3◆ Sell Goods{1B}C0\nSell valuables. With the Accounting skill, you can haggle.\n{1B}C3◆ Make Purveyor{1B}C0\nMake them your house's purveyor; up to 3 houses. Purveyors pay a 5000 kan war levy at year end. Only if the hero is a daimyo.\n{1B}C3◆ Drop Purveyor{1B}C0\nRemove them as your house's purveyor. Only if the hero is a daimyo.
+@389
+{1B}C3◆ Request Blockade{1B}C0\nStop one of a merchant house's routes for a time. In the blockaded town, necessities (soy sauce, vinegar, salt, oil, miso, lumber, firewood) soar in price, and stability of nearby castles falls. Only if the hero is a daimyo. * Lowering enemy castles' stability cuts their income and makes uprisings likelier.\n{1B}C3◆ Request Lifting{1B}C0\nThe reverse: when a route to a town in a province where you have a castle is blockaded, pay to have it lifted. Better done before prices soar.\n
+@390
+{1B}C3◆ Buy Guns{1B}C0\nBuy guns. The friendlier the merchant, the cheaper and more you can buy. With Accounting, you can haggle. Related mission: "Buy Guns"\n{1B}C3◆ Apprentice{1B}C0\nJoin a merchant house and become a merchant.\n{1B}C3◆ Gift{1B}C0\nGive a gift to raise friendship. Once a month.\n{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship. Once a month, if you have tea ware.\n
+@391
+{1B}C3◆ Diplomacy{1B}C0\nCarry out diplomacy such as "Goodwill". Only if the hero is a base lord (castle lord, squad chief, ship captain, manager) or higher.\n{1B}C3◆ Overseas Trade{1B}C0\nSail abroad with the merchant to trade. Goods bought are sold on return. Only if the hero is a pirate boss and your power owns large ships. Sailing anywhere but Ryukyu needs items (trade tallies, red-seal passes...).
+@392
+{1B}C1● Commands for Your House's Head{1B}C0\nCommands for the head of the merchant house you belong to.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Branch Info{1B}C0\nCheck branch funds, gun stock and so on.\n{1B}C3◆ Resign{1B}C0\nQuit being a merchant and become a ronin.\n{1B}C3◆ Present{1B}C0\nGive a belonging to raise friendship. Once a month.
+@393
+{1B}C3◆ Request Helpers{1B}C0\nAsk for helpers for the hero's shop. Only if the hero is a manager.\n{1B}C3◆ Ask Strategy{1B}C0\nAsk about the current strategy.\n{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship. Once a month, with tea ware.\n{1B}C3◆ Recommend Subordinate{1B}C0\nRecommend your rear vassal as a direct vassal.
+@394
+{1B}C1● Commands When the Hero Is Head{1B}C0\nCommands a merchant house's head can use in their own shop.\n{1B}C3◆ Give Missions{1B}C0\nGive missions to subordinates in the shop.\n{1B}C3◆ Request Others{1B}C0\nRequest jobs from ninja and pirate bands.\n{1B}C3◆ Personnel{1B}C0\nPromote subordinates, appoint managers, send helpers and so on.\n{1B}C3◆ Transport{1B}C0\nMove goods between your shops.\n{1B}C3◆ Move Base{1B}C0\nMove your main shop to another town.
+@395
+{1B}C3◆ Aim for Merchant Chief{1B}C0\nLobby a powerful daimyo and start a race for merchant chief. Only if your house is purveyor to a powerful daimyo with the highest contribution among all its purveyors, and you have 3 subordinates without missions.\n{1B}C3◆ Branch Info{1B}C0\nCheck branch funds, gun stock and so on.\n{1B}C3◆ Open Branch{1B}C0\nOpen a branch in a trade area where you have none.\n{1B}C3◆ Cut Route{1B}C0\nAbolish a route you run. * To open new routes, visit a town's guild.
+@396
+{1B}C3◆ Develop Specialty{1B}C0\nCombine trade goods of the two towns on a route to develop new goods (processed goods).\n{1B}C3◆ Invite Smith{1B}C0\nInvite a smith to a town. The smith delivers guns every month.
+@397
+Doctor
+@398
+A doctor's house. You can buy medicine, get treatment, study Medicine and so on.\n\n{1B}C1● Doctor Commands{1B}C0\nOnly commands available for the hero's condition are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Treat Illness{1B}C0\nHave your illness treated. Costs money.\n{1B}C3◆ Buy Medicine{1B}C0\nBuy medicine (valuables). No haggling.
+@399
+{1B}C3◆ Study Medicine{1B}C0\nTrain the Medicine skill. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Medical Tips{1B}C0\nHear tips for living as a doctor: advice on treatment and mixing medicine.
+@400
+Temple
+@401
+A Buddhist temple. You can have books appraised, study Etiquette and so on.\n\n{1B}C1● Temple Commands{1B}C0\nCommands available at the temple.\n{1B}C3◆ Person Info{1B}C0\nSee their info, including friendship.\n{1B}C3◆ Appraise Books{1B}C0\nHave unappraised books appraised. Costs money.
+@402
+{1B}C3◆ Study Etiquette{1B}C0\nTrain the Etiquette skill. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Offering{1B}C0\nDonate money to the temple. Friendship with the priest rises. A large offering lowers notoriety.
+@403
+Tea Master
+@404
+A tea master's house. You can buy, sell and appraise tea ware, study Tea and so on.\n\n{1B}C1● Tea Master Commands{1B}C0\nCommands available at the tea master's house.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Buy Tea Ware{1B}C0\nBuy tea ware. With Accounting, you can haggle.
+@405
+{1B}C3◆ Study Tea{1B}C0\nTrain the Tea skill. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Appraise Tea Ware{1B}C0\nHave unappraised tea ware appraised. Costs money.
+@406
+Artisan
+@407
+An artisan's house. You can commission and appraise works of art.\n\n{1B}C1● Artisan Commands{1B}C0\nCommands available at the artisan's house.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Commission{1B}C0\nCommission a work of art. Costs money and takes time.\n{1B}C3◆ Appraise Items{1B}C0\nHave unappraised items (art, books, treasures) appraised. Costs money.
+@408
+Western Trading Post
+@409
+A Western merchant's trading post. You can buy, sell and appraise Western goods, buy cannons and so on.\n\n{1B}C1● Trading Post Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info, including friendship.\n{1B}C3◆ Buy Western Goods{1B}C0\nBuy goods from the West. With Accounting, you can haggle.
+@410
+{1B}C3◆ Buy Saltpeter{1B}C0\nBuy saltpeter, an ingredient of gunpowder. With Accounting, you can haggle.\n{1B}C3◆ Sell Goods{1B}C0\nSell belongings (valuables). With Accounting, you can haggle.\n{1B}C3◆ Appraise Western Goods{1B}C0\nHave unappraised Western goods appraised. Costs money.
+@411
+{1B}C3◆ Buy Cannons{1B}C0\nBuy cannons. With Accounting, you can haggle. Only with a missionary's letter of introduction. Related mission: "Buy Cannons"
+@412
+Western Temple
+@413
+A Christian church. You can donate to the church, study Farming and so on.\n\n{1B}C1● Western Temple Commands{1B}C0\nOnly commands available for the hero's condition are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info, including friendship.\n{1B}C3◆ Study Farming{1B}C0\nTrain the Farming skill. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level.
+@414
+{1B}C3◆ Donate{1B}C0\nDonate money. Friendship with the missionary and the hero's luck rise. With high friendship, you may get a letter of introduction for buying cannons at the Western trading post.
+@415
+Court Noble
+@416
+A court noble's residence. Associate with nobles and ask them to speak to the court for you.\n\n{1B}C1● Court Noble Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info, including friendship.\n{1B}C3◆ Gift{1B}C0\nGive a gift to raise friendship. Once a month.
+@417
+{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship. Once a month, if you have tea ware.\n{1B}C3◆ Intercession{1B}C0\nWith the noble's help, make a gift to the court. Repeated gifts raise court standing and may earn court rank. Related mission: "Diplomacy: Court"\n{1B}C3◆ Imperial Peace{1B}C0\nHave the court mediate peace with a power you're at war with. Related mission: "Diplomacy: Peace"
+@418
+{1B}C3◆ Punitive Edict{1B}C0\nGet the court's just cause to attack another daimyo house. Only if the hero is a castle lord or higher with high friendship with the noble. * While the cause is valid, starting battles raises no notoriety.
+@419
+Imperial Palace
+@420
+The palace where the Emperor lives. Each year an imperial tournament is held in month 6. In other months nothing can be done and you're turned away. * Dealings with the court go through a court noble.
+@421
+Smith
+@422
+A workshop for sword and gun smiths. You can buy guns and cannons, work as a helper, study Gunnery and so on.\n\n{1B}C1● Smith Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills. Only for named people.
+@423
+{1B}C3◆ Study Gunnery{1B}C0\nTrain the Gunnery skill. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Buy Guns{1B}C0\nBuy guns. Delivery time depends on the amount. The friendlier the smith, the more and cheaper you can buy. With Accounting, you can haggle. Related mission: "Buy Guns"
+@424
+{1B}C3◆ Buy Cannons{1B}C0\nBuy cannons. Delivery time depends on the amount. The friendlier the smith, the more and cheaper you can buy. With Accounting, you can haggle. Related mission: "Buy Cannons"\n{1B}C3◆ Help Out{1B}C0\nWork as the smith's helper. Repeating it earns cards needed for smithing, and a small wage.\n{1B}C3◆ Smithing Tips{1B}C0\nHear tips for living as a smith: advice on the work.
+@425
+Guild
+@426
+A place to trade goods. You can buy and sell goods and check prices, and take jobs to earn money.\n\n{1B}C1● Guild Commands{1B}C0\nOnly commands available for the hero's rank are shown.\n{1B}C3◆ Check Prices{1B}C0\nCheck goods prices: unit price and stock.\n{1B}C3◆ Buy Goods{1B}C0\nBuy goods at the town's price. With Accounting, you can haggle.
+@427
+{1B}C3◆ Sell Goods{1B}C0\nSell goods at the town's price. With Accounting, you can haggle.\n{1B}C3◆ Invest{1B}C0\nInvest money in the town. Investing enough raises the town's size next month, which may bring new trade goods.\n{1B}C3◆ Talk{1B}C0\nTalk to the guild boss for information on goods and more.
+@428
+{1B}C3◆ Open Route{1B}C0\nLink a route with another town for regular trade. Routes: 1 for a manager, 5 + branches for a head. Only to towns in a trade area with your main shop or a branch. Naming an escort avoids bandit raids, but you must pay the escort fee.
+@429
+Dojo
+@430
+A dojo teaching swordsmanship and spearmanship. You can study martial arts, have arms appraised and so on.\n\n{1B}C1● Dojo Commands{1B}C0\nOnly commands available for the hero's condition and relation with the master are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Study Martial Arts{1B}C0\nTrain the Martial Arts skill. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level.
+@431
+{1B}C3◆ Bout{1B}C0\nChallenge them to a duel to raise friendship. Only for named people.\n{1B}C3◆ Swordsmen Rumors{1B}C0\nHear where master swordsmen are and tips for living as one.\n{1B}C3◆ Appraise Arms{1B}C0\nHave unappraised arms appraised. Costs money.\n{1B}C3◆ Enroll{1B}C0\nJoin the school. You may be refused with low friendship. Only for named people.
+@432
+{1B}C3◆ Learn Secret Art{1B}C0\nLearn a secret martial art (card). One a month.\n{1B}C3◆ Challenge Dojo{1B}C0\nChallenge the dojo. Success raises fame. You can't challenge the same dojo again for a while. Only at dojos of other schools.\n{1B}C3◆ Teach{1B}C0\nGive lessons for a fee. Only at dojos of your school or of no school.
+@433
+Home
+@434
+Your own home. Rest, save money and so on. With special cards you can build a workplace at home (dojo, clinic, forge, tea room).\n\n{1B}C1● Home Commands{1B}C0\nOnly commands available for the hero's rank and condition are shown.\n{1B}C3◆ Rest{1B}C0\nRest to recover strength.\n{1B}C3◆ Safe{1B}C0\nDeposit or withdraw savings.
+@435
+{1B}C3◆ Appraise Items{1B}C0\nAppraise unappraised items. Only with the "Connoisseur" card.\n{1B}C3◆ Move{1B}C0\nMove your home to another town. Not while in a merchant house.\n{1B}C3◆ Talk to Wife{1B}C0\nChat with your wife. Only if married.\n{1B}C3◆ Found School{1B}C0\nFound a new martial arts school. Only with the needed cards.
+@436
+{1B}C1● Workplace Commands{1B}C0\nWith a school license or certain cards, you can open a workplace at home.\n{1B}C3◆ Open Dojo{1B}C0\nBuild a dojo at home. With licenses from several schools, choose which. Only as a ronin; costs 1000 kan.\n{1B}C3◆ Go to Dojo{1B}C0\nGo to your dojo to teach or expand.
+@437
+{1B}C3◆ Open Forge{1B}C0\nBuild a forge at home.\n{1B}C3◆ Go to Forge{1B}C0\nGo to your forge to smelt iron, make arms and mix gunpowder.\n{1B}C3◆ Open Clinic{1B}C0\nBuild a clinic at home.\n{1B}C3◆ Go to Clinic{1B}C0\nGo to your clinic to mix medicine and treat townsfolk.
+@438
+{1B}C3◆ Open Tea Room{1B}C0\nBuild a tea room at home.\n{1B}C3◆ Go to Tea Room{1B}C0\nMake tea ware and hold tea gatherings. A gathering needs two guests invited in advance.
+@439
+Home (Merchant)
+@440
+Your own home. Rest, save money and so on. With special cards you can build a workplace at home (clinic, forge, tea room). * As manager or higher, the merchant house is your home; for those commands see the "Merchant House" help.\n\n{1B}C1● Home Commands{1B}C0\nOnly commands available for the hero's rank and condition are shown.\n{1B}C3◆ Rest{1B}C0\nRest to recover strength.
+@441
+{1B}C3◆ Safe{1B}C0\nDeposit or withdraw savings.\n{1B}C3◆ Appraise Items{1B}C0\nAppraise unappraised items. Only with the "Connoisseur" card.\n{1B}C3◆ Talk to Wife{1B}C0\nChat with your wife. Only if married.\n{1B}C3◆ Found School{1B}C0\nFound a new martial arts school. Only with the needed cards.
+@442
+{1B}C1● Workplace Commands{1B}C0\nWith a school license or certain cards, you can open a workplace at home.\n{1B}C3◆ Open Forge{1B}C0\nBuild a forge at home.\n{1B}C3◆ Go to Forge{1B}C0\nGo to your forge to smelt iron, make arms and mix gunpowder.
+@443
+{1B}C3◆ Open Clinic{1B}C0\nBuild a clinic at home.\n{1B}C3◆ Go to Clinic{1B}C0\nGo to your clinic to mix medicine and treat townsfolk.\n{1B}C3◆ Open Tea Room{1B}C0\nBuild a tea room at home.\n{1B}C3◆ Go to Tea Room{1B}C0\nMake tea ware and hold tea gatherings. A gathering needs two guests invited in advance.
+@444
+Castle
+@445
+Where castle lords and daimyo live. At your own castle you attend councils, report on missions and so on. If the hero is a daimyo or castle lord, it works like a home, and you hold councils to give missions and order battles.\n\n{1B}C1● Commands for Another Power's Lord{1B}C0\nOnly commands available for the hero's rank, relation and friendship and mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.
+@446
+{1B}C3◆ Gift{1B}C0\nGive the lord (daimyo) a belonging to raise friendship. Once a month.\n{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship. Once a month, if you have tea ware.\n{1B}C3◆ Diplomacy{1B}C0\nNegotiate with another house's daimyo. Available diplomacy depends on the hero's rank and mission.\n{1B}C3◆ Poach{1B}C0\nInvite another power's castle or province lord to defect to you. Only as castle lord or higher.
+@447
+{1B}C3◆ Bout{1B}C0\nChallenge them to a duel to raise friendship. Any number of times a month.\n{1B}C3◆ Defect{1B}C0\nOffer to defect to another daimyo. As castle or province lord you defect with your castle. Only if your castle borders theirs.\n{1B}C3◆ Advise Strategy{1B}C0\nWhen subject to another power, suggest it change its strategy, e.g. to name a power you want it to attack.
+@448
+{1B}C1● Commands for Your Own Lord{1B}C0\nOnly commands available for the hero's rank, relation and friendship are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Present{1B}C0\nGive your superior a belonging to raise friendship. Once a month.\n{1B}C3◆ Request Aides{1B}C0\nAsk for aides to be sent. Only as castle lord.
+@449
+{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship. Monthly, with tea ware.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.\n{1B}C3◆ Urge Rebellion{1B}C0\nUrge a lord in your power to go independent.
+@450
+{1B}C3◆ Ask Strategy{1B}C0\nAsk about the current strategy.\n{1B}C3◆ Recommend{1B}C0\nRecommend your rear vassal as a direct vassal.
+@451
+{1B}C1● Castle Commands (as castle lord){1B}C0\nCommands at your own castle when the hero is castle lord or higher.\n{1B}C3◆ Council Room{1B}C0\nGive orders to your officers or start battles.\n{1B}C3◆◆ Lord Orders{1B}C0\n  Order your castle and province lords to attack. Only as daimyo.\n{1B}C3◆◆ Give Missions{1B}C0\n  Give officers missions to advance policy and armament. Available missions depend on their rank. Results are reported later.
+@452
+{1B}C3◆◆ Request Others{1B}C0\n  Request policy work or schemes from merchants, ninja or pirates; requests depend on the kind of power.\n{1B}C3◆◆ Personnel{1B}C0\n  Promote, banish, appoint castle lords (daimyo), send aides (daimyo), return castles (province lord).\n{1B}C3◆◆ Transport{1B}C0\n  Move goods between castles you rule.\n{1B}C3◆◆ Move Base{1B}C0\n  Change the hero's residence castle.\n{1B}C3◆◆ Battle{1B}C0\n  Form units and attack another power's castles or armies.
+@453
+{1B}C3◆ Safe{1B}C0\nMove money in or out of savings and war funds.\n{1B}C3◆ Appraise{1B}C0\nAppraise unappraised valuables. Only with the "Connoisseur" card.\n{1B}C3◆ Tea Gathering{1B}C0\nInvite officers in the castle to a tea gathering to raise friendship. Only with tea ware.\n{1B}C3◆ Train Abilities{1B}C0\nRaise abilities (Leadership, Valor, Intellect, Politics, Charm).\n\n* Other commands are the same as at home.
+@454
+Castle Drill Ground
+@455
+A facility to drill the castle's troops: training, drafting and gifts. At an enemy castle, you can sneak in to gather information.\n\n{1B}C1● Drill Ground Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Train{1B}C0\nRaise training. A mock battle starts; winning with fewer losses gives better results. Related mission: "Train"
+@456
+{1B}C3◆ Draft{1B}C0\nIncrease troops. Choose [Pay Money], [Persuade] or [Show Valor]. Related mission: "Draft"\n{1B}C3◆ Give Gifts{1B}C0\nGive money to raise troop morale.\n{1B}C3◆ Talk{1B}C0\nTalk to the commander about problems with the forces.\n{1B}C3◆ Military/Supply Info{1B}C0\nInvestigate an enemy castle. Only after sneaking into another power's drill ground.
+@457
+Samurai Home
+@458
+Homes of officers belonging to the castle. You can raise friendship and learn their skills.\n\n{1B}C1● Samurai Home Commands{1B}C0\nOnly commands available for the hero's rank, relation and friendship with them and current mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities, skills and so on.
+@459
+{1B}C3◆ Poach{1B}C0\nInvite them to serve your power. Only if the hero is a base lord (castle lord, squad chief, ship captain, manager) or higher.\n{1B}C3◆ Recruit as Direct Vassal{1B}C0\nInvite a rear vassal (a subordinate's subordinate) to be a direct vassal. Only as head of a power (daimyo, boss, chief, master).\n{1B}C3◆ Attack{1B}C0\nAttack and wound them. Only if they belong to another power.
+@460
+{1B}C3◆ Serve{1B}C0\nServe an Ashigaru General or higher as a rear vassal. Only if they belong to another power.\n{1B}C3◆ Gift{1B}C0\nGive a valuable to raise friendship. Once a month.\n{1B}C3◆ Tea{1B}C0\nServe tea to raise friendship. Once a month, if you have tea ware.\n{1B}C3◆ Bout{1B}C0\nChallenge them to a duel to raise friendship. Any number of times a month.
+@461
+{1B}C3◆ Study Skill{1B}C0\nLearn a skill they have. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Teach Skill{1B}C0\nTeach them one of your strong skills. Only as base lord or higher. Depending on results and their ability, their skill may rise. Cost and days depend on the skill level.
+@462
+{1B}C3◆ Officer Rumors{1B}C0\nHear rumors about other officers in the castle: personality and tastes.\n{1B}C3◆ Enroll{1B}C0\nJoin their school and make them your teacher. Only if they belong to a school.\n{1B}C3◆ Learn Secret Art{1B}C0\nLearn a secret martial art (card). One a month.\n{1B}C3◆ Grant License{1B}C0\nGrant a license of your school. Only if they are the hero's student.
+@463
+Home
+@464
+Your own home. Rest, save money and so on. With special cards you can build a workplace at home (clinic, forge, tea room). * As castle lord or higher, the castle is your home; for those commands see the "Castle" help.\n\n{1B}C1● Home Commands{1B}C0\nOnly commands available for the hero's rank and condition are shown.\n{1B}C3◆ Rest{1B}C0\nRest to recover strength.
+@465
+{1B}C3◆ Safe{1B}C0\nDeposit or withdraw savings.\n{1B}C3◆ Appraise Items{1B}C0\nAppraise unappraised items. Only with the "Connoisseur" card.\n{1B}C3◆ Talk to Wife{1B}C0\nChat with your wife. Only if married.\n{1B}C3◆ Found School{1B}C0\nFound a new martial arts school. Only with the needed cards.
+@466
+{1B}C1● Workplace Commands{1B}C0\nWith a school license or certain cards, you can open a workplace at home.\n{1B}C3◆ Open Forge{1B}C0\nBuild a forge at home.\n{1B}C3◆ Go to Forge{1B}C0\nGo to your forge to smelt iron, make arms and mix gunpowder.
+@467
+{1B}C3◆ Open Clinic{1B}C0\nBuild a clinic at home.\n{1B}C3◆ Go to Clinic{1B}C0\nGo to your clinic to mix medicine and treat townsfolk.\n{1B}C3◆ Open Tea Room{1B}C0\nBuild a tea room at home.\n{1B}C3◆ Go to Tea Room{1B}C0\nMake tea ware and hold tea gatherings. A gathering needs two guests invited in advance.
+@468
+Ninja Manor
+@469
+The manor of the boss or squad chief leading a ninja band. If the hero belongs to this village, missions are given here. If the hero is boss or squad chief, it works like a home, and you give missions and order battles.\n\n{1B}C1● Commands for Another Power's Boss/Squad Chief{1B}C0\nOnly commands available for the hero's rank, relation and friendship and mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.
+@470
+{1B}C3◆ Poach{1B}C0\nInvite another power's squad chief to defect to you. Only as squad chief or higher.\n{1B}C3◆ Gift{1B}C0\nGive the boss (squad chief) a belonging to raise friendship. Once a month.\n{1B}C3◆ Diplomacy{1B}C0\nNegotiate with the ninja band. Available diplomacy depends on the hero's rank and mission.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.
+@471
+{1B}C3◆ Request Work{1B}C0\nRequest covert work against another power's base. Only as base lord or higher (castle lord, ship captain), or with the mission "Scout Base", "Sabotage", "Rumors" or "Arson".
+@472
+{1B}C1● Commands for Your Own Boss/Squad Chief{1B}C0\nCommands toward the boss or squad chief of the hero's ninja band. Only commands available for the hero's condition, relation and friendship are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Present{1B}C0\nGive your superior a belonging to raise friendship. Once a month.\n{1B}C3◆ Leave{1B}C0\nLeave the power and become a ronin.
+@473
+{1B}C3◆ Request Aides{1B}C0\nAsk for aides to be sent. Only as squad chief or higher.\n{1B}C3◆ Ask Strategy{1B}C0\nAsk about the current strategy.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.\n{1B}C3◆ Recommend{1B}C0\nRecommend your rear vassal as a direct vassal.\n{1B}C3◆ Urge Rebellion{1B}C0\nUrge a squad chief of your power to go independent.
+@474
+{1B}C1● Commands as Boss/Squad Chief{1B}C0\nCommands at your own ninja manor when the hero is squad chief or higher.\n{1B}C3◆ Command Room{1B}C0\nGive orders to subordinates or start battles.\n{1B}C3◆{1B}C3◆ Attack Orders{1B}C0\n  Give orders to your squad chiefs. Only as boss.\n{1B}C3◆{1B}C3◆ Give Missions{1B}C0\n  Give missions to advance covert work and diplomacy. Available missions depend on their rank. Results are reported later.
+@475
+{1B}C3◆{1B}C3◆ Request Others{1B}C0\n  Ask merchants to repair or expand the village.\n{1B}C3◆{1B}C3◆ Personnel{1B}C0\n  Promote, banish, appoint squad chiefs (boss), send aides (boss).\n{1B}C3◆{1B}C3◆ Transport{1B}C0\n  Move goods between villages you rule.\n{1B}C3◆{1B}C3◆ Move Base{1B}C0\n  Change the hero's home base.\n{1B}C3◆{1B}C3◆ Battle{1B}C0\n  Form units and attack another power's bases or armies.
+@476
+{1B}C3◆ Safe{1B}C0\nMove money in or out of savings and war funds.\n{1B}C3◆ Appraise{1B}C0\nAppraise unappraised valuables. Only with the "Connoisseur" card.\n{1B}C3◆ Train Abilities{1B}C0\nRaise abilities (Leadership, Valor, Intellect, Politics, Charm).\n\n* Other commands are the same as at home.
+@477
+Village Drill Ground
+@478
+A facility to drill the village's troops: training and gifts. At an enemy village, you can sneak in to gather information.\n\n{1B}C1● Drill Ground Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Train{1B}C0\nRaise training. A mock battle starts; winning with fewer losses gives better results. Related mission: "Train"
+@479
+{1B}C3◆ Give Gifts{1B}C0\nGive money to raise morale.\n{1B}C3◆ Talk{1B}C0\nAsk a ninja about problems.\n{1B}C3◆ Scout Village{1B}C0\nSneak into another power's village to scout it.\n{1B}C3◆ Become a Ninja{1B}C0\nJoin the band ruling the village. Low Ninjutsu gets you turned away.
+@480
+Village Training Hall
+@481
+A place to study the Ninjutsu skill. Besides the skill, you can learn the village's own ninja arts (cards). If you belong to a band based in another village, you sneak in; if you get in, you may learn that village's own arts (cards).
+@482
+Ninja Home
+@483
+Homes of ninja belonging to the village. You can raise friendship and learn their skills.\n\n{1B}C1● Ninja Home Commands{1B}C0\nOnly commands available for the hero's rank, relation and friendship with them and current mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities, skills and so on.
+@484
+{1B}C3◆ Poach{1B}C0\nInvite them to serve your power. Only if the hero is a base lord (castle lord, squad chief, ship captain, manager) or higher.\n{1B}C3◆ Recruit as Direct Vassal{1B}C0\nInvite a rear vassal (a subordinate's subordinate) to be a direct vassal. Only as head of a power (daimyo, boss, chief, master).\n{1B}C3◆ Attack{1B}C0\nAttack and wound them. Only if they belong to another power.
+@485
+{1B}C3◆ Become a Ninja{1B}C0\nBecome a rear vassal of a chunin or higher. Only if they belong to another power.\n{1B}C3◆ Gift{1B}C0\nGive a valuable to raise friendship. Once a month.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.\n{1B}C3◆ Rumors{1B}C0\nHear rumors about other ninja in the village: personality and tastes.
+@486
+{1B}C3◆ Study Skill{1B}C0\nLearn a skill they have. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Enroll{1B}C0\nJoin their school and make them your teacher. Only if they belong to a school.
+@487
+{1B}C3◆ Learn Secret Art{1B}C0\nLearn a secret martial art (card). One a month.\n{1B}C3◆ Grant License{1B}C0\nGrant a license of your school. Only if they are the hero's student.
+@488
+Home
+@489
+Your own home. Rest, save money and so on. With special cards you can build a workplace at home (clinic, forge, tea room). * As squad chief or higher, the ninja manor is your home; for those commands see the "Ninja Manor" help.\n\n{1B}C1● Home Commands{1B}C0\nOnly commands available for the hero's rank and condition are shown.\n{1B}C3◆ Rest{1B}C0\nRest to recover strength.
+@490
+{1B}C3◆ Safe{1B}C0\nDeposit or withdraw savings.\n{1B}C3◆ Appraise Items{1B}C0\nAppraise unappraised items. Only with the "Connoisseur" card.\n{1B}C3◆ Talk to Wife{1B}C0\nChat with your wife. Only if married.\n{1B}C3◆ Found School{1B}C0\nFound a new martial arts school. Only with the needed cards.
+@491
+{1B}C1● Workplace Commands{1B}C0\nWith a school license or certain cards, you can open a workplace at home.\n{1B}C3◆ Open Forge{1B}C0\nBuild a forge at home.\n{1B}C3◆ Go to Forge{1B}C0\nGo to your forge to smelt iron, make arms and mix gunpowder.
+@492
+{1B}C3◆ Open Clinic{1B}C0\nBuild a clinic at home.\n{1B}C3◆ Go to Clinic{1B}C0\nGo to your clinic to mix medicine and treat townsfolk.\n{1B}C3◆ Open Tea Room{1B}C0\nBuild a tea room at home.\n{1B}C3◆ Go to Tea Room{1B}C0\nMake tea ware and hold tea gatherings. A gathering needs two guests invited in advance.
+@493
+Pirate Manor
+@494
+The manor of the chief or ship captain leading a pirate band. If the hero belongs to this fort, councils are held here. If the hero is chief or ship captain, it works like a home, and you hold councils to give missions and order battles.\n\n{1B}C1● Commands for Another Power's Chief/Captain{1B}C0\nOnly commands available for the hero's rank, relation and friendship and mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.
+@495
+{1B}C3◆ Poach{1B}C0\nInvite another power's ship captain to defect to you. Only as ship captain or higher.\n{1B}C3◆ Gift{1B}C0\nGive the chief (ship captain) a belonging to raise friendship. Once a month.\n{1B}C3◆ Diplomacy{1B}C0\nNegotiate with the pirate band. Available diplomacy depends on the hero's rank and mission.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.
+@496
+{1B}C3◆ Request Work{1B}C0\nRequest covert work against another power's base. Only as base lord or higher (castle lord, ship captain), or with the mission "Scout Base", "Sabotage", "Rumors" or "Arson".
+@497
+{1B}C1● Commands for Your Own Chief/Captain{1B}C0\nCommands toward the chief or ship captain of the hero's pirate band. Only commands available for the hero's condition, relation and friendship are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities and skills.\n{1B}C3◆ Present{1B}C0\nGive your superior a belonging to raise friendship. Once a month.\n{1B}C3◆ Leave{1B}C0\nLeave the power and become a ronin.
+@498
+{1B}C3◆ Request Aides{1B}C0\nAsk for aides to be sent. Only as ship captain or higher.\n{1B}C3◆ Ask Strategy{1B}C0\nAsk about the current strategy.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.\n{1B}C3◆ Recommend{1B}C0\nRecommend your rear vassal as a direct vassal.\n{1B}C3◆ Urge Rebellion{1B}C0\nUrge a ship captain of your power to go independent.
+@499
+{1B}C1● Commands as Chief/Captain{1B}C0\nCommands at your own pirate manor when the hero is ship captain or higher.\n{1B}C3◆ Fort Lord's Room{1B}C0\nGive orders to subordinates or start battles.\n{1B}C3◆{1B}C3◆ Attack Orders{1B}C0\n  Give orders to your ship captains. Only as chief.\n{1B}C3◆{1B}C3◆ Give Missions{1B}C0\n  Give missions to advance covert work and diplomacy. Available missions depend on their rank. Results are reported later.
+@500
+{1B}C3◆{1B}C3◆ Request Others{1B}C0\n  Ask merchants or ninja to repair the fort or work against other powers.\n{1B}C3◆{1B}C3◆ Personnel{1B}C0\n  Promote, banish, appoint ship captains (chief), send aides (chief).\n{1B}C3◆{1B}C3◆ Transport{1B}C0\n  Move goods between forts you rule.\n{1B}C3◆{1B}C3◆ Move Base{1B}C0\n  Change the hero's home base.\n{1B}C3◆{1B}C3◆ Battle{1B}C0\n  Form units and attack another power's bases or armies.
+@501
+{1B}C3◆ Safe{1B}C0\nMove money in or out of savings and war funds.\n{1B}C3◆ Appraise{1B}C0\nAppraise unappraised valuables. Only with the "Connoisseur" card.\n{1B}C3◆ Train Abilities{1B}C0\nRaise abilities (Leadership, Valor, Intellect, Politics, Charm).\n\n* Other commands are the same as at home.
+@502
+Fort Drill Ground
+@503
+A facility to drill the fort's troops: training and gifts. At an enemy fort, you can sneak in to gather information.\n\n{1B}C1● Drill Ground Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Train{1B}C0\nRaise training. A mock battle starts; winning with fewer losses gives better results. Related mission: "Train"
+@504
+{1B}C3◆ Give Gifts{1B}C0\nGive money to raise morale.\n{1B}C3◆ Talk{1B}C0\nAsk a pirate about problems.\n{1B}C3◆ Scout Fort{1B}C0\nSneak into another power's fort to scout it.\n{1B}C3◆ Become a Pirate{1B}C0\nJoin the band ruling the fort. Low Navy gets you turned away.
+@505
+Fort Training Hall
+@506
+A place to study the Navy skill. Besides the skill, you can learn the fort's own naval techniques (cards). Some cards can only be had at certain forts.
+@507
+Shipyard
+@508
+Where warships for sea battles are built. Depending on technology, you can build sekibune, large ships and ironclads.\n\n{1B}C1● Shipyard Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Shipbuilding{1B}C0\nBuild sekibune to add to the fort's count. As boatman or lower, only with a mission. Related mission: "Shipbuilding"
+@509
+{1B}C3◆ Build Large Ships{1B}C0\nBuild large ships to add to the fort's count. Only if your power has the technology. Related mission: "Build Large Ships"\n{1B}C3◆ Build Ironclads{1B}C0\nBuild ironclads to add to the fort's count. Only if your power has the technology.
+@510
+Pirate Home
+@511
+Homes of pirates belonging to the fort. You can raise friendship and learn their skills.\n\n{1B}C1● Pirate Home Commands{1B}C0\nOnly commands available for the hero's rank, relation and friendship with them and current mission are shown.\n{1B}C3◆ Person Info{1B}C0\nSee their info: abilities, skills and so on.
+@512
+{1B}C3◆ Poach{1B}C0\nInvite them to serve your power. Only if the hero is a base lord (castle lord, squad chief, ship captain, manager) or higher.\n{1B}C3◆ Recruit as Direct Vassal{1B}C0\nInvite a rear vassal (a subordinate's subordinate) to be a direct vassal. Only as head of a power (daimyo, boss, chief, master).\n{1B}C3◆ Attack{1B}C0\nAttack and wound them. Only if they belong to another power.
+@513
+{1B}C3◆ Become a Pirate{1B}C0\nBecome a rear vassal of a bosun or higher. Only if they belong to another power.\n{1B}C3◆ Gift{1B}C0\nGive a valuable to raise friendship. Once a month.\n{1B}C3◆ Bout{1B}C0\nDuel them to raise friendship. No monthly limit.\n{1B}C3◆ Rumors{1B}C0\nHear rumors about other pirates in the fort: personality and tastes.
+@514
+{1B}C3◆ Study Skill{1B}C0\nLearn a skill they have. Results may raise the skill or earn cards. Friendship rises too. Cost and days depend on the skill level. * Once the skill reaches 4 and they say "nothing more to teach", you can't train further.\n{1B}C3◆ Enroll{1B}C0\nJoin their school and make them your teacher. Only if they belong to a school.
+@515
+{1B}C3◆ Learn Secret Art{1B}C0\nLearn a secret martial art (card). One a month.\n{1B}C3◆ Grant License{1B}C0\nGrant a license of your school. Only if they are the hero's student.
+@516
+Home
+@517
+Your own home. Rest, save money and so on. With special cards you can build a workplace at home (clinic, forge, tea room). * As ship captain or higher, the pirate manor is your home; for those commands see the "Pirate Manor" help.\n\n{1B}C1● Home Commands{1B}C0\nOnly commands available for the hero's rank and condition are shown.\n{1B}C3◆ Rest{1B}C0\nRest to recover strength.
+@518
+{1B}C3◆ Safe{1B}C0\nDeposit or withdraw savings.\n{1B}C3◆ Appraise Items{1B}C0\nAppraise unappraised items. Only with the "Connoisseur" card.\n{1B}C3◆ Talk to Wife{1B}C0\nChat with your wife. Only if married.\n{1B}C3◆ Found School{1B}C0\nFound a new martial arts school. Only with the needed cards.
+@519
+{1B}C1● Workplace Commands{1B}C0\nWith a school license or certain cards, you can open a workplace at home.\n{1B}C3◆ Open Forge{1B}C0\nBuild a forge at home.\n{1B}C3◆ Go to Forge{1B}C0\nGo to your forge to smelt iron, make arms and mix gunpowder.
+@520
+{1B}C3◆ Open Clinic{1B}C0\nBuild a clinic at home.\n{1B}C3◆ Go to Clinic{1B}C0\nGo to your clinic to mix medicine and treat townsfolk.\n{1B}C3◆ Open Tea Room{1B}C0\nBuild a tea room at home.\n{1B}C3◆ Go to Tea Room{1B}C0\nMake tea ware and hold tea gatherings. A gathering needs two guests invited in advance.
+@521
+Leaving town opens the travel screen. ⑦ switches between Main, History and Saved. "History" picks a destination from recently visited bases; "Saved" lets you register bases you visit often. You can also press ② and move the cursor on the map to pick a destination directly.\n\n{1B}C1● Travel Commands{1B}C0\n{1B}C3◆ Return Home{1B}C0\nGo to the base where your home is.\n{1B}C3◆ Choose Destination{1B}C0\nPick a destination from all bases.
+@522
+{1B}C3◆ Mission Base{1B}C0\nGo to the target base of your current mission.\n{1B}C3◆ Job Base{1B}C0\nGo to the target base of your current job.\n{1B}C3◆ Job Origin{1B}C0\nReturn to the base where you took the job.\n{1B}C3◆ Wait{1B}C0\nWait without doing anything. Strength drops with the days.
+@523
+{1B}C3◆ Meditate{1B}C0\nStrive to awaken a secret art (duel card). Only at a waterfall, mountain or shrine landmark. Strength drops with the days.\n{1B}C3◆ Gather Herbs{1B}C0\nGather herbs needed for medicine. Strength drops with the days. Only with the "Gather Herbs" card.\n{1B}C3◆ Collect Iron Sand{1B}C0\nGather iron sand needed to smelt iron. Strength drops with the days. Only with the "Collect Iron Sand" card.

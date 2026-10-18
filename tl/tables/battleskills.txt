@@ -1,0 +1,64 @@
+0	Cavalry Charge
+1	Red Charge
+2	Archer Charge
+3	Quick Load
+4	Team Fire
+5	Triple Volley
+6	Sniping
+7	Gun Barrage
+8	Rolling Fire
+9	Gale Ships
+10	Volley
+11	Butterfly Form
+12	Water Pin
+13	Water Charge
+14	Scuttle
+15	Fire Pots
+16	Pitfall
+17	Far Sight
+18	False Report
+19	Abyss Art
+20	Skill Break
+21	Confusion
+22	Mist Hiding
+23	Infighting
+24	Thunder Blast
+25	Demon Legs
+26	Devil's Plan
+27	Crimson Fire
+28	Bewilder
+29	Night Raid
+30	Gate Blast
+31	Banquet
+32	Lure In
+33	Firm Guard
+34	Fight Hard
+35	Teamwork
+36	Breakthrough
+37	All-Out Attack
+38	Ambush
+39	Recover
+40	Godspeed
+41	Wheel Attack
+42	Furin Kazan
+43	Body Double
+44	Decoy Ambush
+45	Fire Arrows
+46	Strong Bow
+47	Steady Rain
+48	Arrow Barrage
+49	Abuse
+50	Provoke
+51	Rally
+52	Threaten
+53	Intimidate
+54	Encourage
+55	Storm
+56	Fire Attack
+57	Tunnelling
+58	Boiling Water
+59	Rockfall
+60	Rush Repair
+61	Bishamonten
+62	Rain Shooting
+63	Reinforce

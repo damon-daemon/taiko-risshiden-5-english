@@ -1,0 +1,84 @@
+0	Assault
+1	Flurry
+2	Downward Cut
+3	Exquisite Sword
+4	Sweeping Blade
+5	Poison Cut
+6	Moon Shadow
+7	One Clean Stroke
+8	Eight Gods' Blade
+9	The One Sword
+10	Rolling Sword
+11	Go-Board Cut
+12	Iai Cut
+13	Manji Slip
+14	Haze
+15	Two Swords
+16	Tiger Swing
+17	Slipping Thrust
+18	Clinging Flower
+19	Twin Kunai
+20	Half Moon
+21	Plover
+22	Vital Shot
+23	Double Shot
+24	Mighty Bow
+25	Poison Kunai
+26	Deadly Kunai
+27	Spear Whirl
+28	Flying Bird
+29	Side Wheel
+30	Divine Sword
+31	Floating Boat
+32	Garuda King Sword
+33	Divine Bow
+34	Flint Spark
+35	Heaven's Bow
+36	Cross Throw
+37	Kunai Storm
+38	Wild Fire
+39	Cicada Shell Art
+40	Pull Down
+41	Mat Flip Art
+42	No-Sword Seize
+43	Body Blow
+44	Rib Inch Cut
+45	Swallow Cut
+46	Wave Return
+47	Dream Sword
+48	Hilt Turn
+49	Great Strength
+50	Diamond Strength
+51	Unique Sword
+52	Iron Wall
+53	Tengu Scroll
+54	Mind's Eye
+55	Swift-Foot Art
+56	Clone Art
+57	Hazy Shadow Art
+58	Ninja Dog Art
+59	Leaf Hiding Art
+60	Salve
+61	Staunch
+62	Kiai Shout
+63	Shadow Pin
+64	Cloud Hiding Art
+65	Coin Toss
+66	Insult
+67	Bribe
+68	Puppet Art
+69	Great Roar
+70	Keen Eye
+71	Rakshasa
+72	Cat Clap
+73	Lavish Treat
+74	Lightning Flash
+75	Flying Dragon Sword
+76	Iron Breaker
+77	Rock Crusher
+78	Back Wheel
+79	Moon Breaker
+80	Poison Arrow
+81	Divine Spirit
+82	Selflessness
+83	Vanishing Art

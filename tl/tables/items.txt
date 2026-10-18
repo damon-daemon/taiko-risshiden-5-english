@@ -1,0 +1,350 @@
+0	Matsukaze
+1	Taishaku Kurige
+2	Hojo Tsukige
+3	Shiroishi
+4	Kurokumo
+5	Hoshizaki
+6	Mikuni Black
+7	Omi Black
+8	Kohibari
+9	Hyakudan
+10	Aizu Black
+11	Packhorse
+12	Paladin's Armour
+13	Chiyou's Armour
+14	Black Laced Domaru
+15	Many-Coloured Haramaki
+16	Black Lacquer Five-Plate
+17	Gold-Scale Many-Colour Armour
+18	Gold Lacquer Armour
+19	Silver Lacquer Armour
+20	Red-Laced White-Shoulder Armour
+21	Smoked-Leather Sugake Armour
+22	Fern Armour
+23	Red-Laced Small Haramaki
+24	Blue-and-Red Laced Armour
+25	Nanban Cuirass Armour
+26	Chain Armour
+27	Ashigaru Armour
+28	Tonbogiri
+29	Nihongo
+30	Otegine
+31	Kyo Nobukuni
+32	Ikkoku Nagayoshi
+33	Kikuchi Spear
+34	Half Bow
+35	Tube Spear
+36	Hooked Spear
+37	Cross-Bladed Spear
+38	Single-Hook Spear
+39	Plain Spear
+40	Murasame
+41	Bakuya
+42	Muramasa
+43	Masamune
+44	Onimaru
+45	Yoshimitsu Honebami
+46	Sadamune
+47	Dojigiri
+48	Bizen Osafune Kanemitsu
+49	Kiku Ichimonji
+50	Mikazuki Munechika
+51	Heshikiri
+52	Kagehide
+53	Sadatoshi
+54	Koryu Kagemitsu
+55	Odenta
+56	Nikko Sukezane
+57	Kamewari Sword
+58	Daihannya Nagamitsu
+59	Amakuni
+60	Raikiri
+61	Go Yoshihiro
+62	Ichigo Hitofuri
+63	Konotegashiwa
+64	Kuwayama
+65	Aizu Shintogo
+66	Monohoshizao
+67	Juzumaru Tsunetsugu
+68	Sozan Samonji
+69	Plain Sickle
+70	Fukuoka Ichimonji
+71	Nagamitsu Naginata
+72	Kunimitsu Dagger
+73	Osafune Short Sword
+74	Omi Wakizashi
+75	Wakizashi
+76	Unsigned Spear
+77	Bamboo Blade
+78	Tawara Toda's Bow
+79	Chinzei Hachiro's Bow
+80	Nasu no Yoichi's Bow
+81	Rattan-Bound Bow
+82	Strong Bow
+83	Short Bow
+84	Triple Barrel
+85	Kunitomo Gun
+86	Horse Gun
+87	Tanegashima
+88	Ishibiya Cannon
+89	Peerless Kunai
+90	Sun-Moon Meteor
+91	Steel Shuriken
+92	Kunai
+93	Shuriken
+94	Flying Hammer
+95	Sickle of Yomi
+96	Golden Weight
+97	Ninja Sickle
+98	Chain-Sickle
+99	Landscape of Four Seasons
+100	Cranes with Waka
+101	Mongol Invasion Scrolls
+102	Catfish and Gourd
+103	Flowers with Waka
+104	Pine and Hawk
+105	Nachi Waterfall
+106	Ink Bamboo
+107	Wind and Rain Landscape
+108	Sunset Landscape
+109	Fishing Village at Dusk
+110	Flowers and Birds
+111	Bamboo and Fowl
+112	Chinese Hanging Scroll
+113	In and Around Kyoto
+114	Pine Forest Screen
+115	Chinese Lions Screen
+116	Chishakuin Maples
+117	Cypress Screen
+118	Maple Viewing Screen
+119	Merrymaking Under Blossoms
+120	White Chrysanthemums Screen
+121	Tale of Genji Pictures
+122	Graffiti Screen
+123	Korean Seal
+124	Korean Pass
+125	Royal Seal
+126	King of Japan Seal
+127	Japan Tally
+128	Ming Tally
+129	Voyage Permit
+130	Trade Permit
+131	Commerce Permit
+132	Jewelled Crown
+133	Ranjatai Incense
+134	Diamond
+135	Ruby Ring
+136	Jade Necklace
+137	Gold Nugget
+138	Great Pearl
+139	Tortoiseshell Work
+140	Sado Gold
+141	Iwami Silver
+142	Gold Grains
+143	Kojiki
+144	Nihon Shoki
+145	The Tale of Genji
+146	The Pillow Book
+147	Keitekishu
+148	Gen'an's Notes
+149	Kokin Wakashu
+150	Man'yoshu
+151	Hojoki
+152	Essays in Idleness
+153	Tales of Ise
+154	Tale of the Bamboo Cutter
+155	Kagero Diary
+156	Okagami
+157	Eiga Monogatari
+158	Setsuyoshu Dictionary
+159	Jikkinsho
+160	Writing Practice
+161	Zuo Zhuan
+162	The Analects
+163	Wei Liaozi
+164	Mencius
+165	Wen Xuan
+166	Questions of Li Weigong
+167	The Great Learning
+168	Guiguzi
+169	Doctrine of the Mean
+170	Records of the Historian
+171	Book of Five Rings
+172	Taiheiki
+173	Tale of the Heike
+174	Rusty Gun
+175	Zizhi Tongjian
+176	Gukansho
+177	Asakura Soteki's Sayings
+178	Murakami's Sea Battle Methods
+179	Essentials of Government
+180	Zenrin Kokuhoki
+181	Shipping Code
+182	Azuma Kagami
+183	Kaifuso
+184	Aesop's Fables
+185	Wakan Roeishu
+186	Secrets of Sun Tzu
+187	Secrets of Wu Zi
+188	The Art of War
+189	Wu Zi
+190	Bamboo Shuriken
+191	Three Strategies
+192	Six Secret Teachings
+193	Mengde New Book
+194	Strategies of the Warring States
+195	Methods of the Sima
+196	Han Feizi
+197	Namida Scoop
+198	Facing Lions Censer
+199	Plover Censer
+200	Yoroboshi Vase
+201	Kiseto Vase
+202	Celadon Vase
+203	Ear Pick
+204	Kotenmyo Hiragumo Kettle
+205	Otogoze Kettle
+206	Hailstone Kettle
+207	Sawankhalok Ware
+208	Ashiya Kettle
+209	Tenmyo Kettle
+210	Tsukumo Nasu Caddy
+211	Matsushima Jar
+212	Juko Nasu Caddy
+213	Mikazuki Tea Jar
+214	Hatsuhana Katatsuki
+215	Narashiba Katatsuki
+216	Nitta Katatsuki
+217	Joo Nasu Caddy
+218	Yamanoi Katatsuki
+219	Asakura Bunrin
+220	Sogo Nasu Caddy
+221	Hashidate Jar
+222	Kitano Nasu Caddy
+223	Fuji Nasu Caddy
+224	Uchigumori Taikai
+225	Nitari Nasu Caddy
+226	Hashihime Caddy
+227	Tanba Tea Jar
+228	Cochin Caddy
+229	Shonzui Ware
+230	Bakohan Bowl
+231	Matsumoto Bowl
+232	Fujisan Bowl
+233	Shichiri Bowl
+234	Star Temmoku Bowl
+235	Hayabune Bowl
+236	Tsutsuizutsu Bowl
+237	Aoido Shibata Bowl
+238	Black Raku Hachibiraki
+239	Inaba Yohen Temmoku
+240	Korean Karatsu Bowl
+241	Korean Tea Bowl
+242	Oido Kaga Bowl
+243	White Temmoku Bowl
+244	Kiseto Tea Bowl
+245	Black Raku Bowl
+246	Red Raku Bowl
+247	Old Rice Bowl
+248	World Map Screen
+249	Striking Clock
+250	Glass Jar
+251	Gold Watch
+252	Silver Watch
+253	Luzon Jar
+254	Rosary
+255	Telescope
+256	Jewel Box
+257	Globe
+258	Crucifix
+259	Celestial Globe
+260	Music Box
+261	Pocket Watch
+262	Harpsichord
+263	Bible
+264	Flute
+265	Carpet
+266	Perfume
+267	Encyclopedia
+268	Peacock
+269	Parrot
+270	Pipe
+271	Wine Glass
+272	Cigar
+273	Cloak
+274	Konpeito
+275	Soap
+276	Fujian Tea
+277	Black Tea
+278	Castella
+279	Glass Beads
+280	Bolo Biscuits
+281	Butter
+282	Doburoku
+283	Chrysanthemum Sake
+284	Temple Sake
+285	Fine Sake
+286	Clear Sake
+287	Red Wine
+288	Useless Medicine
+289	Beer
+290	Rikyu Sake
+291	Grape Wine
+292	Sojintan Tonic
+293	Uiro Pills
+294	Wonder Drug
+295	Cold Medicine
+296	Hangontan
+297	Mankintan
+298	Miyoshino Caddy
+299	Bunbuku Kettle
+300	Woodcutter Inkstone Box
+301	Seppo Bowl
+302	Seisuisho
+303	Eight Drinking Immortals
+304	Lute, Go, Books and Art
+305	Cloud Dragon
+306	Peony and Plum Screen
+307	Drying Nets Screen
+308	Seven Sages of Bamboo
+309	Hamamatsu Screen
+310	Pleasures Screen
+311	Monkey in Dead Tree
+312	Xu You and Chao Fu
+313	Nag
+314	Shodan Chiyo
+315	Tsukubashu
+316	Shinsen Inu Tsukubashu
+317	Gikeiki
+318	Shomonki
+319	Hien
+320	Hayabusa
+321	Shiden
+322	Amenokago Bow
+323	Hachiman Taro's Bow
+324	Nanko's Bow
+325	Yasha Sickle
+326	Rakshasa Sickle
+327	Devadatta
+328	Kamedoshi
+329	Sukemune
+330	Enju Kunimura
+331	Ippa Gun
+332	Raiko Gun
+333	Argot Gun
+334	Shinsoku
+335	Senjuin Nagayoshi
+336	Omodaka Armour
+337	Kine no Ore Vase
+338	Clay Pot
+339	Hozuki Bunrin
+340	Tamagaki Bunrin
+341	Sutego Jar
+342	Toyobo Bowl
+343	Manzai Taikai
+344	Hakamagoshi Caddy
+345	Futari Shizuka
+346	Funabashi Inkstone Box
+347	Carriage Quarrel Screen
+348	Emperors Screen
+349	Sacred Horse

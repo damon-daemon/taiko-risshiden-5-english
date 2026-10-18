@@ -1,0 +1,150 @@
+0	Training
+1	Long Train
+2	Sell Rice
+3	Raise Funds
+4	Keep Order
+5	New Fields
+6	Mine Work
+7	Buy Rice
+8	Buy Horses
+9	Buy Guns
+10	Buy Cannon
+11	Train
+12	Conscript
+13	Repair
+14	Expand
+15	Find Talent
+16	Scout Base
+17	Sabotage
+18	Rumours
+19	Arson
+20	Alliance
+21	Break Pact
+22	Vassalize
+23	Submit
+24	Declare War
+25	Make Peace
+26	Goodwill
+27	Court Visit
+28	Recruit
+29	Take Base
+30	Take Prov.
+31	Take Power
+32	Take Region
+33	Grow Town
+34	Build Army
+35	Training
+36	Long Train
+37	Buy Rice
+38	Escort VIP
+39	Set Trend
+40	Seek Riches
+41	Get Rarity
+42	Steal Rice
+43	Attack VIP
+44	Guard Route
+45	Raid Route
+46	Route Talks
+47	Hunt Rogues
+48	Train
+49	Conscript
+50	Repair
+51	Expand
+52	Find Talent
+53	Scout Base
+54	Sabotage
+55	Rumours
+56	Arson
+57	Alliance
+58	Break Pact
+59	Submit
+60	Declare War
+61	Make Peace
+62	Goodwill
+63	Recruit
+64	Spy Plans
+65	Take Base
+66	Take Power
+67	Build Army
+68	Training
+69	Long Train
+70	Buy Rice
+71	Escort VIP
+72	Get Rarity
+73	Guard Route
+74	Raid Route
+75	Seize Ship
+76	Embargo
+77	Hunt Pirate
+78	Raid Coast
+79	Route Talks
+80	Guard Port
+81	Train
+82	Refit Ships
+83	Big Ships
+84	Iron Ships
+85	Repair
+86	Expand
+87	Find Talent
+88	Scout Base
+89	Sabotage
+90	Arson
+91	Alliance
+92	Break Pact
+93	Submit
+94	Declare War
+95	Make Peace
+96	Goodwill
+97	Recruit
+98	Take Base
+99	Take Power
+100	Build Army
+101	Training
+102	Long Train
+103	Sell Rice
+104	Buy Rice
+105	Buy Horses
+106	Buy Guns
+107	Sell Guns
+108	Buy Cannon
+109	Corner Rice
+110	Gift Funds
+111	Repair
+112	Expand
+113	Invest
+114	Bribe
+115	Resign Post
+116	Moneylend
+117	Dun Debts
+118	Find Goods
+119	Ship Goods
+120	Find Talent
+121	Recruit
+122	Advertise
+123	Peddle
+124	Buy Goods
+125	Buy Rarity
+126	Sell Rarity
+127	Fundraiser
+128	Sermons
+129	Fix Temple
+130	Statue Work
+131	New Library
+132	Invite Monk
+133	Missionary
+134	Calligraphy
+135	Drainage
+136	Dig Canal
+137	Get Timber
+138	Dig Wells
+139	Dance Show
+140	Dengaku
+141	Run Stall
+142	Host Feast
+143	Appraise
+144	Spread Tea
+145	Tea Masters
+146	Stock Tea
+147	Peddlers
+148	Patrol
+149	Advertise

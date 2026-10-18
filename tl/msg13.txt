@@ -1,0 +1,2162 @@
+@0
+What are you here for, you traitor!\nI don't want to see your face.\nBe gone at once!
+@0.1
+What do you want, you traitor!\nI don't want to see your face.\nLeave at once!
+@1
+{01}C1{00}, I'm sorry,\nbut I have business to attend to.\nWould you leave for today?
+@1.1
+{01}C1{00}, I'm sorry,\nbut I have business to attend to.\nPlease leave for today.
+@2
+...Hm! {01}C1{00}...
+@2.1
+Oh! {01}C1{00}...
+@3
+{01}C1{00}, forgive the sudden visit.\nThis time I've come to you...
+@3.1
+{01}C1{00}, forgive the sudden visit.\nThis time I've come to you...
+@4
+I can guess why.\nYou want me to forget the past,\nis that it?
+@4.1
+I can guess why.\nYou want me to forget the past,\nis that it?
+@5
+As you guessed...\nWhat do you say?
+@5.1
+Yes, as you guessed...\nWhat do you say?
+@6
+Now I serve you.\nFrom now on I'll work\nas hard as I can for you.
+@6.1
+Now you're my subordinate.\nFrom now on, work\nas hard as you can for me.
+@6.2
+Now we both serve {02}{01}{EC}.\nLet's forget the past and\njoin forces for {02}{01}{EC}.
+@7
+Now I serve you.\nFrom now on I'll work\nas hard as I can for you.
+@7.1
+Now you're my subordinate.\nFrom now on, please work\nas hard as you can for me.
+@7.2
+Now we both serve {02}{01}{EC}.\nLet's forget the past and\njoin forces for {02}{01}{EC}.
+@8
+Oh! I'm grateful!
+@8.1
+Oh!\nThank you so much...
+@9
+I've taken the medicine you gave me\nand I'm resting... I'm sorry,\nbut could you let me rest today?
+@9.1
+I've taken the medicine you gave me\nand I'm resting... I'm sorry,\nbut could you let me rest today?
+@10
+I've taken the medicine you gave me...\nI'm sorry, but today\nI can't take part in a bout.
+@10.1
+I've taken the medicine you gave me...\nI'm sorry, but today\nI can't take part in a bout.
+@11
+*cough, cough*...\nI'm sorry, but I'm unwell.\nPlease go home for today.
+@11.1
+*cough, cough*...\nI'm sorry, I'm unwell today.\nPlease come again another day.
+@12
+(...It can't be helped.\n I'll go home for today.)
+@12.1
+(...It can't be helped.\n I'll go home for today.)
+@13
+(They look quite unwell.\n ...I know, shall I give them medicine?)
+@13.1
+(They look quite unwell.\n ...I know, shall I give them medicine?)
+@14
+(Which medicine shall I give?)
+@14.1
+(Which medicine shall I give?)
+@15
+(Shall I not give any medicine?)
+@15.1
+(Shall I not give any medicine?)
+@16
+(Shall I give {02}3g?)
+@16.1
+(Shall I give {02}3g?)
+@17
+Oh, this!\nThis looks very effective.\nI thank you.
+@17.1
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.2
+Oh... this!\nThis looks very effective.\nI thank you.
+@17.3
+Oh, this looks effective.\nI thank you.
+@17.4
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.5
+Oh, this looks effective.\nI thank you.
+@17.6
+Oh, this!\nThis looks very effective.\nI thank you.
+@17.7
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.8
+Well, well...\n(It's a bit different from my prescription,\n but somehow I feel it might work...)
+@17.9
+Oh, this\nlooks very effective.\nI thank you.
+@17.10
+Oh, this looks effective.\nI thank you.
+@17.11
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.12
+Well, well...\n(It's a bit different from my prescription,\n but somehow I feel it might work...)
+@17.13
+Oh, this!\nThis looks very effective.\nI thank you.
+@17.14
+Oh, this looks effective.\nI thank you.
+@17.15
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.16
+Well, well...\n(It's a bit different from my prescription,\n but somehow I feel it might work...)
+@17.17
+Oh, this...\nThis looks very effective.\nI thank you.
+@17.18
+Oh, this looks effective.\nI thank you.
+@17.19
+Well, well...\n(It's a bit different from my prescription,\n but somehow I feel it might work...)
+@17.20
+Oh, this\nlooks very effective.\nI thank you.
+@17.21
+Oh, this looks effective.\nI thank you.
+@17.22
+Oh my, this\nlooks quite effective.\nHow can I thank you...
+@17.23
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.24
+Oh my... this\nlooks very effective.\nHow can I thank you...
+@17.25
+Oh my, this looks effective.\nHow can I thank you...
+@17.26
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.27
+Oh my, this looks effective.\nHow can I thank you...
+@17.28
+Oh my, this\nlooks very effective.\nHow can I thank you...
+@17.29
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.30
+Well, well...\n(It's different from my prescription,\n but somehow I feel it might work...)
+@17.31
+Oh my... this!\nThis looks very effective.\nHow can I thank you...
+@17.32
+Oh my, this looks effective.\nHow can I thank you...
+@17.33
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.34
+Well, well...\n(It's different from my prescription,\n but somehow I feel it might work...)
+@17.35
+Oh my, this...\nThis looks quite effective.\nHow can I thank you...
+@17.36
+Oh my, this looks effective.\nHow can I thank you...
+@17.37
+Well, well...\n(This isn't what the doctor prescribed...\n Will it really work?)
+@17.38
+Well, well...\n(It's different from my prescription,\n but somehow I feel it might work...)
+@17.39
+Oh my, this!\nThis looks quite effective.\nHow can I thank you...
+@17.40
+Oh my, this looks effective.\nHow can I thank you...
+@17.41
+Well, well...\n(It's different from my prescription,\n but somehow I feel it might work...)
+@17.42
+Oh my,\nthis looks very effective.\nHow can I thank you...
+@17.43
+Oh my, this looks effective.\nHow can I thank you...
+@18
+Then I'll take my leave.
+@18.1
+Then I'll take my leave.
+@19
+Hm? Who goes there?
+@19.1
+Hmm, an intruder?
+@19.2
+Oh, who's this?
+@19.3
+Hm? And who might you be?
+@19.4
+Oh? Who might you be?
+@19.5
+Hm? And who might you be?
+@19.6
+Oh? Who might you be?
+@20
+Oh, who are you?
+@20.1
+Hmm, an intruder?
+@20.2
+Oh, who might this be?
+@20.3
+Oh, who might you be?
+@20.4
+Oh? Who might you be?
+@20.5
+Oh, who might you be?
+@20.6
+Oh? Who might you be?
+@21
+I see, it's our first meeting.\nI am {02}{01}g.
+@21.1
+A pleasure to meet you.\nMy name is {02}{01}g.
+@21.2
+A pleasure to meet you.\nMy name is {02}{01}g.
+@22
+Ah, it's our first meeting.\nI'm {02}{01}g.
+@22.1
+How do you do?\nMy name is {02}{01}g.
+@22.2
+A pleasure to meet you.\nMy name is {02}{01}g.
+@26
+Oh..., are you a ronin too?\nI look forward to knowing you...
+@26.1
+Are you {01}C1{00}, said to be\na martial arts instructor?\nI look forward to knowing you...
+@26.2
+A ronin, then.\nI look forward to knowing you...
+@26.3
+{01}C1{00}...\nyou're with {02}{02}{EC}?\nA pleasure to meet you.
+@26.4
+{01}C1{00}...\nyou're with {02}{02}{EC}, then.\nI look forward to knowing you...
+@26.5
+Oh, {01}C1{00}, is it?\nThe pleasure is mine.
+@26.6
+Oh, {01}C1{00}, is it?\nA pleasure to meet you.
+@27
+Oh, you're a ronin too?\nHow do you do?
+@27.1
+Oh, are you the {01}C1{00} famed\nas a martial arts instructor?\nHow do you do?
+@27.2
+Oh, a ronin...?\nHow do you do?
+@27.3
+{01}C1{00} of {02}{02}{EC}...?\nA pleasure to meet you.
+@27.4
+{01}C1{00}... of {02}{02}{EC}?\nHow do you do?
+@27.5
+So you're {01}C1{00}.\nA pleasure to meet you.
+@27.6
+So you're {01}C1{00}.\nHow do you do?
+@28
+Oh, forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nMy name is {02}{01}g.
+@28.1
+Oho, {01}C1{00}, is it?\nI look forward to knowing you.
+@29
+Oh, I'm terribly sorry.\n{01}C1{00}, a pleasure to meet you.\nMy name is {02}{01}g.
+@29.1
+So you're {01}C1{00}.\nI look forward to knowing you.
+@30
+Oh, the {01}C{E7}2 {02}=e...\nWell, well.
+@30.1
+Oh, the {01}C{E7}2 {02}=e...\nWell, well.
+@30.2
+Oh, the {01}C{E7}2 {02}=e,\nthe martial arts instructor...\nWell, well.
+@30.3
+Oh, the {01}C{E7}2 {02}=e...\nWell, well.
+@30.4
+Oh, so you are {02}=e,\n{01}C{E8}2\nWell, well...
+@30.5
+Oh, so you are {02}=e,\n{01}C{E8}2\nWell, well...
+@30.6
+Oh, so you are {02}=e,\n{01}C{E8}2\nWhat an honour to meet you.
+@30.7
+Oh, so you are {02}=e,\n{01}C{E8}2\nWhat an honour.
+@31
+far-famed
+@31.1
+renowned
+@31.2
+much-rumoured
+@32
+the talk of the land...
+@32.1
+renowned across the land...
+@32.2
+of such repute...
+@33
+acclaimed across the land
+@33.1
+of great renown
+@33.2
+acclaimed across the land
+@34
+My, the {01}C{EB}2 {02}=e...\nHow do you do?
+@34.1
+My, the {01}C{EB}2 {02}=e...\nHow do you do?
+@34.2
+My, the {01}C{EB}2 {02}=e,\nthe martial arts instructor...\nHow do you do?
+@34.3
+My, the {01}C{EB}2 {02}=e...\nHow do you do?
+@34.4
+My, so you are {02}=e,\n{01}C{EC}2\nWhat an honour to meet you.
+@34.5
+My, so you are {02}=e,\n{01}C{EC}2\nWhat an honour. How do you do?
+@34.6
+My, so you are {02}=e,\n{01}C{EC}2\nWhat an honour to meet you.
+@34.7
+My, so you are {02}=e,\n{01}C{EC}2\nWhat an honour. How do you do?
+@35
+far-famed
+@35.1
+much-rumoured
+@35.2
+renowned
+@36
+the talk of the land...
+@36.1
+renowned across the land...
+@36.2
+of such repute...
+@37
+acclaimed across the land
+@37.1
+of good repute
+@37.2
+acclaimed across the land
+@38
+Oh, so you are {02}=e,\n{01}C{E8}2\nI've heard much about you...
+@38.1
+Oh, so you are {02}=e,\n{01}C{E8}2\nI've heard the talk.
+@39
+My, so you are {02}=e,\n{01}C{EC}2\nI've heard much about you...
+@39.1
+My, so you are {02}=e,\n{01}C{EC}2\nI've heard the talk.
+@40
+Oh, so you're the celebrated one...\nA fellow ronin, I believe.\nHow do you do?
+@40.1
+Oh, so you're the one\nfamed as a martial arts instructor...\nWhat an honour.
+@40.2
+Oh, so you're the celebrated one...\nWell, well...
+@40.3
+Oh, so you're the one hailed as\nthe finest in {02}{02}{EC}...\nWhat an honour to meet you.
+@40.4
+Oh, so you're the one hailed as\nthe finest in {02}{02}{EC}...\nThe pleasure is mine.
+@40.5
+Oh, so you're the one hailed as\nthe finest in {02}{02}{EC}...\nI'm honoured.
+@40.6
+Oh, so you're the one hailed as\nthe finest in {02}{02}{EC}...\nWell, well...
+@41
+My, so you're the celebrated one...\nA fellow ronin, I hear...\nHow do you do?
+@41.1
+My, so you're the one\nfamed as a martial arts instructor...\nWhat an honour... How do you do?
+@41.2
+My, so you're the celebrated one...\nHow do you do?
+@41.3
+My, so you're the one known as\nthe finest in {02}{02}{EC}...\nWhat an honour to meet you.
+@41.4
+My, so you're the one said to be\nthe finest in {02}{02}{EC}...\nWhat an honour. How do you do?
+@41.5
+My, so you're the one known as\nthe finest in {02}{02}{EC}...\nWell, well...
+@41.6
+My, so you're the one said to be\nthe finest in {02}{02}{EC}...\nWell, well.
+@42
+Oh, so you're the one reputed\nto be the finest in {01}C{A7}{01}...\nWell, well...
+@42.1
+Oh, so you're the one reputed\nto be the finest in {01}C{A7}{01}...\nHow do you do?
+@43
+My, so you're the one reputed\nto be the finest in {01}C{A7}{01}...\nI've heard much about you...
+@43.1
+My, so you're the one reputed\nto be the finest in {01}C{A7}{01}...\nI've heard much about you...
+@44
+Oh..., so you're the famous one...\nWhat an honour.
+@44.1
+Oho... so you're {01}C1{00},\nfamed as a martial arts instructor?\nWhat an honour.
+@44.2
+Oh..., so you're the famous one...\nWhat an honour.
+@44.3
+Oh..., so you're the famous one...\nOf {02}{02}{EC}, I believe.\nWell, well...
+@44.4
+Oh..., so you're the famous one...\nOf {02}{02}{EC}, I believe.\nAn honour to meet you.
+@44.5
+Oh..., so you're that famous one...\nAn honour to meet you.
+@44.6
+Oh..., so you're that famous one...\nWhat an honour.
+@45
+My, so you're that famous one...\nA fellow ronin, I hear.\nHow do you do?
+@45.1
+My, so you're {01}C1{00},\nfamed as a martial arts instructor...\nWhat an honour to meet you.
+@45.2
+My, so you're that famous one...\nWhat an honour to meet you.
+@45.3
+My, so you're the famous one...\nOf {02}{02}{EC}, I hear.\nWhat an honour to meet you.
+@45.4
+My, so you're the famous one...\nOf {02}{02}{EC}, I hear.\nWell, well...
+@45.5
+My, so you're the famous one...\nWhat an honour to meet you.\nHow do you do? My name is {02}{01}g.
+@45.6
+My, so you're the famous one...\nWell, well... How do you do?
+@46
+Forgive my rudeness; a pleasure to meet you.\nMy name is {02}{01}g.\nI've heard much about you......
+@46.1
+Oh..., so you're that famous one...\nWhat an honour.
+@47
+Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@47.1
+My, so you're that famous one...\nHow do you do?
+@48
+Oh..., so you're the one I've heard of...\nA fellow ronin, I believe.\nThe pleasure is mine.
+@48.1
+Oho... so you're {01}C1{00},\nknown as a martial arts instructor?\nThe pleasure is mine.
+@48.2
+Oh..., so you're the one I've heard of...\nThe pleasure is mine.
+@48.3
+Oh..., so you're the one I've heard of...\nOf {02}{02}{EC}, I believe.\nThe pleasure is mine.
+@48.4
+Oh..., so you're the one I've heard of...\nOf {02}{02}{EC}, I believe.\nA pleasure to meet you.
+@48.5
+Oh..., so you're the one I've heard of...\nThe pleasure is mine.
+@48.6
+Oh..., so you're the one I've heard of...\nA pleasure to meet you.
+@49
+My, so you're the one I've heard of...\nA fellow ronin, I hear.\nA pleasure to meet you.
+@49.1
+My, so you're {01}C1{00},\nthe martial arts instructor I've heard of...\nA pleasure to meet you.
+@49.2
+My, so you're the one I've heard of...\nHow do you do?\nYou're a ronin, I hear.
+@49.3
+My, so you're the one I've heard of...\nOf {02}{02}{EC}, aren't you?\nA pleasure to meet you.
+@49.4
+My, so you're the one I've heard of...\nOf {02}{02}{EC}, aren't you?\nA pleasure to meet you.
+@49.5
+My, so you're the one I've heard of...\nHow do you do? My name is {02}{01}g.
+@49.6
+My, so you're the one I've heard of...\nA pleasure to meet you.
+@50
+Forgive my rudeness; a pleasure to meet you.\nMy name is {02}{01}g.\nI've heard talk of you.
+@50.1
+Oh..., so you're the one I've heard of...\nThe pleasure is mine.
+@51
+Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.\nI've heard talk of you.
+@51.1
+My, so you're the one I've heard of...\nHow do you do? My name is {02}{01}g.
+@52
+Oh..., I've heard the name, at least.\nA fellow ronin, I believe.\nA pleasure to meet you.
+@52.1
+Are you {01}C1{00}, whose name\nI've heard as a martial arts instructor?\nA pleasure to meet you.
+@52.2
+Oh..., I've heard the name, at least.\nA ronin, I believe.\nA pleasure to meet you.
+@52.3
+Oho..., I've heard the name, at least.\nOf {02}{02}{EC}, I believe.\nThe pleasure is mine.
+@52.4
+Oh..., I've heard the name, at least.\nOf {02}{02}{EC}, I believe.\nA pleasure to meet you.
+@52.5
+Oho..., I've heard the name, at least.\nThe pleasure is mine.
+@52.6
+Oh..., I've heard the name, at least.\nA pleasure to meet you.
+@53
+Oh..., I've heard the name, at least.\nA fellow ronin, I hear.\nHow do you do?
+@53.1
+Oh..., are you {01}C1{00}, whose name\nI've heard as a martial arts instructor?\nHow do you do?
+@53.2
+Oh..., I've heard the name, at least.\nHow do you do?\nYou're a ronin, I hear.
+@53.3
+Oho..., I've heard the name, at least.\nOf {02}{02}{EC}, I believe.\nA pleasure to meet you.
+@53.4
+Oh..., I've heard the name, at least.\nOf {02}{02}{EC}, I believe.\nHow do you do?
+@53.5
+Oh, I believe I've heard the name...\nA pleasure to meet you.
+@53.6
+Oh, I believe I've heard the name...\nHow do you do?
+@54
+Forgive my rudeness; a pleasure to meet you.\nMy name is {02}{01}g.\nI've heard your name, at least.
+@54.1
+Oh..., so you're the one I've heard of...\nThe pleasure is mine.
+@55
+Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.\nI've caught some talk of you.
+@55.1
+Oh, so you're the one I've heard of...\nA pleasure to meet you.
+@56
+Hmph, {01}C1{00}, the dreaded {02}=e!\nIf you've no business here, leave at once.
+@56.1
+My, {01}C1{00}, the dreaded {02}=e!?\nIf you've no business here, leave at once.
+@56.2
+Hmph, {01}C1{00}, the dreaded {02}=e!\nIf you've no business here, leave at once.
+@56.3
+What, {01}C1{00}, the martial arts\ninstructor dreaded as {02}=e?\nIf you've no business here, leave at once.
+@56.4
+Hmph, {01}C1{00}, the dreaded {02}=e!\nIf you've no business here, leave at once.
+@56.5
+What, the dreaded {02}=e...\nOh, forgive my rudeness.\nIf you've no business here, leave at once.
+@56.6
+What, the dreaded {02}=e...\n...Oops, a slip of the tongue.\nIf you've no business here, leave at once.
+@56.7
+What, the dreaded {02}=e...\nOh, forgive my rudeness.\nIf you've no business here, leave at once.
+@56.8
+What, the dreaded {02}=e...\n...Oops, a slip of the tongue.\nIf you've no business here, leave at once.
+@57
+My, {01}C1{00}, the dreaded {02}=e!?\nIf you've no business here, leave at once.
+@57.1
+My, {01}C1{00}, the martial arts\ninstructor dreaded as {02}=e?\nIf you've no business here, leave at once.
+@57.2
+My, {01}C1{00}, the dreaded {02}=e!?\nIf you've no business here, leave at once.
+@57.3
+My, the dreaded {02}=e...\n...Oh dear, I'm terribly sorry.\nIf you've no business here, please leave.
+@57.4
+My, the dreaded {02}=e...\n...Oh dear, I've said too much.\nIf you've no business here, please leave.
+@57.5
+My, the dreaded {02}=e...\n...Oh dear, I'm terribly sorry.\nIf you've no business here, please leave.
+@57.6
+My, the dreaded {02}=e...\n...Oh dear, I've said too much.\nIf you've no business here, please leave.
+@58
+Oh, {01}C1{00}, known as {02}=e!?\nA fellow ronin, I believe.\nWhat an honour.
+@58.1
+Oh, {01}C1{00}, the martial arts\ninstructor known as {02}=e?\nWhat an honour.
+@58.2
+Oh, {01}C1{00}, known as {02}=e!?\nA ronin, I believe.\nWhat an honour.
+@58.3
+Oh, could you be the one known as {02}=e...\nOh, forgive my rudeness.\nAn honour to meet you.
+@58.4
+Oh, could you be the one known as {02}=e...\n...Heh, my true feelings slipped out.\nWhat an honour.
+@58.5
+Oh, could you be the one known as {02}=e...\nOh, forgive my rudeness.\nAn honour to meet you.
+@58.6
+Oh, could you be the one known as {02}=e...\n...Heh, my true feelings slipped out.\nWhat an honour.
+@59
+Oh, {01}C1{00}, known as {02}=e!?\nA fellow ronin, I hear.\nWhat an honour. How do you do?
+@59.1
+Oh, {01}C1{00}, the martial arts\ninstructor known as {02}=e?\nWhat an honour. How do you do?
+@59.2
+Oh, {01}C1{00}, known as {02}=e!?\nYou're a ronin, I hear...\nWhat an honour. How do you do?
+@59.3
+Oh, could you be the one known as {02}=e...\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@59.4
+My, could you be the one known as {02}=e...\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@59.5
+Oh, could you be the one known as {02}=e...\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@59.6
+Oh, could you be the one known as {02}=e...\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@60
+Hmph, surely not the one known as {02}=e...\nOh, forgive my rudeness.\nThe pleasure is mine.
+@60.1
+Hmph, surely not the one known as {02}=e...\n...Oops, a slip of the tongue.\nIf you've no business here, leave at once.
+@61
+My, could you be the one known as {02}=e...\n...Oh dear, I'm terribly sorry.\nIf you've no business here, please leave.
+@61.1
+My, could you be the one known as {02}=e...\n...Oh dear, I've said too much.\nIf you've no business here, please leave.
+@62
+Oh, {02}=e, the greatest\n{01}C{07}3 of {01}C{A7}{01}...\nOh, forgive my rudeness. An honour to meet you.
+@62.1
+Oh, {02}=e, the greatest\n{01}C{07}3 of {01}C{A7}{01}...\n...Heh, my true feelings slipped out. What an honour.
+@64
+villain
+@64.1
+rogue
+@65
+wicked woman
+@65.1
+vixen
+@66
+My, the one known as {02}=e...\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@66.1
+My, the one known as {02}=e...\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@67
+Hmph, surely not {01}C1{00}, who\nmakes crying children hush!? A fellow ronin,\nI believe. If you've no business here, leave at once.
+@67.1
+Could you be {01}C1{00}, the instructor\nwho makes crying children hush?\nIf you've no business here, leave at once.
+@67.2
+Hmph, surely not {01}C1{00}, who\nmakes crying children hush!? A ronin,\nI believe. If you've no business here, leave at once.
+@67.3
+Hmph, not the great villain of {02}{02}{EC}...\nOh, forgive my rudeness.\nNo business? Then leave at once.
+@67.4
+Hmph, not the great villain of {02}{02}{EC}...\n...Oops, a slip of the tongue.\nNo business? Then leave at once.
+@67.5
+What, {01}C1{00}, who hushes crying children!?\nOh, forgive my rudeness.\nNo business? Then leave at once.
+@67.6
+What, {01}C1{00}, who hushes crying children!?\n...Oops, a slip of the tongue.\nNo business? Then leave at once.
+@68
+My, surely not {01}C1{00}, who\nmakes crying children hush!? A fellow ronin,\nI hear. If you've no business here, leave at once.
+@68.1
+Surely not {01}C1{00}, the instructor\nwho makes crying children hush!?\nIf you've no business here, leave at once.
+@68.2
+My, could it be {01}C1{00}, who\nmakes crying children hush!? A ronin,\nI hear. If you've no business here, leave at once.
+@68.3
+My, could it be the great villain\nof {02}{02}{EC}...\n...Oh dear, I'm terribly sorry. Please leave.
+@68.4
+My, could it be the great villain\nof {02}{02}{EC}...\n...Oh dear, I've said too much. Please leave.
+@68.5
+My, {01}C1{00}, who makes\ncrying children hush!?\n...Oh dear, I'm terribly sorry. Please leave.
+@68.6
+My, {01}C1{00}, who makes\ncrying children hush!?\n...Oh dear, I've said too much. Please leave.
+@69
+You're {01}C1{00}, the villain of the age!?\nHeh, a fellow ronin, I believe.\nWhat an honour.
+@69.1
+Oh, so you're {01}C1{00}, the instructor\nwho makes crying children hush?\nWhat an honour.
+@69.2
+You're {01}C1{00}, the villain of the age!?\nHeh, a ronin, I believe.\nWhat an honour.
+@69.3
+Oh, the great villain of {02}{02}{EC}...\nOh, forgive my rudeness.\nAn honour to meet you.
+@69.4
+Oh, the great villain of {02}{02}{EC}...\n...Oops, my true feelings slipped out.\nWhat an honour.
+@69.5
+Oh, {01}C1{00}, the villain of the age!?\nOh, forgive my rudeness.\nAn honour to meet you.
+@69.6
+Oh, {01}C1{00}, the villain of the age!?\n...Oops, my true feelings slipped out.\nWhat an honour.
+@70
+You're {01}C1{00}, the villain of the age!?\nHeh, a fellow ronin, I hear.\nWhat an honour. How do you do?
+@70.1
+Oh, so you're {01}C1{00}, the instructor\nwho makes crying children hush!?\nWhat an honour. How do you do?
+@70.2
+You're {01}C1{00}, the villain of the age!?\nHeh, a ronin, I hear.\nWhat an honour. How do you do?
+@70.3
+My, the great villain of {02}{02}{EC}...\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@70.4
+My, the great villain of {02}{02}{EC}...\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@70.5
+My, {01}C1{00}, the villain of the age!?\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@70.6
+My, {01}C1{00}, the villain of the age!?\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@71
+Hmph, surely not the great villain\nof {01}C{A7}{01}...\nOh, forgive my rudeness. The pleasure is mine.
+@71.1
+Hmph, not the great villain of {01}C{A7}{01}...\n...Oops, a slip of the tongue.\nNo business? Then leave at once.
+@72
+My, could it be the great villain\nof {01}C{A7}{01}...\n...Oh dear, I'm terribly sorry. Please leave.
+@72.1
+My, could it be the great villain\nof {01}C{A7}{01}...\n...Oh dear, I've said too much. Please leave.
+@73
+Oh, surely the great villain\nof {01}C{A7}{01}...\nOh, forgive my rudeness. An honour to meet you.
+@73.1
+Oh, surely the great villain\nof {01}C{A7}{01}...\n...Oops, my true feelings slipped out. What an honour.
+@74
+Oh, could it be the great villain\nof {01}C{A7}{01}...\n...Oh, I'm terribly sorry. What an honour.
+@74.1
+Oh, could it be the great villain\nof {01}C{A7}{01}...\n...Oh, it just slipped out. How do you do?
+@75
+Hmph, the infamous {01}C1{00}!?\nA fellow ronin, I believe.\nIf you've no business here, leave at once.
+@75.1
+Hmph, are you {01}C1{00}, the\ninfamous martial arts instructor?\nIf you've no business here, leave at once.
+@75.2
+Hmph, the infamous {01}C1{00}!?\nA ronin, I believe.\nIf you've no business here, leave at once.
+@75.3
+Hmph, the infamous {01}C1{00}!?\nWhat does one of {02}{02}{EC} want?\nIf you've no business here, leave at once.
+@75.4
+Hmph, the infamous {01}C1{00}!?\nWhat does one of {02}{02}{EC} want?\nIf you've no business here, leave at once.
+@75.5
+Hmph, the infamous {01}C1{00}!?\nOh, forgive my rudeness.\nIf you've no business here, leave at once.
+@75.6
+Hmph, the infamous {01}C1{00}!?\n...Oops, a slip of the tongue.\nIf you've no business here, leave at once.
+@76
+My, the infamous {01}C1{00}!?\nA fellow ronin, I hear.\nIf you've no business here, leave at once.
+@76.1
+My, are you {01}C1{00}, the\ninfamous martial arts instructor!?\nIf you've no business here, leave at once.
+@76.2
+My, the infamous {01}C1{00}!?\nYou're a ronin, I hear.\nIf you've no business here, leave at once.
+@76.3
+My, the infamous {01}C1{00}!?\nWhat could one of {02}{02}{EC} want?\nIf you've no business here, please leave.
+@76.4
+My, the infamous {01}C1{00}!?\nWhat could one of {02}{02}{EC} want?\nIf you've no business here, please leave.
+@76.5
+My, the infamous {01}C1{00}!?\n...Oh dear, I'm terribly sorry.\nIf you've no business here, please leave.
+@76.6
+My, the infamous {01}C1{00}!?\n...Oh dear, I've said too much.\nIf you've no business here, please leave.
+@77
+Oh, the infamous {01}C1{00}!?\nA fellow ronin, I believe.\nWhat an honour.
+@77.1
+Oh, are you {01}C1{00}, the\ninfamous martial arts instructor?\nAn honour to meet you.
+@77.2
+Oh, the infamous {01}C1{00}!?\nA ronin, I believe.\nWhat an honour.
+@77.3
+Oh, the infamous {01}C1{00}!?\nOf {02}{02}{EC}, I believe.\nAn honour to meet you.
+@77.4
+Oh, the infamous {01}C1{00}!?\nOf {02}{02}{EC}, I believe.\nWhat an honour.
+@77.5
+Oh, the infamous {01}C1{00}!?\nOh, forgive my rudeness.\nAn honour to meet you.
+@77.6
+Oh, the infamous {01}C1{00}!?\n...Oops, my true feelings slipped out.\nWhat an honour.
+@78
+Oh, the infamous {01}C1{00}!?\nA fellow ronin, I hear.\nWhat an honour. How do you do?
+@78.1
+Oh, you're {01}C1{00}, the\ninfamous martial arts instructor!?\nWhat an honour. How do you do?
+@78.2
+Oh, the infamous {01}C1{00}!?\nYou're a ronin, I hear.\nWhat an honour. How do you do?
+@78.3
+My, the infamous {01}C1{00}!?\nOf {02}{02}{EC}, aren't you?\nWhat an honour to meet you.
+@78.4
+Oh, the infamous {01}C1{00}!?\nOf {02}{02}{EC}, aren't you?\nWhat an honour. How do you do?
+@78.5
+My, the infamous {01}C1{00}!?\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@78.6
+My, the infamous {01}C1{00}!?\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@79
+Hmph, surely not the infamous one...\nOh, forgive my rudeness.\nThe pleasure is mine.
+@79.1
+Hmph, surely not the infamous one...\n...Oops, a slip of the tongue.\nNo business? Then leave at once.
+@80
+My, the infamous {01}C1{00}!?\n...Oh dear, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@80.1
+My, the infamous {01}C1{00}!?\n...Oh dear, I've said too much.\nIf you've no business here, please leave.
+@81
+Oh, so you're the infamous one...\nOh, forgive my rudeness.\nAn honour to meet you.
+@81.1
+Oh, so you're the infamous one...\n...Oops, my true feelings slipped out.\nWhat an honour.
+@82
+My, the infamous {01}C1{00}!?\n...Oh, I'm terribly sorry.\nWhat an honour to meet you.
+@82.1
+My, the infamous {01}C1{00}!?\n...Oh, it just slipped out.\nWhat an honour. How do you do?
+@83
+Could you be the one with the bad name...\nA fellow ronin, I believe.
+@83.1
+Oh, are you {01}C1{00}, the martial arts\ninstructor with the bad name?
+@83.2
+Could you be the one with the bad name...\nA ronin, I believe.
+@83.3
+Could you be the {01}C{1D}3\nof {02}{02}{EC}...\nOh, forgive my rudeness.
+@83.4
+Could you be the {01}C{1D}3\nof {02}{02}{EC}...\n...Oops, a slip of the tongue.
+@83.5
+Could you be the one they call\na {01}C{1D}3...\n...Oops, a slip of the tongue.
+@83.6
+Could you be the one they call\na {01}C{1D}3...\n...Oops, a slip of the tongue.
+@84
+Could you be the one with the bad name...\nA fellow ronin, I hear.
+@84.1
+My, are you {01}C1{00}, the martial arts\ninstructor with the bad name?
+@84.2
+My, the one with the bad name...\nYou're a ronin, I hear.
+@84.3
+My, the {01}C{1D}3\nof {02}{02}{EC}...\n...Oh dear, I'm terribly sorry.
+@84.4
+My, the {01}C{1D}3\nof {02}{02}{EC}...\n...Oh dear, I've said too much.
+@84.5
+My, the one they call\na {01}C{1D}3...\n...Oh dear, I'm terribly sorry.
+@84.6
+My, the one they call\na {01}C{1D}3...\n...Oh dear, I've said too much.
+@85
+pariah
+@85.1
+sly fox
+@85.2
+troublemaker
+@85.3
+fool
+@86
+Could you be the one with the bad name...\nA fellow ronin, I believe.\n{01}C,3
+@86.1
+Oh, are you {01}C1{00}, the martial arts\ninstructor with the bad name?\n{01}C,3
+@86.2
+Could you be the one with the bad name...\nA ronin, I believe.\n{01}C,3
+@86.3
+Could you be the one with the bad name...\nOf {02}{02}{EC}, I believe.\n{01}C,3
+@86.4
+Could you be the one with the bad name...\nOf {02}{02}{EC}, I believe.\n{01}C,3
+@86.5
+Oh, the one I've heard ill of...\nOh, forgive my rudeness.\nThe pleasure is mine.
+@86.6
+Oh, the one I've heard ill of...\n...Oops, my true feelings slipped out.\n{01}C,3
+@87
+Oh, you're the one with the bad name...\nA fellow ronin, I hear.\n{01}C-3
+@87.1
+Oh, are you {01}C1{00}, the martial arts\ninstructor with the bad name?\n{01}C-3
+@87.2
+Oh, you're the one with the bad name...\nYou're a ronin, I hear.\n{01}C-3
+@87.3
+Oh, you're the one with the bad name...\nOf {02}{02}{EC}, I believe.\nHow do you do? My name is {02}{01}g.
+@87.4
+Oh, you're the one with the bad name...\nOf {02}{02}{EC}, I believe.\n{01}C-3
+@87.5
+My, you're the one with the bad name...\n...Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@87.6
+My, you're the one with the bad name...\n...Oh, it just slipped out.\n{01}C-3
+@88
+My, the {01}C{1D}3 of {01}C{A7}{01}...\nOh, forgive my rudeness.\nWhat brings you all this way?
+@88.1
+Hmph, the {01}C{1D}3 of {01}C{A7}{01}...\n...Oops, a slip of the tongue.\nWhat brings you all this way?
+@89
+My, the pariah of {01}C{A7}{01}...\n...Oh dear, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@89.1
+My, the pariah of {01}C{A7}{01}...\n...Oh dear, I've said too much.\nWhat brings you all this way?
+@90
+Oh, so you're the one with the bad name...\nOh, forgive my rudeness.\nThe pleasure is mine.
+@90.1
+Oh, so you're the one with the bad name...\n...Oops, my true feelings slipped out.\n{01}C,3
+@91
+My, so you're the one with the bad name...\n...Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@91.1
+My, so you're the one with the bad name...\n...Oh, it just slipped out.\n{01}C-3
+@92
+Could you be the one I've heard\nunkind rumours about...\nA fellow ronin, I believe.
+@92.1
+Could you be {01}C1{00}, the instructor\nI've heard unkind talk of?
+@92.2
+Could you be the one I've heard\nunkind rumours about...\nA ronin, I believe.
+@92.3
+The troublemaker of {02}{02}{EC}, I believe...\nOh, forgive my rudeness.
+@92.4
+The troublemaker of {02}{02}{EC}, I believe...\n...Oops, a slip of the tongue.
+@92.5
+Could you be the one I've heard\nunkind rumours about...\nOh, forgive my rudeness.
+@92.6
+Could you be the one I've heard\nunkind rumours about...\n...Oops, a slip of the tongue.
+@93
+Surely not the one I've heard\nunkind rumours about...\nA fellow ronin, I hear.
+@93.1
+Surely not {01}C1{00}, the instructor\nI've heard unkind talk of!?
+@93.2
+Surely not the one I've heard\nunkind rumours about...\nYou're a ronin, I hear.
+@93.3
+The troublemaker of {02}{02}{EC}, I believe...\n...Oh dear, I'm terribly sorry.
+@93.4
+The troublemaker of {02}{02}{EC}, I believe...\n...Oh dear, I've said too much.
+@93.5
+Surely not the one I've heard\nunkind rumours about...\n...Oh dear, I'm sorry. I'm {02}{01}g.
+@93.6
+Surely not the one I've heard\nunkind rumours about...\n...Oh dear, I've said too much.
+@94
+Oh, the one I've heard shady rumours of...\nA fellow ronin, I believe.\n{01}C,3
+@94.1
+Could you be {01}C1{00}, the instructor\nwith the shady rumours?\n{01}C,3
+@94.2
+Oh, the one I've heard shady rumours of...\nA ronin, I believe.\n{01}C,3
+@94.3
+Oh, the one I've heard shady rumours of...\nOf {02}{02}{EC}, I believe.\n{01}C,3
+@94.4
+Oh, the one I've heard shady rumours of...\nOf {02}{02}{EC}, I believe.\n{01}C,3
+@94.5
+Oh, the one I've heard shady rumours of...\n...Oh, I'm terribly sorry.\nThe pleasure is mine.
+@94.6
+Oh, the one I've heard shady rumours of...\n...Oops, my true feelings slipped out.\n{01}C,3
+@95
+My, the one I've heard shady rumours of...\nA fellow ronin, I hear.\n{01}C-3
+@95.1
+My, are you {01}C1{00}, the instructor\nwith the shady rumours?\n{01}C-3
+@95.2
+My, the one I've heard shady rumours of...\nYou're a ronin, I hear.\n{01}C-3
+@95.3
+My, the one I've heard shady rumours of...\nOf {02}{02}{EC}, I believe.\nHow do you do? My name is {02}{01}g.
+@95.4
+My, the one I've heard shady rumours of...\nOf {02}{02}{EC}, I believe.\n{01}C-3
+@95.5
+My, the one I've heard shady rumours of...\n...Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@95.6
+My, the one I've heard shady rumours of...\n...Oh, it just slipped out.\n{01}C-3
+@96
+Hmph, the one I've heard shady rumours of...\nOh, forgive my rudeness.
+@96.1
+Hmph, the troublemaker of {01}C{A7}{01}...\n...Oops, a slip of the tongue.
+@97
+My, the one I've heard shady rumours of...\n...Oh dear, I'm terribly sorry.
+@97.1
+My, the troublemaker of {01}C{A7}{01}...\n...Oh dear, I've said too much.
+@98
+Oh, the one I've heard shady rumours of...\nOh, forgive my rudeness.\nThe pleasure is mine.
+@98.1
+Oh, the one I've heard shady rumours of...\n...Oops, my true feelings slipped out.\n{01}C,3
+@99
+My, the one I've heard shady rumours of...\n...Oh, I'm terribly sorry.\nHow do you do? My name is {02}{01}g.
+@99.1
+My, the one I've heard shady rumours of...\n...Oh, it just slipped out.\n{01}C-3
+@100
+That look of yours chills the blood.
+@100.1
+Just as nasty a face as they say.
+@100.2
+Heh, I sense we're two of a kind.
+@100.3
+Hey, hey, don't glare at me like that.
+@100.4
+Sorry, but would you put away that {01}C.3?
+@100.5
+I've wanted to meet you once.
+@100.6
+Heh, no horns on your head after all...
+@101
+Ufufu, what a piercing, sharp look.
+@101.1
+Ufufu, just as fine a face as they say.
+@101.2
+Ufufu, we seem to be two of a kind.
+@101.3
+Oh my, don't glare at me like that.
+@101.4
+Sorry, but would you put away that {01}C.3?
+@101.5
+I've wanted to meet you once.
+@101.6
+Ufufu, no horns on your head after all.
+@102
+sword
+@102.1
+spear
+@102.2
+kunai
+@102.3
+chain sickle
+@102.4
+gun
+@102.5
+bow
+@103
+What!\n{01}C1{00} in person?\nWhat a surprise.
+@103.1
+What! One of {02}{02}{EC}?\nComing alone into enemy land...\nYou've got nerve, I'll grant you.
+@104
+......!?\n{01}C1{00} in person?\nWhat could you want??
+@104.1
+Eek! You're of {02}{02}{EC}, aren't you?\nComing alone into enemy land...\nWhat are you thinking!?
+@105
+Oh, it's {01}C1{00}.
+@105.1
+It's {01}C1{00}.\nWelcome.
+@105.2
+Oh, it's {01}C1{00}.\nWelcome.
+@105.3
+Oh! It's {01}C1{00}.\nYou're most welcome here.
+@106
+Oh, it's {01}C1{00}.
+@106.1
+Oh, it's {01}C1{00}.\nWelcome.
+@106.2
+Why, it's {01}C1{00}.\nWelcome.
+@106.3
+Oh! Why, it's {01}C1{00}!\nCome, make yourself at home.
+@107.*
+
+@109
+*cough, cough*... What do you want!\nThe sight of you makes me feel worse.\nBe gone... *cough*... at once!
+@109.1
+What do you want!\nI don't want to see you.\nBe gone at once!
+@110
+*cough, cough*... What do you want?\nSeeing your face makes me feel worse.\nGo... *cough*... get out!
+@110.1
+What do you want?\nI don't want to talk to you.\nWould you please leave?
+@111
+What do you want?\nI'm afraid I'm unwell... *cough, cough*\nI'd like you to leave.
+@111.1
+What do you want?\nI have nothing to say to you.\nI'd like you to leave.
+@112
+What do you want?\nI'm afraid I'm unwell... *cough, cough*\nPlease go home for today.
+@112.1
+I don't know what you want, but\nI have nothing to say to you.\nPlease leave.
+@113
+{01}C7{00} is busy\nand can't see you now.\nPlease take your leave.
+@113.1
+{01}C7{00} is busy\nand can't see you.\nPlease take your leave.
+@114
+{01}C7{00} is busy\nand can't see you now.\nPlease take your leave.
+@114.1
+{01}C7{00} is busy\nand can't see you.\nPlease take your leave.
+@115
+...I see, a pity.\nThen I'll take my leave.
+@115.1
+...I see, what a pity.\nThen I'll take my leave.
+@116
+What can I do for you?
+@116.1
+What on earth do you want?
+@116.2
+...What do you want?
+@116.3
+What is it?
+@116.4
+What can I do for you?
+@117
+What can I do for you?
+@117.1
+What is it you want?
+@117.2
+What is it?
+@117.3
+What is it?
+@117.4
+What is it?
+@118.*
+
+@120
+Rumours? There's no one\nin this {01}C{93}{01} but me...
+@120.1
+Rumours? There's no one\nin this {01}C{93}{01} but me...
+@121
+Whose rumours\ndo you want to hear?
+@121.1
+Whose rumours\nshall I tell you?
+@123
+{01}C8{00}, is it...\nVery short-tempered, that one.
+@123.1
+{01}C8{00}, is it...\nVery easygoing, that one.
+@123.2
+{01}C8{00}, is it...\nLet me see, neither particularly\nshort-tempered nor easygoing.
+@124
+{01}C8{00}...\nis very short-tempered.
+@124.1
+{01}C8{00}...\nis very easygoing.
+@124.2
+{01}C8{00}...\nneither short-tempered nor easygoing...\nthat sort of person.
+@125
+{01}C8{00}, is it...\nShould be fond of arms,\nlike swords and armour.
+@125.1
+{01}C8{00}, is it...\nShould be fond of art,\nlike tea ware and screens.
+@125.2
+{01}C8{00}, is it...\nShould be fond of books,\nlike war tales and military texts.
+@125.3
+{01}C8{00}, is it...\nShould be fond of\ngoods from the Nanban lands.
+@126
+{01}C8{00}...\nlikes arms, I believe,\nlike swords and armour.
+@126.1
+{01}C8{00}...\nlikes art, I believe,\nlike tea ware and screens.
+@126.2
+{01}C8{00}...\nliked books, I believe,\nlike war tales and military texts.
+@126.3
+{01}C8{00}...\nis fond, I hear, of goods\nfrom the Nanban lands.
+@127
+{01}C8{00}, is it...\nCan't hold their drink at all.
+@127.1
+{01}C8{00}, is it...\nJust loves sake, that one.
+@127.2
+{01}C8{00}, is it...\nLet me see, drinks\nin moderation.
+@128
+{01}C8{00}...\ncan't handle sake, I believe.
+@128.1
+{01}C8{00}...\njust loves sake\nand drinks a lot.
+@128.2
+{01}C8{00}...\ndrinks in moderation, I hear.
+@129
+{01}C8{00}, is it...\nJust loves rare things, that one.
+@129.1
+{01}C8{00}, is it...\nHardly ever shows\ninterest in things.
+@129.2
+{01}C8{00}, is it...\nLet me see, about as\nacquisitive as anyone.
+@130
+{01}C8{00}...\nis fond of rare things, I hear.
+@130.1
+{01}C8{00}...\nhardly ever shows\ninterest in things, it seems.
+@130.2
+{01}C8{00}...\nabout as acquisitive\nas anyone, I'd say.
+@131
+{01}C8{00}, is it...\nTends to value\nthe practical.
+@131.1
+{01}C8{00}, is it...\nTends to value ideals\nover the practical.
+@131.2
+{01}C8{00}, is it...\nLet me see, holds\nno particular principles.
+@132
+{01}C8{00}...\nseems to value the practical\nover ideals.
+@132.1
+{01}C8{00}...\nseems to pursue ideals\nover the practical.
+@132.2
+{01}C8{00}...\nseems to hold no particular principles.
+@133
+{01}C8{00}, is it...\nUses a sword, I believe...
+@133.1
+{01}C8{00}, is it...\nUses a spear, I believe...
+@133.2
+{01}C8{00}, is it...\nUses a kunai, I believe...
+@133.3
+{01}C8{00}, is it...\nUses a chain sickle, I believe...
+@133.4
+{01}C8{00}, is it...\nUses a gun, I believe...
+@133.5
+{01}C8{00}, is it...\nUses a bow, I believe...
+@134
+{01}C8{00}\nuses a sword, I believe...
+@134.1
+{01}C8{00}\nuses a spear, I believe...
+@134.2
+{01}C8{00}\nuses a kunai, I believe...
+@134.3
+{01}C8{00}\nuses a chain sickle, I believe...
+@134.4
+{01}C8{00}\nuses a gun, I believe...
+@134.5
+{01}C8{00}\nuses a bow, I believe...
+@135
+{01}C8{00}, is it...\nA sword user, that one.\n{01}JQ3
+@135.1
+{01}C8{00}, is it...\nA spear user, that one.\n{01}JQ3
+@135.2
+{01}C8{00}, is it...\nA kunai user, that one.\n{01}JS3
+@135.3
+{01}C8{00}, is it...\nA chain sickle user, that one.\n{01}JS3
+@135.4
+{01}C8{00}, is it...\nA gun user, that one.\n{01}JU3
+@135.5
+{01}C8{00}, is it...\nA bow user, that one.\n{01}JW3
+@136
+{01}C8{00}, now...\nused a sword, I believe.\n{01}JQ3
+@136.1
+{01}C8{00}, now...\nused a spear, I believe.\n{01}JQ3
+@136.2
+{01}C8{00}, now...\nused a kunai, I believe.\n{01}JS3
+@136.3
+{01}C8{00}, now...\nused a chain sickle, I believe.\n{01}JS3
+@136.4
+{01}C8{00}, now...\nused a gun, I believe.\n{01}JU3
+@136.5
+{01}C8{00}, now...\nused a bow, I believe.\n{01}JW3
+@137
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@137.1
+Said to be extremely skilled\nin martial arts...
+@137.2
+Quite skilled, they say...
+@137.3
+Fairly skilled, so the talk goes...
+@137.4
+I haven't heard much of their skill...
+@137.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@138
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@138.1
+Said to be extremely skilled\nin martial arts...
+@138.2
+Quite skilled, they say...
+@138.3
+Fairly skilled, so the talk goes...
+@138.4
+I haven't heard much of their skill...
+@138.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@139
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@139.1
+Said to be extremely skilled\nin martial arts...
+@139.2
+Quite skilled, they say...
+@139.3
+Fairly skilled, so the talk goes...
+@139.4
+I haven't heard much of their skill...
+@139.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@140
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@140.1
+Said to be extremely skilled\nin martial arts...
+@140.2
+Quite skilled, they say...
+@140.3
+Fairly skilled, so the talk goes...
+@140.4
+I haven't heard much of their skill...
+@140.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@141
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@141.1
+Said to be extremely skilled\nin martial arts...
+@141.2
+Quite skilled, they say...
+@141.3
+Fairly skilled, so the talk goes...
+@141.4
+I haven't heard much of their skill...
+@141.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@142
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@142.1
+Said to be extremely skilled\nin martial arts...
+@142.2
+Quite skilled, they say...
+@142.3
+Fairly skilled, so the talk goes...
+@142.4
+I haven't heard much of their skill...
+@142.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@143
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@143.1
+Said to be extremely skilled\nin martial arts...
+@143.2
+Quite skilled, they say...
+@143.3
+Fairly skilled, so the talk goes...
+@143.4
+I haven't heard much of their skill...
+@143.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@144
+Rumour has it they're a once-in-a-century\ntalent in martial arts...
+@144.1
+Said to be extremely skilled\nin martial arts...
+@144.2
+Quite skilled, they say...
+@144.3
+Fairly skilled, so the talk goes...
+@144.4
+I haven't heard much of their skill...
+@144.5
+Their skill...\nbetween you and me,\nis barely past beginner, they say...
+@145
+{01}C1{00}, today I have\nsomething important to discuss.
+@145.1
+{01}C1{00}, today I have\nsomething important to discuss.
+@145.2
+{01}C1{00}, today I have\nsomething important to discuss.
+@146
+Hm, what is it?
+@146.1
+Oh, what might it be?
+@146.2
+Oh, what is it?
+@147
+I'll be blunt.\n{01}C1{00}, what do you say?\nWould you serve me directly?
+@147.1
+I'll be blunt.\n{01}C1{00},\nwould you serve me directly?
+@147.2
+I'll be blunt.\n{01}C1{00}, what do you say?\nWould you serve me directly?
+@148
+What!\nServe you instead of\n{01}C {00}?
+@148.1
+What!\nServe you instead of\n{01}C {00}?
+@148.2
+What did you say!\nServe you instead of\n{01}C {00}?
+@149
+Just so...\nI ask because I see promise in you.\nI'll see {01}C {00} is treated fairly.
+@149.1
+Just so.\nI ask because I see promise in you...\nI'll see {01}C {00} is treated fairly.
+@149.2
+Yes, I ask because I see\npromise in you.\nI'll see {01}C {00} is treated fairly.
+@150
+......
+@150.1
+......
+@151
+It's not a bad offer, is it?\nWhat do you say?
+@151.1
+I believe it's not a bad offer.\nWhat do you say?
+@151.2
+It's not a bad offer, is it?\nWhat do you say?
+@152
+...It's more than I deserve.\n{01}C1{00}, I'd be glad\nto accept.
+@152.1
+...It's more than I deserve.\n{01}C1{00}, I'd be glad\nto accept.
+@152.2
+...It's more than I deserve.\n{01}C1{00}, I'd be glad\nto accept.
+@153
+Oh! Is that so!\nNothing could make me happier!
+@153.1
+Oh! Is that so!\nNothing could make me happier!
+@153.2
+Wonderful!\nI believed you'd say yes.
+@154
+Then I'll go and have a word\nwith {01}C8{00}. Excuse me.
+@154.1
+Then I'll go and have a word\nwith {01}C8{00}.\nExcuse me.
+@154.2
+Then I'll go and have a word\nwith {01}C8{00}.\nSee you later...
+@155
+It's more than I deserve, but...\nI'll pretend I never heard it.\nPlease leave for today.
+@155.1
+It's more than I deserve, but...\nI'll pretend I never heard it.\nPlease leave for today.
+@155.2
+It's more than I deserve, but...\nI'll pretend I never heard it.\nPlease leave for today.
+@156
+I see... no, forgive me.\nForget about today.\nI'll take my leave.
+@156.1
+I see... no, I'm very sorry.\nPlease forget about today.\nI'll take my leave.
+@156.2
+I understand...\nPlease forget about today.\nI'll take my leave.
+@157
+Oh, welcome.
+@157.1
+Oh, welcome.
+@158
+I've brought a letter of introduction.\nI'd like an audience with {01}C1{00}.
+@158.1
+I've brought a letter of introduction.\nI'd like an audience with {01}C1{00}.
+@159
+You're {01}C1{00} of {02}yd?
+@159.1
+You're {01}C1{00} of {02}yd?
+@160
+Hm... so you are {02}{02}g.\nI've heard much about you.
+@160.1
+My... so you are {02}{02}g.\nI've heard much about you.
+@161
+As fellow students of one school,\nI look forward to working with you.
+@161.1
+As fellow students of one school,\nI look forward to working with you.
+@162
+{01}C1{00}, forgive the sudden visit.\nThis time I've come to you...
+@162.1
+{01}C1{00}, forgive the sudden visit.\nThis time I've come to you...
+@163
+I can guess why.\nYou want me to forget the past,\nis that it?
+@163.1
+I can guess why.\nYou want me to forget the past,\nis that it?
+@164
+Yes, as you guessed...\nWhat do you say?
+@164.1
+Yes, as you guessed...\nWhat do you say?
+@165
+...Very well.\nWe both aim for {02}yd.\nOur positions differ, but our road is the same.
+@165.1
+...Please raise your head.\nWe both aim for {02}yd.\nOur positions differ, but our road is the same.
+@165.2
+...Understood.\nWe both aim for {02}yd.\nOur positions differ, but our road is the same.
+@166
+Oh! I'm grateful!
+@166.1
+Oh! Thank you so much.
+@167
+...Very well.\nIf it's my own student asking...
+@167.1
+...Understood.\nIf it's my own student asking...
+@168
+...{01}C1{00}, no, Master,\nraise your head. Since the day we became\nmaster and student, there's no friend or foe.
+@168.1
+...Master, please raise your head.\nSince the day we became master and student,\nthere's no friend or foe.
+@168.2
+...Master, please raise your head.\nSince the day we became master and student,\nthere's no friend or foe.
+@169
+I'm sorry, but {02}{03}g\nis busy, so I can't announce you.\nPlease take your leave.
+@169.1
+I'm very sorry, but {02}{03}g\nis busy, so I can't announce you.\nPlease take your leave.
+@169.2
+I'm sorry, but\n{02}{03}g's orders are\nthat no one may pass now.
+@170
+Hm... I know that face...\nWhy, aren't you the famous {02}{02}g!?\nForgive me, I'll announce you.
+@170.1
+Hm... I know that face...\nWhy, aren't you the famous {02}{02}g!?\nForgive me, I'll announce you.
+@170.2
+Oh, I know that face...\nCould you be the famous {02}{02}g!?\nForgive me, I'll announce you.
+@171
+...I see. A pity, but it can't be helped.
+@171.1
+...I understand.\nIt can't be helped.
+@172
+The strong medicine made me dizzy...\nI'm sorry, but could you\nlet me rest today?
+@172.1
+The strong medicine made me dizzy...\nI'm sorry, but could you\nlet me rest today?
+@173
+(......Of course.\n It's a special secret remedy\n even I can't take.)
+@173.1
+(......Of course.\n It's a special secret remedy\n even I can't take.)
+@174
+(.........\n Shall I really give them poison?)
+@174.1
+(.........\n Shall I really give them poison?)
+@175
+You don't know me...?\nI'm {02}{01}g, martial arts instructor\nof {02}{0B}e.
+@175.1
+You don't know me?\nI'm {02}{01}g, who serves as martial arts\ninstructor of {02}{0B}e.
+@176
+(I've been expecting you.\n {02}{03}g happens\n to be at home.)
+@177
+(Then, here I go!)
+@177.1
+(Then, here I go!)
+@178
+I've found you, {02}{02}g!\n{01}C{7B}3\n{01}C|3
+@179
+At last we meet.
+@179.1
+Today is the day you die.
+@179.2
+This is where you'll be buried.
+@179.3
+This time you won't get away.
+@179.4
+Now the hour of revenge has come!
+@179.5
+I haven't forgotten your face for a single day.
+@180
+Feel the hatred of my clan!
+@180.1
+Take the blade of my fury!
+@180.2
+I'll cut you down!
+@180.3
+I'll make you rust on my blade!
+@180.4
+Now, say your prayers while you can!
+@181
+Bitter... One last request.\nThis is my clan's feud.\nPlease spare {01}C8{00}'s life.
+@182
+Understood, that one I'll spare.\nBut I can't let you get away here.\nPrepare yourself. Hyah!
+@182.1
+Understood, that one I'll spare.\nBut I can't let you get away.\nPrepare yourself!
+@183
+Very well, I won't take that one's life.\nBut I, {02}{01}f, won't spare you for being a woman.\nFarewell. Hmph!
+@183.1
+Very well, that one I'll spare.\nBut this is the end for you.\nGoodbye... Hyah!
+@184
+N...next time I'm born...\n\n\n*cough*!
+@184.1
+I... I'll curse you to the end of your line...\n\n\n*cough*!
+@184.2
+...To stain this blade with my own blood...\nNot funny, is it...\n\n*cough*!
+@184.3
+...Even if I die, another will come for you...\n\n\n*cough*!
+@184.4
+S...someday a woman like me...\n......will kill you!\n\n*cough*!
+@184.5
+...{01}C{81}3... I'm coming to you now...\n*cough*!
+@184.6
+...{01}C{81}3... I couldn't keep my promise...\n\n\n*cough*!
+@184.7
+I...is there no god or Buddha in this world...\n\n\n*cough*!
+@184.8
+S...so to the very end,\nI drew the losing card...\n\n*cough*!
+@185
+Father
+@185.1
+Daddy
+@185.2
+Mother
+@185.3
+Mummy
+@185.4
+Brother
+@185.5
+Big brother
+@185.6
+Bro
+@185.7
+Brother
+@185.8
+Sister
+@185.9
+Big sister
+@185.10
+My brothers
+@185.11
+My sisters
+@185.12
+My lord
+@185.13
+Young lord
+@185.14
+Dear
+@185.15
+Dear
+@185.16
+Everyone in the village
+@185.17
+Boss
+@186
+Don't talk nonsense.\nWho'd listen to one who came to kill me!\nI'll cut you both down right here.
+@186.1
+Don't talk nonsense!\nYou come to kill me, and then ask that...\nI'll cut you both down right here.
+@187
+...Even this won't do?\n\n\nUgh...
+@188
+Ha... you bit your own tongue...\n\n\n...Very well, I'll grant a plea\nmade with your life. {01}C8{00} I'll spare.
+@188.1
+Hmm... you'd already cut your belly...\n\n\n...Very well, I'll grant a plea\nmade with your life. {01}C8{00} I'll spare.
+@189
+Ha... you bit your own tongue...\n\n\n...Very well, I'll grant a plea\nmade with your life.\n{01}C8{00} I'll let go.
+@189.1
+Ah...\nyou'd already cut your belly...\n\n...Very well, I'll grant a plea\nmade with your life.\n{01}C8{00} I'll let go.
+@190
+The revenge has failed.\nReport to the tavern landlady.
+@191
+With the client like this,\nthere'll be no revenge. For this girl's sake,\nI'll forget today. Please leave.
+@191.1
+With the client like this,\nthere'll be no revenge. For this girl's sake,\nI'll forget today. Go home.
+@192
+Damn... do as you like...
+@192.1
+Ugh...\nDo as you like...
+@193
+I have no grudge against you,\nbut it's my job...\nPrepare yourself!
+@193.1
+I have no grudge against you,\nbut this is my job...\nPrepare yourself!
+@194
+...Please wait!\n\n\n.........\n{01}C{8B}3
+@195
+...That's enough.
+@195.1
+Enough... that's enough...
+@196
+You'd forgive me...?\nUgh... to have my life spared by a girl\nis harsher than death...
+@196.1
+You'd forgive me...?\nUgh... I'm utterly beaten...
+@197
+Now! Come, finish it!
+@197.1
+Now! Come, finish it!
+@198
+{02}{02}g, {01}C{8F}3
+@199
+prepare yourself!
+@199.1
+take this!
+@200
+Ugh...\n\n\n...Huh!?\nW-why did you miss my vitals...
+@200.1
+Ugh...\n\n\n...Huh!\nW-why did you miss my vitals?
+@201
+Killing you isn't enough for my clan's hatred.\nYou'll carry that scar\nfor the rest of your life.
+@201.1
+.........\n\n\n{01}C{81}3... I'm sorry...\nI can't kill a person...
+@202
+I...I'm utterly beaten.\nBeaten by a girl so young...
+@202.1
+I...I'm utterly beaten.\nBeaten by such a young girl...
+@203
+Leave it at that.\nIf you kill {01}C8{00} here,\nyou'll never know a woman's happiness.
+@203.1
+Leave it at that.\nIf you kill {01}C8{00} here,\nyou'll surely regret it.
+@204
+.........\n\n\nAh...\nWhat have I done...
+@205
+You'd let me go, at this point?\nYou must hate me enough to kill me...\nUgh... I'm grateful...
+@205.1
+You'd let me go, at this point?\nYou must hate me enough to kill me...\nUgh... I'm so sorry...
+@206
+The revenge succeeded.
+@207
+Thanks to you, I've settled my feelings.\nI'll stop living for revenge now.\nCollect your reward at the tavern.
+@208
+Hmm... after being told this much, I must\nrepent my past wrongs or I'll have no face...\n\nFrom now on I'll learn from today, mend my ways\nand live honestly... {01}C1{00}, please\nforget today too. Farewell.
+@208.1
+...After being told this much, I must\nrepent my past wrongs...\n\nFrom now on I'll learn from today, mend my ways\nand live honestly... {01}C1{00}, please\nforget today too. Farewell.
+@209
+({01}C8{00} is now my lord...\n I can't take their life.\n I'll turn down this revenge.)
+@209.1
+({01}C8{00} is now my lord...\n I can't take their life.\n I'll turn down this revenge.)
+@209.2
+({01}C8{00} is now my subordinate...\n I can't take their life.\n I'll turn down this revenge.)
+@209.3
+({01}C8{00} is now my subordinate...\n I can't take their life.\n I'll turn down this revenge.)
+@209.4
+({01}C8{00} is now my {01}C{9A}3...\n I can't take their life.\n I'll turn down this revenge.)
+@209.5
+({01}C8{00} is now my {01}C{9A}3...\n I can't take their life.\n I'll turn down this revenge.)
+@209.6
+({01}C8{00} is now my comrade...\n I can't take their life.\n I'll turn down this revenge.)
+@209.7
+({01}C8{00} is now my comrade...\n I can't take their life.\n I'll turn down this revenge.)
+@209.8
+(Sorry, after taking the job\n I got to know {01}C8{00}...\n I'll turn down this revenge.)
+@209.9
+(Sorry, after taking the job\n things changed...\n I'll turn down this revenge.)
+@210
+boss
+@210.1
+master
+@210.2
+chief
+@211
+I've been expecting you.\nMy sworn enemy, {02}{03}g,\nis here.
+@212
+Ambush {02}{03}i? You'd need\nmore lives than you have.\nPlease give up this time.
+@212.1
+Ambush {02}{03}i? You'd need\nmore lives than you have.\nPlease give up this time.
+@213
+...No, if only you'd come sooner,\nI wouldn't have missed my chance...\nI was wrong to count on you.
+@214
+There's no one to introduce.
+@215
+Not enough friendship.
+@216
+You've already given a gift this month.\nYou can't give more.
+@217
+You've already made an offering this month.\nYou can't make more.
+@218
+You've already served tea this month.\nYou can't serve more.
+@219
+You have no tea ware.
+@220
+You have no items to give.
+@221
+Hmph, {02}{02}f!\nHow dare you show your face now...\nGo, go away this instant!
+@221.1
+...{02}{02}f!\nHow dare you show your face now...\nGet out!
+@222
+What are you here for!\nI don't want to see you.\nBe gone at once!
+@222.1
+What are you here for!\nI don't want to see your face.\nGet out right now!!
+@223
+(They look quite unwell.\n ...I know, shall I examine them?)
+@223.1
+(They look quite unwell.\n ...I know, shall I examine them?)
+@224
+Let me examine you.\nHow are you feeling?
+@224.1
+Let me examine you.\nHow are you feeling?
+@224.2
+Let me take a look.\nHow are you feeling?
+@225
+You seem to have something\nto do right now.\nInvite me when you're done.
+@225.1
+You seem to have something\nto do right now.\nPlease invite me when you're done.
+@225.2
+You seem to have something\nto do right now.\nInvite me when you're done.
+@226
+(Hm, wait.\n It's been quite a while\n since I invited {01}C8{00}.)\n(I'd better start again\n with the first guest.)
+@226.1
+(Hm, wait.\n It's been quite a while\n since I invited {01}C8{00}.)\n(I'd better start again\n with the first guest.)
+@227
+{01}C1{00},\nhow about a tea gathering\nin my tea room sometime?
+@227.1
+{01}C1{00},\nwould you join a tea gathering\nin my tea room sometime?
+@227.2
+{01}C1{00},\nhow about a tea gathering\nin my tea room sometime?
+@228
+I've invited {01}C8{00} too.\nI think it'll be a worthwhile gathering.
+@228.1
+I've invited {01}C8{00} too.\nI think it'll be a worthwhile gathering.
+@228.2
+I've invited {01}C8{00} too.\nI think it'll be a worthwhile gathering.
+@229
+It's kind of you to invite me, but\nI've already had tea this month.\nAnother time, perhaps...
+@229.1
+It's kind of you to invite me, but\nI've already received a gift this month.\nAnother time, perhaps...
+@229.2
+It's kind of you to invite me, but\nI've already had tea this month.\nAnother time, perhaps...
+@229.3
+It's kind of you to invite me, but\nI've already received a gift this month.\nAnother time, perhaps...
+@229.4
+It's kind of you to invite me, but\nI've already had tea this month.\nAnother time, perhaps...
+@229.5
+It's kind of you to invite me, but\nI've already received a gift this month.\nAnother time, perhaps...
+@230
+It's kind of you to invite me, but\nI'm busy. Another time, perhaps...
+@230.1
+It's kind of you to invite me, but\nI'm busy. Another time, perhaps...
+@230.2
+It's kind of you to invite me, but\nI'm busy. Another time, perhaps...
+@231
+I'd be glad to come.\nThen I'll go ahead and wait\nin your tea room.
+@231.1
+I'd be glad to come.\nThen I'll go ahead and wait\nin your tea room.
+@231.2
+I'd be glad to come.\nThen I'll go ahead and wait\nin your tea room.
+@232
+I'm terribly sorry, but\nthe master is busy\nand can't see you.
+@233
+Today I've brought a gift\nfor {01}C>{00} from the master of our house.
+@234
+Oho, a box of sweets!\nLet's see...
+@234.1
+I see, a box of sweets.\nLet's see...
+@234.2
+Hm, a box of sweets.\nLet's see...
+@235
+Please accept it.
+@236
+Hm...\nWell, it's a nice gesture.
+@236.1
+Heh heh, well, well...\n{02}{02}{EC} seems\nquite thoughtful.
+@236.2
+Oh, well, well...\nI'll never forget\n{02}{02}{EC}'s thoughtfulness!
+@237
+It seems there's nothing more\nyou can teach me.\nI'll accept the thought, though.
+@237.1
+It seems there's nothing more\nyou can teach me.\nI'll accept the thought, though.
+@237.2
+It seems there's nothing more\nyou can teach me.\nI'll accept the thought, though.
+@238
+You'll teach me a skill?\nBut surely not in that condition...\nAnother time.
+@238.1
+You'll teach me a skill?\nBut in your condition, that's a bit...\nAnother time, perhaps.
+@238.2
+You'll teach me a skill?\nBut in your condition, that's a bit...\nAnother time, perhaps.
+@239
+What skill\nwill you teach me?
+@239.1
+What skill\nwould you teach me?
+@239.2
+What skill\nwould you teach me?
+@240
+It's kind of you, but...\nI don't seem to have a talent for that.\nI think lessons would be a waste of time.\nPerhaps another time.
+@240.1
+It's kind of you, but...\nI don't seem to have a talent for that.\nI think lessons would be a waste of time.\nPerhaps another time.
+@240.2
+It's kind of you, but...\nI don't seem to have a talent for that.\nI think lessons would be a waste of time.\nPerhaps another time.
+@241
+Learning it would take about 30 days...\nIs that all right?
+@241.1
+Learning it would take about 30 days...\nIs that all right?
+@241.2
+Learning it would take about 30 days...\nIs that all right?
+@242
+Then please show me\nhow it's done.
+@242.1
+Then please show me\nhow it's done.
+@242.2
+Then please show me\nhow it's done.
+@243
+Hmm... I couldn't really\nunderstand that demonstration.
+@243.1
+Hmm... I couldn't really\nunderstand that demonstration.
+@243.2
+Hmm... I couldn't really\nunderstand that demonstration.
+@244
+{02}{02}g's skill\ndidn't change.
+@245
+Hmm... it was a fine lesson, but\nperhaps I lack the grounding;\nI didn't quite grasp it... I'm sorry.
+@245.1
+Hmm... it was a fine lesson, but\nperhaps I lack the grounding;\nI didn't quite grasp it... I'm sorry.
+@245.2
+Hmm... it was a fine lesson, but\nperhaps I lack the grounding;\nI didn't quite grasp it... I'm sorry.
+@246
+Why, that was a fine lesson.\nI feel I've grasped a little\nof the secret of {02}yd.
+@246.1
+Why, that was a fine lesson.\nI feel I've grasped a little\nof the secret of {02}yd.
+@246.2
+Why, that was a fine lesson.\nI feel I've grasped a little\nof the secret of {02}yd.
+@247
+{02}{02}g's {02}yd skill\nrose.
+@249
+(...Blast, the only things worth {02}od or more\n are what I'm wearing now...\n I can't strip naked here...)
+@249.1
+(...Oh no, the only things worth {02}od or more\n are what I'm wearing now.)
+@251
+You want to meet someone from {02}{01}{EC}?\n...Very well.\nGladly, if my teacher asks.
+@251.1
+You want to meet someone from {02}{01}{EC}?\n...Very well.\nGladly, if my teacher asks.
+@253
+You want to meet someone from {02}{01}{EC}?\nVery well. For my own student\nI can make an introduction with confidence.
+@253.1
+You want to meet someone from {02}{01}{EC}?\n...Very well.\nIt's my dear student asking, after all.
+@255
+You want to meet someone from {02}{01}{EC}?\n...Very well.\nIf you ask, I'll do what I can.
+@255.1
+You want to meet someone from {02}{01}{EC}?\n...Very well.\nIt's you asking, after all.
+@257
+Sorry, but I can't just introduce\nsomeone I'm not close to.\nIf anything went wrong, I'd lose face.
+@257.1
+I'm sorry, I can only introduce\npeople I'm close to.\nIt would be awkward if anything went wrong...
+@259
+I'll introduce you to\n{01}C{CC}3.
+@259.1
+I'll introduce you to\n{01}C{CC}3.
+@260
+my father, {02}{03}g
+@260.1
+my grandfather, {02}{03}g
+@260.2
+my older brother, {02}{03}g
+@260.3
+my older sister, {02}{03}g
+@260.4
+my younger brother, {02}{03}g
+@260.5
+my younger sister, {02}{03}g
+@260.6
+my child, {02}{03}g
+@260.7
+my grandchild, {02}{03}g
+@260.8
+my lord, {02}{03}g
+@260.9
+my superior, {02}{03}g
+@260.10
+my teacher, {02}{03}g
+@260.11
+one {02}{03}g
+@261
+Received a letter of introduction to {02}{03}g.
+@263
+{01}C{AE}{01} should be in {02}{1A}e.\nThen I'll take my leave for today.
+@263.1
+{01}C{AE}{01} should be in {02}{1A}e.\nThen I'll take my leave for today.
+@265
+You want to meet someone from {02}{01}{EC}?\nVery well.\nI think well of {02}{02}{EC}'s work.
+@265.1
+You want to meet someone from {02}{01}{EC}?\nVery well.\nI think well of {02}{02}{EC}'s work.
+@267
+You want to meet someone from {02}{01}{EC}?\n{02}{02}{EC} hasn't done well, you see...\nSorry, I can't think of anyone to introduce.
+@267.1
+You want to meet someone from {02}{01}{EC}?\nWith {02}{02}{EC}'s record, that's a bit...\nI can't think of anyone to introduce.
+@269
+Hmm, I've grown very forgetful lately...\nIf only something would jog my memory,\nI might recall someone to introduce.
+@269.1
+Um... I've grown so forgetful lately...\nIf only something would jog my memory,\nI might recall someone to introduce.
+@271
+Ho ho ho.\nThere's one item I've had my eye on...\nWith that, I'm sure something would come to mind.\nOh? That {02}3g you have...\nWith that, all would be well.\nCome, hurry, or I'll forget!
+@271.1
+Oh, that's right.\nThere's one item I've had my eye on.\nWith that, I'm sure something would come to mind.\nOh? That {02}3g you have...\nWith that, all would be well!\nCome, hurry, or I'll forget!
+@272
+Give {02}3g?
+@274
+Ho ho ho.\nIf my purse were a little warmer,\nI might remember.\nAhh... I'm about to forget...\nCome, {02}{02}{EC}... it's not too late!\nI won't ask much; a mere {02}o{C8} would do...
+@274.1
+...Ufufufu.\nIf my purse were a little warmer,\nI might remember.\nAhh... I'm about to forget...\nCome, {02}{02}{EC}, it's not too late!\nLet's see... a mere {02}o{C8} would do...
+@275
+Give {02}o{C8}?
+@277
+Eh? What did you just say?\nMy ears aren't what they were.\nDid I hear you refuse, or did I imagine it?
+@277.1
+Oh my? What did you just say?\nMy ears aren't what they were...\nDid you say no? Did I imagine it?
+@279
+Oh, that's it, that's it.\nJust what I'd expect of {02}{02}{EC}.\n\nOhhh...\nI've suddenly remembered\nsomeone I'd like you to meet.
+@279.1
+That's it, that's it!\nJust what I'd expect of {02}{02}{EC}.\n\n...Oh!\nI've suddenly remembered\nsomeone I'd like you to meet.
+@281
+You want to meet someone from {02}{01}{EC}?\nVery well.\nGladly, if Lord {02}{02}e asks.
+@281.1
+You want to meet someone from {02}{01}{EC}?\nVery well.\nGladly, if Lord {02}{02}e asks.
+@283
+Mmm, I'm in a good mood today.\nI'll give you this too while I'm at it.\nIt's very precious, so take care of it.
+@283.1
+Mmm, I'm in a good mood today!\nI'll give you this too while I'm at it.\nIt's precious, so take good care of it.
+@285
+Ugh! Hey, {02}{01}{EC},\nwhose doing was it that you became a purveyor?\nI don't want to see an ingrate's face.
+@285.1
+Hmph! {02}{01}{EC},\nwhose doing was it that you became a purveyor?\nYou ungrateful little fox!
+@287
+I'm sorry, but\nI have some business to see to, so...
+@287.1
+I'm afraid I'm busy,\nso another time...
+@288
+I'm sorry, but\nI have some business to see to...
+@288.1
+Sorry, I'm busy.\nPlease make it another time.
+@290
+...{01}C1{00}, training in that\ncondition is out of the question.\nYou should hold off this time.
+@291
+{01}C1{00}, training in that\ncondition is unreasonable...\nPlease hold off this time.
+@293
+...I'm sorry, but\nI don't seem to have any skill\ngood enough to teach you.
+@294
+...I'm sorry, but\nI have no skill\ngood enough to teach you.
+@296
+These are the skills\nI can teach.\nWhich do you want to learn?
+@297
+These are the skills\nI can teach...\nWhich shall I teach you?
+@299
+You want to learn {02}yd?\nGiven your ability, it will take\n{02}od days. Is that all right?
+@300
+You'd like to learn {02}yd?\nGiven your ability, it will take\n{02}od days. Is that all right?
+@303
+To train in {02}yd,\nfirst get yourself {02}zd.
+@304
+To train in {02}yd,\nplease get {02}zd first.
+@306
+To master {02}yd further,\nget {02}zd worth {02}od or more.
+@307
+To master {02}yd further,\nyou need {02}zd worth {02}od or more.
+@309
+These are the basics of {02}yd,\nso any {02}zd will do.
+@309.1
+To master {02}yd further,\nget {02}zd worth {02}od or more.
+@310
+These are the basics of {02}yd,\nso any {02}zd you use\nwill do.
+@310.1
+To master {02}yd further,\nyou need {02}zd worth {02}od or more.
+@311
+Right.\nThen I'll use {02}3g.
+@311.1
+Understood.\nThen I'll use {02}3g.
+@313
+Oh, I caaan't recommend\ntraining while you're ill.\nPlease get weeell first.
+@314
+Training? In that state?\nForget it.\nSorry, but I can't teach you like that.
+@315
+Training?\nIn your condition, that's a bit...\nPlease hold off this time.
+@316
+Training? In that state?\nForget it.\nSorry, but I can't teach you like that.
+@316.1
+Training?\nIn your condition, that's a bit...\nPlease hold off this time.
+@318
+Training in {02}yd, eh......\nThat needs about {02}o{C8}......\nYou don't have enough money.
+@319
+Training in {02}yd?\nLooks like you don't even have {02}o{C8}.\nSorry, but I can't teach you like that.
+@320
+Training in {02}yd\nneeds about {02}o{C8}......\nYou don't seem to have enough money.
+@321
+Training in {02}yd?\nYou don't even have {02}o{C8}.\nSorry, but I can't teach you like that.
+@321.1
+Training in {02}yd?\nThat would need about {02}o{C8},\nbut you seem short of money...
+@323
+Training in {02}yd takes {02}od daaays.\nWith your summons deadline,\nlet's not do it this tiiime.
+@323.1
+Training in {02}yd takes {02}od daaays.\nYou must have a council coming up.\nLet's not do it this tiiime.
+@324
+Your summons deadline has passed.\nYou'll be in trouble.\nHurry back.
+@324.1
+The council is already over.\nYou'll be in trouble.\nHurry back.
+@325
+Training in {02}yd takes {02}od days.\nYou've got a council, haven't you?\nForget it this time.
+@325.1
+Training in {02}yd takes {02}od days.\nYou've got a council, haven't you?\nForget it this time.
+@326
+Training in {02}yd takes {02}od days.\nYou've been summoned, haven't you?\nForget it this time.
+@326.1
+Training in {02}yd takes {02}od days.\nYou've been summoned, haven't you?\nForget it this time.
+@327
+Hey, hey,\nyour summons deadline has passed.\nForget it this time.
+@327.1
+Hey, you,\nyour summons deadline has passed.\nForget it this time.
+@328
+Hey, hey,\nthe council's over; aren't you going back?\nForget it this time.
+@328.1
+Hey, you missed the council;\naren't you going back?\nForget it this time.
+@329
+Training in {02}yd takes {02}od days.\nWith the next council coming,\nyou'd best hold off this time.
+@329.1
+Training in {02}yd takes {02}od days.\nWith the next council coming,\nyou should hold off this time.
+@330
+Training in {02}yd takes {02}od days.\nWith your summons deadline,\nyou'd best hold off this time.
+@330.1
+Training in {02}yd takes {02}od days.\nWith your summons deadline,\nyou should hold off this time.
+@331
+You seem to have missed the council...\nBetter go back and beg forgiveness.\nYou can train any time.
+@331.1
+You seem to have missed the council.\nBetter go back and beg forgiveness...\nYou can train any time.
+@332
+You seem to be late for your summons...\nBetter go back and beg forgiveness.\nYou can train any time.
+@332.1
+You seem to be late for your summons.\nBetter go back and beg forgiveness...\nYou can train any time.
+@333
+Training in {02}yd takes {02}od days.\nWith the next council coming,\nbetter hold off this time.
+@333.1
+Training in {02}yd takes {02}od days.\nWith the next council coming,\nperhaps you should hold off this time...
+@334
+Training in {02}yd takes {02}od days.\nWith your summons deadline,\nlet's do it another day.
+@334.1
+Training in {02}yd takes {02}od days.\nWith your summons deadline,\nperhaps you should hold off this time...
+@335
+You seem to have missed the council...\nYou should go back and beg forgiveness.\nYou can train any time.
+@335.1
+You seem to have missed the council.\nBetter go back and beg forgiveness...\nYou can train any time.
+@336
+Your summons deadline seems to have passed.\nYou should go back and beg forgiveness.\nYou can train any time.
+@336.1
+Your summons deadline seems to have passed.\nYou should go back and beg forgiveness.\nYou can train any time.
+@337
+Training in {02}yd takes {02}od days.\nWith your summons deadline,\nperhaps you should hold off this time...
+@337.1
+Training in {02}yd takes {02}od days.\nWith the next council coming,\nperhaps you should hold off this time...
+@338
+You seem to be late for your summons.\nBetter go back and beg forgiveness...\nYou can train any time.
+@338.1
+You seem to have missed the council.\nBetter go back and beg forgiveness...\nYou can train any time.
+@340
+Training in {02}yd takes {02}od daaays.\nShall we beeegin?
+@341
+Training in {02}yd takes {02}od days.\nShall we start?
+@342
+Training in {02}yd takes {02}od days.\nShall we begin, then?
+@343
+Training in {02}yd takes {02}od days.\nShall we begin, then?
+@343.1
+Training in {02}yd takes {02}od days.\nShall we begin?
+@345
+Training in {02}yd takes {02}od days.\nI'll take {02}p{C8}.\nIs that all riiight?
+@346
+Training in {02}yd takes {02}od days.\nI'd want {02}p{C8} for it.\nThat all right?
+@347
+Training in {02}yd takes {02}od days.\nIt costs about {02}p{C8}.\nIs that all right?
+@348
+Training in {02}yd takes {02}od days.\nI'll take about {02}p{C8}.\nIs that all right?
+@348.1
+Training in {02}yd takes {02}od days.\nIt costs about {02}p{C8}.\nIs that all right?
+@349
+There's nothing more\nI can teach you.\nNow go and farm, farm, faaarm.
+@349.1
+There's nothing more\nI can teach you.\nYou're a real master now.
+@349.2
+There's nothing more\nI can teach you.\nYou're a real master now.
+@349.3
+It seems there's nothing more\nI can teach you.\nBut don't neglect your practice.
+@349.4
+It seems there's nothing more\nI can teach you.\nBut please don't neglect your practice.
+@350
+There's nothing more\nI can teach you.\nNow go and farm, farm, faaarm.
+@350.1
+There's nothing more\nI can teach you.\nSplendid skill; quite something.
+@350.2
+It seems there's nothing more\nI can teach you.\nBut don't neglect your practice...
+@350.3
+It seems there's nothing more\nI can teach you.\nBut don't neglect your practice...
+@352
+You've worked veeery hard.\nI grant you this technique.\nUse it all you liiike.
+@353
+I'll grant you this technique.\nBut don't stop here.\nAim higher.
+@353.1
+I'll pass this skill on to you.\nBut don't stop here.\nAim higher.
+@354
+I'll pass this on to you.\nDon't let it make you proud;\naim even higher.
+@354.1
+I'll pass this on to you.\nDon't let it make you proud;\naim even higher.
+@355
+I'll pass this on to you.\nDon't let it make you proud;\naim even higher.
+@355.1
+I'll pass this on to you.\nDon't let it make you proud;\naim even higher.
+@356
+Take this.\nBut don't stop here.\nAim higher.
+@356.1
+I'll pass this on to you.\nDon't let it make you proud;\naim even higher.
+@357
+I'll pass this on to you.\nI pray for your\nsuccess from now on.
+@359
+Veeery good.\nYou could say you've\nmastered {02}yd.
+@359.1
+Veeery good.\nYou could say you've\nmastered {02}yd.
+@359.2
+Veeery good.\nBut you haven't mastered {02}yd yet.\nGet even beeetter.
+@359.3
+Veeery good.\nBut there's far to go to master {02}yd.\nKeep practiiising.
+@359.4
+Veeery good.\nThat's the basics of {02}yd, perfect.\nBut there's far to go to master {02}yd.
+@360
+Nicely done.\nYou could say you've\nmastered {02}yd.
+@360.1
+Nicely done.\nYou could say you've\nmastered {02}yd.
+@360.2
+Nicely done.\nBut you haven't mastered {02}yd yet.\nAim higher.
+@360.3
+Nicely done.\nBut there's far to go to master {02}yd.\nKeep at it.
+@360.4
+Nicely done.\nYou've got the basics of {02}yd.\nThere's far to go to master {02}yd.
+@361
+Splendid!\nYou could say you've\nmastered {02}yd.
+@361.1
+Splendid!\nYou could say you've\nmastered {02}yd.
+@361.2
+Splendid!\nBut you haven't mastered {02}yd yet.\nAim higher.
+@361.3
+Splendid!\nThere's far to go to master {02}yd...\nKeep practising.
+@361.4
+Splendid!\nYou've got the basics of {02}yd.\nThere's far to go to master {02}yd...
+@362
+Splendid!\nYou could say you've\nmastered {02}yd.
+@362.1
+Splendid!\nYou could say you've\nmastered {02}yd.
+@362.2
+Splendid!\nBut you haven't mastered {02}yd yet.\nAim higher.
+@362.3
+Splendid!\nThere's far to go to master {02}yd...\nKeep practising.
+@362.4
+Splendid!\nYou've got the basics of {02}yd.\nThere's far to go to master {02}yd...
+@363
+Splendid!\nYou could say you've\nmastered {02}yd.
+@363.1
+Splendid!\nYou could say you've\nmastered {02}yd.
+@363.2
+Splendid!\nBut you haven't mastered {02}yd yet.\nPlease aim higher.
+@363.3
+Splendid!\nBut to master {02}yd, there's still...\nPlease keep practising.
+@363.4
+Splendid!\nYou've got the basics of {02}yd.\nThe road of {02}yd is still ahead...
+@364
+Splendid!\nYou could say you've\nmastered {02}yd.
+@364.1
+Splendid!\nYou could say you've\nmastered {02}yd.
+@364.2
+Splendid!\nBut you haven't mastered {02}yd yet.\nPlease aim higher.
+@364.3
+Splendid!\nBut to master {02}yd, there's still...\nPlease keep practising.
+@364.4
+Splendid!\nYou've got the basics of {02}yd.\nThe road of {02}yd is still ahead...
+@366
+You've become veeery good.\nYou could say you've\nmastered {02}yd.
+@366.1
+You've become veeery good.\nYou could say you've\nmastered {02}yd.
+@366.2
+You've become goood.\nBut you haven't mastered {02}yd yet.\nGet even beeetter.
+@366.3
+You're getting quite goood.\nBut there's far to go to master {02}yd.\nKeep practiiising.
+@366.4
+You've grasped the basics of {02}yd.\nBut there's far to go to master {02}yd.\nGet even beeetter.
+@367
+Looks like you've come a long way.\nYou could say you've\nmastered {02}yd.
+@367.1
+Looks like you've come a long way.\nYou could say you've\nmastered {02}yd.
+@367.2
+Looks like you've improved a lot.\nBut you haven't mastered {02}yd yet.\nAim higher.
+@367.3
+You're getting quite good.\nBut there's far to go to master {02}yd.\nKeep at it.
+@367.4
+You've got the basics of {02}yd.\nThere's far to go to master {02}yd.\nKeep at it.
+@368
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@368.1
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@368.2
+You've improved a great deal.\nBut you haven't mastered {02}yd yet.\nAim higher.
+@368.3
+You've improved nicely.\nThere's far to go to master {02}yd...\nKeep practising.
+@368.4
+You've got the basics of {02}yd.\nThere's far to go to master {02}yd...\nKeep practising.
+@369
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@369.1
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@369.2
+You've improved a great deal.\nBut you haven't mastered {02}yd yet.\nAim higher.
+@369.3
+You've improved nicely.\nThere's far to go to master {02}yd...\nKeep practising.
+@369.4
+You've got the basics of {02}yd.\nThere's far to go to master {02}yd...\nKeep practising.
+@370
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@370.1
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@370.2
+You've improved a great deal.\nBut you haven't mastered {02}yd yet.\nPlease aim higher.
+@370.3
+You've become quite good.\nBut to master {02}yd, there's still...\nPlease keep practising.
+@370.4
+You've got the basics of {02}yd.\nThe road of {02}yd is still ahead...\nPlease keep practising.
+@371
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@371.1
+You've improved beyond reproach.\nYou could say you've\nmastered {02}yd.
+@371.2
+You've improved a great deal.\nBut you haven't mastered {02}yd yet.\nPlease aim higher.
+@371.3
+You've become quite good.\nBut to master {02}yd, there's still...\nPlease keep practising.
+@371.4
+You've got the basics of {02}yd.\nThe road of {02}yd is still ahead...\nPlease keep practising.
+@380
+You still have a long way to go.\nGet beeetter.
+@380.1
+Not a very good result......\nGet beeetter.
+@380.2
+That was quite goood.\nCome agaaain.
+@380.3
+That was veeery good.\nCome agaaain.
+@380.4
+That was suuuper good.\nCome agaaain.
+@381
+You've a long way to go.\nBut this experience won't go to waste.\nKeep at it.
+@381.1
+Not what I'd call a good result.\nBut this experience won't go to waste.\nKeep at it.
+@381.2
+That showed real promise.\nKeep at it.
+@381.3
+A pretty good result.\nWell, keep working at it.
+@381.4
+A flawless, splendid result.\nKeep working even harder.
+@383
+You have a long way to go...\nBut this experience won't go to waste.\nKeep practising.
+@384
+Not a very good result.\nBut this experience won't go to waste.\nKeep practising.
+@385
+That showed real promise!\nKeep practising.
+@386
+A very good result!\nDon't let it make you proud;\nkeep practising.
+@387
+A flawless, splendid result!\nDon't let it make you proud;\nkeep practising.
+@389
+You have a long way to go, but\nthis experience isn't wasted.\nKeep practising.
+@390
+Not a very good result, but\nthis experience isn't wasted.\nKeep practising.
+@391
+That showed real promise.\nKeep practising.
+@392
+A very good result.\nDon't let it make you proud;\nkeep practising.
+@393
+A flawless, splendid result.\nDon't let it make you proud;\nkeep practising.
+@395
+You couldn't show your true skill...\nBut don't give up now.\nPlease keep practising.
+@396
+Not a very good result.\nBut this experience isn't wasted.\nPlease keep practising.
+@397
+A fine result.\nPlease keep practising.
+@398
+A very good result!\nDon't let it make you proud;\nplease keep practising.
+@399
+A flawless, splendid result!\nDon't let it make you proud;\nplease keep practising.
+@401
+You couldn't show your true skill...\nBut don't give up now.\nPlease keep practising.
+@402
+Not a very good result.\nBut this experience isn't wasted.\nPlease keep practising.
+@403
+A fine result.\nPlease keep practising.
+@404
+A very good result!\nDon't let it make you proud;\nplease keep practising.
+@405
+A flawless, splendid result!\nDon't let it make you proud;\nplease keep practising.
+@406
+{02}yd skill experience rose slightly.
+@406.1
+{02}yd skill experience rose a little.
+@406.2
+{02}yd skill experience rose somewhat.
+@406.3
+{02}yd skill experience rose.
+@407
+With accumulated experience,\nthe {02}yd skill rose.
+@408
+With a perfect result this time,\nthe {02}yd skill rose.

@@ -1,0 +1,2426 @@
+@0
+{01}C{AD}{01}, what will you do?
+@0.1
+{01}C1{00}, what will you do?
+@0.2
+{01}C1{00}, what will you do?
+@0.3
+{01}C1{00}, what will you do?
+@1
+{01}C{AD}{01}, there's no one\nwho can take a mission.
+@1.1
+{01}C1{00}, there's no one\nwho can take a mission.
+@1.2
+{01}C1{00}, there's no one\nwho can take a mission.
+@1.3
+{01}C1{00}, there's no one\nwho can take a mission.
+@2
+{01}C{AD}{01},\nthere's no base we can transport to.\n{01}C{9B}:
+@2.1
+{01}C1{00},\nthere's no base we can transport to.\n{01}C{9B}:
+@2.2
+{01}C1{00},\nthere's no base we can transport to.\n{01}C{9B}:
+@2.3
+{01}C1{00},\nthere's no base we can transport to.\n{01}C{9B}:
+@3
+Transport is only possible between linked bases.
+@3.1
+Transport is only possible between linked bases.
+@4
+{01}C{AD}{01},\nthere's no base we can transport to.\nWe can't transport to a base under attack.
+@4.1
+{01}C1{00},\nthere's no base we can transport to.\nWe can't transport to a base under attack.
+@4.2
+{01}C1{00},\nthere's no base we can transport to.\nWe can't transport to a base under attack.
+@4.3
+{01}C1{00},\nthere's no base we can transport to.\nWe can't transport to a base under attack.
+@5
+{01}C{AD}{01},\nthere's no base we can move to now.
+@5.1
+{01}C1{00},\nthere's no base we can move to now.
+@5.2
+{01}C1{00},\nthere's no base we can move to now.
+@5.3
+{01}C1{00},\nthere's no base we can move to now.
+@6
+{01}C{AD}{01},\nthere's no base we can move to now.\nYou can only move between linked bases.
+@6.1
+{01}C1{00},\nthere's no base we can move to now.\nYou can only move between linked bases.
+@6.2
+{01}C1{00},\nthere's no base we can move to now.\nYou can only move between linked bases.
+@6.3
+{01}C1{00},\nthere's no base we can move to now.\nYou can only move between linked bases.
+@7
+{01}C{AD}{01},\nthere's no base we can move to now.\n{01}C{A0}:
+@7.1
+{01}C1{00},\nthere's no base we can move to now.\n{01}C{A0}:
+@7.2
+{01}C1{00},\nthere's no base we can move to now.\n{01}C{A0}:
+@7.3
+{01}C1{00},\nthere's no base we can move to now.\n{01}C{A0}:
+@8
+We can't move to a base under attack.
+@8.1
+We can't move to a base under attack.
+@9
+{01}C{AD}{01},\nan army is out from {01}C{A2}: right now.\nWe can't move until the battle ends.
+@9.1
+{01}C1{00},\nan army is out from {01}C{A2}: right now.\nWe can't move until the battle ends.
+@9.2
+{01}C1{00},\nan army is out from {01}C{A2}: right now.\nWe can't move until the battle ends.
+@9.3
+{01}C1{00},\nan army is out from {01}C{A2}: right now.\nWe can't move until the battle ends.
+@10
+the main castle
+@10.1
+this fort
+@10.2
+this village
+@11
+{01}C{AD}{01},\nthere's no {02}yd we can attack now.
+@11.1
+{01}C1{00},\nthere's no {02}yd we can attack now.
+@11.2
+{01}C1{00},\nthere's no {02}yd we can attack now.
+@11.3
+{01}C1{00},\nthere's no {02}yd we can attack now.
+@12
+{01}C{AD}{01},\nthere's no one to give orders to now.
+@12.1
+{01}C1{00},\nthere's no one to give orders to now.
+@12.2
+{01}C1{00},\nthere's no one to give orders to now.
+@12.3
+{01}C1{00},\nthere's no one to give orders to now.
+@13
+Choose {02}od companions.
+@14
+Which {01}C{94}{01} will you transport to?
+@14.1
+Which {01}C{94}{01} will you transport to?
+@14.2
+Which {01}C{94}{01} will you transport to?
+@14.3
+Which {01}C{94}{01} will you transport to?
+@15
+Which {01}C{94}{01} will you transport from?
+@15.1
+Which {01}C{94}{01} will you transport from?
+@15.2
+Which {01}C{94}{01} will you transport from?
+@15.3
+Which {01}C{94}{01} will you transport from?
+@16
+That {01}C{94}{01} is ruled\nby {01}C8{00}.\nIt can't be the source.
+@16.1
+That {01}C{94}{01} is ruled\nby {01}C8{00}.\nIt can't be the source.
+@16.2
+That {01}C{94}{01} is ruled\nby {01}C8{00}.\nIt can't be the source.
+@16.3
+That {01}C{94}{01} is ruled\nby {01}C8{00}.\nIt can't be the source.
+@17
+That {01}C{94}{01} has no goods.
+@17.1
+That {01}C{94}{01} has no goods.
+@17.2
+That {01}C{94}{01} has no goods.
+@17.3
+That {01}C{94}{01} has no goods.
+@18
+Choose the goods to transport.
+@18.1
+Choose the goods to transport.
+@18.2
+Choose the goods to transport.
+@18.3
+Choose the goods to transport.
+@19
+Is that all?
+@19.1
+Is that all?
+@19.2
+Is that all?
+@19.3
+Is that all?
+@20
+Call off the transport\nto {02}{15}e?
+@20.1
+Call off the transport\nto {02}{15}e?
+@20.2
+Call off the transport\nto {02}{15}e?
+@20.3
+Call off the transport\nto {02}{15}e?
+@21
+You'll move your base...\nThen choose the base.
+@21.1
+You'll move your base...\nThen choose the base.
+@21.2
+You'll move your base...\nThen choose the base.
+@21.3
+You'll move your base...\nThen choose the base.
+@22
+Move your base to {02}{15}e?
+@22.1
+Move your base to {02}{15}e?
+@22.2
+Move your base to {02}{15}e?
+@22.3
+Move your base to {02}{15}e?
+@23
+Then I'll move the base to {02}{15}e.
+@23.1
+Then I'll move the base to {02}{15}e.
+@23.2
+Then I'll move the base to {02}{15}e.
+@23.3
+Then I'll move the base to {02}{15}e.
+@24
+Call off moving the base?
+@24.1
+Call off moving the base?
+@24.2
+Call off moving the base?
+@24.3
+Call off moving the base?
+@25
+.........{01}C{AD}{01}, what did you say?\nDid I hear that right?
+@25.1
+.........{01}C1{00}, what did you say?\nDid I hear that right?
+@25.2
+.........{01}C1{00}, what did you say?\nDid I hear that right?
+@25.3
+.........{01}C1{00}, what did you say?\nDid I hear that right?
+@26
+No, you heard right.\nI'm going independent here!
+@26.1
+No, you heard right.\nI'm going independent here!
+@26.2
+Heh, of course you heard right.\nI'm going independent here!
+@27
+{01}C{AD}{01}!\nWhat are you saying!\nThere are limits to jokes!
+@27.1
+{01}C1{00}!\nWhat are you saying!\nThere are limits to jokes!
+@27.2
+{01}C1{00}!\nWhat are you saying!\nThere are limits to jokes!
+@27.3
+{01}C1{00}!\nWhat are you saying!\nThere are limits to jokes!
+@28
+Would I joke about\nsomething this serious...
+@28.1
+I'd hardly joke about\nsomething this serious.
+@28.2
+Would I joke about\nsomething this serious...
+@29
+.........{01}C{AD}{01}, what did you say?\nIn the world of ninja, betrayal isn't forgiven!
+@29.1
+.........{01}C1{00}, what did you say?\nIn the world of ninja, betrayal isn't forgiven!
+@29.2
+.........{01}C1{00}, what did you say?\nIn the world of ninja, betrayal isn't forgiven!
+@29.3
+.........{01}C1{00}, what did you say?\nIn the world of ninja, betrayal isn't forgiven!
+@30
+I know...\nI've decided, ready for everything.
+@30.1
+I know...\nI've decided, ready for everything.
+@30.2
+I know...\nI've decided, ready for everything.
+@31
+.........{01}C{AD}{01}, what did you say?\nYou'd betray the chief and go independent?
+@31.1
+.........{01}C1{00}, what did you say?\nYou'd betray the chief and go independent?
+@31.2
+.........{01}C1{00}, what did you say?\nYou'd betray the chief and go independent?
+@31.3
+.........{01}C1{00}, what did you say?\nYou'd betray the chief and go independent?
+@32
+Just so...\nI've decided, ready for everything.
+@32.1
+Just so...\nI've decided, ready for everything.
+@32.2
+Just so...\nI've decided, ready for everything.
+@33
+......Th-then, surely not!\nYou truly mean to rebel?
+@33.1
+......Th-then, surely not!\nYou truly mean to rebel?
+@33.2
+......Th-then, surely not!\nYou truly mean to rebel?
+@33.3
+......Th-then, surely not!\nYou truly mean to rebel?
+@34
+No... I was just\nteasing you...
+@34.1
+Hahaha, I'm sorry.\nI was just teasing you...
+@34.2
+Haha, sorry.\nI was just teasing.
+@35
+...That's no joke!\nYou never know who's listening.\nPlease watch your words.
+@35.1
+...That's no joke!\nYou never know who's listening.\nPlease watch your words.
+@35.2
+...That's no joke!\nYou never know who's listening.\nPlease watch your words.
+@35.3
+...That's no joke!\nYou never know who's listening.\nPlease watch your words.
+@36
+Yes, I mean it!\nI'll raise my banner here\nand take the realm!
+@36.1
+Yes, I mean it!\nI'll go independent here\nand become a ninja boss myself!
+@36.2
+Yes, I mean it!\nI'll go independent here\nand become a pirate chief myself!
+@36.3
+I mean it!\nI'll raise my banner here\nand take the realm!
+@36.4
+I mean it!\nI'll go independent here\nand lead a ninja band myself!
+@36.5
+I mean it!\nI'll go independent here\nand lead a pirate band myself!
+@36.6
+Yes, I mean it!\nI'll raise my banner here\nand bid for the realm!
+@36.7
+Yes, I mean it!\nI'll go independent here\nand lead a ninja band!
+@36.8
+Yes, I mean it!\nI'll go independent here\nand lead a pirate band!
+@37
+{01}C{AD}{01}!!
+@37.1
+{01}C1{00}!!
+@37.2
+{01}C1{00}!!
+@37.3
+{01}C1{00}!!
+@38
+I won't drag you into this.\nWhether you abandon me or come with me\nis up to you.
+@38.1
+I won't drag you into this.\nAbandon me or come with me;\nit's up to you.
+@38.2
+I won't drag you into this.\nWhether you abandon me or come with me\nis up to you.
+@39
+{01}C{AD}{01}... b-but...
+@39.1
+{01}C1{00}... b-but...
+@39.2
+{01}C1{00}... your mind is made up!
+@39.3
+{01}C1{00}...\nb-but...
+@40
+My resolve won't change.\nThis is the age of the low toppling the high...\nI'll open my own road!
+@40.1
+I have not the slightest regret.\nThis is the age of the low toppling the high...\nI'll open my own road myself!
+@40.2
+I have not the slightest regret.\nThis is the age of the low toppling the high...\nWhat else but to open my own road!
+@41
+.........Yes, sir!
+@41.1
+Such resolve... understood.\nI'll say no more...\nShow me how you live.
+@41.2
+Such resolve... very well.\nI'll say no more...\nI'll watch how you live.
+@41.3
+Such resolve... understood.\nI'll say no more...\nShow me how you live.
+@42
+From this moment on, I\nproclaim myself a daimyo to the realm.\nA new age begins now!
+@42.1
+From this moment on,\nI break with {02}{0B}{EC}\nand become a ninja boss!\n
+@42.2
+Now, a new voyage begins!\nI break with {02}{0B}{EC}\nand found a new pirate band!
+@42.3
+From today I\nproclaim myself a daimyo to the realm!\nA new age begins now!
+@42.4
+From this day, this hour,\nI break with {02}{0B}{EC}\nand become a ninja boss!
+@42.5
+Now, a new voyage!\nFrom today, as chief of a new pirate band,\nI set out onto the great sea!
+@43
+All subordinates have declared\nthey'll keep following\n{02}{01}g.
+@44
+The following subordinates\nreturned to {02}{01}{EC}.
+@45
+Whom will you give orders to?
+@45.1
+Whom will you give orders to?
+@45.2
+Whom will you give orders to?
+@45.3
+Whom will you give orders to?
+@46
+{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+@46.1
+{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+@46.2
+{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+@46.3
+{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+@47
+{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+@47.1
+{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+@47.2
+{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+@47.3
+{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+@48
+What orders will you give\n{01}C>{00}?
+@48.1
+What orders will you give\n{01}C>{00}?
+@48.2
+What orders will you give\n{01}C>{00}?
+@48.3
+What orders will you give\n{01}C>{00}?
+@49
+Then no new orders\nwill be sent to {01}C>{00}.
+@49.1
+Then no new orders\nwill be sent to {01}C>{00}.
+@49.2
+Then no new orders\nwill be sent to {01}C>{00}.
+@49.3
+Then no new orders\nwill be sent to {01}C>{00}.
+@50
+Then I'll send {01}C>{00}\norders to attack {02}yd.
+@50.1
+Then I'll send {01}C>{00}\norders to attack {02}yd.
+@50.2
+Then I'll send {01}C>{00}\norders to attack {02}yd.
+@50.3
+Then I'll send {01}C>{00}\norders to attack {02}yd.
+@51
+Then I'll send {01}C>{00}\nwritten orders to {02}yd.
+@51.1
+Then I'll send {01}C>{00}\nwritten orders to {02}yd.
+@51.2
+Then I'll send {01}C>{00}\nwritten orders to {02}yd.
+@51.3
+Then I'll send {01}C>{00}\nwritten orders to {02}yd.
+@52
+Then I'll send {01}C>{00}\norders to {02}yd.
+@52.1
+Then I'll send {01}C>{00}\norders to {02}yd.
+@52.2
+Then I'll send {01}C>{00}\norders to {02}yd.
+@52.3
+Then I'll send {01}C>{00}\norders to {02}yd.
+@53
+Then I'll tell {01}C>{00}\nto call off the attack.
+@53.1
+Then I'll tell {01}C>{00}\nto call off the attack.
+@53.2
+Then I'll tell {01}C>{00}\nto call off the attack.
+@53.3
+Then I'll tell {01}C>{00}\nto call off the attack.
+@54
+I believe I gave you\na mission to attack {02}yd...\nI can't allow a change.
+@54.1
+I believe I ordered you\nto attack {02}yd...\nI can't allow a change.
+@54.2
+I believe I entrusted you\nwith attacking {02}yd...\nI can't allow a change.
+@55
+I've entrusted you now\nwith attacking {02}yd...\nWhat work do you want instead?
+@55.1
+I've entrusted you now\nwith attacking {02}yd...\nWhat work do you want instead?
+@55.2
+I've entrusted you now\nwith attacking {02}yd...\nWhat work would you like instead?
+@56
+What task do you mean\nto offer to do?
+@56.1
+What task do you mean\nto offer to do?
+@56.2
+What task would you\noffer to do?
+@57
+Then please work hard\nat your present task.
+@57.1
+Hm... then work hard\nat your present task.
+@57.2
+Then please work hard\nat your present task.
+@58
+I see... understood.
+@58.1
+Hm... I see.
+@58.2
+Is that so.
+@59
+There's no {02}yd\nwe can attack right now.
+@59.1
+There's no {02}yd\nwe can attack right now.
+@59.2
+There's no {02}yd\nwe can attack right now.
+@60
+No... it's your offer,\nbut I can't accept it.\nPut your effort into your present task.\nThat's all.
+@60.1
+No... it's your offer,\nbut I can't accept it.\nPut your effort into your present task.\nYou may go.
+@60.2
+No... it's your offer,\nbut I can't accept it.\nPlease put your effort into your present task.\nThat's all.
+@61
+Very well... then I give {01}C1{00}\na fresh mission to attack {02}yd.\nWork hard at it.\nThat's all.
+@61.1
+Very well... then I give {01}C1{00}\na fresh mission to attack {02}yd.\nYou offered, so work hard at it.\nYou may go.
+@61.2
+Understood... then I entrust {01}C1{00}\nwith attacking {02}yd.\n\nThat's all.
+@62
+{01}C8{00} has ordered us\nto attack {02}{15}e.
+@62.1
+{01}C8{00} has ordered us\nto attack {02}{15}e.
+@62.2
+{01}C8{00} has ordered us\nto attack {02}{15}e.
+@62.3
+{01}C8{00} has ordered us\nto attack {02}{15}e.
+@63
+{01}C8{00} has ordered us\nto attack {02}{1F}e.
+@63.1
+{01}C8{00} has ordered us\nto attack {02}{1F}e.
+@63.2
+{01}C8{00} has ordered us\nto attack {02}{1F}e.
+@63.3
+{01}C8{00} has ordered us\nto attack {02}{1F}e.
+@64
+{01}C8{00} has ordered us\nto attack {02}{0B}e.
+@64.1
+{01}C8{00} has ordered us\nto attack {02}{0B}e.
+@64.2
+{01}C8{00} has ordered us\nto attack {02}{0B}e.
+@64.3
+{01}C8{00} has ordered us\nto attack {02}{0B}e.
+@65
+Some of your subordinates are ill.\nPlease bear it in mind when giving orders.
+@65.1
+Some of your subordinates are ill.\nPlease bear it in mind when giving orders.
+@65.2
+Some of your subordinates are ill.\nPlease bear it in mind when giving orders.
+@65.3
+Some of your subordinates are ill.\nPlease bear it in mind when giving orders.
+@66
+What will you give priority to?
+@66.1
+What will you give priority to?
+@66.2
+What will you give priority to?
+@66.3
+What will you give priority to?
+@67
+You'll give priority to {02}yd.\nThen please choose the missions.
+@67.1
+You'll give priority to {02}yd.\nThen please choose the missions.
+@67.2
+You'll give priority to {02}yd.\nThen please choose the missions.
+@67.3
+You'll give priority to {02}yd.\nThen please choose the missions.
+@68
+Reassign every subordinate's mission?
+@68.1
+Reassign every subordinate's mission?
+@68.2
+Reassign every subordinate's mission?
+@68.3
+Reassign every subordinate's mission?
+@69
+Is that all?
+@69.1
+Is that all?
+@69.2
+Is that all?
+@69.3
+Is that all?
+@70
+Stop giving missions?
+@70.1
+Stop giving missions?
+@70.2
+Stop giving missions?
+@70.3
+Stop giving missions?
+@71
+You'll march out.\nThen please give us a target.
+@71.1
+Battle, is it?\nWho is the enemy?\nPlease give us a target!
+@71.2
+Oh! Battle, is it!\nSo, the enemy? Give us a target!
+@71.3
+Battle, is it?\nSo, the enemy? Please give us a target!
+@72
+We're short of provisions,\nso we can't march out.
+@72.1
+We're short of provisions,\nso we can't march out.
+@72.2
+This {01}C{94}{01} is short\nof provisions, so\nwe can't march out.
+@72.3
+This {01}C{94}{01} is short\nof provisions, so\nwe can't march out.
+@73
+We're short of troops,\nso we can't march out.
+@73.1
+We're short of troops,\nso we can't march out.
+@73.2
+This {01}C{94}{01} is short\nof troops, so\nwe can't march out.
+@73.3
+This {01}C{94}{01} is short\nof troops, so\nwe can't march out.
+@74
+You'll march out?\nProvisions are low.\nIs that all right?
+@74.1
+You'll march out?\nProvisions are running short.\nIs that all right?
+@74.2
+Battle, eh?\nThis {01}C{94}{01} is low on provisions.\nWill you march out anyway?
+@74.3
+Battle, then.\nThis {01}C{94}{01} is low on provisions.\nWill you still march out?
+@75
+There's no base we can fight.
+@75.1
+There's no base we can fight.
+@75.2
+There's no base we can fight.
+@75.3
+There's no base we can fight.
+@76
+Call off the battle?
+@76.1
+Call off the battle?
+@76.2
+Call off the battle?
+@76.3
+Call off the battle?
+@77
+{02}{15}e is in battle,\nso the command can't be used.
+@78
+An army is marching\non {02}{15}e,\nso the command can't be used.
+@79
+The {02}yd of {02}{15}e\ncan't go any higher.
+@80
+The {02}yd of {02}{15}e\ncan't go any lower.
+@81
+What will you do?
+@81.1
+What will you do?
+@81.2
+What will you do?
+@81.3
+What will you do?
+@82
+There are no personnel orders available.
+@82.1
+There are no personnel orders available.
+@82.2
+There are no personnel orders available.
+@82.3
+There are no personnel orders available.
+@83
+No one has earned enough merit\nfor promotion.
+@83.1
+No one has earned enough merit\nfor promotion.
+@83.2
+No one has earned enough merit\nfor promotion.
+@83.3
+No one has earned enough merit\nfor promotion.
+@84
+These are the ones who can be promoted.\nWhom shall we promote?
+@84.1
+These are the ones who can be promoted.\nWhom shall we promote?
+@84.2
+These are the ones who can be promoted.\nWhom shall we promote?
+@84.3
+These are the ones who can be promoted.\nWhom shall we promote?
+@85
+Promote {01}C8{00}?
+@85.1
+You'll promote me?
+@85.2
+You'll promote me?
+@85.3
+You'll promote me?
+@85.4
+Promote {01}C8{00}?
+@85.5
+Promote {01}C8{00}?
+@85.6
+Promote {01}C8{00}?
+@86
+Certainly.\nThen I'll promote {01}C8{00}.
+@86.1
+Thank you so much.\nI'll serve you even more faithfully.
+@86.2
+Oh, I'm grateful.
+@86.3
+I'm most grateful.\nI'll serve even more faithfully.
+@86.4
+Understood.\nThen I'll promote {01}C8{00}.
+@86.5
+Right.\nThen I'll promote {01}C8{00}.
+@86.6
+Certainly.\nThen I'll promote {01}C8{00}.
+@87
+No one will be promoted. Is that all right?
+@87.1
+No one will be promoted. Is that all right?
+@87.2
+No one will be promoted. Is that all right?
+@87.3
+No one will be promoted. Is that all right?
+@88
+Every {01}C{97}{01} already has\nenough {01}C{9A}{01}s.
+@88.1
+Every {01}C{97}{01} already has\nenough {01}C{9A}{01}s.
+@88.2
+Every {01}C{97}{01} already has\nenough {01}C{9A}{01}s.
+@88.3
+Every {01}C{97}{01} already has\nenough {01}C{9A}{01}s.
+@89
+Choose the {01}C{94}{01} to send them to.
+@89.1
+Choose the {01}C{94}{01} to send them to.
+@89.2
+Choose the {01}C{94}{01} to send them to.
+@89.3
+Choose the {01}C{94}{01} to send them to.
+@90
+{01}C8{00} now has\nenough {01}C{9A}{01}s.
+@90.1
+{01}C8{00} now has\nenough {01}C{9A}{01}s.
+@90.2
+{01}C8{00} now has\nenough {01}C{9A}{01}s.
+@90.3
+{01}C8{00} now has\nenough {01}C{9A}{01}s.
+@91
+Choose the {01}C{9D}{01} to send.
+@91.1
+Choose the {01}C{9D}{01} to send.
+@91.2
+Choose the {01}C{9D}{01} to send.
+@91.3
+Choose the {01}C{9D}{01} to send.
+@92
+Send {01}C8{00}\nto {02}{15}e?
+@92.1
+You'll send me\nto {02}{15}e?
+@92.2
+You'll send me\nto {02}{15}e?
+@92.3
+You'll send me\nto {02}{15}e?
+@92.4
+Send {01}C8{00}\nto {02}{15}e?
+@92.5
+Send {01}C8{00}\nto {02}{15}e?
+@92.6
+Send {01}C8{00}\nto {02}{15}e?
+@93
+If you send them, they'll be\nrelieved as strategist.\nIs that all right?
+@93.1
+If you send them, they'll be\nrelieved as strategist.\nIs that all right?
+@93.2
+If you send them, they'll be\nrelieved as strategist.\nIs that all right?
+@93.3
+If you send them, they'll be\nrelieved as strategist.\nIs that all right?
+@94
+Then I'll arrange it so.
+@94.1
+Then I'll arrange it so.
+@94.2
+Then I'll arrange it so.
+@94.3
+Then I'll arrange it so.
+@95
+Choose the {01}C{9D}{01} to recall.
+@95.1
+Choose the {01}C{9D}{01} to recall.
+@95.2
+Choose the {01}C{9D}{01} to recall.
+@95.3
+Choose the {01}C{9D}{01} to recall.
+@96
+Recall {01}C8{00}?
+@96.1
+Recall {01}C8{00}?
+@96.2
+Recall {01}C8{00}?
+@96.3
+Recall {01}C8{00}?
+@97
+Whom will you recommend for court office?
+@97.1
+Whom will you recommend for court office?
+@97.2
+Whom will you recommend for court office?
+@97.3
+Whom will you recommend for court office?
+@98
+Which office will you\nrecommend {01}C8{00} for?
+@98.1
+Me!?\nI'm so happy!\nWhich office will you recommend me for?
+@98.2
+Me!? I'm grateful!\nSo, which office will you recommend me for?
+@98.3
+Me!?\nWhat an honour!\nSo, which office will you recommend me for?
+@98.4
+Which office will you\nrecommend {01}C8{00} for?
+@98.5
+Which office will you\nrecommend {01}C8{00} for?
+@98.6
+Which office will you\nrecommend {01}C8{00} for?
+@99
+Recommend {01}C8{00}\nfor the office of {02}yd?
+@99.1
+You'll recommend me\nfor the office of {02}yd?
+@99.2
+You'll recommend me\nfor the office of {02}yd?
+@99.3
+You'll recommend me\nfor the office of {02}yd?
+@99.4
+Recommend {01}C8{00}\nfor the office of {02}yd?
+@99.5
+Recommend {01}C8{00}\nfor the office of {02}yd?
+@99.6
+Recommend {01}C8{00}\nfor the office of {02}yd?
+@100
+With respect, {01}C8{00}\nalready holds the office of {02}yd.\nThere's no need...
+@100.1
+I'm happy, but I already\nhold the office of {02}yd...\nso I'll decline this time.
+@100.2
+I'm grateful, but I already\nhold the office of {02}yd.\nI'll decline this time.
+@100.3
+I'm grateful, but I already\nhold the office of {02}yd...\nso I'll decline this time.
+@100.4
+With respect, {01}C8{00}\nalready holds the office of {02}yd.\nThere's no need, I believe...
+@100.5
+{01}C8{00} already\nholds the office of {02}yd.\nThere's no need.
+@100.6
+With respect, {01}C8{00}\nalready holds the office of {02}yd.\nThere's no need...
+@101
+{01}C8{00} will surely serve\nyou more faithfully than ever.
+@101.1
+I'm so happy!\nI swear ever greater loyalty!
+@101.2
+Oh, I'm grateful!\nThank you!
+@101.3
+I'm most grateful!\nI swear ever greater loyalty!
+@101.4
+{01}C8{00} will surely serve\nyou more faithfully than ever.
+@101.5
+{01}C8{00} will surely serve\nyou more faithfully than ever.
+@101.6
+{01}C8{00} will surely serve\nyou more faithfully than ever.
+@102
+{01}C1{00}, with respect,\nthere's no office I can recommend now.
+@102.1
+{01}C1{00}, with respect,\nthere's no office I can recommend now.
+@102.2
+{01}C1{00}, there's no office\nI can recommend you for now.
+@102.3
+{01}C1{00}, with respect,\nthere's no office I can recommend now.
+@103
+None of your subordinates\ncan be recommended for a new office.
+@103.1
+None of your subordinates\ncan be recommended for a new office.
+@103.2
+None of your subordinates\ncan be recommended for a new office.
+@103.3
+None of your subordinates\ncan be recommended for a new office.
+@104
+Choose the castle to entrust\nto a province lord.
+@104.1
+Choose the castle to entrust\nto a province lord.
+@104.2
+Choose the castle to entrust\nto a province lord.
+@104.3
+Choose the castle to entrust\nto a province lord.
+@105
+Make these changes?
+@105.1
+Make these changes?
+@105.2
+Make these changes?
+@105.3
+Make these changes?
+@107
+You haven't changed anything.\nStop?
+@107.1
+You haven't changed anything.\nStop?
+@107.2
+You haven't changed anything.\nStop?
+@107.3
+You haven't changed anything.\nStop?
+@108
+Stop changing province lords?
+@108.1
+Stop changing province lords?
+@108.2
+Stop changing province lords?
+@108.3
+Stop changing province lords?
+@109
+There's no one who can be appointed.
+@109.1
+There's no one who can be appointed.
+@109.2
+There's no one who can be appointed.
+@109.3
+There's no one who can be appointed.
+@110
+Choose the {01}C{94}{01} whose {01}C{97}{01} will change.\n(Choose your own name for direct rule.)
+@110.1
+Choose the {01}C{94}{01} whose {01}C{97}{01} will change.\n(Choose your own name for direct rule.)
+@110.2
+Choose the {01}C{94}{01} whose {01}C{97}{01} will change.\n(Choose your own name for direct rule.)
+@110.3
+Choose the {01}C{94}{01} whose {01}C{97}{01} will change.\n(Choose your own name for direct rule.)
+@114
+Cancel all changes\nof {01}C{97}{01}?
+@114.1
+Cancel all changes\nof {01}C{97}{01}?
+@114.2
+Cancel all changes\nof {01}C{97}{01}?
+@114.3
+Cancel all changes\nof {01}C{97}{01}?
+@115
+{02}{15}e is in battle now.\nThe {01}C{97}{01} can't be changed.
+@116
+{02}{01}g, who rules {02}{15}e,\nis out on campaign.\nThe {01}C{96}{01} can't be changed.
+@117
+There's no {01}C{9D}{01}\nwho can be sent as {01}C{9A}{01}.
+@118
+There's no other {01}C{9D}{01} in {02}{15}e\nwho can be appointed {01}C{97}{01}.
+@119
+{02}{15}e is now {01}C{A1}{01}.\nWho shall rule it?
+@119.1
+{02}{15}e is ruled\nby {02}{01}g.\nWho shall rule it?
+@120
+Put {02}{15}e under direct rule?
+@120.1
+Have {02}{01}g\nrule {02}{15}e?
+@121
+{02}{15}e is now {02}{01}g's home castle.\nAll the other castles {02}{01}g rules\nwill come under direct rule. Is that all right?
+@122
+{02}{01}g will be demoted to {01}C{13};.\nIs that all right?
+@123
+Chief Retainer
+@123.1
+Jonin
+@123.2
+Boatman
+@123.3
+Head Clerk
+@124
+Move {02}{01}g's {01}C{9E}{01}\nto {02}{15}e?
+@125
+Choose the {01}C{9C}{01} to be\n{02}{01}g's {01}C{99}{01}.
+@126
+Stop appointing a {01}C{96}{01}\nfor {02}{01}g?
+@127
+Make {02}{01}g\na {01}C{99}{01}?
+@128
+You seem to have arrived.\nThank you for coming.\nLet's begin the council.
+@128.1
+Ah, you've come.\nThank you for coming.\nLet's begin the council.
+@128.2
+Everyone seems to be here.\nThank you for coming.\nLet's begin the council.
+@129
+Thank you for your trouble.
+@129.1
+Thank you for your trouble.
+@130
+You seem to have arrived.\nThank you for coming.\nLet's begin the council.
+@130.1
+Ah, you've come.\nI called you here for nothing other\nthan to hold a council.
+@130.2
+Everyone seems to be here.\nI gathered you for nothing other\nthan to hold a council.
+@131
+You seem to have arrived.\nLet's begin the council.
+@131.1
+Ah, you seem to have come.\nTime is money.\nLet's begin the council.
+@131.2
+Everyone seems to be here.\nTime is money.\nLet's begin the council.
+@132
+You seem to have arrived.\nThank you for coming.\n\nBefore the council, some news:\nour lord has ordered\nthat I be made province lord.
+@132.1
+Ah, you've come.\nThank you for coming.\n\nBefore the council, some good news:\nour lord has ordered\nthat I be made province lord.
+@132.2
+Everyone seems to be here.\nThank you for coming.\n\nFirst, some good news for you all:\nour lord has ordered\nthat I be made province lord.
+@133
+Oh! Congratulations.
+@133.1
+Oh! Congratulations.\n{01}C1{00}, congratulations.
+@134
+Yes. From now on,\ncastles we take\nbecome our own castles.\n{01}C1{00}, I expect\neven more of you too.
+@134.1
+Right. From now on,\ncastles we take\nbecome our own castles.\n{01}C1{00}, I expect\neven more of you too.
+@134.2
+Right. From now on,\ncastles we take\nbecome our own castles.\nI expect even more of you all.\nWork harder than ever.
+@135
+Right!
+@135.1
+Yes, sir!
+@136
+First, let me look at how\nyour last mission went.
+@136.1
+First, let's see how\nyour last mission went.
+@136.2
+First, let's compare how\nthe last missions went.
+@138
+Last time, {01}C1{00} did the best work.\n{01}C1{00}, splendid.\nPlease accept this.
+@138.1
+Last time, {01}C1{00} did the best work.\n{01}C1{00}, splendid.\nTake this as a reward.
+@138.2
+Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.\nPlease accept this.
+@138.3
+Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.\nTake this as a reward.
+@138.4
+{01}C1{00}, you worked well last time.\nPlease accept this.
+@138.5
+{01}C1{00}, you seem to have worked well\nlast time. Take this as a reward.
+@139
+Last time, {01}C1{00} did the best work.\n{01}C1{00}, splendid.
+@139.1
+Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.
+@139.2
+Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.
+@140
+Right!
+@140.1
+Yes, sir!\nI'm most grateful!
+@141
+Last time, {01}C1{00} did the best work.\nThe rest of you, learn from it.
+@141.1
+Last time, {01}C1{00}'s work stood out.\nI'm counting on you from now on too.
+@141.2
+Hm, I see.\n{01}C1{00}, well done.
+@142
+...I, {02}{01}g, am mortified\nto fall behind {01}C1{00}...
+@142.1
+...I, {02}{01}g, am mortified,\nto fall behind {01}C1{00} of all people...
+@143
+Hmm, as expected of {01}C1{00}...
+@143.1
+Hmm, {01}C1{00} is the one\nI didn't want to lose to...\nI must work harder.
+@144
+Hmph, that's all {01}C1{00} can do.\nWhat could you possibly achieve?\nLearn a thing or two from me.
+@144.1
+Hmph, so that's all {01}C1{00} can do...\nNo, if I'm pleased to beat the likes\nof {01}C1{00}, I still have far to go.
+@145
+{01}C1{00},\nif you fall behind me,\nyou still have far to go.
+@146
+castle lord
+@146.1
+squad chief
+@146.2
+ship captain
+@146.3
+manager
+@147
+Now, this month I will appoint\na new {01}C*;:\n{01}C1{00}!
+@147.1
+Now, this month I will appoint\na new {01}C*;:\n{01}C1{00}! Step forward.
+@148
+Now, this month I will appoint\na new {01}C*;.\nIs {01}C1{00} here?
+@148.1
+Now, this month I will appoint\na new {01}C*;.\nIs {01}C1{00} here!
+@149
+Right!
+@149.1
+Yes, sir!
+@150
+Yes, here I am.\n
+@150.1
+Yes, sir, here!
+@152
+I entrust {02}{15}e to you.\nSet out at once and rule the castle!\nOrders will follow.
+@152.1
+I appoint you castle lord of {02}{15}e.\nSet out at once and rule the castle!\nOrders will follow.
+@153
+I entrust {02}{15}e to you.\nSet out at once and guard the village!\nOrders will follow.
+@153.1
+I appoint you {01}C*; of {02}{15}e.\nSet out at once and guard the village!\nOrders will follow.
+@154
+I entrust {02}{15}e to you.\nSet out at once and guard the fort!\nOrders will follow.
+@154.1
+I appoint you {01}C*; of {02}{15}e.\nSet out at once and guard the fort!\nOrders will follow.
+@155
+I appoint you {01}C*; of {02}{15}e.\nSet out at once and run the branch.\n\nAt the end of each year, at least\n5000 kan will be paid automatically\nfrom the branch's capital.\n\nCheck the shop's funds as the year end nears.\n\nIf you can't pay 5000 kan,\nyou'll have failed as manager\nand be demoted, so take care.
+@155.1
+I appoint you {01}C*; of {02}{15}e.\nSet out at once and run the branch.\n\nAt the end of each year, at least\n5000 kan will be paid automatically\nfrom the branch's capital.\n\nCheck the shop's funds as the year end nears.\n\nIf you can't pay even 5000 kan,\nI'm afraid you'll have failed as manager\nand be demoted. Mark that well.
+@156
+Oh!\nLeave it to me!
+@156.1
+Yes, sir!\nIt's more than I deserve!
+@157
+{01}C1{00}!\n
+@158
+Is {01}C1{00} here?
+@158.1
+Is {01}C1{00} here!\n
+@159
+What is it?\n
+@159.1
+Sir!
+@160
+Yes, here I am.\n
+@160.1
+You called?
+@161
+I appoint you {01}C{99}{01} to {01}C8{00}.\nSupport {01}C8{00} well.
+@161.1
+I appoint you {01}C{99}{01} to {01}C8{00}.\nSupport {01}C8{00} well!
+@162
+...Yes, sir!
+@162.1
+Leave it to me.
+@162.2
+Oh!\nLeave it to me!
+@162.3
+Yes, sir!\nLeave it to me!
+@163
+Then I'm counting on you.
+@163.1
+Then set out at once!
+@164
+Right!
+@164.1
+Yes, sir!
+@165
+{01}C1{00}, congratulations\non your promotion.
+@166
+Right, I'm counting on you from now on.\nGo ahead to {02}{15}e first;\nI'll follow later.
+@167
+Yes, sir!
+@168
+{01}C1{00}, as you become {01}C*;,\nplease choose one person as {01}C{99}{01}.
+@168.1
+As you become {01}C*;,\nI'll send you a {01}C{99}{01}.\nChoose one person.
+@169
+You want {01}C8{00}?
+@170
+Then please choose again.
+@170.1
+Then choose again.
+@171
+Understood.\nThen I'll send {01}C8{00}.\n{01}C1{00}, I'm counting on you.
+@171.1
+Very well.\nThen I'll send {01}C8{00} as {01}C{99}{01}.\n{01}C1{00}, I expect good work.
+@172
+Yes, sir!
+@173
+Also, {01}C1{00}, as a castle lord\nyou'll be too busy to teach martial arts,\nso you're relieved as instructor.
+@173.1
+Also, {01}C1{00}, as a castle lord\nyou'll be too busy to teach martial arts,\nso you're relieved as instructor.
+@174
+(Being made {01}C*; is an honour, but...\n shall I accept the order?)
+@174.1
+(Being made {01}C*; is an honour, but...\n shall I accept the order?)
+@175
+{01}C1{00}, I'm sorry,\nbut may I decline this time?
+@175.1
+{01}C1{00}, with the deepest respect,\nI humbly decline this order.
+@176
+Kind words, but I still have\nthings left to do as instructor.\nMay I decline this time...
+@176.1
+A kind order, but I still have\nmuch left to do as instructor.\nI'd like to decline this time...
+@177
+You refuse?
+@177.1
+...You refuse.
+@178
+Yes, send someone better suited\nto be {01}C*; than me.
+@178.1
+Yes, there must be someone\nbetter suited to be {01}C*;\nthan a novice like me...
+@179
+...Is that so.\nIf {01}C1{00} says so,\nit can't be helped.
+@179.1
+What did you say!?\nHmph, enough, withdraw!
+@181
+Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand rule the lands around it.
+@181.1
+Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand rule the lands around it!
+@182
+Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand guard the village!
+@182.1
+Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand guard the village!
+@183
+Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand guard the fort!
+@183.1
+Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand guard the fort!
+@184
+Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand run the branch.
+@184.1
+Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand run the branch.
+@185
+Right, I'm sorry,\nbut I'm not very keen.\nMay I decline this time?
+@185.1
+Th-this is...\nfar too great an honour for me...\nI humbly beg your pardon.
+@187
+Starting with {01}C1{00},\nI promote these people.\nKeep working for me.
+@187.1
+I recognise these people's work\nand promote each of them.\nKeep working for me.
+@188
+I promote {01}C1{00} to {02}yd.\nKeep working for me.
+@188.1
+I recognise {01}C1{00}'s work\nand promote you to {02}yd.\nKeep working for me.
+@189
+I'm grateful.\nI'll keep working for you.
+@189.1
+Yes, sir, I'm most grateful.\nI'll show you even greater work.
+@190
+Now, I would normally give missions, but\nword has come that the {02}{0B}e army\nis nearing our {02}{15}e.\nSo please go home\nand wait until the battle begins.\nThis council ends here.
+@190.1
+Now, I would normally give missions, but\nword has come that the {02}{0B}e army\nis nearing our {02}{15}e.\nSo go home\nand wait until the battle begins.\nThis council ends here.
+@190.2
+Now, I would normally give missions, but\nword has come that the {02}{0B}e army\nis nearing our {02}{15}e.\nSo all of you, go home\nand wait until the battle begins.\nThis council ends here.
+@191
+I have news for you.\nJust now {02}{15}e asked us for reinforcements.\n\nBut our {02}{16}e\nlacks sufficient forces,\nso we've decided not to send them.
+@191.1
+I have news for you.\nJust now {02}{15}e asked us for reinforcements.\n\nBut our {02}{16}e\nlacks sufficient forces,\nso we won't send them.
+@191.2
+I have news for you all.\nJust now {02}{15}e asked us for reinforcements.\n\nBut our {02}{16}e\nlacks sufficient forces,\nso we won't send them.
+@192
+Now...\n{02}{15}e is under attack,\nand I'd like to rush to its aid at once.
+@192.1
+Now...\n{02}{15}e is under attack,\nand I want to rush to its aid at once.
+@193
+(Now, what shall I do...)
+@193.1
+(Now, what shall I do...)
+@194
+I'm against sending aid.
+@194.1
+With respect,\nI'm against sending aid.
+@195
+And what is your reason?
+@195.1
+And what is your reason?
+@195.2
+And what is your reason?
+@196
+(What reason shall I give...)
+@196.1
+(What reason shall I give...)
+@197
+{02}{15}e can hold out well enough\nwithout our sending aid.
+@197.1
+{02}{15}e can hold out well enough\nwithout our sending aid.
+@198
+The enemy attacking {02}{15}e\nis far too strong.\nWe can't win.
+@198.1
+The enemy attacking {02}{15}e\nis far too strong.\nWe can't win.
+@199
+I did a divination,\nand it came out ill.\nWe should hold off from battle.
+@199.1
+I did a divination,\nand it came out ill.\nWe should hold off from battle, I think...
+@200
+Hm.\nYour view has a point.\nThen let's call off the aid.
+@200.1
+Hm.\nYour view has a point.\nRight, we call off the aid.
+@200.2
+Hm.\nYour view has a point.\nRight, we call off the aid.
+@201
+No, I hear the enemy\noutnumbers {02}{15}e.\nIt will be hard to hold out.
+@201.1
+No, I hear the enemy\noutnumbers {02}{15}e.\nIt will be hard to hold out.
+@201.2
+No, I hear the enemy\noutnumbers {02}{15}e.\nIt will be hard to hold out.
+@202
+No, if we join as reinforcements,\nwe should be more than a match.
+@202.1
+No, if we join as reinforcements,\nwe should be more than a match.
+@202.2
+No, if we join as reinforcements,\nwe should be more than a match.
+@203
+Hm.\nI'll trust your divination.\nWe call off the aid.
+@203.1
+Hm.\nI'll trust your divination.\nThe aid is off.
+@203.2
+Hm.\nI'll trust {01}C1{00}'s divination.\nThe aid is off.
+@204
+But my divination\ncame out good.\nThere's nothing to worry about.
+@204.1
+But my divination\ncame out good.\nThere's nothing to worry about.
+@204.2
+But my divination\ncame out good.\nThere's nothing to worry about.
+@205
+Now, about what comes next.\n{02}{0C}e, which rules our house,\nhas ordered us to take {01}Cf;.
+@206.*
+bug
+@207
+Now, about what comes next.\nAs you know,\nour house's final goal is {02}yd.
+@207.1
+Now, about what comes next.\nAs you know,\nour house's final goal is {02}yd.
+@208
+This month, to develop our lands,\nI want to carry out {02}yd.
+@209
+First we must shore up our defence.\nThis month I want to carry out {02}yd.
+@210
+To take {02}{15}e,\nthis month I want to carry out {02}yd.
+@211
+To take {02}{0B}e,\nthis month I want to carry out {02}yd.
+@212
+To take {02}{1F}e,\nthis month I want to carry out {02}yd.
+@213
+To take {02}zd,\nthis month I want to carry out {02}yd.
+@214
+To unify the realm,\nthis month I want to carry out {02}yd.
+@215
+We've prepared enough.\nAt last I want to attack {02}{15}e.
+@216
+We still need more preparation.\nI want to earn money and build up our forces.
+@217
+We still need more preparation.\nI want to earn money and work on schemes too.
+@218
+We still need more preparation.\nFirst of all, I think we must earn money.
+@219
+Do you have any views\non this policy?
+@219.1
+Do you have any views\non this policy?
+@219.2
+Does anyone have any views\non this policy?
+@220
+{01}C1{00}, I have a suggestion.
+@220.1
+{01}C1{00}, if I may be so bold,\nI have a suggestion.
+@221
+Oho, I'd like to hear it.
+@221.1
+Oho, then let's hear it.
+@221.2
+Oh, don't hold back.\nSay what you like.
+@222
+(Now, what shall I propose?)
+@222.1
+(Now, what shall I propose?)
+@223
+(Shall I propose "{02}yd"?)
+@224
+In my view,\nshouldn't our house make "{02}yd"\nits final goal from now on?
+@224.1
+{01}C1{00}, in my view,\nour house should make "{02}yd"\nits final goal from now on.
+@225.*
+{01}C1{00}!\nWhat do you take {01}C {00}'s judgment for?\nKnow your place!
+@226
+{01}C1{00},\nobjecting to {01}C {00}'s judgment\nis overstepping yourself.
+@227
+{01}C1{00}, with respect,\nI too think {01}C8{00}'s view\nis the right one.
+@228
+Hm... "{02}yd", is it...
+@229
+...I see, understood.\n{01}C1{00}'s view makes sense.\nFrom now on our house will aim for "{02}yd".
+@229.1
+...Right, understood.\n{01}C1{00}'s view makes sense.\nFrom next month our house aims for "{02}yd".
+@230
+Oh, you'll take my advice?\nI'm grateful.
+@230.1
+Oh, {01}C1{00}!\nI'm deeply honoured\nthat you'd take my advice!
+@231
+............
+@232
+As expected of {01}C8{00}!\nNow our house will prosper even more.
+@233
+By the next council I'll draw up\na new strategy aimed at "{02}yd".\nPlease wait until then.
+@233.1
+By the next council I'll draw up\na new strategy aimed at "{02}yd".\nWait until then.
+@234
+Right.
+@234.1
+Yes, sir!
+@235
+...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I think it's too soon.
+@235.1
+...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I think it's too soon.
+@236
+...Is that so.
+@237
+{01}C8{00}, that's the best course.\n{01}C1{00}, hold back too.
+@237.1
+{01}C8{00}, that's the best course.\n{01}C1{00}!\nDon't overstep yourself!
+@238
+{01}C8{00}, that's the best course.\n{01}C1{00}, please hold back.
+@239
+{01}C1{00}...
+@240
+(Now, if I propose "{02}yd",\n what should the target be?)
+@240.1
+(Now, if I propose "{02}yd",\n what should the target be?)
+@242
+{01}C1{00}, in my view,\nthis time we should carry out "{02}yd".
+@242.1
+{01}C1{00}, in my view,\nthis time it would be best\nto carry out "{02}yd".
+@243
+{01}C1{00}, in my view,\n"{02}yd" is fine, but the target\nshould be {02}{15}e.
+@243.1
+{01}C1{00}, in my view,\nI've no objection to "{02}yd", but\n{02}{15}e would be a better target.
+@247
+Hm... {02}{15}e instead, eh...
+@248
+...I see, understood.\n{01}C1{00}'s view makes sense.\nThis time we'll carry out "{02}yd".
+@248.1
+...Right, understood.\n{01}C1{00}'s view makes sense.\nThis time we carry out "{02}yd".
+@249
+...I see, understood.\n{01}C1{00}'s view makes sense.\nThe target will be {02}{15}e.
+@249.1
+...Right, understood.\n{01}C1{00}'s view makes sense.\nThe target will be {02}{15}e.
+@252
+As expected of {01}C8{00}.\nA splendid idea.
+@253
+...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I'll pass on it this time.
+@253.1
+...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I'll pass on it this time.
+@257
+We have a non-aggression pact\nwith {02}{0B}e.\nWe can't go to war.
+@257.1
+We have a non-aggression pact with {02}{0B}e.\nWe can't go to war.
+@258
+We seem to have no particular\nreason to attack {02}{0B}e.\nI'll pass on {01}C1{00}'s suggestion.
+@258.1
+For now we have no particular\nreason to attack {02}{0B}e...\nI'll pass on {01}C1{00}'s suggestion.
+@259
+Nothing?\nThen as I proposed,\nthis month we carry out {02}yd.
+@259.1
+Nothing?\nThen as I proposed,\nthis month we carry out {02}yd.
+@259.2
+Nothing?\nThen as I proposed,\nthis month we carry out {02}yd.
+@259.3
+Nothing, it seems.\nThen as I proposed,\nthis month we carry out {02}yd.
+@259.4
+Nothing, it seems.\nThen as I proposed,\nthis month we carry out {02}yd.
+@260
+At last we're to attack\n{02}{15}e.
+@260.1
+At last we're to attack\n{02}{15}e.
+@261
+Then let's move on to forming units.
+@262
+Right!\nAll of you, follow me!\nWe march out!
+@262.1
+Right!\nAll of you, follow me!\nWe march out!
+@263
+Then, {02}yd,\nfollow me! We march out!
+@263.1
+Then, {02}yd,\nfollow me! We march out!
+@264
+A pity I couldn't join the battle...\nI'll train and hone myself instead.
+@264.1
+A pity I couldn't join the battle...\nI'll train and hone myself instead.
+@265
+{01}C1{00}, please guard the home front.\nAwait good news.
+@265.1
+I leave the home front to you.\nAwait good news.
+@266
+Now, {02}{0C}e recently asked for {02}Qe.\nI ask {01}C1{00} to take this mission.
+@266.1
+Now, {02}{0C}e recently asked for {02}Qe.\nI entrust this mission to {01}C1{00}.
+@268
+This mission needs {02}td more people.\nChoose your companions.
+@268.1
+This mission needs {02}td more people.\nChoose your companions.
+@269
+I'd like to take {02}yd\nwith me.
+@269.1
+I'd like to take {02}yd\nwith me, if I may.
+@270
+Very well.
+@270.1
+Very well.
+@271
+Then, {01}C1{00}!
+@271.1
+Then, I give your mission.\n{01}C1{00}!
+@272
+Right.
+@272.1
+Sir!
+@274
+Leave it to me.
+@274.1
+Right, leave it to me.
+@274.2
+Yes, sir! Leave it to me!
+@275
+I'll give the others\ntheir missions too.
+@276
+Then, all of you,\nchoose the mission you'll do.
+@276.1
+Then choose the mission\nyou'll do.
+@276.2
+Then choose the mission you'll do.
+@277
+Here are {02}Qn kan.\nSpread bad rumours about {02}{10}e\nin {02}{15}e.
+@277.1
+Here are {02}Qn kan.\nSpread bad rumours about {02}{10}e\nin {02}{15}e.
+@278
+{01}C1{00}! {01}C{AF};
+@279
+Train hard and\nlearn new skills.
+@279.1
+Train hard and\nlearn new skills.
+@279.2
+Here are {02}Qn,000 koku.\nEarn at least {02}Qo kan.
+@279.3
+Here are {02}Qn,000 koku.\nEarn at least {02}Qo kan.
+@279.4
+Here are {02}Qn kan.\nTurn it into\nat least {02}Qo kan.
+@279.5
+Here are {02}Qn kan.\nTurn it into at least {02}Qo kan.
+@279.6
+Here are {02}Qn kan.\nImprove order in {02}{15}e.
+@279.7
+Here are {02}Qn kan.\nImprove order in {02}{15}e.
+@279.8
+Here are {02}Qn kan.\nRaise the yield of {02}{15}e\nby at least {02}Qo,000 koku.
+@279.9
+Here are {02}Qn kan.\nRaise the yield of {02}{15}e\nby at least {02}Qo,000 koku.
+@279.10
+Here are {02}Qn kan.\nDevelop the mines of {02}{15}e.
+@279.11
+Here are {02}Qn kan.\nDevelop the mines of {02}{15}e.
+@279.12
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.13
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.14
+Here are {02}Qn kan.\nBuy at least {02}Qo horses.
+@279.15
+Here are {02}Qn kan.\nBuy at least {02}Qo horses.
+@279.16
+Here are {02}Qn kan.\nBuy at least {02}Qo guns.
+@279.17
+Here are {02}Qn kan.\nBuy at least {02}Qo guns.
+@279.18
+Here are {02}Qn kan.\nBuy at least {02}Qo cannons.
+@279.19
+Here are {02}Qn kan.\nBuy at least {02}Qo cannons.
+@279.20
+Raise the training of {02}{15}e\nby at least {02}Qo.
+@279.21
+Raise the training of {02}{15}e\nby at least {02}Qo.
+@279.22
+Here are {02}Qn kan.\nAdd at least {02}Qo troops\nto {02}{15}e.
+@279.23
+Here are {02}Qn kan.\nAdd at least {02}Qo troops\nto {02}{15}e.
+@279.24
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.25
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.26
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.27
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.28
+Find at least\none ronin.
+@279.29
+Find at least\none ronin.
+@279.30
+Get detailed information\non {02}{15}e.
+@279.31
+Get detailed information\non {02}{15}e.
+@279.32
+Here are {02}Qn kan.\nLower the defense of {02}{15}e\nby at least {02}Qo.
+@279.33
+Here are {02}Qn kan.\nLower the defense of {02}{15}e\nby at least {02}Qo.
+@279.34
+Here are {02}Qn kan.\nBurn the goods of {02}{15}e.
+@279.35
+Here are {02}Qn kan.\nBurn the goods of {02}{15}e.
+@279.36
+Go to {02}{0B}e\nand form an alliance.
+@279.37
+Go to {02}{0B}e\nand form an alliance.
+@279.38
+Go to {02}{0B}e\nand end our alliance.
+@279.39
+Go to {02}{0B}e\nand end our alliance.
+@279.40
+Go to {02}{0B}e\nand make them our vassal.
+@279.41
+Go to {02}{0B}e\nand make them our vassal.
+@279.42
+Go to {02}{0B}e\nand offer to become their vassal.
+@279.43
+Go to {02}{0B}e\nand offer to become their vassal.
+@279.44
+Go to {02}{0B}e\nand declare war.
+@279.45
+Go to {02}{0B}e\nand declare war.
+@279.46
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand propose peace.
+@279.47
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand propose peace.
+@279.48
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with our house.
+@279.49
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with our house.
+@279.50
+Here are {02}Qn kan.\nGo to the court\nand improve its ties with our house.
+@279.51
+Here are {02}Qn kan.\nGo to the court\nand improve its ties with our house.
+@279.52
+Recruit the ronin {02}{03}g\nto our house.
+@279.53
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our house.
+@279.54
+Recruit the ronin {02}{03}g\nto our house.
+@279.55
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our house.
+@279.56
+Take {02}{15}e.
+@279.57
+Take {02}{15}e.
+@279.58
+Take {02}{1F}e.
+@279.59
+Take {02}{1F}e.
+@279.60
+Conquer {02}{0B}e.
+@279.61
+Conquer {02}{0B}e.
+@279.62
+Conquer {02}yd.
+@279.63
+Conquer {02}yd.
+@279.64
+Train hard and\nlearn new skills.
+@279.65
+Train hard and\nlearn new skills.
+@279.66
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.67
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.68
+Escort Lord {02}{03}g of {02}{03}{EC}\nsafely to {02}{15}e.
+@279.69
+Escort Lord {02}{03}g of {02}{03}{EC}\nsafely to {02}{15}e.
+@279.70
+Raise the reputation of {02}Ge\nin {02}{15}e.
+@279.71
+Raise the reputation of {02}Ge\nin {02}{15}e.
+@279.72
+Find {02}3g,\nsaid to be hidden somewhere.
+@279.73
+Find {02}3g,\nsaid to be hidden somewhere.
+@279.74
+Steal {02}3g\nfrom {02}{03}g of {02}{03}{81}.
+@279.75
+Steal {02}3g\nfrom {02}{03}g of {02}{03}{81}.
+@279.76
+Seize at least {02}Qo,000 koku\nof provisions.
+@279.77
+Seize at least {02}Qo,000 koku\nof provisions.
+@279.78
+Attack {02}{03}g\nof {02}{03}{EC}.
+@279.79
+Attack {02}{03}g\nof {02}{03}{EC}.
+@279.80
+Escort the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.81
+Escort the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.82
+Wipe out the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.83
+Wipe out the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.84
+Go to {02}{0B}e and get\na higher guard fee for the route\nbetween {02}{15}f and {02}{16}f.
+@279.85
+Go to {02}{0B}e and get\na higher guard fee for the route\nbetween {02}{15}f and {02}{16}f.
+@279.86
+Dispose of the rogue ninja\n{02}{03}g.
+@279.87
+Dispose of the rogue ninja\n{02}{03}g.
+@279.88
+Raise the training of {02}{15}e\nby at least {02}Qo.
+@279.89
+Raise the training of {02}{15}e\nby at least {02}Qo.
+@279.90
+Here are {02}Qn kan.\nAdd at least {02}Qo troops\nto {02}{15}e.
+@279.91
+Here are {02}Qn kan.\nAdd at least {02}Qo troops\nto {02}{15}e.
+@279.92
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.93
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.94
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.95
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.96
+Find at least\none ronin.
+@279.97
+Find at least\none ronin.
+@279.98
+{01}C1{00},\nget detailed information on {02}{15}e.
+@279.99
+{01}C1{00},\nget detailed information on {02}{15}e.
+@279.100
+Here are {02}Qn kan.\nLower the defense of {02}{15}e\nby at least {02}Qo.
+@279.101
+Here are {02}Qn kan.\nLower the defense of {02}{15}e\nby at least {02}Qo.
+@279.102
+Here are {02}Qn kan.\nWorsen order in {02}{15}e.
+@279.103
+Here are {02}Qn kan.\nWorsen order in {02}{15}e.
+@279.104
+Here are {02}Qn kan.\nBurn the goods of {02}{15}e.
+@279.105
+Here are {02}Qn kan.\nBurn the goods of {02}{15}e.
+@279.106
+Go to {02}{0B}e\nand form an alliance.
+@279.107
+Go to {02}{0B}e\nand form an alliance.
+@279.108
+Go to {02}{0B}e\nand end our alliance.
+@279.109
+Go to {02}{0B}e\nand end our alliance.
+@279.110
+Go to {02}{0B}e\nand offer to become their vassal.
+@279.111
+Go to {02}{0B}e\nand offer to become their vassal.
+@279.112
+Go to {02}{0B}e\nand declare war.
+@279.113
+Go to {02}{0B}e\nand declare war.
+@279.114
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand propose peace.
+@279.115
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand propose peace.
+@279.116
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with us.
+@279.117
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with us.
+@279.118
+Recruit the ronin {02}{03}g\nto our band.
+@279.119
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our band.
+@279.120
+Recruit the ronin {02}{03}g\nto our band.
+@279.121
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our band.
+@279.122
+Find out the strategy\nof {02}{0B}e.
+@279.123
+Find out the strategy\nof {02}{0B}e.
+@279.124
+Take {02}{15}e.
+@279.125
+Take {02}{15}e.
+@279.126
+Conquer {02}{0B}e.
+@279.127
+Conquer {02}{0B}e.
+@279.128
+Train hard and\nlearn new skills.
+@279.129
+Train hard and\nlearn new skills.
+@279.130
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.131
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.132
+Escort Lord {02}{03}g of {02}{03}{EC}\nsafely to {02}{15}e.
+@279.133
+Escort Lord {02}{03}g of {02}{03}{EC}\nsafely to {02}{15}e.
+@279.134
+Steal {02}3g from\n{02}{03}g of {02}{03}{EC}.
+@279.135
+Steal {02}3g from\n{02}{03}g of {02}{03}{EC}.
+@279.136
+Escort the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.137
+Escort the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.138
+Wipe out the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.139
+Wipe out the {02}{0B}e convoy\nbetween {02}{15}f and {02}{16}f.
+@279.140
+Seize at least {02}Qo sekibune\nfrom {02}{15}e.
+@279.141
+Seize at least {02}Qo sekibune\nfrom {02}{15}e.
+@279.142
+Block the trade route\nfrom {02}{15}f.
+@279.143
+Block the trade route\nfrom {02}{15}f.
+@279.144
+Put down the pirates\nof {02})e.
+@279.145
+Put down the pirates\nof {02})e.
+@279.146
+Raid the port town\nof {02}{15}e.
+@279.147
+Raid the port town\nof {02}{15}e.
+@279.148
+Go to {02}{0B}e and get\na higher guard fee for the route\nbetween {02}{15}f and {02}{16}f.
+@279.149
+Go to {02}{0B}e and get\na higher guard fee for the route\nbetween {02}{15}f and {02}{16}f.
+@279.150
+Guard the port town of {02}{15}e\nagainst pirate raids.
+@279.151
+Guard the port town of {02}{15}e\nagainst pirate raids.
+@279.152
+Raise the training of {02}{15}e\nby at least {02}Qo.
+@279.153
+Raise the training of {02}{15}e\nby at least {02}Qo.
+@279.154
+Here are {02}Qn kan.\nBuild at least {02}Qo\nsekibune.
+@279.155
+Here are {02}Qn kan.\nBuild at least {02}Qo\nsekibune.
+@279.156
+Here are {02}Qn kan.\nBuild at least {02}Qo\nlarge ships.
+@279.157
+Here are {02}Qn kan.\nBuild at least {02}Qo\nlarge ships.
+@279.158
+Here are {02}Qn kan.\nBuild at least {02}Qo\nironclads.
+@279.159
+Here are {02}Qn kan.\nBuild at least {02}Qo\nironclads.
+@279.160
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.161
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.162
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.163
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.164
+Find at least\none ronin.
+@279.165
+Find at least\none ronin.
+@279.166
+{01}C1{00},\nget detailed information on {02}{15}e.
+@279.167
+{01}C1{00},\nget detailed information on {02}{15}e.
+@279.168
+Here are {02}Qn kan.\nLower the defense of {02}{15}e\nby at least {02}Qo.
+@279.169
+Here are {02}Qn kan.\nLower the defense of {02}{15}e\nby at least {02}Qo.
+@279.170
+Here are {02}Qn kan.\nBurn the goods of {02}{15}e.
+@279.171
+Here are {02}Qn kan.\nBurn the goods of {02}{15}e.
+@279.172
+Go to {02}{0B}e\nand form an alliance.
+@279.173
+Go to {02}{0B}e\nand form an alliance.
+@279.174
+Go to {02}{0B}e\nand end our alliance.
+@279.175
+Go to {02}{0B}e\nand end our alliance.
+@279.176
+Go to {02}{0B}e\nand offer to become their vassal.
+@279.177
+Go to {02}{0B}e\nand offer to become their vassal.
+@279.178
+Go to {02}{0B}e\nand declare war.
+@279.179
+Go to {02}{0B}e\nand declare war.
+@279.180
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand propose peace.
+@279.181
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand propose peace.
+@279.182
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with us.
+@279.183
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with us.
+@279.184
+Recruit the ronin {02}{03}g\nto our band.
+@279.185
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our band.
+@279.186
+Recruit the ronin {02}{03}g\nto our band.
+@279.187
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our band.
+@279.188
+Take {02}{15}e.
+@279.189
+Take {02}{15}e.
+@279.190
+Conquer {02}{0B}e.
+@279.191
+Conquer {02}{0B}e.
+@279.192
+Train hard and\nlearn new skills.
+@279.193
+Train hard and\nlearn new skills.
+@279.194
+Here are {02}Qn,000 koku.\nEarn at least {02}Qo kan.
+@279.195
+Here are {02}Qn,000 koku.\nEarn at least {02}Qo kan.
+@279.196
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.197
+Here are {02}Qn kan.\nBuy at least {02}Qo,000 koku of rice.
+@279.198
+Here are {02}Qn kan.\nBuy at least {02}Qo horses.
+@279.199
+Here are {02}Qn kan.\nBuy at least {02}Qo horses.
+@279.200
+Here are {02}Qn kan.\nBuy at least {02}Qo guns.
+@279.201
+Here are {02}Qn kan.\nBuy at least {02}Qo guns.
+@279.202
+Here are {02}Qn guns.\nEarn at least {02}Qo kan.
+@279.203
+Here are {02}Qn guns.\nEarn at least {02}Qo kan.
+@279.204
+Here are {02}Qn kan.\nBuy at least {02}Qo cannons.
+@279.205
+Here are {02}Qn kan.\nBuy at least {02}Qo cannons.
+@279.206
+Here are {02}Qn kan.\nCorner at least {02}Qo,000 koku\nof provisions in {02}{15}e.
+@279.207
+Here are {02}Qn kan.\nCorner at least {02}Qo,000 koku\nof provisions in {02}{15}e.
+@279.208
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with us.
+@279.209
+Here are {02}Qn kan.\nGo to {02}{0B}e\nand improve their ties with us.
+@279.210
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.211
+Here are {02}Qn kan.\nRaise the defense of {02}{15}e\nby at least {02}Qo.
+@279.212
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.213
+Here are {02}Qn kan.\nRaise the size of {02}{15}e\nby at least {02}Qo.
+@279.214
+Here are {02}Qn kan.\nGrow it and invest at least\n{02}Qo kan in the {02}{15}e guild.
+@279.215
+Here are {02}Qn kan.\nGrow it and invest at least\n{02}Qo kan in the {02}{15}e guild.
+@279.216
+Here are {02}Qn kan.\nGive a present to our go-between,\n{02}{03}g, and improve our standing.
+@279.217
+Here are {02}Qn kan.\nGive a present to our go-between,\n{02}{03}g, and improve our standing.
+@279.218
+Go to {02}{0B}e\nand resign as their purveyor.
+@279.219
+Go to {02}{0B}e\nand resign as their purveyor.
+@279.220
+Here are {02}Qn kan.\nLend at least {02}Qo kan\nto some daimyo house.
+@279.221
+Here are {02}Qn kan.\nLend at least {02}Qo kan\nto some daimyo house.
+@279.222
+Collect at least {02}Qo kan\nfrom daimyo houses that owe us.
+@279.223
+Collect at least {02}Qo kan\nfrom daimyo houses that owe us.
+@279.224
+Check market prices of\nthe specialty of {02}ee.
+@279.225
+Check market prices of\nthe specialty of {02}ee.
+@279.226
+Deliver 10 {02}Ge\nto {02}{15}e.
+@279.227
+Deliver 10 {02}Ge\nto {02}{15}e.
+@279.228
+Find at least\none ronin.
+@279.229
+Find at least\none ronin.
+@279.230
+Recruit the ronin {02}{03}g\nto our house.
+@279.231
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our house.
+@279.232
+Recruit the ronin {02}{03}g\nto our house.
+@279.233
+Get {02}{03}g\nof {02}{03}{EC}\nto defect to our house.
+@279.234
+Here are {02}Qn kan.\nAt the {02}{15}e branch, achieve\nat least {02}Qo months of advertising.
+@279.235
+Here are {02}Qn kan.\nAt the {02}{15}e branch, achieve\nat least {02}Qo months of advertising.
+@279.236
+Here is {02}3g.\nSell it to passers-by and\nearn at least {02}Qo kan.
+@279.237
+Here is {02}3g.\nSell it to passers-by and\nearn at least {02}Qo kan.
+@279.238
+Here are {02}Qn kan.\nBuy at least {02}Qo\nof {02}Ge.
+@279.239
+Here are {02}Qn kan.\nBuy at least {02}Qo\nof {02}Ge.
+@279.240
+Here are {02}Qn kan.\nBuy {02}3g.
+@279.241
+Here are {02}Qn kan.\nBuy {02}3g.
+@279.242
+Sell {02}3g\nto {02}{03}g\nfor {01}C{B0}; or more.
+@279.243
+Sell {02}3g\nto {02}{03}g\nfor {01}C{B0}; or more.
+@279.244
+If you see this line, it's a bug.
+@281
+This mission can't be entrusted\nto a notorious villain like you.\nPlease choose another.
+@281.1
+This mission can't be entrusted\nto a notorious villain like you.\nChoose another.
+@281.2
+This mission can't be entrusted\nto a villain like you.\nPlease choose another.
+@281.3
+This mission can't be entrusted\nto a villain like you.\nChoose another.
+@282
+This mission is just right\nfor a notorious villain like you.
+@282.1
+This mission suits\na notorious villain like you.
+@282.2
+This mission is just right\nfor a villain like you.
+@282.3
+This mission suits\na wicked one like you.
+@284
+{01}C1{00}! {01}C{AF};
+@285
+Leave it to me.
+@285.1
+Right, leave it to me.
+@285.2
+Understood!
+@285.3
+Sir!
+@285.4
+As you wish!
+@285.5
+Yes, sir!
+@285.6
+Understood!
+@285.7
+Leave it to me!
+@285.8
+At your command!
+@286
+Please do.
+@286.1
+Good.
+@286.2
+It seems everyone has their mission.
+@287
+Then this council\nis now over.
+@287.1
+Then this council\nis now over.
+@287.2
+Then this council\nis now over.
+@288
+Then that concludes\nthis round of orders.
+@288.1
+That's all the orders.
+@289
+{01}C1{00}!\nI won't lose to you of all people!
+@289.1
+The same mission? What a coincidence.\nWell, I know what your work amounts to.\nLeave it to me and go to sleep.
+@289.2
+I doubt {01}C1{00} can\naccomplish that mission...\nNo matter, I won't lose to you!
+@290
+{01}C1{00}!\nI won't lose to you of all people!
+@290.1
+The same mission? What a coincidence.\nThen I'll show you work\nbetter than yours.
+@290.2
+That mission seems beyond\n{01}C1{00}'s ability to me...\nNo, I spoke out of turn.
+@291
+I've asked {02}{0E}e, who rules {02}yd,\nto make us merchant chief.\n
+@292
+{02}{0E}e has other purveyors\nbesides us, so it can't be decided easily.
+@292.1
+But without outstanding fame,\nservice and renown,\nwe can't become merchant chief.
+@293
+So {02}{0E}e gave us a month;\nthe house that develops its town in {02}yd most\nin that time will be made merchant chief.
+@293.1
+So {02}{0E}e told us:\n"Develop a town in {02}yd splendidly\n and you'll be made merchant chief."
+@294
+{02}{0C}e was ordered to develop\n{02}{16}e.\n\nWe, {02}{0B}e, were ordered\nto develop {02}{15}e.
+@294.1
+{02}{0C}e was ordered to develop {02}{16}e,\n{02}{0D}e to develop {02}{17}e,\nand so on.\nAnd we, {02}{0B}e,\nwere ordered to develop {02}{15}e.
+@294.2
+The town we were ordered to develop is {02}{15}e.
+@295
+So for one month from now\nwe'll work to develop {02}{15}e.
+@296
+{02}{04}g,\n{02}{03}g,\n{02}{02}g!
+@297
+You three will help me develop the town.\nNow, off to {02}{15}e.
+@298
+Oh, we're aiming for the merchant chief seat?\nAnd which trade area's merchant chief?
+@299
+With respect... we have no branch\nin that trade area at present,\nso we can't become its merchant chief.
+@300
+I'm afraid...\nno daimyo rules that trade area now,\nso there's no merchant chief post.
+@301
+I'm afraid our house isn't\na purveyor to {02}{0E}e, who rules {02}yd.\nSo we can't apply\nto be merchant chief.
+@302
+I'm afraid our house's service hasn't\nbeen recognised among the purveyors\nof {02}{0E}e, who rules {02}yd.\nSo we can't apply to be merchant chief.
+@303
+I'm afraid the lord of {02}{0E}e,\nwho rules {02}yd,\nis away at present.\nSo we can't apply to be merchant chief.
+@304
+I'm afraid the castle of {02}{0E}e,\nwho rules {02}yd,\nis under enemy attack at present.\nHardly the time to talk of merchant chiefs.
+@305
+I'm afraid the castle of {02}{0E}e,\nwho rules {02}yd,\nis preparing for battle, I hear...\nHardly the time to talk of merchant chiefs.
+@306
+We're already the merchant chief\nof {02}yd...?\nPlease choose another.
+@307
+Certainly.\nI'll go at once to {02}{0E}e, who rules {02}yd,\nand ask about the merchant chief post.
+@308
+I'm back.\nI bring a message\nfrom the lord of {02}{0E}e.
+@309
+"If you would take the merchant chief seat\n with our leave, you must have fame in {02}yd\n and service to our house..."
+@310
+"We have other purveyors too,\n so we can't change the merchant chief lightly..."\n\n"So we'll name a new merchant chief by\n how well they develop a town we choose."\nThat's what he said.
+@310.1
+"So we'll name a new merchant chief by\n how well they develop a town in {02}yd."\nThat's what he said.
+@311
+{02}{0C}e was ordered to develop {02}{16}e,\nand our house\nto develop {02}{15}e.
+@311.1
+{02}{0C}e was ordered to develop {02}{16}e,\n{02}{0D}e to develop {02}{17}e,\nand so on.\nAnd our house was ordered\nto develop {02}{15}e.
+@311.2
+The town we were ordered to develop\nis {02}{15}e.
+@312
+Choose 3 subordinates to take with you.
+@313
+Are these the right people?
+@314
+Then, shall we head for {02}{15}e?
+@315
+our lord
+@315.1
+our boss
+@315.2
+our chief
+@317
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto take {02}{15}e.
+@317.1
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto take {02}{15}e.
+@318
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto take {02}{1F}e.
+@318.1
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto take {02}{1F}e.
+@319
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto conquer {02}{0B}e.
+@319.1
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto conquer {02}{0B}e.
+@320
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto conquer the {02}[e region.
+@320.1
+Now, about what comes next.\n{01}C{D3}; has ordered us\nto conquer the {02}[e region.
+@321
+Now, about what comes next.\nWe have no particular mission\nfrom {01}C{D3}; at present.
+@321.1
+Now, about what comes next.\nWe have no particular mission\nfrom {01}C{D3}; at present.
+@322
+So this month I'm thinking of {02}yd.
+@322.1
+So this month I'm thinking of {02}yd.
+@323
+So this month I'm thinking\nwe finally attack {02}{15}e.
+@323.1
+So this month I'm thinking\nwe finally attack {02}{15}e.
+@324
+bug
+@325
+bug
+@327
+Oh, then what do you\nthink we should do?
+@327.1
+Oh, then what do you\nthink we should do?
+@328
+I recommend {02}yd.
+@328.1
+I would recommend {02}yd.
+@329
+I recommend that this month we\nfinally attack {02}{15}e.
+@329.1
+I would recommend that this month\nwe finally attack {02}{15}e.
+@330
+I see, that makes sense.\nThen this month's policy will be {02}yd.
+@330.1
+Very well.\nThen this month's policy will be {02}yd.
+@331
+Hmm... your view has a point, but\nthis month's policy\nwill be {02}yd.
+@331.1
+Hmm... your view has merit, but\nthis month's policy will be {02}yd.
+@332
+...You're {02}{02}g,\nretainer of {02}{02}{EC}?
+@332.1
+You're {02}{02}g,\nretainer of {02}{02}{EC}?
+@332.2
+...You're {02}{02}g,\nretainer of {02}{02}{EC}?
+@332.3
+You're {02}{02}g,\nretainer of {02}{02}{EC}?
+@333
+Oh, if it isn't {01}C1{00}!\n...What, why are you here?
+@333.1
+Hm, {01}C1{00}?\n...Why are you here?
+@333.2
+...You, how did you sneak in?
+@333.3
+Oh, isn't it {01}C1{00}?\n...Why are you here?
+@333.4
+Oh, {01}C1{00}...\nwhy are you here?
+@333.5
+...You, how did you sneak in?
+@334
+...This too is the way of the world.\nPrepare yourself!
+@334.1
+Sorry, but prepare yourself!
+@334.2
+No more words; prepare yourself!
+@334.3
+...This too is the way of the world.\nPrepare yourself!
+@334.4
+...Prepare yourself!
+@334.5
+No more words; prepare yourself!
+@335
+...I'll leave it at that for today.
+@335.1
+I'll leave it at that for today.
+@335.2
+Hahahaha!\nI'll leave it at that for today.
+@335.3
+...I'll leave it\nat that for today.
+@335.4
+I'll leave it\nat that for today.
+@335.5
+Hohohoho!\nI'll leave it\nat that for today.
+@336
+......\n...I won't forget today's humiliation till I die.
+@336.1
+Th-this humiliation, I won't forget it!
+@336.2
+Curse you, curse you!\nI won't forget this humiliation!!
+@336.3
+......\n...I won't forget today's humiliation till I die.
+@336.4
+Th-this humiliation, I won't forget it!
+@336.5
+Curse you, curse you!\nI won't forget this humiliation!!
+@337
+...{02}{02}f,\nat least let me lay you to rest by my hand.
+@337.1
+...At least let me lay you\nto rest by my hand.
+@337.2
+Intruder, prepare yourself!
+@337.3
+...{02}{02}f,\nat least let me lay you to rest by my hand.
+@337.4
+...At least let me lay you\nto rest by my hand.
+@337.5
+Intruder, prepare yourself!
+@338
+Ugh!
+@339
+(Blast, I'm short of cash.\n I can't lend enough like this.)
+@339.1
+(Oh no, I'm short of cash.\n I can't lend enough like this.)
+@340
+(I've already lent\n {02}{02}{EC} {02}o{C8}...\n Lending more might be risky.)
+@340.1
+(I haven't lent\n {02}{02}{EC} a single mon yet...)
+@340.2
+(I've already lent\n {02}{02}{EC} {02}o{C8}...)
+@340.3
+(I've already lent\n {02}{02}{EC} {02}o{C8}...\n Lending more might be risky.)
+@340.4
+(I haven't lent\n {02}{02}{EC} a single mon yet...)
+@340.5
+(I've already lent\n {02}{02}{EC} {02}o{C8}...)
+@341
+(I don't know {02}{02}{EC}'s finances yet.\n I can't tell how much I can lend...)
+@341.1
+(I don't know {02}{02}{EC}'s finances yet.\n I can't tell how much I can lend...)
+@342
+({02}{02}{EC} seems\n badly short of war funds.)\n\n(I'd like to aim\n for a big loan here...)
+@342.1
+({02}{02}{EC} seems\n short of war funds.)\n\n(I'd like to aim\n for a big loan here...)
+@342.2
+({02}{02}{EC}'s war funds\n don't seem plentiful.)\n\n(I'd like to aim\n for a big loan here...)
+@342.3
+({02}{02}{EC} seems to have\n war funds to spare.)\n\n(I'd like to land\n a big loan somehow...)
+@342.4
+({02}{02}{EC} seems\n badly short of war funds.)\n\n(I'd like to aim\n for a big loan here...)
+@342.5
+({02}{02}{EC} seems\n short of war funds.)\n\n(I'd like to aim\n for a big loan here...)
+@342.6
+({02}{02}{EC}'s war funds\n don't seem plentiful.)\n\n(I'd like to aim\n for a big loan here...)
+@342.7
+({02}{02}{EC} seems to have\n war funds to spare.)\n\n(I'd like to land\n a big loan somehow...)
+@343
+Today I've come to {01}C>{00}\nto discuss a loan.
+@344
+I'm afraid our house has no money worries.
+@345
+Ah, you've come at a good time.\nOur house aims to develop its lands\nand needs money for this and that.\nCould you lend us about {02}p{C8}?
+@345.1
+Our house aims to defend its lands\nand doesn't really need it now, but...\nLet's see, could you lend {02}p{C8}?
+@345.2
+Ah, you've come at a good time.\nOur house aims to take bases\nand needs money for this and that.\nCould you lend us about {02}p{C8}?
+@345.3
+Ah, you've come at a good time.\nOur house aims to conquer powers\nand needs money for this and that.\nCould you lend us about {02}p{C8}?
+@345.4
+Ah, you've come at a good time.\nOur house aims to unify the province\nand needs money for this and that.\nCould you lend us about {02}p{C8}?
+@345.5
+Our house aims to defend the province\nand doesn't really need it now, but...\nLet's see, could you lend {02}p{C8}?
+@345.6
+Ah, you've come at a good time.\nOur house aims to unify the region\nand needs money for this and that.\nCould you lend us about {02}p{C8}?
+@345.7
+Our house aims to defend the region\nand doesn't really need it now, but...\nLet's see, could you lend {02}p{C8}?
+@345.8
+Ah, you've come at just the right time.\nOur house aims to unify the realm\nand needs money for this and that.\nCould you lend us about {02}p{C8}?
+@346
+I'm afraid {01}C>{00} has already\nborrowed more than we can lend.
+@347
+Hmm, that can't be helped.
+@348
+(This is a business opportunity...\n I mustn't miss it!)
+@348.1
+(This is a business opportunity...\n I mustn't miss it!)
+@349
+Raise the loan amount?
+@350
+You win.\nThen lend me about {02}o{C8}.
+@350.1
+Good, lend me about {02}o{C8}.
+@351
+Then I'll lend you {02}o{C8}.\nPlease accept it.
+@352
+Right, received.
+@353
+Then if you need anything else,\nplease ask {02}{01}{EC}.\nThank you for today.
+@354
+{01}C>{00},\nit's time to repay the loan, please.
+@355
+...I say, {01}C>{00},\nhere's a proposal: would you knock\nthis loan down to about {02}p{C8}?
+@356
+(Hmm, what to do...?)
+@356.1
+(Hmm, what to do...?)
+@357
+No choice; I'll cover the shortfall.
+@358
+Business is business; I'll politely decline.
+@359
+...Understood.\nI'll manage the shortfall\nmyself somehow.
+@360
+Thank you, I'm in your debt.
+@361
+Friendship with {02}{02}g rose.
+@362
+(...Blast, I don't have enough money.)
+@362.1
+(...Oh no, I don't have enough money.)
+@363
+I'm very sorry,\nbut it's not a sum I could\nhandle on my own...
+@364
+Hmm, then it can't be helped.\nHere, the {02}o{C8} as promised.
+@365
+Received with thanks.\nI look forward to your custom.
+@366
+...You really won't come down?
+@367
+I won't!
+@368
+...I'll give way here.
+@369
+...It can't be helped.\nHere, the {02}o{C8} as promised.
+@370
+This is a token of my thanks.\nTake it without hesitation.
+@371
+Received {02}3g.
+@372
+Such a fine thing...\nThank you.
+@373
+Then I'll take my leave.
+@374
+Wait!
+@375
+......!
+@376
+A mere tradesman, know your place!
+@377
+There's no point staying\nin a place like this.
+@378
+Curse you, wait!
+@379
+You insolent wretch, give up!
+@380
+Ugh!
+@381
+Sorry, our house has no money to spare now.\nPlease wait a little longer for repayment.
+@382
+(It can't be helped; I'll come back later.)
+@383
+Ah, yes...\nHere you are,\nthe {02}o{C8} we borrowed.
+@384
+Received with thanks.\nI look forward to your custom.
+@385
+(Hm, I don't have {02}3g with me...\n No choice; I'll come back later.)
+@385.1
+(Oh, I don't have {02}3g with me...\n Oh well, I'll come back later.)
+@386
+(Hm, {02}3g is equipped.\n To sell it, I must unequip it.)
+@386.1
+(Oh, {02}3g is equipped.\n To sell it, I must unequip it.)
+@387
+Today I've brought a special item\nfrom our house.
+@388
+Oh, isn't that {02}3g?\nI can't resist arms.\nYou must let me have it!
+@388.1
+Oh, isn't that {02}3g?\nI can't resist works of art.\nYou must let me have it!
+@388.2
+Oh, isn't that {02}3g?\nI can't resist tea ware.\nYou must let me have it!
+@388.3
+Oh, isn't that {02}3g?\nI can't resist books.\nYou must let me have it!
+@388.4
+Oh, isn't that {02}3g?\nI can't resist Nanban goods.\nYou must let me have it!
+@388.5
+Oh, isn't that {02}3g?\nI can't resist treasures.\nYou must let me have it!
+@388.6
+Oh, isn't that {02}3g?\nI can't resist sake.\nYou must let me have it!
+@388.7
+Oh, isn't that {02}3g?\nI collect rare medicines.\nYou must let me have it!
+@388.8
+Oh, {02}3g, is it?\nQuite a gem... I like it.
+@389
+Thank you.\nNow, as to the price...
+@390
+Heh, how much?\nI won't nod so easily either.
+@391
+We'll deal at the price named by\nwhoever wins the "Haggle". Agreed?
+@392
+Of course.\nBusiness is business,\nso I won't lose either.
+@393
+First, my turn.
+@394
+Three blanks in a row.\nLet's do it again.
+@395
+Then let's begin.
+@396
+I win.\nThen the price of this {02}3g\nwill be {02}o{C8}. How's that?
+@397
+Hmm... a promise is a promise.\nThat price will do.\n\nIn return, keep bringing me gems.\nI'll send the money later by messenger.
+@398
+Of course.\nThank you very much\nfor your purchase today.
+@399
+Hahaha, I win.\nI'll take this {02}3g for {02}o{C8}.\nI'll send the money later by messenger.
+@400
+...A promise is a promise; it can't be helped.\nThank you\nfor your purchase.
+@401
+That was a good buy.\n{02}{02}{EC}, I count on you from now on.
+@402
+A draw...\n{02}{02}{EC}, what does this {02}3g\ngo for in town?
+@403
+Let me see...\nabout {02}o{C8}, I'd say.
+@404
+Then that price will do, won't it?\nIt's settled, {02}{02}{EC}.\nI'll send the money later by messenger.
+@405
+...Certainly.\nThank you\nfor your purchase.
+@406
+Entrust war funds?\nYou don't have any money.
+@407
+Oho, you'd entrust us with funds?\nAnd how much would we get?
+@408
+Today I've brought {02}o{C8} from our house.\nIt's just a small token,\nso please accept it.
+@409
+Oh, well, well! {01}C2<Give my best\nto your master!
+@409.1
+Oh, thank you. {01}C2<Give my regards\nto your master.
+@409.2
+Thank you. {01}C2<Give my regards\nto your master.
+@409.3
+...I see.\nWell, I'll take it.
+@410
+...I'll use this money\nto expand the fort at once.\n
+@410.1
+...I'll use this money\nto expand the village at once.\n
+@411
+...Our house has many expenses.\nKind of you, but another time.
+@412
+You'd sell us guns?\nOur house is busy preparing for war.\nLet us have {02}pd guns at {02}o{C8} each.
+@412.1
+You'd sell us guns?\nOur house is preparing for war.\nLet us have {02}pd guns at {02}o{C8} each.
+@412.2
+You'd sell us guns?\nWe have no plans for war now, but...\nLet us have {02}pd guns at {02}o{C8} each.
+@413
+Then I'll let you have {02}od guns.\nI look forward to your custom...
+@414
+You want to buy provisions from the main castle...\nHey, how's the rice in the main castle?
+@415
+We have about {02}od,000 koku stored.\nRice goes for {02}p{C8} per 1,000 koku.
+@416
+Up to {02}od,000 koku,\nI'll sell at {02}p{C8} per 1,000 koku.
+@417
+Hm, don't you have too little money?
+@418
+How many thousand koku will you buy?
+@419
+{02}od,000 koku comes to {02}p{C8}.\nIs that all right?
+@420
+Good, it's a deal.\nThe provisions will be sent where you say.

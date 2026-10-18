@@ -1,0 +1,1548 @@
+# msg03: martial arts instructors (heiho shinan-yaku), dojo, house policy advice.
+# Entries often come in register triples: plain / formal / polite.
+@1
+You already serve our house.\nI can't take you on again\nas instructor of martial arts.
+@2
+You already serve our house.\nWe cannot take you on again\nas instructor of martial arts.
+@3
+You already serve our house, don't you?\nI can't take you on again\nas instructor of martial arts.
+@5
+You are now a {02}{02}i.\nRather than serving {01}C{A7}{01},\nyou should work for the good of {02}{02}{EC}.
+@6
+You are now a {02}{02}i...\nRather than for {01}C{A7}{01},\nplease work for the good of {02}{02}{EC}.
+@7
+You are now a {02}{02}i.\nRather than serving {01}C{A7}{01},\nyou should work for the good of {02}{02}{EC}.
+@9
+Have you forgotten?\nYou left {01}C{A7}{01}.\nI can't simply take you back.
+@10
+Have you forgotten?\nYou left {01}C{A7}{01}.\nWe cannot simply take you back.
+@11
+Have you forgotten?\nYou left {01}C{A7}{01}.\nI can't simply take you back.
+@13
+Aren't you already the instructor\nof martial arts for {02}{0B}e?\nUntil you quit, {01}C{A7}{01} can't take you.
+@14
+You are already the instructor\nof martial arts for {02}{0B}e.\nUnless you quit, we cannot take you.
+@15
+You're already the instructor\nof martial arts for {02}{0B}e, aren't you?\nUnless you quit, {01}C{A7}{01} can't take you.
+@17
+Don't you have a mission\nto carry out right now?\nCome when you've finished it.
+@18
+Don't you have a mission\nto carry out right now?\nPlease come when you've finished it.
+@19
+You have a mission\nto carry out right now, don't you?\nPlease come when you've finished it.
+@21
+Since it's my own master asking,\nI have no reason to refuse.\nBut...
+@22
+Since it is my master asking,\nI have no reason to refuse.\nAnd yet...
+@23
+Since it's you asking, Master,\nI have no reason to refuse.\nBut...
+@25
+You don't even hold a license.\nI can't take on someone without real skill...
+@26
+You don't even hold a license.\nTaking on someone without real skill\nwould set a bad example... Please understand...
+@27
+You don't even hold a license.\nI can't take on someone without real skill...
+@29
+You are still unskilled, it seems.\nA martial arts instructor must excel at\nMartial Arts, Archery and Gunnery alike.
+@30
+A martial arts instructor must excel at\nMartial Arts, Archery and Gunnery alike...\nWith your skill, I cannot ask you...
+@31
+A martial arts instructor must excel at\nMartial Arts, Archery and Gunnery alike.\nWith your skill, it's a little...
+@33
+I can't take on someone with no knowledge of Tactics.\nOne who knows only Martial Arts\nis no true strategist...
+@34
+However skilled in Martial Arts, no one can\nserve as instructor without knowing Tactics.\n
+@35
+However skilled in Martial Arts, no one can\nserve as instructor without knowing Tactics.\n
+@37
+Your skill leaves nothing to be desired, but\nI must know you a little better\nbefore I can judge if you're suitable...
+@38
+Your skill leaves nothing to be desired, but...\nI must know you a little better\nbefore I can judge if you're suitable...
+@39
+Your skill leaves nothing to be desired, but...\nI must know you a little better\nbefore I can judge if you're suitable...
+@41
+Your skill is beyond reproach, but\nI can't take on someone of ill repute.\nSorry, but please leave.
+@42
+Your skill is beyond reproach, but\nyour reputation is poor...\nWe cannot take you as instructor.
+@43
+Your skill is beyond reproach, but\nI can't take on someone of ill repute.\nPlease, take your leave...
+@45
+You belong to {02}{02}{EC}.\nI can't make someone who serves\n{01}C{E8}{0B} our instructor.
+@46
+You now serve {02}{02}{EC}...\nWe cannot take as instructor\nsomeone who serves {01}C{E8}{0B}.
+@47
+You're with {02}{02}{EC}, aren't you?\nI can't make someone who serves\n{01}C{E8}{0B} our instructor.
+@48
+another house
+@48.1
+someone
+@50
+If you become a ronin or serve our house,\nI will take you on as instructor.
+@51
+If you would become a ronin,\nor serve our house,\nwe will take you on as instructor.
+@52
+If you become a ronin or serve our house,\nI will take you on as instructor.
+@54
+You could be instructor as a ronin...\nbut if you like, I'll take you\nas a direct vassal.
+@55
+You could be instructor as a ronin...\nbut if you are willing,\nwe would gladly take you as a direct vassal.
+@56
+You could be instructor as a ronin...\nbut if you like, I'd be glad\nto take you as a direct vassal.
+@58
+If you wish to serve our house,\nI can make you a direct vassal, but then\nyou will have to close your dojo.\nIf you want to keep running your dojo,\nyou can be instructor as a ronin.
+@59
+If you wish to serve our house,\nwe can take you as a direct vassal...\nHowever,\nin that case you would close your dojo\nbefore joining our house.\nIf you wish to keep running your dojo,\nwe can take you as instructor\nwhile you remain a ronin.
+@60
+If you wish to serve our house,\nI can make you a direct vassal, but then\nyou'll have to close your dojo.\nIf you want to keep running your dojo,\nyou can be instructor\nwhile you remain a ronin.
+@62
+But even as a direct vassal, an instructor\nmust always be at my side,\nso I can't make you a castle lord, whatever your deeds.\nIf you're instructor as a ronin,\ntrain our men from time to time.\nNeglect it and I may dismiss you.
+@63
+But even as a direct vassal, an instructor\nmust always be at my side,\nso we cannot make you a castle lord, whatever your deeds.\nIf you are instructor as a ronin,\nplease train our men from time to time.\nIf you neglect it, we must dismiss you.
+@64
+But even as a direct vassal, an instructor\nmust always be at my side,\nso I can't make you a castle lord, whatever your deeds.\nIf you're instructor as a ronin,\nplease train our men from time to time.\nNeglect it and I may dismiss you.
+@66
+Someone like you\ncould be taken on as {02}yd\ninstead of instructor.\nIf you would come to me\nas {02}yd,\nI'd take your followers too.
+@67
+Someone of your standing\ncould be taken on as {02}yd\ninstead of instructor.\nIf you would come to us\nas {02}yd,\nwe would take your followers too.
+@68
+Someone like you\ncould be taken on as {02}yd\ninstead of instructor.\nIf you would come to me\nas {02}yd,\nI'd take your followers too.
+@70
+Someone like you\ncould be taken on as {02}yd\ninstead of instructor.
+@71
+Someone like you\ncould be taken on as {02}yd\ninstead of instructor.
+@72
+Someone like you\ncould be taken on as {02}yd\ninstead of instructor.
+@74
+Well? Do you want to hear it again?
+@75
+What do you say?\nShall I tell you once more?
+@76
+What do you say?\nShall I tell you once more?
+@78
+Hm.\nSo, what will you do?
+@79
+Then what will you do?
+@80
+Then what will you do?
+@82
+That you would betray {02}{02}{EC}\nto instruct our house... I'm deeply grateful.\nI'm counting on you.
+@83
+That you would betray {02}{02}{EC}\nto instruct our house... we are deeply grateful.\nWe are counting on you.
+@84
+That you would betray {02}{02}{EC}\nto instruct us... I'm overwhelmed.\nI'm counting on you.
+@86
+Oh, to have my master\ninstruct us in person is reassuring.\nI'm counting on you.
+@87
+Oh, to have my master\ninstruct us in person is reassuring.\nI'm counting on you.
+@88
+Oh, to have my master\ninstruct us in person is reassuring.\nI'm counting on you.
+@90
+Oh, to have you,\n{01}C1{00}, instruct us is reassuring.\nI'm counting on you.
+@91
+Oh, to have you, {01}C1{00},\ninstruct us is most reassuring...\nWe are counting on you.
+@92
+To have you instruct us, {01}C1{00},\nis more than I could hope for...\nI'm counting on you.
+@93
+{02}{02}g has become\nthe martial arts instructor of {02}{0B}e.
+@94
+{02}{02}g has cut ties with {02}{0B}e\nand become the martial arts\ninstructor of {02}{0C}e.
+@96
+Then will you train our men about twice a month\nand instruct them in this castle?\n\nIf you neglect the work too much\nyou may lose the post,\nso be careful.
+@97
+Then would you train our men\nabout twice a month,\nand instruct them in this castle?\nIf you neglect the work too much\nyou may lose the post,\nso please be careful.
+@98
+Then will you train our men about twice a month\nand instruct them in this castle?\n\nIf you neglect the work too much\nyou may lose the post,\nso please be careful.
+@100
+Then train our men in martial arts from time to time.\nInstruct them at my castle.
+@101
+Then would you train our men\nin martial arts from time to time?\nPlease instruct them at my castle.
+@102
+Then train our men in martial arts from time to time.\nPlease instruct them at this castle.
+@103
+Really resign as martial arts instructor of {02}{0B}e?
+@105
+{01}C1{00}, today there's something I must tell you.
+@106
+My lord, today there is something I must tell you.
+@107
+Today there is something I must tell you.
+@109
+Ah, {01}C1{00}.\nWhat brings you, so formally?
+@110
+Ah, {01}C1{00}.\nWhat brings you, so formally?
+@111
+Oh, {01}C1{00}.\nWhat brings you, so formally?
+@113
+Ah, Master.\nWhat brings you, so formally?
+@114
+Ah, Master.\nWhat brings you, so formally?
+@115
+Oh, Master.\nWhat brings you, so formally?
+@117
+I, {02}{01}g,\nhereby resign as martial arts instructor\nof {02}{02}{EC}.
+@118
+I, {02}{01}g,\nwish to resign today as martial arts\ninstructor of {02}{02}{EC}.
+@119
+I, {02}{01}g,\nwish to resign today as martial arts\ninstructor of {02}{02}{EC}.
+@121
+I, {02}{01}g, hereby cut the bond of master\nand pupil with you, my lord, and resign as\nmartial arts instructor of {02}{02}{EC}.
+@122
+I, {02}{01}g, wish today to cut the bond of master\nand pupil with you, my lord, and resign as\nmartial arts instructor of {02}{02}{EC}.
+@123
+I, {02}{01}g, wish today to cut the bond of master\nand pupil with you, my lord, and resign as\nmartial arts instructor of {02}{02}{EC}.
+@125
+What are you saying?\nYou must be joking.
+@126
+What are you saying all of a sudden?\nSurely you jest.
+@127
+What are you saying all of a sudden...?\nYou're joking, right?
+@129
+Don't talk nonsense.\nI don't remember having such a pupil.
+@130
+Please, no jests.\nWhat good is teasing your master?
+@131
+Don't talk such nonsense.\nI don't remember having such a pupil.
+@133
+You... as martial arts instructor,\nthis is my last selfish request.\nPlease grant it...
+@134
+As martial arts instructor,\nthis is my last selfish request.\nPlease grant it...
+@135
+As martial arts instructor,\nthis is my last selfish request.\nPlease grant it...
+@137
+You...\nThis is your pupil's last selfish request.\nPlease grant it...
+@138
+This is your unworthy pupil's last request.\nPlease grant it...
+@139
+This is your unworthy pupil's last request.\nPlease grant it...
+@141
+{01}C1{00}...\nThis is your master's last selfish request.\nPlease grant it...
+@142
+This is your master's last selfish request.\nPlease grant it...
+@143
+This is your master's last selfish request.\nPlease grant it...
+@145
+......So to you,\n{02}{01}{EC} was too small a vessel...\n{01}CL{0C}
+@146
+......So to you,\n{02}{01}{EC} was too small a vessel...\n{01}CL{0C}
+@147
+......So to you,\n{02}{01}{EC} was too small a vessel...\n{01}CL{0C}
+@148
+Next time we meet, we will likely be rivals in trade...
+@148.1
+Next time we meet, we will surely be rivals in trade...
+@148.2
+Next time we meet, we will likely be enemies.
+@148.3
+Next time we meet, we will surely be enemies.
+@150
+You mean it...\nIf we cut the bond of master and pupil, you are a stranger...\n{01}CL{0C}
+@151
+You seem to mean it...\nBut if that is your wish,\nit cannot be helped.\n...If we cut the bond of master and pupil,\neven you become a stranger to me...\n{01}CL{0C}
+@152
+You mean it, then...\nBut if that is your wish,\nit can't be helped.\n...If we cut the bond of master and pupil,\nyou are a stranger to me...\n{01}CL{0C}
+@154
+{01}C1{00}, no, my lord...\nThank you...
+@155
+My lord, I am grateful.
+@156
+My lord, I am grateful.
+@158
+My lord..., no, Master!\nThank you...
+@159
+My lord..., no, Master!\nI am grateful.
+@160
+I am grateful.
+@162
+Why are you dawdling? Get out.\nI don't need your instruction any more...\nI'm the one asking you to go.
+@163
+We no longer need your instruction...\nPlease leave at once!
+@164
+I no longer need your instruction...\nPlease leave at once!
+@166
+Why are you dawdling? Get out.\nYou are no longer my pupil or anything else.\nThis is no place for a mere ronin!
+@167
+You are no longer\nmy pupil or anything else...\nPlease leave at once!
+@168
+You are no longer\nmy pupil or anything else...\nPlease leave at once!
+@170
+Why are you dawdling? Get out.\nYou are no longer my master.\nThis is no place for a mere ronin!
+@171
+You are no longer my master.\nPlease leave at once!
+@172
+You are no longer my master.\nPlease leave at once!
+@174
+Hm! Farewell!
+@175
+Yes, sir! I'll take my leave!
+@176
+...I'll take my leave!
+@177
+{01}C1{00}!\nIs it true you're resigning\nand leaving the house?!
+@177.1
+Master!\nIs it true you're resigning\nand leaving the house?!
+@177.2
+Master!\nIs it true you're resigning\nand leaving the house?!
+@178
+{01}C1{00}!\nIs it true you're resigning\nas instructor?!
+@178.1
+{01}C1{00}!\nIs it true you're resigning\nas instructor?!
+@178.2
+Master!\nIs it true you're resigning\nas instructor?!
+@179
+Yes, I'm sorry.\nI have my reasons...
+@179.1
+Yes, forgive me.\nI have my reasons...
+@179.2
+Yes.\nAfter much thought...
+@180
+...No, it's my master's decision.\nI won't pry.\nBut!
+@180.1
+...No, it is your decision, Master.\nI won't pry.\nBut!
+@180.2
+I won't pry.\nBut...
+@181.*
+But?
+@182
+Even if ties with {02}{0B}e are cut,\nyou are my one and only master.\nI'll always be ready to help.
+@182.1
+Even if ties with {02}{0B}e are cut,\nyou are my one and only master.\nI will always be ready to help.
+@182.2
+Even if ties with {02}{0B}e are cut,\nyou are my one and only master...\nI just wanted to tell you that...
+@183
+Hm, thank you.
+@183.1
+Your kindness touches me.
+@183.2
+...Thank you.
+@184
+Let me tell you, our instructor,\nabout our house's policy.
+@184.1
+Let me tell you, our instructor,\nabout our house's policy.
+@184.2
+Let me tell you, our instructor,\nabout our house's policy.
+@185.*
+I'm working out our next strategy right now...
+@186
+As instructor, do you have any thoughts\non our house's policy?
+@186.1
+As instructor, do you have\nany thoughts on our\nhouse's policy?
+@186.2
+As instructor, do you have any thoughts\non our house's policy?
+@187.*
+Then allow me\nto give my view.
+@188
+Oh, say whatever you like.
+@188.1
+Oh, please say whatever you like.
+@188.2
+Please say whatever you like.
+@189
+From now on your house should make\n"{02}yd" its final goal.
+@189.1
+I believe your house should make\n"{02}yd" its final goal from now on.
+@189.2
+Shouldn't your house make\n"{02}yd" its final goal from now on?
+@190
+...Hm, I see.\nYour opinion makes sense, {01}C1{00}.\nFrom next month our aim is "{02}yd".
+@190.1
+...I see, I understand.\nYour opinion is most sensible, {01}C1{00}.\nFrom next month our aim is "{02}yd".
+@190.2
+...I understand.\nYour opinion makes sense, {01}C1{00}.\nFrom next month we aim for "{02}yd".
+@191
+......There is something to your opinion,\n{01}C1{00}, but\nI think it is too early.
+@191.1
+......There is truth in your opinion,\n{01}C1{00}, but\nI believe it is still too early.
+@191.2
+......There is something to your opinion,\n{01}C1{00}, but\nthe time isn't right yet.
+@192
+In my view,\n"{02}yd" against {02}{0B}e\nwould be good.
+@192.1
+In my humble view,\n"{02}yd" against {02}{0B}e\nwould be best.
+@192.2
+How about "{02}yd"\nagainst {02}{0B}e?
+@193
+In my view,\n"{02}yd" in {02}{15}e\nwould be good.
+@193.1
+In my humble view,\n"{02}yd" in {02}{15}e\nwould be best.
+@193.2
+Wouldn't "{02}yd"\nin {02}{15}e\nbe best?
+@194
+In my view,\n"{02}yd" would be good.
+@194.1
+In my humble view,\n"{02}yd"\nwould be best.
+@194.2
+I think "{02}yd"\nwould be best.
+@195
+...Very well.\nYour opinion makes sense, {01}C1{00}.\nI'll think carefully about "{02}yd".
+@195.1
+...I see, I understand.\nYour opinion is most sensible, {01}C1{00}.\nI will think carefully about "{02}yd".
+@195.2
+...I understand.\nYour opinion makes sense, {01}C1{00}.\nI'll think carefully about "{02}yd".
+@196
+Oh, you take up my idea...\nAs expected of you, {01}C1{00}.
+@196.1
+I am deeply honored\nthat you take up my idea.
+@196.2
+Thank you for\nlistening to me.
+@197
+......There is something to your opinion,\n{01}C1{00}, but\nI'll pass on it this time.
+@197.1
+......There is truth in your opinion,\n{01}C1{00}, but\nI will pass on it this time.
+@197.2
+......There is something to your opinion,\n{01}C1{00}, but\nplease let me pass on it this time.
+@198
+Hm, no particular opinion...\nThat's fine, then.
+@198.1
+Hm, no particular opinion...\nVery well, then.
+@198.2
+Oh, no particular opinion?\nThat's fine, then.
+@199
+{02}{83}{A3},\nas purveyor to our house,\nI'll tell you specially.
+@199.1
+{02}{83}{A3}...\nAs purveyor to our house,\nI will tell you specially.
+@199.2
+{02}{83}{A3},\nas you are purveyor to our house,\nI'll tell you specially.
+@200
+{01}C1{00},\nsince you work for our house,\nI'll tell you specially.
+@200.1
+{01}C1{00}...\nSince you do so much for our house,\nI will tell you specially.
+@200.2
+{01}C1{00},\nsince you work for our house,\nI'll tell you specially.
+@201
+I'm working out our next strategy right now.\nIt should be decided by the next council.\nWait until then.
+@201.1
+I am working out our next strategy right now...\nIt should be decided by the next council.\nPlease wait until then.
+@201.2
+I'm working out our next strategy right now...\nIt should be decided by the next council.\nPlease wait until then.
+@202.*
+Our house's final goal is {02}yd.
+@203.*
+So for now, to develop our lands,\nwe are putting weight on\n{02}yd.
+@204.*
+For now, to strengthen our defenses,\nwe are carrying out {02}yd.
+@205.*
+Our immediate goal is to take {02}{15}e,\nso we are carrying out {02}yd.
+@206.*
+Our immediate goal is to defeat {02}{0B}e,\nso we are carrying out {02}yd.
+@207.*
+Our immediate goal is to unify {02}{1F}e,\nso we are carrying out {02}yd.
+@208.*
+Our immediate goal is to unify {02}zd,\nso we are carrying out {02}yd.
+@209.*
+To unify the realm,\nthis month we are carrying out {02}yd.
+@210
+Do you have any opinion\non this policy?
+@210.1
+Do you have any opinion\non this policy?
+@210.2
+Do you have any opinion\non this policy?
+@211
+Then allow me\nto give my view.
+@211.1
+Humble as I am,\nallow me to give my view.
+@211.2
+If I may,\nallow me to give my view.
+@212
+Oh, say whatever you like.
+@212.1
+Oh, please say whatever you like.
+@212.2
+Say whatever you like.
+@213.*
+(...Now, what shall I propose?)
+@214.*
+(Shall I propose "{02}yd"?)
+@215
+In my view,\nyour house should make\n"{02}yd" its final goal from now on.
+@215.1
+In my humble view,\nyour house might make\n"{02}yd" its final goal from now on.
+@215.2
+In my view,\nyour house might make\n"{02}yd" its final goal from now on.
+@216
+Hm...\n{02}yd, you say.
+@216.1
+Hm, I see...\n{02}yd, is it?
+@216.2
+I see...\n{02}yd, is it?
+@217
+......Hm, very well.\nYour opinion makes sense, {02}{83}{A3}.\nFrom next month our aim is "{02}yd".
+@217.1
+......Hm, I understand.\nYour opinion is most sensible, {02}{83}{A3}.\nFrom next month our aim is "{02}yd".
+@217.2
+...I understand.\nYour opinion makes sense, {02}{83}{A3}.\nFrom next month we aim for "{02}yd".
+@218
+......Hm, very well.\nYour opinion makes sense.\nFrom next month our aim is "{02}yd".
+@218.1
+......Hm, I understand.\nYour opinion is most sensible.\nFrom next month our aim is "{02}yd".
+@218.2
+...I understand.\nYour opinion makes sense.\nFrom next month we aim for "{02}yd".
+@219
+Oh, you take up my idea...\nAs expected of you, {01}C1{00}!
+@219.1
+Oh!\nI am deeply honored\nthat you listen to me.
+@219.2
+Oh!\nI am most fortunate\nthat you listen to me.
+@220.*
+By the next council I will work out\na new strategy based on "{02}yd".
+@221
+Very well.
+@221.1
+Yes, sir!
+@221.2
+Understood.
+@222
+......There is something to your opinion,\n{02}{83}{A3}, but\nI think it is too early.
+@222.1
+......There is truth in your opinion,\n{02}{83}{A3}, but\nI believe it is still too early.
+@222.2
+......There is something to your opinion,\n{02}{83}{A3}, but\nthe time isn't right yet.
+@223
+......There is something to your opinion,\n{01}C1{00}, but\nI think it is too early.
+@223.1
+......There is truth in your opinion,\n{01}C1{00}, but\nI believe it is still too early.
+@223.2
+......There is something to your opinion,\n{01}C1{00}, but\nthe time isn't right yet.
+@224
+......I see.
+@224.1
+......I see.
+@224.2
+...I see.
+@225.*
+(Now, if I propose "{02}yd",\n which target should I suggest?)
+@226.*
+(Shall I propose\n "{02}yd" against {02}{0B}e?)
+@227.*
+(Shall I propose\n "{02}yd" for {02}{15}e?)
+@228.*
+(Shall I propose "{02}yd"?)
+@229
+In my view,\n"{02}yd" against {02}{0B}e\nwould be good.
+@229.1
+In my humble view,\n"{02}yd" against {02}{0B}e\nwould be best.
+@229.2
+How about "{02}yd"\nagainst {02}{0B}e?
+@230
+In my view,\n"{02}yd" in {02}{15}e\nwould be good.
+@230.1
+In my humble view,\n"{02}yd" in {02}{15}e\nwould be best.
+@230.2
+Wouldn't "{02}yd"\nin {02}{15}e be best?
+@231
+In my view,\n"{02}yd"\nwould be good.
+@231.1
+In my humble view,\n"{02}yd"\nwould be best.
+@231.2
+I think "{02}yd"\nwould be best.
+@232
+Hm...\n{02}yd, is it?
+@232.1
+Hm, I see...\n{02}yd, is it?
+@232.2
+I see...\n{02}yd, is it?
+@233
+......Very well.\nYour opinion makes sense, {02}{83}{A3}.\nI'll think carefully about "{02}yd".
+@233.1
+......Understood.\nYour opinion is most sensible, {02}{83}{A3}.\nI will think carefully about "{02}yd".
+@233.2
+...I understand.\nYour opinion makes sense, {02}{83}{A3}.\nI'll think about "{02}yd".
+@234
+......Very well.\nYour opinion makes sense.\nI'll think carefully about "{02}yd".
+@234.1
+......Understood.\nYour opinion is most sensible.\nI will think carefully about "{02}yd".
+@234.2
+...I understand.\nYour opinion makes sense.\nI'll think about "{02}yd".
+@235
+Oh, you take up my idea...\nAs expected of you, {01}C1{00}!
+@235.1
+Oh!\nI am deeply honored\nthat you listen to me.
+@235.2
+Oh!\nI am most fortunate\nthat you listen to me.
+@236
+......There is something to your opinion,\n{02}{83}{A3}, but\nI'll pass on it this time.
+@236.1
+......There is truth in your opinion,\n{02}{83}{A3}, but\nI will pass on it this time.
+@236.2
+......There is something to your opinion,\n{02}{83}{A3}, but\nplease let me pass on it this time.
+@237
+......There is something to your opinion,\nbut I'll pass on it this time.
+@237.1
+......There is truth in your opinion,\nbut I will pass on it this time.
+@237.2
+......There is something to your opinion,\nbut please let me pass on it this time.
+@238
+......I see.
+@238.1
+......I see.
+@238.2
+...I see.
+@239
+If there's nothing, that's fine.
+@239.1
+...If there is nothing, that is fine.
+@239.2
+...If not, that's fine.
+@240
+Really leave the house, resign as instructor\nand become a ronin?
+@241
+{02}{15}e is under attack right now.\nEnough of this nonsense.
+@241.1
+{02}{15}e is under attack right now.\nThere is no time for nonsense.
+@241.2
+{02}{15}e is under attack right now.\nNo time for such nonsense.
+@242.*
+(Do I really set up {01}C1{00}\n and rebel?)
+@243
+Sadly, {01}C{AC}{0C} is no ruler of the realm.\nIf you raise your banner, {01}C1{00},\nI, {02}{01}e, will go with you.
+@243.1
+Sadly, {01}C{AC}{0C} is no ruler of the realm.\nIf you raise your banner, {01}C1{00},\nI'll go with you.
+@243.2
+Sadly, {01}C{AC}{0C} is no ruler of the realm.\nIf you raise your banner, {01}C1{00},\nI, {02}{01}e, will go with you.
+@245
+...I never thought\nyou were that kind of person, {01}C1{00}.\nI'll report this to {01}C{AC}{0C}.
+@245.1
+...So that's the sort you are, {01}C1{00}.\nI misjudged you.\nI'll report this to {01}C{AC}{0C}.
+@245.2
+...I never thought\nyou were that kind of person, {01}C1{00}.\nI will report this to {01}C{AC}{0C}.
+@246
+If you want to be disloyal so much,\nwhy don't you raise your banner yourself?\nAre you using me as a shield?
+@246.1
+If you want to be disloyal so much,\nraise your banner yourself!\nDon't use me as a shield...
+@246.2
+If you want to be disloyal so much,\nwhy don't you raise your banner yourself?\nIsn't it that you mean to use me as a shield?
+@247
+Hmph... Someone who betrays their lord\nmay betray again at any time.\nI might be tripped up too.
+@247.1
+Hmph... Someone who betrays their lord\nmay betray again at any time.\nI can't risk being tripped up.
+@247.2
+Hmph... Someone who betrays their lord\nmay betray again at any time.\nI might be tripped up any day...
+@248
+(...This won't do!\n Do I back down here?)
+@248.1
+(...This is going badly!\n Should I back down here?)
+@249
+(...It can't be helped, I'll back down.)
+@249.1
+(...It can't be helped, I'll back down.)
+@250
+...That's enough.\nGo home for today...
+@250.1
+...That's enough.\nGo home for today...
+@250.2
+...If you have nothing else to say,\nplease leave for today.
+@251
+(To push this through\n I'll need {02}o{C8} or more.)
+@251.1
+(To push this through\n I'll need {02}o{C8} or more.)
+@252
+(Shall I hand over {02}o{C8}?)
+@252.1
+(Shall I hand over {02}o{C8}?)
+@253
+Of course I don't come empty-handed.\nHere I have {02}o{C8}\nas war funds for now.
+@253.1
+Of course I do not come empty-handed.\nHere I have prepared {02}o{C8}\nas war funds for now.
+@253.2
+Of course I don't come empty-handed.\nHere I have prepared {02}o{C8}\nas war funds for now.
+@254
+Of course, how to use it is up to you, {01}C1{00}.\nCome, now is the time to decide.
+@254.1
+Of course, how to use it\nis entirely up to you, {01}C1{00}.\nCome, your decision!
+@254.2
+Of course, how to use it\nis up to you, {01}C1{00}.\nCome, please decide!
+@255
+.........{01}C1{00},\nyou think so highly of me...
+@255.1
+.........{01}C1{00},\nyou think so much of me...
+@256
+Don't underestimate me.\nI'm not one to be moved by this!\n\nBut you have your pride too...\nI'll let you save face.\nI'll pretend I never heard this.
+@256.1
+Please don't underestimate me, {02}{01}e.\nI am not one to be moved by this.\n\nBut you have your pride too...\nI will let you save face.\nI will pretend I never heard this.
+@256.2
+Don't underestimate me.\nI'm not one to be moved by this.\n\nBut you have your pride too, don't you...\nI'll let you save face.\nI'll pretend I never heard this.
+@257
+(Ugh... {02}od hurts,\n but there's no helping it...)
+@257.1
+(Oh... {02}od hurts,\n but there's no helping it...)
+@258
+And since it's you, {01}C1{00},\nwho went this far,\nbacking down would shame a samurai.
+@258.1
+And since it is you, {01}C1{00},\nwho prepared all this,\nbacking down would shame a samurai.
+@258.2
+And since it's you, {01}C1{00},\nwho went this far for me,\nbacking down would shame a samurai.
+@259
+...I will raise my banner here!\n{02}{02}e..., the words you spoke just now\nwere no lie, I trust?
+@259.1
+...I, {02}{01}e, will raise my banner here!\n{01}C1{00}..., the words you spoke just now\nwere no lie, I trust?
+@259.2
+...I'll raise my banner here!\n{01}C1{00}..., what you said just now\nwasn't a lie, was it?
+@260
+...Yes, a samurai's word is his bond.\nI and all my retainers\nwill go with you, {01}C1{00}.
+@260.1
+...Yes, a samurai does not go back on his word.\nI, {02}{01}e, and all my retainers\nwill follow you, {01}C1{00}.
+@260.2
+...Yes, a samurai's word is binding.\nI and all my retainers\nwill follow you, {01}C1{00}!
+@261
+With you, {01}C1{00}, it's like a hundred men...\n...No, more than that!\nHelp me.
+@261.1
+With you, {01}C1{00}, it is like a hundred men...\n...No, more than that.\nPlease lend me your strength.
+@261.2
+With you, {01}C1{00}, it's like a hundred men...\n...No, more than that.\nLend me your strength.
+@262
+The castles other than {02}{15}e\nwere returned to {02}{02}g.
+@263
+{02}{0B}e broke the alliance with {02}{0C}e.\n{01}C{C2}{0C}
+@264
+{02}{0B}e broke free of {02}{0C}e's rule.\n{01}C{C2}{0C}
+@265
+{02}{0C}e refused {02}{0B}e's demand to submit.\n{01}C{C2}{0C}
+@266
+{02}{0C}e now has a pretext to invade {02}{0B}e.
+@267
+What! {02}{02}{EC} resigns\nas purveyor to {01}C{A7}{01}?
+@267.1
+What! {02}{02}{EC} wishes to resign\nas purveyor to {01}C{A7}{01}?
+@267.2
+Oh! {02}{02}{EC} wants to quit\nas purveyor to {01}C{A7}{01}?
+@268
+Oh... I understand.\nThen from today, {01}C{A7}{01} and {02}{02}{EC}\nare finished with each other.
+@268.1
+I see... I understand.\nThen from today, {01}C{A7}{01} and {02}{02}{EC}\nwill part ways.
+@268.2
+I see... I understand.\nThen from today, {01}C{A7}{01} and {02}{02}{EC}\nwill part ways.
+@269
+{02}{0B}e resigned as purveyor\nto {02}{0C}e.\nRelations between them have worsened.
+@270
+...Are you joking?\nIf so, I'd rather\nyou didn't go too far.
+@270.1
+...Is this a joke?\nIf so, please don't go\ntoo far...
+@270.2
+...A joke?\nPlease spare me your teasing.
+@271
+{02}{0B}e declared war on {02}{0C}e.\n{02}{0C}e now has a pretext\nto invade {02}{0B}e.
+@272
+...Actually, I have brought\na letter of introduction...
+@272.1
+...Actually, I have brought\na letter of introduction...
+@272.2
+...Actually, I've brought\na letter of introduction...
+@273
+Hm, a letter of introduction?\nLet me see it.
+@273.1
+What! A letter of introduction?\nLet me look at it.
+@273.2
+...A letter of introduction?\nLet me see.
+@274
+Hm... I see.\nBut a letter of introduction\nchanges nothing...\nIt's insulting to think one letter\nlike this would change our minds...\nThis thing... hmph!
+@274.1
+Oh... I see.\nBut a letter of introduction\nchanges nothing...\nIt is insulting to think one letter\nlike this would change our minds...\nHmph!
+@274.2
+...I see.\nBut a letter of introduction\nchanges nothing...\nIt's insulting to think one letter\nlike this would change our minds...\nThis thing... there!
+@275
+Riiip!
+@276
+The letter was torn up.
+@277
+What are you doing?!!\nThen how about this!
+@277.1
+What are you doing?!!\nIn that case...
+@277.2
+What are you doing?!!\nThen...
+@278
+This time I have received\nan imperial order for peace.\nCome, make up your mind.
+@278.1
+This time I have received\nan imperial order for peace.\nWhat do you say?
+@278.2
+This time I have received\nan imperial order for peace.\nWhat do you say?
+@279
+What?!\nAn imperial order?
+@279.1
+What?!\nAn imperial order, you say?
+@279.2
+Eh?!\nAn imperial order?
+@280
+If it is the Emperor's command, there's nothing for it...\nI'll accept peace.
+@280.1
+If it is the Emperor's command, it cannot be helped...\nI will accept peace.
+@280.2
+If it's the Emperor's command, it can't be helped...\nI'll accept peace.
+@281
+Using His Majesty is an outrage!\nI have no intention whatsoever\nof making peace with {02}{02}{EC}! Shame on you!
+@281.1
+Using His Majesty is an outrage!\nI have no intention whatsoever\nof making peace with {02}{02}{EC}! Shame on you!
+@281.2
+Using His Majesty is an outrage!\nI have no intention whatsoever\nof making peace with {02}{02}{EC}! Shame on you!
+@282
+What! {02}{02}{EC}\nwishes to come under our wing?
+@282.1
+What! {02}{02}{EC}\nwishes to come under our wing?
+@282.2
+Eh?! {02}{02}{EC}\nwants to come under our wing?
+@283
+...That's a godsend for us too.\nWe wanted {02}{02}{EC}'s help.\nI look forward to it.
+@283.1
+...That is more than we could hope for.\nWe wanted {02}{02}{EC}'s help.\nWe look forward to it.
+@283.2
+...That's more than I could hope for.\nI wanted {02}{02}{EC}'s help.\nI look forward to it.
+@284
+I appreciate the offer, but\nI have no wish to join {02}{02}{EC} now.
+@284.1
+I am glad of the offer, but\nwe have no wish to join {02}{02}{EC} now.
+@284.2
+I appreciate the offer, but\nI have no wish to join {02}{02}{EC} now.
+@285
+There are limits to joking.\nI'd like you to stop such nonsense.
+@285.1
+There are limits to joking.\nPlease spare me such nonsense.
+@285.2
+...A joke?\nPlease spare me your teasing.
+@286
+You may refuse if you like...\nbut don't complain when your {01}C{94}{01}\nis wiped out, women and children too.
+@286.1
+You may refuse if you like...\nbut don't complain when your {01}C{94}{01}\nis wiped out, women and children too.
+@286.2
+You may refuse if you like...\nbut if your {01}C{94}{01} is wiped out,\nwomen and children too, it's on you.
+@287
+...Ugh...
+@287.1
+...Wh-what...
+@287.2
+...N-no...
+@288
+(...They're impressed.\n If only I can push this through...)
+@288.1
+(...They seem impressed.\n If only I can push this through...)
+@288.2
+(...They seem impressed.\n If only I can push this through...)
+@289
+(I've offended them; they're angry.\n Did I make a mistake...)
+@289.1
+(I've offended them; they're angry.\n I hope this goes well...)
+@289.2
+(I've offended them; they're angry.\n Will this go well...)
+@290
+(Hmm, no response.\n I can't read their face...)
+@290.1
+(Hmm, no response.\n I can't read their face...)
+@290.2
+(Hmm, no response.\n I can't read their face...)
+@291
+If possible, I'd rather not\nquarrel with {02}{02}{EC}.\nI beg you.
+@291.1
+If possible, I would rather not\nquarrel with {02}{02}{EC}...\nI beg you.
+@291.2
+If possible, I'd rather not\nquarrel with {02}{02}{EC}...\nI beg you.
+@292
+...Oh?
+@292.1
+...Hm.
+@292.2
+...Hmm.
+@293.*
+(Hmm, they suddenly got haughty...\n Did they take advantage when I was humble...?)
+@294.*
+(Oh, they seem to have softened.\n If only they respond to sincerity...)
+@295.*
+(Hmm, no response.\n I can't read their face...)
+@296
+Well, I won't say more.\nWhat to do I leave\nto your judgment, {01}C1{00}.
+@296.1
+Well, I will not say more.\nWhat to do I leave\nto your judgment, {01}C1{00}.
+@296.2
+Well, I won't say more.\nWhat to do I leave\nto your judgment, {01}C1{00}.
+@297
+...I see, hmm.
+@297.1
+...What, hmm.
+@297.2
+...Oh no, hmm.
+@298.*
+(Oh, their face clouded over.\n Was I too offhand...?)
+@299.*
+(Oh, they've stiffened.\n Was I too curt...?)
+@300.*
+(...That got through, it seems.\n I hope honesty without tricks pays off.)
+@301
+You may refuse if you like...\nbut don't complain when your {01}C{94}{01}\nis wiped out, women and children too.
+@301.1
+You may refuse if you like...\nbut don't complain when your {01}C{94}{01}\nis wiped out, women and children too.
+@301.2
+You may refuse if you like...\nbut if your {01}C{94}{01} is wiped out,\nwomen and children too, it's on you.
+@302
+...Ugh...
+@302.1
+...Wh-what...
+@302.2
+...N-no...
+@303.*
+(...They're impressed.\n If only I can push this through...)
+@304
+(I've offended them; they're angry.\n Did I make a mistake...)
+@304.1
+(I've offended them; they're angry.\n I hope this goes well...)
+@304.2
+(I've offended them; they're angry.\n Will this go well...)
+@305.*
+(Hmm, no response.\n I can't read their face...)
+@306.*
+If possible, I'd rather not\nquarrel with {02}{02}{EC}.\nI beg you.
+@307
+...Oh?
+@307.1
+...Hm.
+@307.2
+...Hmm.
+@308.*
+(Hmm, they suddenly got haughty...\n Did they take advantage when I was humble...?)
+@309.*
+(Oh, they seem to have softened.\n If only they respond to sincerity...)
+@310.*
+(Hmm, no response.\n I can't read their face...)
+@311
+Well, I won't say more.\nWhat to do I leave\nto your judgment, {01}C1{00}.
+@311.1
+Well, I will not say more.\nWhat to do I leave\nto your judgment, {01}C1{00}.
+@311.2
+Well, I won't say more.\nWhat to do I leave\nto your judgment, {01}C1{00}.
+@312
+...I see, hmm.
+@312.1
+...What, hmm.
+@312.2
+...Oh no, hmm.
+@313.*
+(Oh, their face clouded over.\n Was I too offhand...?)
+@314.*
+(Oh, they've stiffened.\n Was I too curt...?)
+@315.*
+(...That got through, it seems.\n I hope honesty without tricks pays off.)
+@316
+Lord {02}{02}g, Lord {02}{02}g!\nSomething terrible has happened!
+@317
+I'm in the middle of an important tea ceremony.\nLeave it.
+@317.1
+I'm in the middle of an important tea ceremony.\nLeave it.
+@318
+I must report: the lord of {02}{17}e castle,\n{02}{03}g, has rebelled against our house\nand declared independence!!
+@319
+Wh-what did you say?!
+@319.1
+What did you say?!
+@320
+Crash!
+@321
+Lord {02}{03}e gathered the commanders in the castle\nand declared independence on the spot!\nTheir treachery is now plain!
+@322
+...That can't be true!?\nThat {01}C8{00}\nwould betray me... I can't believe it.\n
+@322.1
+Is it true!?\nThat {01}C8{00}\nwould betray me... I can't believe it.
+@323
+From what I hear...\nit was {02}{03}g\nwho incited it!
+@324
+...Argh, then there will be no mercy.\nTell all our commanders! Our house will\nstrike down {02}{03}g with all its might!
+@324.1
+Then there will be no mercy...\nTell every commander! Our house will\nstrike down {02}{03}g with all its might!
+@325
+that {02}{03}i
+@325.1
+our own merchant
+@325.2
+our own ninja
+@325.3
+our own pirate
+@325.4
+that {02}{03}i
+@325.5
+a mere hanger-on
+@326
+You did well to bring this news.\nAs a reward, take this short sword.\nCome closer.
+@326.1
+Thank you for bringing this news.\nAs a reward, take this short sword.\nCome here.
+@327
+Ah, I'm most grateful.
+@328
+Here, take it!\nHah!
+@328.1
+There, take it!\nHah!
+@329
+Shhk!
+@330
+Lord {02}{02}g...!?\nWhy would you cut me...
+@331
+Hmph, who shouts like that when the enemy\nmight be listening anywhere?!\nYou're as guilty as {01}C{AC}{0C}. Die!
+@331.1
+You fool, who shouts like that when the enemy\nmight be listening anywhere?!\nYou're as guilty as {01}C{AC}{0C}. Die!
+@332
+Slash!
+@333
+Gyaaah!
+@334
+Ah, {01}C1{00},\nwhat are you doing?!\nPlease calm yourself!
+@335
+Huff, huff...\n......{01}C{08}{0D}, listen well.
+@335.1
+Pant, pant, pant...\n......{01}C{08}{0D}, listen well.
+@336
+You there
+@336.1
+{01}C1{00}
+@337
+...Y-yes, sir?
+@337.1
+......Y-yes?
+@338
+......Tell everyone:\nwhoever turns their fangs on our house,\nthis is what becomes of them!
+@338.1
+......Tell everyone:\nwhoever turns their fangs on our house,\nthis is what I'll do to them, understood?
+@339
+Yes, sir!
+@339.1
+B-but...
+@340
+I will never forget this humiliation!\nFrom this moment {01}C{AC}{0C} is our enemy.
+@340.1
+I will never forget this humiliation!\nFrom this moment {01}C{AC}{0C} is our enemy.
+@341
+......But {01}C{AC}{0C}...\nSo {01}C {00} was the worm in the lion's belly.
+@341.1
+......Even so, {01}C{AC}{0C}...\nTo think {01}C {00} was the worm in the lion's belly.
+@342
+In {02}{84}e/{02}{84}f/{02}{84}g, {02}{01}g\nrebelled at {02}{15}e\nand became a daimyo.
+@343
+{02}{01}{EC} has made\n{02}{02}{EC} its target.
+@344
+What, {01}C{AC}{0C}?!\nThat I should be played\nby {01}C{FD}{0C}...
+@344.1
+What, {01}C{AC}{0C}?!\nThat I should be played\nby {01}C{FD}{0C}...
+@345
+Y-you haven't told\nanyone else about this?
+@345.1
+Y-you haven't told\nanyone else about this, have you?
+@346
+No, sir, no one yet.
+@347
+...I see. You may go.\nI'll tell the others myself later.\nLeave me alone...
+@347.1
+...I see. You may go.\nI'll tell the others myself later.\nLeave me alone...
+@348
+Yes, sir. Excuse me.
+@349
+...{01}C1{00}, why?\nWhere did I fall short...?\n\n...Argh, why?!\nIf you leave me,\nwhat am I to do...?
+@349.1
+...{01}C1{00}, why?\nWhere did I fall short...?\n\n...Oh, why?!\nIf you leave me,\nwhat am I to do...?
+@350
+...{01}C1{00}!?\nWhy such a loud voice...?\nWhatever is the matter?
+@351
+...You won't leave me,\nwill you...?
+@351.1
+...Ah, {01}C1{00}.\nYou won't leave me,\nwill you...?
+@351.2
+...You won't leave me,\nwill you...?
+@352
+...What are you saying?\nThe only one I serve\nis you, {01}C1{00}...
+@352.1
+...What are you saying?\n{01}C{19}{0D} will stay by your side,\nwhatever becomes of me...
+@352.2
+...Why so faint-hearted!\n{01}C{19}{0D} doesn't want to see you\nlike this.
+@352.3
+You...\nDo you think {01}C{19}{0D}\ncould ever do such a thing?
+@352.4
+...Please, take heart.\n{01}C{19}{0D} loves you\nwhen you're full of spirit.
+@353.*
+I
+@353
+Chacha
+@353.2
+Sena
+@353.12
+Ei
+@354
+...Truly?
+@354.1
+{01}C1{00}...
+@354.2
+...Really?
+@355
+Yes, rather than {01}C8{00},\nI am far more...\nNo, it's nothing.
+@355.1
+Come, raise your head.\nIf others see you like this,\nthe name of {02}{02}{EC} will suffer.
+@355.2
+Losing a retainer or two\nis nothing; you can gather more.\nAs long as you have a just cause, people will follow.
+@355.3
+Rather than be parted from you,\n{01}C{19}{0D} would take my own life...\nPlease, never ask such a thing again.
+@355.4
+Please, not only affairs of state;\nthink of {01}C{19}{0D}\nonce in a while too.
+@356
+...Yes, I still have you\nby my side.\nI can't stay so faint-hearted...
+@356.1
+...Sorry.\nThanks to you I've recovered.\nYou are a dear one.
+@356.2
+...Yes, I still have you\nby my side. I can't stay so faint-hearted...
+@357
+{01}C{19}{00}...
+@358
+And still, I can't forgive {01}C{AC}{0C}...\nTo drag the name of {02}{01}{EC} through the mud...\nI will never forget this humiliation!
+@358.1
+And still, I can't forgive {01}C{AC}{0C}...\nTo drag the name of {02}{01}{EC} through the mud...\nI will never forget this humiliation!
+@359
+What, {01}C{AC}{0C}?!\nThat {01}C{FD}{0C}!
+@359.1
+What, {01}C{AC}{0C}?!\nThat {01}C{FD}{0C}!
+@360
+Yes, sir. They weren't keen on rebelling, but\nthe rumor is that {01}C8{00}\nforced them into it.
+@361
+Hm, everyone, prepare for war.\nWe will send a force against {01}C{AC}{0C}.\nWho will volunteer?
+@361.1
+Hm, everyone, prepare for war.\nWe will send a force against {01}C{AC}{0C}.\nWho will volunteer?
+@362
+...My lord, please calm down.\nIf we move now,\nwe play into their hands.
+@363
+Since when do you\ngive me orders?!
+@363.1
+Since when do you\ngive me orders?!
+@364
+For one such as you, my lord, {01}C8{00}\nis no threat at all.\nBut first we must calm everyone's unrest...
+@365
+W-well, there's something in that.\nVery well.
+@365.1
+W-well, there's something in that.\nLet's do so.
+@366
+Tell everyone:\nthe rebellion of {01}C{AC}{0C}\nmeans nothing to our house.\nIf anyone wants to abandon me\nand follow {01}C{AC}{0C},\nI won't stop them. Let them go.
+@366.1
+Tell everyone:\nthe rebellion of {01}C{AC}{0C}\nmeans nothing to our house.\nIf anyone wants to abandon me\nand follow {01}C{AC}{0C},\nI won't stop them. Let them go.
+@367
+But traitors will never be forgiven.\nThey will come to regret deeply\nbaring their fangs at our house.
+@367.1
+But traitors will never be forgiven.\nI will make them regret deeply\nbaring their fangs at our house.
+@368
+Yes, sir!
+@369.*
+But {01}C{AC}{0C} was pulling the strings...\nThe one to fear may not be {01}C1{00},\nbut {01}C {00}...
+@370
+Not enough spirit.
+@371
+Not enough money.
+@372
+There are no doubles.
+@373
+There are no allies.
+@374
+There is no target for the technique.
+@375
+Choose a place.
+@376
+Choose a target for the technique.
+@377
+Choose a target to attack.
+@378
+Use {02}=e?
+@379
+You can't escape.
+@380
+You don't know any usable techniques.
+@382
+Take this!
+@382.1
+I see you!
+@382.2
+Raaagh!
+@382.3
+You won't escape!
+@382.4
+There!
+@382.5
+Take this!
+@383
+Here I come!
+@383.1
+I see you!
+@383.2
+Haaah!
+@383.3
+You won't escape!
+@383.4
+There!
+@383.5
+Take this!
+@385
+Rin, pyo, to, sha, kai, jin, retsu, zai, zen...
+@386.*
+{02}=e!
+@386.9
+Shinto-ryu ultimate secret: {02}=e!
+@386.10
+Shinkage-ryu ultimate secret: {02}=e!
+@386.11
+Jigen-ryu ultimate secret: {02}=e!\nChesto!!
+@386.25
+Taste this poison!
+@386.26
+Taste this deadly poison!
+@386.39
+{01}C9{0D}\n{02}=e!
+@386.41
+{01}C9{0D}\n{02}=e!
+@386.55
+{01}C9{0D}\n{02}=e!
+@386.56
+{01}C9{0D}\n{02}=e!
+@386.57
+{01}C9{0D}\n{02}=e!
+@386.58
+{01}C9{0D}\n{02}=e!
+@386.59
+{01}C9{0D}\n{02}=e!
+@386.60
+Hm, let me tend this...\nFirst aid with this salve!
+@386.61
+Right, let me tend this...\nFirst aid with this salve!
+@386.62
+Hm, let me tend this...\nStop the bleeding for first aid!
+@386.63
+Right, let me tend this...\nStop the bleeding for first aid!
+@386.64
+Kieee!
+@386.65
+{01}C9{0D}\n{02}=e!
+@386.66
+{01}C9{0D}\n{02}=e!
+@386.67
+There, money!\nCome on, grab it! Grab it!
+@386.68
+Look, money!\nGo on, take it!
+@386.69
+Ha ha ha,\nis that all you've got?\nYou bore me to yawning!
+@386.70
+Ho ho ho,\nis that all you've got?\nYou bore me to sleep.
+@386.71
+Now, now, let's keep this peaceful.\nPlease accept this.
+@386.72
+Now, now, let's keep this peaceful...\nPlease accept this.
+@386.73
+{01}C9{0D}\n{02}=e!
+@386.88
+{01}C9{0D}\n{02}=e!
+@387
+{02}{01}g fled.
+@388
+Mastered the {02}yd skill.
+@390
+Too shallow!
+@390.1
+Heh, you look like you're standing still
+@390.2
+Too slow!
+@390.3
+Not good enough yet
+@390.4
+I can see your moves!
+@391
+Too shallow!
+@391.1
+Heh, you look like you're standing still
+@391.2
+Too slow!
+@391.3
+Not good enough yet
+@391.4
+I can see your moves!
+@392
+Heh, it won't hit
+@392.1
+As if it would hit!
+@392.2
+I read it!
+@392.3
+Hehe, where are you aiming?
+@392.4
+Useless!
+@392.5
+Heh, a miss!
+@393
+Heh, it won't hit
+@393.1
+As if it would hit!
+@393.2
+I read it!
+@393.3
+Hehe, where are you aiming?
+@393.4
+Useless!
+@393.5
+Heh, a miss!
+@394
+Whoa!\nDodged!
+@394.1
+Whoa, close, close
+@394.2
+Eek!\nThat was close!
+@394.3
+W-whoa!\nThat was close
+@394.4
+Hm, dodged by a hair
+@395
+Whoa!\nDodged!
+@395.1
+Whoa, close, close
+@395.2
+Eek!\nThat was close!
+@395.3
+W-whoa!\nThat was close
+@395.4
+Hm, dodged by a hair
+@396
+Hm?\nIt didn't hit?
+@396.1
+Oh?\nDodged?
+@396.2
+Huh?\nIt didn't hit?
+@396.3
+Whoa!\n...Huh? It doesn't hurt
+@396.4
+Eek!\nS-saved!
+@397
+Hm?\nIt didn't hit?
+@397.1
+Oh?\nDodged?
+@397.2
+Huh?\nIt didn't hit?
+@397.3
+Whoa!\n...Huh? It doesn't hurt
+@397.4
+Eek!\nS-saved!
+@398
+Good, I read it!
+@398.1
+Phew, that was close...
+@398.2
+Hm, I saw it!
+@398.3
+Phew, by a hair...
+@398.4
+Whoa!\nThat was close
+@399
+Good, I read it!
+@399.1
+Phew, that was close...
+@399.2
+Hm, I saw it!
+@399.3
+Phew, by a hair...
+@399.4
+Whoa!\nThat was close
+@400
+Whoa!\nClose, close
+@400.1
+Good, I read it!
+@400.2
+Phew, your aim was off
+@400.3
+Oh, it didn't hit
+@400.4
+Hehe, so close!
+@401
+Whoa!\nClose, close
+@401.1
+Good, I read it!
+@401.2
+Phew, your aim was off
+@401.3
+Oh, it didn't hit
+@401.4
+Hehe, so close!
+@402
+You can now found a new school.
+@403
+Defeat {02}{01}g
+@404
+Defeat all opponents
+@405
+{02}{01}g is defeated
+@406
+Then I'll start by teaching you\nhow to move and attack.
+@407
+First, moving.\nThe blue circle is how far you can move.\n\nThe higher your Valor,\nthe bigger the blue circle.\n\nYou can move to any spot\ninside the blue circle.
+@408
+Choose where to move with ⑤ and confirm with ①,\nthen choose your facing after moving.\n\nPredict your attack range and the enemy's moves,\nchoose the direction to face with ⑤,\nand confirm with ①.
+@409
+Once your destination and facing are set,\nyou and your opponent move at the same time.\n\nIf after moving the opponent's center\nis inside your attack range,\nyou attack automatically.\nIf you are both in each other's range,\nthe one with higher Valor strikes first.\n\nNow, let me demonstrate this much.\n
+@410
+Like this, bring your opponent's\nhealth to 0 and you win.\n\nIf your own health reaches 0 first, you lose.\nIn a real fight, losing means death.\nBe careful.\nOf course, in [Martial Training] and the like\nnobody dies.\nTrain without worry.
+@411
+Now,\nnext I'll teach you [Defend], [Technique]\nand [Flee].\nFirst, ④ lets you choose\n[Defend], [Technique] or [Flee].
+@412
+By the way, [Victory Terms] shows what\nit takes to end the current fight.
+@413
+[Defend] has two effects.\n\n\nOne raises your defense,\nreducing the health you lose\nto enemy attacks.\nThe other lets you store two spirit points.\nAny action other than [Defend] stores only\none.\nAlso, when the enemy attacks you,\nyou store one more.
+@414
+[Flee] gets you out of there,\nbut sometimes you can't use it.\n\nAnd choosing [Flee]\ndoesn't always mean you'll escape.\n\nEspecially when your opponent is close,\n[Flee] fails more often.
+@415
+[Technique] is done by\nspending spirit.\n\nYou can see how much spirit\nyou have stored in the info at the top.
+@416
+To know how much spirit\nyour opponent has stored, move the cursor\nover them with ⑤.
+@417
+This shows the opponent's details.
+@418
+There are all kinds of [Techniques]:\nones that strike distant enemies,\nones that hit several at once,\nand non-attack ones that raise defense,\nsplit you into three,\nor freeze your opponent.\nOf course, you can only use\nthe ones you have learned.\n\nWhich ones you can use now\nis shown in the technique list\nafter you choose [Technique].
+@419
+Techniques you can't use, for lack of spirit\nor another reason, are shown in gray.\n\nChoose a technique shown in black\nand it is performed.
+@420
+Unlike [Attack], a [Technique]\ncan be used before the enemy moves.\nSo it hits the enemy for sure.\nIf your [Attack] hit on the last move,\nfollowing up with an attack technique\nis effective.
+@421
+Basic sword and spear techniques\ncan be learned through martial training.\n\nTo learn powerful techniques,\nbecome the pupil of someone\nholding a school's license.\nNinjutsu techniques\ncan be learned at ninja villages.\n\nIt seems you can also learn techniques\nby studying skills that seem to have nothing\nto do with fighting, like Medicine or Accounting.
+@422
+Next, I'll tell you about the kinds of weapons.\n\n\nThere are six kinds of weapons\nfor fighting: swords, spears, sickle-and-chain,\nkunai, bows and matchlock guns.\nFirst, the sword.\nWatch the orange attack range.
+@423
+As you see, a sword's attack range\nis very short.\nIn other words, it's for close range only.\nNext, the spear.\nCompare it with the sword's range.
+@424
+You can see that a spear reaches\nfarther than a sword,\nbut can't attack right beside you.\nSo the spear is a mid-range weapon.\n\n\nNext, the sickle-and-chain.
+@425
+The sickle-and-chain covers the ranges\nof both sword and spear.\nSo it's handy at close and mid range.\nIts weakness is that it hits weaker\nthan a sword or spear.\n\nNext, the kunai.
+@426
+You'll be surprised how wide its range is.\nThe widest of all weapons.\n\nBut\nthe kunai's accuracy and power\nare very low.\nNext, the bow.
+@427
+Unlike the kunai, a bow can't attack\nat close or mid range.\nIt's a long-range weapon only.\nIt hits harder than a kunai, but after a shot\nyou can't move for a while.\n\nNext, the matchlock gun.
+@428
+The matchlock has the same range as the bow:\na long-range weapon only.\n\nThe difference: it hits harder than a bow,\nbut you can't move for longer.\n\nThat's all for the kinds of weapons.\n\n\nOne thing you mustn't forget:\nyou can only use the weapon\nyou have equipped.\nHowever fine a weapon you own,\nyou can't use it unless it's equipped.\n\nAnd you can't switch weapons\nin the middle of a fight.\n\nChange it beforehand\nunder [Info] - [Hero] - [Valuables].
+@429
+Now, last, how to read your opponent.\n\n\nWhen you're some distance apart,\nthe opponent will usually\ncome straight at you.
+@430
+The less skilled someone is,\nthe more they come straight at you.\n\nSo predict where they'll be after moving\nand attack from their blind spot.\n\nA blind spot is where their attack can't reach.
+@431
+Well, like this.\n\n\nYou can easily deal with bandits\nby circling into their blind spot.\nIt won't always work, though.\nAlso, when your opponent has stored spirit\nand looks ready to use a technique,\nuse [Defend].\nAttack techniques can't be dodged,\nso cut your health loss\nat least a little with [Defend].\nThat ends the explanation.\n\n\nNow polish your skills\nin [Martial Training]. Train hard!
+@433
+Switch info
+@435
+Move
+@437
+Move
+@438
+Hero info
+@439
+Help
+@441
+Switch info
+@443
+Person info
+@444
+OK
+@445
+Back
+@446
+Message log
+@449
+Switch info
+@451
+Move
+@453
+Move
+@454
+Hero info
+@455
+Help
+@457
+Switch info
+@459
+Person info
+@460
+OK
+@462
+Message log
+@464
+Switch unit
+@465
+Terrain info
+@466
+Move
+@467
+Move
+@468
+Move
+@469
+Move
+@470
+Move
+@471
+Help
+@472
+Switch unit
+@473
+Unit info
+@474
+Corps list
+@475
+Corps info
+@476
+OK
+@478
+Message log
+@479
+Functions
+@481
+Switch view
+@483
+Move
+@485
+Move
+@486
+Hero info
+@487
+Help
+@489
+Switch view
+@490
+Free cursor
+@491
+Info
+@492
+OK
+@494
+Message log
+@495
+Functions
+@497
+Switch view
+@499
+Move
+@501
+Move
+@502
+Hero info
+@503
+Help
+@505
+Switch view
+@506
+Free cursor
+@507
+Info
+@508
+OK
+@510
+Message log
+@511
+Functions
+@515
+Move
+@517
+Move
+@519
+Help
+@524
+OK
+@525
+Back
+@531
+Move
+@533
+Move
+@534
+Hero info
+@535
+Help
+@540
+OK
+@541
+End
+@542
+Message log

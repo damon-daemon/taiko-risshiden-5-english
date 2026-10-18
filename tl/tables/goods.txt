@@ -1,0 +1,100 @@
+0	Soy Sauce
+1	Vinegar
+2	Salt
+3	Oil
+4	Perilla
+5	Taro
+6	Daikon
+7	Cucumber
+8	Aubergine
+9	Burdock
+10	Natto
+11	Azuki Beans
+12	Koji
+13	Lotus Root
+14	Konnyaku
+15	Pears
+16	Mandarins
+17	Grapes
+18	Sweet Potatoes
+19	Soba
+20	Kasuzuke Pickles
+21	Porcelain
+22	Seto Ware
+23	Shigaraki Ware
+24	Bizen Ware
+25	Hagi Ware
+26	Wanli Enamelware
+27	White Porcelain
+28	Madder
+29	Indigo
+30	Bayberry
+31	Safflower
+32	Gromwell Root
+33	Needles
+34	Miso
+35	Ramie
+36	Raw Cotton
+37	Raw Silk
+38	Cotton Cloth
+39	Hemp Cloth
+40	Silk Fabric
+41	Yuki Tsumugi
+42	Kaga Silk
+43	Nishijin Weave
+44	Hakata Weave
+45	Satsuma Kasuri
+46	Chintz
+47	Lacquer
+48	Lacquerware
+49	Negoro Lacquer
+50	Wajima Lacquer
+51	Shunkei Lacquer
+52	Castings
+53	Kelp
+54	Nori
+55	Bonito
+56	Sardines
+57	Sea Bream
+58	Spiny Lobster
+59	Oysters
+60	Dried Seafood
+61	Sushi
+62	Agate
+63	Crystal
+64	Iron
+65	Lime
+66	Sulphur
+67	Silver
+68	Copper
+69	Saltpetre
+70	Lead
+71	Candles
+72	Timber
+73	Charcoal & Firewood
+74	Combs
+75	Tatami
+76	Paper Umbrellas
+77	Brushes
+78	Inkstones
+79	Paper
+80	Oiled Paper
+81	Coloured Paper
+82	Torinoko Paper
+83	Sugihara Paper
+84	Mino Paper
+85	Kon Tosa Paper
+86	Sugar
+87	Tobacco
+88	Pillows
+89	Tea
+90	Korean Ginseng
+91	Pepper
+92	Sandalwood
+93	Herbal Medicine
+94	Folding Fans
+95	Gunpowder
+96	Shamisen
+97	Glassware
+98	Lanterns
+99	Sweets

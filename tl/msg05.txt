@@ -1,0 +1,2298 @@
+@0
+For the next month, we will work\nto develop {02}{15}e.\nThere are several ways to develop this town...
+@1
+This time I mean to carry out "{02}yd".\nI'd like you all to share the work.
+@2
+{01}C1{00},\nwhat will {01}C{19}{00} take charge of?
+@3
+{02}yd is an important job...\nMore worshippers means more demand for food, souvenirs, offerings and all sorts of goods, and the town prospers. This job is to hold votive sumo tournaments and such to draw more worshippers.
+@3.1
+{02}yd is an important job...\nIf eminent monks read sacred sutras and give edifying sermons, the worshippers will be glad and the town will prosper. This job is to arrange for those monks.
+@3.2
+The grander a temple, the more blessed it feels, and the more worshippers come... {02}yd is an important job...\nThis job is to renovate old temple buildings and procure the lumber for it.
+@3.3
+A temple holds many Buddhas, starting with its main image... and worshippers come to pray to them. So, to make the temple flourish, this job is to have a sculptor carve new Buddha statues.
+@3.4
+A fine school like the Ashikaga School or the Kanazawa Library needs a library worthy of it... a fine collection of Japanese and Chinese classics. This job is to gather books for the school's library.
+@3.5
+To gain learning, one first needs teachers of Chinese classics... and these days, it's Zen monks who are learned in them. This job is to invite scholar monks who can teach Chinese at the new school.
+@3.6
+Until now, schools taught only Japanese and Chinese learning, but from now on Western learning will be needed too... This job is to invite padres who can teach it... that is, missionaries.
+@3.7
+A fine school needs a gate worthy of it... and a grand plaque bearing the school's name. This job is to ask a renowned calligrapher to write it.
+@3.8
+A town where many people live needs sewers. This job is to gather workers and dig the sewers.
+@3.9
+Canals are the key to a town's trade... With good canals, the town will develop faster... This job is to gather and direct workers to improve the canals.
+@3.10
+{02}yd is an important job...\nBuilding townhouses will need a great deal of lumber. This job is to procure that lumber and hand it to the carpenters.
+@3.11
+Water is essential to the people who live in a town... So when new townhouses are built, wells must be dug. This job is to arrange the well diggers.
+@3.12
+A festival isn't complete without dancing. It's what visitors enjoy most. This job is to arrange and hold the dances... I hear there's a dance lately called "kabuki odori".
+@3.13
+Dengaku was originally a dance for rice-planting season, but as entertainment anyone can enjoy, it's very popular with townsfolk too. This job is to hire dengaku performers to dance at the festival.
+@3.14
+Selling goods is the heart of a merchant house... This job is to sell many goods at stalls to the crowds coming to town.
+@3.15
+A festival isn't complete without sake... As hosts, we must treat the townsfolk who come with sake and food. This job is to arrange the sake and food.
+@3.16
+A tea gathering needs a great deal of tea ware... Some guests may bring their own, but amateurs can't tell its worth. This job is to appraise their tea ware for free.
+@3.17
+Tea has spread, but common folk still know little of it...\nMore people taking up tea means more profit for those dealing in tea ware. This job is to spread tea among the townsfolk.
+@3.18
+{02}yd is an important job...\nInviting famous tea masters will raise the standing of the gathering... This job is to arrange the invitations for the tea masters.
+@3.19
+A grand tea gathering will draw a crowd... so a great deal of tea leaves will be needed...\nThis job is to arrange that tea, gathering fine teas from every region.
+@3.20
+With a daimyo's permission for a free market, peddlers who normally can't trade here can do business openly... This job is to advertise the free market to peddlers traveling nearby.
+@3.21
+A free market is, as the name says, open to all, so theft and quarrels never end... As hosts, we must keep order. This job is to guard the market so everyone can buy and sell in peace.
+@3.22
+Even the best free market is ruined if no customers come... If people don't know about it, they won't gather... This job is to advertise the market in town and the surrounding area.
+@4
+Will you do {02}yd?
+@5
+Then the work is divided like this.\nEveryone, do your best.\nI look forward to the results in a month.
+@6
+I hear {02}{0B}e is doing {02}yd in {02}{15}e.\nWe can't lose to them.
+@7
+I hear {02}{0B}e is doing {02}yd in {02}{15}e, and {02}{0C}e is doing {02}zd in {02}{16}e.\nWe can't lose to them.
+@8
+I hear {02}{0B}e is doing {02}yd in {02}{15}e.\nWe mustn't lose to them.
+@9
+I hear {02}{0B}e is doing {02}yd in {02}{15}e, and {02}{0C}e is doing {02}zd in {02}{16}e.\nWe mustn't lose to them.
+@10
+During the work you may visit other towns\nor stay at inns,\nbut be sure to return in a month...\nNow, begin the work!
+@11
+Master, we have arrived in {02}{15}e.\nPlease consider how\nwe should develop this town.
+@12
+In my opinion... {02}yd\nwould suit this town.\nWhat do you think?
+@13
+Develop {02}{15}e\nwith {02}yd?
+@14
+Then how shall we develop this town?
+@15
+Very well.\nThen let us develop this town with {02}yd.
+@16
+{02}yd may sound simple,\nbut it involves many tasks.\nPlease assign the work to your people.
+@17
+Is this division of work all right?
+@18
+Now...\nwhat shall I do?
+@19
+Now... to work.
+@20
+{02}=e raised the effect.
+@21
+How much more will you invest in {02}yd?
+@22
+The investment has raised\nthe effect of {02}yd.
+@23
+Ohoho,\nit looks to become a fine temple.
+@23.1
+How wonderful...\nOnce the temple is fine,\nI'll come and pray every day.
+@23.2
+Wow,\nthey're building a fine temple!\nCan I go too?
+@23.3
+Wow,\nare they making a new temple?
+@23.4
+It looks to be a fine temple.\nShall I pray there\nfor a good harvest?
+@23.5
+It looks to be a fine temple.\nIf I pray to the Buddha,\nthe next harvest is sure to be good.
+@23.6
+More people come from other towns\nto worship, and the town\nhas livened up.
+@23.7
+More people come from outside\nto worship, and the town\nhas livened up.
+@23.8
+Thanks to you it looks a fine temple.\nMay the Buddha's mercy\nbe upon {02}{0B}e.
+@23.9
+Thanks to {02}{0B}e,\nthere are more worshippers\nand I'm making money too.
+@23.10
+Thanks to more worshippers,\nbusiness has picked up.\nThat's {02}{0B}e for you.
+@23.11
+Eek!\nSo many more worshippers, I'm run off my feet.\nA happy kind of trouble.
+@23.12
+{02}{0B}e is doing well.\nThere are more worshippers\nand the town has livened up.
+@23.13
+{02}{0B}e is doing well.\nThere are more worshippers\nand the town has livened up.
+@23.14
+Hmm...\nI heard they were promoting the temples,\nbut there are hardly any worshippers.
+@23.15
+Hmph...\nI heard they were promoting the temples,\nbut there are hardly any worshippers.
+@23.16
+{02}{0B}e is sure\nto make it a fine temple.
+@24
+Hmm... I expected\na fine temple, but\nit's nothing special...
+@24.1
+What a dreary temple...\nI wouldn't want to be buried there.
+@24.2
+Temples... I don't like them much.\n
+@24.3
+Hey, hey,\nforget rebuilding temples,\nbuy me some rice cakes!
+@24.4
+That Buddha statue is so badly made...\n{02}{0B}e is sure to be punished.
+@24.5
+I heard they're fixing the temple...\nbut that's shoddy work.\n{02}{0B}e will be punished.
+@24.6
+Hardly any worshippers come.\nNo use hoping, I suppose.
+@24.7
+No worshippers are coming at all.\n{02}{0B}e,\nwhat's going on?
+@24.8
+I heard you would rebuild a fine temple\nand was looking forward to it, but...
+@24.9
+I heard if you left it to {02}{0B}e\nthere'd be more worshippers,\nbut is this it?
+@24.10
+I heard more worshippers would mean\nmore guests at my inn, but...\nwhat happened?
+@24.11
+I heard there'd be more worshippers.\nWhen are they coming?
+@24.12
+{02}{0B}e still has a long way to go.\nThis won't bring more worshippers.
+@24.13
+{02}{0B}e still has a long way to go.\nHoping to bring worshippers\nwith work like this...
+@24.14
+I heard they were promoting the temples,\nbut there are no worshippers at all.
+@24.15
+I heard they were promoting the temples,\nbut there are no worshippers at all.
+@24.16
+Temple promotion or not, this way\nthere won't be more worshippers.
+@25
+Ohoho,\nit seems a fine school is being built.
+@25.1
+It's nothing to do with the likes of me,\nbut it seems a fine building is going up.
+@25.2
+They're building something fine.\nWill it become a local attraction?
+@25.3
+Will they teach\nus to read here too?
+@25.4
+I wonder if even someone like me\ncould study...
+@25.5
+If only I could read...
+@25.6
+Scholar monks and students\nwill come from all over, I suppose.
+@25.7
+Makes me want to get\nsome learning too.
+@25.8
+Pursuing learning...\nit leads to the Buddha's way too.\nA fine deed indeed.
+@25.9
+I can do business with the samurai\nwho come here from all over to study...
+@25.10
+Can only samurai and monks study?\nI'd like to pursue learning too...
+@25.11
+The people at the school are so dreamy.\nI'd like to marry someone\nwho's learned.
+@25.12
+{02}{0B}e is doing well.\nPeople who heard the news\nare already gathering.
+@25.13
+{02}{0B}e is doing well.\nPeople who heard the news\nare already gathering.
+@25.14
+I heard they'd built a school,\nbut is this it?
+@25.15
+I heard they'd built a school,\nbut this is all?!\nIt's nothing much!
+@25.16
+So this is the school.\nI wonder if I could study too.
+@26
+Hmm...\nEven if one wished to study, this place...
+@26.1
+I don't have long left anyway.\nA place like this doesn't matter to me.\n
+@26.2
+School...? A place for learning?\n...I don't really get it.
+@26.3
+Heh... a place like this...\nkids of townsfolk like me\ncan't study anyway.
+@26.4
+Who needs learning?\nTilling the fields is enough.
+@26.5
+Never mind reading,\ntilling the fields matters more.
+@26.6
+It doesn't look like a very good school.\nI suppose the monks and samurai\nwho come are no good either...
+@26.7
+What?\nThey built a school?
+@26.8
+Not good enough yet.\nLearning needs many more books\nand people to teach them.
+@26.9
+Forget building schools nobody gets,\nspend big at the gambling den instead!
+@26.10
+So there's a school.\nHow does that change my life?
+@26.11
+A school?\nI don't really get it.
+@26.12
+I heard they were building a school,\nand this is it?
+@26.13
+I heard they were building a school,\nand this is all it is!\nNo scholar will come to this...
+@26.14
+Hee hee!\nI heard they built a school,\nbut it's nothing much.
+@26.15
+Hahaha!\nI heard they built a school,\nbut it doesn't look like much.
+@26.16
+If we live as we always have,\nwe don't need learning.
+@27
+Ohoho,\nwith more townhouses,\nthe town seems livelier.
+@27.1
+I'm glad the town's livening up.\nIt's good to have lots of people.\n
+@27.2
+Lots of people are moving here\nfrom other towns!\nI wonder what stories they'll tell...
+@27.3
+If more people move in,\nI'll have more playmates!
+@27.4
+With more townhouses,\nmore people will live here.
+@27.5
+More people living in this town...\nfeels like it's going to grow.
+@27.6
+Oh my,\nthings will get much more convenient.
+@27.7
+More residents means more visitors.\nIt's getting livelier and livelier.
+@27.8
+Fine townhouses are going up.
+@27.9
+Fine townhouses are going up.\nMore residents means more money for me.
+@27.10
+With townhouses and more people,\nit's a big help to me.
+@27.11
+Folk who heard about the townhouses\n{02}{0B}e built are staying with us.\nBusiness is booming!
+@27.12
+As the townhouses go up,\nthe flow of people will change.
+@27.13
+As the townhouses go up,\nthe flow of people will change.
+@27.14
+More townhouses, they said,\nand this is all?
+@27.15
+More townhouses, they said,\nand this is all?
+@27.16
+With more townhouses,\nmore people will come\nand the town will be lively.
+@28
+It doesn't look like it will grow much.
+@28.1
+Doesn't matter if this town gets crowded.\nWell, do your best anyway.
+@28.2
+Does more houses really make a town better?\n...I don't get it.
+@28.3
+A shabby town like this...\nmore houses won't make anyone move here.
+@28.4
+More townhouses won't change\nhow we live.
+@28.5
+More townsfolk doesn't\nhave much to do with us.
+@28.6
+I thought more townhouses\nwould mean more people living here,\nbut nothing much has changed.
+@28.7
+I thought I'd move here\nonce there were more townhouses,\nbut it's not there yet...
+@28.8
+A good town is one people\nare drawn to naturally. Strive on.
+@28.9
+I thought more townhouses meant more\npeople and more money for me...
+@28.10
+Townhouses like those...\nwon't bring more people.
+@28.11
+I thought more townhouses meant more\nvisitors and more customers, but\nit's not going as I hoped.
+@28.12
+It's far from a pleasant town yet.\nWork harder.
+@28.13
+It's far from a pleasant town yet.\nI'd like a bit more effort.
+@28.14
+Townhouses, they said,\nand this is all?\nThis is no rival for us.
+@28.15
+Townhouses, they said,\nand this is all?\nNo rival for us.
+@28.16
+Townhouses like these\nwon't draw people.
+@29
+Ohoho,\nfestivals are splendid after all...
+@29.1
+However old you get, festivals lift the heart.\nI'm as excited as a girl.
+@29.2
+Festival, festival, what fun!\nOh, hey, hey, buy me that too!
+@29.3
+Festivals are so exciting!\nI wish they'd go on forever.
+@29.4
+Festivals are fun.\nI forget my daily cares.
+@29.5
+Festivals are fun!\nToday I'm going to let loose.
+@29.6
+Festivals really are nice.\nThe town livens up.
+@29.7
+Festivals are great.\nLots of people from other towns came to watch.
+@29.8
+People's faces are full of life.\nThis too is a blessing.
+@29.9
+With the festival, lots of people come to drink.\nBusiness is booming, thank goodness.
+@29.10
+I can't work at a time like this.\nI'm joining the festival too.
+@29.11
+People are gathering for the festival.\nWe have more guests and we're so busy.
+@29.12
+{02}{0B}e is doing well.\nThe townsfolk seem happy.
+@29.13
+{02}{0B}e is doing well.\nThe townsfolk seem happy.
+@29.14
+Hmm... a festival.\nWell, it's nothing much...
+@29.15
+Hmph... a festival.\nWell, it's nothing much...
+@29.16
+Festivals are fun.
+@30
+What a dull festival...
+@30.1
+What a feeble festival.\nI'd better go home and make supper...
+@30.2
+It's a festival, but...\nit's not much fun.\nI'm going home.
+@30.3
+This is boring...\nLiven it up more!
+@30.4
+I came for the festival,\nbut it's not very lively.
+@30.5
+Not much of a festival.\nAnd I was looking forward to it.
+@30.6
+I was looking forward to the festival,\nbut it's not very lively.
+@30.7
+Not many people at this festival.
+@30.8
+A festival, and yet\nhardly anyone has come...
+@30.9
+I thought a festival would\nsell lots of sake...\nbut no customers came.
+@30.10
+I went to the festival,\nbut it wasn't lively.
+@30.11
+I was counting on visitors from outside...\nNobody comes to a festival\nthis dreary.
+@30.12
+{02}{0B}e...\nis this it?\nThe townsfolk are disappointed.
+@30.13
+{02}{0B}e,\nis this it?\nNo visitors from other towns, it seems...
+@30.14
+Being {02}{0B}e, I knew\nit would be no more than this\nfrom the start.
+@30.15
+Being {02}{0B}e, I knew\nit would be no more than this\nfrom the start.
+@30.16
+What a dreary festival.
+@31
+Fine tea from beautiful tea ware...\nI shall savor it too...
+@31.1
+I can't really tell the taste,\nbut it's a soothing event.
+@31.2
+Is it true that learning tea\nmakes you a graceful lady?
+@31.3
+It's too bitter for me,\nbut it looks fun.
+@31.4
+I'd like to join a tea gathering too.
+@31.5
+Tea...\nsounds tasty.
+@31.6
+Just once, I'd like to drink\nthe expensive tea they serve\nat this gathering.
+@31.7
+Just once, I'd like to drink\nthe expensive tea they serve\nat this gathering.
+@31.8
+The spirit of wabi and sabi\nis one with the Buddhist way.
+@31.9
+Tea is tasty.\nMaybe I'll serve it to my guests.
+@31.10
+People are coming for the gathering.\nThe town's livelier, and it should\nhelp my business too.
+@31.11
+Tea masters and merchants at the gathering\nhave my inn run off its feet!
+@31.12
+This truly deserves the name\ngrand tea gathering.\nYou've worked hard to get here.
+@31.13
+This truly deserves the name\ngrand tea gathering.\nWell done getting this far.
+@31.14
+Hmm... a grand tea gathering, I heard,\nbut it's nothing much...
+@31.15
+Hmph... a grand tea gathering, I heard,\nbut it's nothing much...
+@31.16
+Tea gatherings are elegant\nand lovely.
+@32
+A grand tea gathering in name only?\nHow disappointing...
+@32.1
+Tea is a rich man's hobby.\nLet them enjoy it while\nus common folk sweat away.
+@32.2
+Tea is bitter, yuck!\n
+@32.3
+Everyone drinking tea from shabby bowls...\nwhat's fun about that?
+@32.4
+A tea gathering?\nNothing to do with me.
+@32.5
+What's good about that bitter stuff?
+@32.6
+I had some tea too,\nbut it wasn't very good.
+@32.7
+I had some tea too,\nbut it wasn't very good.
+@32.8
+I had tea as well,\nbut the ceremony was nothing to praise.
+@32.9
+They said the bowl I had appraised\nwas a good one...\nThat tea master is suspicious.
+@32.10
+A tea gathering?\nIt's nothing to do with my business.
+@32.11
+The tea master staying at my inn\nseems rather shady...\nI hope it's all right.
+@32.12
+It's too sparse for a grand gathering.\nTry harder.
+@32.13
+It's too small to call\na grand gathering... Strive harder.
+@32.14
+I came to the grand tea gathering,\nbut it's {02}{0B}e, so this is it.
+@32.15
+I came to the grand tea gathering,\nbut it's {02}{0B}e, so this is it.
+@32.16
+Tea gatherings are duller than I thought.
+@33
+Ohoho,\nI hear rare goods are sold at the free market.\nPerhaps I shall go and see.
+@33.1
+Getting things from far away without\ngoing to other towns... handy times.\nOh, should I buy that too?
+@33.2
+Hee hee,\nthey sell all sorts!\nOh, buy me that too!
+@33.3
+All kinds of people from all kinds\nof places selling all kinds of things.\nI want lots of stuff!
+@33.4
+I hear there are all sorts of rare things...\nI'd like to go to the free market.
+@33.5
+Rare goods from all over,\nthey say.\nI want to go to this free market too.
+@33.6
+Things you can't get in this town\nyou can get at the free market.\nIsn't that amazing?
+@33.7
+Anyone can do business?\nSounds fun!
+@33.8
+The free market has brought\nthe people new life.
+@33.9
+With the free market, peddlers\ncome from all over and I'm making money.
+@33.10
+Maybe because the market livened\nthings up, my business is doing well.
+@33.11
+With the market, the town's livened up.\nMy inn's busy with more guests.
+@33.12
+The town is bursting with life.\nKeep it up.
+@33.13
+The town is bursting with life.\nMany peddlers come from all over, it seems.\nKeep it up.
+@33.14
+I heard a market opened and came,\nbut it's nothing much.\nNo match for us.
+@33.15
+I heard a market opened and came,\nbut it's nothing much.\nNo match for us.
+@33.16
+Rare goods from all over...\njust looking is fun.
+@34
+I heard a market opened and came,\nbut what a sparse market...
+@34.1
+Not much different from the usual goods.\nNo point coming all the way to market.\nGood grief...
+@34.2
+Nothing I really want...\nBoring.
+@34.3
+There's nothing at all\nthat I want.\nBoring.
+@34.4
+Since {02}{0B}e started the free market,\nthe town's grown less safe.
+@34.5
+No great finds.\nNot many peddlers seem to have come.
+@34.6
+I thought I could buy all sorts\nof things from other lands... but\nthere are no great finds.
+@34.7
+Fewer peddlers and customers\nthan I expected.
+@34.8
+Whatever market opens,\nit's nothing to one who serves the Buddha...
+@34.9
+If lots of traveling merchants came,\nI'd make money too...
+@34.10
+The market's open but nobody comes.\nIsn't it badly advertised?
+@34.11
+They say a market livens things up...\nI wonder when that'll happen.
+@34.12
+Nobody seems to be coming.\nGather peddlers, advertise...\nyou need to try harder.
+@34.13
+Nobody seems to be coming.\nGathering peddlers, advertising...\nyou're not trying hard enough.
+@34.14
+A market like this\nis no match for our house.\nA pity.
+@34.15
+A market like this\nis no match for our house.\nA great pity.
+@34.16
+I heard a market brings rare goods,\nbut there's nothing good here.
+@35
+Ah, {01}C1{00}.\nI just wrestled in the sumo and won.\nGood exercise, after so long.
+@36
+Ah, you're with {02}{0B}e.\nLord {02}{03}g came earlier\nand gave us a blessed sermon.\nThe worshippers were delighted.
+@37
+Donate the lumber you have\nfor the temple renovation?\n(You can only donate once.)
+@38
+Donated lumber for the temple renovation.\n{02}{02}g's results improved.
+@39
+Ah, you're with {02}{0B}e... A sculptor sent by Lord {02}{03}g came earlier and is carving a Buddha. What a blessing...
+@40
+Donate the books you have\nto the library being built?\n(You can only donate once.)
+@41
+Donated books to the new library.\n{02}{02}g's results improved.
+@42
+Ah, you're with {02}{0B}e.\nThe scholar monks Lord {02}{03}g\nintroduced have arrived.\nNow students will come from all over.
+@43
+Ah, you're with {02}{0B}e. A Western missionary introduced by Lord {02}{03}g has arrived. A school teaching not only Japanese and Chinese classics but Western learning too... how unusual.
+@44
+Ah, you're with {02}{0B}e. From Lord {02}{03}g came a truly splendid plaque bearing the name of the new school. It will be a famous sight for generations.
+@45
+Phew... digging sewers is tiring.\nBut it's for the town's growth.
+@46
+Oh, you're with {02}{0B}e.\n\n\nA person called {02}{03}g sent\nlots of hoes for digging the canal.\nIt was a big help.
+@47
+Donate the lumber you have\nfor building the townhouses?\n(You can only donate once.)
+@48
+Donated the lumber.\n{02}{02}g's results improved.
+@49
+Phew... digging wells is tiring.\nBut it's for the town's growth.
+@50
+Oh, {02}{02}g.\nAs you asked, the townsfolk\nare enjoying the kabuki dance.
+@51
+Well, it's as beautiful as they say.\nThe kabuki dance of Izumo no Okuni's troupe...\nhow marvelous.
+@52
+You! Where are you looking?!\nHonestly...
+@53
+Ahh, what a fun festival.\nThe dengaku is getting lively too.
+@54
+Offer the rare goods you have\nthat aren't sold in this town to the stalls?\n(You can only offer once.)
+@55
+Offered {02}Ge to the stalls.\n{02}{02}g's results improved.
+@56
+{02}yd at {02}o{C8} each.\nHow many will you offer?
+@57
+Treat the festival-goers\nto the sake you have?\n(You can only do this once.)
+@58
+Treated the festival-goers to sake.\n{02}{02}g's results improved.
+@59
+Ah, {01}C1{00}.\nI'm attending the grand tea gathering.\nThere's some rare tea ware here.
+@60
+Offer the tea ware you have\nfor the gathering's guests?\n(You can only offer once.)
+@61
+Gave tea ware to the gathering's guests.\n{02}{02}g's results improved.
+@62
+Ah, Lord {02}{02}g.\nI'm attending the grand tea gathering.\nIt's quite a success.
+@62.1
+Ah, Lord {02}{02}g.\nI'm attending the grand tea gathering.\n\nI'm impressed by how keen everyone is.
+@63
+Offer the fine tea you have\nfor the gathering's guests?\n(You can only offer once.)
+@64
+Offered the tea.\n{02}{02}g's results improved.
+@65
+Wow, what a crowd.\nI'm making money at the free market.
+@66
+{02}{02}g's merit rose.
+@67
+{01}C1{00}, {02}{0B}e is now\nholding a grand tea gathering in {02}{15}e.\n\nWe'd love {01}C1{00}, a renowned tea master, to attend.
+@68
+Thank you for the invitation,\nbut I am very busy...\nso I must decline this time.\nFarewell.
+@68.1
+Thank you for the invitation,\nbut {01}C{0E}{00} am busy,\nso I must decline this time...\nFarewell.
+@69
+Since {01}C1{00} asks,\nI accept...\nI'll attend the gathering in {02}{15}f.
+@69.1
+Since {01}C1{00} asks,\nI accept...\nI'll attend the gathering in {02}{15}f.
+@70
+Ah, thank you...\nThen we'll be waiting in {02}{15}f.
+@71
+Phew, that's enough tea invitations.
+@71.1
+Phew, that should be enough tea invitations.
+@72
+Oh, they're out...\nRight, I invited them to the votive sumo.
+@72.1
+Hm, they're out...\nRight, I invited them to the votive sumo.
+@73
+{01}C1{00}, {02}{0B}e is promoting\nthe temples in {02}{15}e and holding\nvotive sumo to raise donations.\nWould {01}C1{00}, famed for martial skill, take part?
+@74
+Thank you for the invitation,\nbut {01}C{0E}{00} am busy...\nso I must decline this time.\nFarewell.
+@75
+Since {01}C1{00} asks,\nI'll take part in the votive sumo in {02}{15}e.
+@76
+Ah, thank you.\nThen, in {02}{15}f.
+@77
+Phew, that's enough\nsumo invitations.
+@77.1
+Phew, that should be enough\nsumo invitations.
+@78
+(Shall I gather well diggers\n for {02}{15}e...)
+@78.1
+(Shall I gather well diggers\n for {02}{15}e...)
+@79
+Hm? Who are you?
+@80
+I'm with {02}{0B}e... On your lord's orders we are developing {02}{15}e, but we lack hands to dig the townhouse wells. Could your foot soldiers lend us aid?
+@81
+Very well... if it's developing the town\non our lord's orders, we must help.
+@82
+Oh! Thank you very much.\nThen we'll be waiting.
+@82.1
+Oh! Thank you very much.\nThen we'll be waiting.
+@83
+{02}o{CB} foot soldiers gathered.\n{02}{02}g's merit rose.
+@84
+What are you saying... We have the important\nduty of guarding the castle.\nWe can't go digging wells!
+@85
+Is that so...\nA pity.
+@86
+Not many gathered.
+@87
+Phew, that's about all the\nwell diggers I'll get.
+@87.1
+Phew, that's about all the\nwell diggers I'll get.
+@88
+Everyone, a free market hosted by\n{02}{0B}e is now open in {02}{15}e.\nPlease do come!
+@88.1
+Everyone, a free market hosted by\n{02}{0B}e is now open in {02}{15}e.\nPlease do come!
+@89
+{02}{15}e is far...\nAnd {02}{0B}e is doing lots for\nthis town right now, so I can't go.
+@90
+Oh, don't say that,\njust take a look...
+@90.1
+Oh, don't say that,\njust take a look...
+@91
+The advertising had little effect.
+@92
+Oh, sounds interesting.\nRight, I'll go next time.
+@93
+We'll be waiting for you all.
+@94
+Sorry... I'm not very interested.
+@95
+Phew, that's enough\nadvertising for the free market.
+@95.1
+Phew, that should be enough\nadvertising for the free market.
+@96
+(Shall I gather sewer diggers\n at this tavern...)
+@96.1
+(Shall I gather sewer diggers\n at this tavern...)
+@97
+Everyone, {02}{0B}e is building\ntownhouses in {02}{15}e and needs\nhands to build sewers.\nIs anyone willing to work?
+@97.1
+Everyone, {02}{0B}e is building\ntownhouses in {02}{15}e and needs\nhands to build sewers.\nIs anyone willing to work?
+@98
+{02}{0B}e is developing\nthis town too right now...\nTry another town.
+@99
+I see...
+@99.1
+I see...
+@100
+Oh! I'm in on that.\nI was looking for work that pays.
+@101
+Maybe I'll give it a go too.\nMy travel money's running out...
+@102
+Great!\nWe'll be waiting for you all.
+@102.1
+Great!\nWe'll be waiting for you all.
+@103
+{02}o{CB} people gathered.\n{02}{02}g's merit rose.
+@104
+Shut up! I'm drinking good sake,\ndon't talk to me about sewers!
+@105
+Not many gathered.
+@106
+Phew, that's about all the\nsewer workers I'll get.
+@106.1
+Phew, that's about all the\nsewer workers I'll get.
+@107
+(Shall I buy sake\n to serve at the festival...)
+@107.1
+(Shall I buy sake\n to serve at the festival...)
+@108
+(An inn... there may be peddlers\n who'd come to the free market.\n Shall I ask?)
+@108.1
+(An inn... there may be peddlers\n who'd come to the free market.\n Let me ask.)
+@109
+Ma'am, {02}{0B}e is holding\na free market in {02}{15}e...\n\nAre any of your guests peddlers\nwho might come?
+@109.1
+Ma'am, {02}{0B}e is holding\na free market in {02}{15}e...\nAre any of your guests peddlers\nwho might come?
+@110
+No, there aren't... {02}{0B}e is\ndeveloping this town too right now...\nYou'd better try another town.
+@111
+I see...
+@111.1
+I see...
+@112
+A free market, you say? Sounds fun!\nRight, I'll go next time!
+@113
+I'll drop in next time I'm in {02}{15}e.
+@114
+Everyone! We'll be waiting!
+@114.1
+Great!\nWe'll be waiting for you all.
+@115
+No, there aren't... right now this town\nhas folk who've tried other towns...
+@116
+Phew, that's about all the peddlers\nI can invite to the free market.
+@116.1
+Phew, that's about all the peddlers\nI can invite to the free market.
+@117
+(An inn...\n there may be traveling dengaku dancers.\n Shall I ask?)
+@117.1
+(An inn... there may be traveling\n dengaku dancers. Let me ask.)
+@118
+Ma'am, {02}{0B}e is holding\na festival in {02}{15}e and wants\nto put on dengaku...\nAre any of your guests able\nto dance it?
+@118.1
+Ma'am, {02}{0B}e is holding\na festival in {02}{15}e and wants\nto put on dengaku...\nAre any of your guests able\nto dance it?
+@119
+No, there aren't... {02}{0B}e is\ndeveloping this town too right now...\nYou'd better try another town.
+@120
+I see...
+@120.1
+I see...
+@121
+Eh, a festival? Sounds fun!\nDengaku is our specialty.
+@122
+I'll go too.
+@123
+Yes!\nWe'll be waiting for you all!
+@123.1
+Great!\nWe'll be waiting for you all.
+@124
+No, there aren't, this town has...\nfolk who've tried other towns...
+@125
+Phew, that's about all the\ndengaku preparation for the festival.
+@125.1
+Phew, that's about all the\ndengaku preparation for the festival.
+@126
+Oh, they're out...\nRight, I asked them for the kabuki dance.
+@126.1
+Hm, they're out...\nRight, I asked them for the kabuki dance.
+@127
+{02}{02}f,\n{02}{0B}e is holding a festival\nin {02}{15}e right now...\nWe'd like the townsfolk to see\nthe kabuki dance of the {02}{02}f troupe. Would you?
+@127.1
+{02}{02}f,\n{02}{0B}e is holding a festival\nin {02}{15}e right now...\nWe'd like the townsfolk to see\nthe kabuki dance of the {02}{02}f troupe. Would you?
+@128
+It's a kind offer, but...\nwe're busy too...\nand our next venue is decided,\nso we must decline this time.
+@129
+Hee hee, very well.\nSince it's {02}{02}g asking,\nthe kabuki dance of {02}{01}f's troupe\nshall be shown to the people of {02}{15}f.
+@130
+Thank you very much.\nThe townsfolk will be delighted.
+@130.1
+Ah, thank you.\nThe townsfolk will be delighted.
+@131
+You're with {02}{0B}e.\nOur shop and {02}{0B}e are competing\nfor merchant chief right now...\nI'm sorry, but please leave.
+@132
+You're with {02}{0B}e.\nI'm sorry, but our shop can't help\n{02}{0B}e become merchant chief.\nPlease leave.
+@133
+Ah, how is {02}{15}f's development going?\nBe sure to win the merchant chief post.
+@134
+(If I buy lots of books and donate them\n to the school, the students will be glad...)
+@134.1
+(If I buy lots of books and donate them\n to the school, the students will be glad...)
+@135
+Oh, they're out...\nRight, I invited them to the tea gathering.
+@135.1
+Hm, they're out...\nRight, I invited them to the tea gathering.
+@136
+{01}C1{00}, {02}{0B}e is holding\na grand tea gathering in {02}{15}e.\n\nWe'd like to hold an appraisal of\nthe tea ware everyone brings, and\nwould love {01}C1{00}, a famed tea master, to join...
+@136.1
+{01}C1{00}, {02}{0B}e is holding\na grand tea gathering in {02}{15}e.\n\nWe'd like to hold an appraisal of\nthe tea ware everyone brings, and\nwould love {01}C1{00}, a famed tea master, to join...
+@137
+Thank you for the invitation,\nbut I am busy, so I must\ndecline this time... Farewell.
+@138
+Since {01}C1{00} asks,\nI accept...\nI may come across rare tea ware.
+@139
+Thank you very much.\nThen we'll be waiting in {02}{15}f.
+@139.1
+Ah, thank you.\nThen we'll be waiting in {02}{15}f.
+@140
+Phew, that's enough\ntea ware appraisal requests.
+@140.1
+Phew, that should be enough\ntea ware appraisal requests.
+@141
+(If I buy lots of tea ware for the\n gathering, many people may\n take up tea...)
+@141.1
+(If I buy lots of tea ware for the\n gathering, many people may\n take up tea...)
+@142
+Oh, they're out...\nRight, I asked them for a sermon.
+@142.1
+Hm, they're out...\nRight, I asked them for a sermon.
+@143
+Reverend, {02}{0B}e is trying\nto make the temples of {02}{15}e flourish...\nSo we hoped you might chant sutras\nand give sermons to the worshippers...
+@143.1
+Reverend, {02}{0B}e is trying\nto make the temples of {02}{15}e flourish...\nSo we hoped you might chant sutras\nand give sermons to the worshippers...
+@144
+It's a kind offer, but...\nthis humble monk has been busy of late.\nPlease ask me another time.
+@145
+If {01}C1{00} asks,\nI cannot refuse.\n\nIf my humble words will do,\nI shall visit {02}{15}e.
+@146
+Thank you very much.\nThe worshippers will be glad.
+@146.1
+Ah, thank you.\nThe worshippers will be glad.
+@147
+Phew, inviting this many eminent monks\nshould be enough.
+@147.1
+Phew, inviting this many eminent monks\nshould be enough.
+@148
+{02}{0B}e is building a school in {02}{15}e... and needs teachers of Chinese classics and sutras. Do you know a scholar who could teach Chinese?
+@148.1
+Reverend, {02}{0B}e is building a school in {02}{15}e... and needs teachers of Chinese classics and sutras. Do you know a scholar who could teach the sons of good houses?
+@149
+Sadly... I know no scholar monk\nwho fits your wish.\nI'm sorry I cannot help.
+@150
+In that case... several of my fellow monks\nexcel in learning.\nI shall send them to {02}{15}e.
+@151
+Thank you very much.\nNow more students will come from all over.
+@151.1
+Ah, that's welcome.\nNow more students will come from all over.
+@152
+Phew, inviting this many scholar monks\nshould be enough.
+@152.1
+Phew, inviting this many scholar monks\nshould be enough.
+@153
+(Digging canals needs lots of hoes.\n Shall I have them made here...?)
+@153.1
+(Digging canals needs lots of hoes.\n Shall I have them made here...?)
+@154
+You see, {02}{0B}e is trying to improve\nthe canals in {02}{15}e and needs\nlots of hoes for it.
+@154.1
+You see, {02}{0B}e is trying to improve\nthe canals in {02}{15}e and needs\nlots of hoes for it.
+@155
+Ah, I'm swamped with work,\nso I can't make new ones.\nI've got about {02}o{CB} here. Want them?
+@156
+I'll knock it down to 25 kan each.\nLet's see... that's {02}o{C8} in all.\nWill you buy?
+@157
+I see... well, fine.
+@158
+Whoops, looks like you're short of money.\nNext time, then.
+@159
+Right, got it!\nI'll send them to {02}{15}f.
+@160
+Arranged {02}o{CB} hoes for the canal work.\n{02}{02}g's merit rose.
+@161
+Phew, this many tools\nshould be enough.
+@161.1
+Phew, this many tools\nshould be enough.
+@162
+{01}C1{00}, {02}{0B}e is renovating\nthe temples of {02}{15}e.\n\nWe're looking for a sculptor to carve\nnew Buddha statues... Do you know\nof a good one?
+@163
+Hmm... all the skilled sculptors are busy...\nI'm afraid you must look elsewhere.
+@164
+Since Lord {02}{02}f asks...\nI'll introduce a skilled sculptor.\n\nShall I send them to {02}{15}f?
+@165
+Thank you very much.\nIt'll be a fine attraction for {02}{15}f.
+@165.1
+Ah, thank you.\nIt'll be a fine attraction for {02}{15}f.
+@166
+{01}C1{00}, {02}{0B}e is building\na great school in {02}{15}e...\nWe want a plaque worthy of a hall\nof learning on the main gate,\nand we'd like you to write its characters.
+@167
+No, no, my clumsy hand would only\nsully the school's name.\nPlease, excuse me from that...
+@168
+Since Lord {02}{02}e asks...\nI'll write it with all my skill.\n\nI'll send the plaque to {02}{15}e when done.
+@169
+Thank you very much.\nIt'll be a fine attraction for {02}{15}e.
+@169.1
+Ah, thank you.\nIt'll be a fine attraction for {02}{15}e.
+@170
+Lord {02}{02}g, we are building a school\nin {02}{15}e... and we want Western\nlearning taught there too... Do you know\nanyone who can teach it?
+@171
+Oh, I'm sorry... I know no missionary\nwho fits your wish.\nSo sorry.
+@172
+Oh! Gladly!\nI'll send a missionary\nto {02}{15}f right away!
+@173
+Thank you very much.\nNow more students will come from all over.
+@173.1
+Ah, that's welcome.\nNow more students will come from all over.
+@174
+Phew, inviting this many missionaries\nshould be enough.
+@174.1
+Phew, inviting this many missionaries\nshould be enough.
+@175
+(I could serve Western liquor\n at the festival...)
+@175.1
+(I could serve Western liquor\n at the festival...)
+@176
+Ah, you're with {02}{0B}e.\nI usually run this guild, but\nthe free market keeps me busy too.
+@176.1
+Ah, you're with {02}{0B}e.\nYou're busy with the merchant chief race, right?\nDon't hang around here, get back to work.
+@177
+Ah, you're with {02}{0B}e.\nSorry, but I'm helping {02}{0C}e right now,\nso I won't trade with {02}{0B}e's people.
+@178
+(Building townhouses needs lots of lumber...\n I could buy some here.)
+@178.1
+(Building townhouses needs lots of lumber...\n I could buy some here.)
+@179
+(Renovating temples needs lots of lumber...\n I could buy some here.)
+@179.1
+(Renovating temples needs lots of lumber...\n I could buy some here.)
+@180
+(Shall I buy the tea\n for the grand gathering here?)
+@180.1
+(Shall I buy the tea\n for the grand gathering here...)
+@181
+Tch!\nIsn't this town having a free market?!\nSell to me too, for free!
+@181.1
+Tch! Some free market!\nYou don't sell anything good!\nI'm not paying for this stuff!
+@181.2
+Hey, hey! It's a free market!\nSell me stuff you don't usually sell!\nOnly, I've got no money! Gahaha!
+@181.3
+Hey, it's a free market, right?\nAnyone's allowed to trade!\nWhy won't anyone buy my stuff?!
+@181.4
+What?!\nYou say I stole something?!\nThat's a false accusation!
+@182
+Good grief, what a troublesome customer...
+@182.1
+That's as may be,\nbut no payment, no business.
+@182.2
+Good grief, what a troublesome customer...
+@182.3
+Not things that are plainly stolen...\nGive me a break, mister.
+@182.4
+Lots of people saw you\nsteal it, you know.\nHurry and give it back.
+@183
+(Ah... someone is disrupting the market.\n Shall I drive them off...?)
+@183.1
+(Hm... someone is disrupting the market.\n Shall I drive them off...?)
+@184
+The free market was disrupted.\n{02}{02}g's merit fell slightly.
+@185
+Excuse me...\nYou're bothering the other customers.\nWould you leave the market?
+@186
+What?! You!\nWant a fight? Bring it on!\nStep outside!
+@187
+Ugh...
+@188
+Hah! Learned your lesson?\nSee ya!
+@189
+You all right...?\nDon't push yourself.
+@190
+Damn! You'll pay for this!
+@191
+Now, everyone... sorry for the commotion.\nPlease enjoy shopping at the free market!
+@192
+Drove off a ruffian disrupting the market.\n{02}{02}g's merit rose.
+@193
+Oho...\nWith the merchant chief post at stake...\n\nSo you want me to hinder\n{02}{0B}e's efforts\nto develop {02}{15}e...?
+@194
+Oho... with the merchant chief post at stake.\nSo which merchant house do you want me to hinder...?
+@195
+Hm, so you want me to hinder\n{02}{0B}e's efforts\nto develop {02}{15}e...?
+@196
+I'd want 5000 kan for the job...\nbut it seems you don't have it.\nBetter give up this time.
+@197
+Hm... then the fee is 5000 kan.\nAgreed?
+@198
+I see.\n...Well, very well.
+@199
+Sorry... I owe {02}{0C}e\nmore than {02}{0B}e,\nso I can't take that job... Forgive me.
+@200
+Very well...\nWait there, then.\nI'll send my people to {02}{15}e.
+@201
+Heh heh... it seems to have worked.\n{02}{0B}e's lot were in a panic.
+@202
+{02}{0B}e's work in {02}{15}e was\nhindered and its development fell.
+@203
+Hmm... sorry.\n{02}{0B}e was well guarded...\nThe sabotage didn't work as well as hoped.
+@204
+The development of {02}{15}e,\nhandled by {02}{0B}e, fell slightly.
+@205
+Oh, it's you.\nIs your work for {02}{0B}e all right?
+@206
+Whoops... today is the town development\ndeadline. Back to town.
+@207
+Well, today is the deadline.\nEveryone, you did well.\nLet's report the results to {02}{0B}e's lord.
+@208
+No, no, no need for that.\nSplendid development, {02}{0B}e!
+@209
+My lord!\nTo come all the way\nto a place like this...
+@210
+With results like these,\nI must appoint you merchant chief.\nHahaha!\nI name {02}{0B}e merchant chief of {02}yd.\nKeep up the good work.
+@211
+Yes, sir...\nI'm deeply grateful!
+@212
+Well, I'll be off.\nFarewell.
+@213
+Yes...\n\n\nEveryone, you did well.\nIt's all thanks to you.
+@214
+Lord {02}{0B}e, thank you for your work.\nQuite splendid development... but\nour lord is not satisfied.\nIt seems he expected a little more of you.
+@215
+...Meaning?
+@216
+Yes, sadly the merchant chief post\nhas been passed over this time.\nI'm sorry.
+@217
+...I see.\nIs that so.\nOur efforts fell short...
+@218
+There will be another chance.\nNow, I'll take my leave.
+@219
+...Hmm, a pity.
+@220
+No, no, no need for that.\nSplendid development, {02}{0B}e!\nYou did the best work of all.
+@221
+Lord {02}{0B}e, thank you for your work.\nQuite splendid development... but\n\nsadly, {02}{0C}e did better work.\nIt was a very narrow margin...
+@222
+Lord {02}{0B}e, thank you for your work.\nQuite splendid development... but\n\nsadly, {02}{0C}e did better work.
+@223
+{02}{02}g,\na message from the master:\n\n"Leaving your post and missing\nthe deadline! Outrageous!"\nHe seemed very angry.
+@224
+I'm very sorry.\nSo what happened with the merchant chief post?
+@224.1
+Ugh... I'm sorry.\nSo what happened with the merchant chief post?
+@225
+Rejoice... {02}{0C}e recognized\n{02}{0B}e's work and appointed us\nmerchant chief of {02}yd.
+@226
+Oh... wonderful.\nSo our house's ability was recognized.\nThe master will be pleased.
+@226.1
+Oh... wonderful.\nSo our house's ability was recognized.\nThe master will be pleased.
+@227
+{02}{0B}e was appointed\nmerchant chief of {02}yd.\n\n{02}{02}g's merit rose by {02}o{CB}.
+@228
+Sadly... {02}{0C}e judged\n{02}{0B}e's work insufficient, and\nthe merchant chief of {02}yd is on hold...
+@229
+I see... a pity.\nI should have tried harder...
+@229.1
+What... a pity.\nI should have tried harder...
+@230
+{02}{0B}e was not appointed\nmerchant chief of {02}yd.\n\n{02}{02}g's merit\nrose by only {02}o{CB}.
+@231
+Sadly... {02}{0C}e did better than us,\nand {02}{0C}e was appointed merchant chief\nof {02}yd, I hear.
+@232
+{02}{02}g,\na message from {02}{0B}e's lord:\n\n"Leaving your post and missing\n the deadline! Outrageous!"\nHe seemed very angry.
+@233
+I'm very sorry.\nSo what happened with the merchant chief post?
+@233.1
+Ugh... I'm sorry.\nSo what happened with the merchant chief post?
+@234
+Oh... wonderful.\nSo our house's ability was recognized.\nI must thank our lord too.
+@235
+{02}{0B}e was appointed merchant chief of {02}yd.
+@236
+{02}{0B}e was not appointed\nmerchant chief of {02}yd.
+@237
+This time, the top performer is... {01}C{0E}{00}.\nWell, fine... Dismissed!
+@237.1
+This time, the top performer is... {01}C1{00}.\nWell done.\n...Dismissed!
+@238
+Hmm... {02}{0B}e seems to be\nputting effort into {02}yd.
+@238.1
+Hm... {02}{0B}e seems to be\nputting effort into {02}yd.
+@239
+The {02}yd that {02}{0B}e is running\nseems to be going fairly well.
+@239.1
+The {02}yd that {02}{0B}e is running\nseems to be going fairly well.
+@240
+Hmm... I can't even sabotage without funds.\nI need at least 1000 kan...
+@240.1
+Hmm... I can't even sabotage without funds.\nI need at least 1000 kan...
+@241
+To hinder the temple promotion...\nI know, I'll hide the Buddha statue.\nHey, you there!
+@241.1
+To hinder the temple promotion...\nI know, I'll hide the Buddha statue.\nYou there!
+@242
+What?\nWant something with me?
+@243
+I have a little favor to ask...\nI'll pay 1000 kan.\nYou see, secretly......
+@243.1
+I have a little favor to ask.\nI'll pay 1000 kan.\nSecretly......
+@244
+Oho... sounds fun.\nRight, leave it to me.
+@245
+Swish
+@246
+Hehehe... it worked.\nThey're running around in a panic.
+@247
+Well done... now {02}{0B}e's results\nwill surely fall... hee hee.
+@247.1
+Well done... now {02}{0B}e's results\nwill surely fall... heh heh.
+@248
+The development of {02}{15}e,\nhandled by {02}{0B}e, fell by {02}o{CB}.
+@249
+Ah, you... who are you?!\nWhat are you doing with that Buddha?!
+@249.1
+Hm, you... who are you?!\nWhat are you doing with that Buddha?!
+@250
+D-damn!\nOw ow ow! L-let go!\nI won't do it again... forgive me!
+@251
+Tch... he blew it!\nI can't stay here... I'd better run too.
+@251.1
+Tch... he blew it! The fool!\nI can't stay here... I'd better run too.
+@252
+Failed to hinder {02}{0B}e.
+@253
+I'll spread bad rumors\nabout the school {02}{0B}e is building...
+@253.1
+I'll spread bad rumors\nabout the school {02}{0B}e is building...
+@254
+Ah, excuse me.\nHave you heard the rumor\nabout the new school?
+@254.1
+Ah, excuse me.\nHave you heard the rumor\nabout the new school?
+@255
+Hm? Is there\nsome bad rumor?
+@256
+It's simply awful...\nExcuse me, but would you use\nthis 1000 kan to spread it around?
+@256.1
+Oh, it's simply awful...\nExcuse me, but would you use\nthis 1000 kan to spread it around?
+@257
+Really... I didn't know.\nNo one could study in a place like that.
+@258
+Honestly... what a terrible thing\nfor {02}{0B}e to do......
+@259
+(Hee hee... it worked.\n Now {02}{0B}e's results will plummet.)
+@259.1
+(Heh heh... it worked.\n Now {02}{0B}e's results will plummet.)
+@260
+That's awful! Hey...
+@261
+Everyone, don't be fooled by bad rumors.\nThe new school will teach Confucian\nand Western learning alike...\nSamurai are already gathering from all over.
+@262
+Well, so that rumor was a total lie.\nIf I were a samurai, I'd like to study there...
+@263
+(Tch... I failed!\n I can't stay here... I must run,\n or they'll know I started the rumor...)
+@263.1
+(Tch... I failed!\n I can't stay here... I must run,\n or they'll know I started the rumor...)
+@264
+Building townhouses... I know,\nI'll make the carpenters slack off.\nAh, excuse me, you there!
+@264.1
+Building townhouses... I know,\nI'll make the carpenters slack off.\nAh, excuse me, you there!
+@265
+Whaddya want? Hic.\nNeed somethin' from me?
+@266
+I have a little favor to ask.\nHere's 1000 kan for drinks, so use it\nto get the carpenters......
+@266.1
+I have a little favor to ask.\nHere's 1000 kan for drinks, so use it\nto get the carpenters......
+@267
+Ooh... money for drinks?\nThen I can't say no.\nRight... leave it to me! Hic~
+@268
+Here, drink some more.\nHow 'bout it... good stuff, eh?
+@269
+Ahh~ I'm feeling good.\nCan't be bothered with work.\nUrp.
+@270
+Honestly...\nI'll drink and forget my troubles.
+@271
+Hey! Do your work properly...\nHonestly... who brought sake here?\nThe work will grind to a halt.
+@272
+(Excellent... now {02}{0B}e's results\n will fall... hee hee.)
+@272.1
+(Excellent... now {02}{0B}e's results\n will surely fall... heh heh.)
+@273
+Whaddya mean!\nYou won't drink my sake?!\nHic.
+@274
+Enough, you're in the way of the work!\nGet out! You drunkard!
+@274.1
+Enough, you're in the way of the work!\nGet out, will you! You drunken sot!
+@275
+Tch! Offer good sake and get yelled at?\nNot worth it... I'm out!
+@276
+Tch... he blew it! Drunkard!\nI can't stay here... I'd better run too.
+@276.1
+Tch... he blew it! The drunk!\nI can't stay here... I'd better run too.
+@277
+I know, if I have some thugs prowling about,\nthere'll be no festival at all...\n...Excuse me, you there!
+@277.1
+I know, if I have some thugs prowling about,\nthere'll be no festival at all...\nExcuse me, you there!
+@278
+What?\nYou want something with me?
+@279
+I have a little favor to ask.\nHere's 1000 kan, so please\nwreck the festival...
+@279.1
+I have a little favor to ask.\nHere's 1000 kan, so please\nwreck the festival...
+@280
+Hmph... well, fine.\nI don't know what you're after,\nbut I was bored... leave it to me.
+@281
+Oi... out of the way!\nQuit dancing so carefree!
+@282
+Eek...! What are you doing?!\nUgh! The fun festival is ruined!
+@283
+Hey, let's go home.\nWith thugs prowling around,\nthe festival's no fun.
+@284
+(Hee hee... now the festival is ruined.\n{02}{0B}e's results will fall...)
+@284.1
+(Heh heh... now the festival is ruined.\n{02}{0B}e's results will fall...)
+@285
+So you're the ruffian ruining the festival!\nI'll teach you a lesson!
+@285.1
+So you're the ruffian ruining the festival!\nI'll punish you!
+@286
+Ugh! ...Ow ow ow! L-let go!\nWhat strength... all right,\nI won't do it again... let me go!
+@287
+Now, everyone! The ruffian is gone.\nPlease enjoy the festival!
+@287.1
+Now, everyone! The ruffian is gone.\nPlease enjoy the festival!
+@288
+A tea gathering... I know,\nif I secretly mix in bad tea...
+@288.1
+A tea gathering... I know,\nif I secretly mix in bad tea...!
+@289
+Used 1000 kan to buy bad tea\nand mixed it into the tea jars.
+@290
+Hee hee...\nNow the guests will make a fuss.
+@290.1
+Heh heh...\nNow the guests will make a fuss.
+@291
+Mm! ............!\nWhat?! This tea is...?
+@292
+(Heh heh...)
+@293
+Ptoo... ptoo! What is this?!\nIt's undrinkable.
+@294
+Th-that can't be...\nIt should be fine tea from all over...\nLet me see...... ugh!
+@295
+Well...\nI'd heard tea was tasty,\nbut if this is it, no thanks.
+@296
+(Hee hee... now the tea gathering is ruined.\n {02}{0B}e's results will fall...)
+@296.1
+(Heh heh... now the tea gathering is ruined.\n {02}{0B}e's results will fall...)
+@297
+What?! This tea...\nis wonderfully good!
+@298
+Eh?!
+@299
+It really is...\nI never knew tea was this good.\nI'm glad I came to the gathering.
+@300
+(D-damn... I meant to use junk tea,\n but I bought good tea instead!)
+@300.1
+(D-damn... I meant to use junk tea,\n but I bought good tea instead!)
+@301
+If I loose thieves on the market...\nthere'll be no free market at all.\nHey, you there!
+@301.1
+If I loose thieves on the market...\nthere'll be no free market at all.\nHey, you there!
+@302
+Do you know there's a free market in town?\nI'll give you this 1000 kan to\nsteal all kinds of things from it.
+@302.1
+Do you know there's a free market in town?\nI'll give you this 1000 kan to\nsteal all kinds of things from it.
+@303
+Heh! A theft job, eh?\nI don't know what you're after,\nbut it's not a bad deal... Right, leave it to me.
+@304
+Eeek! Th-thief!
+@305
+They got me too!\nDammit... I gathered rare goods\nfrom all over...
+@306
+With this many thieves, business is dead.\nI came because {02}{0B}e opened a free market...\nEnough, I'm closing shop.
+@307
+Hey! What did you just steal?!\nThief!
+@308
+Fool! Your report is late!\nIf you can't finish a mission in time,\nyou're no ninja!
+@309
+...I am very sorry.
+@310
+As punishment, {01}C{19}{00} is demoted!\nStart over!
+@311
+Y-yes, sir!
+@312
+Then start over!\nYou novice!
+@313
+Y-yes, sir!
+@314
+Is the job done?
+@315
+Then hurry and finish it.
+@316
+Then let's hear the results.
+@317
+I am very sorry.\nI achieved nothing worth reporting.
+@318
+I found a person\ncalled {02}{03}g.
+@319
+I found\n{02}od promising people.
+@320
+I gathered some information\non {02}{17}e.
+@321
+I reduced {02}{17}e's {02}yd\nby {02}od.
+@322
+I reduced {02}{17}e's supplies\nsomewhat.
+@323
+I am very sorry.\nI failed to attack {02}{03}g.
+@324
+I attacked {02}{03}g, but\nthey were tough...\nStill, I did some damage.
+@325
+I finished off\n{02}{03}g.
+@326
+I thought you'd do a bit better...\nIt seems you still lack training.\nWork harder.
+@327
+Good, well done.\nTake your reward of {02}o{C8}.
+@328
+Yes, sir.
+@329
+Don't let this go to your head;\nkeep training.
+@330
+It seems the job isn't done.\nYou say {01}C{19}{00} can't do it?
+@331
+...Pathetic.\nFor a ninja, the mission comes first.\nEngrave that on your heart!
+@332
+Who'd have thought I'd meet\n{01}C{19}{00} again as a ronin.
+@333
+Yes, my post didn't suit me...
+@334
+I won't ask more.\nThen from today, work\nfor this village again.
+@335
+I heard from the others\nthat {01}C{19}{00} wishes to train here?
+@335.1
+I am the head of {02}{15}e.\nHas {01}C{19}{00} come to train?
+@336
+That is so.\nI wish to hone the ninja arts.
+@337
+...Did you think I wouldn't know?\n{01}C{19}{00} is one of {02}{17}e, are you not?
+@337.1
+...I know a little\nabout {01}C{19}{00}.\nYou are one of {02}{17}e, are you not?
+@338
+So you knew.
+@339
+From now on, {01}C{19}{00} will be hunted\nby {02}{17}e as a rogue ninja.\nAre you prepared for that?
+@340
+...Hm, a fine spirit, but\ndoes {01}C{19}{00} know the ninja code?
+@341
+I see. Then I've nothing more to say.\nTrain to your heart's content.
+@342
+But whoever breaks the code\nwill atone with death.\nNever forget that.
+@343
+I'll engrave your words on my heart.\nI'll begin training at once.
+@344
+Then I'll tell you.\nOnce you're a ninja of {02}{15}e,\nyou'll work for {02}{15}e.
+@345
+Members are taught\nthis village's secret arts,\nbut betrayal is never forgiven.
+@346
+Anyone who betrays this village\nis dealt with at once by our hands.\nDeath to traitors... that is the ninja code.
+@347
+Running is useless.\nWhoever shames the name of {02}{15}e\nis hunted to the ends of the earth as a rogue ninja.
+@348
+...What of {01}C{19}{00}?\nAre you ready to accept the ninja code?
+@349
+I can't let one who won't accept the code\ninto this village.\nLeave at once.
+@350
+I can't let one without resolve\ninto this village.\nLeave at once.
+@351
+What business have you\nwith our {02}{15}e, Lord {02}{02}g?
+@352
+...You know of {01}C{0E}{00}?
+@352.1
+So you already know\nthe name of {01}C{0E}{00}.
+@353
+Heh heh, nothing escapes us.\nBut {01}C{19}{00} is a merchant;\nyou can't join our village.
+@353.1
+Heh heh, nothing escapes us.\nBut {01}C{19}{00} is a commander;\nyou can't join our village.
+@353.2
+How could I not know\na member of our own village?
+@353.3
+Heh heh, nothing escapes us.\nSo, has {01}C{19}{00} come to train?
+@354
+I do.
+@354.1
+I do.
+@354.2
+I'm honored.
+@354.3
+That is so.\nI wish to hone the ninja arts.
+@355
+Train as much as you like.\nI'll ask nothing about it.
+@355.1
+Request work from us\nas {01}C{19}{00} needs.\nInvestment is welcome too.
+@355.2
+When your lord's orders require it,\nrequest work from us.\nInvestment is welcome too.
+@355.3
+Good. Do the village's work\nand serve the village well.\nI expect much of you.
+@355.4
+Train and hone your abilities.\nAnd if you do the work, the village grows.\nI expect much of you.
+@356
+Understood.
+@357
+Good.
+@358
+{02}{02}f, well done.
+@358.1
+Lord {02}{02}e, welcome.
+@359
+Oh, if it isn't {02}{02}f.\nWorking hard for {02}{02}{EC}?
+@359.1
+Oh, if it isn't {02}{02}f.\nHave you been well?
+@360
+So, what is it?
+@360.1
+So, what brings you to our {02}{15}e?
+@361
+You have no business?
+@362
+Then leave at once.\nI can't have outsiders\nlinger in this village.\nIf you ever need work done,\ncome any time.\nSomeone, see Lord {02}{02}e out.
+@363
+Sorry, there's no work right now.
+@364
+Then choose a job.
+@365
+{02}zd for {02}yd.\nIs that all right?
+@366
+Good. Then form your unit at once\nand set out.
+@367
+Fine work.\nThe client is satisfied.\nTake your reward of {02}o{C8}.
+@368
+Well done. Dismissed.
+@369
+Well done,\nbut you didn't meet the client's hopes.\nTake your reward of {02}o{C8}.
+@370
+Then, dismissed.
+@371
+Good. The deadline is 60 days.\nSet out at once.
+@372
+What do you wish to request?
+@372.1
+What would you like to request?
+@373
+{02}yd costs {02}o{C8}...\nbut it seems you lack the money.
+@373.1
+{02}yd costs\n{02}o{C8}...\nbut it seems you lack the money.
+@374
+For {02}yd,\nthe fee is {02}o{C8}.\nIs that all right?
+@374.1
+For {02}yd,\nthe fee is {02}o{C8}.\nIs that all right?
+@375
+Then, for {02}yd,\nwho is the target?
+@375.1
+Then, for {02}yd,\nwho shall be the target?
+@376
+You won't request {02}yd?
+@376.1
+Cancel the request for {02}yd?
+@377
+The target of {02}yd\nis {02}{02}g, correct?
+@377.1
+The target of {02}yd\nis {02}{02}g, correct?
+@378
+Not right?\nThen tell me the target\nof {02}yd once more.
+@378.1
+Not right?\nThen please tell me the target\nof {02}yd once more.
+@379
+{02}yd, eh.\nThen {02}{17}e is the target.\nA kind request, but {02}{10}e,\nwhich holds {02}{17}e, is a daimyo house\nour {02}{15}e supports,\nso I can't take that job.
+@379.1
+{02}yd, is it?\nThen the target is {02}{17}e?\nA kind request, but...\n{02}{10}e, which holds {02}{17}e,\nis a daimyo house our {02}{15}e supports,\nso I can't accept it.
+@380
+{02}{10}e, which holds {02}{17}e,\nis a daimyo house our {02}{15}e supports,\nso I can't take the job.
+@380.1
+{02}{10}e, which holds {02}{17}e,\nis a daimyo house our {02}{15}e supports,\nso I can't accept the job.
+@381
+{02}{03}g...\nA kind request, but I can't take it.\n\n{02}{03}g belongs to\n{02}{03}{EC}, which our\n{02}{15}e supports.
+@381.1
+{02}{03}g, is it...\nI can't accept that request.\n\n{02}{03}g belongs to\n{02}{03}{EC}, which our\n{02}{15}e supports.
+@382
+{02}yd...\nI take it {02}{17}e is the target.\nIs that right?
+@382.1
+{02}yd, is it...\nI take it {02}{17}e is the target.\nIs that right?
+@383
+Then, for {02}yd,\nwhich castle is the target?
+@383.1
+Then, for {02}yd,\nwhich castle shall be the target?
+@384
+The walls of {02}{17}e\nshould already be crumbling...\nNo need to weaken them further.
+@384.1
+The walls of {02}{17}e\nshould already be crumbling...\nThere's no need to weaken them further.
+@385
+The target of {02}yd\nis {02}{17}e, correct?
+@385.1
+The target of {02}yd\nis {02}{17}e, correct?
+@386
+Understood.\nWe'll get to work at once.
+@386.1
+Understood.\nWe'll get to work at once.
+@387
+{01}C{19}{00} will wait here 20 days.\nIt'd be trouble if the client betrayed us.\nIs that all right?
+@387.1
+Then please wait here 20 days.\nIt'd be trouble if the client betrayed us...\nIs that all right?
+@388
+...I see. A pity.
+@388.1
+...Understood. A pity.
+@389
+...And {02}od days later
+@390
+Sorry to keep you.\nWe found a person called {02}{03}g.
+@390.1
+Sorry to keep you.\nWe found a person called {02}{03}g.
+@391
+Sorry.\nWe found no one of note.\nI'll return the fee.
+@391.1
+I'm sorry.\nWe found no one of note.\nI'll return the fee.
+@392
+Sorry to keep you.\nWe got castle information on {02}{17}e.
+@392.1
+Sorry to keep you.\nWe got castle information on {02}{17}e.
+@393
+Sorry to keep you.\nWe lowered {02}{17}e's {02}yd\nby {02}od.
+@393.1
+Sorry to keep you.\nWe lowered {02}{17}e's {02}yd\nby {02}od.
+@394
+Sorry to keep you.\nWe cut {02}{17}e's resources\nby about {02}od0%.
+@394.1
+Sorry to keep you.\nWe cut {02}{17}e's resources\nby about {02}od0%.
+@395
+Sorry to keep you.\nWe finished off {02}{02}g.
+@395.1
+Sorry to keep you.\nWe finished off {02}{02}g.
+@396
+Sorry to keep you.\nWe badly wounded {02}{02}g...\nbut couldn't finish them off.
+@396.1
+Sorry to keep you.\nWe badly wounded {02}{02}g...\nbut couldn't finish them off.
+@397
+Sorry.\nThe attack on {02}{02}g failed.
+@397.1
+I'm sorry.\nThe attack on {02}{02}g failed.
+@398
+Come again if you have a request.
+@398.1
+Please come again if you have a request.
+@399
+Thanks for the offer of investment,\nbut this village already has enough money.\nThere's no need.
+@399.1
+I'm glad of the offer of investment,\nbut this village already has enough money.\nThe thought is enough.
+@400
+Thanks for the offer of investment,\nbut {01}C{19}{00} has no money, surely?
+@400.1
+I'm glad of the offer of investment,\nbut doesn't {01}C{19}{00} lack money?
+@401
+Oho, you'll invest in our village?\nMuch appreciated.
+@401.1
+Oh my, you'll invest in our village?\nWe are most grateful.
+@402
+So, how much?
+@402.1
+How much would you give?
+@403
+You'll invest {02}o{C8}\nin our village?
+@403.1
+You'll invest {02}o{C8}\nin our village?
+@404
+Ah, much appreciated.\nWe'll put it to good use.
+@404.1
+My, thank you very much.\nWe'll put it to good use.
+@405
+After all this help,\nwe must support {01}C{19}{00}'s\n{02}{0B}e.
+@405.1
+After all this help,\nwe must support {01}C{19}{00}'s\n{02}{0B}e.
+@406
+Ah, then...
+@406.1
+My, then...
+@407
+Yes, from now on our {02}{15}e\nwill support {01}C{19}{00}'s {02}{0B}e.
+@407.1
+Yes, from now on our {02}{15}e\nwill support {01}C{19}{00}'s {02}{0B}e.
+@408
+Much appreciated!
+@408.1
+Thank you!
+@409
+Come again if you need anything.
+@409.1
+Please come again if you need anything.
+@410
+What? You want to leave this village?
+@410.1
+What? You'll leave this village?
+@411
+Yes. Selfish as it is,\nI have my reasons,\nand wish to leave this village.
+@411.1
+Yes. Selfish as it is,\nI have my reasons,\nand mean to leave this village.
+@412
+{01}C{19}{00} is a ninja of this village.\nDid you think defying the code\nwould be forgiven?
+@412.1
+{01}C{19}{00} is a ninja of this village.\nIf you defy the village code,\nyou won't get off lightly.
+@413
+I never thought\nI'd be let off lightly.
+@413.1
+I never thought\nI'd be let off lightly.
+@414
+...Oho, I see.\nIt seems you're resolved.
+@414.1
+...Hmm, I see.\nIt seems you're resolved.
+@415
+One last time I ask {01}C{19}{00}:\nyou won't reconsider?
+@415.1
+One last time I ask {01}C{19}{00}:\nyou won't reconsider?
+@416
+I see. That is wise.\nThis time I'll treat it as a jest.\nNever get such ideas again.
+@416.1
+I see. A wise decision.\nThis time I'll treat it as a jest.\nNever get such ideas again.
+@417
+...Fool.\nEven if you beat me,\ndon't think you'll live in peace!
+@417.1
+...Fool.\nEven if you beat me,\nthere's nowhere you can live in peace!
+@418
+S-splendid...\n...But why not finish me?\nFrom now on {01}C{19}{00} is a rogue ninja.
+@418.1
+S-splendid...\n...But why not finish me?\nFrom now on {01}C{19}{00} is a rogue ninja.
+@419
+...I dislike needless killing.\nBesides, killing {01}C{19}{00}\nwould change nothing.
+@419.1
+...I dislike needless killing.\nBesides, killing {01}C{19}{00}\nwould change nothing.
+@420
+...You don't fear for your life?\nBut don't think everything\nwill go as {01}C{19}{00} wishes...
+@420.1
+...You don't fear for your life?\nBut don't think everything\nwill go as {01}C{19}{00} wishes...
+@421
+...No reason to stay longer.\nFarewell!
+@421.1
+...No reason to stay longer.\nFarewell, then!
+@422
+I don't know what you were plotting,\nbut prepare yourself.\nDie! Hyah!!
+@422.1
+I don't know what you were plotting,\nbut prepare yourself.\nGoodbye! Hyah!!
+@423
+Guoh...!
+@423.1
+Ugh...!
+@424
+This is the drill ground.\nNo one outside this village may enter.\nLeave.
+@425
+Oh, if it isn't {02}{02}f.\nWorking hard for {02}{02}{EC}?\nWe too drill daily.
+@425.1
+Oh, if it isn't {02}{02}f.\nHave you been well?\nWe too drill daily.
+@426
+Lord {02}{02}e,\nwelcome to the drill ground.
+@427
+Our efforts paid off;\nthe troops are fully trained.\nThey can march any time.
+@427.1
+Our efforts paid off;\nthe troops are fully trained.\nThey can march any time.
+@428
+Call on us any time there's a battle.\nWe will surely be of help.
+@428.1
+Call on us any time there's a battle.\nSee you, then.
+@429
+You wish to train troops?\nBut training costs 100 kan.\nPlease bring the money.
+@429.1
+Come to train troops?\nBut training costs 100 kan.\nBring the money.
+@430
+The thought is appreciated.\nPlease come any time.
+@430.1
+The thought is appreciated.\nCome any time.
+@431
+You wish to train troops?\nIt costs 100 kan and takes 20 days.\nIs that all right?
+@431.1
+Come to train troops, then.\nIt costs 100 kan and takes 20 days.\nIs that all right?
+@432
+I see...\nPlease come any time.
+@432.1
+I see...\nCome any time.
+@433
+Understood.\nThen leave the training to us.\nWe're counting on you.
+@433.1
+Understood.\nThen leave the training to us.\nI'm counting on you.
+@434
+Training rose by {02}od.
+@434.1
+Training rose by {02}od.
+@435
+Good of you to come.\nBut there's nothing left to teach.\nNow just put your skills to use.
+@435.1
+Welcome.\nBut there's nothing left to teach.\nNow just put your skills to use.
+@436
+Good of you to come.\n{01}C{19}{00} has already passed this test.\nTrain elsewhere.
+@436.1
+Welcome. {01}C{19}{00} has already\npassed this test.\nTrain elsewhere.
+@437
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a samurai,\nso you can't train here.
+@437.1
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a samurai,\nso you can't train here.
+@437.2
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a pirate,\nso you can't train here.
+@437.3
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a pirate,\nso you can't train here.
+@437.4
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a merchant,\nso you can't train here.
+@437.5
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a merchant,\nso you can't train here.
+@437.6
+Only those seeking to be ninja come here.\n{01}C{19}{00} is a ronin,\nso you can't train here.
+@438
+Beyond this is taught only to villagers.\nA samurai has no need to know\nthe secret ninja arts.
+@438.1
+Beyond this is taught only to villagers.\nA samurai has no need\nof the secret ninja arts.
+@438.2
+Beyond this is taught only to villagers.\n{01}C{19}{00} is a pirate and has no need\nto know the secret ninja arts.
+@438.3
+Beyond this is taught only to villagers.\n{01}C{19}{00} is a merchant and has no need\nto know the secret ninja arts.
+@438.4
+Beyond this is taught only to villagers.\n{01}C{19}{00} is a ronin and has no need\nto know the secret ninja arts.
+@439
+This is where ninja ranks are granted.\n{01}C{19}{00} is too green to take the test.\nTrain first.
+@439.1
+This is where ninja ranks are granted.\n{01}C{19}{00} is too green to take the test.\nTrain first.
+@440
+This is the place to become a jonin.\n{01}C{19}{00} is still a genin.\nTrain elsewhere.
+@441
+Here we teach only those\nwho hold a ninja rank.\nTrain first at the village training ground.
+@442
+Welcome to the village training ground.
+@442.1
+Welcome to the village training ground.
+@443
+Before training in ninjutsu,\ndon't forget to donate {02}o{C8} to the village.\nBring the money first.
+@443.1
+Before training in ninjutsu,\nwould you donate {02}o{C8} to the village?\nPlease bring the money first.
+@444
+You can't train in that condition.\nHeal your body first.
+@444.1
+Training is impossible in that condition.\nPlease restore your health first.
+@445
+Training here takes {02}od days.\nWith the next council in mind,\nbetter hold off for now.
+@445.1
+Training takes {02}od days.\nWith the next council in mind,\nyou should hold off for now.
+@446
+You mean to train here?\nHm, with {01}C{19}{00}'s skill, I don't mind...\nBut does {01}C{19}{00} know the ninja code?
+@447
+I see. Then I'll say no more.
+@448
+Then I'll teach {01}C{19}{00} the ninja code.\n\nIf you overcome this trial, we'll recognize {01}C{19}{00} as a member of {02}{15}e and grant the rank of genin. Higher ranks bring more work, and the rewards grow the village and add training grounds.\nBut once a member, you work only for this village. Visiting other villages is forbidden: that is the ninja code. You can leave the village only by force. But don't get ideas: we always hunt down rogue ninja.\nKnowing this code, are you resolved to train here and become a true ninja?
+@449
+One who can't accept the code\ncould never endure this trial.\nLeave.
+@450
+Training takes {02}od days.\nShall we begin at once?
+@450.1
+Training here takes {02}od days.\nYou're one of us, so no money is needed...\nShall we begin at once?
+@450.2
+Training here takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+@450.3
+Training here takes {02}od days,\nand I want a donation of {02}p{C8}.\nAll right?
+@450.4
+Training takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+@451
+Then it can't be helped.\nDon't neglect your training.
+@451.1
+I see......\nDo not neglect your training.
+@452
+Splendid, you've mastered it this far.\nNow put your skills to work.
+@452.1
+You've mastered it well.\nNow put your skills to work.
+@452.2
+You've improved,\nbut you haven't mastered ninjutsu yet.\nKeep at it.
+@452.3
+You've learned the basics of ninjutsu.\nBut the ninja's path is long.\nI expect much of your efforts.
+@452.4
+Splendid!\nYou've mastered it this far.\nNow put your skills to work.
+@452.5
+You've mastered it this far.\nNow put your skills to work.
+@452.6
+You've improved,\nbut you haven't mastered ninjutsu yet.\nPlease keep at it.
+@452.7
+You've learned the basics of ninjutsu.\nBut the ninja's path starts here.\nPlease keep at it.
+@453
+Not enough training.\nBut even this will be a lesson.\nDon't give up; keep at it.
+@453.1
+Not impressive.\nBut even this will be a lesson.\nDon't give up; keep at it.
+@453.2
+You show promise.\nKeep at it.
+@453.3
+Just one step short.\nKeep at it.
+@453.4
+Hm, good.\nKeep up your efforts.
+@453.5
+Not enough training.\nBut even this will be a lesson.\nPlease keep at it.
+@453.6
+Not impressive.\nBut even this will be a lesson.\nPlease keep at it.
+@453.7
+You showed promise.\nPlease keep at it.
+@453.8
+Just one step short.\nPlease keep at it.
+@453.9
+Hm, quite a good result.\nPlease keep up your efforts.
+@454
+Well done, you've overcome this trial.\nIn praise of your skill, I grant you this.
+@454.1
+Well done, you've overcome this trial.\nIn praise of your skill, I grant you this.
+@455
+There's nothing more to teach here.\nTrain elsewhere\nand aim higher.
+@455.1
+There's nothing more to teach here.\nPlease train elsewhere\nand aim higher.
+@456
+Still, I haven't taught you\nevery technique.\nAim higher.
+@456.1
+Still, I haven't taught you\nevery technique.\nPlease aim higher.
+@457
+Not enough training.\nKeep at it.
+@457.1
+Not enough training.\nI can't grant a new rank.\nKeep at it.
+@457.2
+Not impressive.\nKeep at it.
+@457.3
+Not impressive.\nI can't grant a new rank yet.\nKeep at it.
+@457.4
+You show promise.\nKeep at it.
+@457.5
+You show promise,\nbut I can't grant a new rank yet.\nKeep at it.
+@457.6
+Just one step short.\nKeep at it.
+@457.7
+Just one step short,\nbut I can't grant a new rank yet.\nKeep at it.
+@457.8
+Hm, not bad.\nKeep up your efforts.
+@457.9
+Hm, not bad.\nThe day for a new rank is near.\nKeep up your efforts.
+@457.10
+Not enough training.\nPlease keep at it.
+@457.11
+Not enough training.\nI can't grant a new rank.\nPlease keep at it.
+@457.12
+Not impressive.\nPlease keep at it.
+@457.13
+Not impressive.\nI can't grant a new rank yet.\nPlease keep at it.
+@457.14
+You show promise.\nPlease keep at it.
+@457.15
+You show promise,\nbut I can't grant a new rank yet.\nPlease keep at it.
+@457.16
+Just one step short.\nPlease keep at it.
+@457.17
+Just one step short,\nbut I can't grant a new rank yet.\nPlease keep at it.
+@457.18
+Hm, quite good.\nPlease keep up your efforts.
+@457.19
+Hm, quite good.\nYou'll soon be granted a new rank.\nPlease keep up your efforts.
+@458
+(Now, let's peek at what technique\n they're drilling.)
+@458.1
+(Now, let's peek at what technique\n they're drilling...)
+@459
+(Huh?\n I already know this technique.\n No reason to stay longer.)
+@459.1
+(Oh?\n I already know this technique.\n No reason to stay longer.)
+@460
+(Yes, I've mastered\n {02}=e!)
+@460.1
+(Yes, I've mastered\n {02}=e!)
+@461
+(There's nothing more to learn here.\n I'll slip away before I'm spotted.)
+@461.1
+(There's nothing more to learn here.\n I'll slip away before I'm spotted.)
+@462
+(There seem to be more techniques to learn,\n but I've stayed too long.\n I'll slip away before I'm spotted.)
+@462.1
+(There seem to be more techniques to learn,\n but I've stayed a bit too long.\n I must slip away before I'm spotted.)
+@463
+(Hmm... a technique I've never seen.\n It seems I can't learn it.\n I'll train more and come back.)
+@463.1
+(Oh... a technique I've never seen.\n It seems I can't learn it.\n I'll train more and come back.)
+@464
+(I can't tell what they're doing at all...\n My own training must be lacking.\n I'll train more and try again.)
+@464.1
+(I can't tell what they're doing at all...\n My own training must be lacking.\n I'll train more and try again.)
+@465
+If you quit being a merchant, trade goods\nyou can't carry will be discarded.\nReally become a ninja?
+@466
+Right, I'll apply to be a ninja of {02}{0B}e.\nNo need to sneak around.\nI'll walk right in.
+@466.1
+Right, I'll apply to be a ninja of {02}{0B}e.\nNo need to sneak around.\nI'll walk right in.
+@467
+Who's there!
+@468
+{01}C{0E}{00} am called {02}{01}g.\nI wish to put my strength\nto use for {02}{0B}e.
+@469
+...You don't seem to be an intruder.\nBut I can't decide this alone...
+@470
+I can't steal techniques in this state...\nI must get my health back first.
+@470.1
+I can't steal techniques in this state...\nI must get my health back first.
+@471
+The {01}C>{00} who runs this village\nis in {02}{15}e.\nGo there.
+@472
+The {01}C>{00} who runs this village\nis away.\nWhile I keep watch, I can't hear such talk.
+@473
+What is it? What's all the noise?
+@473.1
+What is it? What's all the noise?
+@474
+Ah, {01}C1{00}!\nSomeone called {02}{03}e\nhas barged in...
+@475
+A pleasure to meet you.\nI am {02}{01}g.
+@475.1
+A pleasure to meet you.\nI am {02}{01}g.
+@476
+...So, {01}C1{00},\nwhat business brings you?
+@476.1
+...So, {01}C1{00},\nwhat business brings you?
+@477
+Chief! Thank goodness you're safe.\nSomething serious has happened; to the command room!
+@478
+Boss! Thank goodness you're safe.\nSomething serious has happened; to the command room!
+@479
+{01}C1{00}! Thank goodness you're safe.\nSomething serious has happened; to the command room!
+@480
+You want a ship to trade abroad?\n\n\nA voyage abroad risks our lives,\nso until our band and {02}{02}{EC}\ntrust each other more, I can't take it.
+@480.1
+You want a ship to trade abroad?\n\n\nA voyage abroad risks our lives,\nso until our band and {02}{02}{EC}\ntrust each other more, I cannot accept.
+@480.2
+A ship to trade abroad?\n\n\nA voyage abroad risks our lives.\nUntil our band and {02}{02}{EC}\ntrust each other more, I can't accept.
+@481
+Sick as you are,\nyou couldn't bear a trip abroad...\nTalk to me once you've recovered.
+@481.1
+Ill as you are,\nyou couldn't bear a trip abroad.\nPlease talk to me once you've recovered.
+@481.2
+In your condition,\nyou couldn't bear a trip abroad.\nPlease talk to me once you've recovered.
+@482
+To trade abroad you need diplomatic\npapers such as seals or passes.\n\nUnless {01}C{0E}{00}, {01}C{19}{00} or the lord of the daimyo house we back has such papers, no ship goes abroad.
+@482.1
+To trade abroad you need\ndiplomatic papers such as\nseals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00} or the lord of the daimyo house we back has such papers, no ship goes abroad.
+@482.2
+To trade abroad you need\ndiplomatic papers such as\nseals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00} or the lord of the daimyo house we back has such papers, no ship can go abroad.
+@483
+You want a ship to trade abroad?\nSorry, but our band has no ship\nbig enough to sail abroad.
+@483.1
+A ship to trade abroad?\n\n\nI'm very sorry, but our band\nhas no ship big enough\nto sail abroad.
+@483.2
+A ship to trade abroad?\n\n\nI'm very sorry, but our band\nhas no ship big enough\nto sail abroad.
+@484
+You want a ship to trade abroad?\nOur band lacks the skill to build\nthe large ships needed to sail abroad.\nWith a bit more money,\nwe could build one, I think.
+@484.1
+A ship to trade abroad?\nOur band lacks the skill to build\nthe large ships needed to sail abroad.\nWith a bit more money,\nwe could build one...
+@484.2
+A ship to trade abroad?\nOur band lacks the skill to build\nthe large ships needed to sail abroad.\nWith a bit more money,\nwe could build one...
+@485
+You want a ship to trade abroad?\nOur band is at war right now.\nSorry, another time.
+@485.1
+A ship to trade abroad?\nOur band is at war right now.\nPlease, another time.
+@485.2
+A ship to trade abroad?\nOur band is at war right now.\nPlease, another time.
+@486
+Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let's get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serves as purveyor.
+@486.1
+Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serves as purveyor.
+@486.2
+Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serves as purveyor.
+@487
+The lord of {02}{03}{EC} has granted\npermission to sail abroad.
+@487.1
+The lord of {02}{03}{EC} has granted\npermission to sail abroad.
+@487.2
+The lord of {02}{03}{EC} has granted\npermission to sail abroad.
+@488
+Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let's get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
+@488.1
+Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
+@488.2
+Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
+@489
+For Naha, no papers are needed.
+@489.1
+For Naha,\nno papers are needed.
+@489.2
+For Naha,\nno papers are needed.
+@489.3
+...Right, the papers are checked too.
+@489.4
+...Right, the papers are checked too.
+@489.5
+...Right, the papers are checked too.
+@490
+So, where do you want to go?
+@490.1
+So, where will you go?
+@490.2
+So, where will you go?
+@491
+Go to {02}{15}f?
+@491.1
+Go to {02}{15}f?
+@491.2
+Go to {02}{15}f?
+@492
+Going to {02}{15}f costs {02}o{C8},\nbut you seem short of money.\nCome back later.
+@492.1
+Going to {02}{15}f costs {02}o{C8},\nbut you seem short of money.
+@492.2
+Going to {02}{15}f costs {02}o{C8},\nbut you seem short of money.
+@493
+Going to {02}{15}f costs {02}o{C8}.\nIs that all right?
+@493.1
+Going to {02}{15}f costs {02}o{C8}.\nIs that all right?
+@493.2
+Going to {02}{15}f costs {02}o{C8}.\nIs that all right?
+@494
+Once you head for {02}{15}f,\nyou won't be back for a while.\n\nAnd we leave at once, so buy\nwhatever you'll sell there\nbeforehand.\nSo, shall we set out?
+@494.1
+Once you head for {02}{15}f,\nyou won't be back for a while.\n\nAnd we leave at once, so buy\nwhatever you'll sell there\nbeforehand.\nSo, shall we\nset out?
+@494.2
+Once you head for {02}{15}f,\nyou won't be back for a while.\n\nAnd we leave at once, so buy\nwhatever you'll sell there\nbeforehand.\nSo, shall we\nset out?
+@495
+{02}o{C8} received.\nNow, we set out!
+@495.1
+{02}o{C8} received.\nNow, we set out!
+@495.2
+{02}o{C8} received.\nNow, let's set out!
+@496
+Phew... we've arrived. Good work.\nCome again if you need anything.
+@496.1
+Phew... we have arrived.\nThank you for your trouble.\nPlease come again if you need anything.
+@496.2
+Phew... we have arrived.\nThank you for your trouble.\nPlease come again if you need anything.
+@497
+You'll send a ship to trade abroad?\n\n\nA kind offer, but it risks our lives;\nuntil our house and {02}{02}{EC} trust each other more, we can't go with you.
+@497.1
+You'll send a ship to trade abroad?\n\n\nA kind offer, but it risks our lives;\nuntil our house and {02}{02}{EC}\ntrust each other more, we can't go.
+@497.2
+You'll send a ship to trade abroad?\n\n\nA kind offer, but it risks our lives;\nuntil our house and {02}{02}{EC} trust each other more, we can't go with you.
+@498
+You'll send a ship to trade abroad?\n\n\nBut you don't seem to have a ship\nbig enough to sail abroad...
+@498.1
+You'll send a ship to trade abroad?\n\n\nBut you don't seem to have a ship\nbig enough to sail abroad...
+@498.2
+You'll send a ship to trade abroad?\n\n\nBut you don't seem to have a ship\nbig enough to sail abroad...
+@499
+You'll send a ship to trade abroad?\n\n\nForgive me, but you don't seem to have\nthe skill to build ocean-going ships...
+@499.1
+You'll send a ship to trade abroad?\n\n\nBut you don't seem to have\nthe skill to build ocean-going ships...
+@499.2
+You'll send a ship to trade abroad?\n\n\nForgive me, but you don't seem to have\nthe skill to build ocean-going ships...
+@500
+You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00}\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
+@500.1
+You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00}\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
+@500.2
+You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00}\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
+@501
+You'll send a ship to trade abroad?\n\n\nYou seem to be at war right now.\nSadly, overseas trade will have\nto wait for another time.
+@501.1
+You'll send a ship to trade abroad?\n\n\nYou seem to be at war right now.\nSadly, overseas trade will have\nto wait for another time.
+@501.2
+You'll send a ship to trade abroad?\n\n\nYou seem to be at war right now.\nSadly, overseas trade will have\nto wait for another time.
+@502
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
+@502.1
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
+@502.2
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
+@503
+I've received permission to sail\nfrom the lord of {02}{03}{EC}.
+@503.1
+I've received permission to sail\nfrom the lord of {02}{03}{EC}.
+@503.2
+I've received permission to sail\nfrom the lord of {02}{03}{EC}.
+@504
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serve.
+@504.1
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serve.
+@504.2
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serve.
+@505
+For Naha, no papers are needed.
+@505.1
+For Naha, no papers are needed.
+@505.2
+For Naha, no papers are needed.
+@505.3
+...Yes, I've checked the papers.
+@505.4
+...Good, the papers are checked.
+@505.5
+...Yes, I've checked the papers.
+@506
+Forgive me, but you seem short\nof the fare.
+@506.1
+Sadly, you seem short of the fare.
+@506.2
+Forgive me, but you seem short\nof the fare.
+@507
+So, where shall we go?
+@507.1
+So, where to?
+@507.2
+So, where shall we go?
+@508
+{02}{15}e, then?
+@508.1
+{02}{15}e, is that right?
+@508.2
+{02}{15}e, then?
+@509
+For the voyage, the expenses and ship\nhire we charge come to {02}o{C8}. Is that all right?
+@509.1
+For the voyage, the expenses and ship\nhire we charge come to {02}o{C8}. All right?
+@509.2
+For the voyage, the expenses and ship\nhire we charge come to {02}o{C8}. Is that all right?
+@510
+Once you head for {02}{15}e,\nyou won't be back for a while.\n\nAnd we leave at once, so buy\nwhatever you'll sell there beforehand.\nOh, and in return for the ship,\n{01}C{0E}{00} will carry your souvenirs\nfrom there, so you can buy more than at home.\nBut on our return, {01}C{0E}{00}\nwill sell them for you as we see fit...\n\nSo, shall we set out?
+@510.1
+Once you head for {02}{15}e,\nyou won't be back for a while.\n\nAnd we leave at once, so buy\nwhatever you'll sell there beforehand.\nBut in return for the ship,\n{01}C{0E}{00} will carry your souvenirs\nfrom there, so you can buy more than at home.\nBut on our return, {01}C{0E}{00}\nwill sell them as we see fit...\n\nSo, shall we set out?
+@510.2
+Once you head for {02}{15}e,\nyou won't be back for a while.\n\nAnd we leave at once, so buy\nwhatever you'll sell there beforehand.\nOh, and in return for the ship,\n{01}C{0E}{00} will carry your souvenirs\nfrom there, so you can buy more than at home.\nBut on our return, {01}C{0E}{00}\nwill sell them for you as we see fit...\n\nSo, shall we set out?
+@511
+Phew... we've arrived.\nThank you very much.
+@511.1
+Phew... we've arrived.\nThanks for your trouble.
+@511.2
+Phew... we've arrived.\nThank you very much.
+@512
+Oh yes, I must sell the souvenirs\n{01}C{19}{00} bought...\nLet's see...
+@512.1
+Right, I must sell the souvenirs\n{01}C{19}{00} bought...\nLet's see...
+@512.2
+Oh yes, I must sell the souvenirs\n{01}C{19}{00} bought...\nLet's see...
+@513
+...Then I'll sell the souvenirs here\nand deliver the money to your fort.\nYes, I'll add a little extra.\nWell, I'll take my leave.
+@513.1
+...Then I'll sell the souvenirs here\nand deliver the money to your fort.\nI'll add a little extra.\nWell, I'll take my leave.
+@513.2
+...Then I'll sell the souvenirs here\nand deliver the money to your fort.\nYes, I'll add a little extra.\nWell, I'll take my leave.
+@514
+{02}{15}e's war funds rose by {02}o{C8}.
+@515
+Our band can't spare the means\nto send ships abroad...\n\nLet's talk once we've widened our waters\nand built up our strength.
+@515.1
+Our band can't spare the means\nto send ships abroad...\n\nPlease let's talk once we've widened\nour waters and built up our strength.
+@516
+A ship to trade abroad?\nSorry, but our band has no ship\nbig enough to sail abroad.
+@516.1
+A ship to trade abroad?\nSorry, but our band has no ship\nbig enough to sail abroad.
+@517
+A ship to trade abroad?\nSorry, but our band lacks the skill to build ships that can sail abroad.
+@517.1
+A ship to trade abroad?\nSorry, but our band lacks the skill to build ships that can sail abroad.
+@518
+Sending ships to trade abroad\ncosts a lot of money...\n\nI'd want 100,000 kan for now,\nbut sadly {01}C{19}{00}'s castle\ndoesn't seem to have that much.
+@518.1
+Sending ships to trade abroad\ncosts a lot of money...\n\nI'd ask 100,000 kan for now,\nbut sadly {01}C{19}{00}'s castle\ndoesn't seem to have that much...
+@518.2
+Sending ships to trade abroad\ncosts a lot of money...\n\nI'd like 100,000 kan for now,\nbut sadly {01}C{19}{00}'s castle\ndoesn't seem to have that much...
+@519
+We're busy too...\nKind as the offer is, we can't spare\nships to send abroad.
+@519.1
+Our band is busy too...\nKind as the offer is, we can't spare\nships to send abroad.
+@520
+We've already been asked by\nanother pirate band...\nLet's talk once they're back.
+@520.1
+We've already been asked by\nanother pirate band...\nPlease, let's talk once they're back.
+@521
+Oho... trade abroad, eh?\nSo, where do you want us to go?
+@521.1
+Oho... trade abroad?\nSo, where should we go?
+@521.2
+Oho... trade abroad?\nSo, where should we go?
+@522
+Neither {01}C{19}{00} nor {01}C{0E}{00}\nhas papers for trading there...\nTo trade in {02}{15}f you'll need\n{02}3g, {02}4g or {02}5g.
+@522.1
+Neither {01}C{19}{00} nor {01}C{0E}{00}\nhas papers for trading there...\nTo trade in {02}{15}f you'll need\n{02}3g, {02}4g or {02}5g.
+@523
+...Understood.\nThen we leave for {02}{15}f.\n\nWe'll come back with plenty of profit.\nWe'll take 100,000 kan as funds.
+@523.1
+...Understood.\nThen we leave for {02}{15}f.\n\nWe'll come back with lots of profit.\nWe'll take 100,000 kan as funds.
+@524
+Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{0E}{00} away,\nthis fort will be empty. All right?
+@524.1
+Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{0E}{00} away,\nthis fort will be empty. Is that all right?
+@524.2
+Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{0E}{00} away,\nthis fort will be empty. Is that all right?
+@525
+Then we're off to {02}{15}e.\nWait for good news.
+@525.1
+Then we're off to {02}{15}e.\nPlease wait for good news.
+@526
+{02}yd costs {02}o{C8}...\nbut you seem to be short of money.
+@527
+{02}yd costs {02}o{C8}...\nAll right?
+@527.1
+{02}yd costs {02}o{C8}...\nIs that all right?
+@528
+I take it the target of {02}yd\nis {02}{15}e.
+@529
+Where is the target of {02}yd?
+@530
+The target of {02}yd is {02}{15}e?
+@531
+Then choose the target again.
+@532
+Cancel the request for {02}yd?
+@533
+The target is {02}{03}g\nof {02}{03}{EC}, correct?
+@533.1
+The target is {02}{03}g\nof {02}{03}{EC}, correct?
+@534
+Understood.\nWe'll get to work at once.
+@535
+You'll wait here 20 days until\nthe job is done. All right?
+@535.1
+You'll wait here 20 days until\nthe job is done. Is that all right?
+@536
+...I see. A pity.
+@537
+Sorry to keep you.\nWe got information on {02}{15}e.
+@537.1
+Sorry to keep you.\nWe got information on {02}{15}e.
+@538
+Sorry to keep you.\nWe lowered {02}{15}e's {02}yd\nby {02}od.
+@538.1
+Sorry to keep you.\nWe lowered {02}{15}e's {02}yd\nby {02}od.
+@539
+Burned a few military supplies.
+@539.1
+Burned some military supplies.
+@539.2
+Burned military supplies.
+@539.3
+Burned a great deal of military supplies.
+@540
+Sorry to keep you.\nWe finished off {02}{03}g.
+@540.1
+Sorry to keep you.\nWe finished off {02}{03}g.
+@541
+Sorry to keep you.\nWe badly wounded {02}{03}g.
+@541.1
+Sorry to keep you.\nWe badly wounded {02}{03}g.
+@542
+...Sorry.\nThe attack on {02}{03}g failed.
+@542.1
+...Sorry.\nThe attack on {02}{03}g failed.
+@543
+Heh heh heh...
+@544
+Hm?
+@545
+Heh heh heh heh heh
+@546
+Wh-drawing your sword?\n{01}C1{00}, are you mad?!
+@546.1
+Wh-drawing your sword?\n{01}C1{00}, are you mad?!
+@546.2
+Wh-drawing your sword?\n{01}C1{00}, are you out of your mind?!
+@547
+Hahahahahaha!\nDid you think I'd let you go\nafter such an insult?!
+@547.1
+Hahahahahaha!\nDid you think I'd let you leave\nafter such an insult?!
+@548
+You! Wait!
+@549
+No reason to stay in such a place.\nI've delivered the message.
+@549.1
+No reason to stay in such a place.\nThe message is delivered.
+@549.2
+No reason to stay in such a place.\nThe message is delivered.
+@550
+You insolent wretch, prepare yourself!
+@551
+Ugh!
+@552
+You want to use our house's name\nto advertise {02}{02}{EC}?\nIt's true {02}{02}{EC} is our purveyor...\nSo, what do we get in return?
+@552.1
+You want to use our house's name\nto advertise {02}{02}{EC}?\nIt's true {02}{02}{EC} is our purveyor...\nSo, what do we get in return?
+@553
+(Oops, I'm short of money...\n I'll come back later.)
+@553.1
+(Oops, I'm short of money...\n I'll come back later.)
+@554
+Hmm...\n......\n......\nVery well, I'll lend our house's name.\nWork all the harder at your trade.
+@554.1
+Hm...\n......\n......\nVery well, I'll lend our house's name.\nWork all the harder at your trade.
+@555
+...\nIf that's your attitude,\nI can't lend our house's name.
+@555.1
+Hm...\nIf that's your attitude,\nI can't lend our house's name.
+@556
+Right,\nI'll get ready first.
+@556.1
+Right, I'll get ready first.
+@557
+(Right,\n I'll get ready first.)
+@557.1
+(Right, I'll get ready first.)
+@558
+(Oops,\n I've spent the mission money.\n I can't do it without {02}o{C8}.)
+@558.1
+(Oops, I've spent the mission money.\n I can't do it without {02}o{C8}.)
+@559
+I'm sorry, but\nlet's save this for another time.
+@560
+Hm, I see...
+@561
+You'll take on escorting\nour trade routes?
+@562
+I'm sorry, but\nour house has no trade routes right now.
+@563
+I'm sorry, but right now our house\nhas no routes (by land)\nto entrust to a ninja band.
+@563.1
+I'm sorry, but right now our house\nhas no routes (by sea)\nto entrust to a pirate band.
+@564
+All the routes our house can entrust\nare already escorted by\nyour people of {02}{02}{EC}...?
+@565
+I'm sorry, but we entrust\nthe escort of our routes only\nto powers we can trust.
+@566
+Which route will you\nescort for us?
+@567
+You'll call it off...
+@568
+I'm sorry, but that route\nis currently escorted\nby the people of {02}{03}{EC}...
+@569
+(I see... if I want the escort rights,\n I must show at least\n more strength than {02}{03}{EC}.)
+@570
+We have the powers already in charge\nto consider, so for now\nplease make no further offers.
+@571
+Well...\nThat route is escorted by {02}{03}{EC},\nbut it seems better to ask\nthe people of {02}{02}{EC}.\n\nFrom now on, we'll ask {02}{02}{EC}\nto escort {02}{15}f-{02}{16}f.\nThe escort fee shall be {02}o{C8}.
+@572
+The escort for {02}{15}f-{02}{16}f changed\nfrom {02}{03}{EC} to {02}{02}{EC}.\nFrom now on you get {02}o{C8} a month.
+@573
+Forgive me, but escorting more routes\nwill have to wait until\nyou're a somewhat larger power.
+@574
+Well...\nIt seems better to ask\nthe people of {02}{02}{EC}.\nFrom now on, we'll ask {02}{02}{EC}\nto escort {02}{15}f-{02}{16}f.\nThe escort fee shall be {02}o{C8}.
+@575
+The escort for {02}{15}f-{02}{16}f\nwas given to {02}{02}{EC}.\nFrom now on you get {02}o{C8} a month.

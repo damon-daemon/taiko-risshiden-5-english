@@ -1,0 +1,150 @@
+0	Governor of Sado
+1	Governor of Noto
+2	Governor of Wakasa
+3	Governor of Tango
+4	Governor of Iwami
+5	Governor of Nagato
+6	Governor of Tosa
+7	Governor of Hyuga
+8	Governor of Satsuma
+9	Governor of Osumi
+10	Hayato-no-sho
+11	Mondo-no-sho
+12	Oribe-no-sho
+13	Uneme-no-sho
+14	Danjo-no-chu
+15	Ukon-shogen
+16	Sakon-shogen
+17	Governor of Hida
+18	Governor of Awa
+19	Governor of Izu
+20	Governor of Shima
+21	Governor of Iga
+22	Governor of Izumi
+23	Governor of Oki
+24	Governor of Awaji
+25	Governor of Iki
+26	Governor of Tsushima
+27	Vice-Gov. of Kozuke
+28	Vice-Gov. of Hitachi
+29	Vice-Gov. of Kazusa
+30	Shikibu-shoyu
+31	Jibu-shoyu
+32	Minbu-shoyu
+33	Kunai-shoyu
+34	Hyobu-shoyu
+35	Okura-shoyu
+36	Gyobu-shoyu
+37	Ooi-no-kami
+38	Shuri-no-suke
+39	Ukyo-no-suke
+40	Sakyo-no-suke
+41	Nakatsukasa-shoyu
+42	Uemon-no-suke
+43	Saemon-no-suke
+44	Governor of Dewa
+45	Governor of Echigo
+46	Governor of Etchu
+47	Governor of Kaga
+48	Governor of Shimotsuke
+49	Governor of Kai
+50	Governor of Shinano
+51	Governor of Mino
+52	Governor of Sagami
+53	Governor of Suruga
+54	Governor of Totomi
+55	Governor of Mikawa
+56	Governor of Owari
+57	Governor of Yamashiro
+58	Governor of Settsu
+59	Governor of Tanba
+60	Governor of Tajima
+61	Governor of Inaba
+62	Governor of Hoki
+63	Governor of Izumo
+64	Governor of Bizen
+65	Governor of Bitchu
+66	Governor of Bingo
+67	Governor of Mimasaka
+68	Governor of Aki
+69	Governor of Suo
+70	Governor of Kii
+71	Governor of Awa
+72	Governor of Sanuki
+73	Governor of Iyo
+74	Governor of Buzen
+75	Governor of Bungo
+76	Governor of Chikuzen
+77	Governor of Chikugo
+78	Governor of Hizen
+79	Junior Counsellor
+80	Chamberlain
+81	Zusho-no-kami
+82	Uta-no-kami
+83	Genba-no-kami
+84	Daigaku-no-kami
+85	Hyogo-no-kami
+86	Uma-no-kami
+87	Sama-no-kami
+88	Kamon-no-kami
+89	Uhyoe-no-suke
+90	Sahyoe-no-suke
+91	Shikibu-taifu
+92	Jibu-taifu
+93	Minbu-taifu
+94	Kunai-taifu
+95	Hyobu-taifu
+96	Okura-taifu
+97	Gyobu-taifu
+98	Minor Captain (Right)
+99	Minor Captain (Left)
+100	Danjo-shohitsu
+101	Governor of Mutsu
+102	Governor of Shimosa
+103	Governor of Musashi
+104	Governor of Echizen
+105	Governor of Omi
+106	Governor of Ise
+107	Governor of Yamato
+108	Governor of Kawachi
+109	Governor of Harima
+110	Governor of Higo
+111	Daizen-daibu
+112	Dazai-shoni
+113	Middle Controller (R)
+114	Middle Controller (L)
+115	Nakatsukasa-taifu
+116	Ukyo-daibu
+117	Sakyo-daibu
+118	Dazai-daini
+119	Danjo-daihitsu
+120	Middle Captain (Right)
+121	Middle Captain (Left)
+122	Uemon-no-kami
+123	Saemon-no-kami
+124	Uhyoe-no-kami
+125	Sahyoe-no-kami
+126	Shuri-daibu
+127	Major Controller (R)
+128	Major Controller (L)
+129	Minister of Rites
+130	Min. of Civil Affairs
+131	Min. of Popular Affairs
+132	Min. of the Household
+133	Minister of War
+134	Minister of the Treasury
+135	Minister of Justice
+136	Minister of the Centre
+137	Imperial Adviser
+138	Great Captain (Right)
+139	Great Captain (Left)
+140	Acting Middle Counsellor
+141	Middle Counsellor
+142	Acting Major Counsellor
+143	Major Counsellor
+144	Inner Minister
+145	Minister of the Right
+146	Minister of the Left
+147	Chancellor
+148	Regent
+149	Shogun

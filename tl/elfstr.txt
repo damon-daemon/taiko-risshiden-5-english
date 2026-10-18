@@ -1,0 +1,659 @@
+# Loose ELF strings: vaddr<TAB>English (see tools/elfstr.py)
+# battle screens
+# areas
+# ranks and roles
+# item kinds
+# options, new officers, menus
+# memory card
+# HDD (PlayStation BB Unit)
+# lists
+# numbers and units
+544538	Techniques
+544548	Other (Foe)
+544558	Other (Ally)
+544cb0	%2u/%2u
+544cd0	Out of Rice
+544ce0	%u days
+544d60	List Select
+544d70	Cursor Select
+544d90	%s %s Army
+544da8	(%u days)
+544db8	Unassigned
+544df8	(Routed)
+545470	Full
+545478	Routed
+545480	Delegate
+5457c0	(%2u types)
+5457c8	(None)
+5457d0	Supplies
+5457e0	Out of Rice
+5457f0	%u days
+545808	Officer Info
+545820	Change Troops
+545830	Change Type
+545840	Check Skills
+545d08	Item Settings
+545df0	Cancel
+545e00	Confirm
+546090	%s  %s Army
+5460a8	(%u days)
+5460e0	Officer Info
+5460f8	Return to Base
+546108	Choose Target
+546118	Army Info
+546658	Barrel
+546660	Fuse
+5466a0	No more troops can be added.
+5466c0	No troops to replenish.
+5466e0	%u troops can be replenished.\nProceed?
+54a2a0	Okehazama
+54a2a8	Nagashino
+54a2b0	Kawanakajima
+54a2b8	Itsukushima
+54a2c0	Anegawa
+54a2c8	Mikatagahara
+54a2d8	Kizugawaguchi
+54a2e8	Tenmokuzan
+54a2f0	Okitanawate
+54a2f8	Yamazaki
+54a300	Ino
+54a308	Shizugatake
+54a310	Hitotoribashi
+54a318	Suriagehara
+54a320	Tedorigawa
+54a328	Sekigahara
+54a330	Komaki-Nagakute
+54a340	Imazu
+54a348	Amagasaki
+54a350	Fujikawa
+54a358	Mimasetoge
+54a3b8	Battle of Osaka
+54a3c8	Battle of 
+54a3d0	Field Tutorial
+54a3e8	Debug Battle
+54a400	%4d/%2d/%2d
+54a480	Samurai
+54a488	Ninja
+54a490	Pirate
+54a4a8	Highland
+54a4c8	Plains
+54a528	 Combat
+54a538	--
+54a548	Troops
+54a550	Drill
+54a578	%s Drill Army
+54a588	%s %s Army
+54a5a0	(%u days)
+54a5b0	Unassigned
+54a5d0	(Routed)
+54a5d8	(Retreat)
+54cdb8	Army Lead
+54cdc0	Unit Lead
+54d458	(%u days)
+54d490	Base Info
+54d4a0	Supplies Left
+54d4c0	Officer Info
+552718	Talk
+57ca88	Tohoku
+57ca90	Hokuriku
+57ca98	Koshin
+57caa0	Kanto
+57caa8	Tokai
+57cab0	Kinki
+57cab8	Chugoku
+57cac0	Shikoku
+57cac8	Kyushu
+57cad0	Overseas
+57fde0	Ronin
+57fde8	A. Captain
+57fdf8	A. General
+57fe08	S. General
+57fe10	Cmdr.
+57fe18	Elder
+57fe20	Castellan
+57fe28	Prov. Lord
+57fe30	Daimyo
+57fe38	Apprentice
+57fe40	Clerk
+57fe48	Head Clerk
+57fe50	Manager
+57fe58	Head
+57fe60	Genin
+57fe68	Chunin
+57fe70	Jonin
+57fe78	Boss
+57fe88	Sailor
+57fe90	Bosun
+57fe98	Skipper
+57fea0	Admiral
+57fea8	Chief
+57feb0	Emperor
+57feb8	Noble
+57fec0	Samurai
+57fec8	Farmer
+57fed0	Townsman
+57fed8	Artisan
+57fee0	Merchant
+57fee8	Tea Master
+57fef0	Monk
+57fef8	Instructor
+57ff00	Master
+57ff08	Nanban
+57ff10	Traveller
+57ff18	Owner
+57ff20	Hostess
+57ff28	Doctor
+57ff30	Smith
+57ff38	Guard
+57ff40	Servant
+57ff48	Page
+57ff50	Ninja
+57ff78	Sword
+57ff88	Kunai
+57ff90	Chain-Sickle
+57ff98	Matchlock
+57ffa8	Armour
+57ffb0	Fine Horse
+57ffb8	Scroll
+57ffc0	Screen
+57ffc8	Tea Caddy
+57ffd0	Kettle
+57ffd8	Tea Bowl
+57ffe0	Tea Jar
+57ffe8	Tea Scoop
+57fff0	Vase
+57fff8	Censer
+580000	Art of War
+580008	War Tale
+580010	Japanese Book
+580020	Politics
+580028	Chinese Book
+580030	Literature
+580038	Nanban Item
+580040	Treasure
+580048	Diplomatic Doc
+580058	Cheap Sake
+580060	Fine Sake
+580068	Foreign Drink
+580070	Cold Remedy
+580078	Tonic
+580080	Panacea
+580fa0	Mini-Games
+5810d0	Sound Output
+5810e0	Vibration
+5810e8	Stereo
+5810f8	Mono
+581108	On
+581110	Off
+581118	Simple
+581120	Detailed
+581128	Normal
+581130	Settings
+581940	Pick New Officers
+581950	%s's base was changed to the superior's base.
+581988	Add Cards
+5819a0	⑤Select ①OK ②Back
+5819b8	②Back ①OK
+5819c8	Install
+5819e0	Uninstall
+581a10	Save the current screen settings to the memory card (PS2)?
+581a50	Cancel saving?
+581a70	Save the current settings\nto the memory card (PS2)?
+581ac8	⑥Select ②Back
+581ad8	Options
+581da0	Kusunoki Masashige
+581db0	Fujiwara Hidehira
+581dc0	Ko no Moronao
+581dc8	Sasaki Doyo
+581dd8	Ashikaga Yoshimitsu
+581de8	Hojo Tokimasa
+581df8	Sakanoue Tamuramaro
+581e08	Ota Dokan
+581e18	Sato Tsuginobu
+581e28	Sato Tadanobu
+581e38	Hojo Soun
+581e48	Otomo Yakamochi
+581e58	Hojo Masako
+581e68	Minamoto Yoshiie
+581e70	Taira Masakado
+581e78	Minamoto Tametomo
+581e80	Minamoto Yoritomo
+581e88	Minamoto Yoshitsune
+581e90	Taira Noritsune
+581e98	Taira Atsumori
+581ea0	Musashibo Benkei
+581eb0	Ashikaga Takauji
+581ec0	Nitta Yoshisada
+581ed0	Yamato Takeru
+581ee0	Minamoto Yorimitsu
+581ee8	Oe Hiromoto
+581ef8	Ashikaga Tadayoshi
+581f08	Hojo Yasutoki
+581f18	Fujiwara Fuhito
+581f28	Sugawara Michizane
+581f38	Yagyu Sekiryusai
+581f48	Aisu Ikosai
+581f58	Nen'ami Jion
+581f68	Chujo Nagahide
+581f78	Iizasa Choisai
+581f88	Kiichi Hogen
+581f98	Nasu no Yoichi
+581fa8	Soga Sukenari
+581fb8	Soga Tokimune
+581fc8	Sakata Kintoki
+581fd8	Watanabe Tsuna
+581fe0	En no Ozunu
+581fe8	Kibi Makibi
+581ff8	Hakamadare Yasusuke
+582008	Ise Saburo
+582018	Fujiwara Sumitomo
+582028	Kumano Tanzo
+582038	Kono Michinobu
+582048	Matsura Hisashi
+582050	Xie Guoming
+582058	Sansho Dayu
+582068	Hino Tomiko
+582078	Murata Juko
+582088	Takeno Joo
+582098	Ikkyu Sojun
+5820a8	Okazaki Masamune
+5820b8	Miike Tenta
+5820c8	Shimazaki Yoshimune
+5820d8	Tashiro Sankisai
+5820e8	Tanba Yasuyori
+5820f8	Hojo Takatoki
+582108	Ashikaga Yoshimasa
+582120	Fukuzawa Eiji
+582130	Shibusawa Kou
+582148	Hero
+582150	Face
+582160	Features
+582170	Name
+582180	Info
+582188	Nature
+582190	Ability
+582198	Biography
+5821a0	OK
+5821a8	Sex
+5821b0	Born
+5821b8	Life
+5821c0	Fate
+5821c8	Sire
+5821d0	Class
+5821d8	Base
+5821e0	Arms
+5821e8	Temper
+5821f0	Spirit
+5821f8	Belief
+582200	Habits
+582208	Loyalty
+582210	Drive
+582218	Tastes
+582220	Greed
+582228	Drinks
+582230	Service
+582238	Wife
+582240	Type
+582248	LDR
+582250	VAL
+582258	POL
+582260	INT
+582268	CHA
+582270	%s %s
+582300	Face
+582310	⑤Select ②Back ①OK
+582328	Extras
+582330	Face Type
+582350	Parts
+582360	②Back ①OK
+582370	Family
+582378	Family Rd.
+582380	Given
+582388	Given Rd.
+582390	Edit
+582398	⑥Select ②Back
+5823a8	Biography
+5823b8	Basic Info
+5823c8	Nature
+5823e8	Total
+582400	④Change ②Back ①OK
+582420	New Officers
+582460	Officers %u/%u
+582470	New
+582478	Create
+582488	Edit
+582498	Delete
+5824b0	Save the edited new officer data\nto the memory card (PS2)?
+5824f0	Cancel saving?
+582768	Install
+582780	Uninstall
+5827b8	Settings
+5827c8	Screen
+5827e8	Samurai
+5827f8	Ninja
+582808	Swordsman
+582818	Pirate
+582828	Merchant
+582838	Kinoshita Tokichiro
+582848	Hattori Hanzo
+582858	Yagyu Munetoshi
+582868	Kuki Yoshitaka
+582878	Naya Sukezaemon
+582890	⑥Select ②Back ①OK
+5828b8	Suggested
+587e40	Cancel saving?
+587e58	②Back ①OK
+588bb8	Message Log
+588bc8	%2d/%2d
+588be0	No messages in the log.
+588c00	Narration
+591840	The memory card (PS2) in\nMEMORY CARD slot 1\nis not formatted.
+5918a0	Format it?
+5918c0	Formatting failed.
+5918e0	Formatting the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+591960	Saving to the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+5919d0	Loading data.\nDo not remove the memory card (PS2)\nor the controller.
+591a30	Checking the memory card (PS2).\nDo not remove the memory card (PS2)\nor the controller.
+591aa0	Not enough free space.\n\n
+591ac0	There is no memory card (PS2)\nin MEMORY CARD slot 1.
+591b10	The memory card (PS2)\ncould not be recognised.\n
+591b50	To save, you need a memory card\n(PS2) in MEMORY CARD slot 1\n\nwith at least %dKB\nof free space.
+591bc0	The memory card (PS2) was removed\nfrom MEMORY CARD slot 1.
+591c10	The memory card (PS2) was removed\nfrom MEMORY CARD slot 1,\nso saving failed.
+591c70	The memory card (PS2) was removed\nfrom MEMORY CARD slot 1,\nso loading failed.
+591cd0	The memory card (PS2) in\nMEMORY CARD slot 1\nhas no save data.
+591d30	Saving failed.
+591d50	Loading failed.
+591d68	Saved.
+591d78	Loaded.
+591d90	Continue %s?
+591db0	Cancel %s?
+591dd0	\nYou can play without saving, but to save\nyou need a memory card (PS2)\nwith at least %wKB free.\n
+591e50	Only MEMORY CARD slot 1 is supported.
+591e90	\nYou may not be able to save.
+591ec0	The memory card (PS2) in\nMEMORY CARD slot 1\nis not formatted.\nFormat it?
+591f30	Not enough free space on the memory card (PS2).\n\n
+591f70	There is no Taiko Risshiden V save data\non the PlayStation BB Unit.
+591fc0	Create save data?
+591ff0	Turmoil
+592000	The Sun
+592010	Rising Dragon
+592020	Supremacy
+592030	Upheaval
+592040	Great Peace
+592050	Exile
+592060	Dreams
+592088	Time
+592090	%3dh %02dm
+5920a0	New
+5920b0	Location
+5920b8	In Battle
+5920c0	Saved
+592120	No Data
+592130	Unreadable Data
+5921d0	The previous save data will be lost.\nIs that all right?
+592210	Save to slot %w.\nIs that all right?
+592240	Load this data.\nIs that all right?
+592260	Save
+592268	Load
+592280	Start with these settings?
+595300	Taiko Risshiden V
+596600	Switch
+596610	Surroundings
+596620	Scroll
+596630	Command
+596640	Move
+596c00	Main
+596c08	Log
+596c10	Register
+597aa8	%3d％ done
+597ab8	Abort
+598258	Final Choice
+598268	Detail
+598270	Command
+598280	Sort
+598288	Select
+599bf8	Select
+599c00	OK
+599e68	Select
+59a220	Select
+59a228	Release
+59a230	OK
+59a500	Theirs Bigger
+59a510	Same
+59a518	Mine Bigger
+59a530	...Correct.\nAs expected.
+59a550	A complete victory!
+59a570	I was helpless.\nA total defeat.
+59a590	A satisfying result.
+59a5b0	I admit defeat this time.
+59a5d0	Yes, I won!
+59a5e0	I lost this one.
+59a5f0	A draw...
+59a600	A draw this time.
+59a620	I lost... What a pity.
+59a640	I still need more practice.
+59a8b8	Select
+59a8c0	OK
+59adc0	Select
+59adc8	Stop
+59add0	OK
+59b158	 OK 
+59b168	Select
+59b170	Fix
+59b178	OK
+59b578	Select
+59b580	Empty Ladle
+59b590	Release
+59b598	OK
+59b8f8	Angle
+59b900	Fire
+59bc10	Angle
+59bc18	Draw
+59bc20	Fire
+59bf28	Stop Here
+59bf38	Select
+59bf40	Stop
+59bf48	Release
+59bf50	OK
+59c290	 OK 
+59c2a0	Select
+59c2a8	Erase
+59c2b0	Fix
+59c2b8	OK
+59c5d8	Move
+59c9e0	Cards: %d
+59ca20	x%2d
+59d268	%d kan
+59d278	Carryover
+59d920	Assign Workers
+59d958	Guild Contest
+59d970	%2d%s left
+59d990	%s Guild Results
+59d9b0	%5d (+%d)
+59de38	Chinchirorin
+59de48	Oichokabu
+59de58	Pinkoro
+59e350	Skill Lessons
+59e628	Skill Lessons
+59e8e8	Skill Lessons
+59eba8	Change Mission
+59ebb8	Offer Mission
+59fda8	Fiefs
+59fdb8	Name
+59fdc0	Rank
+59fdc8	Fief
+59fdd0	%8s  %5d kan
+59fde0	%8s    %5d kan
+59fdf0	Retainers
+59fe00	%3d men      - %4d kan
+59fe18	%8s  -%5d kan
+59fe28	- %4d kan
+59fe30	 %4d kan
+59ffa0	Region
+59ffa8	Power
+59ffb0	Take Region
+59ffc0	Take Prov.
+59ffc8	Take Power
+5a0270	War Funds
+5a0278	Rice Fund
+5a0280	Horse Fund
+5a0288	Gun Fund
+5a0290	Cannon Fund
+5a02a0	Pay as war funds
+5a02c0	Pay as rice fund
+5a02e0	Pay as horse fund
+5a0300	Pay as gun fund
+5a0320	Pay as cannon fund
+5a1078	Council
+5a1088	+%3d
+5a1848	Choose Skill
+5a1858	LDR
+5a1868	VAL
+5a1870	POL
+5a1878	INT
+5a1880	CHA
+5a1890	%5d pcs
+5a1898	%5d guns
+5a18a0	Missions
+5a18c8	Auto Assign
+5a18d8	Domestic First
+5a1ed0	Swap Source
+5a1ee0	OK
+5a1ee8	To
+5a1ef0	From
+5a1ef8	Seat
+5a1f00	%8d kan
+5a1f08	%8d koku
+5a1f10	%8d men
+5a1f20	%8d horses
+5a1f28	%8d guns
+5a1f30	%8d cannons
+5a1f38	%6d ships
+5a1f48	Capital
+5a1f50	Transport
+5a1f78	Mission Results
+5a1f88	Name
+5a2be0	Skill Lessons
+5a3d78	Lift Embargo
+5a4fc0	Keep the escort fee
+5a4fe0	Raise the fee by 10%
+5a5000	Raise the fee by 20%
+5a5018	Accept
+5a5028	Refuse
+5a5400	Take Region
+5a5410	Grow Town
+5a5420	Build Army
+5a5540	Castellan Orders
+5a5550	Attack Orders
+5a5d08	%s\n(%d-%d)
+5a5d28	Mission Results
+5a5f98	Change Mission
+5a5fa8	Offer Mission
+5a62d8	Change Mission
+5a62e8	Offer Mission
+5a7fa0	The Taiko Risshiden V game data\non the "PlayStation BB Unit"\ncannot be read.
+5a7ff0	Please repair the "PlayStation BB\nUnit" as described in its\ninstruction manual.
+5a8060	The game will now load\nfrom the DISC.
+5a8090	The Taiko Risshiden V game data\non the "PlayStation BB Unit" does\nnot match the version on the DISC.
+5a8100	Please uninstall it\nand install it again.
+5a8140	The "PlayStation BB Unit"\nis not connected properly.
+5a8180	The "PlayStation BB Unit"\nis not formatted.
+5a81c0	The Taiko Risshiden V game data\nis already installed.
+5a8200	Not enough free space on the\n"PlayStation BB Unit". Installing\nthe Taiko Risshiden V game data\nneeds at least 1024MB free.
+5a8290	A problem was found with\nthe "PlayStation BB Unit".
+5a82c0	Please delete unneeded data\nand install it again.
+5a8300	Install the Taiko Risshiden V\ngame data to the\n"PlayStation BB Unit"?
+5a8360	Installation cancelled.
+5a8380	Installing the Taiko Risshiden V\ngame data. Do not switch off the\npower or remove the\n"PlayStation BB Unit".
+5a8400	Installation complete.
+5a8420	Uninstall the Taiko Risshiden V\ngame data from the\n"PlayStation BB Unit"?
+5a8490	Uninstall cancelled.
+5a84b0	Uninstalling the Taiko\nRisshiden V game data.
+5a84f0	Uninstall complete.
+5a8510	The Taiko Risshiden V game data\nis not installed.
+5a8550	Stop installing the Taiko\nRisshiden V game data?
+5a85a0	Installation stopped.
+5a85c0	Continue installing the\nTaiko Risshiden V game data?
+5a9818	Scroll
+5a9a88	Skills Used
+5a9af0	Cards
+5a9e58	Bases
+5aa0f8	Powers
+5aa378	Powers
+5aa878	Trade Routes
+5aadc0	People
+5aae20	Choose Hero
+5ab098	Schools
+5ab318	Shops
+5ab588	Skills Needed
+5ab810	Trade Goods
+5aba90	--------
+5abaf0	Missions
+5abb00	Men
+5abb30	Job
+5abb38	Budget
+5abb68	Choose Job
+5abbc8	Choose Office
+5acbf0	%d-%d%s
+5acf08	Last Sword Shogun
+5acf18	Farewell, Father
+5acf28	End of Yoshitaka
+5acf38	Mitsuhide Beaten
+5acf60	⑥Select ②Back ①Zoom
+5acf78	Trade's Glory
+5acf90	⑤Select ②Back ①OK
+5ad000	⑥Select ②Back ①OK
+5ad068	Collected
+5ad070	Total %u/%u
+5ae520	Effect
+5ae528	Skills Used
+5ae538	%s+%d
+5aeb40	Switch
+5aef20	%dk men
+5aef48	Allegiance
+5af010	Facility
+5af018	Info
+5b0640	Total
+5b0648	Age
+5b0658	%3d
+5b0670	%s Tactics Tutor
+5b0680	Basic
+5b0688	Ability
+5b0690	History
+5b0698	Edit Ability
+5b06a8	Select
+5b06b0	Change
+5b0950	All
+5b0958	Merchants
+5b0960	Ninja
+5b0968	Pirates
+5b0970	Power Map: %s
+5b14e0	Prices
+5b2bf0	Space
+5b2bf8	Return
+5b2c00	Delete
+5b2c08	Clear
+5b2c10	Close
+5b2c90	Move cursor
+5b2ca0	Select
+5b2ca8	Back
+5b2d08	Kanji
+5b2d10	ABC
+5b2d18	Symbol
+5b2d20	Hiragana
+5b2d30	Katakana
+5b2d40	Special
+5b2d50	OK
+5b2d60	A name is blank
+5b3520	Family
+5b3528	Fam.Rd.
+5b3530	Given
+5b3538	Giv.Rd.
+5b3540	Name Entry
+5b3550	OK
+5b3568	Edit Info
+5b3578	⑥Select ②Back
+5b3a80	Controls
+5b3a90	Back
+5b3a98	Menu

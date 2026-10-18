@@ -1,0 +1,2204 @@
+@0
+Ah, {01}C1{00}, I heard from the ninja.\nIt was bad luck this time.\nI look forward to your work on the next mission.
+@0.1
+Ah, {01}C1{00}.\nI heard from the ninja; bad luck this time.\nI expect good work on the next mission.
+@1
+Ah, {01}C1{00}, I heard from the ninja.\nIt was bad luck this time.\nI look forward to your work on the next mission.
+@1.1
+{01}C1{00}, I heard from the ninja.\nIt seems you had bad luck this time.\nI look forward to the next mission.
+@2
+Ah, {01}C1{00}.\nI heard the mission report\nfrom {01}C8{00}.
+@2.1
+Ah, {01}C1{00}.\nI've heard the mission report\nfrom {01}C8{00}.
+@3
+Ah, {01}C1{00}.\nI've heard the mission report\nfrom {01}C8{00}.
+@3.1
+{01}C1{00},\nI've already heard the mission report\nfrom {01}C8{00}.
+@4
+Ah, {01}C1{00}.\nI've been waiting.\nHow is the mission going?
+@4.1
+Ah, {01}C1{00}.\nI've been waiting.\nHow is the mission going?
+@5
+Ah, {01}C1{00}.\nI've been waiting.\nHow did the mission go?
+@5.1
+Oh, {01}C1{00}.\nHow is the mission going?
+@6
+Hm?\nYou don't seem to have done the mission yet.\nSurely you don't mean to abandon it?
+@6.1
+Hm?\nYou haven't done the mission yet?\nSurely you don't mean to abandon it?
+@7
+Oh?\nHow did the mission go?\nSurely you're not giving up?
+@7.1
+Oh?\nYou don't seem to have finished the mission.\nSurely you don't mean to abandon it?
+@8
+What?!\nWhat do you take a mission for?!\nI'll cut you down myself!!
+@9
+What...\nI can't guess your reasons,\nbut I'm rather disappointed.
+@9.1
+Abandoning the mission...\nSo that's all you're capable of.\nI'm disappointed.
+@10
+Understood...\nYou seem to have your reasons,\nbut it's a pity.
+@10.1
+You can't fulfill the mission...?\nI see.\nI'm disappointed in {01}C1{00}.
+@11
+{02}{01}g's samurai merit\nfell by {02}od.
+@11.1
+{02}{01}g's ninja merit\nfell by {02}od.
+@11.2
+{02}{01}g's pirate merit\nfell by {02}od.
+@11.3
+{02}{01}g's merchant merit\nfell by {02}od.
+@12
+Well, I have business to attend to,\nso I'll take my leave...
+@12.1
+There's nothing else, is there? Dismissed.
+@13
+Well, I have business to attend to,\nso I'll take my leave...
+@13.1
+There's nothing else, is there?\nYou may go.
+@14
+Then I look forward to good news.
+@14.1
+Then hurry\nand finish the mission.
+@15
+Then I look forward to good news.
+@15.1
+Then I look forward to a good report.
+@16
+Ah, {01}C1{00}.\nI've been waiting.\nHave you completed the mission?
+@16.1
+Ah, {01}C1{00}.\nI've been waiting.\nDid you complete the mission?
+@17
+Ah, {01}C1{00}.\nI've been waiting.\nHave you completed the mission?
+@17.1
+Oh, {01}C1{00}.\nI've been waiting.\nDid you complete the mission?
+@18
+I see.\nThen I'll wait a little longer.
+@18.1
+Then finish it as soon as you can.
+@19
+Understood.\nThen I'll wait a little longer.
+@19.1
+Then finish it quickly.
+@20
+Ah, {01}C1{00}.\nIt seems you've finished the mission.\nPlease give your report.
+@20.1
+Ah, {01}C1{00}.\nIt seems you've finished the mission.\nLet's hear your report.
+@21
+Ah, {01}C1{00}.\nYou seem to have finished the mission.\nHow were the results?
+@21.1
+Oh, {01}C1{00}.\nIs the mission done?\nThen let's hear your report.
+@22
+So, how much did you earn?\nYou reached {02}Qo kan or more, I trust?
+@22.1
+Good.\nSo, how much did you earn?\nSurely {02}Qo kan or more?
+@23
+How much were the results?\nYou reached {02}Qo kan or more, I trust?
+@23.1
+Well...\nhow much did you earn?\nSurely {02}Qo kan or more?
+@24
+So, how much did you collect?\nYou reached {02}Qo kan or more, I trust?
+@24.1
+Good.\nSo, how much did you collect?\nSurely {02}Qo kan or more?
+@25
+And how much did you collect?\nYou reached {02}Qo kan or more, I trust?
+@25.1
+And how much did you collect?\nSurely {02}Qo kan or more?
+@26
+(Shall I pay in nothing?)
+@26.1
+(Shall I pay in {02}od kan?)
+@27
+(Shall I pay in nothing?)
+@27.1
+(Shall I pay in {02}od kan?)
+@28
+Oh? For so little paid in,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@28.1
+Oh? For so little paid in,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@29
+Oh? For so little paid in,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@29.1
+Oh? For so little paid in,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@30
+{02}o{C8} was confiscated.
+@31
+{02}o{C8} was confiscated from savings.
+@32
+By the way, for so little paid in,\nI hear you've money saved at home...\nThen that will make up the shortfall.
+@32.1
+By the way, for so little paid in,\nyou seem to have money saved at home.\nThen that will make up the shortfall.
+@33
+By the way, for so little paid in,\nI hear you've money saved at home...\nThen that will make up the shortfall.
+@33.1
+By the way, for so little paid in,\nyou seem to have money saved at home.\nThen that will make up the shortfall.
+@34
+Oh? For so little paid in,\nyou have something nice there.\nThen that will make up the shortfall.
+@34.1
+Oh? For so little paid in,\nyou have something nice there.\nThen that will make up the shortfall.
+@35
+Oh? For so little paid in,\nyou have something nice there.\nThen that will make up the shortfall.
+@35.1
+Oh? For so little paid in,\nyou have something nice there.\nThen that will make up the shortfall.
+@36
+{02}3g was confiscated.
+@37
+Oh? For so little paid in,\nyou seem to have plenty of trade goods.\nThen that will make up the shortfall.
+@37.1
+Oh? For so little paid in,\nyou seem to have plenty of trade goods.\nThen that will make up the shortfall.
+@38
+Oh? For so little paid in,\nyou have lots of trade goods.\nThen that will make up the shortfall.
+@38.1
+Oh? For so little paid in,\nyou have lots of trade goods.\nThen that will make up the shortfall.
+@39
+Trade goods were confiscated.
+@40
+Oh? For so little paid in,\nyou seem to have plenty of valuables.\nThen that will make up the shortfall.
+@40.1
+Oh? For so little paid in,\nyou seem to have plenty of valuables.\nThen that will make up the shortfall.
+@41
+Oh? For so little paid in,\nyou have lots of valuables.\nThen that will make up the shortfall.
+@41.1
+Oh? For so little paid in,\nyou have lots of valuables.\nThen that will make up the shortfall.
+@42
+Valuables were confiscated.
+@43
+So, how many did you buy?\nYou reached {02}Qo or more, I trust?
+@43.1
+Good.\nSo, how many did you buy?\nSurely {02}Qo or more?
+@44
+How were the results?\nYou reached {02}Qo or more, I trust?
+@44.1
+Well...\nhow were the results?\nSurely {02}Qo or more?
+@45
+(Shall I hand in nothing?)
+@45.1
+(Shall I hand in {02}od?)
+@46
+(Shall I hand in nothing?)
+@46.1
+(Shall I hand in {02}od?)
+@47
+Oh? For such poor results,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@47.1
+Oh? For such poor results,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@48
+Oh? For such poor results,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@48.1
+Oh? For such poor results,\nyour purse seems rather full.\nThen that will make up the shortfall.
+@49
+By the way, for such poor results,\nI hear you've money saved at home...\nThen that will make up the shortfall.
+@49.1
+By the way, for such poor results,\nyou seem to have money saved at home.\nThen that will make up the shortfall.
+@50
+By the way, for such poor results,\nI hear you've money saved at home...\nThen that will make up the shortfall.
+@50.1
+By the way, for such poor results,\nyou seem to have money saved at home.\nThen that will make up the shortfall.
+@51
+Oh? For such poor results,\nyou have something nice there.\nThen that will make up the shortfall.
+@51.1
+Oh? For such poor results,\nyou have something nice there.\nThen that will make up the shortfall.
+@52
+Oh? For such poor results,\nyou have something nice there.\nThen that will make up the shortfall.
+@52.1
+Oh? For such poor results,\nyou have something nice there.\nThen that will make up the shortfall.
+@53
+Oh? For such poor results,\nyou seem to have plenty of trade goods.\nThen that will make up the shortfall.
+@53.1
+Oh? For such poor results,\nyou seem to have plenty of trade goods.\nThen that will make up the shortfall.
+@54
+Oh? For such poor results,\nyou seem to have plenty of trade goods.\nThen that will make up the shortfall.
+@54.1
+Oh? For such poor results,\nyou seem to have plenty of trade goods.\nThen that will make up the shortfall.
+@55
+Oh? For such poor results,\nyou seem to have plenty of valuables.\nThen that will make up the shortfall.
+@55.1
+Oh? For such poor results,\nyou seem to have plenty of valuables.\nThen that will make up the shortfall.
+@56
+Oh? For such poor results,\nyou seem to have plenty of valuables.\nThen that will make up the shortfall.
+@56.1
+Oh? For such poor results,\nyou seem to have plenty of valuables.\nThen that will make up the shortfall.
+@57
+And where is {02}3g?
+@57.1
+And where did {02}3g go?
+@58
+And where is {02}3g?
+@58.1
+And where did {02}3g go?
+@59
+Well, the thing is...\nI've lost it somewhere.
+@59.1
+Well, the thing is, um...\nI've lost it somewhere...
+@60
+Well, the thing is, um...\nI seem to have lost it somewhere.
+@60.1
+Um, the thing is...\nI've lost it somewhere...
+@61
+What!\nThat sets a terrible example!\nAll your property is confiscated!
+@61.1
+What!\nDid you think that would be forgiven?!\nOutrageous! Your property is confiscated!
+@62
+My!\nThat cannot be forgiven.\nNo excuses; your property is confiscated!
+@62.1
+Is that true?!\nI won't hear excuses!\nYour property is confiscated!
+@63
+Bug: please report
+@64
+Infantry
+@64.1
+Cavalry
+@64.2
+Gunnery
+@64.3
+Navy
+@64.4
+Archery
+@64.5
+Martial Arts
+@64.6
+Tactics
+@64.7
+Ninjutsu
+@64.8
+Building
+@64.9
+Farming
+@64.10
+Mining
+@64.11
+Accounting
+@64.12
+Etiquette
+@64.13
+Speech
+@64.14
+Tea
+@64.15
+Medicine
+@65
+This time I was able to study\nall sorts of skills.
+@65.1
+This time I was able to study\nall sorts of skills.
+@65.2
+This time I was able to study\n{01}C{B0}{17}.
+@65.3
+This time I was able to study\n{01}C{B0}{17}.
+@65.4
+This time I was able to study\n{01}C{B0}{17} more deeply.
+@65.5
+This time I was able to study\n{01}C{B0}{17} more deeply.
+@65.6
+I'm sorry.\nIt was a fine chance,\nbut I achieved nothing much.
+@65.7
+I'm sorry.\nYou gave me a fine chance,\nbut I achieved nothing much.
+@66
+This time I was able to study\nall sorts of skills.
+@66.1
+This time I was able to study\nall sorts of skills.
+@66.2
+This time I was able to study\n{01}C{B0}{17}.
+@66.3
+This time I was able to study\n{01}C{B0}{17}.
+@66.4
+This time I was able to study\n{01}C{B0}{17} more deeply.
+@66.5
+This time I was able to study\n{01}C{B0}{17} more deeply.
+@66.6
+It was a fine chance,\nbut I achieved nothing much...
+@66.7
+I'm sorry.\nIt was a fine chance,\nbut I achieved nothing much.
+@67
+I'm sorry...\nThere's no money at all...
+@67.1
+I sold the provisions\nfor {02}od kan.
+@68
+Well, I couldn't sell any at all...
+@68.1
+I sold the provisions\nfor {02}od kan.
+@69
+I'm sorry.\nI couldn't buy any provisions at all...
+@69.1
+I'm sorry.\nI couldn't buy any provisions at all...
+@69.2
+I bought {02}od,000 koku\nof provisions.
+@70
+Well, um...\nI couldn't buy any provisions at all...
+@70.1
+I'm sorry.\nI couldn't buy any provisions at all...
+@70.2
+I bought {02}od,000 koku\nof provisions.
+@71
+I'm sorry.\nI couldn't buy any warhorses at all...
+@71.1
+I'm sorry.\nI couldn't buy any warhorses at all...
+@71.2
+I bought {02}od horses.
+@72
+Well, um...\nI couldn't buy any warhorses at all...
+@72.1
+I'm sorry.\nI couldn't buy any warhorses at all...
+@72.2
+I bought {02}od horses.
+@73
+I'm sorry.\nI couldn't buy any guns at all...
+@73.1
+I'm sorry.\nI couldn't buy any guns at all...
+@73.2
+I bought {02}od guns.
+@74
+Well, um...\nI couldn't buy any guns at all...
+@74.1
+I'm sorry.\nI couldn't buy any guns at all...
+@74.2
+I bought {02}od guns.
+@75
+I'm sorry.\nI couldn't buy any cannons at all...
+@75.1
+I'm sorry.\nI couldn't buy any cannons at all...
+@75.2
+I bought {02}od cannons.
+@76
+Well, um...\nI couldn't buy any cannons at all...
+@76.1
+I'm sorry.\nI couldn't buy any cannons at all...
+@76.2
+I bought {02}od cannons.
+@77
+I'm sorry...\nThere's no money at all...
+@77.1
+I raised {02}od kan\nin war funds.
+@78
+Well, I achieved nothing at all...
+@78.1
+I raised {02}od kan\nin war funds.
+@79
+I'm sorry...\nOrder in {02}{15}e\ndidn't improve at all...
+@79.1
+I'm sorry...\nOrder in {02}{15}e\ndidn't improve at all...
+@79.2
+I improved order in {02}{15}e\nbeyond recognition.
+@79.3
+I improved order in {02}{15}e\nfairly well.
+@80
+I'm sorry.\nOrder in {02}{15}e\ndidn't improve at all...
+@80.1
+I'm sorry...\nOrder in {02}{15}e\ndidn't improve at all.
+@80.2
+I improved order in {02}{15}e\nbeyond recognition.
+@80.3
+I improved order in {02}{15}e\nfairly well.
+@81
+I'm sorry...\nI couldn't raise {02}{15}e's\nyield at all...
+@81.1
+I'm sorry...\nI couldn't raise {02}{15}e's\nyield at all...
+@81.2
+I raised {02}{15}e's yield\nby {02}od,000 koku.
+@82
+I'm sorry.\nI couldn't raise {02}{15}e's\nyield at all...
+@82.1
+I'm sorry...\nI couldn't raise {02}{15}e's\nyield at all.
+@82.2
+I raised {02}{15}e's yield\nby {02}od,000 koku.
+@83
+I'm sorry...\nMine development in {02}{15}e\nachieved nothing...
+@83.1
+I'm sorry...\nMine development in {02}{15}e\nachieved nothing...
+@83.2
+I raised {02}{15}e's mines\nby {02}od.
+@84
+I'm sorry.\nMine development in {02}{15}e\nachieved nothing...
+@84.1
+I'm sorry...\nMine development in {02}{15}e\nachieved nothing.
+@84.2
+I raised {02}{15}e's mines\nby {02}od.
+@85
+I'm sorry...\nThe troops of {02}{15}e\ngot no stronger at all...
+@85.1
+I'm sorry...\nThe troops of {02}{15}e\ngot no stronger at all...
+@85.2
+I raised {02}{15}e's training\nby {02}od.
+@86
+I'm sorry.\nThe troops of {02}{15}e\ngot no stronger at all...
+@86.1
+I'm sorry...\nThe troops of {02}{15}e\ngot no stronger at all.
+@86.2
+I raised {02}{15}e's troops\nby {02}od.
+@87
+I'm sorry...\nI couldn't increase\n{02}{15}e's troops at all...
+@87.1
+I'm sorry...\nI couldn't increase\n{02}{15}e's troops at all...
+@87.2
+I increased {02}{15}e's troops\nby {02}od.
+@88
+I'm sorry.\nI couldn't increase\n{02}{15}e's troops at all...
+@88.1
+I'm sorry...\nI couldn't increase\n{02}{15}e's troops at all.
+@88.2
+I increased {02}{15}e's troops\nby {02}od.
+@89
+I'm sorry...\nI couldn't raise {02}{15}e's\ndefense at all...
+@89.1
+I'm sorry...\nI couldn't raise {02}{15}e's\ndefense at all...
+@89.2
+I raised {02}{15}e's defense\nby {02}od.
+@90
+I'm sorry.\n{02}{15}e's defense\ndidn't rise at all...
+@90.1
+I'm sorry...\n{02}{15}e's defense\ndidn't rise at all.
+@90.2
+I raised {02}{15}e's defense\nby {02}od.
+@91
+I'm sorry...\nI couldn't raise {02}{15}e's\nbase size at all...
+@91.1
+I'm sorry...\nI couldn't raise {02}{15}e's\nbase size at all...
+@91.2
+I raised {02}{15}e's base size\nby {02}od.
+@92
+I'm sorry.\nI couldn't raise {02}{15}e's\nbase size at all...
+@92.1
+I'm sorry...\nI couldn't raise {02}{15}e's\nbase size at all.
+@92.2
+I raised {02}{15}e's base size\nby {02}od.
+@93
+I'm sorry...\nI found no one of note...
+@93.1
+I'm sorry...\nI found no one of note...
+@93.2
+I found {02}od promising people.
+@94
+I'm sorry...\nI found no one of note...
+@94.1
+I'm sorry...\nI found no one of note...
+@94.2
+I found {02}od promising people.
+@95
+I'm sorry...\nI learned nothing\nabout {02}{15}e...
+@95.1
+I'm sorry...\nI learned nothing\nabout {02}{15}e...
+@95.2
+I obtained detailed information\non {02}{15}e.
+@95.3
+I obtained information\non {02}{15}e.
+@96
+I'm sorry...\nI learned nothing\nabout {02}{15}e...
+@96.1
+I'm sorry...\nI learned nothing\nabout {02}{15}e...
+@96.2
+I obtained detailed information\non {02}{15}e.
+@96.3
+I obtained information\non {02}{15}e.
+@97
+I'm sorry...\nI couldn't lower {02}{15}e's\ndefense at all...
+@97.1
+I'm sorry...\nI couldn't lower {02}{15}e's\ndefense at all...
+@97.2
+I lowered {02}{15}e's defense\nby {02}od.
+@98
+I'm sorry...\nI couldn't lower {02}{15}e's\ndefense at all...
+@98.1
+I'm sorry...\nI couldn't lower {02}{15}e's\ndefense at all...
+@98.2
+I lowered {02}{15}e's defense\nby {02}od.
+@99
+I'm sorry...\nI couldn't lower the stability\nof {02}{15}e's people at all...
+@99.1
+I'm sorry...\nI couldn't lower the stability\nof {02}{15}e's people at all...
+@99.2
+I lowered the stability\nof {02}{15}e's people by {02}od.
+@100
+I'm sorry...\nI couldn't lower the stability\nof {02}{15}e's people at all...
+@100.1
+I'm sorry...\nI couldn't lower the stability\nof {02}{15}e's people at all...
+@100.2
+I lowered the stability\nof {02}{15}e's people by {02}od.
+@101
+I'm sorry...\nI did no damage at all to\n{02}{15}e's military supplies...
+@101.1
+I'm sorry...\nI did no damage at all to\n{02}{15}e's military supplies...
+@101.2
+I did heavy damage to\n{02}{15}e's military supplies.
+@101.3
+I did some damage to\n{02}{15}e's military supplies.
+@102
+I'm sorry...\nI did no damage at all to\n{02}{15}e's military supplies...
+@102.1
+I'm sorry...\nI did no damage at all to\n{02}{15}e's military supplies...
+@102.2
+I did heavy damage to\n{02}{15}e's military supplies.
+@102.3
+I did some damage to\n{02}{15}e's military supplies.
+@103
+I'm sorry...\n{02}{0B}e refused the alliance...
+@103.1
+I'm sorry...\n{02}{0B}e refused the alliance...
+@103.2
+I concluded an alliance\nwith {02}{0B}e.
+@104
+I'm sorry...\n{02}{0B}e refused the alliance...
+@104.1
+I'm sorry...\n{02}{0B}e refused the alliance...
+@104.2
+I concluded an alliance\nwith {02}{0B}e.
+@105
+I'm sorry...\nI couldn't break the alliance\nwith {02}{0B}e...
+@105.1
+I'm sorry...\nI couldn't break the alliance\nwith {02}{0B}e...
+@105.2
+I broke the alliance\nwith {02}{0B}e.
+@106
+I'm sorry...\nI couldn't break the alliance\nwith {02}{0B}e...
+@106.1
+I'm sorry...\nI couldn't break the alliance\nwith {02}{0B}e...
+@106.2
+I broke the alliance\nwith {02}{0B}e.
+@107
+I'm sorry...\nI couldn't bring {02}{0B}e\nunder our house's control...
+@107.1
+I'm sorry...\nI couldn't bring {02}{0B}e\nunder our house's control...
+@107.2
+I brought {02}{0B}e\nunder our control.
+@108
+I'm sorry...\nI couldn't bring {02}{0B}e\nunder our house's control...
+@108.1
+I'm sorry...\nI couldn't bring {02}{0B}e\nunder our house's control...
+@108.2
+I brought {02}{0B}e\nunder our control.
+@109
+I'm sorry...\n{02}{0B}e refused our house's\ndemand for submission...
+@109.1
+I'm sorry...\n{02}{0B}e refused our house's\ndemand for submission...
+@109.2
+I secured the submission\nof {02}{0B}e to our house.
+@110
+I'm sorry...\n{02}{0B}e refused our house's\ndemand for submission...
+@110.1
+I'm sorry...\n{02}{0B}e refused our house's\ndemand for submission...
+@110.2
+I secured the submission\nof {02}{0B}e to our house.
+@111
+I'm sorry...\nI couldn't declare war\non {02}{0B}e...
+@111.1
+I'm sorry...\nI couldn't declare war\non {02}{0B}e...
+@111.2
+I declared war\non {02}{0B}e.
+@112
+I'm sorry...\nI couldn't declare war\non {02}{0B}e...
+@112.1
+I'm sorry...\nI couldn't declare war\non {02}{0B}e...
+@112.2
+I declared war\non {02}{0B}e.
+@113
+I'm sorry...\n{02}{0B}e rejected our\noffer of peace...
+@113.1
+I'm sorry...\n{02}{0B}e rejected our\noffer of peace...
+@113.2
+I made peace\nwith {02}{0B}e.
+@114
+I'm sorry...\n{02}{0B}e rejected our\noffer of peace...
+@114.1
+I'm sorry...\n{02}{0B}e rejected our\noffer of peace...
+@114.2
+I made peace\nwith {02}{0B}e.
+@115
+I'm sorry...\nI couldn't improve relations\nwith {02}{0B}e...
+@115.1
+I'm sorry...\nI couldn't improve relations\nwith {02}{0B}e...
+@115.2
+I deepened our relations\nwith {02}{0B}e.
+@116
+I'm sorry...\nI couldn't improve relations\nwith {02}{0B}e...
+@116.1
+I'm sorry...\nI couldn't improve relations\nwith {02}{0B}e...
+@116.2
+I deepened our relations\nwith {02}{0B}e.
+@117
+I'm sorry...\nI couldn't raise our court standing...
+@117.1
+I'm sorry...\nI couldn't raise our court standing...
+@117.2
+I raised our court standing\nby {02}od.
+@117.3
+I raised our court standing by {02}od\nand was granted the post of {02}yd.
+@117.4
+I raised our court standing by {02}od\nand was granted the post of {02}yd.
+@118
+I'm sorry...\nI couldn't raise our court standing...
+@118.1
+I'm sorry...\nI couldn't raise our court standing...
+@118.2
+I raised our court standing\nby {02}od.
+@118.3
+I raised our court standing by {02}od\nand was granted the post of {02}yd.
+@119
+I'm sorry...\nI couldn't recruit\nLord {02}{03}g...
+@119.1
+I'm sorry...\nI couldn't recruit\nLord {02}{03}g...
+@119.2
+I recruited\nLord {02}{03}g.
+@120
+I'm sorry...\nI couldn't recruit\nLord {02}{03}g...
+@120.1
+I'm sorry...\nI couldn't recruit\nLord {02}{03}g...
+@120.2
+I recruited\nLord {02}{03}g.
+@121
+I'm sorry...\nI couldn't protect Lord {02}{03}g...
+@121.1
+I'm sorry...\nI failed to protect\nLord {02}{03}g.
+@121.2
+I protected\nLord {02}{03}g.
+@122
+I'm sorry...\nI couldn't protect {01}C8{00}...
+@122.1
+I'm sorry...\nI couldn't protect {01}C8{00}.
+@122.2
+I protected\n{01}C8{00}.
+@123
+I'm sorry...\nI couldn't raise demand for\n{02}Ge in {02}{15}e...
+@123.1
+I'm sorry...\nI couldn't raise demand for\n{02}Ge in {02}{15}e...
+@123.2
+I greatly raised demand for\n{02}Ge in {02}{15}e.
+@123.3
+I raised demand for\n{02}Ge in {02}{15}e somewhat.
+@124
+I'm sorry...\nI couldn't raise demand for\n{02}Ge in {02}{15}e...
+@124.1
+I'm sorry...\nI couldn't raise demand for\n{02}Ge in {02}{15}e...
+@124.2
+I greatly raised demand for\n{02}Ge in {02}{15}e.
+@124.3
+I raised demand for\n{02}Ge in {02}{15}e somewhat.
+@125
+I'm sorry...\nI couldn't find {02}3g...
+@125.1
+I'm sorry...\nI couldn't find {02}3g...
+@125.2
+I tracked down\n{02}3g.
+@126
+I'm sorry...\nI couldn't find {02}3g...
+@126.1
+I'm sorry...\nI couldn't find {02}3g...
+@126.2
+I tracked down\n{02}3g.
+@127
+I'm sorry...\nI couldn't obtain {02}3g\nfrom {02}{03}g...
+@127.1
+I'm sorry...\nI couldn't obtain {02}3g\nfrom {02}{03}g...
+@127.2
+I obtained {02}3g\nfrom {02}{03}g.
+@128
+I'm sorry...\nI couldn't obtain {02}3g\nfrom {02}{03}g...
+@128.1
+I'm sorry...\nI couldn't obtain {02}3g\nfrom {02}{03}g...
+@128.2
+I obtained {02}3g\nfrom {02}{03}g.
+@129
+I'm sorry...\nI couldn't seize any provisions...
+@129.1
+I'm sorry...\nI couldn't seize any provisions...
+@129.2
+I seized {02}od,000 koku of provisions.
+@130
+I'm sorry...\nI couldn't seize any provisions\nfrom {02}{15}e...
+@130.1
+I'm sorry...\nI couldn't seize any provisions\nfrom {02}{15}e...
+@130.2
+I seized {02}od,000 koku\nof provisions from {02}{15}e.
+@131
+I'm sorry...\nI couldn't attack {02}{03}g...
+@131.1
+I'm sorry...\nI couldn't attack {02}{03}g...
+@131.2
+I attacked {02}{03}g.
+@132
+I'm sorry...\nI couldn't attack {02}{03}g...
+@132.1
+I'm sorry...\nI couldn't attack {02}{03}g...
+@132.2
+I attacked {02}{03}g.
+@133
+I'm sorry...\nI couldn't protect\nthe supply train...
+@133.1
+I'm sorry...\nI couldn't protect\nthe supply train...
+@133.2
+I protected\nthe supply train.
+@134
+I'm sorry...\nI couldn't protect\nthe supply train...
+@134.1
+I'm sorry...\nI couldn't protect\nthe supply train...
+@134.2
+I protected\nthe supply train.
+@135
+I'm sorry...\nI couldn't wipe out\nthe supply train...
+@135.1
+I'm sorry...\nI couldn't wipe out\nthe supply train...
+@135.2
+I wiped out\nthe supply train.
+@136
+I'm sorry...\nI couldn't wipe out\nthe supply train...
+@136.1
+I'm sorry...\nI couldn't wipe out\nthe supply train...
+@136.2
+I wiped out\nthe supply train.
+@137
+I'm sorry...\nI couldn't raise the route escort fee\nfrom {02}{0B}e...
+@137.1
+I'm sorry...\nI couldn't raise the route escort fee\nfrom {02}{0B}e...
+@137.2
+I won a large raise in the route\nescort fee from {02}{0B}e.
+@137.3
+I won a fair raise in the route\nescort fee from {02}{0B}e.
+@138
+I'm sorry...\nI couldn't raise the route escort fee\nfrom {02}{0B}e...
+@138.1
+I'm sorry...\nI couldn't raise the route escort fee\nfrom {02}{0B}e...
+@138.2
+I won a large raise in the route\nescort fee from {02}{0B}e.
+@138.3
+I won a fair raise in the route\nescort fee from {02}{0B}e.
+@139
+I'm sorry...\nI couldn't eliminate\nthe rogue ninja {02}{03}g...
+@139.1
+I'm sorry...\nI couldn't eliminate\nthe rogue ninja {02}{03}g...
+@139.2
+I eliminated\nthe rogue ninja {02}{03}g.
+@140
+I'm sorry...\nI couldn't eliminate\nthe rogue ninja {02}{03}g...
+@140.1
+I'm sorry...\nI couldn't eliminate\nthe rogue ninja {02}{03}g...
+@140.2
+I eliminated\nthe rogue ninja {02}{03}g.
+@141
+I'm sorry...\nI couldn't learn\n{02}{0B}e's strategy...
+@141.1
+I'm sorry...\nI couldn't learn\n{02}{0B}e's strategy...
+@141.2
+I learned\n{02}{0B}e's strategy.
+@142
+I'm sorry...\nI couldn't learn\n{02}{0B}e's strategy...
+@142.1
+I'm sorry...\nI couldn't learn\n{02}{0B}e's strategy...
+@142.2
+I learned\n{02}{0B}e's strategy.
+@143
+I'm sorry...\nI couldn't seize any sekibune\nfrom {02}{15}e...
+@143.1
+I'm sorry...\nI couldn't seize any sekibune\nfrom {02}{15}e...
+@143.2
+I seized {02}od sekibune\nfrom {02}{15}e.
+@144
+I'm sorry...\nI couldn't seize any sekibune\nfrom {02}{15}e...
+@144.1
+I'm sorry...\nI couldn't seize any sekibune\nfrom {02}{15}e...
+@144.2
+I seized {02}od sekibune\nfrom {02}{15}e.
+@145
+I'm sorry...\nI couldn't blockade the trade routes\nfrom {02}{15}e...
+@145.1
+I'm sorry...\nI couldn't blockade the trade routes\nfrom {02}{15}e...
+@145.2
+I blockaded the trade routes\nfrom {02}{15}e.
+@146
+I'm sorry...\nI couldn't blockade the trade routes\nfrom {02}{15}e...
+@146.1
+I'm sorry...\nI couldn't blockade the trade routes\nfrom {02}{15}e...
+@146.2
+I blockaded the trade routes\nfrom {02}{15}e.
+@147
+I'm sorry...\nI couldn't subdue\nthe pirates of {02})e...
+@147.1
+I'm sorry...\nI couldn't subdue\nthe pirates of {02})e...
+@147.2
+I subdued\nthe pirates of {02})e.
+@148
+I'm sorry...\nI couldn't subdue\nthe pirates of {02})e...
+@148.1
+I'm sorry...\nI couldn't subdue\nthe pirates of {02})e...
+@148.2
+I subdued\nthe pirates of {02})e.
+@149
+I'm sorry...\nI couldn't raid the port town\nof {02}{15}e...
+@149.1
+I'm sorry...\nI couldn't raid the port town\nof {02}{15}e...
+@149.2
+I raided the port town\nof {02}{15}e.
+@150
+I'm sorry...\nI couldn't raid the port town\nof {02}{15}e...
+@150.1
+I'm sorry...\nI couldn't raid the port town\nof {02}{15}e...
+@150.2
+I raided the port town\nof {02}{15}e.
+@151
+I'm sorry...\nI couldn't protect the port town\nof {02}{15}e from pirates...
+@151.1
+I'm sorry...\nI couldn't protect the port town\nof {02}{15}e from pirates...
+@151.2
+I protected the port town\nof {02}{15}e from pirates.
+@152
+I'm sorry...\nI couldn't protect the port town\nof {02}{15}e from pirates...
+@152.1
+I'm sorry...\nI couldn't protect the port town\nof {02}{15}e from pirates...
+@152.2
+I protected the port town\nof {02}{15}e from pirates.
+@153
+I'm sorry...\nI couldn't build any sekibune...
+@153.1
+I'm sorry...\nI couldn't build any sekibune...
+@153.2
+I built {02}od sekibune.
+@154
+I'm sorry...\nI couldn't build any sekibune...
+@154.1
+I'm sorry...\nI couldn't build any sekibune...
+@154.2
+I built {02}od sekibune.
+@155
+I'm sorry...\nI couldn't build any large ships...
+@155.1
+I'm sorry...\nI couldn't build any large ships...
+@155.2
+I built {02}od large ships.
+@156
+I'm sorry...\nI couldn't build any large ships...
+@156.1
+I'm sorry...\nI couldn't build any large ships...
+@156.2
+I built {02}od large ships.
+@157
+I'm sorry...\nI couldn't build any ironclads...
+@157.1
+I'm sorry...\nI couldn't build any ironclads...
+@157.2
+I built {02}od ironclads.
+@158
+I'm sorry...\nI couldn't build any ironclads...
+@158.1
+I'm sorry...\nI couldn't build any ironclads...
+@158.2
+I built {02}od ironclads.
+@159
+I'm sorry...\nI couldn't sell the guns...
+@159.1
+I'm sorry...\nI couldn't sell the guns...
+@159.2
+I sold the guns\nfor {02}od kan.
+@160
+I'm sorry...\nI couldn't sell the guns...
+@160.1
+I'm sorry...\nI couldn't sell the guns...
+@160.2
+I sold the guns\nfor {02}od kan.
+@161
+I'm sorry...\nI couldn't buy provisions\nfrom {02}{15}e...
+@161.1
+I'm sorry...\nI couldn't buy provisions\nfrom {02}{15}e...
+@161.2
+I bought {02}od,000 koku\nof provisions from {02}{15}e.
+@162
+I'm sorry...\nI couldn't buy provisions\nfrom {02}{15}e...
+@162.1
+I'm sorry...\nI couldn't buy provisions\nfrom {02}{15}e...
+@162.2
+I bought {02}od,000 koku\nof provisions from {02}{15}e.
+@163
+I'm sorry...\nI gave war funds to {02}{0B}e,\nbut couldn't build friendship...
+@163.1
+I'm sorry...\nI gave war funds to {02}{0B}e,\nbut couldn't build friendship...
+@163.2
+I gave war funds to {02}{0B}e\nand built friendly relations.
+@164
+I'm sorry...\nI gave war funds to {02}{0B}e,\nbut couldn't build friendship...
+@164.1
+I'm sorry...\nI gave war funds to {02}{0B}e,\nbut couldn't build friendship...
+@164.2
+I gave war funds to {02}{0B}e\nand built friendly relations.
+@165
+I'm sorry...\nI couldn't invest enough\nin {02}{15}e...
+@165.1
+I'm sorry...\nI couldn't invest enough\nin {02}{15}e...
+@165.2
+I invested {02}od kan in {02}{15}e.
+@166
+I'm sorry...\nI couldn't invest enough\nin {02}{15}e...
+@166.1
+I'm sorry...\nI couldn't invest enough\nin {02}{15}e...
+@166.2
+I invested {02}od kan in {02}{15}e.
+@167
+I'm sorry...\nI brought gifts to Lord {02}{03}g,\nbut couldn't improve their view of us...
+@167.1
+I'm sorry...\nI brought gifts to Lord {02}{03}g,\nbut couldn't improve their view of us...
+@167.2
+I brought gifts to Lord {02}{03}g\nand improved their view of our house.
+@168
+I'm sorry...\nI brought gifts to Lord {02}{03}g,\nbut couldn't build friendship...
+@168.1
+I'm sorry...\nI brought gifts to Lord {02}{03}g,\nbut couldn't build friendship...
+@168.2
+I brought gifts to Lord {02}{03}g\nand built friendly relations.
+@169
+I'm sorry...\nI couldn't resign as purveyor\nto {02}{0B}e...
+@169.1
+I'm sorry...\nI couldn't resign as purveyor\nto {02}{0B}e...
+@169.2
+I resigned as purveyor\nto {02}{0B}e.
+@170
+I'm sorry...\nI couldn't resign as purveyor\nto {02}{0B}e...
+@170.1
+I'm sorry...\nI couldn't resign as purveyor\nto {02}{0B}e...
+@170.2
+I resigned as purveyor\nto {02}{0B}e.
+@171
+I'm sorry...\nI couldn't lend funds\nto the daimyo house...
+@171.1
+I'm sorry...\nI couldn't lend funds\nto the daimyo house...
+@171.2
+I lent {02}od kan\nto the daimyo house.
+@172
+I'm sorry...\nI couldn't lend funds\nto the daimyo house...
+@172.1
+I'm sorry...\nI couldn't lend funds\nto the daimyo house...
+@172.2
+I lent {02}od kan\nto the daimyo house.
+@173
+I'm sorry...\nI couldn't recover the loan\nfrom the daimyo house...
+@173.1
+I'm sorry...\nI couldn't recover the loan\nfrom the daimyo house...
+@173.2
+I recovered {02}od kan of the loan\nfrom the daimyo house.
+@174
+I'm sorry...\nI couldn't recover the loan\nfrom the daimyo house...
+@174.1
+I'm sorry...\nI couldn't recover the loan\nfrom the daimyo house...
+@174.2
+I recovered {02}od kan of the loan\nfrom the daimyo house.
+@175
+I'm sorry...\nI couldn't survey the market prices\nof the towns in {02}ee...
+@175.1
+I'm sorry...\nI couldn't survey the market prices\nof the towns in {02}ee...
+@175.2
+I surveyed the market prices\nof all the towns in {02}ee.
+@175.3
+I surveyed the market prices\nof some towns in {02}ee.
+@176
+I'm sorry...\nI couldn't survey the market prices\nof the towns in {02}ee...
+@176.1
+I'm sorry...\nI couldn't survey the market prices\nof the towns in {02}ee...
+@176.2
+I surveyed the market prices\nof all the towns in {02}ee.
+@176.3
+I surveyed the market prices\nof some towns in {02}ee.
+@177
+I'm sorry...\nI couldn't transport {02}Ge\nto {02}{15}e...
+@177.1
+I'm sorry...\nI couldn't transport {02}Ge\nto {02}{15}e...
+@177.2
+I transported {02}Ge\nto {02}{15}e.
+@178
+I'm sorry...\nI couldn't transport {02}Ge\nto {02}{15}e...
+@178.1
+I'm sorry...\nI couldn't transport {02}Ge\nto {02}{15}e...
+@178.2
+I transported {02}Ge\nto {02}{15}e.
+@179
+I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
+@179.1
+I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
+@179.2
+At the {02}{15}e branch I got\n{02}od months of advertising effect.
+@180
+I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
+@180.1
+I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
+@180.2
+At the {02}{15}e branch I got\n{02}od months of advertising effect.
+@181
+I'm sorry...\nI couldn't make a profit\nselling {02}3g...
+@181.1
+I'm sorry...\nI couldn't make a profit\nselling {02}3g...
+@181.2
+I sold {02}3g\nfor {02}od kan.
+@182
+I'm sorry...\nI couldn't make a profit\nselling {02}3g...
+@182.1
+I'm sorry...\nI couldn't make a profit\nselling {02}3g...
+@182.2
+I sold {02}3g\nfor {02}od kan.
+@183
+I'm sorry...\nI couldn't buy {02}Ge...
+@183.1
+I'm sorry...\nI couldn't buy {02}Ge...
+@183.2
+I bought {02}od of {02}Ge.
+@184
+I'm sorry...\nI couldn't buy {02}Ge...
+@184.1
+I'm sorry...\nI couldn't buy {02}Ge...
+@184.2
+I bought {02}od of {02}Ge.
+@185
+I'm sorry...\nI couldn't buy {02}3g...
+@185.1
+I'm sorry...\nI couldn't buy {02}3g...
+@185.2
+I bought {02}od of\n{02}3g.
+@186
+I'm sorry...\nI couldn't buy {02}3g...
+@186.1
+I'm sorry...\nI couldn't buy {02}3g...
+@186.2
+I bought {02}od of\n{02}3g.
+@187
+I'm sorry...\nI couldn't sell {02}3g\nto {02}{03}g...
+@187.1
+I'm sorry...\nI couldn't sell {02}3g\nto {02}{03}g...
+@187.2
+I sold {02}3g to {02}{03}g\nbelow list price...
+@187.3
+I sold {02}3g to {02}{03}g\nat list price...
+@187.4
+I sold {02}3g to {02}{03}g\nabove list price.
+@188
+I'm sorry...\nI couldn't sell {02}3g\nto {02}{03}g...
+@188.1
+I'm sorry...\nI couldn't sell {02}3g\nto {02}{03}g...
+@188.2
+I sold {02}3g to {02}{03}g\nbelow list price...
+@188.3
+I sold {02}3g to {02}{03}g\nabove list price.
+@189
+{02}{03}g's\nsamurai merit\nrose by {02}od.
+@189.1
+{02}{03}g's\nninja merit\nrose by {02}od.
+@189.2
+{02}{03}g's\npirate merit\nrose by {02}od.
+@189.3
+{02}{03}g's\nmerchant merit\nrose by {02}od.
+@190
+...I see.\nIt can't be helped.\nThank you for your trouble.
+@190.1
+...Hm, well, it can't be helped.\nThank you for your trouble.
+@190.2
+Isn't that splendid?\n{01}C1{00}, well done.\nThank you for your trouble.
+@190.3
+Quite good work, isn't it?\n{01}C1{00}, thank you for your trouble.
+@190.4
+Good, {01}C1{00}.\nThank you for your trouble.
+@190.5
+...{01}C1{00}, I expected\na little more of {01}C{19}{00}...\nAnyway, thank you for your trouble.
+@190.6
+...{01}C1{00}, I expected\na little more of {01}C{19}{00}...\nWell, fine. Thank you for your trouble.
+@190.7
+...{01}C1{00},\nthat's no result to praise.\nI hope for better next time.
+@190.8
+...{01}C1{00},\nthat's hardly a result to praise.\nWork harder from now on.
+@190.9
+From someone like {01}C1{00}...\nI am disappointed.
+@190.10
+Fool!!\n{01}C1{00}, what have you been doing?!\nEnough, get out!
+@191
+...I see.\nIt can't be helped.\nThank you for your trouble.
+@191.1
+Oh...\nIt can't be helped.\nThank you for your trouble.
+@191.2
+My, splendid!\n{01}C1{00}, well done.\nThank you for your trouble.
+@191.3
+Quite a good result.\n{01}C1{00}, thank you for your trouble.
+@191.4
+I see.\nThank you for your trouble.
+@191.5
+Oh, is that all...?\nAh, no, just talking to myself.\n{01}C1{00}, thank you for your trouble.
+@191.6
+...{01}C1{00}, I expected\na little more of {01}C{19}{00}...\nAnyway, thank you for your trouble.
+@191.7
+{01}C1{00}...\nNo, it's nothing.\nI hope for better next time.
+@191.8
+...Surely {01}C1{00}\ncan do better than that?\nI expect more next time.
+@191.9
+From someone like {01}C1{00}...\nCould you show a little\nmore effort?
+@191.10
+What is the meaning of this?!!\n{01}C1{00}, what have you been doing?\n...Enough, get out.
+@192
+{01}C1{00}, please leave\nthe rest of the mission money here.
+@192.1
+{01}C1{00}, leave the rest\nof the mission money here.
+@193
+{01}C1{00}, the rest of the\nmission money, please...
+@193.1
+{01}C1{00}, leave the rest\nof the mission money here.
+@194
+By the way, {01}C1{00},\nwhat became of the leftover mission money?
+@194.1
+By the way, {01}C1{00},\nthere's leftover mission money.\nWhat did you do with it?
+@195
+By the way, {01}C1{00},\nwhat became of the leftover mission money?
+@195.1
+By the way, {01}C1{00},\nthere's leftover mission money, isn't there?\nWhat did you do with it?
+@196
+Eh?\nAh, well... um...
+@196.1
+Eh?\nOh, um... well...
+@197
+Spending mission funds\nfor your own gain...\nAs punishment, all your property is confiscated.
+@197.1
+Spending mission funds for your own\ngain, what is the meaning of this?!\nAs punishment, all your property is confiscated.
+@198
+Spending mission funds\nfor your own gain...\nAs punishment, all your property is confiscated.
+@198.1
+Spending mission funds for your own\ngain, what is the meaning of this?!\nAs punishment, all your property is confiscated.
+@199
+{01}C1{00}, what were you doing?!\nThe deadline for {02}yd is long past!
+@199.1
+Too late!\n{01}C1{00}, what were you doing?!\nThe deadline for {02}yd is long past!
+@200
+{01}C1{00}, what were you doing?!\nThe deadline for {02}yd is long past!
+@200.1
+You're late, {01}C1{00}!\nThe deadline for {02}yd is long past!
+@201
+On a battlefield, I would have\n{01}C{19}{00} executed on the spot!\nBe careful from now on!
+@201.1
+On a battlefield, I would have\n{01}C{19}{00} executed on the spot!\nBe careful from now on!
+@202
+With {01}C{19}{00} behaving like that,\nwhat example is it for the other {01}C{AA}{01}s? Pull yourself together!
+@202.1
+On a battlefield, I would have\n{01}C{19}{00} executed on the spot!\nBe careful from now on!
+@203
+A single day's delay can cause\ntens of thousands of kan in losses.\nPlease engrave that on your heart!
+@203.1
+A single day's delay can cause\ntens of thousands of kan in losses!\nEngrave that on your heart!
+@204
+A single day's delay can cause\ntens of thousands of kan in losses.\nPlease engrave that on your heart!
+@204.1
+A single day's delay can cause\ntens of thousands of kan in losses.\nEngrave that on your heart!
+@205
+I'm ashamed...
+@205.1
+Yes, sir...!\nI am very sorry!
+@206
+I'll reflect on it...
+@206.1
+Yes!\nI'm very sorry...
+@207
+Then I shall hear the mission report.
+@207.1
+So, have you finished the mission?\nLet's hear the report.
+@208
+Then I shall hear the mission report.
+@208.1
+So, have you finished the mission?\nLet's hear the report.
+@209
+Then we'll hold council at once.
+@209.1
+Then we'll hold council at once.\nFollow me.
+@210
+Then we'll hold council at once.\nPlease come to the council room too...
+@210.1
+Then we'll hold council at once.\n{01}C{19}{00}, come too.
+@211
+...I'm sorry.\nTo tell the truth, it's not yet.........
+@211.1
+...Well, um...\nTo tell the truth, it's not yet...
+@212
+{01}C1{00}!\nWhat do you take a mission for?!\nI misjudged you!!
+@212.1
+Fool! What do you take a mission for?!\nI misjudged you!!
+@213
+{01}C1{00}!\nWhat do you mean by this?\nWhat do you take a mission for?!
+@213.1
+What did you say?\nWhat do you take a mission for?!\nThat's quite enough!!
+@214
+Hm?! It seems you spent the money\n{01}C{0E}{00} gave you!\nYour property is confiscated!
+@214.1
+Hm?! It seems you've spent the money\n{01}C{0E}{00} gave you!\nOutrageous! Your property is confiscated!
+@215
+Oh?! You seem to have spent the money\n{01}C{0E}{00} gave you...\nNo excuses; your property is confiscated!
+@215.1
+Oh?! You spent the money\n{01}C{0E}{00} gave you, didn't you?\nNo excuses! Your property is confiscated!
+@216
+Hm?\nThe {02}3g I gave you is short.\nThen you'll repay the cost of the goods.
+@216.1
+Hm?\nThe {02}3g I gave you seems short.\nThen you'll repay the cost of the goods.
+@217
+Oh?\nThe {02}3g I gave you is short.\nThen you'll repay the cost of the goods.
+@217.1
+Oh?\nThe {02}3g I gave you is short.\nThen you'll repay the cost of the goods.
+@218
+Hm?\nThe goods I gave you are missing.\nThen you'll repay their cost.
+@218.1
+Hm?\nThe goods I gave you seem to be missing.\nThen you'll repay their cost.
+@219
+Oh?\nThe goods I gave you are missing.\nThen you'll repay their cost.
+@219.1
+Oh?\nThe goods I gave you are missing.\nThen you'll repay their cost.
+@220
+What, you can't even pay for them?!\nI'll hear no excuses.\nYour property is confiscated!
+@220.1
+What, you can't even pay for them?!\nOutrageous!\nYour property is confiscated!
+@221
+What, you can't even pay for them?!\nI'll hear no excuses.\nAll your property is confiscated!
+@221.1
+What, you can't even pay for them?!\nI'll hear no excuses.\nAll your property is confiscated!
+@222
+Oh, you mustn't equip the goods\nas you please. If you want it that much,\nI'll give you this.
+@222.1
+Hey, don't equip the goods as you please.\nIf you want it that much, take this.
+@223
+Oh, you mustn't equip the goods\nas you please. If you want it that much,\nI'll give you this.
+@223.1
+Oh, you mustn't equip the goods\nas you please. If you want it that much,\nI'll give you this.
+@224
+Received {02}3g.
+@225
+I'd feel bad taking all your property.\nPlease take this at least.
+@225.1
+Well, it'd be a shame to strip you bare.\nTake this at least.
+@226
+I'd feel bad taking all your property.\nPlease take this at least.
+@226.1
+Well, it'd be a shame to strip you bare.\nTake this at least.
+@227
+Received {02}3g\nand {02}4g.
+@228
+Oh, you mustn't equip the mission\nitem as you please.\nI'll give you this instead.
+@228.1
+Hey, don't equip the mission item as you\nplease. If you want it that much, take this.
+@229
+Oh, you mustn't equip the mission\nitem as you please.\nI'll give you this instead.
+@229.1
+Oh, you mustn't equip the mission\nitem as you please.\nTake this instead.
+@230
+We'll hold council now!\n{01}C1{00}!\nI won't forgive this a second time!
+@230.1
+We'll hold council now!\n{01}C1{00}!\nI won't forgive this a second time!
+@231
+We'll hold council now!\n{01}C1{00}!\nNever do this again!
+@231.1
+We'll hold council now!\n{01}C1{00}!\nI won't forgive this a second time!
+@232
+If there's nothing else,\n{01}C{0E}{00} will take my leave!
+@232.1
+If there's nothing else, get out!\nI don't want to see your face!
+@233
+If there's nothing else,\n{01}C{0E}{00} will take my leave!
+@233.1
+If there's nothing else, go!\nI don't want to see you for a while!
+@234
+If there's nothing else,\n{01}C{0E}{00} will take my leave!
+@234.1
+Get out!\nDon't be late next time!
+@235
+If there's nothing else,\n{01}C{0E}{00} will take my leave!
+@235.1
+Go now!\nDon't be late next time!
+@236
+{01}C1{00},\nwelcome.
+@236.1
+{01}C1{00},\ncome in, please.
+@237
+What is it?
+@237.1
+Then, what can I do for you?
+@238
+You should have enough helpers already.\nI can't give you any more.
+@238.1
+You should have enough aides already.\nI can't give you any more.
+@238.2
+You should have enough aides already.\nI can't give you any more.
+@238.3
+You should have enough helpers already.\nI can't give you\nany more.
+@238.4
+You should have enough aides already.\nI can't give you any more.
+@238.5
+You should have enough aides already.\nI can't give you any more.
+@239
+This base doesn't have enough retainers.\nI can't give you any more helpers.
+@239.1
+This base doesn't have enough retainers.\nI can't give you any more aides.
+@239.2
+Our base doesn't have enough retainers.\nI can't give you any more aides.
+@239.3
+This base doesn't have enough retainers.\nI can't give you\nany more helpers.
+@239.4
+This base doesn't have enough retainers.\nI can't give you any more aides.
+@239.5
+This base doesn't have enough retainers.\nI can't give you any more aides.
+@240
+There's no one here\nwho can be made a helper.
+@240.1
+There's no one here\nwho can be made an aide.
+@240.2
+There's no one here\nwho can be made an aide.
+@240.3
+There's no one here\nwho can be made a helper.
+@240.4
+There's no one here\nwho can be made an aide.
+@240.5
+There's no one here\nwho can be made an aide.
+@241
+Oho, you want more {01}C{99}{01}s?\nWho do you want?
+@241.1
+I see, you want more {01}C{99}{01}s.\nWho do you want?
+@242
+{01}C8{00} is on campaign.\nI can't send them now.
+@243
+You want {01}C8{00} as your {01}C{99}{01}?
+@243.1
+You want {01}C8{00} as your {01}C{99}{01}?
+@244
+{01}C8{00}, then.\nI'll arrange it at once.
+@244.1
+Very well.\nI'll send {01}C8{00} as your {01}C{99}{01}.\nI'll arrange it at once.
+@245
+{01}C8{00}, then.\nI'll arrange it at once.
+@245.1
+Understood.\nI'll lend you {01}C8{00} as your {01}C{99}{01}.\nI'll arrange it at once.
+@246
+Is there anyone else you want?
+@246.1
+Anyone else you want?
+@247
+Is there anyone else you want?
+@247.1
+Is there anyone else you want?
+@248
+Now {01}C{19}{00} seems to have\nenough {01}C{99}{01}s.\nPlease make good use of them.
+@248.1
+Good, now {01}C{19}{00} seems to have\nenough {01}C{99}{01}s.\nMake good use of them.
+@249
+Now {01}C{19}{00} has\nenough {01}C{99}{01}s.\nPlease make good use of them.
+@249.1
+Now {01}C{19}{00} has\nenough {01}C{99}{01}s.\nMake good use of them.
+@250
+What?\nYou don't need {01}C{99}{01}s?
+@250.1
+What?\nYou say you don't need {01}C{99}{01}s?
+@251
+Eh? You don't need {01}C{99}{01}s?
+@251.1
+Eh? You don't need {01}C{99}{01}s?
+@252
+Understood.\nSay so any time you want some.
+@252.1
+All right.\nCome any time you want some.
+@253
+Understood.\nWhenever you need them,\njust say so.
+@253.1
+I see.\nCome again when you need them.
+@254
+Then please choose again.
+@254.1
+Then choose again.
+@255
+Then please choose again.
+@255.1
+Then choose again.
+@256
+Really leave your post and become a ronin?
+@256.1
+Really leave your post and become a ronin?
+@257
+I'm drawing up the next strategy now.\nIt will be decided by the next council.
+@257.1
+I'm drawing up the next strategy now.\nIt should be decided by the next council.
+@258
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, please act with that in mind.
+@258.1
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, act with that in mind.
+@259
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, please act with that in mind.
+@259.1
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, act with that in mind.
+@260
+{02}{0B}e's goal is\nto take {02}{15}e.\n{01}C{19}{00} too, please act with that in mind.
+@260.1
+{02}{0B}e's current goal is\nto take {02}{15}e.\n{01}C{19}{00} too, act with that in mind.
+@261
+{02}{0B}e's goal is\nto take {02}{15}e.\n{01}C{19}{00} too, please act with that in mind.
+@261.1
+{02}{0B}e's current goal is\nto take {02}{15}e.\n{01}C{19}{00} too, act with that in mind.
+@262
+{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@262.1
+{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@263
+{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@263.1
+{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@264
+Our house's goal is\n{02}yd of {02}{1F}e.\n{01}C{19}{00} too, please act with that in mind.
+@264.1
+Our house's current goal is\n{02}yd of {02}{1F}e.\n{01}C{19}{00} too, act with that in mind.
+@265
+Our house's goal is\n{02}yd of {02}{1F}e.\n{01}C{19}{00} too, please act with that in mind.
+@265.1
+Our house's current goal is\n{02}yd of {02}{1F}e.\n{01}C{19}{00} too, act with that in mind.
+@266
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, please act with that in mind.
+@266.1
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, act with that in mind.
+@267
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, please act with that in mind.
+@267.1
+{02}{0B}e's goal is\n{02}yd.\n{01}C{19}{00} too, act with that in mind.
+@268
+{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@268.1
+{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@269
+{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@269.1
+{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@270
+For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@270.1
+For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@271
+For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@271.1
+For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@272
+Our house's goal is\n{02}zd of {02}yd.\n{01}C{19}{00} too, please act with that in mind.
+@272.1
+Our house's current goal is\n{02}zd of {02}yd.\n{01}C{19}{00} too, act with that in mind.
+@273
+Our house's goal is\n{02}zd of {02}yd.\n{01}C{19}{00} too, please act with that in mind.
+@273.1
+Our house's current goal is\n{02}zd of {02}yd.\n{01}C{19}{00} too, act with that in mind.
+@274
+Our house has been ordered\nby {02}{0B}e\n
+@274.1
+Our band has been ordered\nby {02}{0B}e\n
+@274.2
+Our band has been ordered\nby {02}{0B}e\n
+@274.3
+We have been ordered\nby the chief\n
+@274.4
+We have been ordered\nby the boss\n
+@274.5
+We have been ordered\nby our lord\n
+@275
+{01}C{82}{18}to take {02}{15}e.\n{01}C{19}{00} too, please act with that in mind.
+@275.1
+{01}C{82}{18}to take {02}{15}e.\n{01}C{19}{00} too, act with that in mind.
+@276
+{01}C{82}{18}to take {02}{15}e.\n{01}C{19}{00} too, please act with that in mind.
+@276.1
+{01}C{82}{18}to take {02}{15}e.\n{01}C{19}{00} too, act with that in mind.
+@277
+{01}C{82}{18}to take {02}{1F}e.\n{01}C{19}{00} too, please act with that in mind.
+@277.1
+Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\n{01}C{19}{00} too, act with that in mind.
+@278
+{01}C{82}{18}to take {02}{1F}e.\n{01}C{19}{00} too, please act with that in mind.
+@278.1
+Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\n{01}C{19}{00} too, act with that in mind.
+@279
+{01}C{82}{18}to take {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@279.1
+{01}C{82}{18}to take {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@280
+{01}C{82}{18}to take {02}{0C}e.\n{01}C{19}{00} too, please act with that in mind.
+@280.1
+{01}C{82}{18}to take {02}{0C}e.\n{01}C{19}{00} too, act with that in mind.
+@281
+{01}C{82}{18}to take {02}[e.\n{01}C{19}{00} too, please act with that in mind.
+@281.1
+{01}C{82}{18}to take {02}[e.\n{01}C{19}{00} too, act with that in mind.
+@282
+{01}C{82}{18}to take {02}[e.\n{01}C{19}{00} too, please act with that in mind.
+@282.1
+{01}C{82}{18}to take {02}[e.\n{01}C{19}{00} too, act with that in mind.
+@283
+(Shall I really urge\n {01}C1{00} to rebel?)
+@283.1
+(Should I really urge\n {01}C1{00} to rebel?)
+@284
+{01}C1{00}, I, {02}{01}f,\nhave something to urge\nupon {01}C{19}{00}.
+@284.1
+{01}C1{00}, I, {02}{01}f,\nhave something to urge\nupon {01}C{19}{00}.
+@285
+{01}C1{00}...\nThere's something you must hear.
+@285.1
+{01}C1{00},\nthere is something I must say.\nMay we speak alone...?
+@286
+...{01}C1{00}, what is it, so formal?\n
+@286.1
+...{01}C1{00}?\nWhat is the matter?
+@287
+{01}C1{00}, will you stay buried\nas just one member of {02}{0B}e?
+@287.1
+{01}C1{00}, will {01}C1{00} stay\nburied as just one member\nof {02}{0B}e?
+@288
+{01}C1{00}, will you stay buried\nas just one member of {02}{0B}e?
+@288.1
+{01}C1{00}, will {01}C1{00} stay\nburied as just one member\nof {02}{0B}e?
+@289
+...What are you suddenly saying?
+@289.1
+...What are you suddenly saying?
+@290
+...What are you suddenly saying?
+@290.1
+What are you suddenly...?
+@291
+{01}C{19}{00} has the makings of a daimyo.\nIt would be a great waste\nto end your life a mere castle lord.
+@291.1
+Forgive me, but {01}C{19}{00} has the\nmakings of a daimyo. It would be a great\nwaste to end your life a mere castle lord.
+@292
+{01}C{19}{00} is not one to end life\nas a mere castle lord.\nYou mustn't settle for things as they are.
+@292.1
+Forgive me, but {01}C{19}{00} has the\nmakings of a daimyo. It would be a great\nwaste to end your life a mere castle lord.
+@293
+{01}C{19}{00}'s gift for leading men\nstands out even in our band... It would be\na great waste to end your life a squad chief.
+@293.1
+Forgive me, but {01}C{19}{00}'s gift for\nleading men stands out even in our band...\nIt's a waste to end as a squad chief.
+@294
+{01}C{19}{00} is not one to end life\nas a mere squad chief.\nYou lead men better than our chief does.
+@294.1
+Forgive me, but {01}C{19}{00}'s gift for\nleading men stands out even in our band...\nIt's a waste to end as a squad chief.
+@295
+{01}C{19}{00} has a gift for leading men\nthat surpasses the boss's...\nIt's a great waste to end as a ship captain.
+@295.1
+Forgive me, but {01}C{19}{00} has the\nmakings of a boss. It would be a great\nwaste to end your life a ship captain.
+@296
+{01}C{19}{00} has more gift than the boss.\nTo end your life a ship captain\nwould be a great waste...
+@296.1
+Forgive me, but {01}C{19}{00} has the\nmakings of a boss. It would be a great\nwaste to end your life a ship captain.
+@297
+{01}C{19}{00} has the makings of a master.\nIt would be a great waste\nto end your life a manager.
+@297.1
+Forgive me, but {01}C{19}{00} has the\nmakings of a master. It would be a great\nwaste to end your life a manager.
+@298
+{01}C{19}{00} is not one to end life\nas a mere manager.\nYou mustn't settle for things as they are.
+@298.1
+Forgive me, but {01}C{19}{00} has the\nmakings of a master. It would be a great\nwaste to end your life a manager.
+@299
+...What are you thinking?\nPlease speak plainly.
+@299.1
+...What are you trying to say?\nSpeak plainly.
+@300
+...What are you thinking?\nPlease speak plainly.
+@300.1
+...What are you trying to say?\nSpeak plainly.
+@301
+{01}C1{00}, now is the time\nto rebel and become a daimyo!!
+@301.1
+{01}C1{00}, now is the time\nto rebel and become a daimyo!!
+@302
+{01}C1{00}!\nRebel and become a daimyo!!
+@302.1
+{01}C1{00},\nrebel and become a daimyo!
+@303
+{01}C1{00},\nnow is the time to break away\nand head a new ninja band.
+@303.1
+{01}C1{00},\nnow is the time to break away\nand head a new ninja band!!
+@304
+{01}C1{00}, now is the time\nto break away and head a new ninja band!
+@304.1
+{01}C1{00}, now is the time\nto break away and head a new ninja band!
+@305
+{01}C1{00}, now is the time to break away\nhere and lead a new pirate band!
+@305.1
+{01}C1{00}, I believe you should break\naway here and lead a new pirate band.
+@306
+{01}C1{00}, now is the time\nto break away and lead a new pirate band!
+@306.1
+Then I'll say it...\n{01}C1{00}, now is the time to break away\nhere and lead a new pirate band!
+@307
+{01}C1{00}, now is the time to break away\nhere and have your own shop.
+@307.1
+Yes, then I'll say it.\n{01}C1{00}, I believe you should break\naway here and have your own shop.
+@308
+{01}C1{00}, now is the time to break away\nhere. Have your own shop.
+@308.1
+Then I'll say it.\n{01}C1{00}, I believe you should break\naway here and have your own shop.
+@309
+What!\n{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal?!
+@309.1
+What!\n...{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal?!!
+@310
+What are you saying!\n...{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal...?
+@310.1
+Wh-what...\n{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal?!
+@311
+What are you saying!\nYou know the ninja code forbids betrayal.\nWould you make me a traitor?!
+@311.1
+What are you saying!\nYou know the ninja code forbids betrayal.\nWould you make me a traitor that badly?!
+@312
+What are you saying!\nYou want me to be a traitor that badly?\nTo break the ninja code against betrayal?
+@312.1
+What are you saying!\nYou know the ninja code forbids betrayal.\nWould you make me a traitor that badly?!
+@313
+What are you saying!\nBetray the boss and found a new navy?\nDo you think that can be done?!
+@313.1
+What are you saying!\nBetray the boss and found a new navy?\nDo you think that can be done?!
+@314
+What are you saying!\nBetray the boss and found a new navy?\nThat can't possibly...!
+@314.1
+What are you saying!\nBetray the boss and found a new navy?\nThat can't possibly be done!
+@315
+This is the age of warring states.\nThe strong should aim for the realm.\n{01}C1{00}! Now is the time to decide!
+@315.1
+This is the age of warring states.\nThe strong should aim for the realm...\n{01}C1{00}! Please decide!
+@316
+In this age of war, the truly able\nmust lead the vassals.\n{01}C1{00}! Decide!
+@316.1
+In this age of war, the truly able\nmust lead the vassals.\n{01}C1{00}! Please decide!
+@317
+For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a world\nwhere the strong eat the weak. Decide now!
+@317.1
+For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a world\nwhere the strong eat the weak. Please decide!
+@318
+For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a world\nwhere the strong eat the weak. Decide!
+@318.1
+For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a world\nwhere the strong eat the weak. Please decide!
+@319
+No need to keep faith with {02}{0B}e!\n{01}C1{00} is fit to be the pirate boss\nof a new age! Now is the time to decide!
+@319.1
+No need to keep faith with {02}{0B}e!\n{01}C1{00} is the boss for a new age!\nI think now is the time to decide!
+@320
+No need to keep faith with {02}{0B}e.\n{01}C1{00} is fit to be the pirate boss\nof a new age!
+@320.1
+No need to keep faith with {02}{0B}e!\n{01}C1{00} is fit to be the pirate boss\nof a new age, I believe!
+@321
+This is the age of warring states.\nChances to profit are everywhere.\n{01}C1{00}! Now is the time to decide!
+@321.1
+This is the age of warring states.\nChances to profit are everywhere.\n{01}C1{00}! Please decide!
+@322
+This age of war is a rare chance to build\na great fortune and leave a name in history...\n{01}C1{00}! Decide!
+@322.1
+This age of war is a rare chance to build\na great fortune and leave a name in history.\n{01}C1{00}! Please decide!
+@324
+{01}C{0E}{00} owe a debt\nof gratitude to {01}C{B3}{18}.\nI could never repay it with betrayal...
+@324.1
+{01}C{0E}{00} owe {01}C{B3}{18} a debt of gratitude.\nDefying them is out of the question.
+@325
+{01}C{0E}{00} owe a debt\nof gratitude to {01}C{B3}{18}.\nI could never repay it with betrayal...
+@325.1
+{01}C{0E}{00} owe a debt\nof gratitude to {01}C{B3}{18}.\nI could never repay it with betrayal...
+@326
+{01}C1{00}!\nIf you don't decide now, you'll miss your chance!
+@326.1
+{01}C1{00}!\nIf you don't decide now, you'll miss your chance!
+@327
+{01}C1{00}!\nIf you don't decide now,\nyou'll surely regret it!
+@327.1
+{01}C1{00}!\nIf you don't decide now,\nyou'll miss your chance!
+@328
+...{01}C1{00}!!\nFor {01}C{19}{00}'s own sake,\nI'll pretend I never heard this.
+@328.1
+Enough!!\nFor {01}C{19}{00}'s own sake,\nI'll pretend I never heard this.
+@329
+...{01}C{0E}{00} won't change my mind.\nFor {01}C{19}{00}'s own sake,\nI'll pretend I never heard this.
+@329.1
+{01}C{0E}{00} won't change my mind.\nI'll pretend I never heard this...\n{01}C{19}{00}, forget it too.
+@330
+............
+@330.1
+............
+@331
+...I'm sorry.\nPlease go.
+@331.1
+Enough, you may go.
+@332
+...I'm sorry.\nPlease go.
+@332.1
+Now, go.
+@333
+.........Understood.
+@333.1
+.........Yes.
+@334
+...Understood.
+@334.1
+.........Yes.
+@335
+...{01}C{19}{00} is quite right.\nIt's as if I've woken up.\n{01}C{0E}{00} will make up my mind...
+@335.1
+...{01}C{19}{00} is right.\nIt's as if I've woken up.\n{01}C{0E}{00} will make up my mind...
+@336
+...{01}C{19}{00} is right.\nIt's as if I've woken up.\n{01}C{0E}{00} will make up my mind...
+@336.1
+...{01}C{19}{00} is right.\nIt's as if I've woken up.\n{01}C{0E}{00} will make up my mind...
+@337
+Oh, {01}C1{00}!\nYou've decided!
+@337.1
+Oh, {01}C1{00}!\nYou've made your decision!
+@338
+{01}C1{00}!\nYou've decided!
+@338.1
+{01}C1{00}!\nYou've made your decision!
+@339
+Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, I'm counting on you.
+@339.1
+Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, will you follow me?
+@340
+Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, please keep guiding me.
+@340.1
+Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, I'm counting on you.
+@341
+Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, I'm counting on you.
+@341.1
+Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, will you follow me?
+@342
+Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, please keep guiding me.
+@342.1
+Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, I'm counting on you.
+@343
+Of course!\nI, {02}{01}f, will be\n{01}C{19}{00}'s strength!
+@343.1
+Of course!\nI, {02}{01}f, wish to live and die\nwith {01}C{19}{00}.
+@344
+Of course.\nFor {01}C{19}{00}, I'll do anything.
+@344.1
+Yes!\nLeave it to me, {02}{01}f!!
+@345
+Gracious words!\nThen give the order to your men!
+@345.1
+Good!\nThen give the order to your men!
+@346
+Gracious words.\nThen give the order to your men!
+@346.1
+Then let's make ready at once.\nGive the order to your men!
+@347
+Yes, sir!
+@348
+{02}{01}g is now\nunder {02}{0B}e.
+@348.1
+{02}{01}g will now\nserve under {02}{0B}e.
+@348.2
+{02}{01}g is now\na vassal of {02}{0B}e.
+@349
+{02}{01}g\nreturned to {02}{0B}e.
+@349.1
+{02}{01}g\nreturned to {02}{0B}e.
+@350
+{01}C1{00}, welcome.\nNow, let's review\neveryone's work last year.
+@350.1
+Ah, good of you to come.\nNow, let's review\neveryone's work last year.
+@351
+{01}C1{00}, welcome.\nNow, let's review\neveryone's work last year.
+@351.1
+Thank you for coming so far.\nNow, let's review\neveryone's work last year.
+@352
+So no one took a castle last year.\nThat won't do.\nI expect much this year.
+@352.1
+No one took a castle last year.\nThat won't do.\nI expect much of you this year.
+@353
+Last year {01}C1{00}'s work\nstood out the most.\n{01}C1{00}, splendid.
+@353.1
+Last year {01}C1{00}'s work\nstood out the most.\n{01}C1{00}, splendid.
+@354
+Not at all; thinking of {01}C{19}{00},\nit was only natural.
+@354.1
+Yes, sir!\nI'm honored by your praise!
+@355
+No, thinking of {01}C{19}{00},\nit was only natural.
+@355.1
+I'm honored\nby your praise!
+@356
+In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting {01}C{0E}{00}.
+@356.1
+In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
+@357
+In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting {01}C{0E}{00}.
+@357.1
+In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
+@358
+Oh! Thank you!\nLeave it to {01}C{0E}{00}!
+@358.1
+Y-yes, sir!\nAn honor beyond my station!
+@359
+Oh, how wonderful!\nI humbly accept.
+@359.1
+Oh! I'm so glad.\nI humbly accept.
+@360
+In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nPlease keep supporting {01}C{0E}{00}.
+@360.1
+In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nKeep serving our house loyally.
+@361
+In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nPlease keep supporting {01}C{0E}{00}.
+@361.1
+In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nKeep serving our house loyally.
+@363
+Last year {01}C8{00}'s work\nstood out the most.\nI expect much of {01}C1{00} too.
+@363.1
+Last year {01}C8{00}'s work\nstood out the most.\n{01}C1{00}, learn from {01}C {00}.
+@364
+Last year {01}C8{00}'s work\nstood out the most.\nI expect much of {01}C1{00} this year too.
+@364.1
+Last year {01}C8{00}'s work\nstood out the most.\n{01}C1{00}, learn from {01}C {00}.
+@365
+Then, dismissed!
+@365.1
+Then, we are dismissed.
+@366
+Oho, you'll recommend {01}C{19}{00}'s\nsubordinate as {01}C{0E}{00}'s direct vassal?\nMuch appreciated.
+@366.1
+My, you'll recommend {01}C{19}{00}'s\nsubordinate as {01}C{0E}{00}'s direct vassal?\nHow kind.
+@367
+Whom will you recommend?
+@367.1
+Whom will you recommend?
+@368
+Whom will you recommend?
+@368.1
+Whom will you recommend?
+@369
+{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+@369.1
+{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+@369.2
+You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+@369.3
+You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+@370
+{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+@370.1
+{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+@370.2
+You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+@370.3
+You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+@371
+I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+@371.1
+I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+@371.2
+I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+@371.3
+I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+@372
+I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+@372.1
+I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+@372.2
+I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+@372.3
+I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+@373
+Hm? I sense someone...\nSo, someone's there?\nWho are you! Come out.
+@373.1
+Ah! I sense someone...\nWho's there?!\nCome out.
+@374
+Sorry to startle you.\nIt's {02}{01}g.
+@374.1
+A pleasure to meet you.\nI am {02}{01}g.
+@374.2
+A pleasure to meet you.\nI am {02}{01}g.
+@375
+Sorry to startle you.\nIt's {02}{01}g.
+@375.1
+A pleasure to meet you.\nI am {02}{01}g.
+@376
+Ah, {01}C1{00}.\nHmm, against {01}C{19}{00},\nthe gate guards are useless.
+@376.1
+A ronin? Insolent wretch!\nBut you did well to get into this castle.\nI'll praise you for that much.
+@376.2
+...Oho, you did well to get into this castle.\nI'll praise you for that.
+@376.3
+...Oho, {01}C1{00}...\nWho'd have thought we'd meet like this?\nBut so sudden.
+@376.4
+Is it {01}C1{00}...?\nWho'd have thought we'd meet like this?\nBut so sudden.
+@377
+My, {01}C1{00}...\nAgainst {01}C{19}{00},\nthe gate guards are useless.
+@377.1
+A ronin, it seems.\nWhat were the gate guards doing...
+@377.2
+......To sneak in this far...\nI must praise you.
+@377.3
+...My, {01}C1{00}?\nSo sudden; what is it?
+@377.4
+...My, {01}C1{00}?\nSo sudden; what is it?
+@378
+What business with {01}C{0E}{00}?
+@378.1
+What business\nbrings you here?
+@379
+Oho, diplomacy?\nAnd what is it?
+@379.1
+Oho, diplomacy?\nAnd what is it?
+@379.2
+I see, you've come for diplomacy...\nAnd what is it?
+@380
+What! {02}{0B}e means to\nbreak its alliance with us?
+@380.1
+What! {02}{0B}e means to\nbreak its alliance with us?
+@380.2
+What! {02}{0B}e means to\nbreak the alliance?
+@381
+Oho... very well.\nFrom today, {01}C{F2}{18} and {02}{0B}e\nhave no ties.
+@381.1
+...Very well.\nFrom today, {01}C{F2}{18} and {02}{0B}e\nhave no ties.
+@381.2
+...Understood.\nFrom today, {01}C{F2}{18} and {02}{0B}e\nshall have no ties.
+@382
+...A joke?\nIt's quite something,\nbut keep it within bounds.
+@382.1
+...A joke?\nIt's quite something,\nbut please keep it within bounds.
+@382.2
+In a place like this, one mustn't take\nback one's words. Please stop joking.
+@383
+Breaking an alliance without your lord's\npermission lowered your merit slightly.\nYour notoriety also rose slightly.
+@384
+Oho... so {02}{0B}e\nwishes an alliance\nwith us?
+@384.1
+Oho... so {02}{0B}e\nwishes an alliance\nwith us?
+@384.2
+I see... so {02}{0B}e\nwishes an alliance\nwith us?
+@385
+Very well.\nFrom today, {01}C{F2}{18} and {02}{0B}e\nwill be allies.
+@385.1
+Understood.\nFrom today, {01}C{F2}{18} and {02}{0B}e\nshall be allies.
+@386
+our band
+@386.1
+our house
+@387
+Hmm... I'm sorry,\nbut I'll pretend I never heard that.
+@387.1
+...I can't give a good answer now.\nI'll pretend I never heard that.
+@388
+Even a joke has its limits.\nI'd rather you spared me\nsuch nonsense.
+@388.1
+...A joke?\nPlease spare me such nonsense.
+@389
+What! {02}{0B}e means to\ndeclare war on us?
+@389.1
+What! {02}{0B}e means to\ndeclare war on us?
+@389.2
+What! {02}{0B}e means to\ndeclare war on us?
+@390
+Oho... very well.\nFrom today, {02}{0B}e is our enemy.\nBe prepared!
+@390.1
+Oho... very well.\nFrom today, {02}{0B}e is our enemy.\nBe prepared.
+@390.2
+...Understood.\nFrom today, {02}{0B}e is our enemy.\nBe prepared!
+@391
+Declaring war without your lord's\npermission lowered your merit slightly.\nYour notoriety also rose slightly.
+@393
+Oho... so {02}{0B}e\nwishes peace\nwith us?
+@393.1
+Oho... so {02}{0B}e\nwishes peace\nwith us?
+@393.2
+I see... so {02}{0B}e\nwishes peace\nwith us?
+@394
+(Now, how much shall I hand over?)
+@394.1
+(Now, how much shall I hand over?)
+@395
+(...Oops, I have no money at all.\n I can't persuade them like this.)
+@395.1
+(...Oops, I have too little money.\n I can't persuade them like this.)
+@396
+(Ah, I have no money at all...\n I can't persuade them like this.)
+@396.1
+(Ah, I have too little money...\n I can't persuade them like this.)
+@397
+(Shall I give up offering peace?)
+@397.1
+(Shall I give up\n offering peace?)
+@398
+(Shall I use {02}od kan for peace?)
+@398.1
+(Shall I use {02}od kan\n for peace?)
+@399
+Very well.\nFrom today, {01}C{F2}{18} and {02}{0B}e\nare at peace.
+@399.1
+Understood.\nThen I accept peace\nwith {02}{0B}e.
+@400
+Don't be absurd.\nWhat are you saying, now of all times?\nI'll pretend I never heard this.
+@400.1
+Surely you jest...\nWhat are you saying, now of all times?\nI'll pretend I never heard this.
+@400.2
+Surely you jest... what now, of all times?\nIf that's your business,\nI have nothing more to say.
+@402
+What! {02}{0B}e wants us\nto submit?
+@402.1
+What! {02}{0B}e wants us\nto submit?
+@403
+...Very well.\nFrom today, {01}C{F2}{18} will come under\nthe control of {02}{0B}e.
+@403.1
+...Understood.\nFrom today, {01}C{F2}{18} will come under\nthe control of {02}{0B}e...
+@404
+Don't be absurd.\nDo you mean to trample\non our pride?
+@404.1
+Surely you jest!\nDo you mean to trample\non our pride?
+@404.2
+Surely you jest!\nI won't bow to threats.\nDon't underestimate us!
+@406
+Oho... so {02}{0B}e wishes\nto deepen friendship with us?
+@406.1
+Oho... so {02}{0B}e wishes\nto deepen friendship with us?
+@406.2
+I see... so {02}{0B}e wishes\nto deepen friendship with us?
+@407
+(Now, how much shall I hand over?)
+@407.1
+(Now, how much shall I hand over?)
+@408
+(...Oops, I have no money at all.\n I can't persuade them like this.)
+@408.1
+(...Oops, I have too little money.\n I can't persuade them like this.)
+@409
+(Ah, I have no money at all...\n I can't persuade them like this.)
+@409.1
+(Ah, I have too little money...\n I can't persuade them like this.)
+@410
+(Shall I give up offering friendship?)
+@410.1
+(Shall I give up\n offering friendship?)
+@411
+(Shall I use {02}od kan for goodwill?)
+@411.1
+(Shall I use {02}od kan\n for goodwill?)
+@412
+(Now... shall I pay this {02}od kan\n in as war funds... or offer it\n for some purpose...?)
+@412.1
+(Shall I pay this {02}od kan\n in as war funds... or offer it\n for some purpose...?)
+@413
+Then please accept this {02}od kan\nas {02}yd.
+@414
+...I've received {02}{0B}e's goodwill.\n{01}C{10}{19}I hope we stay on good terms.
+@414.1
+...I've received {02}{0B}e's goodwill.\n{01}C{10}{19}I hope we stay on good terms.
+@414.2
+...I've received {02}{0B}e's goodwill.\n{01}C{10}{19}I hope we stay on good terms.
+@414.3
+...I've received {02}{0B}e's goodwill.\n{01}C{10}{19}I hope we stay on good terms.
+@414.4
+...I've received {02}{0B}e's goodwill.\n{01}C{10}{19}Give my regards to {01}C8{00}.
+@414.5
+...I've received {02}{0B}e's goodwill.\n{01}C{10}{19}Give my regards to {01}C8{00}.
+@415
+...I understand {02}{0B}e's feelings.\n{01}C{10}{19}I hope we stay on good terms.
+@415.1
+...I understand {02}{0B}e's feelings.\n{01}C{10}{19}Please give my regards to {01}C8{00}.
+@416
+This money will go to expanding the fort.\n
+@416.1
+This money will go to expanding the village.\n
+@417
+...Thank you for your trouble,\nbut money won't move my heart.
+@417.1
+...Thank you for your trouble,\nbut money won't move {01}C{0E}{00}'s heart.
+@419
+What! {02}{0B}e wants us\nto surrender?
+@419.1
+What! {02}{0B}e wants us\nto surrender?
+@419.2
+What! {02}{0B}e wants us\nto surrender?
+@420
+...Very well.\nThis too is the tide of the times.\nI place myself in your hands.
+@420.1
+...Very well.\nThis too is the tide of the times.\nPlease present me to {01}C8{00}.
+@421
+...Understood.\nThere's no defying the times.\nI place myself in your hands.
+@421.1
+...Understood.\nThere's no defying the times.\nPlease present me to {01}C8{00}.
+@422
+Don't be absurd.\nEven if we submit, we won't\nthrow away our house's pride.
+@422.1
+Surely you jest!\nEven if we submit, we won't\nthrow away our house's pride.
+@422.2
+Surely you jest!\nEven if we submit, we won't\nthrow away our house's pride.
+@424
+Then please take your leave.
+@424.1
+Then please take your leave.
+@425
+You want a ship flag?\n{02}{02}{EC} and our band are enemies.\nI can't accept such a request!
+@425.1
+You want a ship flag?\n{02}{02}{EC} and our band are enemies.\nI can't accept such a request!
+@425.2
+You want a ship flag?\n{02}{02}{EC} and our band are enemies.\nI can't accept such a request.
+@426
+{01}C{19}{00} already has a ship flag for\nthese waters, with time left.\nUse that.
+@426.1
+{01}C{19}{00} already has a ship flag for\nthese waters, with time left.\nPlease use that.
+@426.2
+{01}C{19}{00} already has a ship flag for\nthese waters, with time left.\nPlease use that.
+@427
+{01}C{19}{00} has all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
+@427.1
+{01}C{19}{00} has all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
+@427.2
+{01}C{19}{00} has all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
+@428
+You want a ship flag?\nIt costs {02}o{C8}. All right?
+@428.1
+You want a ship flag?\nIt costs {02}o{C8}.\nIs that all right?
+@428.2
+You want a ship flag?\nIt costs {02}o{C8}.\nIs that all right?
+@429
+{01}C{0E}{00} don't have enough money.\nI'll come back later.
+@429.1
+{01}C{0E}{00} don't have enough money...\nI'll come back later.
+@430
+One of {01}C{19}{00}'s ship flags\nis about to expire...
+@430.1
+One of {01}C{19}{00}'s ship flags\nseems to be\nabout to expire...
+@430.2
+One of {01}C{19}{00}'s ship flags\nseems to be\nabout to expire...
+@431
+Then, which waters' flag do you want?
+@431.1
+Then, which waters' flag\nshall I prepare?
+@432
+You already have the flag\nfor those waters, it seems.
+@432.1
+Don't you already have\nthe flag for those waters?
+@432.2
+Don't you already have\nthe flag for those waters?
+@433
+For that flag, buy it\nfrom our band's boss.
+@433.1
+For that flag, please buy it\nfrom our band's boss.
+@433.2
+For that flag, please buy it\nfrom our band's boss.
+@434
+You want the flag for {02})e?\nIt has {02}od months left,\nso it's {02}p{C8}. All right?
+@434.1
+You want the flag for {02})e?\nIt has {02}od months left,\nso it's {02}p{C8}.\nIs that all right?
+@434.2
+You want the flag for {02})e?\nIt has {02}od months left,\nso it's {02}p{C8}. Is that all right?
+@435
+You want the flag for {02})e...\nIt's {02}o{C8}. All right?
+@435.1
+You want the flag for {02})e...\nIt's {02}o{C8}.\nIs that all right?
+@435.2
+You want the flag for {02})e...\nIt's {02}o{C8}. Is that all right?
+@436
+Good.\nHere's the flag for {02})e.\n\nFly it on your ship and pirates\nwon't attack you in {02})e.
+@436.1
+Understood.\nHere's the flag for {02})e.\n\nFly it on your ship and pirates\nwon't attack you in {02})e.
+@436.2
+Understood.\nHere's the flag for {02})e.\n\nFly it on your ship and pirates\nwon't attack you in {02})e.
+@437
+Want flags for other waters too?
+@437.1
+Would you like flags\nfor other waters too?
+@438
+It's a kind offer, but\nwe'd have no use for the investment.\nThe thought is enough.
+@438.1
+It's a kind offer, but\nwe'd have no use for the investment.\nThe thought is enough.
+@438.2
+It's a kind offer, but\nwe'd have no use for the investment.\nThe thought alone will do.
+@439
+{01}C{19}{00}, investment is in units of 1 kan.\nWhat you have now isn't enough.
+@439.1
+{01}C{19}{00}, investment is in units of 1 kan.\nWhat you have now isn't enough.
+@440
+Then you'll invest {02}o{C8}\nin {02}{15}e?
+@440.1
+Then you'll invest {02}o{C8}\nin {02}{15}e?
+@441
+Oh! That's {01}C1{00} for you.\nWe'll put it to good use.
+@441.1
+Oh! That's {01}C1{00} for you.\nWe'll put it to good use.
+@442
+I see... a pity.\nIf you change your mind, please do.
+@442.1
+I see... a pity.\nIf you change your mind, please do.

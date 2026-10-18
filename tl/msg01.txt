@@ -1,0 +1,2468 @@
+# msg01: gambling games (oicho-kabu, dice, flower cards). Entries 0-89 are fragments
+# chosen by the dealer's type (h=28 child, 30 polite, 32 monk, 34 samurai, else rough),
+# inserted as {01}C<n>{04} (entry n-0x18... see tl.target). English sentences are
+# written in full and drop the ending fragments.
+@0.*
+Hmm
+@1.*
+Oh
+@2.*
+I
+@3.*
+you
+@4.*
+person
+@5.*
+kid
+@5.1
+kids
+@5.2
+servant
+@5.3
+mother
+@5.4
+master
+@6.*
+three
+@6.1
+eighty-eight
+@6.2
+ninety-nine
+@6.0
+seven
+@7.*
+the likes of
+@8.*
+this
+@9-11.*
+
+@12.*
+Don't joke with a face like that... ha ha
+@12.1
+Don't tell lies... ahem
+@12.2
+You do love your jokes... ahem
+@12.3
+Don't tell lies! ...Ahem
+@12.4
+Don't you joke with me
+@13-33.*
+
+@34.*
+I won, and so
+@35.*
+rolling
+@36-38.*
+
+@39-40.*
+
+@41.*
+you have to
+@42.*
+let's get it done
+@43.*
+Wait a moment!
+@44-47.*
+
+@48.*
+be careful
+@49.*
+smells fishy
+@50-53.*
+
+@54.*
+what will you do
+@55.*
+will you draw
+@56.*
+isn't it
+@57.*
+
+@58.*
+
+@59.*
+it seems I failed,\nso
+@60.*
+be careful
+@61.*
+try it
+@62.*
+Well, got it?
+@63.*
+I'll teach you
+@64.*
+Wow
+@64.3
+Oh
+@65.*
+What!
+@66.*
+Argh
+@67.*
+Ha ha
+@67.2
+Heh...
+@68.*
+Hmph
+@69.*
+Tch
+@70.*
+Well then
+@71-72.*
+
+@73.*
+buy
+@74.*
+fun
+@75.*
+let's go
+@76.*
+I don't mind
+@77.*
+I'll take it
+@78
+My sides hurt. You're so funny
+@78.1
+My sides hurt. Don't make me laugh so much
+@78.2
+My sides hurt. Please, spare me...
+@78.3
+My sides hurt. Don't make me laugh so
+@78.4
+My sides hurt. Are you trying to kill a monk?
+@78.5
+My sides hurt. Don't make me laugh so much
+@79.*
+Got it?
+@79.2
+Do you understand?
+@80
+Want a fight? Bring it on!
+@80.1
+Be quiet, will you!
+@80.2
+...I'd like the onlookers to keep quiet.
+@80.3
+Onlookers, hold your tongues!
+@80.4
+Shut up! Onlookers, keep quiet!
+@81
+What are you going on about
+@81.1
+...Careless talk brings trouble, you know
+@81.2
+Er, a little quiet, please
+@81.3
+Enough, be silent!
+@81.4
+Pipe down!
+@82
+Oh, excuse me...
+@82.1
+...Oops, sorry
+@82.2
+...Excuse me
+@82.3
+...Ahem, excuse me
+@82.4
+Oops, sorry
+@83
+Just ignore that one
+@83.1
+Let's ignore the weirdo
+@83.2
+Let us ignore strange people
+@83.3
+Don't listen to nonsense
+@83.4
+Don't mind that one
+@84.*
+Look, look
+@84.2
+Look, see here
+@84.3
+See that
+@85.*
+It lets you win so much it's scary
+@86
+Wow, not bad
+@86.1
+My, how generous
+@86.2
+My, how generous of you
+@86.3
+Oh, bold
+@86.4
+Going big from the start, eh
+@87.*
+Mind it doesn't happen
+@88.*
+forget
+@89
+Play like your life depends on it
+@89.1
+Welcome to the ant pit
+@89.2
+There's no turning back now
+@89.3
+You'll end up in tears
+@89.4
+Don't regret it
+
+# oicho-kabu explanation
+@90
+Shall I explain "oicho-kabu"?
+@91
+To play "oicho-kabu",\nfirst you have to buy betting cards.
+@92
+The price of the cards depends on the market rate.\nThey cash in at 80% of the rate.
+@93
+You can buy up to %w cards at a time.\nIf you run out, just buy more.
+@94
+Well then, let me explain how "oicho-kabu" is played.\nIt's not such a hard game.
+@95
+The cards are numbered\nfrom 1 to 10.\nThere are 40 in all,\nand you are dealt two or three of them.
+@96
+Whoever's total is closest to 9, "kabu", wins.\nIf the total goes over 10, the ones digit\nis your score.
+@97
+Then you play your cards\nagainst the dealer's.
+@98
+Here's how a round goes.\nFirst the dealer deals one card face up\nto each of the four "piles" where players bet.
+@99
+After dealing, the dealer places\none card face down in front of himself.
+@100
+Well then, let's actually try it up to here.\nFirst the dealer deals one card face up to each "pile".
+@101
+Then the dealer deals himself one card face down.
+@102
+Next, going right from the dealer, each player bets\non the pile they like.\nYou can bet up to %w cards.
+@103
+You can't bet on a pile someone has already taken.
+@104
+You then play with the cards\ndealt to the pile you bet on.
+@105
+Well then, for now\nlet's say we bet 10 cards here.
+@106
+Next the dealer deals the second cards face down,\nand piles nobody bet on get theirs face up.
+@107
+7, "naki".
+@108
+At 6, "roppo", or more, no more cards are dealt;\nat 5, "goke", or less, one more card is dealt.
+@109
+"Goke", one more card.
+@110
+The ones digit is 4, "shini".
+@111
+Now, it's the turn of the pile\nyou bet on. Piles with a bet\nget their second card face down.
+@112
+Hmm, drawing a 1 makes 6:\n"roppo"...\nNow you can choose whether to draw another.\nWhat will you do?
+@113
+Oh, one more card?\nYou're quite the gambler.
+@114
+The third card is dealt face up.\nNow, what will you draw...
+@115
+9, "kabu"!\nYour luck is in today.
+@116
+Well, with "roppo"\nyou're in a decent spot,\nso not drawing is also a choice.
+@117
+Well then, next...
+@118
+!!
+@119
+"Shippin"!\nI should explain "shippin".
+@120
+"Shippin" is a hand only players can get.\nIt is a special hand stronger than "kabu",\nmade when the cards come 4 then 1.
+@121
+A normal win only pays\nas many cards as you bet,\nbut "shippin" pays double. A lucky hand.
+@122
+So if a pile's first card is a 4,\neveryone rushes to bet on it.
+@123
+But don't get it wrong:\n"shippin" only counts\nif the cards come 4 then 1.
+@124
+1 then 4 is not "shippin".\nDon't forget.
+@125
+I said "shippin" is a player-only hand,\nbut there's also a dealer-only hand:\n"kuppin".
+@126
+If the dealer draws 9 then 1, it's "kuppin",\nand it pays double, the same as "shippin".
+@127
+"Kuppin" and "shippin" are equally strong;\nit's a draw.
+@128
+And three identical cards\nmake "arashi", the strongest hand.\nIt pays three times the bet.
+@129
+"Arashi"!
+@130
+"Arashi" is three identical cards,\nthe strongest hand of all.\nIt pays three times the bet.
+@131
+The round is decided as soon as\n"arashi" appears;\nall cards are turned over.
+@132
+But that's for players.\nThe dealer's "arashi"\nis the weakest hand.
+@133
+Of course the dealer has to pay\nthree times the bet.
+@134
+Now,\nthe players have all drawn their cards.\nNext is the dealer's turn.
+@135
+On the dealer's turn, first\nhe turns over the card he placed face down.\n
+@136
+9.
+@137
+One card isn't enough to play,\nso he draws another,\nthis time face up.
+@138
+He draws a 7: "roppo".\nNow the dealer can finally play.
+@139
+Of course he doesn't play\nagainst piles with no bet.
+@140
+Let's say players bet on these three piles,\nand of course you can't see\ntheir second cards.
+@141
+Then the second pile looks suspicious.\nFor drawing a third card, a 9...
+@142
+Suspicious...\n"Showdown!" He plays the second pile.
+@143
+And when he turns it over,\nsure enough, "shini".
+@144
+How's that? The dealer wins\nand takes the bet.\nOn a roll, so on to the next!
+@145
+That's what I'd like to say,\nbut wait a moment.\nThe other two look suspicious too.
+@146
+I keep a straight face,\nbut with this "roppo"\nI think I can't win.
+@147
+Naturally.\nThey could be "%s" or "shippin".
+@149
+Well, it's not something you can see,\nbut if you think you can't win, even after one showdown\nyou can draw a third card while opponents remain.
+@150
+Pfft
+@151
+Well, 1, "inketsu"!
+@152
+No use moaning:\nonce you've drawn a third card\nyou must play every remaining pile.
+@153
+So this time the dealer pays\nthe bet, and double\nfor the "shippin".
+@154
+That ends one round.\nThe dealer role passes\nto the left in turn.
+@155
+But if at the end of a round\nthe dealer has "goke" or better,\nhe can stay dealer as long as he likes.
+@156
+And the hands are named, from 0...
+@157
+"buta", "inketsu", "nitako",\n"santa", "shini", "goke", ...
+@158
+"roppo", "naki", "oicho" and "kabu".\nIt helps to remember them.
+@159
+Oh, and gambling makes you\nlose track of time.\nOne round takes a whole period, so be careful.
+@160
+There, that's the end of the\n"oicho-kabu" explanation.\nWell, got it?
+@161
+Well then, shall I explain again from the start?
+@162
+One betting card costs\nabout this much.\nWhat will you do?
+@163
+If you want to play "oicho-kabu",\nbuy some cards.
+@164
+You're flat broke.\nCome back when you've got some money.
+@165
+Quitting?
+@166
+Come again.
+@167
+The dealer is me.\n
+@168
+The dealer is {02}{02}g.\n
+@169
+Really quitting?
+@170
+Come again.
+@171
+Where will you bet?
+@171.1
+Where will you bet?
+@171.2
+Where will you bet?
+@171.3
+Where are you betting?
+@172
+Decide how many cards to bet.\nYou can bet up to 30 at a time.
+@173
+Sorry, that's mine!
+@173.1
+Excuse me, I win!
+@173.2
+Hm, I'll take that.
+@173.3
+Sorry, that's mine!
+
+# reactions during play
+@175
+How about this
+@175.1
+I've got a feeling it's coming
+@175.2
+I'll make you squeal
+@175.3
+Now, which one
+@175.4
+Right, here goes
+@176
+Please, please
+@176.1
+Gods... Buddha...
+@176.2
+Come on!
+@176.3
+Right, this one
+@176.4
+Reading the flow...
+@177
+Heaven tells me to pick this one
+@177.1
+I'll go with this
+@177.2
+Will it be sunny tomorrow
+@177.3
+Hm, this looks interesting
+@177.4
+Ho ho ho, this one?
+@178
+By my reading, it's here
+@178.1
+I'll go with this
+@178.2
+I have a good feeling this time
+@178.3
+Um... this one, perhaps?
+@178.4
+Here I go
+@179
+Oh, I can't stand it
+@179.1
+Oh... how could I...
+@179.2
+Wh-what is this!
+@179.3
+Ouch! Just my luck
+@179.4
+Tch! No luck
+@181
+Yes!
+@181.1
+Mine
+@181.2
+I'll take that
+@181.3
+Ye-es, good, good
+@181.4
+Sweet, sweet!
+@182
+That's how it's done
+@182.1
+You lot are no match
+@182.2
+How's that!
+@182.3
+Ha ha ha, heaven is on my side!
+@182.4
+This... there's no stopping me now
+@183
+It came, praise Amida
+@183.1
+Yes, cleaned you out!
+@183.2
+Ka-ching, ka-ching!
+@183.3
+There, mine!
+@183.4
+Mwa ha ha, that's more like it!
+@184
+Ye-es, good
+@184.1
+Luck is in my hands!
+@184.2
+Ho ho, a big one!
+@184.3
+It's because I live righteously
+@184.4
+Hm, that settles it
+@185
+That's enough
+@185.1
+I'm fine
+@185.2
+This will do
+@186
+Showdown!
+@186.1
+Come on, showdown!
+@186.2
+Showdown, then
+@187
+Will you buy into "oicho-kabu"?
+@189
+Close, close
+@189.1
+Yes!
+@190
+Woo! Woo!
+@190.1
+Sorry, I took a lot
+@190.2
+Money talks, even in hell
+@190.3
+Hehe, I can't stop laughing
+@190.4
+Ah, I feel like I'm in heaven
+@191
+Unbelievable!
+@191.1
+So the gods were here
+@191.2
+Well, these things happen
+@191.3
+I couldn't believe my eyes
+@191.4
+That's why I can't quit
+@192
+My luck's in today
+@192.1
+That was close
+@192.2
+Don't scare me like that
+@192.3
+Phew, that chilled me
+@192.4
+Phew, don't startle me so
+@193
+My luck's in today
+@193.1
+Hand over the cards
+@193.2
+Oh, looks like I won
+@193.3
+Right, I'll take that
+@193.4
+Well, that's how it is
+@194
+My luck's in today
+@194.1
+Thank you very much
+@194.2
+I win
+@194.3
+I'll gratefully take that
+@194.4
+I won't hold back
+@196
+It's on! Today's my day!!
+@196.1
+What a windfall
+@196.2
+Looks like I've caught the flow
+@196.3
+Heh, this is just right
+@196.4
+Oops, I'll take that
+@197
+Buddha's grace, maybe
+@197.1
+Use your head and you win
+@197.2
+Hm, this is good
+@197.3
+Heh, going well
+@197.4
+Ho ho, my luck's in today
+@198
+Your luck seems low today
+@198.1
+I hope you won't take offense
+@198.2
+Excuse me, I win
+@198.3
+Ha ha, luck was on my side
+@198.4
+Hehe, I'll take that
+@199
+Win some, lose some
+@199.1
+This is why I can't quit gambling
+@199.2
+Heh heh, I'll take that
+@199.3
+Hup, mine
+@199.4
+Sorry, folks
+@200
+That was close
+@200.1
+I won for living righteously
+@200.2
+Good, good
+@200.3
+This will do
+@200.4
+Today looks good
+@201
+In trade and gambling, timing is everything
+@201.1
+Thank you as always
+@201.2
+Yes, this will do
+@201.3
+I see, this is going nicely
+@201.4
+Oh, this is fine indeed
+@202
+Wahahaha
+@202.1
+I'm not done yet!
+@202.2
+I can't stop laughing
+@202.3
+Oho, well, well
+@202.4
+Ha ha, this feels good
+@203
+I'm in a fine mood today
+@203.1
+Much obliged
+@203.2
+I'll gratefully take that
+@203.3
+Going nicely
+@203.4
+I'll be taking this
+@204
+Too bad
+@204.1
+Now, don't lose heart
+@204.2
+Just luck, just luck
+@204.3
+No, no, my luck's in today
+@204.4
+I'll take that
+@205
+Shall I build a storehouse at this rate?!
+@205.1
+Serves you right
+@205.2
+Pfft, what a fool
+@205.3
+I can hear festival music
+@205.4
+Hey, hey, he's cleaned out
+@206
+The natural outcome
+@206.1
+Delightful
+@206.2
+Yes, the match is decided
+@206.3
+I win
+@206.4
+Hm, all is well with the world
+@207
+No complaints, I trust
+@207.1
+I'm a little confident in my skill
+@207.2
+Frighteningly good luck
+@207.3
+That settles it
+@207.4
+No problem at all
+@208
+Yahoo!
+@208.1
+Come on, give me the cards!
+@208.2
+No stopping me now!
+@208.3
+Heh, you picked the wrong opponent
+@208.4
+That settles it
+@209
+A fine play, don't you think?
+@209.1
+Heh heh heh
+@209.2
+This is what a strong player is
+@209.3
+My play is flawless
+@209.4
+Settled
+@210
+Even the great speculators can't match me
+@210.1
+Ho ho, my coin purse is filling up
+@210.2
+Honestly, I don't feel I could lose
+@210.3
+Ha ha ha
+@210.4
+I seem to have struck a vein of gold
+@212
+Tch
+@212.1
+What?!
+@213
+Eh?! You're kidding, right?
+@213.1
+Well, I give up
+@213.2
+Nothing I can do
+@213.3
+What on earth is going on
+@213.4
+Oh, what a day
+@214
+Can't be helped
+@214.1
+Next, next!
+@214.2
+These things happen
+@214.3
+Come on, on to the next
+@214.4
+Nothing to be done
+@215
+Argh! No luck
+@215.1
+You got me
+@215.2
+Go easy on me a little
+@215.3
+What a person
+@215.4
+What is it with you
+@217
+What, you're kidding?!
+@217.1
+Isn't this rigged?!
+@217.2
+Hey, what's going on?!
+@217.3
+Nothing I can do now
+@217.4
+Argh, what a mess!
+@218
+What!
+@218.1
+N-not bad...
+@218.2
+I-I'm speechless...
+@218.3
+Hmm, I'm beaten
+@218.4
+Hmm, how can this be
+@219
+Oho! Not bad
+@219.1
+Hmph, I'll turn it around soon
+@219.2
+Hmm, I'm in trouble
+@219.3
+This is a bit...
+@219.4
+My, my...
+@220
+Ugh... not with this hand
+@220.1
+Tch, no luck
+@220.2
+I'm beaten
+@220.3
+That's not fair
+@220.4
+Hey, give me a break
+@221
+Hmmm...
+@221.1
+A short break, a short break
+@221.2
+This won't do
+@221.3
+How can this be
+@221.4
+Not quite right
+@222
+Time to get serious
+@222.1
+This isn't going to work
+@222.2
+It's not over yet
+@222.3
+You got me
+@222.4
+Oh dear...
+@223
+Just a little more
+@223.1
+Aah
+@223.2
+What is it, really
+@223.3
+It's not working out
+@223.4
+What is this
+@224
+Clever devil...
+@224.1
+This won't do at this rate
+@224.2
+Hmm, not good
+@224.3
+Hm, a worthy opponent, it seems
+@224.4
+I was careless
+@225
+Well, well... not bad
+@225.1
+It won't go like this next time
+@225.2
+Oho, not bad
+@225.3
+Hmm
+@225.4
+Come, on to the next match
+@227
+A draw, eh
+@227.1
+Tch! Not bad
+@228
+Argh! How annoying
+@228.1
+I thought I had it
+@228.2
+Oh, come on!
+@228.3
+Wh-what is this!!
+@228.4
+Wh-what on earth!
+@229
+Phew
+@229.1
+Close, close
+@229.2
+Saved
+@229.3
+Don't scare me like that
+@229.4
+Ah, thank goodness...
+@230
+A do-over, then
+@230.1
+Not bad at all
+@230.2
+Hmm, not bad
+@230.3
+It's a draw
+@230.4
+A draw, nothing to be done
+@232
+Argh! Damn it
+@232.1
+Damn
+@232.2
+What the hell!
+@232.3
+Wh-what is this
+@232.4
+Don't mess with me!
+@233
+Tch
+@233.1
+Not an easy one, it seems
+@233.2
+N-not bad
+@233.3
+Hmm, how unexpected
+@233.4
+What, a draw?!
+@234
+Oh...
+@234.1
+...You seem quite skilled
+@234.2
+N-not bad...
+@234.3
+A tough one
+@234.4
+Well, well...
+@235
+A draw...
+@235.1
+Saved
+@235.2
+Heh, a do-over
+@235.3
+Phew, that was close
+@235.4
+I just about got through
+@236
+A draw
+@236.1
+What a letdown
+@236.2
+Ho ho, that was close
+@236.3
+A do-over, then
+@236.4
+This match is a draw
+@237
+Sometimes it's a draw
+@237.1
+Saved
+@237.2
+A do-over, it seems
+@237.3
+That was close
+@237.4
+I just about got through
+@238
+What, a draw
+@238.1
+Tch, boring
+@238.2
+Hey, a draw?
+@238.3
+Tch, not bad
+@238.4
+Argh, a draw?
+@239
+A draw...
+@239.1
+This won't do at this rate
+@239.2
+Hmm, a do-over
+@239.3
+Not bad at all
+@239.4
+Hmm, a draw?
+@240
+Hmm, a draw
+@240.1
+It won't go like this next time
+@240.2
+Not an easy one, as expected
+@240.3
+...A do-over, it seems
+@240.4
+This... is it a draw?
+@241
+The house is out of cards.
+@242
+Pay for the missing cards in coin.
+@243
+If you want to go on, buy some cards.
+@244
+Looks like you're bled dry.\nMind how you go home.
+@245
+Next, I'm the dealer.
+@246
+One more!
+@247
+You've won quite a lot.\nOh yes, I've got some goods I seized\ninstead of bets people couldn't pay...\nThey're no use here,\nso I'll let them go for {02}od cards each.\nWant to see?
+@248
+Calling it quits?
+@249
+Then I'll cash in your cards.
+@250
+You're not bad at all.\nSmall fry around here\nare no match for you,\nso next time you come\nI'll have some real gambling ready.\nCome again.
+@251
+What! You've got nothing left?!
+@251.1
+You bastard, you've got nothing left?!
+@251.2
+This one says he's got nothing left?!
+@252
+Then leave something valuable
+@252.1
+Then shut up and hand over your valuables
+@252.2
+Then I'll take your valuables
+@253
+{02}3g was taken!
+@254
+Get lost!
+@254.1
+Scram!
+@254.2
+Get out of my sight!
+@255
+I've sent the boys\nto your house.\nYou'll pay what you owe.
+@256
+Paid %M\nfrom savings at home.
+@257
+Not enough...\nNowhere near enough!
+@257.1
+What's this?\nIt's not even close!
+@257.2
+Hold on, you\nwhat's this amount?\n...It's nowhere near enough, is it?
+@258
+Making us go to all this trouble, you bastard!
+@258.1
+Don't make us go to all this trouble, you bastard!
+@258.2
+This one doesn't know his place!
+@259
+What a joke of a fellow.\nHey! Boys, show him some love.
+@259.1
+What a real idiot.\nHey! Boys, give him a beating.
+@259.2
+What a dimwit.\nHey! Boys, teach him how a gambling den works.
+@260
+Yes, sir! Hey, you,\nyou cheeky bastard! You fool
+@260.1
+Yes, sir!\nGive up, you buffoon!
+@260.2
+Yes, sir!\nHey, you, brace yourself!
+@261
+Wham!
+@262
+Oh, you won't get away!\n
+@262.1
+The bastard ran off!\n
+@262.2
+The bastard's trying to run!\n
+@263
+Wait!! You won't get off lightly
+@263.1
+Wait!! You won't leave in one piece
+@263.2
+Wait!! I'll show you
+@264
+Th-this guy... is no ordinary man.\nRun for it!
+@264.1
+Th-there's no beating him.\nHelp!
+@264.2
+We're no match for him...\nR-run!
+@265
+Big brother!
+@265.1
+Boss!
+@265.2
+Chief!
+@266
+What a pathetic bunch
+@266.1
+Heh, no challenge at all
+@266.2
+All talk, that lot
+@267
+From now on, walk on the side of the road
+@267.1
+Well, learn your place a bit better
+@267.2
+Well, don't go making a show of yourself
+
+# chinchirorin
+@268
+Shall I explain "chinchirorin"?
+@269
+To play "chinchirorin",\nfirst you have to buy betting cards.
+@270
+The price of the cards depends on the market rate.\nThey cash in at 80% of the rate.
+@271
+You can buy up to %w cards at a time.\nIf you run out, you can buy more.
+@272
+Well then, let me explain\nhow "chinchirorin" is played.
+@273
+"Chinchirorin" is a game where you roll\nthree dice against the dealer.
+@274
+It's not hard at all.\nEven my {01}C{ED}{03}, aged {01}C{EE}{03},\nrolls dice every day.
+@275
+{01}C{F4}{03}\nWell then, first let me\nexplain the basic flow.
+@276
+First the players bet in turn.
+@277
+Starting with the one next to the dealer.
+@278
+When all the players have bet, the match begins.\nFirst the dealer rolls the dice.
+@279
+Nothing starts until the dealer rolls.
+@280
+Once the dealer has rolled and his "hand" is set,\nthe players roll in turn.
+@281
+If your "hand" beats the dealer's, you win;\nif it's weaker, you lose.
+@282
+Then, depending on the "hands",\nthe bets go back and forth\nbetween dealer and players.
+@283
+In your case, it'll be one way only...
+@285
+{01}C:{04}\nIf the hands are equal, the bet goes back to the player.\nThat ends one round.
+@286
+Well then, next let me explain the "hands".
+@287
+Look at these dice!\n
+@287.1
+Fish eyes, no, dice eyes, come out!
+@288
+That was a bad pun, sorry.
+@289
+...\nTwo "twos" came up. When two dice\nshow the same number, that's a "pair".
+@290
+How's that?
+@290.1
+Lately my waistline's been bothering me...
+@291
+What are you on about...\nThe last one is a "four"; that's the "point",\nand it makes a "hand".
+@292
+Only with a pair do you get a "point".\nIn other words, without a "pair" there's\nno "point", so no "hand".
+@293
+It's the same said the other way round...
+@294
+...\nIgnore the onlookers.\nWell then, you try rolling.
+@295
+"Two", "four", "five"...\nNo "pair" here,\nso no "point".
+@296
+"Buta". "Buta".
+@297
+But there's no need to panic.\nIf you get no "hand",\nyou can roll up to three times.
+@298
+If you still have no "hand" after three rolls,\nit's no hand, "buta".\nWell then, try rolling again.
+@299
+Oh, two "sixes" and a "five".\nThat makes the "point" a "five".
+@300
+If I were the dealer and you a player...\nI have "four",\nyou have "five", so you win.
+@301
+See, just as I thought,\nit's one way for you...
+@302
+...\n{01}C;{04}
+@303
+So the basic "hands" of chinchirorin\nare made of a "pair" and a "point",\nand the higher "point" wins.
+@304
+Easy so far, right?\nWhen you win on the "point" like this,\nthe cards move by the amount bet.
+@305
+But chinchirorin also\nhas special "hands", and with those\nmore cards change hands than were bet.
+@306
+"Arashi" pays\nmany times the bet.\nI just love "arashi".
+@307
+I got ahead of myself there.\nOne thing at a time.
+@308
+These special "hands"\nbeat any hand made\nof a "pair" and a "point".
+@309
+Next, about these special "hands".
+@310
+The dice show "four", "five", "six".\nThis hand is called "shigoro", and it\npays double the bet.
+@311
+The opposite, this is "hifumi",\nand you pay double the bet.
+@312
+That's right, this {01}C{EC}{03}\nis good at rolling "hifumi".\n{01}C={04}
+@313
+{01}C8{04}\nWhat bad luck.
+@314
+Well then, next let me explain\nthe "arashi" I mentioned.
+@315
+!! The one I love.
+@316
+Nobody dislikes "arashi".\n"Arashi" is simply when\nall three dice show the same number.
+@317
+Triples! Arashi!
+@318
+And "arashi"\npays double for triple "twos",\ntriple for triple "threes"...
+@319
+four times for "fours",\nfive times for "fives",\nsix times for "sixes"...
+@320
+And triple "ones",\nthat is, "pinzoro" arashi,\npays ten times the bet.
+@321
+{01}C*{04}\nPinzoro, as I always say...\n
+@322
+Hehe\nThat's the end of the "hands".\nWell then, next let me explain by playing.
+@323
+First, let's say I'm the dealer.
+@324
+And say you bet ten cards.
+@326
+When all players have bet, the dealer rolls.\nWell then, let's roll.
+@327
+"Six".
+@328
+"Six", "shigoro" and "arashi"\nwin for the dealer as soon as they're rolled,\nso you lose without rolling.
+@329
+I'm strong when it's practice.
+@330
+{01}C,{04} Well then, let's go again.\nSay you bet ten cards, and I roll.
+@331
+{01}C<{04}\nLooks like I'm finally back on form.
+@332
+...
+@333
+Like this, with "hifumi", a "point" of "one",\nor no "hand" after three rolls,\nthe dealer loses.
+@334
+So you bet ten cards,\nand I rolled "hifumi",\nso you win twenty.
+@335
+Well then, one last time.
+@336
+At last, the specialty!\nThis one always loses,\nthen keeps whining "one more, one more".
+@337
+Never mind that.\nWell then, let's roll.
+@338
+No "point".
+@339
+No "point" again.
+@340
+Phew, a "three".\nWell then, your turn.
+@341
+{01}C+{04} This is priceless.\nThe "three" I struggled so hard for\nsmashed by a pinzoro "arashi"!
+@342
+{01}C8{04}!\nIt's only practice!
+@343
+If only it really ended at practice...\n{01}C+{04} Ah, fun.\n{01}C6{04}
+@344
+A-anyway,\nthat's the end of the "chinchirorin" explanation.
+@345
+Sigh...\nNow you know about "chinchirorin" too.\n{01}C7{04}
+@346
+Also, the dealer role moves to the right.\nAs long as you don't lose,\nyou stay dealer.
+@347
+The dealer has it easy.\nWhen they're dealer, everyone prays\nnot to lose.
+@348
+A word of advice...\nGambling makes you forget the time,\nso be careful.
+@349
+One round takes a whole period.\nGet carried away and you'll catch it\nfrom your superiors.
+@350
+That's how it is.\nWell then, shall we start for real?
+@351
+But
+@351.1
+But
+@352
+Without money, there's nothing to talk about.
+@352.1
+You've got no money.\nPlaying on credit is against the rules.
+@352.2
+This isn't for kids.\nYou can't play for free.
+@352.3
+Please come back when you have the money.
+@352.4
+Money goes round and round.\nCome back when it has come round to you.\nNamu Amida Butsu...
+@352.5
+A samurai keeps his pride though he starves,\nbut playing still takes money.
+@352.6
+No use for anyone without money! Get lost!
+@353
+What, quitting already?\nThe night's still young.
+@353.1
+Quitting? The night's still young.
+@353.2
+Leaving me behind?\nHow cold of you.
+@353.3
+Too much for a merchant, is it?
+@353.4
+Do you see now that you can't beat\none with Buddha's protection?
+@353.5
+Do you see now you're no match for me?
+@353.6
+What, quitting?
+@354
+Going against the dealer is cruel!
+@354.1
+The dealer role's come round nicely
+@354.2
+I'm the dealer
+@354.3
+A golden opportunity!
+@354.4
+I'm the dealer
+@354.5
+I'm the dealer
+@354.6
+I'm the dealer
+@355
+Come again!
+@355.1
+Drop by again
+@355.2
+Come again, will you
+@355.3
+Thank you as always
+@355.4
+May we meet again...\nNamu...
+@355.5
+I look forward to our next match
+@355.6
+Come again!
+@355.7
+See you, come again
+@356
+Cards are %m each.\nHow many will you buy?
+@357
+Will you go on?
+@357.1
+Will you go on?
+@357.2
+Going on?
+@357.3
+You're not quitting yet, are you?
+@357.4
+Going on?
+@358
+And how much?
+@358.1
+How much is your offering?
+@358.2
+Come, place your bet
+@358.3
+Come on, place your bet
+@358.4
+How many will you bet?
+@359
+Sir, isn't that going too far?
+@359.1
+That offering is rather high.\nToo much for a humble monk.
+@359.2
+Are you mocking me?!\nBet with some sense.
+@359.3
+That's too much. Play smarter
+@359.4
+Hey, hey, I can't pay that much
+@360
+Hm?
+@361
+Oh?
+@361.1
+Hey, hey
+@362
+It came! Ten times!
+@363
+Tch, no point
+@363.1
+{01}C*{04}, no point...
+@364
+Ouch...
+@364.1
+I'm beaten
+@365
+2, eh
+@365.1
+2, eh, pathetic
+@366
+2, eh, not good
+@367
+3, eh
+@367.1
+3, eh, hmm
+@368
+4, eh
+@368.1
+4, eh, so-so
+@369
+5, eh
+@369.1
+5, eh, feels good
+@370
+Yes!
+@370.1
+I'm on a roll
+@371
+Double?!\nGive me a break!
+@372
+Yes!
+@372.1
+Yes, mine!
+@373
+Double for me!
+@373.1
+Yes, double for me!
+@374
+Triple for me!
+@374.1
+Yes, triple for me!
+@375
+Four times for me!
+@375.1
+Yes, four times for me!
+@376
+Five times for me!
+@376.1
+Yes, five times for me!
+@377
+Six times for me!
+@377.1
+Yes, six times for me!
+@378
+I lost...
+@378.1
+{01}C-{04} I lost
+@379
+Bet returned
+@380
+I win
+@380.1
+I win
+@381
+Dealer at last
+@381.1
+Dealer at last
+@382
+Will you buy into "chinchirorin"?
+
+# pinkoro
+@383
+Shall I explain "pinkoro"?
+@384
+"Pinkoro" isn't hard.\nYou just take turns rolling two dice.
+@385
+I'll teach you as we play.\nWell then, you roll first.
+@386
+Oh, %k and %k.\nYou put ten times their sum, %m, into the pot.
+@387
+Then the next player rolls,\nbut this is practice,\nso roll as if you were next.
+@388
+Hm? A pair of %ks.\nThat means you put %m into the pot again.
+@389
+When you roll a pair,\nyou have to roll again.
+@390
+So a pair\nmeans bad luck.\nWell then, roll again.
+@391
+%k means %m goes into the pot.
+@392
+The pot keeps growing like this,\nand whoever rolls double ones, "pinzoro",\ncollects all the money in it.
+@393
+But pinzoro\ndoesn't come up easily.
+@394
+2000 or 3000 kan in one go is common,\nand sometimes it reaches tens of thousands.
+@395
+When it gets that big,\nthe back of your ears starts tingling\nand your head goes fuzzy.
+@396
+And that fuzzy feeling\nis just wonderful.\nThat's why I can't give up pinkoro.
+@397
+Oh, but while playing\nyou tend to forget the time, so be careful.\nOne round of turns takes about a period.
+@398
+Well then, shall we start for real?
+@399
+No use for anyone without money.
+@400
+Will you buy into pinkoro, the gambling of hell?
+@402
+Hm? Quitting?
+@403
+Come again.
+@404
+You're out of funds.
+@405
+Tch, stingy.
+@405.1
+Well, about what I expected
+@405.2
+Yes! I'll take that
+@405.3
+It came! This is a big one!
+@406
+Ugh... again...
+@406.1
+Argh! No luck
+@407
+Argh, so close
+@407.1
+Tch, no good
+@407.2
+That hurts
+@408
+I have an uneasy feeling...\nI'm sorry, but I must leave for a moment.
+@408.1
+I have an uneasy feeling...\nSorry, I must leave for a bit.
+@409
+Seeing the provinces and honing my instincts at gambling\nseem to have sharpened my intuition!
+@409.1
+Seeing the provinces and honing my instincts at gambling\nseem to have sharpened my intuition!
+@410
+Skipped the mini-game.
+@411
+Skipped the mock battle.
+@412
+Used "{02}=e".
+@413
+Used a card.
+@414
+Yes, perfect.\nIt couldn't have gone better.
+@414.1
+Perfect.\nIt couldn't have gone better.
+@415
+A failure...\nThe worst possible result.
+@415.1
+A failure...\nThe worst possible result.
+@416
+Good, that went well.
+@416.1
+Hehe, that went well.
+@417
+Not the best result,\nbut satisfying for now.
+@417.1
+Not the best result,\nbut satisfying for now.
+@418
+So-so, I suppose.
+@418.1
+So-so, I suppose.
+@419
+Hmm, not a result to be proud of, but it can't be helped.
+@419.1
+...Not a result to be proud of, but it can't be helped...
+@420
+This result won't do...\nI must polish my skills.
+@420.1
+This result won't do...\nI must polish my skills.
+@421
+Only slightly better than not doing it at all...
+@421.1
+Only slightly better than not doing it at all...
+@422
+Couldn't they buy it for more?
+@422.1
+Couldn't they buy it for more?
+@423
+Couldn't they make it cheaper?
+@423.1
+Couldn't they make it cheaper?
+@424
+I can't simply agree to that.\nLet's settle on this.
+@425
+This is business for me too.\nI can't simply agree.\nLet's settle on this.
+@426
+This is business.\nI can't give discounts so easily.\nLet's settle on this.
+@426.1
+This is business.\nI can't give discounts so easily.\nLet's settle on this.
+@426.2
+I can't simply agree to that.\nLet's settle on this.
+@426.3
+This is business for me too.\nI can't give discounts so easily.\nLet's settle on this.
+
+# slot reels (negotiation)
+@427
+Would you like an explanation\nof how it works?
+@428
+Look at this picture.\nThe more pictures you line up in the middle row,\nthe more I'll meet your wishes.
+@429
+If three "jackpot" pictures line up,\nI'll meet your wishes even more\nthan with other pictures.
+@430
+Press ① to stop the reels,\nstarting from the left.\nPick your moment.
+@431
+For the second reel on,\npress ① so they match\nthe picture on the first.
+@432
+Matching pictures is hard, but\nthere's a bold game with a big effect,\nand a careful one, weaker but easier to match.
+@433
+First choose whether to go\n"bold" or "careful".\nPick whichever you like.
+@434
+Even if three pictures don't line up,\nif two match or a jackpot picture appears,\nI'll meet your wishes a little.
+@435
+Oh yes, if three leaf pictures line up,\nyou'll have to do it over.
+@436
+Look at this picture.\nThe more pictures you line up in the middle row,\nthe more I'll meet your wishes.
+@437
+If three "jackpot" pictures line up,\nI'll meet your wishes even more\nthan with other pictures.
+@438
+Press ① to stop the reels,\nstarting from the left.\nPick your moment.
+@439
+For the second reel on, press ①\nso they match the picture on the first.
+@440
+Matching is hard, but there's a bold game with a big effect\nand a careful one, weaker but easier to match.
+@441
+First choose "bold" or "careful".\nPick whichever you like.
+@442
+Even if three pictures don't line up,\nif two match or a jackpot picture appears,\nI'll meet your wishes a little.
+@443
+Oh yes, if three leaf pictures line up,\nyou'll have to do it over.
+@444
+Look at this picture.\nThe more pictures you line up in the middle row,\nthe more I'll meet your wishes.
+@444.1
+Look at this picture.\nThe more pictures you line up in the middle row,\nthe more I'll meet your wishes.
+@444.2
+Look at this picture.\nThe more pictures you line up in the middle row,\nthe more I'll meet your wishes.
+@444.3
+Look at this.\nThe more pictures you line up in the middle row,\nthe more I'll meet your wishes.
+@445
+If three "jackpot" pictures line up,\nI'll meet your wishes even more\nthan with other pictures.
+@445.1
+If three "jackpot" pictures line up,\nI'll meet your wishes even more\nthan with other pictures.
+@445.2
+If three "jackpot" pictures line up,\nI'll meet your wishes even more\nthan with other pictures.
+@445.3
+If three "jackpot" pictures line up,\nI'll give you even more\nthan with other pictures.
+@446
+Press ① to stop the reels,\nstarting from the left.\nPick your moment.
+@446.1
+Press ① to stop the reels,\nstarting from the left.\nPick your moment.
+@446.2
+Press ① to stop the reels,\nstarting from the left.\nPick your moment.
+@446.3
+Press ① to stop the reels,\nstarting from the left.
+@447
+For the second reel on, press ①\nso they match the picture on the first.
+@447.1
+For the second reel on, press ①\nso they match the picture on the first.
+@447.2
+For the second reel on,\npress ① so they match\nthe picture on the first.
+@447.3
+For the second reel on, press ① so they match\nthe picture on the first.
+@448
+Matching pictures is hard, but\nthere's a bold game with a big effect,\nand a careful one, weaker but easier to match.
+@448.1
+Matching pictures is hard, but\nthere's a bold game with a big effect,\nand a careful one, weaker but easier to match.
+@448.2
+Matching pictures is hard, but\nthere's a bold game with a big effect,\nand a careful one, weaker but easier to match.
+@448.3
+There's a bold game, hard but with a big effect,\nand a careful one, weaker but easier\nto match.
+@449
+First choose whether to go\n"bold" or "careful".\nPick whichever you like.
+@449.1
+First choose whether to go\n"bold" or "careful".\nPick whichever you like.
+@449.2
+First choose whether to go\n"bold" or "careful".\nPick whichever you like.
+@449.3
+First choose "bold" or "careful".\nPick whichever you like.
+@450
+Even if three pictures don't line up,\nif two match or a jackpot picture appears,\nI'll meet your wishes a little.
+@450.1
+Even if three pictures don't line up,\nif two match or a jackpot picture appears,\nI'll meet your wishes a little.
+@450.2
+Even if three pictures don't line up,\nif two match or a jackpot picture appears,\nI'll meet your wishes a little.
+@450.3
+Even if three pictures don't line up,\nif two match or a jackpot picture appears,\nI'll give you a little extra.
+@451
+Oh yes, if three leaf pictures line up,\nyou'll have to do it over.
+@451.1
+Oh yes, if three leaf pictures line up,\nyou'll have to do it over.
+@451.2
+Oh yes, if three leaf pictures line up,\nyou'll have to do it over.
+@451.3
+If three leaf pictures line up, it's a do-over.
+@452
+That's the end of the explanation.\nShall I explain once more?
+@453
+That's the end of the explanation.\nWould you like to hear it again?
+@453.1
+That's the end of the explanation.\nWould you like to hear it again?
+@453.2
+That's the end of the explanation.\nShall I explain once more?
+@453.3
+Would you like to hear it again?
+@454
+Then please begin.
+@455
+Then begin.
+@456
+Then let's begin.
+@456.1
+Then let's begin.
+@456.2
+Then please begin.
+@456.3
+Then let's begin.
+@457
+Then I'll explain once more.
+@458
+Then I'll explain once more.
+@458.1
+Then I'll explain once more.
+@458.2
+Then I'll explain once more.
+@458.3
+Then I'll explain once more.
+@459
+Should I play it bold?\nOr should I play it careful?
+@460
+I'll play it bold here.
+@460.1
+I should play it bold here.
+@461
+I'll try playing it careful here.
+@461.1
+I should play it careful here.
+@462
+Let's begin.
+@463
+I just press ①\nand line up matching pictures.
+@463.1
+I must pick my moment, press ①\nand line up matching pictures.
+@464
+Good, a jackpot picture.
+@464.1
+Hehe, a jackpot picture.
+@465
+Next I want this picture again.
+@465.1
+Next I'm aiming for this picture too.
+@466
+Good, one step from the jackpot.
+@466.1
+Hehe, one step from the jackpot.
+@467
+Good, good, very good.
+@467.1
+Good, good, that feels right.
+@468
+If three line up here, I get a do-over.
+@468.1
+If three line up here, I get a do-over.
+@469
+Three in a row is out now,\nbut at least let me match two.
+@469.1
+Three in a row is impossible...\nAt least let me match two.
+@470
+Three leaves lined up.\nPlease do it over.
+@471
+Three leaves lined up.\nDo it over.
+@472
+Three leaves lined up.\nYou'll do it over.
+@472.1
+Three leaves lined up.\nYou'll do it over.
+@472.2
+Three leaves lined up.\nPlease do it over.
+@472.3
+Three leaves lined up.\nYou'll do it over.
+@473
+Three jackpots lined up!
+@473.1
+Three jackpots lined up!
+@474
+Three jackpots lined up!
+@474.1
+Three jackpots lined up!
+@475
+Three lined up!\nThe bargaining was worth it.
+@475.1
+Three lined up!\nThe bargaining was worth it.
+@476
+Good, good, three lined up.
+@476.1
+Three lined up, just as planned.
+@477
+Two jackpots lined up.\nHmm, so close to the third.
+@477.1
+Two jackpots.\nSo close to the third.
+@478
+A jackpot and two matching.\nSo-so, I suppose.
+@478.1
+A jackpot and two matching.\nSo-so, I suppose.
+@479
+Two lined up.\nA pity three didn't,\nbut I'll take it.
+@479.1
+Two lined up.\nSo close to the third, but it can't be helped.
+@480
+Only one jackpot.\nBetter than failing.
+@480.1
+Only one jackpot.\nStill, better than failing.
+@481
+A failure...
+@482
+Excuse me, Lord {02}{02}e.\nAllow me to explain {02}yd.
+@483
+No need for that.
+@483.1
+No need for that.
+@484
+Then I'll take my leave.\nI look forward to a good result.
+
+# block breaker
+@485
+You bounce the ball off the blocks\nto break them.\nThe more you break, the better the result.
+@486
+When the ball comes back,\nif you fail to bounce it back,\nthe ball is lost.
+@487
+Move the bar left and right with ⑦.\nIt ends when you lose four balls,\nso be careful.
+@488
+There are three kinds of blocks: some break in one hit, some in two, and some in three.
+@489
+Up to four balls can be in play at once.\nPress ① while you have balls left\nto launch another.
+@490
+Try to break all the blocks within the time limit.
+@491
+① launches a ball.
+@491.1
+① launches a ball.
+@492
+Blast! I missed it.
+@493
+That's all for this time...
+@493.1
+That's all for this time...
+
+# irrigation
+@495
+There's wasteland whose water source is dammed.\nLay irrigation channels within the time limit\nso water can reach as much of it as possible.
+@496
+When time is up, the dam is removed and the water flows.\nThe wider the area it reaches, the better the result.
+@497
+The channel pieces come in a fixed order,\nshown at the top left.\nThink about what comes next as you lay them.
+@498
+The order of land to lay channels on isn't fixed.\nThink about the channel shapes\nand lay them so they connect well.
+@499
+I expect a good result.
+@499.1
+I expect a good result.
+@500
+Well then, let's begin.
+@501
+There's wasteland whose water source is blocked.\nSet the channels so lots of water connects in time.
+@502
+When it's over, I'll let the water flow.\nThe wider the area it reaches,\nthe better your result.
+@503
+The channel order is fixed.\nIt's shown at the top left, so think ahead\nas you set them.
+@504
+Think about the channel shapes\nand make them connect well.
+@505
+I'm expecting a good result.
+@506
+Lay out the channels within the time limit\nso water can reach\nas wide an area as possible.
+@507
+When time is up, the dam is removed and the water flows.\nThe channels must connect to where the dam is.
+@508
+The channel pieces come in a fixed order,\nshown at the top left.\nConsider what comes next as you lay them.
+@509
+The order of land to lay channels on is not fixed.\nThink about the channel shapes\nand lay them so they connect well.
+@510
+I just lay channels\nso the water reaches everywhere.
+@510.1
+I just lay channels\nso the water reaches everywhere.
+@511
+For now I've laid channels on all the land.
+@511.1
+For now I've laid channels on all the land.
+@512
+Let's see whether the channels connect.
+@513
+That's the end of the explanation.\nWould you like to hear it again?
+@514
+Then I'll explain once more.
+
+# mining
+@516
+This is about digging into the mine\nto find gold nuggets.
+@517
+As you dig, four holes open up.\nA nugget is buried in one of them.
+@518
+The four holes form a cross,\nso use ⑤ to choose the spot\nthat hits the nugget.
+@519
+Find more nuggets within the time limit\nfor a better result.
+@520
+Sometimes several nuggets appear,\nbut you can only choose one spot at a time.
+@521
+This is about digging into the mountain\nto find granite containing iron sand.
+@522
+As you dig, four spots are mined.\nGranite is buried somewhere among them.
+@523
+The four holes form a cross,\nso use ⑤ to choose the spot\nthat hits the granite.
+@524
+Find more granite within the time limit for a better result.
+@525
+Sometimes several pieces of granite appear, but you can only choose one spot at a time.
+@526
+I just dig on, looking for granite.
+@526.1
+I just dig on, looking for granite.
+@527
+Good, this is a big one!
+@527.1
+Oh, this is a big one.
+@528
+This is a medium-sized one.
+@528.1
+This is a medium-sized one.
+@529
+A small one, but I found it.
+@529.1
+A small one, but I found it.
+@530
+No doubt about it, granite is near.
+@530.1
+No doubt about it, granite is near.
+@531
+Hmm, {02}yd looks suspicious.
+@531.1
+...{02}yd looks suspicious.
+@532
+There seems to be granite nearby...
+@532.1
+There seems to be granite nearby...
+@533
+I feel the granite is toward {02}yd.
+@533.1
+I feel the granite is toward {02}yd.
+@534
+Hmm, I feel there's granite a little further on.
+@534.1
+Hmm, I feel there's granite a little further on.
+@535
+...I can't tell where the granite is... It must be somewhere...
+@536
+This glitter means there's granite.
+@536.1
+This glitter means there's granite.
+@537
+It seems I've found all the granite this survey can find.
+@537.1
+It seems I've found all the granite this survey can find.
+@538
+!? I can't dig any further.\nIt can't be helped, that's all for now.
+@538.1
+!? I can't dig any further.\nIt can't be helped, that's all for now.
+@539
+That's all for this time.
+@539.1
+That's all for this time.
+
+# building
+@541
+First choose a fitting piece of material with ⑤\nand confirm with ①.
+@542
+While choosing, ⑧ rotates it 90 degrees left\nand ⑨ 90 degrees right.\n② cancels the choice.
+@543
+Where the piece fits,\n① builds it into the structure.\n⑩⑪ make it move faster.
+@544
+Even a piece you have fitted\ncan be taken off again\nby pressing ① on it.
+@545
+Repeat this and fill every hole in the structure within the time limit.
+@546
+Fill the broken holes\nwith wooden pieces.\nFirst press ① to choose a piece.
+@547
+While choosing, ⑧ rotates it left\nand ⑨ right by 90 degrees.\n② lets go of the chosen piece.
+@548
+Where the piece matches the hole's shape,\n① plugs the hole.\n⑩⑪ also make it move faster.
+@549
+Even a piece you have fitted\ncan be removed\nby pressing ① on it.
+@550
+Repeat this and fill\nall the holes within the time limit.
+@551
+That's the end of the explanation.\nWould you like to hear it once more?
+@552
+Then I'll explain once more.
+@553
+Then do your best!
+@554
+I have to choose material\nthat fits the missing spots.
+@554.1
+I choose material\nthat fits the missing spots.
+@555
+I have to choose wooden pieces\nthat fit the missing spots.
+@555.1
+I choose wooden pieces\nthat fit the missing spots.
+@556
+Where does this fit?
+@557
+Good, that went well.
+@557.1
+Blast, at this rate I'll probably fail.
+@557.2
+Oh no, at this rate I'll probably fail.
+
+# card judging
+@559
+This is about adding up the cards dealt to you and your opponent and judging whose total is bigger.
+@560
+Cards are dealt to each of you.\nAdd up all the numbers\nfor each total.
+@561
+If your total is bigger, press ①;\nif your opponent's is bigger, ④;\nif they're equal, ③.
+@562
+You both start with the same points.\nIf you answer before your opponent and are right,\n2 points are taken from them.
+@563
+If you answer first but are wrong,\n3 points are taken\nfrom your own.
+@564
+The same applies when your opponent\nanswers faster than you.
+@565
+Bring your opponent to 0 points,\nor have more points at the end,\nand you win.
+@566
+Correct.
+@566.1
+Correct.
+@567
+That's wrong.
+@567.1
+That's wrong.
+@568
+It seems mine is bigger.
+@568.1
+It seems mine is bigger.
+@569
+It seems yours is bigger.
+@569.1
+It seems yours is bigger.
+@570
+It seems they're equal.
+@570.1
+It seems they're equal.
+@571
+Mine seems bigger.
+@571.1
+Mine seems bigger.
+@572
+Yours seems bigger.
+@572.1
+Yours seems bigger.
+@573
+They're equal.
+@573.1
+They're equal.
+@574
+...I was wrong.
+@574.1
+...I was wrong. How careless.
+@575
+Well then, let's begin.
+@575.1
+Then let's begin.
+@576
+Now the next one.
+@576.1
+Now the next one.
+@577
+This is the last one.
+@577.1
+This is the last one.
+@578
+...Correct, as expected.\nNaturally.
+@578.1
+...Correct.\nNaturally.
+@579
+Yes, a complete victory.
+@579.1
+A complete victory.
+@579.2
+Yes, a satisfying result.
+@579.3
+A satisfying result.
+@579.4
+Yes, I won.
+@579.5
+I win.
+@579.6
+A draw...
+@579.7
+I lost... What a pity.
+@580
+I couldn't do a thing...\nA complete defeat.
+@580.1
+Splendid.
+@580.2
+Splendid.
+@580.3
+I lose this time.
+@580.4
+A draw this time.
+@580.5
+A draw this time.
+@580.6
+You still need training.
+@580.7
+You still need training.
+
+# ninja search
+@581
+Ninja are respected for their skill at gathering information, and the key is finding the right people.
+@582
+So you will polish your Ninjutsu\nby finding the person\nshown on the scroll at left.
+@583
+The scroll on the left opens little by little,\nso the face appears bit by bit from below.\nWatch closely.
+@584
+The result depends on\nhow quickly you find them.\nThere are six people to find in all.
+@585
+Ninja who keep failing draw suspicion,\nand that can cost them their lives.\nSo you may fail only three times.
+@586
+A scroll with a portrait is shown at left;\nit opens little by little and the face\nappears from below.
+@587
+Find the same person\namong those on the right.\nThe sooner you find them, the better.
+@588
+There are six people to find in all.\nBut mistaking people draws suspicion, so you may fail only three times.
+@589
+That's the end of the explanation.\nWill you hear it again?
+@590
+Then begin.
+@591
+Then I'll explain once more.
+@592
+A scroll with a portrait is shown at left.\nIt opens little by little and the face\nappears from below.
+@593
+Find the same person\namong those on the right.\nThe sooner you find them, the better.
+@594
+There are six people to find in all.\nBut you may fail only three times.
+@595
+That's the end of the explanation.\nWill you hear it again?
+@596
+Well then, let's begin.
+@597
+Then I'll explain once more.
+@598
+I just find the person on the left.
+@598.1
+I just find the person on the left.
+@599
+Wrong person.
+@599.1
+Wrong person.
+@600
+Good, found them with time to spare.
+@600.1
+Found them with time to spare.
+@601
+Found them.
+@601.1
+Found them.
+@602
+On to the next.
+@603
+I couldn't find them.
+@604
+Too many mistakes.\nThat's as far as I go.
+@604.1
+Too many mistakes.\nThat's as far as I go.
+@605
+That's the end for this time.
+@605.1
+That's the end for this time.
+
+# etiquette
+@608
+Courtesy means thinking ahead\nand following proper form\nso as never to give offense.
+@609
+This training builds the power to think several steps ahead.\nArrange the books shown here and line some up within the move limit.
+@610
+The books are set nine across and nine down; moving them in an arrow's direction rotates those nine.
+@611
+Choose an arrow with ⑤ and confirm with ①.\nThe books then move one place\nin the arrow's direction.
+@612
+Keep moving the books forward, back, left and right,\nand make the 3x3 books on the face all the same.
+@613
+Making all nine the same gives the best result.
+@614
+Even if not all match, the more matching books the better, and matching rows or columns earn bonus points.
+@615
+Pressing ③ ends it\neven with moves left,\nand scores it as it stands.
+@616
+I just choose arrows and move them.
+@616.1
+I just choose arrows and move them.
+@617
+I'll line them up somehow.
+@617.1
+I'll line them up somehow.
+@618
+Shall I stop here?
+@619
+Right, let's have it judged.
+@620
+I mustn't give up yet.
+@620.1
+I mustn't give up yet.
+@621
+That's all for this time.
+@621.1
+That's all for this time.
+@622
+Good, one face is complete.
+@622.1
+One face is complete.
+@623
+Splendid.
+@623.1
+Not perfect, but\nquite a good result.
+@623.2
+A fair result.
+@623.3
+Not a great result,\nbut let it be a lesson.
+@623.4
+I can't call it a good result,\nbut the experience won't go to waste.
+@623.5
+...More training is all I can say.
+
+# tea
+@624
+To master the tea ceremony,\nbeing able to tell tea utensils apart is important.
+@625
+Here you will reproduce\nthe arrangement of utensils I show you.
+@626
+Choose utensils from the left.\nMove the cursor with ⑦ and confirm with ①.
+@627
+Pressing ② corrects\nthe last choice.
+@628
+You will solve five of these.\nHow well you reproduce the arrangements in those five is your score.
+@629
+Now I'll show the utensils.
+@630
+I just arrange them as before.
+@630.1
+I just arrange them as before.
+@631
+Is this right?
+@632
+Hmm, let me think a little more.
+@633
+Now let's see how much is right.
+@634
+Splendid.
+@634.1
+That was close.
+@634.2
+You need more training.
+@634.3
+.........
+@635
+That ends this training.
+@636
+That was the best training!
+@636.1
+That was satisfying training.
+@636.2
+That was fair training.
+@636.3
+I'll train much harder from now on.
+@636.4
+The result was disappointing...
+
+# medicine
+@637
+Scoop ingredients with three ladles,\nlarge, medium and small, make the requested mixture,\nand so train in Medicine.
+@638
+First choose which ladle to use,\nthen the ingredient to put in it.\n② cancels the chosen ladle.
+@639
+Then choose where to pour the ladle's contents.\nThe ingredient is poured there.
+@640
+Repeat until you have the amount needed.\n④ empties all the ladles\nand cancels the chosen one.
+@641
+For example, say the ladles hold 7, 4 and 2, and the mixture needs 1 of an ingredient.
+@642
+First put the ingredient in the large ladle.\nThe large ladle now holds 7.
+@643
+Next pour from the large ladle into the medium one.\nThe medium ladle holds 4,\nso 3 is left in the large ladle.
+@644
+Now pour from the large ladle into the small one.\nThe small ladle holds 2,\nso 1 is left in the large ladle.
+@645
+Then pour what's left in the large ladle\ninto the mixture.
+@646
+I have to decide which ladle to use.
+@647
+Where should I pour this ladle?
+@648
+Right, I'll stop here.
+@649
+Splendid.
+@649.1
+Not quite perfect, but\nquite a good result.
+@649.2
+A fair result.
+@649.3
+Not a great result,\nbut let it be a lesson.
+@649.4
+I can't call it a good result,\nbut the experience won't go to waste.
+@649.5
+...More training is all I can say.
+@650
+Oh, it overflowed.
+@651
+Th-this is bad.\nI have to do something!
+@651.1
+Th-this is trouble.\nI have to do something!
+@652
+Phew, I managed to deal with it.\nIt can't be helped, I'll throw this away.
+@652.1
+Phew, I managed...\nIt can't be helped, I'll throw this away.
+
+# gunnery
+@653
+Want to hear how it's done?
+@654
+Then let's get straight to it.
+@655
+Well, that's about it.\nWant to hear it again?
+@656
+Then let's begin.
+@657
+Then I'll explain once more,\nso listen carefully.
+@658
+Gunnery training is about judging the angle\nand the moment to fire, and hitting the targets.
+@659
+The targets are thrown from bottom to top.\nThink about the bullet's speed and\nthe targets' movement, and aim well.
+@660
+If you time it to the targets' movement,\nyou can hit several targets with one shot.
+@661
+Targets you miss are thrown again.\nThey come in sets of four; hit a whole set and the next set comes.
+@662
+The more targets you hit the better, so hit them surely, and hit several at once for even better results.
+@663
+Judge the angle and the moment to fire,\nhit the targets and compete for the count.
+@664
+The targets are thrown from bottom to top.\nThink about the bullet's speed and the\ntargets' movement, and aim.
+@665
+If you time it to the targets' movement,\nyou can hit several targets\nwith one shot.
+@666
+Targets you miss are thrown again.\nThey come in sets of four;\nhit them all and the next set comes.
+@667
+Hitting them surely, and several at once,\ngives better results.
+@668
+I just time it and fire.
+@668.1
+I just time it and fire.
+@669
+Hit several at once.
+@669.1
+Hit several at once.
+@670
+Good, a hit.
+@670.1
+Good, a hit.
+@671
+Missed...
+@671.1
+Missed...
+@672
+Calm down.\nCalm down and take careful aim.
+@672.1
+Calm down.\nCalm down and take careful aim.
+@673
+Take aim, pick the moment,\nand you'll hit.
+@673.1
+Take aim, pick the moment,\nand you'll hit.
+@674
+I'm out of bullets, so that's all for now.\nNow, the result...
+@674.1
+No bullets left, so that's all for now.\nThe result...
+@675
+Admirable skill.
+@675.1
+Not bad at all.\nA very good result.
+@675.2
+So-so, I'd say.
+@675.3
+Hmm, not quite there.
+@675.4
+Still a long way to go.
+@675.5
+...Hey, that's awful...\nWell, these things happen.
+
+# archery
+@676
+Archery training is about hitting the targets by adjusting the angle with ⑥ and the draw (strength of the shot) with ⑦.
+@677
+Arrows drop as they lose speed,\nso take that into account when setting the draw.
+@678
+The targets don't move.\nAim well and you can hit several targets with one arrow.
+@679
+Hit every target shown,\nand new targets are set up.
+@680
+The more targets you hit,\nthe better the result.
+@681
+I just adjust the angle and draw\nand loose the arrow.
+@682
+If I work out the strength and angle,\nit should hit.
+@682.1
+If I work out the strength and angle,\nit should hit.
+@683
+I'm out of arrows, so that's all for now.\nNow, the result...
+@683.1
+No arrows left, so that's all for now.\nThe result...
+@684
+An admirable result.
+@684.1
+A very good result.
+@684.2
+So-so, I'd say.
+@684.3
+Hmm, not quite there.
+@684.4
+Still a long way to go.
+@684.5
+............More training is all I can say.
+
+# tactics
+@685
+Leading an army demands seeing the whole field.\nTactics training is training to see the whole.
+@686
+Cards are laid out at random.\nFind pairs of the same color and number.
+@687
+A pair counts if the two cards are side by side or one above the other, or can be joined through empty spaces by a line with at most two turns.
+@688
+First choose any card, then a card with the same picture.\nIf the pair qualifies, both disappear.
+@689
+Cards above removed ones drop down.\nKeep finding qualifying pairs and clear all the cards.
+@690
+Start with this layout?
+@691
+There may be an easier layout.\nI'll hold off for now.
+@692
+I just find pairs\nwith the same picture.
+@692.1
+I just find pairs\nwith the same picture.
+@693
+Good, found one.
+@693.1
+Found one.
+@694
+Was this wrong...
+@695
+Calm down and find matching pictures.
+@696
+Good, I found every pair.
+@696.1
+I found every pair.
+@697
+? There are no more pairs to clear.
+@697.1
+?\nThere seem to be no more pairs to clear.
+
+# arithmetic
+@698
+Now I'll explain Accounting training.\nAn equation is shown; fill the blanks with numbers that fit.
+@699
+You can enter any number from 1 to 9,\nbut you can't use the same number twice in one equation.
+@700
+② corrects the last entry,\nand ④ clears all entries.
+@701
+A problem ends when time runs out or you choose "Done".\nThere are six problems in all.
+@702
+After six problems, the result is decided by the number you got right.\nOf course, the more correct, the better.
+@703
+Well then, let's begin.
+@703.1
+This is the last problem.
+@703.2
+Next problem.
+@704
+I just complete this equation.
+@704.1
+I just complete this equation.
+@705
+Time's up.
+@706
+Correct.
+@707
+It can't be correct if the equation isn't complete.
+@708
+Wrong.
+
+# riding
+@709
+Steer your horse with ⑦ and dodge the arrows.\nGo too far to the side and you'll crash into the wall,\nso avoid that too.
+@710
+You must signal the horse to dodge arrows, but a moving horse takes a little time\nto respond after you signal.
+@711
+Keep that in mind when you signal.\nOf course, the fewer arrows and walls you hit, the better.
+@712
+Let's begin.
+@713
+I just steer the horse to dodge the arrows\nand keep clear of the walls.
+@713.1
+I just steer the horse to dodge the arrows\nand keep clear of the walls.
+@714
+I won't be hit by arrows or walls.
+@714.1
+I'll finish without hitting arrows or walls.
+@715
+Blast!
+@716
+Not yet, it's not over yet.
+@716.1
+Not yet, it's not over yet.
+@717
+It's over...
+@718
+I got hit!\nBut I'm not done yet.
+@718.1
+Argh, not done yet.
+@719
+A mistake... but no more!!
+@719.1
+Whoa! Did I get hit?
+@720
+Whoa! That one hurt...
+@720.1
+!! This is nothing!
+@721
+Hit this many times...\nLet's end this training here.
+@722
+Well done.\nThis training is over.

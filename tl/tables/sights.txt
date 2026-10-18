@@ -1,0 +1,58 @@
+0	Matsushima
+1	Kegon Falls
+2	Mt. Fuji
+3	Lake Biwa
+4	Amanohashidate
+5	Nachi Falls
+6	Miyajima
+7	Off Cape Muroto
+8	Mt. Aso
+9	Sakurajima
+10	Fukuroda Falls
+11	Chusonji Golden Hall
+12	Lake Hachiro
+13	Mt. Osore
+14	Oyashirazu Cliffs
+15	Tojinbo
+16	Zenkoji
+17	Tottori Dunes
+18	Shuhodo Cave
+19	Kotohira Shrine
+20	Mt. Gassan
+21	Mt. Ishizuchi
+22	Mt. Unzen
+23	Oboke Gorge
+24	Kashima Shrine
+25	Ise Shrine
+26	Izumo Shrine
+27	Oyamazumi Shrine
+28	Mishima Shrine
+29	Mt. Akagi
+30	Mt. Daisen
+31	Mt. Koya
+32	Okushiri Island
+33	Sado Island
+34	Oki Islands
+35	Iki Island
+36	Tanegashima
+37	Yakushima
+38	Tsushima
+39	Awaji Island
+40	Izu Oshima
+41	Lake Towada
+42	Lake Inawashiro
+43	Lake Shinji
+44	Nakaumi
+45	Lake Suwa
+46	Lake Hamana
+47	Kasumigaura
+48	Lake Chuzenji
+49	Arima Hot Spring
+50	Dogo Hot Spring
+51	Kusatsu Hot Spring
+52	Gero Hot Spring
+53	Ibusuki Hot Spring
+54	Shirahama Hot Spring
+55	Katsurahama
+56	Miho Pine Grove
+57	Kujukuri Beach

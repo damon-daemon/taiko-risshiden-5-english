@@ -1,0 +1,18 @@
+0	Buy Goods
+1	Buy Rarity
+2	Ship Goods
+3	Deliver
+4	Dun Debts
+5	Find Goods
+6	Help Fight
+7	Bodyguard
+8	Helper
+9	Bandits
+10	Escort
+11	Vendetta
+12	Saltpetre
+13	Sulphur
+14	Charcoal
+15	Iron Sand
+16	Make Sword
+17	Make Guns

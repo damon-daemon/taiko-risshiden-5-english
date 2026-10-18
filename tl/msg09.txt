@@ -1,0 +1,2726 @@
+@0
+Hm, {01}C1{00}...\nWhat a coincidence,\nmeeting in a place like this.\nWell, do your best.\nI look forward to the next council.\nFarewell, then.
+@0.1
+Hm, {01}C1{00}...\nOf all places,\nto meet {01}C{19}{00} here.\nWell, we know how {01}C{19}{00} will do.\nI look forward to the next council.\nNo reason to stay. Farewell.
+@1
+Oh, {01}C1{00}...\nI never thought\nwe'd meet here.\nWell, do your best.\nI look forward to the next council.\nExcuse me, then.
+@1.1
+Oh, {01}C1{00}...\nOf all places,\nto meet {01}C{19}{00} here.\nWell, we know how {01}C{19}{00} will do.\nI look forward to the next council.\nNo reason to stay. Bye now~
+@2
+Hm, {01}C1{00}...\nWhat a coincidence,\nmeeting you in a place like this.\nWell, do your best.\nI look forward to the next council.\nFarewell, then.
+@2.1
+Oh, {01}C1{00}...\nWhat a coincidence,\nmeeting you in a place like this.\nWell, do your best.\nI look forward to the next council.\nExcuse me, then.
+@3
+Welcome.
+@4
+What can I do for you today?
+@5
+Which market information\nwould you like?
+@6
+We trade in units of 1000 koku.\nThe buying price is {02}od kan,\nthe selling price is {02}pd kan.
+@7
+Rice prices for the whole region\nwill cost {02}o{C8}.
+@8
+Will you pay {02}o{C8}?
+@9
+Thank you very much.\nRice prices in this region\nare as follows.
+@10
+I see.\nVery well.
+@11
+I'm very sorry.\nWe're out of rice at the moment.
+@12
+Forgive me, but your castle\nhas plenty of provisions.
+@13
+We trade in units of 1000 koku.\nThe price is {02}od kan per 1000 koku;\nwe have {02}pd,000 koku ready.
+@14
+I'm very sorry.\nWith the money you have,\nwe can't sell to you.
+@15
+How many thousand koku will you buy?
+@16
+{02}od,000 koku comes to {02}pd kan.\nIs that all right?
+@17
+Then\nhow about {02}od kan?
+@18
+Hmm...... then\nhow about {02}od kan?
+@19
+All right, I'll give you a discount.\nThen how about\n{02}od kan?
+@20
+I'm very sorry.\nWe have a business to run......\nPlease come again.
+@21
+Thank you very much.\nPlease come again.
+@22
+I see......\nThen we'll look forward\nto another time.
+@23
+I'm very sorry,\nbut you don't have any provisions.
+@24
+you
+@24.1
+your castle
+@25
+Forgive me, but your castle\ndoesn't have enough provisions to trade.
+@26
+We trade in units of 1000 koku.\nThe selling price is\n{02}od kan per 1000 koku.
+@27
+How many thousand koku will you sell?
+@28
+{02}od,000 koku comes to {02}pd kan.\nIs that all right?
+@29
+Then\nhow about {02}od kan?
+@30
+Hmm...... then\nhow about {02}od kan?
+@31
+...You've worn me down.\nThen how about\n{02}od kan?
+@32
+Welcome.
+@33
+What brings you here today?
+@34
+Which market information\nwould you like?
+@35
+This town's horse price is\n{02}od{03}*%10 kan per 10 horses.
+@36
+Horse prices for the whole region\nwill cost {02}o{C8}.
+@38
+Thank you very much.\nHorse prices in this region\nare as follows.
+@40
+I'm very sorry.\nWe're out of warhorses at the moment.
+@41
+Forgive me, but your castle\nhas plenty of warhorses.
+@42
+I'm very sorry.\nWith the money you have,\nwe can't sell to you.
+@43
+Oh, I know.\nThere's a peddler here right now.\nLet me introduce you.
+@44
+Hello, {01}C[#!\nWell, {01}C[#, you're really lucky!\nI've got some great news!
+@45
+I've just come back from Oshu\nwith horses I bought\ndirt cheap!
+@46
+I was going to sell those 100\nto the master here, but then\nI hear {01}C[# wants horses too.
+@47
+So, meeting here must be fate!\nYou really must\nbuy them, {01}C[#!
+@48
+The price here is {02}od kan per 10...\nAll right, 100 kan per 10!\nI'll sell my 100 horses for that!
+@49
+Come on, {01}C[#!\nMy 100 horses for 1000 kan!\nYou really must buy!
+@50
+Don't say that, {01}C[#!\nYou won't get a chance like this again!\nYou really must buy!
+@51
+mister
+@51.1
+honored samurai
+@52
+You won't buy...\nI thought it was a good chance,\nbut oh well.
+@53
+Well then, I'll be off...\n...Ah, what a waste...
+@54
+...Oh, he's gone.\nHonored samurai,\nwas that all right?
+@55
+But that price was too cheap.\nIt'd be trouble if you got stuck with something odd...\nNow, shall we do business properly?
+@56
+That's {01}C[#! You've got an eye!\nThe horses are tied up over there.\nThank you kindly!
+@57
+That price was too cheap.\nA bit suspicious...\nLet's go check together.
+@58
+When the two went to\nthe place the peddler mentioned......
+@59
+......there were indeed\n100 horses.
+@60
+Oh, proper horses.\nHonored samurai, well done.\nThat was a good buy.
+@60.1
+Oh, proper horses.\nWell done.\nThat was a good buy.
+@61
+......there were, believe it or not,\n100 "deer"!
+@62
+Oh dear......\nThese are deer!\nWe've been had......
+@63
+I'm so sorry for you......\nhonored samurai.
+@63.1
+I'm so sorry for you......\n
+@64
+We sell warhorses in units of 10.\nNow it's {02}od kan per 10.\nYou can buy up to {02}pd horses.
+@65
+How many will you buy?
+@66
+{02}od horses comes to {02}pd kan.\nIs that all right?
+@67
+Then\nhow about {02}od kan?
+@68
+Hmm...... then\nhow about {02}od kan?
+@69
+All right, I'll give you a discount.\nThen how about {02}od kan?
+@70
+I'm very sorry.\nWe have a business to run......\nPlease come again.
+@71
+Thank you very much.\nPlease come again.
+@72
+I see......\nThen we'll look forward\nto another time.
+@73
+Welcome.
+@74
+Welcome.\nWill you be staying?
+@75
+I see, just a rest.\nPlease relax.
+@76
+It's {02}o{C8} a night, but\nforgive me, you don't have enough on you.
+@77
+In your present condition,\nI'd suggest staying {02}od days.
+@78
+Staying {02}od days\ncomes to {02}p{C8}.\nIs that all right?
+@79
+It's {02}o{C8} a night.\nHow many days will you stay?
+@80
+You won't stay?\nVery well.
+@81
+Very well.\n{02}od nights, then.\nPlease rest well.
+@82
+{01}C{B4}#, good morning.\nDid you sleep well?
+@82.1
+{01}C{B4}#, good morning.\nHow are you feeling?
+@82.2
+{01}C{B4}#, take care.\nMind yourself on your way.
+@82.3
+{01}C{B4}#, how are you?\nIf you like, stay with us again.
+@83
+Eh? You're giving this to me?\nI'm so happy!\nBut, {01}C{B4}#......\nyou have a wife;\nyou needn't concern yourself\nwith the likes of me.
+@83.1
+Eh? This is for me?\nI'm so happy!\nBut, {01}C{B4}#......\nI shouldn't say so after taking it, but\nif your wife found out,\nshe'd be furious, surely.
+@83.2
+Eh? You're giving this to me?\nI'm so happy!\nBut, {01}C{B4}#......\nyou have a wife;\nyou needn't be so kind to me...\n......*blush*
+@83.3
+Eh? You're giving this to me?\nI'm so happy!\nBut, {01}C{B4}#......\nyou have a wife;\nis this really all right?\nFlattering me won't get you anything.
+@83.4
+Eh? You're giving this to me?\nI'm so happy.\nI'll treasure it!
+@83.5
+My, such a thing for me...\n...Ufufu, I'm so happy.
+@83.6
+...F-for me, such a thing?\nOh, but I'm nobody...\nTh-thank you very much.
+@83.7
+...Eh! You're giving this to me?\nThanks, {01}C{B4}#!
+@84
+...You're giving this to me?\nThank you very much.\nBut, {01}C{B4}#......\nyou have a wife;\nyou needn't concern yourself\nwith the likes of me.
+@84.1
+Eh? This is for me?\nI'm so happy!\nBut, {01}C{B4}#......\nI shouldn't say so after taking it, but\nif your wife found out,\nshe'd be furious, surely.
+@84.2
+Eh? You're giving this to me?\nI'm so happy!\nBut, {01}C{B4}#......\nyou have a wife;\nyou needn't be so kind to me...\n......*blush*
+@84.3
+Eh? You're giving this to me?\nI'm so happy!\nBut, {01}C{B4}#......\nyou have a wife;\nis this really all right?\nFlattering me won't get you anything.
+@84.4
+...You're giving this to me?\nThank you very much.
+@84.5
+My, such a thing for me...\nThank you very much.
+@84.6
+...F-for me?\nOh, you needn't worry about me...
+@84.7
+...Eh? This is for me?\nThanks.
+@85
+What's the matter?\nWell, have a good day.
+@85.1
+What's wrong?\nWell, take care.
+@85.2
+Is something the matter?\nWell, please come again.
+@85.3
+Oh, what's up?\nWell, see you.
+@86
+Good morning.\nHave a good day.
+@87
+The other day I went to the castle town\nof {02}{15}e.\nThis is how things were.
+@88
+The other day I went to {02}{15}e.\nThere was a person\ncalled {02}{03}g there.
+@89
+The other day I went to {02}{15}e.\nRice is cheap there:\n{02}{15}{8C}{03}*%10 kan per 1000 koku.
+@90
+The other day I went to {02}{15}e.\nHorses are cheap there:\n{02}{15}{8D}{03}*%10 kan per 10 horses.
+@91
+The other day, traveling around {02}{1F}e,\nI climbed {02}=e near {02}{15}e...\nWhat a superb view it was.
+@91.1
+If you go to {02}{1F}e,\nI recommend {02}=e near {02}{15}e.\nIt cleanses the heart.
+@91.2
+I'm from {02}{1F}e, and\n{02}=e near {02}{15}e\nhas a truly lovely view.
+@91.3
+If you go to {02}{1F}e, visit {02}=e\nnear {02}{15}e.\nYou can feel the weight of tradition.
+@91.4
+If you travel toward {02}{1F}e,\nstop by {02}=e near {02}{15}e.\nIt's a lovely place.
+@92
+Tomorrow I'm heading to {02}{15}e.\nI hear there's a place called {02}=e\nnear {02}{15}e... maybe I'll go.
+@93
+I work here.\nMy name is {02}{01}g.\nPlease keep using this inn.
+@93.1
+I'm {02}{01}g.\nI work here.\nPlease favor this inn from now on.
+@93.2
+I'm {02}{01}g, and I work here.\nIf you like, please keep\nusing this inn.
+@93.3
+I'm {02}{01}g.\nI shouldn't say it myself, but\nthe main attraction here is me... just kidding.
+@94
+Welcome.\nPlease take your time.
+@94.1
+Welcome.\nWell, rest from your travels.
+@94.2
+...W-welcome.\nPlease, make yourself comfortable.
+@94.3
+Did you come to see me?\nJust looking is free...\nBut please stay the night if you like!
+@95
+Um...... {01}C{B4}#?\nYou seem a little...\nIs something the matter?
+@96
+{01}C{B4}#, what's this...?\nThis is for me...?
+@97
+Um, forgive me if I'm wrong,\nbut may I take this as...\na proposal to me?
+@98
+Thank you very much...\n...I'm so very happy.\n\nI'm an inexperienced girl, but\nI'll serve you with all my heart.\nPlease take care of me, my husband.
+@99
+You're giving this to me?\nThank you very much.
+@100
+...What's the matter?\nHow odd, {01}C{B4}#.
+@101
+A person called {02}{03}g\nlives in this town.\nWhy not go and meet them?
+@102
+The other day I saw a prospector\nin the {01}C{8F}# of here.\nMaybe looking for {02}3g...
+@102.1
+The other day I saw a prospector\nin the {01}C{8F}# of {02}{15}e.\nMaybe looking for {02}3g...
+@102.2
+The legendary treasure {02}3g...?\nI think I heard a story like that\nin {02}{1F}e, or maybe not...
+@102.3
+The legendary treasure {02}3g...?\nOh, the legend of the {02}[e region, right?\n
+@103
+east
+@103.1
+south
+@103.2
+west
+@103.3
+north
+@103.4
+southeast
+@103.5
+northeast
+@103.6
+northwest
+@103.7
+southwest
+@104
+{02}{84}e/{02}{84}f/{02}{84}g:\n{02}{01}g and {02}{02}f were married.\nIn an age of war, a couple was born.
+@105
+{02}3g?\nI think I saw it at {02}{03}{EC} in {02}{15}e.
+@106
+Oh, who might you be?
+@106.1
+Oh, who might you be?
+@107
+A pleasure to meet you.\nI am {02}{01}g.
+@107.1
+How do you do?\nI am {02}{01}g.
+@108
+Oho...... a ronin, are you?\nWelcome to my home.
+@108.1
+You're with {02}{02}{EC}?\nWelcome to my home.
+@109
+Oh, a ronin?\nWelcome to my home.
+@109.1
+You're with {02}{02}{EC}?\nWelcome to my home.
+@110
+Oh, it's {01}C1{00}.
+@110.1
+Ah, {01}C1{00}.\nWelcome to my home.
+@110.2
+Ah, {01}C1{00}!\nYou're most welcome.
+@111
+Oh, it's {01}C1{00}.
+@111.1
+My, {01}C1{00}.\nWelcome to my home.
+@111.2
+My, {01}C1{00}!\nCome, come on in.
+@112
+What brings you here?
+@112.1
+What can I do for you?
+@113
+{01}C1{00}, I have something to discuss.
+@113.1
+{01}C1{00}, I have something to discuss.
+@113.2
+{01}C1{00},\nI have something to discuss today.
+@114
+What is it? So formal.
+@114.1
+What is it? So formal.
+@114.2
+Yes, what is it?
+@115
+I'll be blunt.\nLord {02}{03}f very much wishes\nto invite {01}C1{00} to serve.
+@115.1
+I'll be blunt.\nLord {02}{03}f very much wishes\nto invite {01}C1{00} to serve.
+@115.2
+I'll be blunt.\nLord {02}{03}f very much wishes\nto invite {01}C1{00} to serve.
+@116
+{01}C{0E}{00}...?\nIs that true?
+@116.1
+{01}C{0E}{00}...?\nIs that true?
+@116.2
+{01}C{0E}{00}...?
+@117
+Well?\nLet me hear a good answer.
+@117.1
+What do you say?\nPlease give me a good answer.
+@117.2
+What do you say?\nPlease give me a good answer.
+@118
+An honor beyond my station.\nPlease, introduce me.
+@118.1
+An honor beyond my station.\nPlease, do introduce me.
+@118.2
+An honor beyond my station.\nPlease, do introduce me.
+@119
+Oh! Thanks.\nOur lord will surely be delighted.
+@119.1
+Oh! Thank you very much.\nOur lord will surely be delighted.
+@119.2
+Oh! Thank you very much.\nOur lord will surely be delighted.
+@120
+Then I'll prepare to set out.\nWe'll meet in {02}{15}e.
+@120.1
+Then I'll prepare to set out.\nLet us meet in {02}{15}e.
+@120.2
+Then I'll prepare to set out.\nLet's meet in {02}{15}e.
+@121
+An honor beyond my station, but......\nplease forget this talk.\nI'll ask you to leave for today.
+@121.1
+An honor beyond my station, but......\nplease forget this talk.\nPlease leave for today.
+@121.2
+An honor beyond my station, but...\nplease forget this talk.\nPlease leave for today.
+@122
+I see......
+@122.1
+I see......\nUnderstood.
+@122.2
+I see...\nUnderstood.
+@125
+I'll be blunt.\nI want to take {01}C1{00}\non as my {01}C{AA}{01}.
+@125.1
+I'll be blunt.\nI wish to invite {01}C1{00}\nas my {01}C{AA}{01}.
+@125.2
+I'll be blunt.\n{01}C1{00}, I'd like to invite you\nas {01}C{0E}{00}'s {01}C{AA}{01}.
+@126
+I'll be blunt.\nWon't you put {01}C{19}{00}'s strength\nto use under Lord {02}{03}f?
+@126.1
+I'll be blunt.\nWould you not put {01}C{19}{00}'s strength\nto use under Lord {02}{03}f?
+@126.2
+I'll be blunt.\nWon't you try putting {01}C{19}{00}'s\nstrength to use under Lord {02}{03}f?
+@127
+{01}C{0E}{00}...?\nIs that true?
+@127.1
+{01}C{0E}{00}...?\nIs that true?
+@127.2
+{01}C{0E}{00}...?
+@128
+It's sudden, but won't you give a good answer?
+@128.1
+It's sudden, but\nplease give me a good answer.
+@128.2
+It's sudden, but\nplease give me a good answer.
+@129
+Just what I hoped for!\nPlease make {01}C{0E}{00}\na member of {02}{02}{EC}.
+@129.1
+I'm deeply grateful!\nPlease add {01}C{0E}{00}\nto the lowest seat of {02}{02}{EC}.
+@129.2
+Such gracious words.\nPlease add {01}C{0E}{00}\nto the lowest seat of {02}{02}{EC}.
+@130
+Oh! I was waiting for that answer!\nWith {01}C{19}{00}, we're a hundred strong.\nMost reassuring.
+@130.1
+Oh! I'm grateful!\nWith {01}C{19}{00} joining us,\nwe're a hundred strong.
+@130.2
+Thank you very much!\nWith {01}C{19}{00} joining us,\nwe're a hundred strong.
+@134
+Who's there?\n...Oh, {01}C1{00}! It's {01}C1{00}!
+@134.1
+Welcome...\n...Oh, who might you be?
+@134.2
+Oh, who's this?
+@135
+I'm home.\n{01}C1{00}, are you well?
+@135.1
+A pleasure to meet you.\nI am {02}{01}g.
+@135.2
+How do you do?\nI am {02}{01}g.
+@136
+Coming home so suddenly,\nyou gave me a fright!\nWell, come on, come in.
+@136.1
+Oh, so {01}C{19}{00} is......\nI've heard about you from Tokichiro.\nThank you for always looking after him.
+@136.2
+Oh, it's {01}C{B4}#?\nWelcome to a place like this.
+@137
+Oh, welcome home.
+@137.1
+Oh, {01}C1{00},\nwelcome.\nThank you for always looking after Tokichiro.
+@137.2
+Oh, isn't that {01}C1{00}?\nWelcome.
+@138
+What's the matter today?
+@138.1
+What brings you here today?
+@139
+{01}C1{00}, maybe I'm worrying too much,\nbut shouldn't you be working\ninstead of loafing around here?
+@139.1
+Is Tokichiro working properly?\nEven at his age,\nI still worry......
+@139.2
+Does {01}C{19}{00} have a dream?
+@139.3
+{01}C{B4}#, there's nothing\nhere for you, you know.
+@140
+honored samurai
+@140.1
+honored samurai
+@140.2
+{02}{02}e
+@140.3
+{02}{02}e
+@140.4
+Mr. Merchant
+@140.5
+{02}{02}e
+@141
+Oh, who might you be?
+@141.1
+Oh, who might you be?
+@142
+A pleasure to meet you.\nI am {02}{01}g.
+@142.1
+Hello.\nI am {02}{01}g.
+@143
+A ronin, are you?\nAnyway, I look forward to knowing you.
+@143.1
+You're with {02}{0B}e?\nWell, well...
+@143.2
+You're with {02}{0B}e?\nPlease favor us from now on.
+@144
+A ronin?\nPlease favor us from now on.
+@144.1
+You're with {02}{0B}e?\nMy, well, well...
+@144.2
+You're with {02}{0B}e?\nPlease favor us from now on.
+@145
+{01}C1{00},\ngood of you to come.
+@145.1
+Welcome.\nThank you for your custom.
+@145.2
+Ah, {01}C1{00},\ngood of you to come.
+@145.3
+Well, well, {01}C1{00},\nthank you for your custom.
+@145.4
+Why, isn't it {01}C1{00}!\nGood of you to come.
+@145.5
+Well, well, {01}C1{00},\nthank you for coming.
+@146
+Welcome.\nThank you for your custom.
+@146.1
+Oh, {01}C1{00},\nthank you for your custom.
+@146.2
+Why, {01}C1{00},\nwelcome.
+@147
+Oh, it's {01}C1{00}.
+@147.1
+Welcome.
+@147.2
+Welcome.
+@148
+What brings you today?
+@148.1
+What can I do for you?
+@148.2
+What can I do for you?
+@149
+What do you want to buy?
+@149.1
+Which item would you like?
+@149.2
+Which item would you like?
+@150
+You can't afford it with what you have.
+@150.1
+Forgive me, but\nwith the money you have\nyou can't buy it.
+@150.2
+Forgive me, but with the money you have\nyou can't buy it.
+@151
+You must have plenty of {02}3g.
+@151.1
+As for {02}3g,\nyou already have\nplenty.
+@151.2
+As for {02}3g,\nyou must already have\nplenty.
+@152
+{02}3g is\n{02}o{C8} each.\nHow many do you want?
+@152.1
+{02}3g is\n{02}o{C8} each.\nHow many will you buy?
+@152.2
+{02}3g is\n{02}o{C8} each.\nHow many would you like?
+@153
+That's {02}o{C8}.\nWill you buy?
+@153.1
+That comes to\n{02}o{C8}.\nIs that all right?
+@153.2
+{02}3g, eh? You've got an eye.\nThat's a real find.\nIt's {02}o{C8}. All right?
+@153.3
+{02}3g? You have a fine eye.\nThat is a superb piece.\nIt's {02}o{C8}. Is that all right?
+@154
+Then that comes to\n{02}o{C8}.\nIs that all right?
+@154.1
+My! You want {02}3g?\nIt's a very precious item, so\nit's {02}o{C8}. Is that all right?
+@155
+Then how about {02}o{C8}?
+@155.1
+Then how about\n{02}o{C8}?
+@155.2
+Then how about\n{02}o{C8}?
+@156
+Hmm......\nThen how about {02}o{C8}?
+@156.1
+Hmm...... then\nhow about {02}o{C8}?
+@156.2
+Hmm...... then\nhow about {02}o{C8}?
+@157
+I see......\nI'll give you a discount: {02}o{C8}?
+@157.1
+I see...... then\nI'll give you a discount.\nHow about {02}o{C8}?
+@157.2
+Understood...... then\nI'll give you a discount.\nHow about {02}o{C8}?
+@158
+Sorry, but I have a business to run......\nCome again.
+@158.1
+I'm very sorry.\nWe have a business to run......\nPlease come again.
+@158.2
+I'm very sorry.\nWe have a business to run...\nPlease come again.
+@159
+Ah, thanks.\nCome again.
+@159.1
+Thank you very much.\nPlease come again.
+@159.2
+Thank you very much.\nPlease come again.
+@160
+I see......\nAnother time, then.
+@160.1
+I see......\nThen another time, please.
+@160.2
+I see......\nThen another time, please.
+@161
+Sorry, I don't see anything you could sell.
+@161.1
+Forgive me,\nbut you have nothing to sell.
+@161.2
+Forgive me,\nbut you don't seem to have anything...
+@162
+What will you sell me?
+@162.1
+What would you sell us?
+@162.2
+What would you sell us?
+@163
+{02}3g, I'll take\nat {02}o{C8} each.\nHow many will you sell?
+@163.1
+{02}3g, we'll take\nat {02}o{C8} each.\nHow many will you sell?
+@163.2
+{02}3g, we'll take\nat {02}o{C8} each.\nHow many will you sell?
+@164
+That's {02}o{C8}.\nAll right?
+@164.1
+That comes to\n{02}o{C8}.\nIs that all right?
+@164.2
+Oh, the legendary {02}3g!\nYou'll sell me such a treasure?\nIs {02}o{C8} all right?
+@164.3
+Oh, that is {02}3g.\nYou'll sell us such a treasure?\nIs {02}o{C8} all right?
+@165
+Then that comes to\n{02}o{C8}.\nIs that all right?
+@165.1
+My! That's {02}3g, isn't it?\nA very precious treasure.\nHow about {02}o{C8}?
+@166
+Sorry...\nI'm out of guns.
+@166.1
+I'm very sorry.\nWe're out of guns at the moment.
+@166.2
+I'm sorry.\nWe're out of guns at the moment.
+@167
+{01}C{19}{00}'s castle\nhas plenty of guns.
+@167.1
+Forgive me, but Lord {02}{02}e's castle\nhas plenty of guns.
+@167.2
+Forgive me, but Lord {02}{02}e's castle\nshould have plenty of guns...
+@168
+Want guns?\nThey're {02}od kan each.\nYou can buy up to {02}pd. Well?
+@168.1
+You'd like guns?\nThey're {02}od kan each.\nYou can buy up to {02}pd.
+@168.2
+You'd like guns?\nThey're {02}od kan each.\nYou can buy up to {02}pd.
+@169
+Guns... since you're with {02}{02}{EC},\nI'll knock it down to {02}od kan each.\nYou can buy up to {02}pd. Well?
+@169.1
+You'd like guns?\nSince you're with {02}{02}{EC},\nwe'll give a small discount...\n{02}od kan each.\nYou can buy up to {02}pd.
+@169.2
+You'd like guns?\nSince you're with {02}{02}{EC},\nwe'll give a small discount...\n{02}od kan each.\nYou can buy up to {02}pd.
+@170
+How many guns do you want?
+@170.1
+How many guns\nwill you buy?
+@170.2
+How many guns\nwill you buy?
+@171
+{02}od guns comes to {02}pd kan.\nAll right?
+@171.1
+{02}od guns comes to {02}pd kan.\nIs that all right?
+@171.2
+{02}od guns comes to {02}pd kan.\nIs that all right?
+@172
+Then I'll make it {02}od kan.\nWell?
+@172.1
+Then we'll make it {02}od kan.\nHow about that?
+@172.2
+Then we'll make it {02}od kan.\nHow about that?
+@173
+...I see.\nThen how about {02}od kan?
+@173.1
+...I see, then\nhow about {02}od kan?
+@173.2
+...I see, then\nhow about {02}od kan?
+@174
+...Hmm, I'll give you a discount...\nHow about {02}od kan?
+@174.1
+...Then I'll give you a discount.\nHow about {02}od kan?
+@174.2
+......Very well.\nThen how about {02}od kan?
+@175
+Oh, who might you be?
+@176
+A pleasure to meet you.\nI am {02}{01}g.
+@176.1
+How do you do?\nI am {02}{01}g.
+@177
+Oho, Lord {02}{02}g.\nWelcome.
+@178
+Oh, it's {01}C1{00}...
+@178.1
+Ah, Lord {02}{02}g.
+@178.2
+Ah, {01}C1{00}.\nGood of you to come.
+@178.3
+Oh, it's {01}C1{00}.
+@178.4
+Why, isn't it {01}C1{00}!\nGood of you to come.
+@178.5
+Ah, {01}C1{00}.
+@178.6
+Why, {01}C1{00}!\nYou haven't fallen ill, have you?
+@178.7
+Ah, {01}C1{00}.\nHow is your health?
+@179
+What's the matter?
+@179.1
+What is the matter?
+@180
+Curing the illness costs {02}o{C8}...\n{01}C1{00}, you don't have enough.
+@180.1
+Hmm, curing your illness\ncosts {02}o{C8}...\nYou seem short of money.
+@181
+Curing the illness costs {02}o{C8}.\nAll right?
+@181.1
+Curing your illness\ncosts {02}o{C8}.\nIs that all right?
+@182
+Well then, let me examine you.
+@182.1
+Well then, let me examine you.
+@183
+There, much better.\nIf you ruin your health again, you lose everything.\nRest properly.
+@183.1
+There, much better.\nIf you ruin your health again, you lose everything.\nPlease rest properly.
+@184
+I see...\nDon't push yourself too hard.
+@184.1
+I see.\nIt's not my place to say...\nbut take care of your health.
+@185
+Which medicine do you need?
+@185.1
+Which medicine do you need?
+@186
+You seem short of money.
+@186.1
+You seem short of money.
+@187
+You seem to have plenty\nof {02}3g already.
+@187.1
+You seem to have plenty\nof {02}3g already.
+@188
+How many do you want?
+@188.1
+How many would you like?
+@189
+That comes to {02}o{C8} in all.\nAll right?
+@189.1
+That comes to {02}o{C8} in all.\nWill you buy?
+@190
+Medicine is expensive... use it carefully.\nBut don't be too stingy with it either.\nNo use valuing medicine over your body.
+@190.1
+Medicine is precious...\nPlease use it carefully.
+@191
+Oh, it's {01}C1{00}...
+@191.1
+Welcome.
+@191.2
+Ah, {01}C1{00}.\nGood of you to come.
+@191.3
+Oh, it's {01}C1{00}.\nWelcome.
+@191.4
+Why, isn't it {01}C1{00}!\nGood of you to come.
+@191.5
+Ah, {01}C1{00}.\nWelcome.
+@191.6
+Why, it's {01}C1{00}!\nGood of you to come.
+@191.7
+Ah, {01}C1{00}.\nWe've been expecting you.
+@192
+What is it?\nTea ware? Or......
+@192.1
+Is it tea ware you're after?\nOr......
+@193
+Which one interests you?
+@193.1
+Which shall I show you?
+@194
+Sorry, you can't afford it with what you have.
+@194.1
+Forgive me, but\nwith the money you have\nyou can't buy it.
+@195
+That one is {02}o{C8} each.\nHow many do you want?
+@195.1
+That item is\n{02}o{C8} each.\nHow many will you buy?
+@196
+You must already have plenty\nof {02}3g.
+@196.1
+You already have plenty\nof {02}3g.
+@197
+Then I'll make it {02}o{C8}.\nAll right?
+@197.1
+Then\nwe'll make it {02}o{C8}.\nWill you buy?
+@198
+Then how about {02}o{C8}?
+@198.1
+In that case,\nhow about {02}o{C8}?
+@199
+Then how about {02}o{C8}?
+@199.1
+Not satisfied...... then\nhow about {02}o{C8}?
+@200
+Oh, all right...\nIf my dear {01}C1{00} asks...\nhow about {02}o{C8}?
+@200.1
+Very well.\nSince it's {01}C1{00} asking,\nhow about {02}o{C8}?
+@201
+Sorry, but go home for today.
+@201.1
+I'm very sorry.\nPlease leave for today.
+@202
+Ah, thanks.
+@202.1
+Thank you very much.
+@203
+I see...\nA great pity...
+@203.1
+I see.\nThat is a pity.
+@204
+Strange thing to ask, but...\nyou don't seem to have any tea ware.
+@204.1
+Forgive me,\nbut you don't seem\nto have any tea ware.
+@205
+Which do you want to sell?
+@205.1
+Which will you sell us?
+@206
+{02}3g, I'll take\nfor {02}o{C8}.\nHow many will you sell?
+@206.1
+{02}3g is\n{02}o{C8}.\nHow many will you sell?
+@207
+Then I'll make it {02}o{C8}.\nWell?
+@207.1
+Then\nwe'll make it {02}o{C8}.\nIs that all right?
+@208
+Then how about {02}o{C8}?
+@208.1
+In that case,\nhow about {02}o{C8}?
+@209
+Then how about {02}o{C8}?
+@209.1
+Not satisfied...... then\nhow about {02}o{C8}?
+@210
+Oh, all right...\nIf my dear {01}C1{00} asks...\nhow about {02}o{C8}?
+@210.1
+Very well.\nSince it's Lord {02}{02}g asking,\nhow about {02}o{C8}?
+@211
+You don't seem to have\nany unappraised tea ware.
+@211.1
+You don't seem to have\nany unappraised tea ware.
+@212
+Appraisal costs {02}o{C8}.\nYou seem short of money...
+@212.1
+Appraisal costs {02}o{C8}.\nYou seem short of money.
+@213
+Something to appraise?\nSince my dear {01}C1{00} asks,\nno charge.
+@213.1
+An appraisal?\nIf {01}C1{00} asks,\nwe won't take any money.
+@213.2
+Appraisal is {02}o{C8} apiece.\nAll right?
+@213.3
+Appraisal is {02}o{C8} apiece.\nIs that all right?
+@214
+Which shall I appraise?
+@214.1
+Which shall I appraise?
+@215
+Hmm...\nThis is {02}3g.
+@215.1
+Hmm...\nThis is {02}3g.
+@216
+Oh, who might you be?
+@217
+A pleasure to meet you.\nI am {02}{01}g.
+@217.1
+How do you do?\nI am {02}{01}g.
+@218
+A ronin?\nMay the Buddha protect you.
+@218.1
+You're with {02}{02}{EC}?\nMay the Buddha protect you.
+@219
+Oh, {01}C1{00}...
+@219.1
+Welcome.
+@219.2
+Oh, {01}C1{00}...\nGood of you to come.
+@219.3
+Oh, it's {01}C1{00}.\nYou're most welcome.
+@219.4
+Ah, {01}C1{00}...\nGood of you to come.
+@219.5
+Well, {01}C1{00},\nwelcome.
+@219.6
+Why, isn't it {01}C1{00}!\nI'm glad you came.
+@219.7
+Well, well, {01}C1{00},\nI've wanted to see you.
+@220
+Ah, {01}C1{00}.
+@220.1
+Welcome.
+@221
+What is it?
+@221.1
+What can I do for you?
+@222
+I see no unappraised books.
+@222.1
+You don't seem to have\nany unappraised books.
+@223
+Appraisal costs {02}o{C8}...\nbut you don't seem to have it on you.
+@223.1
+Appraisal costs {02}o{C8}.\nI'm afraid you don't have enough on you.
+@224
+An appraisal...\nSince {01}C1{00} asks, I'll do it for free.
+@224.1
+An appraisal?\nIf {01}C1{00} asks,\nthere's no charge.
+@224.2
+Appraisal is {02}o{C8} apiece.\nAll right?
+@224.3
+Appraisal is {02}o{C8} apiece.\nIs that all right?
+@225
+Which shall I appraise?
+@225.1
+Which shall I appraise?
+@226
+Hmm...\nThis is...... {02}3g.
+@226.1
+Hmm...\nThis is...... {02}3g.
+@227
+What, it's you...\nThe {02}od {02}yd{02}zd are done.\nHere, take them.
+@227.1
+Oh, it's you.\nThe {02}od {02}yd{02}zd are done.\nHere you go.
+@228
+The {02}od {02}yd{02}zd are done.\nHere, take them.
+@228.1
+The {02}od {02}yd{02}zd are done.\nHere you go.
+@229
+Oh, it's you... you're very late.\nThe {02}od {02}yd{02}zd were done long ago...\nlooks like it was for nothing.
+@229.1
+Oh, you're very late.\nThe {02}od {02}yd{02}zd were done long ago...\nlooks like it was for nothing.
+@230
+Oh, it's you...\nSorry, they're not all done yet.\n{02}o{CB} more days.
+@230.1
+Oh, it's you.\nSorry, they're not all done yet.\nWait {02}o{CB} more days.
+@231
+Oh, who are you?
+@232
+A pleasure to meet you.\nI am {02}{01}g.
+@232.1
+How do you do?\nI am {02}{01}g.
+@233
+A ronin?\nAsk me anything about smithing.
+@233.1
+You're with {02}{02}{EC}?\nThanks for coming all this way.
+@234
+Oh, it's you...
+@234.1
+Hey, welcome.
+@234.2
+Hey, it's you.
+@234.3
+Hey, it's you.
+@234.4
+Hey, it's you.\nWelcome.
+@234.5
+Hey, {02}{02}e.\nWelcome.
+@234.6
+Hey, it's you.\nMake yourself at home.
+@234.7
+Hey, {02}{02}e.\nMake yourself at home.
+@234.8
+Hey, it's you.\nGood of you to come.
+@234.9
+Well, isn't it {02}{02}e!\nGood of you to come.
+@235
+Need something?
+@235.1
+Need something?
+@236
+Want guns?\nThey're {02}od kan each.\nI'll make up to {02}pd.
+@236.1
+Want guns?\nThen it's {02}od kan each.\nI'll make up to {02}pd.
+@237
+You've got no money on you.\nNo money, no guns.
+@237.1
+Sorry, you've got no money on you.\nEven I can't make them without money.
+@238
+But your castle\nseems to have plenty.
+@238.1
+But your castle\nseems to have plenty.
+@239
+So, how many should I make?
+@239.1
+So, how many\nwill you order?
+@240
+{02}od guns is {02}pd kan.\nAll right?
+@240.1
+{02}od guns comes to {02}pd kan.\nThat all right?
+@241
+Then I'll make it {02}od kan.\nThat all right?
+@241.1
+Then I'll make it {02}od kan.\nHow's that?
+@242
+I see......\nThen I'll make it {02}od kan.\nThat all right?
+@242.1
+Hmm......\nThen I'll make it {02}od kan.\nHow about that?
+@243
+Good grief, can't be helped...\nFine! I'll make it {02}od kan.\nThat all right?
+@243.1
+Fine! I'll make it {02}od kan.\nHow's that?
+@244
+Damn, talking so stingy...\nYou're bringing me down.\nGo on, go home for today!
+@244.1
+Tch, what a cheapskate.\nGo home for today!
+@245
+It'll take {02}od days.\nThat all right?
+@245.1
+It'll take {02}od days.\nThat all right?
+@246
+Right, got it.\nThen come back\nin {02}od days.
+@246.1
+Right, thanks.\nThen come back\nin {02}od days.
+@247
+What... that's a shame.\nWell, come any time.
+@247.1
+I see, that's a shame.\nWell, come any time.
+@248
+Oh, want cannons?\nThey're {02}od kan each.\nI'll make up to {02}pd.
+@248.1
+Want cannons?\nThen it's {02}od kan each.\nI'll make up to {02}pd.
+@249
+{02}od cannons is {02}pd kan.\nThat all right?
+@249.1
+{02}od cannons comes to {02}pd kan.\nThat all right?
+@250
+Then I'll make it {02}od kan.\nHow's that?
+@250.1
+Then I'll make it {02}od kan.\nHow about that?
+@251
+I see......\nThen I'll make it {02}od kan.\nThat all right?
+@251.1
+Hmm......\nThen I'll make it {02}od kan.\nHow about that?
+@252
+Good grief, can't be helped...\nFine! I'll make it {02}od kan.\nThat all right?
+@252.1
+Fine! I'll make it {02}od kan.\nHow's that?
+@253
+Weeelcome!
+@253.1
+It's {02}{02}g!\nWeeelcome, come in!
+@253.2
+Oh, Lord {02}{02}e!\nWeeelcome, come in!
+@253.3
+Oh, {02}{02}f!\nI was waaaiting for you!
+@254
+How may I help you?
+@255
+Oh, sorry, with that money\nyou can't make a donatioon.
+@256
+Oh, you will make a donation?\nWe accept from 1 kan.\nHow much will you giive?
+@257
+To you, who always helps us,\nI give thiis.
+@258
+When you go to a Western trading post,\nplease show them this.\nI think it will be useeful.
+@259
+Surely the Lord sees\nyour noble donation.\nMay the Lord's blessing be upon you......
+@260
+Thank you veery much.\nMay the Lord's blessing be upon you......
+@261
+Weeelcome.
+@261.1
+Oh, it's {02}{02}g.\nWeeelcome.
+@261.2
+Oh, {02}{02}e!\nThank you for cooooming!
+@261.3
+Oh, {02}{02}f!\nI was waiting for you to come!
+@262
+What can I do for you?
+@263
+Which would you like to see?
+@264
+Oh, forgive me, but\nwith the money you have\nyou cannot buy iit.
+@265
+{02}3g,\nyou already\nseem to have pleenty.
+@266
+That item is\n{02}o{C8} each.\nHow many will you buuy?
+@267
+Then\nit is {02}o{C8}.\nIs that all right?
+@268
+Then\nhow about {02}o{C8}?
+@269
+Oh, it cannot be heelped......\nHow about {02}o{C8}?
+@270
+Hmm, you have me beaten.\nNo choice at aall.\nHow about {02}o{C8}?
+@271
+We cannot do business.\nPlease go hoome.
+@272
+Thank yooou!
+@273
+Oh, what a great pity......
+@274
+You have nothing to seell.
+@275
+Which will you seell?
+@276
+Oh, {02}3g!\nI buy it for {02}o{C8}.\nHow many will you seell?
+@277
+Then\nhow about {02}o{C8}?
+@278
+Oh, then......\nhow about {02}o{C8}?
+@279
+Hmm, you have me beaten.\nIn that case,\nhow about {02}o{C8}?
+@280
+You have no unappraised\nWestern goods.
+@281
+That appraisal costs {02}o{C8},\nbut you do not have enough moneey.
+@282
+Oh, an appraisal?\nIf you ask,\nno money is neeeded.
+@282.1
+Appraisal costs {02}o{C8}.\nIs that all right?
+@283
+Which shall I appraaise?
+@284
+Oh,\nthis is a thing called {02}3g!
+@285
+I'm sorry...\nWe have no cannons in stoock.
+@286
+Forgive me, but your castle\nhas plenty of cannons, yees?
+@287
+Cannons are {02}od kan each;\nwe have {02}pd in stoock.
+@288
+How many do you neeed?
+@289
+{02}od cannons comes to {02}pd kan.\nIs that all right?
+@290
+Then how about {02}od kan?
+@291
+Oh, you trouble me......\nHow about {02}od kan?
+@292
+You are stubboorn... hmm.\nThen how about {02}od kan?
+@293
+I don't know your face.\nWho might you be?
+@294
+A pleasure to meet you.\nI am {02}{01}g.
+@294.1
+How do you do?\nI am {02}{01}g.
+@295
+Oh, so you are the famed\ntea sage... You are most welcome.
+@295.1
+Oh, so you are the famed\ntea immortal... You are most welcome.
+@295.2
+Hm? A mere ronin, is it?
+@295.3
+One of {02}{02}{EC}, is it?
+@296
+Oh, well, well,\n{01}C1{00}, the famed tea sage.\nYou are most welcome.
+@296.1
+Oh, well, well,\n{01}C1{00}, the famed tea immortal.\nYou are most welcome.
+@296.2
+What is your business?\nI shall hear it.
+@296.3
+Oh, what was your name again......\nWhat brings you here today?
+@296.4
+Oh, one of {02}{02}{EC}.\nSo, what is your business today?
+@296.5
+Ah, it is {01}C1{00}.\nSo, what is your business today?
+@296.6
+Ah, if it isn't {01}C1{00}.\nGood of you to come.
+@297
+What will you do?
+@298
+A donation, you say?\nBut you seem to have no money on you.\nThen you cannot donate.
+@299
+Oho, {02}{02}{EC} wishes\nto make a donation to the court?\nA fine intention.
+@300
+And how much will you donate?
+@301
+What?! You said it once.\nYou would not back out\nof the donation now, would you?
+@302
+Hmph!\nTo bring it up and then...\nWhat a rude fellow.
+@303
+I am in a foul mood.\nBegone.
+@304
+{02}od kan?\nTo donate such a sum...\nWhat a rude fellow.
+@305
+{02}od kan, is it?\nHis Majesty will be pleased.\nVery well, follow me.
+@306
+May Your Majesty be in fine spirits.\nIt is Kikutei Harusue.
+@307
+Ah, Harusue.\nAnd what is your business?
+@308
+{02}{03}g of\n{02}{03}{EC}\nwishes to make a gift to the court.
+@309
+Oho, is that so.\nThis {02}{02}e...\nWe thank you.
+@310
+Yes, Your Majesty!\nPlease accept it.
+@311
+We are pleased by your loyal service.\nWe appoint {02}{03}g to {02}yd.\nWe rely on you.
+@311.1
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nFujiwara no Ason {02}{03}f Imperial Regent.\nContinue to support the court.
+@311.2
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nMinamoto no Ason {02}{03}f Shogun.\nContinue to support the court.
+@311.3
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nTaira no Ason {02}{03}f Grand Chancellor.\nContinue to support the court.
+@311.4
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\n{02}{03}g Grand Chancellor.\nContinue to support the court.
+@312
+We are pleased by your loyal service.\nWe appoint you to {02}yd.\nWe rely on you.
+@312.1
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nFujiwara no Ason {02}{02}f Imperial Regent.\nContinue to support the court.
+@312.2
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nMinamoto no Ason {02}{02}f Shogun.\nContinue to support the court.
+@312.3
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nTaira no Ason {02}{02}f Grand Chancellor.\nContinue to support the court.
+@312.4
+We are moved by your loyal service.\nThrough your efforts the long-troubled realm\nis at last coming to peace.\nIn reward for this merit, We appoint\nyou Grand Chancellor.\nContinue to support the court.
+@313
+Oh, the post of {02}yd!\nOur lord will surely be delighted!
+@314
+Oh, the post of {02}yd!\nI am deeply honored!
+@314.1
+What, {02}yd!\nYes, Your Majesty, I am deeply honored!
+@315
+Good, you have done well.\nYou may both withdraw.
+@316
+Yes.\nThen, {01}C1{00},\nI shall take my leave.
+@317
+Oh, you are Lord {02}{02}g.\nYou have come at just the right time.
+@318
+......The right time?
+@319
+His Majesty, recognizing your daily work,\nwill grant you the post of {02}yd.\nAccept it humbly.
+@320
+{02}yd for me......\nAn honor beyond my station.\nPlease convey my thanks to His Majesty.
+@321
+Good.\nHis Majesty will be pleased.\nYou may withdraw.
+@322
+Yes.\nI take my leave.
+@323
+Good of you to come... but\nHis Majesty seems busy.\nPlease come another time.
+@323.1
+What would a mere ninja want here?\nThis is no place for the lowborn......\nBegone.
+@323.2
+What would a mere merchant want here?\nThis is no place for the lowborn.\nBegone.
+@323.3
+What would a sea ruffian want here?\nThis is no place for the lowborn......\nBegone.
+@323.4
+What would a mere {02}{83}{BF} want here?\nThis is no place for the lowborn......\nBegone.
+@324
+Welcome.\nYour commission is finished.\nPlease take it.
+@325
+Welcome.\nI'm sorry, it isn't finished yet.\nPlease wait {02}o{CB} more days.
+@326
+Oh, who might you be?
+@327
+A pleasure to meet you.\nI am {02}{01}g.
+@327.1
+How do you do?\nI am {02}{01}g.
+@328
+A ronin, are you?\nAnyway, I look forward to knowing you.
+@328.1
+You're with {02}{02}{EC}?\nWell, well,\nwelcome.
+@329
+Welcome.
+@329.1
+Oh, it's {01}C1{00}.\nWelcome.
+@329.2
+Why, {01}C1{00},\nwelcome.
+@329.3
+Why, {01}C1{00},\nI've been awaiting your visit.
+@330
+What can I do for you?
+@331
+A commission for a work of art?\nI take them for {02}od kan......
+@332
+I'm very sorry,\nbut you don't seem to have\nenough money......
+@333
+Will you pay?
+@334
+I see......\nYou don't seem to appreciate art.\nA great pity.
+@335
+As expected of one who understands art.\nMy hands are itching to begin.
+@336
+By the way, it will take about {02}od days.\nIs that all right?
+@337
+Thank you very much.\nThen please come to collect it\nin {02}od days.
+@338
+You don't have any\nunappraised items.
+@339
+Appraisal costs {02}o{C8}......\nbut you don't seem to have it on you.
+@340
+An appraisal? Very well.\nIf {01}C1{00} asks,\nwe won't take any money.
+@340.1
+Appraisal is {02}o{C8} apiece.\nIs that all right?
+@341
+Which shall I appraise?
+@341.1
+Which shall I appraise?
+@342
+Hmm...... I'm very sorry.\nThis is beyond me.\nI know hanging scrolls and screens...
+@342.1
+Hmm...... I'm very sorry.\nThis is beyond me.\nI know art and treasures...
+@342.2
+Hmm...... I'm very sorry.\nThis is beyond me.\nI know art, treasures and books...
+@343
+Hm... I'd say this is {02}3g...
+@344
+...This is the place.\nFirst I must find out where\n{01}C1{00}, owner of {02}3g, is.
+@344.1
+...This is the place.\nFirst I must find out where\n{01}C1{00}, owner of {02}3g, is.
+@345
+Hm, {01}C1{00} is at home.\nBetter come back later.
+@345.1
+Ah, {01}C1{00} is at home.\nBetter come back later.
+@346
+Good, luck is with me.\n{01}C1{00} seems to be out.\nI'll take {02}3g while I can.
+@346.1
+Good, luck is with me.\n{01}C1{00} seems to be out.\nI'll take {02}3g while I can.
+@347
+Now, where's the hiding place?
+@347.1
+Now, where's it hidden?
+@348
+With a pirate's instinct, I'll find it...
+@348.1
+My ninja instinct tells me where it's hidden...
+@349
+Hm?
+@349.1
+Hm?
+@350
+This is it, this is {02}3g!
+@350.1
+This is it, this is {02}3g!
+@351
+Not here, then.
+@352
+......
+@353
+Damn, {01}C1{00} seems to be back.\nI'll come back later.
+@353.1
+Oh no, {01}C1{00} seems to be back.\nI'll come back later.
+@354
+...It seems luck really is with me today.\nNo sign of them coming home yet.\nI'll keep looking for {02}3g.
+@354.1
+...It seems luck really is with me today.\nNo sign of them coming home yet.\nI'll keep looking for {02}3g.
+@355
+The whereabouts of {02}3g are now unknown.\nThe mission "Obtain Valuable" can no longer be done.
+@356
+This rice dealer doesn't seem\nto have enough provisions to steal.\nI'll try elsewhere.
+@356.1
+This rice dealer doesn't seem\nto have enough provisions to steal.\nI'll try elsewhere.
+@357
+A small rice dealer.\nLow risk of being caught,\nbut not much rice to steal either.
+@357.1
+A mid-sized rice dealer.\nI could steal a fair amount,\nbut there's some risk of being caught.
+@357.2
+A large rice dealer.\nI could steal a lot,\nbut the risk of being caught is high too.
+@357.3
+One of the biggest rice dealers.\nI could steal a huge amount,\nbut the risk of being caught is very high.
+@357.4
+A small rice dealer.\nLow risk of being caught,\nbut not much rice to steal either.
+@357.5
+A mid-sized rice dealer.\nI could steal a fair amount,\nbut there's some risk of being caught.
+@357.6
+A large rice dealer.\nI could steal a lot,\nbut the risk of being caught is high too.
+@357.7
+One of the biggest rice dealers.\nI could steal a huge amount,\nbut the risk of being caught is very high.
+@358
+Steal provisions here?
+@359
+Heave-ho...\nHm, this is very light.
+@359.1
+Heave-ho...\nHm, this is light.
+@359.2
+Heave-ho...\nHmm, fairly heavy.
+@359.3
+Heave-ho...\nHmm, quite heavy.
+@359.4
+Heave-ho...\nUgh, really heavy.
+@359.5
+Heave-ho...\nOh, this is very light.
+@359.6
+Heave-ho...\nOh, this is light.
+@359.7
+Heave-ho...\nHmm, fairly heavy.
+@359.8
+Heave-ho...\nHmm, quite heavy.
+@359.9
+Heave-ho...\nUgh, really heavy.
+@360
+Right, no reason to stay here.\nTiptoe, tiptoe...
+@360.1
+Right, no reason to stay here.\nTiptoe, tiptoe...
+@361
+......
+@362
+...Good,\nI got out without anyone noticing!
+@362.1
+...Good,\nI got out without anyone noticing!
+@363
+Th-thief!
+@364
+Damn, I've been spotted!
+@364.1
+Oh no, I've been spotted!
+@365
+...Did I shake them off?
+@365.1
+...Did I shake them off?
+@366
+I seem to have lost them...\nbut in the commotion a bale tore\nand some rice spilled out.
+@366.1
+I seem to have lost them...\nbut in the commotion a bale tore\nand some rice spilled out.
+@367
+I seem to have lost them...\nbut in the commotion a bale tore\nand most of the rice spilled out.
+@367.1
+I seem to have lost them...\nbut in the commotion a bale tore\nand most of the rice spilled out.
+@368
+This way, they're over here!
+@369
+Damn, again!
+@369.1
+Ugh, again!
+@370
+Intruder, prepare yourself!
+@371
+Ugh!
+@372
+The notoriety of {02}{02}g, who gave the\nmission, and {02}{03}g, who carried it out,\nrose by 5.
+@373
+{02}{15}e's morale and training\nfell by {02}od.
+@374
+...{02}{02}g of {02}{02}{EC}, I take it?
+@374.1
+{02}{02}g of {02}{02}{EC}, I take it?
+@374.2
+...{02}{02}g of {02}{02}{EC}, I take it?
+@374.3
+{02}{02}g of {02}{02}{EC}, I take it?
+@375
+Hm!\nWretch, whose agent are you?!
+@375.1
+Is that... {01}C1{00} there?
+@376
+No more words... prepare yourself!
+@377
+Hahahaha!\nThat's enough for today.
+@377.1
+Ufufufu!\nThat's enough for today.
+@378
+Damn you... I won't forget this humiliation!
+@379
+...Prepare yourself!
+@379.1
+Prepare yourself!
+@380
+Ugh!
+@381
+{02}{02}g is in this castle...\nRight, I'll sneak in.
+@381.1
+{02}{02}g is in this castle...\nRight, I'll sneak in.
+@382
+Hm? I thought I heard something...\nMust be my imagination.
+@383
+Who's there! An intruder?!\nEveryone, seize the intruder!
+@384
+Due to various circumstances, such as\nroutes closing or changing hands,\nthat matter can't be done at present.
+@385
+A raise in the escort fee for\nthe {02}{15}f-{02}{16}f route...\nHmm...
+@386
+(This route seems hugely profitable.\n I can push hard here.)
+@386.1
+(This route seems very profitable.\n Shall I push hard...?)
+@386.2
+(This route seems profitable.\n Should I push hard, or\n take a softer line...?)
+@386.3
+(This route seems to run at a loss.\n Pushing hard may not be wise...?)
+@387
+Hmm...
+@388
+...I'm sorry,\nbut I can't accept that offer.
+@388.1
+Understood.\n\n\nThis route is very profitable, so\nthe escort fee will be {02}q{C8},\n{02}p{C8} more.\nWe look forward to working with you.
+@388.2
+Understood.\n\n\nThis route is profitable, so\nthe escort fee will be {02}q{C8},\n{02}p{C8} more.\nWe look forward to working with you.
+@388.3
+Understood.\n\n\nThough this route isn't profitable,\nthe escort fee will be {02}q{C8},\n{02}p{C8} more.\nWe look forward to working with you.
+@389
+(Hmm, a failure...)
+@389.1
+Very well, agreed.\n(I got a great result.)
+@389.2
+Very well, agreed.\n(I got a good enough result.)
+@389.3
+(Hmm, a failure...)
+@389.4
+Yes, agreed.\n(I got a great result.)
+@389.5
+Yes, agreed.\n(I got a good enough result.)
+@390
+Hmm...\n\n\n...I'm sorry,\nbut I can't accept that offer.
+@391
+(Hmm, a failure.\n Did I handle it badly?\n Or was my fame or speech lacking?)
+@391.1
+(Hmm, a failure.\n Did I handle it badly?\n Or was my fame or speech lacking?)
+@392
+You're with {02}{02}{EC}, I've been waiting.\nThe goods {02}{0B}e asked you to promote\nthis time were {02}Ge, right?\nOh, already finished the job?\n(Trend bases {02}od / target bases {02}pd)
+@393
+{02}Ge seems to be handled\nin places like {02}{15}e.\n\nGo to the various bases in {02}$e\nand spread the word about {02}Ge.\nI'm counting on you.
+@394
+You're with {02}{02}{EC}, I've been waiting.\nThis time I'd like you to promote {02}Ge.\nWe want to sell it as our specialty.
+@395
+Oh, you can't carry any more trade goods.\nSort out your load and come back.
+@396
+Received {02}od of {02}Ge.
+@397
+Then I'm counting on you.
+@398
+Oh, already finished the job?\n(Trend bases {02}od / target bases {02}pd)
+@399
+Thanks to you, {02}Ge is a big hit.\nGive my regards to your boss.
+@399.1
+Thanks to you, {02}Ge's reputation is great.\nThank you.
+@399.2
+Oh, already finished the job?
+@400
+Well then,\ngive back the trade goods you didn't use.
+@401
+Hey, you're short on trade goods.\nYou're not very trustworthy, are you?
+@402
+{02}{02}g's fame fell by 10.
+@403
+I'm short of {02}Ge for promotion...\nI need to get some somewhere.
+@403.1
+I'm short of {02}Ge for promotion...\nI need to get some somewhere.
+@404
+Promote {02}Ge here?
+@405
+Now, whose appearance\nshall I borrow to promote it?
+@406
+traveler
+@407
+merchant
+@409
+Hmm...\n...\n...\nHyah!
+@410
+Good, I'm disguised as a {02}yd.\nNow then...
+@410.1
+Good, I'm disguised as a {02}yd.\nNow then...
+@411
+Hey, you there.
+@411.1
+Excuse me, you there.
+@412
+Hm, what is it?
+@412.1
+Hm, what?
+@412.2
+Hm, what do you want?
+@412.3
+Yeah, what is it?
+@412.4
+Oh, what is it?
+@412.5
+Hm, whaaat?
+@412.6
+Yeah, what?
+@412.7
+Hm, what do you want?
+@413
+The other day, in a faraway land,\nI came by an item like this...\nAh, it was truly a stroke of luck!\nI've traveled the land for many years,\nbut I've never seen such a gem!\nPlease, take one in your hands.
+@413.1
+The other day, in a faraway land,\nI came by an item like this...\nAh, it was a stroke of luck!\nI've traveled the land for many years,\nand gems like this are rare.\nPlease, take one in your hands.
+@413.2
+W-well, the other day in a faraway town\nI happened to come by this...\n\nI've traveled the land for many years,\nand th-this is truly a gem, you know?\nPlease, take one in your hands.
+@414
+Oho... is that so.\nLet me take a closer look.
+@414.1
+Hmm... that good?\nLet me take a closer look.
+@414.2
+That's quite something...\nWould you show me more closely?
+@414.3
+Hmm... looks good.\nHey, let me see it closer.
+@414.4
+Eh, really?\nHey, let me see it closer.
+@414.5
+Eh, really?\nLet me see it closer.
+@414.6
+Oho...\nHey, let me see it closer.
+@414.7
+Hmm... is that so.\nLet me see it more closely.
+@415
+Hm, what is it?
+@415.1
+Hm? What's this, what's this?
+@415.2
+Is something the matter?
+@415.3
+Something going on?
+@415.4
+Oh, what's the matter?
+@415.5
+Yaay, what's going on?
+@415.6
+Hm, what's up?
+@415.7
+Hm, what's happened?
+@416
+What's all this fuss?
+@416.1
+What's this fuss?
+@416.2
+Quite a crowd...
+@416.3
+What's everyone gathered for?
+@416.4
+What's the fuss about?
+@416.5
+What, what's going on?
+@416.6
+What the heck's the fuss?
+@416.7
+Quite a crowd has gathered.
+@417
+Good, that's everything done.\nI'll report to the guild boss.\n(Trend bases {02}od / target bases {02}pd)
+@417.1
+Good, that's everything done.\nI'll report to the guild boss.\n(Trend bases {02}od / target bases {02}pd)
+@417.2
+Heh heh, a success for now.\n(Trend bases {02}od / target bases {02}pd)
+@417.3
+Hee hee, a success for now.\n(Trend bases {02}od / target bases {02}pd)
+@418
+...I want no such thing.\nYour manner seems awkward.\nYou're not {02}{03}g, are you?
+@418.1
+...I want no such thing.\nYour talk seems suspicious.\nYou're not {02}{03}g, are you?
+@418.2
+...I want no such thing.\nA suspicious fellow.\nYou're not {02}{03}g, are you?
+@418.3
+...I want no such thing.\nYour manner is somehow awkward.\nAre you really {02}{03}g?
+@418.4
+...I want no such thing.\nYour speech is somehow halting.\nAre you really {02}{03}g?
+@418.5
+...I want no such thing.\nA suspicious one.\nAre you really {02}{03}g?
+@418.6
+...I want no such thing.\nSomething about you feels off.\nAre you really {02}{03}g?
+@418.7
+...I want no such thing.\nYour speech is somehow halting.\nAre you really {02}{03}g?
+@418.8
+...I want no such thing.\nYou seem a suspicious sort.\nAre you really {02}{03}g?
+@418.9
+...Don't want it.\nYou look kind of odd.\nAre you really {02}{03}g?
+@418.10
+...Don't want it.\nThe way you talk is kind of odd.\nAre you really {02}{03}g?
+@418.11
+...Don't want it.\nKind of suspicious.\nAre you really {02}{03}g?
+@418.12
+...I don't want it.\nYou look kind of odd.\nAre you really {02}{03}g?
+@418.13
+...I don't want it.\nThe way you talk is kind of odd.\nAre you really {02}{03}g?
+@418.14
+...I don't want it.\nWhat a suspicious person.\nAre you really {02}{03}g?
+@418.15
+...Don't want that.\nYou've been fidgeting all along.\nHey, are you really {02}{03}g?
+@418.16
+...Don't want that.\nAnd you talk funny.\nHey, are you really {02}{03}g?
+@418.17
+...Don't want that.\nYou're kinda suspicious.\nHey, are you really {02}{03}g?
+@418.18
+...Don't want it.\nYou look weird.\nAre you really {02}{03}g?
+@418.19
+...Don't want it.\nYou talk kind of weird.\nAre you really {02}{03}g?
+@418.20
+...Don't want it.\nYou're a shady one.\nAre you really {02}{03}g?
+@418.21
+...I want no such thing.\nYour manner seems awkward.\nYou're not the real {02}{03}g, are you?
+@418.22
+...I want no such thing.\nYour talk seems halting.\nYou're not the real {02}{03}g, are you?
+@418.23
+...I want no such thing.\nA suspicious one.\nYou're not the real {02}{03}g, are you?
+@419
+(Damn, run!)
+@420
+Suspicious one, stop!
+@420.1
+Suspicious one, stop!
+@420.2
+Suspicious one, stop!
+@420.3
+Hey, this one's suspicious!\nEveryone watch out!
+@420.4
+Hey, this person's suspicious!\nEveryone be careful!
+@420.5
+This person's weird!\nSomebody!
+@420.6
+Suspicious one, stop right there!
+@420.7
+Suspicious one, halt!
+@421
+Ugh, failed...\nI must hone my ninjutsu.
+@421.1
+Ugh, failed...\nI must hone my speech.
+@421.2
+I failed...
+@422
+Phew, what a shock.\nTo run into the real person...\nJust bad luck.
+@423
+Ugh, failed...\nI must hone my ninjutsu.
+@423.1
+Ugh, failed...\nI must hone my speech.
+@423.2
+I failed...
+@424
+Hm, what is it?
+@424.1
+Hm, what?
+@424.2
+Hm, what do you want?
+@424.3
+Yeah, what is it?
+@424.4
+Oh, what is it?
+@424.5
+Hm, whaaat?
+@424.6
+Yeah, what?
+@424.7
+Hm, what do you want?
+@425
+The other day, in a faraway land,\nI stocked up on an item like this...\nAh, I've never seen such a gem!\nI've been in trade for many years,\nbut I've never seen anything like it!\nPlease, take one in your hands.
+@425.1
+The other day, in a faraway land,\nI stocked up on an item like this...\nAh, it's truly splendid!\nI've been in trade for many years,\nand gems like this are rare. Please, take one in your hands.
+@425.2
+W-well, the other day somewhere far away\nI happened to come by this...\n\nI've been in trade for many years,\nand th-this is truly a gem, you know?\nPlease, take one in your hands.
+@426
+Good, I'm disguised as {02}{01}g.\nNow then...
+@427
+Yes...\nWhat is it?
+@427.1
+Yes, sir!\nWhat can I do for you?
+@427.2
+Yes, sir!\nWhat can I do for you?
+@427.3
+Y-yes!\nWhat brings you here today?
+@427.4
+Y-yes,\nwhat is it?
+@427.5
+Hm?\nWhat?
+@427.6
+Y-yes,\nwhat is it?
+@427.7
+...Oh, it's {01}C1{00}.
+@428
+...Oops.
+@428.1
+The other day, in a faraway town,\nI came by an item like this...\nWhat a splendid thing it is!\nOne should look at the common markets now and then.\nHere, you all take one too.
+@428.2
+The other day, in a faraway town,\nI came by an item like this...\nYes, quite a gem!\nOne should look at the common markets now and then.\nHere, you all take one too.
+@428.3
+W-well, the other day in a faraway town\nI came by this item...\nI-it's quite a gem, isn't it?\nO-one should look at the markets now and then.\nH-here, y-you all take one too.
+@429
+No, thank you.\nBut what a suspicious appearance...\n...You're not Lord {02}{03}e, are you?
+@429.1
+No, thank you.\nBut what suspicious speech...\n...You're not Lord {02}{03}e, are you?
+@429.2
+No, thank you.\nBut something is suspicious...\n...You're not Lord {02}{03}e, are you?
+@429.3
+No, thank you.\nBut what a suspicious appearance...\n...Are you really Lord {02}{03}e?
+@429.4
+No, thank you.\nBut what suspicious words...\n...Are you really Lord {02}{03}e?
+@429.5
+No, thank you.\nBut something is suspicious...\n...Are you really Lord {02}{03}e?
+@429.6
+No, thank you.\nBut what a suspicious bearing...\n...Are you really Lord {02}{03}e?
+@429.7
+No, thank you.\nBut what halting speech...\n...Are you really Lord {02}{03}e?
+@429.8
+No, thank you.\nBut something is suspicious...\n...Are you really Lord {02}{03}e?
+@429.9
+N-no, not at all.\nBut what suspicious clothes...\n...Are you really Lord {02}{03}e?
+@429.10
+N-no, not at all.\nBut what suspicious words...\n...Are you really Lord {02}{03}e?
+@429.11
+N-no, not at all.\nBut something is suspicious...\n...Are you really Lord {02}{03}e?
+@429.12
+N-no, not at all.\nBut what suspicious clothes...\n...Are you really Lord {02}{03}e?
+@429.13
+N-no, not at all.\nBut what suspicious words...\n...Are you really Lord {02}{03}e?
+@429.14
+N-no, not at all.\nBut something is suspicious...\n...Are you really Lord {02}{03}e?
+@429.15
+...Don't want that.\nYou've been fidgeting all along.\nHey, are you really Lord {02}{03}e?
+@429.16
+...Don't want that.\nAnd you talk funny.\nHey, are you really Lord {02}{03}e?
+@429.17
+...Don't want that.\nYou're kinda suspicious.\nHey, are you really Lord {02}{03}e?
+@429.18
+N-no, not at all.\nBut what suspicious clothes...\n...Are you really Lord {02}{03}e?
+@429.19
+N-no, not at all.\nBut what suspicious words...\n...Are you really Lord {02}{03}e?
+@429.20
+N-no, not at all.\nBut something is suspicious...\n...Are you really Lord {02}{03}e?
+@429.21
+...Wretch, what are you plotting in my likeness?!\nGuards, seize them, seize them!
+@430
+Around here {02}Ge is the talk of the town.\nThank you so much.\nThat ends this request.\n
+@430.1
+I'm hearing rumors of {02}Ge here and there.\nThanks.\nThat ends this request.\n
+@430.2
+I hear no talk of {02}Ge at all.\nDid you really do the job?\n...Well, that ends this request.\n
+@431
+I've already finished promoting {02}Ge here.\n(Trend bases {02}od / target bases {02}pd)
+@431.1
+I've already finished promoting {02}Ge here.\n(Trend bases {02}od / target bases {02}pd)
+@432
+We've been waiting.\nPromotion takes 5 days.\nShall we promote this branch?
+@433
+Oh, you've brought permission.\nWith the words "Purveyor to {02}{03}{EC}" on display,\nwe can expect plenty of customers.
+@434
+If you got the daimyo house we serve\nto grant a "purveyor" sign,\nthe response would be bigger...\nPromote as things are?
+@435
+What, a shop that's\n"Purveyor to {02}{03}{EC}"?
+@436
+Purveyor to the famous {02}{03}g!\nThis looks promising.
+@436.1
+Purveyor to the notorious {02}{03}g?\n...Better stay away.
+@436.2
+Oho, purveyor to {02}{03}g.\nThis looks promising.
+@437
+Hm, a {02}{02}{EC} shop.
+@437.1
+Oho, a {02}{02}{EC} shop.
+@437.2
+Oh, a {02}{02}{EC} shop\nis advertising.
+@438
+Well, well, my my...\n\n\nWhat a fine shop.\nThis looks promising.
+@438.1
+Well, well, my my...\n\n\nQuite a fine shop.\nThis looks promising.
+@438.2
+Well, well, my my...\n\n\nHey, what a shabby shop.\n...Better stay away.
+@439
+Five days since we started advertising...\n\n\nHmm,\nthe shop is deserted.\nSadly the promotion had no effect.
+@439.1
+Five days since we started advertising...\n\n\nThanks to you, it's packed.\nWe can expect {02}od months\nof advertising effect.
+@439.2
+Five days since we started advertising...\n\n\nThanks to you, it's busy.\nWe can expect {02}od months\nof advertising effect.
+@439.3
+Five days since we started advertising...\n\n\nHmm,\nthe shop isn't very lively.\nI'd say {02}od months of effect.
+@440
+One of the biggest castles.\nThe guard inside must be tight...\nSneak into {02}{15}e?
+@440.1
+One of the biggest castles.\nThe guard inside must be tight...\nSneak into {02}{15}e?
+@440.2
+A castle this size\nmust be well guarded...\nSneak into {02}{15}e?
+@440.3
+A castle this size\nmust be well guarded...\nSneak into {02}{15}e?
+@440.4
+A castle of this size\nshould be fairly well guarded...\nSneak into {02}{15}e?
+@440.5
+A castle of this size\nshould be fairly well guarded...\nSneak into {02}{15}e?
+@440.6
+A castle of this size\nshould be lightly guarded...\nSneak into {02}{15}e?
+@440.7
+A castle of this size\nshould be lightly guarded...\nSneak into {02}{15}e?
+@441
+(Hide yourself in the shadows...)
+@442
+No, not yet.
+@442.1
+Right, not yet.
+@443
+......
+@444
+(Good, they haven't noticed...)
+@444.1
+(Good, they haven't noticed...)
+@445
+......Hm, a suspicious one.\nStop!
+@446
+Damn, spotted...\nWas my ninja skill lacking?
+@446.1
+Spotted...\nMaybe my ninja skill was lacking.
+@447
+(I've slipped into\n {02}{15}e...)
+@447.1
+(I've slipped into\n {02}{15}e...)
+@448
+(......)
+@449
+(I must find out {02}{02}{EC}'s strategy...)
+@449.1
+(I must find out {02}{02}{EC}'s strategy...)
+@450
+(......Someone's coming.)
+@451
+(......)
+@452
+How is domestic policy progressing\nat present?
+@452.1
+How are domestic policy and\narmament progressing at present?
+@452.2
+How are battle preparations going?
+@452.3
+How are battle preparations going?
+@452.4
+How are battle preparations going?
+@452.5
+How are domestic policy and\narmament progressing at present?
+@452.6
+How are battle preparations going?
+@452.7
+How are domestic policy and\narmament progressing at present?
+@452.8
+How are battle preparations going?
+@453
+Yes, reports say\nthe work is going smoothly.
+@454
+Everyone, work toward\n"Develop Territory".
+@454.1
+Everyone, work toward\n"Defend Territory".
+@454.2
+Everyone, work toward\n"Take {02}{15}e".
+@454.3
+Everyone, work toward\n"Defeat {02}{0B}e".
+@454.4
+Everyone, work toward\n"Unify the Province".
+@454.5
+Everyone, work toward\n"Defend the Province".
+@454.6
+Everyone, work toward\n"Unify the Region".
+@454.7
+Everyone, work toward\n"Defend the Region".
+@454.8
+Everyone, work toward\n"Unify the Realm".
+@455
+{02}{02}{EC}'s strategy is "Develop Territory"...\nGood, that completes the mission!
+@455.1
+{02}{02}{EC}'s strategy is "Defend Territory"...\nGood, that completes the mission!
+@455.2
+{02}{02}{EC}'s strategy is "Take Base"...\nGood, that completes the mission!
+@455.3
+{02}{02}{EC}'s strategy is "Defeat Power"...\nGood, that completes the mission!
+@455.4
+{02}{02}{EC}'s strategy is "Unify the Province"...\nGood, that completes the mission!
+@455.5
+{02}{02}{EC}'s strategy is "Defend the Province"...\nGood, that completes the mission!
+@455.6
+{02}{02}{EC}'s strategy is "Unify the Region"...\nGood, that completes the mission!
+@455.7
+{02}{02}{EC}'s strategy is "Defend the Region"...\nGood, that completes the mission!
+@455.8
+{02}{02}{EC}'s strategy is "Unify the Realm"...\nGood, that completes the mission!
+@456
+(Hm... bloodlust!)
+@457
+Wretch... whose agent are you?!
+@458
+(Phew... that was close.)
+@459
+...Die.
+@460
+Ugh!
+@461
+(......)
+@462
+(......)
+@463
+(...Bush clover)
+@463.1
+(...Maple)
+@463.2
+(...Peony)
+@464
+(...Boar)
+@464.1
+(...Deer)
+@464.2
+(...Butterfly)
+@465
+The ninja vanished into the dark.
+@466
+(...One of our own village.\n They must be on another mission.)
+@466.1
+(...One of our own village, it seems.\n They must be on another mission.)
+@467
+...I definitely sensed someone.\nMen, search every inch of the area!
+@468
+......
+@469
+(...Phew, I seem to have got through.)
+@469.1
+(...Phew, I seem to have got through.)
+@470
+Our promise that day, to show me\nthe dream of ruling the realm...\nI, {02}{01}g, will wait forever.
+@470.1
+Your words that day, that you'd show me\nthe dream of ruling the realm...\nHow long must {02}{01}g wait?
+@470.2
+Our promise that day, to show me\nthe dream of ruling the realm...\nI, {02}{01}g, have not forgotten.
+@470.3
+If only my lord would let me march,\nI'd charge through the enemy, slay their general\nand surely present his head...
+@471
+Mmgh...\nI know, {02}{02}g.
+@471.1
+Mmgh...\nI know, {02}{02}g.
+@471.2
+Mmgh...\nWait a little longer, {02}{02}g.
+@471.3
+N-no...\n{02}{02}g, I'm grateful\nfor the thought alone.
+@472
+My lord, please stop.
+@473
+Muhahaha!\nWhat's the harm, what's the harm?
+@474
+(...What a lecher.)
+@474.1
+(...What a lecher.)
+@475
+Today I've brought golden sweets.\nI hope you'll look kindly upon me...
+@476
+Heh heh.\n{02}{02}{EC}, you're quite the villain.
+@477
+My lord, your meal is ready.
+@478
+......
+@479
+What is the matter, my lord?
+@480
+You, wait.\nTaste this bowl.
+@481
+?\nAs you wish.\n...Slurp\n......\n......\n......\n......\n......\n......Urk!
+@482
+CRASH!
+@483
+Hmph, as I thought.\nSomeone poisoned it.\n\nHey, someone,\nclear away this tray and what's on the floor.
+@484
+(I see, the notorious\n {02}{02}g is no fool.)
+@485
+Hahaha, no formalities today!\nHey, someone bring entertainment!
+@486
+I'm very sorry,\nI'm no good at drinking parties...
+@486.1
+Humble {02}{01}g, though\nclumsy, will entertain you\nwith a sumo bout.
+@486.2
+Humble {02}{01}g, though\nclumsy, will entertain you\nwith a blindfold game.
+@486.3
+Humble {02}{01}g, though\nclumsy, will entertain you\nwith a feat of strength.
+@487
+Ugh... sake is... not...\nmy body... can't take it...\nW-where... where's the privy...
+@487.1
+Then I'll do impressions.
+@487.2
+Then I'll do a hand-clap song.
+@487.3
+Then I'll play a hand game.
+@488
+Hmm, what a feeble pair!
+@488.1
+Well done, {01}C1{00}!\nCompared to that, {01}C8{00}...
+@488.2
+Well done, {01}C8{00}!\nCompared to that, {01}C1{00}...
+@488.3
+Good, both splendid!
+@489
+My lord, in town the name of\n{02}{02}g of {02}{02}{EC} is on everyone's lips.
+@490
+What, {01}C1{00}!\n{01}C{13}%
+@490.1
+{01}C1{00}, is it?\n{01}C{13}%
+@490.2
+{02}{02}g, is it...\n{01}C{13}%
+@490.3
+{02}{02}g, eh.\n{01}C{13}%
+@491
+I hear they're a famed master ninja.\n{01}C{14}%
+@491.1
+I hear they're a fine ninja.\n{01}C{14}%
+@491.2
+I hear they're a fair ninja.\n{01}C{14}%
+@491.3
+Just some nobody, I'd guess.\n{01}C{14}%
+@492
+Though I hear they're an utterly hopeless villain.
+@492.1
+Though I hear they're quite a villain.
+@492.2
+Though I hear they're a villain.
+@492.3
+Though I hear they're quite a rogue.
+@493
+......
+@494
+(Hm, something's odd?\n Are they deep in thought about strategy...)
+@495
+Heh heh heh...\nWide as the realm is,\nno steed surpasses my {02}3g.
+@495.1
+Sniff sniff...\nAh, the famous sake {02}3g...\nWhat a rich aroma.
+@495.2
+Heh heh heh...\nWith this fine medicine {02}3g,\nI have no worries at all.
+@495.3
+Heh heh heh...\nThe famous {02}3g...\nI never tire of looking at it.
+@496
+(Hmph, just entranced by their belongings.)
+@497
+......!
+@498
+(Damn, they noticed!)\n\n\n(Time to pretend to be ○○!)
+@499
+Rustle...\nRustle rustle...
+@500
+...Just a mouse.
+@500.1
+...Just a cat.
+@500.2
+...Just a cockroach.
+@501
+...Intruder!
+@502
+(Ugh...)
+@503
+My lord, your guard is open!
+@504
+Not at all, kieeeeh!
+@505
+Clack!
+@506
+I-I yield!
+@506.1
+What, impressive!
+@506.2
+Hmm, impressive.
+@506.3
+Heh heh, not good enough yet.
+@507
+(As expected of {02}{02}g;\n truly peerless in martial arts{01}C$%...)
+@507.1
+({02}{02}g is\n truly a martial master{01}C$%...)
+@507.2
+({02}{02}g\n seems skilled at arms too{01}C$%...)
+@507.3
+({02}{02}g\n seems poor at martial arts{01}C$%...)
+@508
+
+@508.1
+
+@509
+Atari, my lord.\nThat group of yours is dead.
+@509.1
+My lord, you seem absorbed in securing territory,\nbut look at the board around it.
+@509.2
+Even if you say "wait", my lord,\ngo may be a game, but it's a real contest.\nIs there "wait" on a battlefield?
+@509.3
+Atari, my lord.\nThat group of yours is dead.
+@509.4
+My lord's go improves every time.\nOur games lately are tense.
+@509.5
+Give up, my lord.\nThat stone can't escape now.
+@510
+Hmm.
+@510.1
+Hm...
+@510.2
+Grr, insolent...\n...Oh, whoops!
+@510.3
+So it seems...\nThen what about this?
+@510.4
+Oho, kind words.\nThen what of this move?
+@510.5
+You fell for it.\nThen I'll play here.
+@511
+Heh heh.\nWhat do you say, my lord?
+@511.1
+While my lord fretted over defense,\nI built a great position.
+@511.2
+My lord, what are you doing!
+@511.3
+What...
+@511.4
+Th-this is a tough spot...
+@511.5
+Ah...\nWh-what!
+@512
+......It can't be helped.\nI concede.
+@512.1
+Damn, careless of me...
+@512.2
+An earthquake, an earthquake!\nOh, sorry, the board is ruined!\nToday's unlucky; let's stop here.
+@512.3
+My territory is bigger.\nThe big picture over small gains, indeed.
+@512.4
+Now, what will you do?
+@512.5
+You got cocky and\nwere tripped up.\nNow, how do you answer?
+@513
+Haha,\nmy lord still has much to learn at go.
+@513.1
+My lord, defense matters,\nbut in go, whoever has more territory wins.\nPlease don't forget.
+@513.2
+A-an earthquake?!\nNot the slightest tremor...\nAh, wait, my lord! My lord!!
+@513.3
+...My lord, you've improved.
+@513.4
+...I yield.\nMy lord, one more game!\nOne more game, please!
+@513.5
+...I yield.\nThe loss is mine.
+@514
+(...{02}{02}g's wits\n don't seem much to speak of.)
+@514.1
+(...As expected of {02}{02}g;\n such sharp wits.)
+@515
+...I want castella.
+@515.1
+...I want boro biscuits.
+@515.2
+...I want konpeito candy.
+@516
+Eh?
+@517
+I want it, I want it!\nI want castella right now!
+@517.1
+I want it, I want it!\nI want boro right now!
+@517.2
+I want it, I want it!\nI want konpeito right now!
+@518
+M-my lord...
+@519
+(......)
+@520
+Today, for none other than Lord {02}{02}e,\nI have brought a special item.
+@521
+...Hm?
+@522
+A peerless treasure, the Kotenmyo Hiragumo.\nToday it can be yours for 1000 kan.
+@522.1
+A peerless treasure, the Kotori Incense Burner.\nToday it can be yours for 1000 kan.
+@522.2
+A peerless treasure, the Ninety-Eight Nasu.\nToday it can be yours for 1000 kan.
+@522.3
+A peerless treasure, the Horse-Dung Bowl.\nToday it can be yours for 1000 kan.
+@522.4
+A peerless treasure, the Matsushima Jar.\nToday it can be yours for 1000 kan.
+@523
+Fool!\nMy eyes are not blind!\nTrying to sell me a fake!
+@523.1
+The Kotenmyo Hiragumo...\nI've heard that name somewhere.\nGood, I'll buy it at your price!
+@523.2
+The Kotori Incense Burner...\nI've heard that name somewhere.\nGood, I'll buy it at your price!
+@523.3
+The Ninety-Eight Nasu...\nI've heard that name somewhere.\nGood, I'll buy it at your price!
+@523.4
+The Horse-Dung Bowl...\nI've heard that name somewhere.\nGood, I'll buy it at your price!
+@523.5
+The Matsushima Jar...\nI've heard that name somewhere.\nGood, I'll buy it at your price!
+@524
+(...I see, {02}{02}g\n has quite an eye.)
+@524.1
+(...{02}{02}g doesn't seem\n very versed in tea.)
+@525
+Today, for none other than Lord {02}{02}e,\nI have brought a special item.
+@526
+...Hm?
+@527
+Its name is buttaaa.\nThe most precious thing in my country,\nso a little expeensive.
+@527.1
+Its name is boro biscuuits.\nThe most precious thing in my country,\nso a little expeensive.
+@527.2
+Its name is castellaa.\nThe most precious thing in my country,\nso a little expeensive.
+@527.3
+Its name is glass beeads.\nThe most precious thing in my country,\nso a little expeensive.
+@527.4
+Its name is black teaa.\nThe most precious thing in my country,\nso a little expeensive.
+@528
+Hmph.\nDid you think I knew nothing?\nButter is easy to come by.
+@528.1
+Hmph.\nDid you think I knew nothing?\nBoro is easy to come by.
+@528.2
+Hmph.\nDid you think I knew nothing?\nCastella is easy to come by.
+@528.3
+Hmph.\nDid you think I knew nothing?\nGlass beads are easy to come by.
+@528.4
+Hmph.\nDid you think I knew nothing?\nBlack tea is easy to come by.
+@528.5
+O-oho, butter, is it.\nOf course I know it.\nVery well, I'll buy at your price.
+@528.6
+O-oho, boro, is it.\nOf course I know it.\nVery well, I'll buy at your price.
+@528.7
+O-oho, castella, is it.\nOf course I know it.\nVery well, I'll buy at your price.
+@528.8
+O-oho, glass beads, is it.\nOf course I know it.\nVery well, I'll buy at your price.
+@528.9
+O-oho, black tea, is it.\nOf course I know it.\nVery well, I'll buy at your price.
+@529
+(...I see, {02}{02}g\n is quite learned.)
+@529.1
+(...{02}{02}g doesn't seem\n very worldly.)
+@530
+(...No one's here.)
+@531
+(Hm, valuables in a place like this!\n Well, I'll help myself.)
+@532
+Obtained {02}o{C8}.
+@533
+(Hm, no one's here...)
+@534
+(......)
+@535
+(...I'll wait for another chance.)
+@536
+Hm, {02}{02}g is out...
+@536.1
+Hm, {02}{02}g seems to be out...
+@537
+I'll hide my presence and close in on the target...
+@537.1
+I'll hide my presence and close in on the target...
+@538
+Good, {02}{02}g\nseems to be at home.
+@538.1
+Good, {02}{02}g\nseems to be at home.
+@539
+I hear {02}{02}g is\na once-in-an-age master ninja.
+@539.1
+I hear {02}{02}g is\nquite a skilled hand.
+@539.2
+I hear {02}{02}g is\na fair hand.
+@539.3
+{02}{02}g's skill as a ninja\ndoesn't seem much, though.
+@539.4
+{02}{02}g's skill as a ninja\ndoesn't seem much, though.
+@540
+Now, what I can manage with my ninja skill is...
+@541
+......\n......\n......\n...Ready.
+@542
+Light it!
+@543
+KABOOOOOOM!!
+@544
+With a roar, {02}{02}g's house exploded!
+@545
+Hm, someone leapt out!
+@545.1
+Ah, someone leapt out!
+@546
+...An agent of {02}{02}{EC}.
+@546.1
+...An agent of {02}{02}{EC}.
+@547
+(Not a scratch from that blast...\n ...This one is good.)
+@547.1
+(Not a scratch from that blast...\n ...They're good.)
+@548
+(They seem badly hurt.\n ...My chance!)
+@548.1
+(They seem badly hurt.\n ...My chance!)
+@549
+......
+@550
+In the ruined house, reeking of gunpowder,\nlay a single silent corpse.
+@551
+...Mission accomplished.
+@551.1
+...Mission accomplished.
+@552
+...I'll slip into the attic and wait for an opening.
+@552.1
+...I'll slip into the attic and wait for an opening.
+@553
+......
+@554
+...Now it's a test of patience.
+@554.1
+...Now it's a test of patience.
+@555
+......
+@556
+(......)
+@557
+20 days in hiding
+@558
+...{02}{02}g, is it?
+@558.1
+...{02}{02}g, is it?
+@559
+...An agent of {02}{02}{EC}.
+@559.1
+...An agent of {02}{02}{EC}.
+@560
+......?\n......\n......\n...Ugh\n...M-my body?!
+@561
+Heh...\nI've been putting a little aconite\nin your well each day.
+@561.1
+Heh...\nI've been putting a little aconite\nin your well each day.
+@562
+Hah...\nI-I can't die\nin a place like this...!
+@562.1
+Hah...\nI-I can't die\nin a place like this...!
+@563
+......?\n......\n......\n...Ugh\n...M-my body?!
+@564
+Heh...\nI've been scattering a little poison\npowder in the attic each day.
+@564.1
+Heh...\nI've been scattering a little poison\npowder in the attic each day.
+@565
+Hah...\nI-I can't die\nin a place like this...!
+@565.1
+Hah...\nI-I can't die\nin a place like this...!
+@566
+...I see.
+@566.1
+...I see.
+@567
+It seems we each saw through\nthe other's traps.
+@567.1
+It seems we each saw through\nthe other's traps.
+@568
+So our ninja skills are equal...\nThen from here on, we stake our lives.
+@568.1
+Our ninja skills are equal...\nThen from here on, it's life or death.
+@569
+...Right, a frontal assault!
+@569.1
+...Right, a frontal assault!
+@570
+...{02}{02}g, is it?
+@570.1
+...{02}{02}g, is it?
+@571
+A pursuer from {02}{02}{EC}...\nBut are you sane?\nA ninja coming straight at me!
+@571.1
+A pursuer from {02}{02}{EC}...\nBut are you sane?\nA ninja coming straight at me!
+@572
+Countless blades shot up from the floor!
+@572.1
+Poison mist spurted from gaps in the wall!
+@572.2
+Countless shuriken flew from behind!
+@572.3
+Suddenly, countless kunai flew in!
+@573
+!
+@574
+{02}{02}g dodged\nevery blade.
+@574.1
+{02}{02}g dodged\nall of the poison mist.
+@574.2
+{02}{02}g dodged\nevery shuriken.
+@574.3
+{02}{02}g dodged\nevery kunai.
+@575
+So you dodge that...\nThen from here on, we stake our lives!
+@575.1
+So you dodge that...\nThen from here on, we stake our lives!
+@576
+A pursuer from {02}{02}{EC}...!
+@576.1
+A pursuer from {02}{02}{EC}...!
+@577
+{02}{02}g was poisoned.
+@578
+...Are you really a ninja?\nWell, fine.\nI'll brush off the sparks that fall on me!
+@578.1
+...Are you really a ninja?\nWell, fine.\nI'll brush off the sparks that fall on me!
+@579
+Ugh!
+@580
+Tell me just one thing.\nWhy did you desert?
+@580.1
+Tell me just one thing.\nWhy did you desert?
+@581
+I got sick and tired\nof living by killing...
+@581.1
+There's no reason...\nI just wanted out, that's all...
+@581.2
+A reason...?\nI forgot that long ago...
+@581.3
+A reason...\nWhat was it again...?
+@581.4
+I wanted to walk proud\nunder the sun...
+@581.5
+Someday you'll understand too...
+@581.6
+I wanted to see a different world...
+@582
+I got sick and tired\nof living by killing...
+@582.1
+There's no reason...\nI just wanted out, that's all...
+@582.2
+A reason...?\nI forgot that long ago...
+@582.3
+A reason...\nWhat was it again...?
+@582.4
+I wanted to walk proud\nunder the sun...
+@582.5
+Someday you'll understand too...
+@582.6
+I wanted to see a different world...
+@583
+The rogue ninja {02}{02}g breathed their last.
+@584
+...Mission accomplished.
+@584.1
+...Mission accomplished.
+@585
+...Sorry.
+@586
+Ugh!
+@587
+Now...\n\n\nNow is the time!\n\n\n{01}C1{00}... please marry {01}C{0E}{00}!
+@588
+Hmm... it can't be helped.
+@589
+M-my!\n\n\nWh-what are you saying, {01}C{19}{00}!\nThat, that is a path never to be forgiven...\nI'll pretend I never heard this.
+@590
+M-my!\n\n\n...I'm happy you feel so, but\ndon't we need more time\nto understand each other?
+@591
+M-my!\n\n\n...I'm happy you feel so, but\nit's so sudden, my heart isn't ready.\nCould you give me a little time?
+@592
+M-my!\n\n\n...You probably don't even remember\nthe woman you cut down on a whim.\n\nI shall never forget it as long as I live.\n...Please leave.
+@593
+M-my!\n\n\n...I'm happy you feel so, but\nthe memory of betrayal between us\nwill never fade.\n...Please leave.
+@594
+M-my!\n\n\n...Marriage is a decision that shapes a life.\nIf I can, I wish to marry\nsomeone who has seen much of the world.
+@595
+Yes!\n\n\n{01}C{0E}{00} have traveled all over Japan\nand burned the famous sights into my eyes.\n\nI wish {01}C{19}{00} could know\ntheir beauty and wonder too.
+@595.1
+Yes!\n\n\n{01}C{0E}{00} have gone to many battlefields\nand drilled strategy into this head.\n\nEven in this age of war,\nwith these wits I'll surely protect {01}C{19}{00}!
+@595.2
+Yes!\n\n\n{01}C{0E}{00} have fought many strong foes\nand honed my martial arts single-mindedly.\n\nEven in this age of war,\nwith these arms I'll surely protect {01}C{19}{00}!
+@595.3
+Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave earned many titles.\n\nIn this age of war, from every misfortune\nI'll surely protect {01}C{19}{00}!
+@595.4
+Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave learned many things.\n\nIn this age of war, from every misfortune\nI'll surely protect {01}C{19}{00}!
+@596
+Why would I hesitate to marry\none who has seen so much?\nI humbly accept.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
+@597
+Yes!\nLady {02}{02}f...\nno, {02}{02}f!\nHand in hand,\nlet's build a happy home!
+@598
+(Hmm... sadly I can't say\n {01}C{0E}{00} have seen much of the world.\n Oh well, I'll come back later.)
+@599
+M-my!\n\n\n...Marriage is a decision that shapes a life.\nIf I can, I wish to marry\nsomeone of proper standing.
+@600
+Yes!\n\n\n{01}C{0E}{00} am lord of {02}{15}e!\nYou'll never want for anything.
+@601
+Why would I hesitate to marry\none of such standing?\nI humbly accept.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
+@602
+(Hmm... sadly, {01}C{0E}{00}\n am still on the way up.\n Oh well, I'll come back later.)
+@603
+M-my!\n\n\n...Marriage is a decision that shapes a life.\nIf I can, precisely because of these times,\nI wish to marry someone who knows courtesy.\n{01}C1{00}, please show me\nthe depth of your courtesy.
+@604
+Well, how is this?
+@605
+Why would I hesitate to marry\none who knows courtesy so deeply?\nI humbly accept.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
+@606
+......
+@607
+(Hmm... I still need more training.)
+@608
+Ah, um...\n{01}C{0E}{00} just remembered an errand.\nCould we do this another time?
+@609
+M-my!\n\n\n...Marriage is a decision that shapes a life.\nThe man who becomes my husband\nmust be stronger than anyone or anything.\nI may not look it, but\nI'm rather confident in martial arts...\n\n{01}C1{00}...\ncan you beat me in a fight?\nPlease show me your skill at arms.
+@610
+A-are you all right? Not hurt?
+@611
+...I lost.\nHow strange... right now my heart\nis full of joy rather than regret.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
+@612
+Good of you to come.\nWill you also enter the imperial tournament?
+@612.1
+What,\nyou're entering the imperial tournament too?
+@613
+Good of you to come.\nWill you also enter the imperial tournament?\nThen equip a sword or spear.
+@613.1
+What,\nyou want to enter the imperial tournament?\nThen come equipped with a sword or spear.
+@614
+Then I'll show you to the qualifying ground.\nPlease follow me.
+@614.1
+Then I'll show you to the qualifying ground.\nFollow me.
+@615
+You won't enter?\nThis month we're busy preparing the tournament.\nFor other business, please come another time.
+@615.1
+If you won't enter,\nthen leave.
+@616
+This year's imperial tournament is over.\nPlease enter again next year.
+@616.1
+This year's imperial tournament is over.\nLeave.
+@617
+This year's imperial tournament is over. For other business, please come next month.
+@617.1
+This year's imperial tournament is over.\nLeave.
+@618
+You wish to enter the imperial tournament?\nWe don't allow past winners to compete.\nPlease give up.
+@618.1
+You want to enter the imperial tournament?\nWe don't allow past winners to compete.\nGive up.
+@619
+Round {02}o{CB} begins now!
+@619.1
+At last, the final begins!
+@619.2
+At last, the semifinal begins!
+@619.3
+Next, round {02}o{CB} begins!
+@620
+West: {02}{02}g of {02}{02}{EC}
+@621
+West: {02}{02}g of {02}{02}{C7}
+@622
+West: {02}{02}g
+@623
+East: {02}{02}g of {02}{02}{EC}
+@624
+East: {02}{02}g of {02}{02}{C7}
+@625
+East: {02}{02}g
+@626
+I won't hold back.
+@626.1
+{01}C1{00}, no holding back.\nNow, a fair match, a match!
+@626.2
+{01}C1{00},\ncan you defeat {01}C{0E}{00}?\n
+@626.3
+Fellow student or not, no holding back.\nNow, the match.
+@626.4
+Ah, {01}C1{00}.\nI'll enjoy the fine arts\nof {02}{02}{C7}.
+@626.5
+My opponent is {01}C1{00}, is it?\nI'll enjoy the fine arts\nof {02}{02}{C7}.
+@626.6
+{02}{02}{C7}, eh...\nA worthy opponent.
+@626.7
+For the honor of {02}{01}{EC},\nI'll face you.
+@626.8
+To fight {01}C1{00} here\nis an honor.\n{02}{01}g, here I come!
+@626.9
+{01}C1{00},\na worthy opponent.\n{02}{01}g, here I come!
+@626.10
+Have at you.
+@626.11
+{01}C1{00}, no holding back.\nNow, a match, a match!
+@626.12
+{01}C1{00},\ndefeat {01}C{0E}{00} if you can!
+@626.13
+Fellow student or not, no holding back.\nNow, the match.
+@626.14
+My, {01}C1{00}.\nI'll enjoy the fine arts\nof {02}{02}{C7}.
+@626.15
+My opponent is {01}C1{00}, is it?\nI'll enjoy the fine arts\nof {02}{02}{C7}.
+@626.16
+{02}{02}{C7}...\nA worthy opponent.
+@626.17
+For the honor of {02}{01}{EC},\nI'll face you.
+@626.18
+To fight {01}C1{00} here\nis an honor.\n{02}{01}g, here I come!
+@626.19
+{01}C1{00},\na worthy opponent.\n{02}{01}g, here I come!
+@626.20
+Now, the match!
+@627
+Have at you.
+@628
+Begin!!
+@629
+Stop!!\nWinner: {02}{02}g!
+@630
+Ugh, I yield...\n
+@630.1
+Splendid.\nI still can't beat my teacher.\nI'll keep training.
+@630.2
+Hmm, well done, {01}C1{00}.\nYou've surpassed {01}C{0E}{00} now.\nHeh, I'm both sad and glad...
+@630.3
+Hmm, I lost...\nBut losing to a fellow student,\nI can accept it.
+@630.4
+For {01}C{0E}{00} to...\nI've stained\nthe name of {02}{01}{C7}...
+@630.5
+Curses...\nBut losing to a samurai\nof {02}{01}{EC}, I have no regrets...
+@630.6
+Curses...\nI've stained\nthe name of {02}{01}{EC}...
+@630.7
+{01}C{0E}{01}...\nA complete defeat.
+@630.8
+Splendid... {01}C1{00}.\nI couldn't lay a finger on you.
+@630.9
+Hmm...\nOne more step and I'd have won...\n{01}C{0E}{00} am still a novice.
+@630.10
+A good match.\nSomeday, let's spar\nagain.
+@630.11
+Ugh...\nMy finish was weak...\nBack to the beginning.
+@630.12
+Splendid.\nI still can't beat my teacher.\nI'll keep training.
+@630.13
+Phew, well done, {01}C1{00}.\nYou've surpassed {01}C{0E}{00} now.\nHeh, I'm both sad and glad...
+@630.14
+Oh, I lost...\nBut losing to a fellow student,\nI can accept it.
+@630.15
+For {01}C{0E}{00} to...\nI've stained\nthe name of {02}{01}{C7}...
+@630.16
+Oh, I lost...\nBut losing to a samurai\nof {02}{01}{EC}, I have no regrets...
+@630.17
+Oh...\nI've stained\nthe name of {02}{01}{EC}...
+@630.18
+{01}C{0E}{01}...\nA complete defeat.
+@630.19
+Splendid, {01}C1{00}.\nI couldn't lay a finger on you.
+@630.20
+Oh...\nOne more step and I'd have won...\n{01}C{0E}{00} am still a novice.
+@630.21
+A good match.\nSomeday, let's spar\nagain.
+@630.22
+Ugh...\nMy finish was weak...\nBack to the beginning.
+@631
+A pity.\nWe'll hold it again next year.\nHone your skills until then.
+@632
+Splendid, I commend you.\nYour skill is the finest in the land.\nTruly worthy of the name sword saint.
+@633
+Splendid, I commend you.\nYour skill is the finest in the land.\nTruly worthy of the name best spear in the land.
+@634
+I am deeply honored.
+@634.1
+I am deeply honored.
+@635
+This is a gift from His Majesty.\nAccept it gratefully.
+@635.1
+This is a gift from His Majesty.\nAccept it gratefully.
+@636
+Received {02}3g.
+@637
+Received 5000 kan.

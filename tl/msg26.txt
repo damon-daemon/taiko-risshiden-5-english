@@ -1,0 +1,990 @@
+@0
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut I am not sure we can take it\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@0.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't very high,\nbut I am not sure we can take it\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@0.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut I am not sure we can take it\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut it may be hard with our present troops.
+@1.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't very high,\nbut it may be hard with our present troops.
+@1.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut it may be hard with our present troops.
+@2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not high,\nbut I am not sure we can take it\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@2.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't high,\nbut I am not sure we can take it\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@2.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not high,\nbut I am not sure we can take it\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@3
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not high,\nbut it may be hard with our present troops.
+@3.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't high,\nbut it may be hard with our present troops.
+@3.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not high,\nbut it may be hard with our present troops.
+@4
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@4.1
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso I expect a very hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@4.2
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@5
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso I expect a very hard fight.
+@5.1
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso I expect a very hard fight.
+@5.2
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso I expect a very hard fight.
+@6
+Right now we are behind in numbers.\n{02}{15}n's defense is not low either,\nso I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@6.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't low either,\nso I expect a very hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@6.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not low either,\nso I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@7
+Right now we are behind in numbers.\n{02}{15}n's defense is not low either,\nso I expect a very hard fight.
+@7.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't low either,\nso I expect a very hard fight.
+@7.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not low either,\nso I expect a very hard fight.
+@8
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@8.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't very high,\nbut I expect a hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@8.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@9
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut I expect a hard fight.
+@9.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't very high,\nbut I expect a hard fight.
+@9.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut I expect a hard fight.
+@10
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@10.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't high,\nbut I expect a hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@10.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@11
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut I expect a hard fight.
+@11.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't high,\nbut I expect a hard fight.
+@11.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut I expect a hard fight.
+@12
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso like this I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@12.1
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso like this I expect a very hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@12.2
+Right now we are behind in numbers.\n{02}{15}n's defense is high too,\nso like this I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@13
+Right now we are behind in numbers.\n{02}{15}n's defense is high too, so I believe\ntaking {02}{15}n like this will be difficult.
+@13.1
+Right now we are behind in numbers.\n{02}{15}n's defense is high too, so I believe\ntaking {02}{15}n like this will be difficult.
+@13.2
+Right now we are behind in numbers.\n{02}{15}n's defense is high too, so I believe\ntaking {02}{15}n like this will be difficult.
+@14
+Right now we are behind in numbers.\n{02}{15}n's defense is not low either,\nso like this I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@14.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't low either,\nso like this I expect a very hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@14.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not low either,\nso like this I expect a very hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@15
+Right now we are behind in numbers.\n{02}{15}n's defense is high too, so I believe\ntaking {02}{15}n like this will be difficult.
+@15.1
+Right now we are behind in numbers.\n{02}{15}n's defense is high too, so I believe\ntaking {02}{15}n like this will be difficult.
+@15.2
+Right now we are behind in numbers.\n{02}{15}n's defense is high too, so I believe\ntaking {02}{15}n like this will be difficult.
+@16
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut like this I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@16.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't very high,\nbut like this I expect a hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@16.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut like this I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@17
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut like this I expect a hard fight.
+@17.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't very high,\nbut like this I expect a hard fight.
+@17.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not very high,\nbut like this I expect a hard fight.
+@18
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut like this I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@18.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't high,\nbut like this I expect a hard fight.\nI think we should ask for reinforcements\nto strengthen our forces.
+@18.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut like this I expect a hard fight.\nI believe we should ask for reinforcements\nto strengthen our forces.
+@19
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut like this I expect a hard fight.
+@19.1
+Right now we are behind in numbers.\n{02}{15}n's defense isn't high,\nbut like this I expect a hard fight.
+@19.2
+Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut like this I expect a hard fight.
+@20
+Right now we are ahead in numbers,\nbut only the main keep remains, so\ni believe we should ask for reinforcements\nat once to attack the besiegers.
+@20.1
+Right now we are ahead in numbers,\nbut only the main keep remains, so\ni believe we should ask for reinforcements\nat once to attack the besiegers.
+@20.2
+Right now we are ahead in numbers,\nbut only the main keep remains, so\ni believe we should ask for reinforcements\nat once to attack the besiegers.
+@21
+Right now we are ahead in numbers,\nbut only the main keep remains, so\nwe may do well to make some concessions\nand sue for a truce.
+@21.1
+Right now we are ahead in numbers,\nbut only the main keep remains, so\nwe may do well to make some concessions\nand sue for a truce.
+@21.2
+Right now we are ahead in numbers,\nbut only the main keep remains, so\nwe may do well to make some concessions\nand sue for a truce.
+@22
+Right now we are ahead in numbers,\nbut only the main keep remains.
+@22.1
+Right now we are ahead in numbers,\nbut only the main keep remains.
+@22.2
+Right now we are ahead in numbers,\nbut only the main keep remains.
+@23
+Right now we are ahead in numbers.\nWe also have enough troops and high defense,\nso the attackers will struggle to take us.\nTo make victory certain, shall we ask for\nreinforcements to attack the besiegers?
+@23.1
+Right now we are ahead in numbers.\nWe also have enough troops and high defense,\nso the attackers will struggle to take us.\nTo make victory certain, shall we ask for\nreinforcements to attack the besiegers?
+@23.2
+Right now we are ahead in numbers.\nWe also have enough troops and high defense,\nso the attackers will struggle to take us.\nTo make victory certain, shall we ask for\nreinforcements to attack the besiegers?
+@24
+Right now we are ahead in numbers.\nWe also have enough troops and high defense,\nso I believe we can drive the attackers off.
+@24.1
+Right now we are ahead in numbers.\nWe also have enough troops and high defense,\nso I think we can drive the attackers off.
+@24.2
+Right now we are ahead in numbers.\nWe also have enough troops and high defense,\nso I believe we can drive the attackers off.
+@25
+Right now we are ahead in numbers.\nWe also have enough troops and our defense\nis not low, so the attackers will struggle.\nTo make victory certain, shall we ask for\nreinforcements to attack the besiegers?
+@25.1
+Right now we are ahead in numbers.\nWe also have enough troops and our defense\nisn't low, so the attackers will struggle.\nTo make victory certain, shall we ask for\nreinforcements to attack the besiegers?
+@25.2
+Right now we are ahead in numbers.\nWe also have enough troops and our defense\nis not low, so the attackers will struggle.\nTo make victory certain, shall we ask for\nreinforcements to attack the besiegers?
+@26
+Right now we are ahead in numbers.\nWe also have enough troops and our defense\nis not low, so I believe we can drive them off.
+@26.1
+Right now we are ahead in numbers.\nWe also have enough troops and our defense\nisn't low, so I think we can drive them off.
+@26.2
+Right now we are ahead in numbers.\nWe also have enough troops and our defense\nis not low, so I believe we can drive them off.
+@27
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not very high, so shall we hold the gates\nfirmly and meanwhile ask for reinforcements\nto attack the besiegers?
+@27.1
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nisn't very high, so shall we hold the gates\nfirmly and meanwhile ask for reinforcements\nto attack the besiegers?
+@27.2
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not very high, so shall we hold the gates\nfirmly and meanwhile ask for reinforcements\nto attack the besiegers?
+@28
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not very high, so I believe we should\nhold the gates firmly.
+@28.1
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nisn't very high, so I think we should\nhold the gates firmly.
+@28.2
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not very high, so I believe we should\nhold the gates firmly.
+@29
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not high, so shall we hold the gates\nfirmly and meanwhile ask for reinforcements\nto attack the besiegers?
+@29.1
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nisn't high, so shall we hold the gates\nfirmly and meanwhile ask for reinforcements\nto attack the besiegers?
+@29.2
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not high, so shall we hold the gates\nfirmly and meanwhile ask for reinforcements\nto attack the besiegers?
+@30
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not high, so I believe we should\nhold the gates firmly.
+@30.1
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nisn't high, so I think we should\nhold the gates firmly.
+@30.2
+Right now we are ahead in numbers.\nWe have enough troops, but our defense\nis not high, so I believe we should\nhold the gates firmly.
+@31
+Right now we vastly outnumber the defenders.\nOnly the main keep remains,\nso let us crush them in one go.
+@31.1
+Right now we vastly outnumber the defenders.\nOnly the main keep remains,\nso let us crush them in one go.
+@31.2
+Right now we vastly outnumber the defenders.\nOnly the main keep remains,\nso let us crush them in one go.
+@32
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is high,\nso we must be ready for heavy losses.
+@32.1
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is high,\nso we've got to be ready for heavy losses.
+@32.2
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is high,\nso we must be ready for heavy losses.
+@33
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is not low,\nso we must be ready for losses.
+@33.1
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense isn't low,\nso we've got to be ready for losses.
+@33.2
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is not low,\nso we must be ready for losses.
+@34
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not very high,\nbut we must be ready for some losses.
+@34.1
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense isn't very high,\nbut we've got to be ready for some losses.
+@34.2
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not very high,\nbut we must be ready for some losses.
+@35
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not high,\nbut we must be ready for some losses.
+@35.1
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense isn't high,\nbut we've got to be ready for some losses.
+@35.2
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not high,\nbut we must be ready for some losses.
+@36
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is high,\nso we cannot let our guard down yet.
+@36.1
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is high,\nso we can't let our guard down yet.
+@36.2
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is high,\nso we cannot let our guard down yet.
+@37
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is not low,\nso we cannot let our guard down yet.
+@37.1
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense isn't low,\nso we can't let our guard down yet.
+@37.2
+Right now we vastly outnumber the defenders.\nBut {02}{15}n's defense is not low,\nso we cannot let our guard down yet.
+@38
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not very high either,\nso breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@38.1
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense isn't very high either,\nso breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@38.2
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not very high either,\nso breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@39
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not high either,\nso breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@39.1
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense isn't high either,\nso breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@39.2
+Right now we vastly outnumber the defenders.\n{02}{15}n's defense is not high either,\nso breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@40
+Right now we are hopelessly outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@40.1
+Right now we are hopelessly outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@40.2
+Right now we are hopelessly outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@41
+Right now we are hopelessly outnumbered.\nOnly the main keep remains, so we may do well to make some concessions\nand sue for a truce.
+@41.1
+Right now we are hopelessly outnumbered.\nOnly the main keep remains, so we may do well to make some concessions\nand sue for a truce.
+@41.2
+Right now we are hopelessly outnumbered.\nOnly the main keep remains, so we may do well to make some concessions\nand sue for a truce.
+@42
+Right now we are hopelessly outnumbered.\nOnly the main keep remains.
+@42.1
+Right now we are hopelessly outnumbered.\nOnly the main keep remains.
+@42.2
+Right now we are hopelessly outnumbered.\nOnly the main keep remains.
+@43
+Right now we are hopelessly outnumbered.\nOnly the main keep remains and our defense\nis not very high, so I fear we will not\nlast long. I believe we must retreat.
+@43.1
+Right now we are hopelessly outnumbered.\nOnly the main keep remains and our defense\nisn't very high, so I fear we won't\nlast long. I think we've got to retreat.
+@43.2
+Right now we are hopelessly outnumbered.\nOnly the main keep remains and our defense\nis not very high, so I fear we will not\nlast long. I believe we must retreat.
+@44
+Right now we are hopelessly outnumbered.\nOnly the main keep remains and our defense\nis not very high, so I fear we will not last long.
+@44.1
+Right now we are hopelessly outnumbered.\nOnly the main keep remains and our defense\nisn't very high, so I fear we won't last long.
+@44.2
+Right now we are hopelessly outnumbered.\nOnly the main keep remains and our defense\nis not very high, so I fear we will not last long.
+@45
+Right now we are hopelessly outnumbered.\nBut our defense is high, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@45.1
+Right now we are hopelessly outnumbered.\nBut our defense is high, so I believe\nwe can hold out a good while.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@45.2
+Right now we are hopelessly outnumbered.\nBut our defense is high, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@46
+Right now we are hopelessly outnumbered.\nBut our defense is high, so with good tactics\nwe may drive them off.
+@46.1
+Right now we are hopelessly outnumbered.\nBut our defense is high, so with good tactics\nwe may drive them off.
+@46.2
+Right now we are hopelessly outnumbered.\nBut our defense is high, so with good tactics\nwe may drive them off.
+@47
+Right now we are hopelessly outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@47.1
+Right now we are hopelessly outnumbered.\nBut our defense isn't low, so I believe\nwe can hold out a good while.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@47.2
+Right now we are hopelessly outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@48
+Right now we are hopelessly outnumbered.\nBut our defense is not low, so with good tactics\nwe may drive them off.
+@48.1
+Right now we are hopelessly outnumbered.\nBut our defense isn't low, so with good tactics\nwe may drive them off.
+@48.2
+Right now we are hopelessly outnumbered.\nBut our defense is not low, so with good tactics\nwe may drive them off.
+@49
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@49.1
+Right now we are hopelessly outnumbered.\nOur defense isn't very high either,\nso I expect a hard fight.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@49.2
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@50
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.
+@50.1
+Right now we are hopelessly outnumbered.\nOur defense isn't very high either,\nso I expect a hard fight.
+@50.2
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.
+@51
+Right now we are hopelessly outnumbered.\nOur defense is not high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@51.1
+Right now we are hopelessly outnumbered.\nOur defense isn't high either,\nso I expect a hard fight.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@51.2
+Right now we are hopelessly outnumbered.\nOur defense is not high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@52
+Right now we are hopelessly outnumbered.\nOur defense is not high either,\nso I expect a hard fight.
+@52.1
+Right now we are hopelessly outnumbered.\nOur defense isn't high either,\nso I expect a hard fight.
+@52.2
+Right now we are hopelessly outnumbered.\nOur defense is not high either,\nso I expect a hard fight.
+@53
+Right now we are hopelessly outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@53.1
+Right now we are hopelessly outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@53.2
+Right now we are hopelessly outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@54
+Right now we are hopelessly outnumbered.\nOur defense is high, but I expect a hard fight.
+@54.1
+Right now we are hopelessly outnumbered.\nOur defense is high, but I expect a hard fight.
+@54.2
+Right now we are hopelessly outnumbered.\nOur defense is high, but I expect a hard fight.
+@55
+Right now we are hopelessly outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@55.1
+Right now we are hopelessly outnumbered.\nBut our defense isn't low, so I believe\nwe can hold out a while yet.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@55.2
+Right now we are hopelessly outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@56
+Right now we are hopelessly outnumbered.\nOur defense is not low, but I expect a hard fight.
+@56.1
+Right now we are hopelessly outnumbered.\nOur defense isn't low, but I expect a hard fight.
+@56.2
+Right now we are hopelessly outnumbered.\nOur defense is not low, but I expect a hard fight.
+@57
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I fear\nwe will not last long like this.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@57.1
+Right now we are hopelessly outnumbered.\nOur defense isn't very high either,\nso I fear\nwe won't last long like this.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@57.2
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I fear\nwe will not last long like this.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@58
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I fear\nwe will not last long like this.
+@58.1
+Right now we are hopelessly outnumbered.\nOur defense isn't very high either,\nso I fear\nwe won't last long like this.
+@58.2
+Right now we are hopelessly outnumbered.\nOur defense is not very high either,\nso I fear\nwe will not last long like this.
+@59
+Right now we are hopelessly outnumbered.\nOur defense is low too,\nso I fear\nwe will not last long like this.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@59.1
+Right now we are hopelessly outnumbered.\nOur defense is low too,\nso I fear\nwe won't last long like this.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@59.2
+Right now we are hopelessly outnumbered.\nOur defense is low too,\nso I fear\nwe will not last long like this.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@60
+Right now we are hopelessly outnumbered.\nOur defense is low too,\nso I fear\nwe will not last long like this.
+@60.1
+Right now we are hopelessly outnumbered.\nOur defense is low too,\nso I fear\nwe won't last long like this.
+@60.2
+Right now we are hopelessly outnumbered.\nOur defense is low too,\nso I fear\nwe will not last long like this.
+@61
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.\nCalling reinforcements to make\nvictory certain is one option.
+@61.1
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we've got to stay alert to the end.\nCalling reinforcements to make\nvictory certain is one option.
+@61.2
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.\nCalling reinforcements to make\nvictory certain is one option.
+@62
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@62.1
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we've got to stay alert to the end.
+@62.2
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@63
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso we must stay alert to the end.\nCalling reinforcements to make\nvictory certain is one option.
+@63.1
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low,\nso we've got to stay alert to the end.\nCalling reinforcements to make\nvictory certain is one option.
+@63.2
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso we must stay alert to the end.\nCalling reinforcements to make\nvictory certain is one option.
+@64
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@64.1
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we've got to stay alert to the end.
+@64.2
+Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@65
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high,\nso let us crush them in one go.
+@65.1
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense isn't very high,\nso let us crush them in one go.
+@65.2
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high,\nso let us crush them in one go.
+@66.*
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high,\nso let us crush them in one go.
+@67
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is low,\nso let us crush them in one go.
+@67.1
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is low,\nso let us crush them in one go.
+@67.2
+Right now we have the upper hand in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is low,\nso let us crush them in one go.
+@68
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@68.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@68.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@69
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso we must be ready for heavy losses.
+@69.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso we've got to be ready for heavy losses.
+@69.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso we must be ready for heavy losses.
+@70
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@70.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense isn't low.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@70.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@71
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low,\nso we must be ready for heavy losses.
+@71.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense isn't low,\nso we've got to be ready for heavy losses.
+@71.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low,\nso we must be ready for heavy losses.
+@72
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@72.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't very high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@72.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@73.*
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@74
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut we must be ready for losses.
+@74.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't very high either,\nbut we've got to be ready for losses.
+@74.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut we must be ready for losses.
+@75
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@75.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@75.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not high either,\nbut to make victory certain, shall we call\nreinforcements to strengthen our forces?
+@76
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not high either,\nbut we must be ready for some losses.
+@76.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't high either,\nbut we've got to be ready for some losses.
+@76.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not high either,\nbut we must be ready for some losses.
+@77
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso taking it will still take time.\nShall we call reinforcements\nto strengthen our forces?
+@77.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso taking it will still take time.\nShall we call reinforcements\nto strengthen our forces?
+@77.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso taking it will still take time.\nShall we call reinforcements\nto strengthen our forces?
+@78
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso taking it will still take time.
+@78.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso taking it will still take time.
+@78.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is high,\nso taking it will still take time.
+@79
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low,\nso taking it will still take time.\nShall we call reinforcements\nto strengthen our forces?
+@79.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense isn't low,\nso taking it will still take time.\nShall we call reinforcements\nto strengthen our forces?
+@79.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low,\nso taking it will still take time.\nShall we call reinforcements\nto strengthen our forces?
+@80
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low,\nso taking it will still take time.
+@80.1
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense isn't low,\nso taking it will still take time.
+@80.2
+Right now we have the upper hand in numbers.\nBut {02}{15}n's defense is not low,\nso taking it will still take time.
+@81
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@81.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@81.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@82.*
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@83
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nso I believe breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@83.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't very high either,\nso I think breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@83.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nso I believe breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@84
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@84.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense isn't very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@84.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is not very high either,\nbut taking it will still take time.\nTo make victory certain, shall we call\nreinforcements to strengthen our forces?
+@85
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is low,\nso I believe breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@85.1
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is low,\nso I think breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@85.2
+Right now we have the upper hand in numbers.\n{02}{15}n's defense is low,\nso I believe breaking the gate rather than attacking\ntheir troops may take the castle sooner.
+@86
+Right now we are outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@86.1
+Right now we are outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@86.2
+Right now we are outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@87
+Right now we are outnumbered.\nWe may do well to make some concessions\nand sue for a truce.
+@87.1
+Right now we are outnumbered.\nWe may do well to make some concessions\nand sue for a truce.
+@87.2
+Right now we are outnumbered.\nWe may do well to make some concessions\nand sue for a truce.
+@88
+Right now we are outnumbered.
+@88.1
+Right now we are outnumbered.
+@88.2
+Right now we are outnumbered.
+@89
+Right now we are outnumbered.\nOnly the main keep remains and our defense\nis not high, so I fear we will not last long.\nI believe we have no choice but to retreat.
+@89.1
+Right now we are outnumbered.\nOnly the main keep remains and our defense\nisn't high, so I fear we won't last long.\nI think we have no choice but to retreat.
+@89.2
+Right now we are outnumbered.\nOnly the main keep remains and our defense\nis not high, so I fear we will not last long.\nI believe we have no choice but to retreat.
+@90
+Right now we are outnumbered.\nOnly the main keep remains and our defense\nis not high, so I fear we will not last long.
+@90.1
+Right now we are outnumbered.\nOnly the main keep remains and our defense\nisn't high, so I fear we won't last long.
+@90.2
+Right now we are outnumbered.\nOnly the main keep remains and our defense\nis not high, so I fear we will not last long.
+@91
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@91.1
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a good while.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@91.2
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@92
+Right now we are outnumbered.\nBut our defense is high, so I believe with good tactics\nwe may drive them off.
+@92.1
+Right now we are outnumbered.\nBut our defense is high, so I think with good tactics\nwe may drive them off.
+@92.2
+Right now we are outnumbered.\nBut our defense is high, so I believe with good tactics\nwe may drive them off.
+@93
+Right now we are outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@93.1
+Right now we are outnumbered.\nBut our defense isn't low, so I believe\nwe can hold out a good while.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@93.2
+Right now we are outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a good while.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@94
+Right now we are outnumbered.\nBut our defense is not low, so I believe with good tactics\nwe may drive them off.
+@94.1
+Right now we are outnumbered.\nBut our defense isn't low, so I think with good tactics\nwe may drive them off.
+@94.2
+Right now we are outnumbered.\nBut our defense is not low, so I believe with good tactics\nwe may drive them off.
+@95
+Right now we are outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@95.1
+Right now we are outnumbered.\nOur defense isn't very high either,\nso I expect a hard fight.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@95.2
+Right now we are outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@96.*
+Right now we are outnumbered.\nOur defense is not very high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@97
+Right now we are outnumbered.\nOur defense is not very high either,\nbut with good tactics\nwe may drive them off.
+@97.1
+Right now we are outnumbered.\nOur defense isn't very high either,\nbut with good tactics\nwe may drive them off.
+@97.2
+Right now we are outnumbered.\nOur defense is not very high either,\nbut with good tactics\nwe may drive them off.
+@98
+Right now we are outnumbered.\nOur defense is not high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@98.1
+Right now we are outnumbered.\nOur defense isn't high either,\nso I expect a hard fight.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@98.2
+Right now we are outnumbered.\nOur defense is not high either,\nso I expect a hard fight.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@99
+Right now we are outnumbered.\nOur defense is not high either,\nbut with good tactics\nwe may drive them off.
+@99.1
+Right now we are outnumbered.\nOur defense isn't high either,\nbut with good tactics\nwe may drive them off.
+@99.2
+Right now we are outnumbered.\nOur defense is not high either,\nbut with good tactics\nwe may drive them off.
+@100
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@100.1
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@100.2
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@101
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.
+@101.1
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.
+@101.2
+Right now we are outnumbered.\nBut our defense is high, so I believe\nwe can hold out a while yet.
+@102
+Right now we are outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@102.1
+Right now we are outnumbered.\nBut our defense isn't low, so I believe\nwe can hold out a while yet.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@102.2
+Right now we are outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@103
+Right now we are outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@103.1
+Right now we are outnumbered.\nBut our defense isn't low, so I believe\nwe can hold out a while yet.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@103.2
+Right now we are outnumbered.\nBut our defense is not low, so I believe\nwe can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@104
+Right now we are outnumbered.\nOur defense is not very high either,\nso I fear\nwe cannot hold out for long.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@104.1
+Right now we are outnumbered.\nOur defense isn't very high either,\nso I fear\nwe can't hold out for long.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@104.2
+Right now we are outnumbered.\nOur defense is not very high either,\nso I fear\nwe cannot hold out for long.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@105.*
+Right now we are outnumbered.\nOur defense is not very high either,\nso I fear\nwe cannot hold out for long.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@106
+Right now we are outnumbered.\nOur defense is not very high either,\nso it may be better to put defending\nthe gates first.
+@106.1
+Right now we are outnumbered.\nOur defense isn't very high either,\nso it may be better to put defending\nthe gates first.
+@106.2
+Right now we are outnumbered.\nOur defense is not very high either,\nso it may be better to put defending\nthe gates first.
+@107
+Right now we are outnumbered.\nOur defense is low too,\nso I fear\nwe cannot hold out for long.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@107.1
+Right now we are outnumbered.\nOur defense is low too,\nso I fear\nwe can't hold out for long.\nI think we should ask for reinforcements\nat once to attack the besiegers.
+@107.2
+Right now we are outnumbered.\nOur defense is low too,\nso I fear\nwe cannot hold out for long.\nI believe we should ask for reinforcements\nat once to attack the besiegers.
+@108
+Right now we are outnumbered.\nOur defense is not very high either,\nso it may be better to put defending\nthe gates first.
+@108.1
+Right now we are outnumbered.\nOur defense isn't very high either,\nso it may be better to put defending\nthe gates first.
+@108.2
+Right now we are outnumbered.\nOur defense is not very high either,\nso it may be better to put defending\nthe gates first.
+@109
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.\nShall we call reinforcements\nto strengthen our forces?
+@109.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we've got to stay alert to the end.\nShall we call reinforcements\nto strengthen our forces?
+@109.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.\nShall we call reinforcements\nto strengthen our forces?
+@110
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@110.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we've got to stay alert to the end.
+@110.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@111.*
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso we must stay alert to the end.
+@112
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso we must stay alert to the end.\nShall we call reinforcements\nto strengthen our forces?
+@112.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low,\nso we've got to stay alert to the end.\nShall we call reinforcements\nto strengthen our forces?
+@112.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso we must stay alert to the end.\nShall we call reinforcements\nto strengthen our forces?
+@113
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso we must stay alert to the end.
+@113.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low,\nso we've got to stay alert to the end.
+@113.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso we must stay alert to the end.
+@114
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high.\nTo make victory certain, asking for\nreinforcements is one option.
+@114.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense isn't very high.\nTo make victory certain, asking for\nreinforcements is one option.
+@114.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high.\nTo make victory certain, asking for\nreinforcements is one option.
+@115
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high.\nLet us take the keep in one go.
+@115.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense isn't very high.\nLet's take the keep in one go.
+@115.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is not very high.\nLet us take the keep in one go.
+@116
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is low.\nLet us take the keep in one go.
+@116.1
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is low.\nLet's take the keep in one go.
+@116.2
+Right now we are slightly ahead in numbers.\nOnly the main keep remains and {02}{15}n's\ndefense is low.\nLet us take the keep in one go.
+@117
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso i would like a few more troops.\nI believe we should ask for reinforcements.
+@117.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso i would like a few more troops.\nI think we should ask for reinforcements.
+@117.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso i would like a few more troops.\nI believe we should ask for reinforcements.
+@118
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso I expect a hard fight.
+@118.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso I expect a hard fight.
+@118.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso I expect a hard fight.
+@119
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low either,\nso i would like a few more troops.\nI believe we should ask for reinforcements.
+@119.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense isn't low either,\nso i would like a few more troops.\nI think we should ask for reinforcements.
+@119.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low either,\nso i would like a few more troops.\nI believe we should ask for reinforcements.
+@120
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low either,\nso I expect a hard fight.
+@120.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense isn't low either,\nso I expect a hard fight.
+@120.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low either,\nso I expect a hard fight.
+@121
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@121.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't very high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@121.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@122
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut the gap between us is small,\nso I expect a hard fight.
+@122.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't very high either,\nbut the gap between us is small,\nso I expect a hard fight.
+@122.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut the gap between us is small,\nso I expect a hard fight.
+@123
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@123.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@123.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@124
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut the gap between us is small,\nso I expect a hard fight.
+@124.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't high either,\nbut the gap between us is small,\nso I expect a hard fight.
+@124.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut the gap between us is small,\nso I expect a hard fight.
+@125
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso it may be hard with our present troops.\nShall we ask for reinforcements?
+@125.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso it may be hard with our present troops.\nShall we ask for reinforcements?
+@125.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso it may be hard with our present troops.\nShall we ask for reinforcements?
+@126
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso it may be a hard fight with\nour present troops.
+@126.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso it may be a hard fight with\nour present troops.
+@126.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is high,\nso it may be a hard fight with\nour present troops.
+@127
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low,\nso it may be hard with our present troops.\nShall we ask for reinforcements?
+@127.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense isn't low,\nso it may be hard with our present troops.\nShall we ask for reinforcements?
+@127.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low,\nso it may be hard with our present troops.\nShall we ask for reinforcements?
+@128
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low,\nso it may be a hard fight with\nour present troops.
+@128.1
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense isn't low,\nso it may be a hard fight with\nour present troops.
+@128.2
+Right now we are slightly ahead in numbers.\nBut {02}{15}n's defense is not low,\nso it may be a hard fight with\nour present troops.
+@129
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@129.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't very high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@129.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@130
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut the gap between us is small,\nso it may be a hard fight.
+@130.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't very high either,\nbut the gap between us is small,\nso it may be a hard fight.
+@130.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut the gap between us is small,\nso it may be a hard fight.
+@131
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@131.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@131.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut I am uneasy with our present troops.\nShall we ask for reinforcements?
+@132
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut the gap between us is small,\nso it may be a hard fight.
+@132.1
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't high either,\nbut the gap between us is small,\nso it may be a hard fight.
+@132.2
+Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut the gap between us is small,\nso it may be a hard fight.
+@133
+Right now we are slightly outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@133.1
+Right now we are slightly outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@133.2
+Right now we are slightly outnumbered.\nOnly the main keep remains, so i believe we should ask for reinforcements\nat once to attack the besiegers.
+@134
+Right now we are slightly outnumbered.\nOnly the main keep remains, so we may do well to make some concessions\nand sue for a truce.
+@134.1
+Right now we are slightly outnumbered.\nOnly the main keep remains, so we may do well to make some concessions\nand sue for a truce.
+@134.2
+Right now we are slightly outnumbered.\nOnly the main keep remains, so we may do well to make some concessions\nand sue for a truce.
+@135
+Right now we are slightly outnumbered.\nOnly the main keep remains.
+@135.1
+Right now we are slightly outnumbered.\nOnly the main keep remains.
+@135.2
+Right now we are slightly outnumbered.\nOnly the main keep remains.
+@136
+Right now we are slightly outnumbered.\nBut our defense is high, so the attackers will struggle to take us.\nShall we ask for reinforcements\nto attack the besiegers?
+@136.1
+Right now we are slightly outnumbered.\nBut our defense is high, so the attackers will struggle to take us.\nShall we ask for reinforcements\nto attack the besiegers?
+@136.2
+Right now we are slightly outnumbered.\nBut our defense is high, so the attackers will struggle to take us.\nShall we ask for reinforcements\nto attack the besiegers?
+@137
+Right now we are slightly outnumbered.\nBut our defense is high, so I believe we can drive them off.
+@137.1
+Right now we are slightly outnumbered.\nBut our defense is high, so I think we can drive them off.
+@137.2
+Right now we are slightly outnumbered.\nBut our defense is high, so I believe we can drive them off.
+@138
+Right now we are slightly outnumbered.\nBut our defense is not low, so the attackers will struggle to take us.\nShall we ask for reinforcements\nto attack the besiegers?
+@138.1
+Right now we are slightly outnumbered.\nBut our defense isn't low, so the attackers will struggle to take us.\nShall we ask for reinforcements\nto attack the besiegers?
+@138.2
+Right now we are slightly outnumbered.\nBut our defense is not low, so the attackers will struggle to take us.\nShall we ask for reinforcements\nto attack the besiegers?
+@139
+Right now we are slightly outnumbered.\nBut our defense is not low, so I believe we can drive them off.
+@139.1
+Right now we are slightly outnumbered.\nBut our defense isn't low, so I think we can drive them off.
+@139.2
+Right now we are slightly outnumbered.\nBut our defense is not low, so I believe we can drive them off.
+@140
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso we will not fall easily.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@140.1
+Right now we are slightly outnumbered.\nOur defense isn't very high either,\nbut the gap is small,\nso we won't fall easily.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@140.2
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso we will not fall easily.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@141
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso I believe with good tactics\nwe may drive them off.
+@141.1
+Right now we are slightly outnumbered.\nOur defense isn't very high either,\nbut the gap is small,\nso I think with good tactics\nwe may drive them off.
+@141.2
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso I believe with good tactics\nwe may drive them off.
+@142
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso we will not fall easily.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@142.1
+Right now we are slightly outnumbered.\nOur defense isn't high either,\nbut the gap is small,\nso we won't fall easily.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@142.2
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso we will not fall easily.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@143
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso I believe with good tactics\nwe may drive them off.
+@143.1
+Right now we are slightly outnumbered.\nOur defense isn't high either,\nbut the gap is small,\nso I think with good tactics\nwe may drive them off.
+@143.2
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso I believe with good tactics\nwe may drive them off.
+@144
+Right now we are slightly outnumbered.\nBut our defense is high, so we can hold out a good while yet.\nShall we ask for reinforcements now\nto attack the besiegers?
+@144.1
+Right now we are slightly outnumbered.\nBut our defense is high, so we can hold out a good while yet.\nShall we ask for reinforcements now\nto attack the besiegers?
+@144.2
+Right now we are slightly outnumbered.\nBut our defense is high, so we can hold out a good while yet.\nShall we ask for reinforcements now\nto attack the besiegers?
+@145
+Right now we are slightly outnumbered.\nBut our defense is high, so we can hold out a good while yet.
+@145.1
+Right now we are slightly outnumbered.\nBut our defense is high, so we can hold out a good while yet.
+@145.2
+Right now we are slightly outnumbered.\nBut our defense is high, so we can hold out a good while yet.
+@146
+Right now we are slightly outnumbered.\nBut our defense is not low, so we can hold out a good while yet.\nShall we ask for reinforcements now\nto attack the besiegers?
+@146.1
+Right now we are slightly outnumbered.\nBut our defense isn't low, so we can hold out a good while yet.\nShall we ask for reinforcements now\nto attack the besiegers?
+@146.2
+Right now we are slightly outnumbered.\nBut our defense is not low, so we can hold out a good while yet.\nShall we ask for reinforcements now\nto attack the besiegers?
+@147
+Right now we are slightly outnumbered.\nBut our defense is not low, so we can hold out a good while yet.
+@147.1
+Right now we are slightly outnumbered.\nBut our defense isn't low, so we can hold out a good while yet.
+@147.2
+Right now we are slightly outnumbered.\nBut our defense is not low, so we can hold out a good while yet.
+@148
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso we can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@148.1
+Right now we are slightly outnumbered.\nOur defense isn't very high either,\nbut the gap is small,\nso we can hold out a while yet.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@148.2
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso we can hold out a while yet.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@149
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso we can hold out a while yet.
+@149.1
+Right now we are slightly outnumbered.\nOur defense isn't very high either,\nbut the gap is small,\nso we can hold out a while yet.
+@149.2
+Right now we are slightly outnumbered.\nOur defense is not very high either,\nbut the gap is small,\nso we can hold out a while yet.
+@150
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso we will not fall easily.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@150.1
+Right now we are slightly outnumbered.\nOur defense isn't high either,\nbut the gap is small,\nso we won't fall easily.\nI think we should ask for reinforcements\nnow to attack the besiegers.
+@150.2
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso we will not fall easily.\nI believe we should ask for reinforcements\nnow to attack the besiegers.
+@151
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso I believe with good tactics\nwe may drive them off.
+@151.1
+Right now we are slightly outnumbered.\nOur defense isn't high either,\nbut the gap is small,\nso I think with good tactics\nwe may drive them off.
+@151.2
+Right now we are slightly outnumbered.\nOur defense is not high either,\nbut the gap is small,\nso I believe with good tactics\nwe may drive them off.
+@152
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.\nI believe we should call reinforcements at once.
+@152.1
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.\nI think we should call reinforcements at once.
+@152.2
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.\nI believe we should call reinforcements at once.
+@153
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.\nI believe we should retreat for now and regroup.
+@153.1
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.\nI think we should retreat for now and regroup.
+@153.2
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.\nI believe we should retreat for now and regroup.
+@154
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.
+@154.1
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.
+@154.2
+Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but taking it\nwith these troops will be very hard.
+@155
+Right now we are hopelessly behind in numbers.\nI believe we should call reinforcements at once.\nOr we might do better to retreat\nfor now and regroup.
+@155.1
+Right now we are hopelessly behind in numbers.\nI think we should call reinforcements at once.\nOr we might do better to retreat\nfor now and regroup.
+@155.2
+Right now we are hopelessly behind in numbers.\nI believe we should call reinforcements at once.\nOr we might do better to retreat\nfor now and regroup.
+@156
+Right now we are hopelessly behind in numbers.\nI believe we should call reinforcements at once.
+@156.1
+Right now we are hopelessly behind in numbers.\nI think we should call reinforcements at once.
+@156.2
+Right now we are hopelessly behind in numbers.\nI believe we should call reinforcements at once.
+@157
+Right now we are hopelessly behind in numbers.\nI believe we should retreat for now and regroup.
+@157.1
+Right now we are hopelessly behind in numbers.\nI think we should retreat for now and regroup.
+@157.2
+Right now we are hopelessly behind in numbers.\nI believe we should retreat for now and regroup.
+@158
+Right now we are hopelessly behind in numbers.
+@158.1
+Right now we are hopelessly behind in numbers.
+@158.2
+Right now we are hopelessly behind in numbers.
+@159
+Right now we vastly outnumber the attackers.\nBut only the main keep is left, so let us\nhold firm and crush the attackers.
+@159.1
+Right now we vastly outnumber the attackers.\nBut only the main keep is left, so let us\nhold firm and crush the attackers.
+@159.2
+Right now we vastly outnumber the attackers.\nBut only the main keep is left, so let us\nhold firm and crush the attackers.
+@160
+Right now we vastly outnumber the attackers.\nI believe we can drive them off\neven without reinforcements.
+@160.1
+Right now we vastly outnumber the attackers.\nI think we can drive them off\neven without reinforcements.
+@160.2
+Right now we vastly outnumber the attackers.\nI believe we can drive them off\neven without reinforcements.
+@161
+Right now we vastly outnumber the attackers.\nThere is no cause for worry unless\nthe attackers get reinforcements.
+@161.1
+Right now we vastly outnumber the attackers.\nThere's no cause for worry unless\nthe attackers get reinforcements.
+@161.2
+Right now we vastly outnumber the attackers.\nThere is no cause for worry unless\nthe attackers get reinforcements.
+@162
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and things are tough.\nI believe we should ask for reinforcements now.
+@162.1
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and things are tough.\nI think we should ask for reinforcements now.
+@162.2
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and things are tough.\nI believe we should ask for reinforcements now.
+@163
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and things are tough.
+@163.1
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and things are tough.
+@163.2
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and things are tough.
+@164
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low and things are tough.\nI believe we should ask for reinforcements now.
+@164.1
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low and things are tough.\nI think we should ask for reinforcements now.
+@164.2
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low and things are tough.\nI believe we should ask for reinforcements now.
+@165
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low and things are tough.
+@165.1
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low and things are tough.
+@165.2
+Right now we are behind in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low and things are tough.
+@166
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut I am not sure we can take {02}{15}n\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@166.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't very high,\nbut I am not sure we can take {02}{15}n\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@166.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut I am not sure we can take {02}{15}n\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@167
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut whether we can take {02}{15}n\nwith the troops we have is doubtful.
+@167.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't very high,\nbut whether we can take {02}{15}n\nwith the troops we have is doubtful.
+@167.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not very high,\nbut whether we can take {02}{15}n\nwith the troops we have is doubtful.
+@168
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not high,\nbut I am not sure we can take {02}{15}n\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@168.1
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense isn't high,\nbut I am not sure we can take {02}{15}n\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?
+@168.2
+Right now we are behind in numbers.\nOnly the main keep remains, and {02}{15}n's\ndefense is not high,\nbut I am not sure we can take {02}{15}n\nwith the troops we have.\nShall we ask for reinforcements\nto strengthen our forces?

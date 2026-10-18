@@ -1,0 +1,2068 @@
+@0
+Where shall I go?
+@0.1
+Where shall I go?
+@1
+There's no one of note here.
+@1.1
+There's no one of note here.
+@2
+There's no need for domestic work at this base.\nEverything is at its maximum.
+@3
+There's no need for sabotage at this base.\nEverything is already at its lowest.
+@4
+It costs 3000 kan.
+@5
+This base's {02}yd\ncan't be raised any further.
+@6
+You can't do this in your present condition.
+@7
+Blast!\nI seem to have spent too much.\nWithout {02}o{C8}, I can't do the task.
+@7.1
+Oh no!\nI seem to have spent too much.\nWithout {02}o{C8}, I can't do the task.
+@8
+Call off {02}yd?
+@9
+Now, what shall I do?
+@9.1
+Now, what shall I do?
+@10
+{02}{0B}e's {02}yd\ncan't be raised any further.
+@11
+Carry out {02}yd?
+@12
+{02}yd will take {02}od days.\nIs that all right?
+@13
+Used {02}=e.
+@14
+Hmm, with a result like this,\n{01}C8{00} may scold me...\n......Still, I must report.
+@14.1
+Hmm, not what I'd call a good result.\nStill, I must report to {01}C8{00}.
+@14.2
+Not a particularly good result.\nStill, I must report to {01}C8{00}.
+@14.3
+A fair result.\nI must report to {01}C8{00}.
+@14.4
+A very good result.\nI must report to {01}C8{00}.
+@15
+Hmm, with a result like this,\n{01}C8{00} may scold me...\nStill, I must report.
+@15.1
+Hmm, not a very good result.\nStill, I must report to {01}C8{00}.
+@15.2
+Not a particularly good result.\nStill, I must report to {01}C8{00}.
+@15.3
+A fair result.\nI'll report to {01}C8{00}.
+@15.4
+A very good result!\nI'll report to {01}C8{00}.
+@16
+Hmm, with a result like this,\n{01}C8{00} may scold me...\n......Still, I must report.
+@16.1
+Hmm, I still have far to go.\nStill, I must report to {01}C8{00}.
+@16.2
+Hmm, it's difficult.\nStill, I must report to {01}C8{00}.
+@16.3
+So close...\nI must report to {01}C8{00}.
+@16.4
+Good, that went well.\nI must report to {01}C8{00}.
+@17
+Hmm, with a result like this,\n{01}C8{00} may scold me...\nStill, I must report.
+@17.1
+Hmm, I still have far to go.\nStill, I must report to {01}C8{00}.
+@17.2
+Hmm, it's difficult.\nStill, I must report to {01}C8{00}.
+@17.3
+So close...\nI'll report to {01}C8{00}.
+@17.4
+Yes, that went well!\nI'll report to {01}C8{00}.
+@18
+Hmm, with a result like this,\nthe chief may scold me...\n......Still, I must report.
+@18.1
+Hmm, not what I'd call a good result.\nStill, I must report to the chief.
+@18.2
+Not a particularly good result.\nStill, I must report to the chief.
+@18.3
+A fair result.\nI must report to the chief.
+@18.4
+A very good result.\nThe chief will be pleased.\nI must report.
+@19
+Hmm, with a result like this,\nthe chief may scold me...\nStill, I must report.
+@19.1
+Hmm, not a very good result.\nStill, I must report to the chief.
+@19.2
+Not a particularly good result.\nStill, I must report to the chief.
+@19.3
+A fair result.\nI'll report to the chief.
+@19.4
+A very good result!\nThe chief will be pleased.\nI'll report at once.
+@20
+Hmm, with a result like this\nI can't be satisfied......
+@20.1
+Hmm......\nnot what I'd call a good result......
+@20.2
+Not a particularly good result......
+@20.3
+A fair result.\nIt was worth doing.
+@20.4
+A very good result.\nIt was well worth doing!
+@21
+Hmm, with a result like this\nI can't be satisfied...
+@21.1
+Hmm......\nnot a very good result...
+@21.2
+Not a particularly good result...
+@21.3
+A fair result.\nWell done, well done...
+@21.4
+A very good result!\nAs I'd expect of myself.
+@22
+The council is about to start.\nThis is no time for detours.
+@22.1
+The council is about to start.\nThis is no time for detours.
+@23
+My summons deadline is near.\nNo detours.
+@23.1
+My summons deadline is near.\nNo detours.
+@24
+Well, I'll withdraw for now.
+@24.1
+Well, I'll withdraw for now.
+@25
+Lord {02}{02}f,\nwe've been waiting for you.\nOrders from {01}C7{00}:\n"Due to unavoidable reasons I'm marching out;\n the council is put off to next time."\nThat's the message.
+@26
+Lord {02}{02}f,\nwe've been waiting for you.\nOrders from {01}C7{00}:\n"Due to unavoidable reasons I'm going out;\n the council is put off to next time."\nThat's the message.
+@27
+What, is that so......\nUnderstood.
+@27.1
+Oh! ...Is that so.\nUnderstood.
+@28
+Oh, my lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@28.1
+Oh, old lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@28.2
+{02}{03}g, who rules this castle,\nis in {02}{15}e.\nThere's no need for you here. Begone.
+@28.3
+{02}{03}g, who rules this castle,\nis in {02}{15}e.\nPlease take your leave.
+@28.4
+{02}{03}g, who rules this castle,\nis in {02}{15}e.\nPlease take your leave.
+@29
+Boss, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@29.1
+Squad chief, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@29.2
+{02}{03}g, who rules this village,\nis in {02}{15}e.\nThere's no need for you here. Begone.
+@29.3
+{02}{03}g, who rules this village,\nis in {02}{15}e.\nPlease take your leave.
+@29.4
+{02}{03}g, who rules this village,\nis in {02}{15}e.\nPlease take your leave.
+@30
+Oh, old lord, welcome.\n{02}{03}g\nis out right now.
+@30.1
+Oh, boss, welcome.\n{02}{03}g\nis out right now.
+@30.2
+Oh, chief, welcome.\n{02}{03}g\nis out right now.
+@30.3
+{02}{03}g\nis out right now.\nPlease come another day.
+@31
+Now, how shall I get in?
+@31.1
+Now, how shall I get in?
+@32
+You there, halt!\nWho goes there!?
+@33
+I am {02}{01}g.\nI wish to see Lord {02}{03}g,\n{01}C{98}{01}.
+@33.1
+I am {02}{01}g of {02}{01}{EC}.\nI wish to see Lord {02}{03}g,\n{01}C{98}{01}.
+@34
+My name is {02}{01}g.\nMay I have an audience with\n{02}{03}g, {01}C{98}{01}?
+@34.1
+I'm {02}{01}g of {02}{01}{EC}.\nMay I have an audience with\n{02}{03}g, {01}C{98}{01}?
+@35
+I am {02}{01}g.\nI've come at the guild's request.\nI wish to see Lord {02}{03}g, {01}C{98}{01}.
+@35.1
+I'm {02}{01}g, here at the guild's request.\nMay I have an audience with\n{02}{03}g, {01}C{98}{01}?
+@36
+I am {02}{01}g, a merchant of {02}{15}e\nwho runs {02}{83}{A3}.\nI wish to see {02}{03}g.
+@36.1
+I'm {02}{01}g, a merchant of {02}{15}e\nwho runs {02}{83}{A3}.\nMay I have an audience with {02}{03}g?
+@37
+...Hm, that seems right.\nYou may pass.
+@38
+Forgive me.\nPlease, go through.
+@39
+Why, Lord {02}{02}f.\nOur lord told us of you.\nPlease, go through.
+@40
+(Now, how shall I get them to let me through?)
+@40.1
+(Now...\n how shall I get them to let me through?)
+@41
+What's a mere ronin babbling about?\nGo home, go home!
+@41.1
+No one from {02}{02}{EC} passes.\nBegone.
+@42
+Suspicious wretch!\nLeave at once!
+@43
+(......Blast!\n I have no money to give them.)
+@43.1
+(......Oh no!\n I have no money to give them.)
+@44
+Suspicious wretch!\nLeave now,\nor we'll drag you off!
+@45
+(No choice.\n I'll withdraw for now.)
+@45.1
+(No choice......\n I'll withdraw for now.)
+@46
+Come now, let this settle it.
+@46.1
+Please,\ncan't this settle it...
+@47
+Insolent wretch!\nLeave now,\nor we'll drag you off!
+@48
+...W-well, all right.\nYou may pass.
+@49
+Right, I'll sneak in.
+@49.1
+Right, I'll sneak in.
+@50
+No choice; I'll have to sneak in...
+@50.1
+No choice; I'll have to sneak in...
+@51
+......Hm?\nI thought I heard something......\nMust be my imagination.
+@52
+(Good, I seem to have slipped in.)
+@52.1
+(Good, I seem to have slipped in.)
+@53
+Wait! What are you doing there?\nEveryone, seize this one!!
+@54
+Blast, I've been spotted.\nI'll run for it.
+@54.1
+Oh no, I've been spotted!\nI'll have to run for it...
+@55
+Now, where shall I go?
+@55.1
+Now, where shall I go?
+@56
+Oh, {02}{02}i, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@56.1
+Oh, {02}{02}i, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@56.2
+No one lives here.\nYou've no business here. Begone.
+@56.3
+No one lives here.\nYou've no business here. Begone.
+@56.4
+No one lives here.\nPlease take your leave.
+@56.5
+Oh, {02}{02}i, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@56.6
+Oh, {02}{02}i, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@56.7
+No one lives here.\nYou've no business here. Begone.
+@56.8
+No one lives here.\nYou've no business here. Begone.
+@56.9
+No one lives here.\nPlease take your leave.
+@56.10
+Oh, my lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@56.11
+Oh, old lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@56.12
+No one lives here.\nYou've no business here. Begone.
+@56.13
+No one lives here.\nYou've no business here. Begone.
+@56.14
+There's no one here.\nPlease take your leave.
+@57
+Hm?\n{01}C1{00} is out......
+@57.1
+Oh?\n{01}C1{00} seems to be out...
+@58
+Well, I've sneaked in,\nbut now what?
+@58.1
+Well, I've sneaked in,\nbut now what?
+@59
+Spend 3000 kan to carry out {02}yd?
+@59.1
+Spend 3000 kan to carry out\n{02}yd?
+@60
+Oh, Lord {02}{02}f!
+@60.1
+Oh, if it isn't {02}{02}f.
+@60.2
+Hm? Suspicious wretch!\nWho goes there!?
+@61
+Right, thanks for keeping watch.
+@61.1
+Thanks for keeping watch.
+@61.2
+I'm not suspicious.\nI am {02}{01}g.\nWould you let me through?
+@62
+Thank you for keeping watch.
+@62.1
+Thank you for keeping watch.
+@62.2
+I'm not suspicious.\nMy name is {02}{01}g.\nWould you let me through?
+@63
+What! {02}{02}g, you say!\n{02}{02}{EC} is our enemy.\nIf you value your life, leave at once.
+@63.1
+What! An agent of {02}{02}{EC}!\n{02}{02}{EC} is our enemy!\nIf you value your life, leave at once!
+@64
+Hmm.\nThey won't listen, it seems.\nI'll back off.
+@64.1
+Hmm...\nThey won't listen, it seems.\nI'll back off.
+@65
+...I know who you are.\nNo one from another village may enter.\nLeave at once.
+@65.1
+...By the way you move, a ninja.\nNo outsiders in our village.\nLeave at once.
+@66
+Hmm.\nThey won't let me in, of course.\n\n(No way in from the front.\n I'll go round where no one's looking...)
+@66.1
+Hmm...\nThey won't let me in, of course.\n\n(No way in from the front.\n I'll go round where no one's looking...)
+@67
+Right, you may pass.
+@67.1
+Hm...\nYou don't seem to be an intruder.\nVery well, you may pass.
+@68
+Oh! Lord {02}{02}f!\n...No, even Lord {02}{02}f is a rogue now!\nEveryone, come out!
+@68.1
+You, the rogue ninja {02}{02}g!\nTo show your face before us brazenly...\nEveryone, come out!
+@69
+Ugh, spotted.\n\n\n(No way in from the front.\n I'll go round where no one's looking...)
+@69.1
+Ugh, spotted.\n\n\n(No way in from the front.\n I'll go round where no one's looking...)
+@70
+Hm, who's there!
+@71
+Oh, Lord {02}{02}f!
+@71.1
+Hm, who's there!
+@72
+Thanks for keeping watch.\nIt's {02}{01}g.
+@72.1
+Quiet, it's me.\n{02}{01}g.
+@73
+Thank you for keeping watch.\nIt's {02}{01}g.
+@73.1
+It's me.\nThank you for your work.
+@74
+Yes, sir.\nPlease, go through.
+@74.1
+Oh, {02}{02}f.\nYou may pass.
+@75
+Right, thanks for keeping watch.
+@75.1
+Don't you know me?\nI'm {02}{01}g.
+@75.2
+Don't you know me?\nI'm {02}{01}g of {02}{01}{EC}.
+@76
+Thank you for keeping watch.
+@76.1
+Don't you know me?\nI'm {02}{01}g.
+@76.2
+Don't you know me?\nI'm {02}{01}g of {02}{01}{EC}.
+@77
+Yes, sir.\nPlease, go through.
+@77.1
+Oh, forgive my rudeness.\nPlease, go through.
+@77.2
+Oh, you're of {02}{02}{EC}?\nForgive my rudeness.\nPlease, go through.
+@78
+(...I've been found out.)
+@78.1
+(...I've been found out.)
+@79
+...Oh, you! You're {02}{02}g!\nEveryone, the enemy! Come out!
+@79.1
+...Oh, you! You're {02}{02}g!\nAn agent of {02}{02}{EC}!\nEveryone, the enemy! Come out!
+@80
+Hmm, {02}{0B}e's agents\nseem to have got here first.\n\n(No way in from the front...\n I'll go round where no one's looking...)
+@80.1
+Hmm, {02}{0B}e's agents\nseem to have got here first.\n\n(No way in from the front.\n I'll go round where no one's looking...)
+@81
+Right, thanks for keeping watch.
+@81.1
+I'm {02}{01}g of {02}{01}{EC}.
+@82
+Thank you for keeping watch.
+@82.1
+I'm {02}{01}g of {02}{01}{EC}.
+@83
+Lord {02}{02}f,\nwhat brings you here?
+@83.1
+Lord {02}{02}f,\nwhat brings you here?
+@83.2
+Oho... and what brings\nLord {02}{02}e to {02}{15}e?
+@84
+I've come to request a job.\nNothing more.
+@84.1
+I've come to request a job.\nNothing more.
+@85
+Yes, sir.\nPlease, go through.
+@85.1
+Yes, sir.\nPlease, go through.
+@85.2
+...I see, understood.\nThen you may pass.\nThe chief is at the manor.
+@86
+No, nothing in particular.\nI've just come back.
+@86.1
+No, nothing in particular.\nI've just come back.
+@86.2
+Nothing in particular.\nI just want to train in ninjutsu.
+@87
+No, nothing in particular.\nI've just come back.
+@87.1
+No, nothing in particular.\nI've just come back.
+@87.2
+Nothing in particular.\nI just want to train in ninjutsu.
+@88
+Yes, sir.\nPlease, go through.
+@88.1
+Yes, sir.\nPlease, go through.
+@88.2
+...We can't teach you our secret arts,\nbut you may train as you like.
+@89
+Right.
+@89.1
+Right.
+@89.2
+Oh, I'm grateful.\nThen I'll go through.
+@90
+Don't slacken your guard.
+@90.1
+Don't slacken your guard.
+@90.2
+Yes, thank you.\nThen I'll go through.
+@91
+Right, thanks for keeping watch.
+@91.1
+I'm no suspicious person.\nMy name is {02}{01}g.
+@92
+Thank you for keeping watch.
+@92.1
+I'm not suspicious.\nMy name is {02}{01}g.
+@93
+...What brings you to {02}{15}e?
+@94
+I'd like to train as a ninja.\nWon't you let me through?
+@94.1
+I've come to train as a ninja.\nWould you let me through?
+@95
+(They won't let an outsider\n into the village so easily...)
+@95.1
+(They won't let an outsider\n into the village so easily...)
+@96
+We can't let anyone of {02}{02}{EC}\ninto this village...\nLeave at once.
+@97
+{02}{0B}e, whom our band supports,\nis hostile to your power.\nWe can't let you through...
+@98
+You, {02}{02}g!\nTraitor, you won't escape!
+@99
+Ugh.\n(I can never enter this village again...)
+@99.1
+Ugh.\n(I can never enter this village again...)
+@100
+This village sent for me\nwith a job...
+@100.1
+This village sent for me\nwith a job...
+@101
+Yes, sir.\nPlease, go through.
+@101.1
+Yes, sir.\nPlease, go through.
+@101.2
+...I see, understood.\nWe're counting on you.
+@102
+You'll do repairs?\nResults take about 20 days.\nIs that all right?
+@103
+You don't have enough money.
+@104
+Results take about 20 days.\nIs that all right?
+@105
+I am {02}{01}g of {02}{01}{EC}.\nI've brought alms\nfrom {02}{01}{EC}.
+@105.1
+I'm {02}{01}g of {02}{01}{EC}.\nI've brought alms\nfrom {02}{01}{EC}.
+@106
+Ooh, how wonderful!\nThis'll make life much easier.
+@106.1
+Thank you.\nThis'll make life easier.
+@106.2
+It's kind of you, but...\nit seems a bit on the small side.
+@106.3
+Ugh...\nthis won't even ease our worries...
+@107
+Still, that Lord {02}{02}e\nis truly a fine person.\nWe can live in peace now.
+@107.1
+Still, that Lord {02}{02}e\nseems a fine person.\nWe can live in peace now.
+@107.2
+Still, that Lord {02}{02}e\nseems a little unreliable.\nCan we really live in peace...?
+@107.3
+Still, that Lord {02}{02}e\nis unreliable.\nCan we really live in peace...?
+@108
+...and that's how it is!\nAll of you, work in peace.
+@108.1
+...and that's how it is!\nAll of you, please work in peace.
+@108.2
+...and that's how it is, but\nd-did you understand?
+@108.3
+...and that's how it is, but\nd-did you understand?
+@109
+I see.\nIf Lord {02}{02}e says so,\nwe can rest easy.
+@109.1
+Hmm.\nI didn't really follow what you said.\nHonestly, I'm worried.
+@110
+The {02}yd of {02}{15}e\nrose by {02}od.
+@110.1
+The {02}yd of {02}{15}e\ndidn't rise.
+@111
+Help!\nB-bandits are here!
+@111.1
+S-someone, help!
+@111.2
+B-bandits!\nBandits have appeared!
+@112
+Hm, the east side of the castle.\nHurry!
+@112.1
+Screams from the west side of the castle.\nHurry!
+@112.2
+There they are!\nRight, the east side of the castle.
+@113
+S-samurai, please help us!\nB-bandits...
+@113.1
+Everyone, hide!\nThey're back again!!
+@113.2
+Th-there they are!\nBandits!
+@114
+What, now the south side!
+@114.1
+What, now the north side!
+@114.2
+The south side of the castle!
+@115
+Someone!\nSomeone, help!
+@115.1
+Eeek...\nThey're attacking again!!
+@115.2
+It's them!\nThey're back again!
+@116
+Ugh, more of them...\nNow the west side of the castle!
+@116.1
+Ugh, more of them...\nNow the east side of the castle!
+@116.2
+The west side of the castle...\nThat's the last of them!
+@117
+Phew, that seems to be most of them.
+@117.1
+They won't attack again now.
+@117.2
+Good, it's safe now.
+@118
+You saved us.\nThank you very much.
+@118.1
+As expected of a samurai.\nYou saved us.
+@118.2
+Thank you very much.\nA true samurai.
+@119
+Heh heh heh.\nYou're all talk!
+@120
+Where shall I go?
+@120.1
+Where shall I go?
+@121
+There's no one of note here.
+@121.1
+There's no one of note here.
+@125.1
+Oh no!\nI seem to have spent too much.\nWithout {02}o{C8}, I can't do the task.
+@126
+Now, what shall I do?
+@127
+Carry out {02}yd?
+@128
+{02}yd will take {02}od days.\nIs that all right?
+@132
+Hmm, with a result like this,\n{01}C8{00} may scold me...\n......Still, I must report.
+@132.1
+Hmm, not what I'd call a good result.\nStill, I must report to {01}C8{00}.
+@132.2
+Not a particularly good result.\nStill, I must report to {01}C8{00}.
+@132.3
+A fair result.\nI must report to {01}C8{00}.
+@132.4
+A very good result.\nI must report to {01}C8{00}.
+@133
+Hmm, with a result like this,\n{01}C8{00} may scold me...\nStill, I must report.
+@133.1
+Hmm, not a very good result.\nStill, I must report to {01}C8{00}.
+@133.2
+Not a particularly good result.\nStill, I must report to {01}C8{00}.
+@133.3
+A fair result.\nI'll report to {01}C8{00}.
+@133.4
+A very good result!\nI'll report to {01}C8{00}.
+@134
+Hmm, with a result like this,\n{01}C8{00} may scold me...\n......Still, I must report.
+@134.1
+Hmm, I still have far to go.\nStill, I must report to {01}C8{00}.
+@134.2
+Hmm, it's difficult.\nStill, I must report to {01}C8{00}.
+@134.3
+So close...\nI must report to {01}C8{00}.
+@134.4
+Good, that went well.\nI must report to {01}C8{00}.
+@135
+Hmm, with a result like this,\n{01}C8{00} may scold me...\nStill, I must report.
+@135.1
+Hmm, I still have far to go.\nStill, I must report to {01}C8{00}.
+@135.2
+Hmm, it's difficult.\nStill, I must report to {01}C8{00}.
+@135.3
+So close...\nI'll report to {01}C8{00}.
+@135.4
+Yes, that went well!\nI'll report to {01}C8{00}.
+@136
+Hmm, with a result like this,\nthe chief may scold me...\n......Still, I must report.
+@136.1
+Hmm, not what I'd call a good result.\nStill, I must report to the chief.
+@136.2
+Not a particularly good result.\nStill, I must report to the chief.
+@136.3
+A fair result.\nI must report to the chief.
+@136.4
+A very good result.\nThe chief will be pleased.\nI must report.
+@137
+Hmm, with a result like this,\nthe chief may scold me...\nStill, I must report.
+@137.1
+Hmm, not a very good result.\nStill, I must report to the chief.
+@137.2
+Not a particularly good result.\nStill, I must report to the chief.
+@137.3
+A fair result.\nI'll report to the chief.
+@137.4
+A very good result!\nThe chief will be pleased.\nI'll report at once.
+@138
+Hmm, with a result like this\nI can't be satisfied......
+@138.1
+Hmm......\nnot what I'd call a good result......
+@138.2
+Not a particularly good result......
+@138.3
+A fair result.\nIt was worth doing.
+@138.4
+A very good result.\nIt was well worth doing!
+@139
+Hmm, with a result like this\nI can't be satisfied...
+@139.1
+Hmm......\nnot a very good result...
+@139.2
+Not a particularly good result...
+@139.3
+A fair result.\nWell done, well done...
+@139.4
+A very good result!\nAs I'd expect of myself.
+@140.1
+The council is about to start.\nThis is no time for detours.
+@144
+What, is that so......\nUnderstood.
+@144.1
+Oh! ...Is that so.\nUnderstood.
+@146.1
+{02}{03}g\nis out right now.\nPlease come another day.
+@147
+Now, how shall I get in?
+@147.1
+Now, how shall I get in?
+@148
+You there, halt!\nWho goes there!?
+@155.1
+I'm {02}{01}g, a merchant of {02}{15}e\nwho runs {02}{83}{A3}.\nMay I have an audience with {02}{03}g?
+@156
+...Hm, that seems right.\nYou may pass.
+@157
+Forgive me.\nPlease, go through.
+@159
+(Now, how shall I get them to let me through?)
+@159.1
+(Now...\n how shall I get them to let me through?)
+@160.1
+No one from {02}{02}{EC} passes.\nBegone.
+@161
+Suspicious wretch!\nLeave at once!
+@162
+(......Blast!\n I have no money to give them.)
+@163
+Suspicious wretch!\nLeave now,\nor we'll drag you off!
+@164
+(No choice.\n I'll withdraw for now.)
+@166
+Insolent wretch!\nLeave now,\nor we'll drag you off!
+@167
+...W-well, all right.\nYou may pass.
+@168
+Right, I'll sneak in.
+@168.1
+Right, I'll sneak in.
+@169
+......Hm?\nI thought I heard something......\nMust be my imagination.
+@170
+(Good, I seem to have slipped in.)
+@170.1
+(Good, I seem to have slipped in.)
+@172
+Blast, I've been spotted.\nI'll run for it.
+@173.2
+No one lives here.\nYou've no business here. Begone.
+@174
+Hm?\n{01}C1{00} is out......
+@175
+Well, I've sneaked in,\nbut now what?
+@175.1
+Well, I've sneaked in,\nbut now what?
+@176
+Spend 3000 kan to carry out {02}yd?
+@176.1
+Spend 3000 kan to carry out\n{02}yd?
+@122
+There's no need for domestic work at this fort.\nEverything is at its maximum.
+@123
+There's no need for sabotage at this fort.\nEverything is already at its lowest.
+@124
+It costs 3000 kan.
+@125
+Blast!\nI seem to have spent too much.\nWithout {02}od kan, I can't do the task.
+@126.1
+Now, what shall I do?
+@129
+Used "{02}=e".
+@130
+This fort's defense\ncan't be raised any further.
+@131
+This fort's size\ncan't be raised any further.
+@140
+The council is about to start.\nThis is no time\nfor detours.
+@141
+My summons deadline is near.\nNo detours.
+@141.1
+My summons deadline is near.\nNo detours.
+@142
+Lord {02}{02}f,\nwe've been waiting for you.\nA message from the boss:\n"Due to unavoidable reasons I'm marching out;\n the summons is cancelled."\nThat's the message.
+@142.1
+Lord {02}{02}f,\nwe've been waiting for you.\nA message from the master:\n"Due to unavoidable reasons I'm marching out;\n the council is put off to next time."\nThat's the message.
+@143
+Lord {02}{02}f,\nwe've been waiting for you.\nA message from the boss:\n"Due to unavoidable reasons I'm going out;\n the summons is cancelled."\nThat's the message.
+@143.1
+Lord {02}{02}f,\nwe've been waiting for you.\nA message from the master:\n"Due to unavoidable reasons I'm going out;\n the council is put off to next time."\nThat's the message.
+@145
+Oh, master, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@145.1
+Oh, master, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@145.2
+{02}{03}g, who rules this fort,\nis in {02}{15}e.\nThere's no need for you here. Begone.
+@145.3
+{02}{03}g, who rules this fort,\nis in {02}{15}e.\nPlease take your leave.
+@145.4
+{02}{03}g, who rules this fort,\nis in {02}{15}e.\nPlease take your leave.
+@146
+Oh, master, welcome.\n{02}{03}g\nis out right now.
+@149
+I am {02}{01}g.\nI've come with a letter of introduction\nfrom Lord {02}{03}g, your master.
+@149.1
+I'm {02}{01}g of {02}{01}{EC}.\nI have a letter from\nLord {02}{03}g, your master.
+@150
+My name is {02}{01}g.\nI've brought a letter of introduction\nfrom {01}C{AE}{01}, {01}C{98}{01}.
+@150.1
+I'm {02}{01}g\nof {02}{01}{EC}.\nI've brought a letter from {01}C{AE}{01}, {01}C{98}{01}.
+@151
+This is indeed...\nVery well. Please, go through.
+@152
+I am {02}{01}g.\nI wish to see Lord {02}{03}g,\nyour master.
+@152.1
+I am {02}{01}g of {02}{01}{EC}.\nI wish to see Lord {02}{03}g,\nyour master.
+@153
+My name is {02}{01}g.\nMay I have an audience with\n{02}{03}g, your master?
+@153.1
+I'm {02}{01}g of {02}{01}{EC}.\nMay I have an audience with\n{02}{03}g, your master?
+@154
+I am {02}{01}g.\nI've come at the guild's request.\nI wish to see Lord {02}{03}g, your master.
+@154.1
+I'm {02}{01}g, here at the guild's request.\nMay I have an audience with\n{02}{03}g, your master?
+@155
+I am {02}{01}g, a merchant of {02}{15}e\nwho runs {02}{83}{A3}.\nI wish to see {02}{03}g.
+@158
+Why, Lord {02}{02}f.\nThe master told us of you.\nPlease, go through.
+@160
+What's a mere ronin saying?\nGo home, go home!
+@162.1
+(......Oh no!\n I have no money to give them.)
+@164.1
+(No choice.\n I'll withdraw for now.)
+@165
+Come now, let this settle it.
+@165.1
+Come now,\nwon't this settle it?
+@171
+Wait! You, suspicious one!\nCome out, seize the intruder!!
+@173
+Oh, master, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@173.1
+Oh, master, welcome.\nAs you see, we're\nhard at our guard duty every day.
+@177
+Master! Thank goodness you're safe.\nIt's an emergency; come to the fort lord's room!
+@178
+Chief! Thank goodness you're safe.\nIt's an emergency; come to the fort lord's room!
+@179
+{01}C1{00}! Thank goodness you're safe.\nIt's an emergency; come to the fort lord's room!
+@180
+Used "{02}=e".
+@181
+Couldn't raise\nthe {02}yd of {02}{15}e.
+@181.1
+The {02}yd of {02}{15}e\nrose by {02}od.
+@182
+Couldn't raise\nthe {02}yd of {02}{15}e.
+@182.1
+The {02}yd of {02}{15}e\nrose by {02}od,000 koku.
+@183
+Expanded {02}{15}e.
+@183.1
+Failed to expand {02}{15}e.
+@184
+Couldn't lower\nthe {02}yd of {02}{15}e.
+@184.1
+Lowered the {02}yd\nof {02}{15}e by {02}od.
+@185
+The officers of {02}{15}e, too,\nseem to have grown suspicious of one another.
+@186
+Couldn't burn\nthe goods of {02}{15}e.
+@186.1
+Burned {02}od tenths\nof the goods of {02}{15}e.
+@186.2
+Burned {02}pd tenths\nof the goods of {02}{15}e.
+@186.3
+Burned {02}pd.{02}od tenths\nof the goods of {02}{15}e.
+@187
+View the game's explanation?
+@188
+Then let's see {01}C1{00}'s skill.\nBegin at once.
+@189
+My lord! Thank goodness you're safe.\nIt's an emergency; come to the council room!
+@190
+Old lord! Thank goodness you're safe.\nIt's an emergency; come to the council room!
+@191
+{01}C1{00}! Thank goodness you're safe.\nIt's an emergency; come to the council room!
+@192
+A request for reinforcements has come.\nPlease come to the council room!
+@192.1
+A request for reinforcements has come.\nPlease come to the council room!
+@192.2
+A request for reinforcements has come.\nPlease come to the council room!
+@193
+A request for reinforcements has come.\nPlease come to the council room!
+@193.1
+A request for reinforcements has come.\nPlease come to the council room!
+@193.2
+A request for reinforcements has come.\nPlease come to the council room!
+@195
+I am {02}{01}g.\nI've brought a letter of introduction\nfrom {01}CB?, {01}C{98}{01}.
+@195.1
+I am {02}{01}g\nof {02}{01}{EC}.\nI've brought a letter from {01}CB?, {01}C{98}{01}.
+@196
+My name is {02}{01}g.\nI've brought a letter of introduction\nfrom {01}CB?, {01}C{98}{01}.
+@196.1
+I'm {02}{01}g\nof {02}{01}{EC}.\nI've brought a letter from {01}CB?, {01}C{98}{01}.
+@197
+This is indeed...\nVery well.\nPlease, go through.
+@198
+I'll wait here till {01}CG?'s\nbusiness is done.\nBut when the time's up, I'm off home.
+@199
+mister
+@199.1
+you
+@200
+My escort isn't over yet.\nI'll wait here,\nso finish your business quickly.
+@201
+Don't you know my face?\nI am {02}{01}g,\nmartial arts instructor of {02}{0B}e.
+@201.1
+Don't you know me?\nI'm {02}{01}g, who serves as\nmartial arts instructor of {02}{0B}e.
+@202
+Put down the mountain bandits?
+@203
+Searched for bandits around {02}{15}e\n......and then!
+@204
+What!? You've come to put us down?\nWe'll put you down instead!\nBoys! Finish this one off!
+@205
+Too easy...\nBoys, strip them of everything!
+@206
+(Damn, where's my bodyguard!?\n ......They ran off and left me!)
+@206.1
+(Oh, where's my bodyguard?\n ...They ran off and left me!)
+@207
+The bodyguard is gone.
+@208
+Eeek, we can't beat this one!\nBoys, run for it!
+@209
+Put down the bandits around {02}{15}e.
+@210
+Good, all the bandits\nin this province are dealt with.\nBack to the tavern to report to the landlady.
+@210.1
+Good, all the bandits\nin this province are dealt with.\nI must go back and report to the landlady...
+@211
+Ooh, {01}CG?'s got guts!
+@212
+Hey, you've got no money, have you?\nMaking fools of us...\nBoys, finish this one off!
+@213
+What's that?\nYou'll pay us to go elsewhere?\nWell, give us {02}o{C8} and we'll think about it.
+@214
+(Hmm, I don't even have {02}o{C8}.)
+@214.1
+(Hmm, I don't even have {02}o{C8}.)
+@215
+Hey, you never meant to pay, did you?\nMaking fools of us...\nBoys, finish this one off!
+@216
+Pay the bandits {02}o{C8}?
+@217
+Oh, you'll really give it?\nAll right, we'll clear out.
+@218
+Drove off the bandits around {02}{15}e.
+@219
+No more work can be done in this castle.\nEverything is at its lowest.
+@220
+It needs 3000 kan in hand.
+@221
+This {02}yd's {02}zd can't be lowered further.
+@222
+We're allied with this {02}yd's power.\nWe can't work against it.
+@223
+No more work can be done in this fort.\nEverything is at its lowest.
+@224
+No more work can be done in this village.\nEverything is at its lowest.
+@225
+We're allied with this {02}yd's power.\nWe can't sabotage it.
+@226
+{01}C8{00} is busy\nand can't see you.
+@227
+...I see, a pity.\nThen I'll take my leave.
+@227.1
+...I see, what a pity.\nThen I'll take my leave.
+@228
+(It seems {01}C1{00}\n is inside.\n Is there any way to meet them...)
+@228.1
+(It seems {01}C1{00}\n is inside...\n Is there any way to meet them...)
+@229
+Oh, so you are\n{01}C1{00}, the {02}=e...\nForgive me, please go through.
+@230
+Oh, so you are\nthe famous {01}C1{00}...\nForgive me, please go through.
+@231
+Hmph, so you're\nthe one famed as {02}=e...\nYour kind doesn't pass. Go home!
+@232
+Hmph, so you're\nthe infamous {01}C1{00}!\nI can't let you through. Go home!
+@233
+Hey, by {02}{03}e's sudden order\nthe watch has changed.\nGo on, leave the rest to me!
+@233.1
+Hey, by {02}{03}e's sudden order\nthe watch has changed.\nGo on, leave the rest to me!
+@234
+Hmph, I know that face.\nYou're {01}C1{00}, the {02}=e.\nWho'd be fooled by that? Begone!
+@235
+(That won't work...\n Being called {02}=e\n is a nuisance at times like this...)
+@235.1
+(That won't work...\n Being called {02}=e\n is a nuisance at times like this...)
+@236
+Hmph, I know that face.\nYou're the famous {01}C1{00}...\nWho'd be fooled by that? Begone!
+@237
+(That won't work...\n Being known across the land\n is a nuisance at times...)
+@237.1
+(That won't work...\n Being known across the land\n is a nuisance at times...)
+@238
+Hmph, I've seen that face on a wanted notice.\nYou're {01}C1{00}, the {02}=e.\nHow rude to try to trick me. Begone!
+@239
+(That won't work...\n Called {02}=e the moment they see me...\n I'm truly hated.)
+@239.1
+(That won't work...\n Called {02}=e the moment they see me...\n I'm truly hated.)
+@240
+Hmph, I've seen that face on a wanted notice.\nYou're the infamous {01}C1{00}!\nWhat an obvious lie. Begone!
+@241
+(That won't work...\n Everyone knows my face...\n Ill deeds really do travel far.)
+@241.1
+(That won't work...\n Everyone knows my face...\n Ill deeds really do travel far.)
+@242
+(Hmm, I'm not good enough to bluff my way in...\n I'll back off.)
+@242.1
+(Hmm, I'm not good enough to bluff my way in...\n I'll back off.)
+@243
+{01}C8{00} is busy\nand wouldn't give such an order.\nIs what you say really true?
+@244
+(Hmm, this looks bad.\n I'll back off.)
+@244.1
+(Hmm, this looks bad.\n I'll back off.)
+@245
+Never seen your face...\nAnd you're dressed oddly. New, are you?\nThanks for taking over; it's all yours.
+@246
+(Heh heh, fooled without knowing it...\n I'll slip in quickly\n before they notice.)
+@246.1
+(Ufufu, fooled without knowing it...\n I'll slip in quickly\n before they notice.)
+@247
+Giving me that is no use.\n{01}C8{00} is busy\nand can't see you.
+@248
+(Time for my last resort...\n I didn't want to do this, but\n I'll pass as a woman.)
+@248.1
+(Hmm, maybe my womanly charms\n will get me through...\n Oh well, nothing to lose; let's try.)
+@249
+You there, woman, halt!\nWhat a big woman...\nYou can't pass here. Begone!
+@249.1
+You there, woman, halt!\nSuspicious woman, you can't pass here.\nBegone!
+@250
+Oh my, big brother, what a fine man...\nA handsome man shouldn't say such things.\nPlease, let me through.
+@250.1
+Oh, big brother... what a fine man...\nA handsome man wouldn't say that.\nCome on, let me through... pretty please.
+@250.2
+Oh, sonny... what a fine man.\nHandsome boys mustn't say that.\nCome on, let me through... pretty please.
+@251
+*rub rub*...
+@251.1
+*smooch*
+@252
+Ugh, creepy! You're a man!\nI'm not pleased to be rubbed by a man.\nBegone!
+@252.1
+Ugh, creepy!\nAnd that's meant to seduce me?\nGo look in a mirror.
+@253
+(Ugh, goosebumps all over...\n I feel creepy too.\n I shouldn't have done it...)
+@253.1
+(How rude...\n Not seeing my charms?\n His eyes must be rotten.)
+@254
+I'm flattered, but...\n{01}C8{00} is busy\nand can't see you.
+@255
+Ooh, praise from a pretty woman\nmakes me blush...\nKeep it quiet, now; go on through.
+@256
+(Oh, my last resort worked.\n Now to change back...)
+@256.1
+(Oh my, it actually worked.\n Worth a try after all.)
+@257
+...Hmm, I got in fine, but\n{01}C1{00} is never alone...\nNo choice; I'll come back another time.
+@257.1
+...Hmm, I got in fine, but\n{01}C1{00} is never alone...\nNo choice; I'll come back another time.
+@258
+What do you want?\nWhat business have you with us?
+@259
+Open a stall\nand carry out the peddling mission?
+@260
+You'll open a stall for 10 days.\nIs that all right?
+@261
+At what price will you sell each {02}yd?
+@262
+On second thought, I won't open a stall.
+@262.1
+On second thought, I won't open a stall...
+@263
+No {02}yd sold.
+@263.1
+Sold {02}od {02}yd.
+@264
+Did I set the price too high...
+@264.1
+Maybe I set the price too high...
+@265
+{02}yd has its main shop in this town,\nso sales like this\ncan't be helped...
+@265.1
+{02}yd has its main shop in this town,\nso sales like this can't be helped...
+@266
+Good, sales went better than expected.\nOpening a stall in this town was right.
+@266.1
+Good, sales went better than expected.\nOpening a stall in this town was right.
+@267
+Sales went better than expected.\nThe advertising seems to be working.
+@267.1
+Sales went better than expected.\nThe advertising seems to be working.
+@268
+A fair result, I'd say.\n{02}yd is merchant chief around here,\nso trading was easy.
+@268.1
+A fair result, I'd say.\n{02}yd is merchant chief around here,\nso trading was easy.
+@269
+Well, about as expected.
+@269.1
+Hm, about as expected.
+@270
+We made it to the town somehow,\nbut we're past the agreed date......\nI'll be reducing your fee.
+@271
+Thanks to you, we've arrived\nsafely in {02}{15}e.\nCollect your reward from the tavern landlady.
+@272
+I'm grateful you came so far.\nLet's get started.
+@273
+Well, well, you...\nThe youngster from the other day?
+@274
+Thanks for the other day.\nThis time we've brought numbers.\nNow, let's settle this.
+@275
+Hahaha.\nCan a page who's never seen war cut anyone?\nOh well, let's give you a workout...
+@276
+C-curses...\nTo fall behind the likes of these...
+@277
+Hey, hey, finished already?\nIf you're weak, don't offer to help.\nRun back to the tavern.
+@278
+W-w-we give up!\nWe were in the wrong.\nPlease, forgive us!
+@279
+Thanks to you, I've saved face as a samurai.\nCollect your reward from the tavern landlady.
+@280
+The council is about to start.\nI've no time\nfor detours.
+@280.1
+The council is about to start.\nI don't seem to have time\nfor detours.
+@281
+My summons deadline is near.\nNo detours.
+@281.1
+My summons deadline is near.\nNo detours.
+@282
+Bad, the council's over...\nThis is no time\nfor detours.
+@282.1
+Oh dear, the council's over...\nThis is no time\nfor detours.
+@283
+Bad, my summons deadline has passed...\nThis is no time\nfor detours.
+@283.1
+Oh dear,\nmy summons deadline has passed...\nThis is no time for detours.
+@284
+There don't seem to be\nany notable merchant houses.
+@284.1
+There don't seem to be\nany notable merchant houses.
+@285
+{02}Ge became popular in {02}{15}e.
+@286
+Business in {02}{15}e is done.\nReturn to Japan?
+@287
+(Hm? Is that someone collapsed?)
+@287.1
+(Oh? Is that someone collapsed?)
+@288
+Y-you there, samurai...\nI've had nothing to eat or drink for 3 days...\nWon't you give me some water?
+@289
+Sorry, I'm busy.\nAsk someone else.
+@289.1
+Sorry, I'm busy.\nAsk someone else.
+@290
+N-no...\nHave you no heart...\nUgh, it's over...
+@291
+Why, this is serious...\nHere, drink this water.
+@291.1
+Oh dear...\nHere, drink this water.
+@292
+*gulp gulp*...\n\n\nPhew, I'm alive again.\nThank you.\n\nAh... could you be...\nthe famous {01}C1{00}?\nTruly as fine as they say...
+@293
+*gulp gulp*...\n\n\nPhew, I'm alive again.\nI'd like to thank you.\nPlease, come this way...
+@294
+No one will see us here.\nNow, let me give you\nmy thanks.
+@295
+...Heh, you fell for it, {01}C1{00}.\nNot seeing through such a disguise; laughable...\nYour life is mine!
+@296
+...Whoa, not so fast.
+@297
+(This is bad...\n They're terribly weak.\n ......I know, I'll give them medicine.)
+@297.1
+(Oh no...\n They're terribly weak.\n ......I know, I'll give them medicine.)
+@298
+(Not bad enough for medicine.\n I'll give them water quickly.)
+@298.1
+(Not bad enough for medicine...\n I'll give them water quickly.)
+@299
+Here, take this medicine\nwith the water.
+@299.1
+Here, take this medicine\nwith the water.
+@300
+*gulp*...\n\n\n*cough cough*... Awful!\nGiving that to a weak person...\n\nAh... could you be...\nthe famous {01}C1{00}!?\nNothing like they say... Eeek!
+@301
+(Hmm... did I get it wrong?)
+@301.1
+(Oh... did I get it wrong?)
+@302
+*gulp*\n\n\n*cough cough*, what is this?\nY-you tricked me!?
+@303
+...As expected, {01}C1{00},\nyou saw through my disguise.\nThen you're ready... your life is mine!
+@304
+*gulp*...\n\n\nOh, my strength is back.\nThank you.\n\nWhy, could you be...\nthe famous {01}C1{00}?\nI'm overjoyed.
+@305
+*gulp*...\n\n\nOh... my strength is back.\nThank you.\n\nI'd like to thank you.\nPlease, come this way.
+@306
+No one will see us here.\nNow, let me give you\nmy thanks.
+@307
+...Heh, you fell for it, {01}C1{00}.\nNot seeing through such a disguise; laughable...\nYour life is mine!
+@308
+*shiver*... I'm so cold I can't move...\nYou there, samurai,\nwon't you rub my body?
+@309
+N-no...\nHow cruel...\nUgh... it's over...
+@310
+Hold on!\nLeave it to me.\nIs it here I should rub?
+@310.1
+Hold on!\nLeave it to me.\nHere, should I rub?
+@311
+...More {01}C{C3}?...\n\n\n...Ah, that's better.\nThank you.\n\nAh... could you be...\nthe famous {01}C1{00}!?\nJust as lovely as they say... (blush)
+@312
+...More {01}C{C3}?...\n\n\n...Ah, that's better.\nThank you.\n\nLet me do something nice to thank you.\nPeople will see us here; this way...
+@313
+Mmm, no one will see us here.\nPlease... it's embarrassing...\nCome closer...
+@314
+...Did you think I'd say that?\nHeh, you fell for it, {01}C1{00}.\nNot seeing through such a disguise; laughable...\nYour life is mine!
+@315
+(This is bad...\n Cold as ice...\n ......I know, I'll give them medicine.)
+@315.1
+(Oh no...\n Cold as ice...\n ......I know, I'll give them medicine.)
+@316
+(Not bad enough for medicine.\n Rather, I'll rub them\n quickly.)
+@316.1
+(Not bad enough for medicine.\n Rather, I'll rub them\n quickly.)
+@317
+Here, take this medicine.
+@317.1
+Here, take this medicine.
+@318
+*gulp*...\n\n\nUgh... what is this?\nWhat are you making me drink!?\n\nWhy, could you be...\nthe famous {01}C1{00}?\nNothing like they say... Eeek!
+@319
+*gulp*...\n\n\n*cough cough*, what is this!\nY-you tricked me!?
+@320
+...As expected, {01}C1{00},\nyou saw through my disguise...\nThen you're ready, aren't you? Your life is mine!
+@321
+*gulp*...\nAh... I'm warming up.\nThank you.\nAh... could you be...\nthe famous {01}C1{00}!?\nJust as wonderful as they say... (blush)
+@322
+*gulp*...\n\n\nAh... I'm warming up. Thank you.\nLet me do something nice for you.\nNot here, people will see; this way...
+@323
+up
+@323.1
+down
+@323.2
+right
+@323.3
+left
+@323.4
+harder
+@323.5
+gently
+@324
+Mmm, no one will see us here.\nPlease... it's embarrassing...\nCome closer...
+@325
+...Did you think I'd say that?\nHeh, you fell for it, {01}C1{00}.\nNot seeing through such a disguise; laughable...\nYour life is mine!
+@326
+Remember this!\nNo one who shamed me\nhas lived long!
+@326.1
+Remember this!\nNo one who shamed me\nhas lived long!
+@327
+Heh, next time you're born,\ndon't fall for a cheap act...\nFarewell... hmph!
+@327.1
+Ufufu, next time you're born,\nwatch out for fine women like me.\nGoodbye... hyah!
+@328
+Why, {01}C1{00}.\nFor {02}{02}{EC} to prosper\nwe work hard at trade every day.
+@329
+Why, {01}C1{00}.\n{01}C8{00}, who manages this shop,\nis at the {02}{15}e shop.
+@333
+Oh, is there something\nyou'd like of me as my student?
+@333.1
+Master, is there something special?
+@333.2
+Master, is there something special?
+@334
+Hm?\nWhat do you want of me, your master?
+@334.1
+Oh?\nIs there something you need of your master?
+@334.2
+Yes?\nWhat do you want of me, your master?
+@335
+Hm?\nWhat is it?
+@335.1
+Oh?\nWhat is it?
+@335.2
+Yes?\nWhat is it?
+@336
+your master
+@337
+your master
+@339
+What? You'd leave {01}C{D0}?\nto train under me?
+@339.1
+What? You'd leave {01}C{D0}?\nto train under me?
+@339.2
+What did you say?\nYou'd leave {01}C{D0}?\nto train under me?
+@341
+What? You'd leave {01}C{D0}?,\neven giving up your post as instructor,\nto train under me?
+@341.1
+What? You'd leave {01}C{D0}?,\neven giving up your post as instructor,\nto train under me?
+@341.2
+Eh? You'd leave {01}C{D0}?,\neven giving up your post as instructor,\nto train under me?
+@343
+You'd train under me\nin place of {01}C{D1}?, now gone?
+@343.1
+You'd train under me\nin place of {01}C{D1}?, now gone?
+@343.2
+You'd train under me\nin place of {01}C{D1}?, now gone?
+@345
+You'd train under me in place\nof {01}C{D1}?, now gone,\neven giving up your post as instructor?
+@345.1
+You'd train under me in place\nof {01}C{D1}?, now gone,\neven giving up your post as instructor?
+@345.2
+You'd train under me in place\nof {01}C{D1}?, now gone,\neven giving up your post as instructor?
+@347
+What? You want to join\nmy {02}yd?
+@347.1
+What? You want to join\nmy {02}yd?
+@347.2
+Eh? You want to join\nmy {02}yd?
+@349
+What?\nYou'd give up your post as instructor of {02}yd\nto join my {02}zd?
+@349.1
+What?\nYou'd give up your post as instructor of {02}yd\nto join my {02}zd?
+@349.2
+Eh?\nYou'd give up your post as instructor of {02}yd\nto join my {02}zd?
+@351
+You want to join {02}yd?\nAnd as my student,\nnot the head of the school's?
+@351.1
+You want to join {02}yd?\nAnd as my student,\nnot the head's?
+@351.2
+You want to join {02}yd?\nAnd as my student,\nnot the head's?
+@353
+What? You'd give up your post in {02}yd\nto join {02}zd?\nAnd as my student, not the head's?
+@353.1
+What? You'd give up your post in {02}yd\nto join {02}zd?\nAnd as my student, not the head's?
+@353.2
+Eh? You'd give up your post in {02}yd\nto join {02}zd?\nAnd as my student, not the head's?
+@355
+You seem to have doubts...\nYou'd be wise to give it up.
+@355.1
+I see doubt in your heart...\nIt would be wise to give it up.
+@355.2
+I see doubt in your heart.\nIt would be wise to give it up.
+@357
+Your spirit is good, but...\nsorry, I can't take as a student\nsomeone I don't know well.
+@357.1
+I understand, but...\nI'm sorry, I can't take as a student\nsomeone I don't know well.
+@357.2
+I understand, but...\nI'm sorry, I can't take as a student\nsomeone I don't know well.
+@359
+If you become my student,\nyou can't get a license\nfrom {01}C{D0}?. Is that all right?
+@359.1
+If you become my student,\nyou can't get a license\nfrom {01}C{D0}?. Do you mind?
+@359.2
+If you become my student,\nyou can't get a license\nfrom {01}C{D0}?. Is that all right?
+@361
+Understood. From now on\nI'll take the place of the late {01}C{AE}{01}.\n\nI'll be the one granting your license. All right?
+@361.1
+Understood. From now on\nI'll take the place of the late {01}C{AE}{01}.\n\nI'll be the one granting your license.\nIs that all right?
+@363
+Right, you'll do.\nFrom now on you'll call yourself\nof my {02}yd. All right?
+@363.1
+You'll do.\nFrom now on you'll call yourself\nof my {02}yd. Do you mind?
+@363.2
+You'll do.\nFrom now on you'll call yourself\nof my {02}yd. All right?
+@365
+Right, you'll do.\nFrom now on you'll call yourself\nof {02}yd.
+@365.1
+You'll do.\nFrom now on you'll call yourself\nof my {02}yd.
+@365.2
+You'll do.\nFrom now on you'll call yourself\nof {02}yd. All right?
+@367
+You'll no longer be able to learn the secrets\nof {02}yd, your present school. Truly all right?
+@367.1
+You'll no longer be able to learn\nthe secrets of {02}yd, your present school.\nIs that truly all right?
+@367.2
+You'll no longer be able to learn\nthe secrets of {02}yd, your present school.\nIs that still all right?
+@369
+Hm, you seem to have doubts...\nCome again when you've decided.
+@369.1
+Hm, I see doubt in your heart...\nPlease come again when you've decided.
+@369.2
+Oh... you seem to have doubts.\nPlease come again when you've decided.
+@371
+Right, from now on I formally\naccept you into my {02}yd.\nTrain hard and live up to the name.
+@371.1
+Then from now on I formally\naccept you into my {02}yd.\nPlease train hard and live up to the name.
+@371.2
+Then I'll formally accept you\ninto my {02}yd.\nPlease work hard and live up to the name.
+@372
+Became a student of {02}{03}g of {02}yd.
+@374
+What! You'd grant me\na {02}yd license?
+@374.1
+What! You'd grant me\na {02}yd license?
+@374.2
+Oh! You'd grant me\na {02}yd license?
+@376
+So I'm not yet worthy of a license......
+@376.1
+So I'm not yet worthy of a license...
+@376.2
+So I'm not yet worthy\nof receiving a license...
+@378
+I'm deeply honoured!\nFor you, I'll lend\nmy strength any time.
+@378.1
+I'm deeply honoured!\nFor you, I'll lend\nmy strength any time.
+@378.2
+Thank you.\nFor you, I'll lend\nmy strength any time.
+@380
+(...I already have enough instructors.\n To take on {01}C1{00},\n I'd have to let someone go...)
+@380.1
+(...I already have enough instructors.\n To take on {01}C1{00},\n I'd have to let someone go...)
+@382
+(If I take on {01}C1{00}\n as an instructor,\n my dojo's books...)
+@382.1
+(If I take on {01}C1{00}\n as an instructor,\n my dojo's books...)
+@384
+(Blast, even if I hire {01}C1{00},\n I can't pay the stipend...)
+@384.1
+(Hmm, even if I hire {01}C1{00},\n I can't pay the stipend...)
+@386
+(Mm, the books still have room.\n No problem taking them on as instructor. Good!)
+@386.1
+(The books still have room.\n I can take them on as instructor!)
+@388
+{01}C1{00}...\nwould you become an instructor at my dojo?
+@388.1
+{01}C1{00}...\nwould you become an instructor at my dojo?
+@388.2
+{01}C1{00},\nwould you help at my dojo\nas an instructor?
+@390
+What, you'd take\nsomeone like me on?
+@390.1
+What, you'd take\nsomeone like me on?
+@390.2
+Oh! You'd take\nsomeone like me on?
+@392
+It would be such a waste\nto leave a talent like you idle...\nI'd be glad if you would.
+@392.1
+It would be such a waste\nto leave someone so skilled idle...\nI'd be glad if you would.
+@392.2
+I can't leave\na talent like you alone.\nPlease, I ask you.
+@394
+I'm deeply honoured.\nI'll put my strength\nto use for {02}yd.
+@394.1
+I'm most grateful.\nI'll put my strength\nto use for {02}yd.
+@394.2
+I'm so happy.\nI'll put my strength\nto use for {02}yd.
+@396
+Oh! Thank you.\nWith a student like you,\nI'm a lucky one.
+@396.1
+Oh! I'm grateful.\nWith a student like you,\nI'm a lucky one.
+@396.2
+Well said!\nWith a student like you,\nI'm a lucky one.
+@398
+Then I'll get ready to leave at once.
+@398.1
+Then I'll get ready to leave at once.
+@398.2
+Then I'll get ready to leave at once.
+@400
+You want me to step down\nas instructor?
+@400.1
+You want me to step down\nas instructor?
+@400.2
+You want me to step down\nas instructor?
+@402
+Stop teasing me.\nMy teacher or not, don't joke.
+@402.1
+Please stop teasing.\nMaster, you're wicked.
+@402.2
+Please don't joke.\nMaster, you're so wicked.
+@404
+...Very well.\nI'll go back to being a ronin and train harder.
+@404.1
+...Understood.\nI'll go back to being a ronin and train harder.
+@404.2
+...Understood.\nI'll go back to being a simple swordsman\nand train.
+@406
+I'm grateful.\nThank you for all your work.
+@406.1
+I'm grateful.\nI've put you to a lot of trouble...
+@406.2
+...Please don't think badly of me.\nThank you for all your work.
+@408
+I'll be in this town a while,\nso call me if you need me.\nThen I'll take my leave...
+@408.1
+I'll be in this town a while,\nso call me if you need me.\nThen I'll take my leave...
+@408.2
+I'll be in this town a while,\nso call on me if you need me.\nThen I'll take my leave...
+@410
+Sorry to my student, but\nin my state I can't pass on my secrets.\nWait till I'm better.
+@410.1
+I'm ashamed before you, my student, but\nin my state I can't pass on my secrets.\nPlease wait till I'm better.
+@410.2
+*cough, cough*... I'm sorry.\nIn my state I can't pass on my secrets.\nPlease wait till I'm better.
+@412
+Sorry, but\nI'm not well enough to teach secrets now.\nWhen I'm better, I'll take you on.
+@412.1
+*cough, cough*\nI'm not well enough to teach secrets now.\nPlease wait till I'm better.
+@412.2
+*cough, cough*......\nI'm not well enough to teach secrets now.\nWhen I'm better, I'll take you on.
+@414
+*cough, cough*, sorry,\nI can't even use my secret arts now...\nWhen I'm better, I'll take you on.
+@414.1
+*cough, cough*, I'm very sorry,\nI can't even use my secret arts now...\nWhen I'm better, I'll take you on.
+@414.2
+*cough, cough*...... I'm sorry,\nI can't even use my secret arts now.\nWhen I'm better, I'll take you on.
+@416
+My student or not,\nin that state I can't teach you my secrets.\nGet yourself well.
+@416.1
+My student or not,\nin that state I can't teach you my secrets.\nPlease get yourself well.
+@416.2
+My student or not,\nin that state I can't teach you secrets.\nFirst, get yourself well.
+@418
+Even for you,\nin that state I can't teach my secrets.\nGet yourself well.
+@418.1
+In such a state, I can't\nteach you my secrets.\nPlease get yourself well.
+@418.2
+In such a state, I can't\nteach you any secrets.\nPlease get yourself well.
+@420
+In that state I can't teach my secrets.\nGet yourself well.
+@420.1
+In such a state\nI can't teach you my secrets.\nPlease get yourself well.
+@420.2
+In such a state\nI can't teach you any secrets.\nFirst, get yourself well.
+@422
+Forgetting our school's weapon? What's this?\nMy weapon is the {02}yd.\nCome back equipped with a {02}yd.
+@422.1
+Have you forgotten our school's weapon?\nMy weapon is the {02}yd.\nPlease equip a {02}yd.
+@422.2
+Have you forgotten our school's weapon?\nMy weapon is the {02}yd.\nFirst, prepare a {02}yd.
+@424
+Forgotten your student's weapon?\nMy weapon is the {02}yd.\nGo and equip a {02}yd.
+@424.1
+Master, my weapon\nis the {02}yd.\nPlease go and equip a {02}yd.
+@424.2
+Master, I use\nthe {02}yd as my weapon.\nFirst, prepare a {02}yd...
+@426
+My weapon is the {02}yd.\nCome back equipped with a {02}yd.
+@426.1
+My weapon is the {02}yd.\nPlease equip a {02}yd.
+@426.2
+My weapon is the {02}yd.\nFirst, prepare a {02}yd...
+@428
+You want a {02}yd license?
+@428.1
+You want me to grant\na {02}yd license?
+@428.2
+You want me to grant\na {02}yd license?
+@430
+You want me, your teacher,\nto teach you a secret art?
+@430.1
+You want to learn a secret art from me, your teacher?
+@430.2
+You want to learn\na secret art from me, your teacher?
+@432
+Hm, you want to learn\nthe secret art of me, your student?
+@432.1
+What... you want to learn\nthe secret art of me, your student?
+@432.2
+Eh?\nYou want to learn\nthe secret art of me, your student?
+@434
+You, no longer of my {02}yd,\nwant me to teach you a secret art?
+@434.1
+You, no longer of my {02}yd,\nwant to learn my secret art?
+@434.2
+You, no longer even of {02}yd,\nwant to learn my secret art...\nIs that what you're saying?
+@436
+You want me to teach you a secret art?
+@436.1
+You want to learn my secret art?
+@436.2
+You want to learn\nmy secret art?
+@438
+Oh... another time, then?
+@438.1
+Hmm... another time, then?
+@438.2
+Another time, then?
+@440
+If you want a license,\ntry beating me, your teacher.
+@440.1
+If you desire a license,\nplease defeat me, your teacher.
+@440.2
+If you want a license,\ntry beating me, your teacher.
+@442
+If you want to learn my secrets,\ntry beating me, your teacher.
+@442.1
+If you wish to learn my secrets,\nplease defeat me, your teacher.
+@442.2
+If you want to learn the secrets,\ntry beating me, your teacher.
+@444
+Even for you,\nI can't teach my secrets so easily.\nTry beating me.
+@444.1
+Even for you,\nI can't teach my secrets so easily.\nPlease defeat me.
+@444.2
+Even for you, Master,\nI can't teach my secrets so easily.\nLet's have a bout!
+@446
+Heh heh...\nCan you, who abandoned {02}yd,\nbeat me as I am now?
+@446.1
+Heh heh...\nCan you, who abandoned {02}yd,\nbeat me as I am now?
+@446.2
+Ufufu...\nCan you, who abandoned {02}yd,\nbeat me as I am now?
+@448
+Very well; the secrets of my {02}yd\naren't so easily stolen.\nCome at me!
+@448.1
+Understood; the secrets of my {02}yd\nwon't be stolen so easily.\nCome at me!
+@448.2
+Very well; I won't let the secrets\nof my {02}yd be stolen so easily.\nCome at me!
+@450
+You lack training.\nWith that skill, no license yet.\nCome at me again any time.
+@450.1
+You lack training.\nWith that skill, I can't grant a license yet.\nI'll take you on again any time.
+@450.2
+You lack training.\nWith that skill, I can't grant a license.\nI'll accept your challenge any time.
+@452
+You seem to lack training.\nWith that skill, I can't pass on my art.\nCome at me again any time.
+@452.1
+You lack training.\nWith that skill, I can't pass on my art.\nCome at me again any time.
+@452.2
+You lack training.\nWith that skill, I can't pass on my art.\nI'll accept your challenge any time.
+@454
+My teacher, like this...\nI can't pass on my art like this.\nI'll await your next challenge.
+@454.1
+You still have far to go.\nI can't pass on my art like this.\nI'll take you on again.
+@454.2
+Master, pull yourself together!\nI can't pass on my art this time,\nbut I'll take you on again.
+@456
+You still have far to go.\nWith that skill I can't pass on my secrets.\nI'll await your next challenge.
+@456.1
+You still have far to go.\nWith that skill you can't use my secrets.\nI'll take you on again.
+@456.2
+You still have far to go.\nWith that skill you can't use my secrets.\nI'll take you on again.
+@458
+Splendid!\nYou may already\nhave surpassed me, your teacher...
+@458.1
+Splendid!\nYou may already\nhave surpassed me, your teacher...
+@458.2
+Splendid...\nYou may already\nhave surpassed me, your teacher...
+@460
+Splendid; a fine student indeed.\nYou've polished your skill further.\nI'll pass my art on to you.
+@460.1
+Splendid, my student!\nYou've polished your skill further.\nI'll pass my art on to you.
+@460.2
+Splendid, my student!\nYou've polished your skill further.\nI'll pass my art on to you.
+@462
+Splendid; you're my teacher after all.\nI'll pass my art on to you.
+@462.1
+Splendid, as expected of my teacher.\nI'll pass my art on to you.
+@462.2
+Splendid, as expected of my master...\nI'll pass my art on to you.
+@464
+Splendid!\nYou're truly worthy of my art.\nI'll pass it on to you.
+@464.1
+Splendid!\nYou're truly worthy of my art.\nI'll pass it on to you.
+@464.2
+Splendid...\nYou can surely use my art.\nI'll pass it on to you.
+@465
+Learned {02}yd!
+@467
+Now you too have the skill\nto have a school of your own.\nYou may leave me and found a "new school".
+@467.1
+You now have the ability\nto found a "new school".\nPerhaps it's time to leave me.
+@469
+Now, Master, you too have the skill\nto have a school of your own.\nPerhaps it's time to found a "new school".
+@469.1
+Master, why not found\na "new school" soon?\nWith your skill, you surely could...
+@471
+Now you too have the skill\nto name a school your own.\nPerhaps it's time to found a "new school".
+@471.1
+Why not found\na "new school" soon?\nWith your skill, you surely could...
+@473
+Well, that's enough for today.\nIf you want to learn my secrets,\ncome again.
+@473.1
+Well, that's enough for today.\nWhen you want to learn my secrets,\nplease come again.
+@473.2
+Well, that's enough for today.\nThe secrets another day...
+@475
+Then I'll take my leave for today.\nWhen you want to learn my secrets,\ncome again.
+@475.1
+Then, Master, I'll take my leave for today.\nCome again when you want the secrets.
+@475.2
+Master, I'll take my leave for today.\nThe secrets another day...
+@477
+Then I'll take my leave for today.\nCome again if you want the secrets.
+@477.1
+Then I'll take my leave for today.\nPlease come again if you want the secrets.
+@477.2
+Well, I'll take my leave for today.\nThe secrets another day...
+@479
+Well, this is the last\nI can pass on to you, Master...\nI have nothing more to teach.
+@479.1
+Well, this is the last\nI can pass on to you.\nI have nothing more to teach.
+@479.2
+This is the last\nI can pass on to you, Master.\nI have nothing more to teach.
+@481
+Well, this is the last\nI can pass on to you...\nI have nothing more to teach.
+@481.1
+Well, this is the last\nI can pass on to you.\nI have nothing more to teach.
+@481.2
+This is the last I can pass on...\nI have nothing more to teach.\nThen I'll take my leave for today.
+@483
+I have nothing more\nto teach you...\n\nSo I'll grant you\na {02}yd license.
+@483.1
+I have nothing more\nto teach you...\n\nSo I'll recognise you\nas a {02}yd licensee.
+@483.2
+I have nothing more\nto teach you.\n\nSo I'll grant you\na {02}yd license.
+@484
+Received a {02}yd license.
+@486
+Keep working even harder.\nEven if you master {02}yd,\nthe way of the warrior has no end.
+@486.1
+Please keep working even harder.\nEven if you master {02}yd,\nthe way of the warrior has no end.
+@486.2
+Keep up your training.\nEven having mastered {02}yd,\nthe way of the warrior has no end.
+@488
+A license brings responsibility as well\nas honour, so let me explain.
+@488.1
+A license brings responsibility as well\nas honour, so let me explain.
+@488.2
+A license brings responsibility\nas well as honour. Let me explain.
+@490
+First, like me, you can now\ntake students.\nThere's no harm in having many.
+@490.1
+First, like me, you can now\ntake students.\nThere's no harm in having many.
+@490.2
+First, like me, you can now\ntake students.\nThere's no harm in having many.
+@492
+If you beat in a "Bout" someone\nnot of your license's school,\nthey may ask to become your student.
+@492.1
+If you beat in a "Bout" someone\nnot of your license's school,\nthey may ask to become your student.
+@492.2
+If you win a "Bout" against someone\nnot of your license's school,\nthey may ask to become your student.
+@494
+Even famous swordsmen can become\nyour students if they're of another school.\nBout many people and gain students.
+@494.1
+Even famous swordsmen can become\nyour students if they're of another school.\nPlease bout many people and gain students.
+@494.2
+Even famous swordsmen can become\nyour students if they're of another school.\nBout many people and gain students.
+@496
+Also, at your school's dojos\nor dojos of no school,\nyou can "Teach" for a fee.\nTeaching also spreads your name,\nif only a little.\nDon't neglect steady effort.
+@496.1
+Also, at your school's dojos\nor dojos of no school,\nyou can "Teach" for a fee.\nTeaching also spreads your name,\nif only a little.\nPlease don't neglect steady effort.
+@496.2
+Also, at your school's dojos\nor dojos of no school,\nyou can "Teach" for a fee.\nTeaching also spreads your name,\nif only a little.\nDon't neglect steady effort.
+@498
+And at other schools' dojos\nyou can "Challenge"\nto make your name widely known.
+@498.1
+And at other schools' dojos\nyou can "Challenge"\nto make your name widely known.
+@498.2
+And at other schools' dojos\nyou can "Challenge"\nto make your name widely known.
+@500
+But after a successful "Challenge",\nyou can't challenge that school for a while.\nBe careful.
+@500.1
+But after a successful "Challenge",\nyou can't challenge there for a while.\nPlease be careful.
+@500.2
+But after a successful "Challenge",\nyou can't challenge there for a while.\nThink carefully.
+@502
+Further, if you serve no one,\nyou can "Open Dojo" at "Home"\nand have a dojo of your own.\nBut while serving a power\nyou can't open one, so take note.
+@502.1
+Further, if you serve no one,\nyou can "Open Dojo" at "Home"\nand have a dojo of your own.\nBut while serving a power\nyou can't open one, so take note.
+@502.2
+Further, if you serve no one,\nyou can "Open Dojo" at "Home"\nand have a dojo of your own.\nBut while serving a power\nyou can't open one, so take note.
+@504
+With a dojo you can take\nstudents on as instructors\nand spread your school widely.
+@504.1
+With a dojo you can take\nstudents on as instructors\nand spread your school widely.
+@504.2
+With a dojo you can take\nstudents on as instructors\nand spread your school widely.
+@506
+Oops, I was so pleased with your progress\nthat I said too much at once...\nShall I explain again?
+@506.1
+Oh, I was so pleased with your progress\nthat I said too much at once...\nShall I explain again?
+@506.2
+Ufufu, I was so pleased with your progress\nthat I said too much...\nShall I tell you again?
+@508
+Keep working even harder.\nEven if you master {02}yd,\nthe way of the warrior has no end.
+@508.1
+Please keep working even harder.\nEven if you master {02}yd,\nthe way of the warrior has no end.
+@508.2
+Keep up your training.\nEven having mastered {02}yd,\nthe way of the warrior has no end.
+@509
+You only learned a secret art this month.\nYou haven't mastered it yet.\nAs your teacher, I won't teach the next yet...
+@509.1
+You only learned a secret art this month.\nYou haven't mastered it yet.\nAs your teacher, I won't teach the next yet...
+@509.2
+You only learned a new secret art this month.\nYou haven't mastered it yet.\nAs your teacher, I won't teach the next yet...
+@510
+You only learned a new secret art this month.\nEven my teacher should polish it now...\nThe next one is too soon, I'd say.
+@510.1
+Master, you only learned a new art this month.\nNow is the time to polish it...\nThe next one is too soon, I'd say.
+@510.2
+Master, you only learned a new art this month.\nShouldn't you polish it now...\nThe next one is too soon, I'd say.
+@511
+You only just learned a new secret art.\nYour body hasn't learned it yet.\nNo next art this month.
+@511.1
+You only just learned a new secret art.\nYour body hasn't learned it yet.\nNo next art this month, I'd say.
+@511.2
+You only just learned a new secret art.\nYour body hasn't learned it yet.\nNo next art this month, I'd say.
+@512
+(Maybe not now...)
+@512.1
+(I'll hold off for now...)
+@513
+What, is that true!\nHmm...
+@513.1
+My, are you serious?
+@514
+You're {02}{02}i now...\nRather than serve {01}C{A7}{01},\nyou should work for {02}{02}{EC}'s prosperity.
+@514.1
+You're {02}{02}i now...\nRather than serve {01}C{A7}{01},\nshouldn't you work for {02}{02}{EC}?
+@515
+Don't you have\na mission to do now?\nCome when you've finished it.
+@515.1
+Don't you have\na mission to do now?\nCome when you've finished it.
+@516
+Aren't you already\nmartial arts instructor of {02}{0B}e?\n\nUnless you resign that,\nour house can't take you.
+@516.1
+Don't you already serve\nas martial arts instructor of {02}{0B}e?\n\nUnless you resign that,\nour house can't take you.
+@517
+Don't talk nonsense!\nBy ninja law, rogues meet only death.\nI'll let you go now. Begone!
+@517.1
+Enough of your jokes!\nBy ninja law, rogues meet only death.\nI'll let you go now... leave at once!
+@518
+True, you seem\nto be a fine ninja, but\nyour name is far too well known.\nNinja work needs secrecy...\nSomeone whose face is that known\ncan't be a ninja... give up.
+@518.1
+True, you seem\nto be a fine ninja, but...\nyour name is far too well known.\nNinja work needs secrecy...\nSomeone whose name is that known\ncan't be hired as a ninja.
+@519
+If you truly want to be a ninja,\nwait until people forget you.\nOr if your name were a bit more infamous,\nthat would show ninja talent in its way,\nand hiring you might be possible.
+@519.1
+If you truly want to be a ninja,\nwait until people forget you.\nOr if your name were a bit more infamous,\nthat would show ninja talent in its way,\nand hiring you might be possible.
+@520
+Or if your name were a bit more infamous,\nthat would show ninja talent in its way,\nand hiring you might be possible.
+@520.1
+Or if your name were a bit more infamous,\nthat would show ninja talent in its way,\nand hiring you might be possible.
+@521
+I'm afraid we can't welcome\nsomeone as infamous as you.\n
+@521.1
+I'm afraid we can't welcome\nsomeone as infamous as you.\n
+@522
+............\nYou left {02}{01}{EC}.\nI can't just take you back.
+@522.1
+...............\nYou left {02}{01}{EC}.\nI can't just take you back.
+@523
+Don't talk nonsense!\nYou mean to trick me again.\nInsolent wretch, begone!
+@523.1
+Stop your jokes!\nYou mean to trick me again.\nLeave!
+@524
+I'm the one who betrayed you...\nFor such a one to make you a follower\nis against all decency... I humbly decline.
+@524.1
+I'm the one who betrayed you...\nFor such a one to make you a follower\nis against all decency... I humbly decline.
+@525
+What!\nYou'd work as a follower\nof me, your former colleague?
+@525.1
+Eh?\nYou'd work as a follower\nof me, your former colleague?
+@526
+The past is the past...\nI wish anew to serve you.\nPlease grant my request!
+@526.1
+The past is the past...\nI wish anew to serve you.\nPlease grant my request!
+@527
+I see.\nI'm not unwilling to welcome you\nas my {01}C{A4}{01}, but...
+@527.1
+...I see.\nI don't mind welcoming you\nas my {01}C{A4}{01}, but...
+@528
+I see.\nI'm not unwilling\nto welcome you, but...
+@528.1
+...I see.\nI don't mind welcoming you\nas my {01}C{A4}{01}, but...
+@529
+With skill like yours I could take you on\nas martial arts instructor,\nbut you're fine with ordinary service?
+@529.1
+With skill like yours I could take you on\nas martial arts instructor,\nbut you're fine with ordinary service?
+@530
+...I see.\nThen think it over well first.\n
+@530.1
+...I see.\nThen think it over well first.\n
+@531
+I see.\nAnd also...
+@531.1
+I see...\nAnd one more thing...
+@532
+If you serve {01}C{A7}{01},\nyou'll cut ties with {02}{02}{EC}.\nAre you sure?
+@532.1
+If you serve {01}C{A7}{01},\nyou'll cut ties with {02}{02}{EC}.\nIs that all right?
+@533
+...I see.\nWell, it's important,\nso think it over well.
+@533.1
+I see, but...\nwell, it's important,\nso you'd better think it over well.
+@534
+...I understand your resolve.\nThen from now on, work under me.
+@534.1
+...I understand your resolve.\nFrom now on, please work under me.
+@535
+No longer a samurai,\nthe posts of {02}{02}{E8} and {02}{02}{E9}\nwere resigned.
+@536
+With the change of allegiance,\nthe posts of {02}{02}{E8} and {02}{02}{E9}\nwere resigned.
+@537
+Closed the dojo in {02}{15}e.
+@538
+Closed the dojo in {02}{15}e.\nThe following instructors all became ronin again.
+@539
+(Hmm... with my new fief I may\n not be able to support my followers...\n I may have to let someone go.)
+@539.1
+(Hmm... with my new fief I may\n not be able to support my followers...\n I may have to let someone go...)
+@540
+If you quit trade, trade goods\nyou can't carry will be discarded.\nReally enter service?
+@541
+Discarded the trade goods you couldn't carry.
+@542
+Really defect to {02}{0B}e?
+@543
+I'd like to join\n{02}{02}{EC}.
+@543.1
+Would you let me join\n{02}{02}{EC}?
+@544
+What!! You, under me?\nIt's true someone like {01}C1{00}\ncoming to our house would be a great help...
+@544.1
+Eh!! You, under me?\nIt's true someone like {01}C1{00}\ncoming to our house would be a great help...
+@545
+Our {02}{15}e is in crisis now;\nthis is no time for such talk.\nPlease leave for today.
+@545.1
+Our {02}{15}e is in crisis now;\nthis is no time for such talk.\nPlease leave for today.
+@546
+Forgive my great rudeness.\nI'll take my leave for today.
+@546.1
+Forgive my great rudeness...\nI'll take my leave for today.
+@547
+Isn't your {02}{15}e\nin crisis now?\nYou shouldn't bring this up now...
+@547.1
+Isn't your {02}{15}e\nin crisis now?\nYou shouldn't bring this up now.
+@548
+Yes, I wish anew to serve {02}{02}{EC}.\nPlease grant\nmy request!
+@548.1
+I wish anew to serve {02}{02}{EC}.\nPlease grant\nmy request!
+@549
+Someone like you\nmight betray us again at any time.\nI can't grant it.
+@549.1
+Someone like you\nmight betray us again at any time.\nI can't grant it.
+@550
+One who betrays their lord\nmight do the same again at any time.\nI must decline.
+@550.1
+One who betrays their lord\nmight do the same again at any time.\nI must decline, I'm afraid.
+@551
+I once turned against you...\nFor me to take you as a follower\nwould go against all decency...\nLet's say this never happened.
+@551.1
+I once turned against you...\nFor me to take you as a follower\nwould go against all decency...\nPlease, let's say this never happened.
+@552.*
+Your {02}{15}e lies\nfar from our lands...\n\nIf you defected, {02}{15}e would be\nan isolated enclave...\nThat would trouble us both.
+@553.*
+...Now is not yet the time.\nI must decline this time.
+@554
+I see your firm resolve.\nWe gladly welcome you to our house.
+@554.1
+I see your firm resolve.\nI gladly welcome you.
+@555
+Oh!\nThank you very much.
+@555.1
+Thank you so much!!
+@556
+Oh!\nThank you very much.
+@556.1
+Thank you so much!!
+@557
+You seem to have no aptitude\nfor ninja work at all.\nYou'd never manage as a ninja... train harder.
+@557.1
+You seem to have no aptitude\nfor ninja work at all...\nTrain harder.
+@558
+You seem to have no aptitude\nfor life at sea at all.\nI can't take you on like that.
+@558.1
+You seem to have no aptitude\nfor life at sea at all.\nTrain harder.
+@559
+...At present, {02}{0B}e\nhas no need of your strength.\nGive it up.
+@559.1
+...At present, {02}{0B}e\nhas no need of your strength.\nPlease give it up.
+@560
+Is that so...\nThen I'll take my leave for today.
+@560.1
+Is that so...\nThen I'll take my leave for today.
+@561
+...I understand how you feel.\nI'm not unwilling to welcome you\ninto {02}{0B}e, but...
+@561.1
+...I understand how you feel.\nI'm not unwilling to welcome you\ninto {02}{0B}e, but...
+@562
+...I see.\nThen I'm counting on you.\nServe {02}{0B}e well.
+@562.1
+...I see.\nThen I'm counting on you.\nServe {02}{0B}e well.
+@563
+Yes, sir!\nI'll work as hard as I can\nfor {02}{02}{EC}!
+@563.1
+Yes!\nI'll work as hard as I can\nfor {02}{02}{EC}!
+@564
+It's more of an honour than I deserve,\nbut I, {02}{01}e, have no wish to be a samurai.\nLet's say this never happened.
+@564.1
+It's more of an honour than I deserve,\nbut I have no wish to be a samurai.\nLet's say this never happened.
+@565
+It's more of an honour than I deserve,\nbut I have no intention of taking service.\nLet's say this never happened.
+@565.1
+It's more of an honour than I deserve,\nbut I have no intention of taking service.\nPlease, let's say this never happened.
+@565.2
+I'm sorry, but I have\nno intention of becoming {02}{02}s.\nLet's say this never happened.
+@565.3
+I'm sorry, but I have\nno intention of becoming {02}{02}s.\nPlease, let's say this never happened.
+@566
+Our {02}{15}e is in crisis now;\nthis is no time for such talk.\nPlease leave for today.
+@566.1
+{02}{15}e is in crisis now;\nI have no time for such talk.\nPlease leave for today.
+@567
+Forgive my great rudeness.\nPerhaps another time.
+@567.1
+Forgive my great rudeness.\nPerhaps another time...
+@568
+Our {02}{01}{EC} and {02}{02}{EC}\nare now fighting side by side.\nThis is no time for such talk.
+@568.1
+{02}{01}{EC} and {02}{02}{EC}\nare now fighting side by side.\nThis is no time for such talk.
+@569
+You want me to defect\nto {02}{02}{EC}?
+@569.1
+You want me to defect\nto {02}{02}{EC}?
+@570
+If I betray {02}{01}{EC}, relations\nwith {02}{02}{EC} may sour.\nDo you still want this?
+@570.1
+If I betray {02}{01}{EC}, relations\nwith {02}{02}{EC} may sour.\nDo you still want this?
+@575.*
+You want me to give up\nmy samurai rank and become a merchant?
+@576
+Is that so.
+@576.1
+Is that so.
+@577.*
+You'd make me, a merchant,\na samurai?
+@578
+Truly?
+@578.1
+Truly?
+@579.*
+You want me to leave {02}{01}{EC}?
+@582
+You'd make me, {02}{01}i,\na samurai?
+@582.1
+You want me to give up my samurai post\nand become {02}{02}s?
+@582.2
+You want me to give up my post as {02}{01}s\nand become {02}{02}s?
+@583.*
+Is that so...
+@584.*
+I understand...\n\n\nIf I'm needed that much,\nfrom now on I'll serve\n{02}{02}{EC}.
+@585.*
+Then I'll let my followers know too.
+@586.*
+As you wish.\n\n\nIf I'm needed that much,\nfrom now on I'll serve\n{02}{02}{EC}.
+@587
+Relations between {02}{0B}e and {02}{0C}e\nhave worsened, giving {02}{0C}e\na pretext to invade {02}{0B}e.
+@588
+Relations between {02}{0B}e and\n{02}{0C}e have worsened.
+@589
+{02}{01}g's followers\nstayed with {02}{0B}e.
+@590
+{02}{01}g's followers\nalso moved to {02}{0B}e.
+@591
+It's a kind offer, but...\n\n\nIf I, {02}{01}e, am to serve,\nlet me serve under you,\nnot {02}{03}g.
+@591.1
+It's a kind offer, but...\n\n\nIf I'm to serve, may I serve\nunder you rather than\n{02}{03}g?
+@592
+Thank you for the words, but... I'm\nin no position to have followers now.\nLet's say this never happened.
+@592.1
+Your feelings make me very happy,\nbut I have no followers now.\nLet's say this never happened.
+@593
+(Shall I take {01}C1{00}\n into my service?)
+@593.1
+(Shall I take {01}C1{00}\n into my service, I wonder?)
+@594
+I'm glad to hear it, but\nI can't take you on now...\nLet's say this never happened.
+@594.1
+Your feelings make me very happy,\nbut I can't take you on now...\nLet's say this never happened.
+@595
+I understand how you feel.\nThen let me ask properly:\nwill you serve me?
+@595.1
+I understand how you feel.\nThen let me ask properly:\nwill you serve me?
+@596
+...Oops, I can't go on acting\nlike a merchant.\nI'll leave all the cargo to {02}{01}{EC}.
+@596.1
+...Oops, I can't go on acting\nlike a merchant.\nI'll leave all the cargo to {02}{01}{EC}.
+@597
+Handed the cargo over to {02}{02}{EC}.
+@598
+...No regrets.\nRight, a fresh start from here!
+@598.1
+...No regrets.\nRight, let's make a fresh start!

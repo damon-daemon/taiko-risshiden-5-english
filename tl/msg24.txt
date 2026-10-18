@@ -1,0 +1,1404 @@
+@0
+(Oops, I want to place an order,\n but I haven't the money...\n I need at least {02}o{C8}.)
+@0.1
+(Oh... I want to place an order,\n but I haven't the money...\n I need at least {02}o{C8}.)
+@1
+I'm sorry, but\nthere are no more routes\nI can embargo right now.
+@1.1
+I'm sorry, but\nthere are no more routes\nI can embargo right now.
+@2
+You want the goods on a route\nrun by {02}{01}{EC} held for a while?\nWhich route would that be?
+@2.1
+You want the goods on a route\nrun by {02}{01}{EC} held for a while?\nWhich route is it?
+@3
+The route between\n{02}{15}e and {02}{16}e...\nHmm, and what's in it for me?
+@3.1
+The route between\n{02}{15}e and {02}{16}e?\nHmm... and what would you pay?
+@4
+Even at {01}C1{00}'s request,\nI can't take it on for that sum.\nWe're in business too, you know...
+@4.1
+Even at {01}C1{00}'s request,\nI can't accept it for that sum.\nWe're in business too, you know...
+@5.*
+Very well.\nI'll hold the goods between {02}{15}e\nand {02}{16}e for about {02}od months.
+@6
+You want a route that's\nunder embargo reopened?\nWhich route?
+@6.1
+You want a route that's\nunder embargo reopened?\nWhich route would that be?
+@6.2
+You want a route that's\nunder embargo reopened?\nWhich route?
+@7
+The route between\n{02}{15}e and {02}{16}e... hmm.\n\nI can't do it for nothing.\nLet's see... for {02}o{C8}\nI could agree.
+@7.1
+The route between\n{02}{15}e and {02}{16}e?\nHmm...\nI can't do it for nothing.\nLet me see... for {02}o{C8}\nI could agree to it.
+@7.2
+The route between\n{02}{15}e and {02}{16}e?\nHmm...\nI can't do it for nothing.\nLet's see... for {02}o{C8}\nI'd agree to it.
+@8
+Sadly, you don't seem\nto have that kind of money...\nLet's say this never happened.
+@8.1
+Sadly, you don't seem able\nto pay that much.\nLet's say this never happened.
+@8.2
+Sadly, you don't seem\nto have that much money.\nLet's say this never happened.
+@9
+Will you pay\nthat much?
+@9.1
+Will you pay\nthat much?
+@9.2
+Will you pay\nthat much?
+@10
+I see.\nThen let's say\nthis never happened.
+@10.1
+Is that so.\nThen let's say\nthis never happened.
+@10.2
+I see.\nThen let's say\nthis never happened.
+@11
+Very well.\nIf you insist, I'll lift\nthe embargo and reopen the route.
+@11.1
+Very well.\nIf you insist, I'll lift\nthe embargo and reopen the route.
+@11.2
+All right.\nThen I'll lift the embargo\nand reopen the route.
+@12
+Trade between {02}{15}e and {02}{16}e\nwill resume next month.
+@13
+Well, {02}{02}{EC},\nyou seem to be making\nquite a profit.
+@13.1
+{02}{02}{EC}... I mean, {01}C1{00},\nyou seem to be making\nquite a profit.
+@13.2
+Well, {02}{02}{EC},\nyou seem to be making\nquite a profit.
+@14
+Oh, {01}C1{00}!\nHow rare to see you\ncome all the way here!
+@14.1
+Why, {01}C1{00}.\nYou honour me.
+@14.2
+Why, {01}C1{00}.\nYou honour me.
+@15
+And it's all thanks to me,\nyour go-between, isn't it?\nWon't you show some gratitude?
+@15.1
+And it's all thanks to my help\nas your go-between.\nWon't you show your gratitude?
+@15.2
+And it's all thanks to me,\nyour go-between, isn't it?\nDo show some gratitude.
+@16
+We profit by our own hard work.\nIt's nothing to do with\n{01}C1{00}, surely...?
+@16.1
+Pardon...? We profit by our own work.\nIt's nothing to do with\n{01}C1{00}, surely...?
+@16.2
+Oh...? We profit by our own work.\nIt's nothing to do with\n{01}C1{00}, surely...?
+@17
+Since when could you\ntalk like that?\nYou've grown proud.
+@17.1
+Since when could you say such\na thing, going over my head?
+@17.2
+Since when could you\ntalk like that?\nYou've grown proud.
+@18
+Sorry, I'm busy.\nIf there's nothing else, off you go!
+@18.1
+If there's nothing else,\nplease leave; I'm busy.
+@18.2
+If there's nothing else,\nplease leave; I'm busy.
+@19
+What!? Why, you...!\nI'll strike you off our purveyors!\nHmph, you'll be sorry.
+@19.1
+What!? Why, you...! From today\nyou are no longer our purveyor.\nHmph, you'll regret this.
+@19.2
+You dare!? Why, you...! I'll strike\nyou off our purveyors!\nHmph, you'll be sorry.
+@20
+{02}{0B}e lost its place\nas {02}{0C}e's purveyor.\nRelations worsened.
+@21
+Yes, and it's all\nthanks to {01}C1{00}.\n\nHere, please accept this, no questions.
+@21.1
+Indeed... it's all\nthanks to {01}C1{00}.\n\nPlease, say nothing,\nand accept this.
+@21.2
+Indeed... it's all\nthanks to {01}C1{00}.\n\nPlease, say nothing,\nand accept this.
+@22
+Handed over {02}o{C8}.
+@23
+Ha ha, well now!\nYou understand me.\n\nHeh heh, {02}{02}{EC},\nyou're a wicked one...
+@23.1
+Ha ha ha, as expected of {01}C1{00},\nyou understand.\n\nHeh heh, {02}{02}{EC}...\nno, {01}C1{00}...\nhow naughty of you...
+@23.2
+Ufufufu... well now! So you do understand.\n\nHeh heh, {02}{02}{EC},\nyou're a wicked one...
+@24
+And my regards to {01}C{AE}{01}...
+@24.1
+And my regards to {01}C{AE}{01}...
+@24.2
+And my regards to {01}C{AE}{01}...
+@25
+I know, say no more... heh heh.\nI'll whisper to {01}C{AE}{01}\nthat {02}{0B}e has been slacking...
+@25.1
+No need to say it, I understand.\nI'll whisper to {01}C{AE}{01}\nthat {02}{0B}e has been slacking...
+@25.2
+I understand, heh heh.\nI'll whisper to {01}C{AE}{01}\nthat {02}{0B}e has been slacking...
+@26
+Heh, I'm in a good mood today.\nFor all your work, take this.\nIt's a family treasure: look after it.
+@26.1
+Heh, I'm in a fine mood today.\nAs thanks for all you do, take this.\nIt's a family treasure: do treasure it.
+@26.2
+Ufufu, I'm in a good mood today.\nFor all your work, take this.\nIt's a family treasure: look after it.
+@27
+What shall I do?
+@27.1
+What shall I do?
+@28
+Not enough iron sand.
+@29
+Not enough {02}Ge.
+@30
+Not enough {02}Ge and {02}He.
+@31
+Not enough {02}Ge, {02}He and {02}Ie.
+@32
+You can't make any more.
+@33
+Your load is too heavy.\nYou can't make any more.
+@34
+You can make {02}od {02}Ge a day.\nHow many days will you work?
+@35
+Work for {02}od days?
+@36
+Uses {02}=e.
+@37
+Uses the skills above.
+@38
+Stop making iron?
+@39
+Mm... I'm dizzy, my hands slip...\nIt's dangerous to go on.\nI'll stop here for now.
+@39.1
+Oh, I'm dizzy, my hands slip...\nIt's dangerous to go on.\nI'll stop here for now...
+@40
+Made {02}od {02}Ge.
+@41
+Stopped making iron.\nMade {02}od {02}Ge.
+@42
+You can mix {02}od {02}Ge a day.\nHow many days will you mix?
+@43
+Mix for {02}od days?
+@44
+Stop mixing gunpowder?
+@45
+Mixed {02}od {02}Ge.
+@46
+Stopped mixing gunpowder.\nMixed {02}od {02}Ge.
+@47
+Which arms will you make?
+@48
+Making one {02}zd ({02}yd)\nuses {02}od iron and takes {02}pd days.\nReally make it?
+@49
+Stopped making it.\nLost {02}od {02}Ge.
+@50
+If you stop, all the materials,\n{02}od {02}Ge, will be lost.\nReally stop?
+@51
+Hm... did I go wrong?\nIt feels different from usual...\nMaybe I'll change the finish...
+@51.1
+Hm... did I go wrong?\nIt feels different from usual...\nMaybe I'll change the finish...
+@52
+Right, all or nothing:\nI'll put my whole soul into this!
+@52.1
+Right, all or nothing:\nI'll put my whole soul into this!
+@53
+...Not a bad feel.\nIt should turn out fine.
+@53.1
+...Not a bad feel.\nIt should turn out fine.
+@54
+Good, it's going well.\nNow, for the finish...
+@54.1
+Mm, it's going well.\nThat's it, that's it...
+@55
+This feels... it's working!\nRight, now the final finish!
+@55.1
+This feels... it's working!\nRight, now the final finish!
+@56
+{01}C{F9}]{01}C{FA}]price {02}q{C8}:\nfinished the {02}yd.
+@57
+Value {02}od,
+@58
+Valor +{02}pd,\n
+@59
+Got {02}=e.
+@60
+...I've done it at last.\nThis may be the masterpiece\nof my life.
+@60.1
+I've done it at last!\nThis may be the masterpiece\nof my life...
+@61
+...I'm overwhelmed.\nI gave it everything I had.\nA gem like this is rarely made.
+@61.1
+Phew... even I'm impressed.\nA gem like this is rarely made.
+@62
+Oh, a fine finish.\nA splendid piece, if I say so myself...
+@62.1
+A fine finish!\nA splendid piece, if I say so myself...
+@63
+Phew... the work wasn't quite there,\nbut the finish saved it...
+@63.1
+Phew... the work wasn't quite there,\nbut the finish saved it.
+@64
+Hmm... not bad, but\nthe finish was a bit loose...
+@64.1
+Oh... not bad, but\nwas the finish a bit loose?
+@65
+Good, it went well, and the finish is decent...\nnot bad, for me.
+@65.1
+Good, it went well, and the finish is decent...\nnot bad, for me.
+@66
+...A total failure.\nHmm, this wasn't supposed to happen.\nBack to training...
+@66.1
+Oh... a total failure...\nThis won't do.\nBack to training.
+@67
+Mm, not enough training...\nI'll learn from this, and next time...
+@67.1
+...Not enough training.\nI'll learn from this\nand do better next time!
+@68
+Hm, neither good nor bad.\nAbout like this, I suppose.
+@68.1
+Hmm, neither good nor bad...\nAbout like this, I suppose.
+@69
+Now, what shall I do?
+@69.1
+Now, what shall I do?
+@70
+Enter a name.
+@71
+That name can't be used.\nPlease choose another.
+@72
+Call it {02}yd?
+@72.1
+Call it {02}yd?
+@73
+Engraved it "{02}yd".
+@74
+Really throw it away?
+@75
+Threw away the {02}yd you made.
+@76
+Give the gun you made\nto the castle's stores?
+@77
+The castle's guns rose by 1.
+@78
+Add it to the shop's gun stock?
+@79
+The shop's gun stock rose.
+@80
+Phew, I'm worn out...\nThat's my limit for today...
+@80.1
+Phew, I'm worn out...\nI'm exhausted for today...
+@81
+Shall I close the forge?
+@81.1
+Shall I close the forge?
+@82
+...Not now.
+@82.1
+...Not now.
+@83
+Closed the forge in {02}{15}e.
+@84
+Right, now I can set up another workplace.\nI'll open the forge again if I feel like it.
+@84.1
+Right, now I can set up another workplace.\nI'll open the forge again if I feel like it.
+@85
+Oh, done playing smith already?\nI was going to have you mend a pot...\nWhat a pity, ha ha.
+@85.1
+Oh, done playing smith already?\nI was going to have you mend a pot...\nWhat a pity, ohohoho.
+@86
+The muster deadline is close.\nI'd better hold off for now...
+@86.1
+The muster deadline is close.\nI'd better hold off for now...
+@86.2
+The council is near.\nI'd better hold off for now...
+@86.3
+The council is near.\nI'd better hold off for now...
+@87
+It'll never be done before the\nmuster deadline. I'll hold off...
+@87.1
+It'll never be done before the\nmuster deadline. I'll hold off...
+@87.2
+It'll never be done before\nthe council. I'll hold off...
+@87.3
+It'll never be done before\nthe council. I'll hold off...
+@88
+Ugh, I feel heavy...\nI'll get well first.
+@88.1
+Oh, I feel heavy...\nI'll get well first.
+@89
+You're making {02}od kinds of items.\nYou can't make any more.
+@90
+It's the muster deadline.\nI'd better hold off for now...
+@90.1
+It's the muster deadline.\nI'd better hold off for now...
+@90.2
+The council is starting.\nI'd better hold off for now...
+@90.3
+The council is starting.\nI'd better hold off for now...
+@91
+Shall I get rid of arms I don't like...
+@91.1
+Shall I get rid of arms I don't like...
+@92
+...Oops,\nI can't get rid of the {02}3g.
+@92.1
+...Oh no,\nI can't get rid of the {02}3g.
+@93
+Shall I get rid of the {02}3g...\n
+@93.1
+Shall I get rid of the {02}3g...\nOnce done it can't be undone.\nAm I sure I want to break it?
+@94
+...It'd be a waste.\nI'll leave it.
+@94.1
+...It'd be a waste.\nI'll leave it.
+@95
+This thing...\naway with it, there!
+@95.1
+This thing...\naway with it, there!
+@96
+The {02}3g is gone.
+@97
+Phew... that feels better.
+@97.1
+Phew... that feels better.
+@98
+Not enough herbs.
+@99
+You use {02}od herbs a day\nto make {02}pd {02}Ge.\nHow many days will you work?
+@100
+Stop making remedies?
+@101
+Mm... I'm dizzy, I can't judge the doses...\nThis could cost a life.\nI'll stop here for now.
+@101.1
+Phew... I'm dizzy, I can't judge the doses...\nThis could cost a life.\nI'll stop here for now.
+@102
+Stopped making remedies.\nMade {02}od {02}Ge.
+@103
+You use {02}od remedies a day\nto mix {02}pd {02}3g.\nHow many days will you mix?
+@104
+Which will you make?
+@105
+Stop mixing the {02}3g?
+@106
+Mixed {02}od {02}3g.
+@107
+Mixed {02}od {02}3g.\nSome mixing failed,\nmaking {02}pd {02}4g.
+@108
+Stopped {02}=e.\nMixed {02}od {02}3g.
+@109
+Stopped {02}=e.\nMixed {02}od {02}3g; some failed,\nmaking {02}pd {02}4g.
+@110
+Shall I close the clinic?
+@110.1
+Shall I close the clinic?
+@111
+...Not now.
+@111.1
+...Not now.
+@112
+Closed the clinic in {02}{15}e.
+@113
+Right, now I can set up another workplace.\nI'll open the clinic again if I feel like it.
+@113.1
+Right, now I can set up another workplace.\nI'll open the clinic again if I feel like it.
+@114
+Oh, done playing doctor already?\nFrom now on, before treating others,\nworry about your own head.
+@114.1
+Oh, done playing doctor already?\nFrom now on, before treating others,\nworry about your own head.
+@115
+Ugh, I feel heavy...\n"Physician, heal thyself", indeed.\nI'll get well first.
+@115.1
+Ugh, I feel heavy...\n"Physician, heal thyself", indeed.\nI'll get well first.
+@116
+(Hmm, I have no medicine.\n I can't treat anyone like this.)
+@116.1
+(Oh, I have no medicine.\n I can't treat anyone like this.)
+@117
+How many days will you open the clinic?
+@118
+Open the clinic for {02}od days?
+@119
+Stop treating patients?
+@120
+Stopped treating patients.
+@121
+{02}{03}g has come.
+@123
+{01}C1{00}...\nI have a favour to ask.
+@123.1
+{01}C1{00}...\nI have a request.
+@123.2
+{01}C1{00}...\nI have a request.
+@124
+{01}C1{00}...\nI trust your skill,\nso I have a favour to ask.
+@124.1
+{01}C1{00}...\nI trust your skill,\nso I have a request.
+@124.2
+{01}C1{00}...\nI have a request.
+@125
+{01}C1{00}...\nI've heard of your skill,\nso I have a favour to ask.
+@125.1
+{01}C1{00}...\nI've heard of your skill,\nso I have a request.
+@125.2
+{01}C1{00}...\nI've heard of your skill,\nso I have a request.
+@126
+{01}C1{00}...\nI've a favour to ask of someone\nas famous as you.
+@126.1
+{01}C1{00}...\nI have a request for someone\nas famous as you.
+@126.2
+{01}C1{00}...\nI have a request for someone\nas famous as you.
+@127
+{01}C1{00}...\nI have a favour to ask.
+@127.1
+{01}C1{00}...\nI have a request.
+@127.2
+{01}C1{00}...\nI have a request.
+@128
+{01}C1{00}...\nI have a favour to ask.
+@128.1
+{01}C1{00}...\nI have a request.
+@128.2
+{01}C1{00}...\nI have a request.
+@129
+{01}C1{00}...\nI have a favour to ask.
+@129.1
+{01}C1{00}...\nI have a request.
+@129.2
+{01}C1{00}...\nI have a request.
+@130
+{01}C1{00}...\nI'm uneasy putting my life in your hands,\nbut I have a favour to ask.
+@130.1
+{01}C1{00}...\nI'm uneasy putting my life in your hands,\nbut I have a request.
+@130.2
+{01}C1{00}...\nI'm uneasy putting my life in your hands,\nbut I have a request.
+@132
+I've a little favour to ask of the\nfamous {01}C{88}^ of {02}=e... ufufu.
+@132.1
+I've a favour to ask of\nthe famous {01}C{88}^ of {02}=e.
+@132.2
+I have a request for\nthe famous {01}C{88}^ of {02}=e.
+@132.3
+I have a request for\nthe famous {01}C{88}^ of {02}=e.
+@134
+Ufufu...\nI've a little favour to ask, {01}C{88}^...
+@134.1
+I've a favour to ask, {01}C{88}^.
+@134.2
+I have a request, {01}C{88}^.
+@134.3
+I have a request, {01}C{88}^.
+@135
+Ufufu...\nI've a little favour to ask, {01}C{88}^...
+@135.1
+I trust your skill, {01}C{88}^,\nso I've a favour to ask.
+@135.2
+I trust your skill, {01}C{88}^,\nso I have a request.
+@135.3
+I trust your skill, {01}C{88}^,\nso I have a request.
+@136
+Ufufu...\nI've a little favour to ask, {01}C{88}^...
+@136.1
+I've heard of your skill, {01}C{88}^,\nso I've a favour to ask.
+@136.2
+I've heard of your skill, {01}C{88}^,\nso I have a request.
+@136.3
+I've heard of your skill, {01}C{88}^,\nso I have a request.
+@137
+Heh heh...\nI've a little favour to ask, {01}C{88}^...
+@137.1
+I've a favour to ask of the\nfamous {01}C{88}^.
+@137.2
+I have a request for the\nfamous {01}C{88}^.
+@137.3
+I have a request for the\nfamous {01}C{88}^.
+@138
+Ufufu...\nI've a little favour to ask, {01}C{88}^...
+@138.1
+I've a favour to ask, {01}C{88}^.
+@138.2
+I have a request, {01}C{88}^.
+@138.3
+I have a request, {01}C{88}^.
+@139
+Heh heh...\nI've a little favour to ask, {01}C{88}^...
+@139.1
+I've a favour to ask, {01}C{88}^.\nNot that I'm counting on you much.
+@139.2
+I'm not counting on you much,\nbut I have a request, {01}C{88}^.
+@139.3
+I'm not counting on you much,\nbut I have a request, {01}C{88}^.
+@140
+Heh heh...\nI've a little favour to ask, {01}C{88}^...
+@140.1
+I'm not keen on it, but\nI've a favour to ask, {01}C{88}^.
+@140.2
+I'm not keen on it, but\nI have a request, {01}C{88}^.
+@140.3
+I'm not keen on it, but\nI have a request, {01}C{88}^.
+@141
+Heh heh...\nI've a little favour to ask, {01}C{88}^...
+@141.1
+It's scary trusting you with my life,\nbut I've a favour to ask, {01}C{88}^.
+@141.2
+It frightens me to trust you with my life,\nbut I have a request, {01}C{88}^.
+@141.3
+I won't ask about your skill now.\nI have a request, {01}C{88}^.
+@142
+Achoo!\n{01}C{88}^, my nose is all stuffy...\nDo you know how to stop it?
+@142.1
+Achoo!\n{01}C{88}^, my nose won't stop running.\nWould you take a look?
+@142.2
+Achoo!\n{01}C{88}^, my nose is running so...\nWould you be so kind as to look?
+@142.3
+Sniff... ah-CHOO!\n{01}C{88}^, my nose won't stop.\nWould you please take a look?
+@142.4
+Sniff... ah-CHOO!\n{01}C{88}^, my nose won't stop.\nWould you please take a look?
+@142.5
+Sniff... ah-CHOO!\n{01}C{88}^, my nose won't stop.\nWould you please take a look?
+@142.6
+Achoo!\n{01}C{88}^, my nose is running so...\nWould you be so kind as to look?
+@143
+Cough, cough...\n{01}C{88}^, my chest aches so...\nMake this throbbing stop...
+@143.1
+Cough, cough...\n{01}C{88}^, I've been coughing for days.\nWould you take a look?
+@143.2
+Cough, cough...\n{01}C{88}^, I've been coughing for days.\nWould you be so kind as to look?
+@143.3
+Cough, cough...\n{01}C{88}^, I've been coughing for days.\nWould you please take a look?
+@143.4
+Cough, cough...\n{01}C{88}^, I've been coughing for days.\nWould you please take a look?
+@143.5
+Cough, cough...\n{01}C{88}^, I've been coughing for days.\nWould you please take a look?
+@143.6
+Cough, cough...\n{01}C{88}^, I've been coughing for days.\nWould you be so kind as to look?
+@144
+Mmm, {01}C{88}^...\nmy body... it's so hot...\nCool this fever with your medicine...
+@144.1
+{01}C{88}^, I seem to have a fever,\nmy head's all foggy...\nWould you take a look?
+@144.2
+{01}C{88}^, I seem to have a fever,\nmy head is all foggy...\nWould you be so kind as to look?
+@144.3
+{01}C{88}^, I seem to have a fever,\nmy head is all foggy...\nWould you please take a look?
+@144.4
+{01}C{88}^, I seem to have a fever,\nmy head is all foggy...\nWould you please take a look?
+@144.5
+{01}C{88}^, I seem to have a fever,\nmy head is all foggy...\nWould you please take a look?
+@144.6
+{01}C{88}^, I seem to have a fever,\nmy head is all foggy...\nWould you be so kind as to look?
+@145
+Oh, {01}C{88}^...\nthinking of you makes my head ache...\nMmm, do you know how to stop it?
+@145.1
+{01}C{88}^, my head is pounding so,\nI can't get any work done...\nWould you take a look?
+@145.2
+{01}C{88}^, my head is pounding so,\nI can't bear it any more.\nWould you be so kind as to look?
+@145.3
+{01}C{88}^, my head is pounding so,\nI can't bear it any more.\nWould you please take a look?
+@145.4
+{01}C{88}^, my head is pounding so,\nI can't bear it any more.\nWould you please take a look?
+@145.5
+{01}C{88}^, my head is pounding so,\nI can't bear it any more.\nWould you please take a look?
+@145.6
+{01}C{88}^, my head is pounding so,\nI can't bear it any more.\nWould you be so kind as to look?
+@146
+{01}C{88}^, I've no appetite,\nno energy at all...\nGive me something to perk me up...
+@146.1
+{01}C{88}^, I've no appetite\nand no energy at all...\nWould you take a look?
+@146.2
+{01}C{88}^, I've no appetite\nand no energy at all...\nWould you be so kind as to look?
+@146.3
+{01}C{88}^, I've no appetite\nand no energy...\nI'd like you to examine me.
+@146.4
+{01}C{88}^, I've no appetite\nand no energy...\nI'd like you to examine me.
+@146.5
+{01}C{88}^, I've no appetite\nand no energy...\nI'd like you to examine me.
+@146.6
+{01}C{88}^, I've no appetite\nand no energy at all...\nWould you be so kind as to look?
+@147
+{01}C{88}^, I'm so cold, so cold...\nI can't sleep even in bed...\nGive me something to warm me up...
+@147.1
+{01}C{88}^, I'm so cold, so cold...\nI can't sleep even in bed...\nWould you take a look?
+@147.2
+{01}C{88}^, I'm so cold, so cold...\nI can't get to sleep in bed...\nI'd like you to examine me.
+@147.3
+{01}C{88}^, I'm so cold, so cold...\nI can't even sleep in bed...\nI'd like you to examine me.
+@147.4
+{01}C{88}^, I'm so cold, so cold...\nI can't even sleep in bed...\nI'd like you to examine me.
+@147.5
+{01}C{88}^, I'm so cold, so cold...\nI can't even sleep in bed...\nI'd like you to examine me.
+@147.6
+{01}C{88}^, I'm so cold, so cold...\nI can't get to sleep in bed...\nI'd like you to examine me.
+@148
+{01}C{88}^, I've felt so sluggish lately,\nI can't put my heart into work...\nGive me something to liven me up...
+@148.1
+{01}C{88}^, I've felt so sluggish lately...\neverything's such a chore...\nWould you take a look?
+@148.2
+{01}C{88}^, I've felt so sluggish lately,\neverything is such a chore...\nI'd like you to examine me.
+@148.3
+{01}C{88}^, I've felt so sluggish lately...\neverything is such a chore...\nI'd like you to examine me.
+@148.4
+{01}C{88}^, I've felt so sluggish lately...\neverything is such a chore...\nI'd like you to examine me.
+@148.5
+{01}C{88}^, I've felt so sluggish lately...\neverything is such a chore...\nI'd like you to examine me.
+@148.6
+{01}C{88}^, I've felt so sluggish lately,\neverything is such a chore...\nI'd like you to examine me.
+@149
+{01}C{88}^, however much I rest,\nI'm still so tired...\nGive me something so I never tire...
+@149.1
+{01}C{88}^, however much I rest,\nI'm tired and weak...\nWould you take a look?
+@149.2
+{01}C{88}^, however much I rest,\nI'm tired and weak...\nWould you be so kind as to look?
+@149.3
+{01}C{88}^, however much I rest,\nI'm tired and weak...\nWould you please take a look?
+@149.4
+{01}C{88}^, however much I rest,\nI'm tired and weak...\nWould you please take a look?
+@149.5
+{01}C{88}^, however much I rest,\nI'm tired and weak...\nWould you please take a look?
+@149.6
+{01}C{88}^, however much I rest,\nI'm tired and weak...\nWould you be so kind as to look?
+@150
+Oh, {01}C{88}^...\nthinking of you makes me melt, body and soul...\nMmm, tell me how to cure it...
+@150.1
+{01}C{88}^, I'm so worn in body and mind\nI can hardly stand...\nWould you take a look?
+@150.2
+{01}C{88}^, I'm so worn in body and mind\nit's all I can do to stand...\nWould you examine me, please?
+@150.3
+{01}C{88}^, I'm so worn in body and mind\nI can hardly stand...\nWould you please take a look?
+@150.4
+{01}C{88}^, I'm so worn in body and mind\nI can hardly stand...\nWould you please take a look?
+@150.5
+{01}C{88}^, I'm so worn in body and mind\nI can hardly stand...\nWould you please take a look?
+@150.6
+{01}C{88}^, I'm so worn in body and mind\nit's all I can do to stand...\nWould you examine me, please?
+@151
+{01}C{88}^, there's a squeezing pain round my tummy...\nOoh, there it goes again...\nTell me a charm to make it stop...
+@151.1
+{01}C{88}^, my stomach hurts like a stab...\nOw, ow, even talking hurts.\nWould you take a look?
+@151.2
+{01}C{88}^, my stomach hurts like a stab...\nOw, ow...\nWould you be so kind as to look?
+@151.3
+{01}C{88}^, my stomach hurts like a stab...\nOw, ow...\nWould you please take a look?
+@151.4
+{01}C{88}^, my stomach hurts like a stab...\nOw, ow...\nWould you please take a look?
+@151.5
+{01}C{88}^, my stomach hurts like a stab...\nOw, ow...\nWould you please take a look?
+@151.6
+{01}C{88}^, my stomach hurts like a stab...\nOw, ow...\nWould you be so kind as to look?
+@152
+{01}C{88}^, I must have drunk something odd,\nmy tummy's all loose...\nDo something about my silly tummy...
+@152.1
+{01}C{88}^, I must have eaten something bad,\nmy stomach's upset...\nWould you take a look?
+@152.2
+{01}C{88}^, I must have eaten something bad,\nmy stomach is upset...\nWould you examine me, please?
+@152.3
+{01}C{88}^, I must have eaten something bad,\nmy stomach is upset...\nWould you examine me, please?
+@152.4
+{01}C{88}^, I must have eaten something bad,\nmy stomach is upset...\nWould you examine me, please?
+@152.5
+{01}C{88}^, I must have eaten something bad,\nmy stomach is upset...\nWould you examine me, please?
+@152.6
+{01}C{88}^, I must have eaten something bad,\nmy stomach is upset...\nWould you examine me, please?
+@153
+Oh, {01}C{88}^...\nthinking of you makes me tingle all over...\nMmm, tell me how to cure it...
+@153.1
+{01}C{88}^, my arm's gone numb,\nI can't even hold a sake flask...\nWould you take a look?
+@153.2
+{01}C{88}^, my arm has gone numb,\nI can't do anything...\nWould you examine me, please?
+@153.3
+{01}C{88}^, my arm has gone numb,\nI can't do anything...\nWould you examine me, please?
+@153.4
+{01}C{88}^, my arm has gone numb,\nI can't do anything...\nWould you examine me, please?
+@153.5
+{01}C{88}^, my arm has gone numb,\nI can't do anything...\nWould you examine me, please?
+@153.6
+{01}C{88}^, my arm has gone numb,\nI can't do anything...\nWould you examine me, please?
+@154
+Oh, {01}C{88}^...\nthinking of you gives me goosebumps...\nGive me something to calm my body...
+@154.1
+{01}C{88}^, look at my arm.\nSee, all these boils...\nWould you take a look?
+@154.2
+{01}C{88}^, please look at my arm.\nSee, all these boils...\nWould you take a look?
+@154.3
+{01}C{88}^, look at my arm.\nSee, all these boils...\nWould you take a look?
+@154.4
+{01}C{88}^, look at my arm.\nSee, all these boils...\nWould you take a look?
+@154.5
+{01}C{88}^, look at my arm.\nSee, all these boils...\nWould you take a look?
+@154.6
+{01}C{88}^, please look at my arm.\nSee, all these boils...\nWould you take a look?
+@155
+Choose a medicine\nthat works for {02}yd.
+@156
+Sorry, I'm out\nof medicine for\nthose symptoms right now...
+@156.1
+Sorry, I'm out\nof medicine for\nthose symptoms right now...
+@156.2
+Sorry, I'm out\nof medicine for\nthose symptoms right now...
+@157
+({02}3g should work for {02}yd.\n Shall I prescribe it?)
+@157.1
+({02}3g should work for {02}yd.\n Shall I prescribe it?)
+@158
+Take this {02}3g.
+@158.1
+Please take this {02}3g.
+@159
+*gulp*...\n\n\nAhh, {01}C{88}^...\nI'm starting to feel good...
+@159.1
+*gulp*...\n\n\nOh, I feel it working already!
+@159.2
+*gulp*...\n\n\nMy, I feel it working already!
+@159.3
+*gulp*...\n\n\nMm... I feel it\nworking already!
+@159.4
+*gulp*...\n\n\nMm... I feel it\nworking already!
+@159.5
+*gulp*...\n\n\nMm... I feel it\nworking already!
+@159.6
+*gulp*...\n\n\nMy, I feel it working already!
+@160
+Mm...\n\n\nMmm, {01}C{88}^...\nI'm feeling a teeny bit good...
+@160.1
+Mm...\n\n\nI think it helped a bit!
+@160.2
+Mm...\n\n\nI think it helped a bit!
+@160.3
+Mm...\n\n\nI think it helped a bit!
+@160.4
+Mm...\n\n\nI think it helped a bit!
+@160.5
+Mm...\n\n\nI think it helped a bit!
+@160.6
+Mm...\n\n\nI think it helped a bit!
+@161
+*gulp*...\n\n\nMm...?\nMy body's tingling...\nor is it just me?
+@161.1
+*gulp*...\n\n\nHuh? Did it work, or not...\nor is it just me?
+@161.2
+*gulp*...\n\n\nHuh? Did it work, or not...\nor is it just my fancy?
+@161.3
+*gulp*...\n\n\nHm?\nDid it work, or not...\nor is it just my fancy?
+@161.4
+*gulp*...\n\n\nHm?\nDid it work, or not...\nor is it just my fancy?
+@161.5
+*gulp*...\n\n\nHm?\nDid it work, or not...\nor is it just my fancy?
+@161.6
+*gulp*...\n\n\nHuh? Did it work, or not...\nor is it just my fancy?
+@162
+*gulp*...\n\n\n{01}Cc^\n{01}C{88}^, is this really medicine?\nWhat are you trying to do to me?
+@162.1
+*gulp*...\n\n\n{01}Cc^\n{01}C{88}^, what is this medicine?\nI don't feel a thing!
+@162.2
+*gulp*...\n\n\n{01}Cc^\n{01}C{88}^, is this really medicine?\nI don't feel any better.
+@162.3
+*gulp*...\n\n\nCough, cough!\nWhat is this medicine?\nI don't feel a thing...
+@162.4
+*gulp*...\n\n\nCough, cough!\nWhat is this medicine!?\nI don't feel a thing...
+@162.5
+*gulp*...\n\n\nCough, cough!\nWhat is this medicine!?\nI don't feel any better...
+@162.6
+*gulp*...\n\n\n{01}Cc^\nIs this really medicine?\nI don't feel any better...
+@163
+Mmph, cough, cough!
+@163.1
+Mmph, ptui, ptui!
+@163.2
+B-bitter...
+@164
+Charge for the treatment?
+@165
+Then I'll take {02}o{C8}\nfor the medicine.
+@165.1
+Then I'll take {02}o{C8}\nfor the medicine.
+@165.2
+Then I'll take {02}o{C8}\nfor the medicine.
+@166
+Here, {02}o{C8}.\n{01}C{88}^, that was amazing...\nI've never felt so good.
+@166.1
+Here, {02}o{C8}.\nThanks, {01}C{88}^.\nCome see me again if I'm ill.
+@166.2
+Here, {02}o{C8}.\nThank you, {01}C{88}^.\nI'll come again if I fall ill.
+@166.3
+Here, {02}o{C8}.\n{01}C{88}^, I'm truly grateful.\nTreat me again if I fall ill.
+@166.4
+Here, {02}o{C8}.\n{01}C{88}^, I'm truly grateful.\nTreat me again if I fall ill.
+@166.5
+Here, {02}o{C8}.\n{01}C{88}^, I'm truly grateful.\nPlease treat me again if I fall ill.
+@166.6
+Here, {02}o{C8}.\n{01}C{88}^, I'm truly grateful.\nPlease treat me again if I fall ill.
+@167
+Here, {02}o{C8}.\nJust what I'd expect, {01}C{88}^.\nI feel wonderful.
+@167.1
+Here, {02}o{C8}.\nJust what I'd expect, {01}C{88}^.\nThank you.
+@167.2
+Here, {02}o{C8}.\nJust as expected, {01}C{88}^.\nThank you so much.
+@167.3
+Here, {02}o{C8}.\nJust as expected, {01}C{88}^.\nThank you.
+@167.4
+Here, {02}o{C8}.\nJust as expected, {01}C{88}^.\nMy thanks.
+@167.5
+Here, {02}o{C8}.\nJust as expected, {01}C{88}^.\nThank you so much.
+@167.6
+Here, {02}o{C8}.\nJust as expected, {01}C{88}^.\nThank you so much today.
+@168
+Here, {02}o{C8}.\nBut it wasn't really worth\nthe trip...
+@168.1
+Here, {02}o{C8}.\nBut maybe I didn't really need\nto see {01}C{88}^...
+@168.2
+Here, {02}o{C8}.\nBut perhaps I didn't need\nto see {01}C{88}^...
+@168.3
+Here, {02}o{C8}.\nBut perhaps I didn't need\nto see {01}C{88}^...
+@168.4
+Here, {02}o{C8}.\nBut I wonder if I needed\nto see {01}C{88}^...
+@168.5
+Here, {02}o{C8}.\nBut perhaps I didn't need\nto see {01}C{88}^...
+@168.6
+Here, {02}o{C8}.\nBut maybe I didn't really need\nto see {01}C{88}^...
+@169
+How mean!\nYou give me that and want money?\nYou should be paying me!
+@169.1
+Oh, how awful!\nYou want money for this?\nI wish I'd never come to this quack...
+@169.2
+Oh, how awful!\nYou want money for this?\nI should never have come to this quack...
+@169.3
+How cruel!\nYou want money for this?\nI should never have come to this quack...
+@169.4
+How cruel!\nYou want money for this?\nI should never have come to this quack...
+@169.5
+How cruel!\nYou would take money for this?\nWhat a heartless thing to do...
+@169.6
+Oh, how awful!\nYou want money for this?\nI wish I'd never come...
+@170
+My medicine is a special blend...\nnot ordinary {02}3g.\nI need {02}o{C8} or I'll lose out.
+@170.1
+My medicine is a special blend...\nnot ordinary {02}3g, so\nI must ask {02}o{C8}...
+@170.2
+My medicine is a special blend...\nnot ordinary {02}3g.\nI need {02}o{C8} or I'll lose out.
+@171
+What! {02}o{C8}!?\n\n\n...Well, it felt good, so I suppose...\nHere, {02}o{C8}, take it.
+@171.1
+My! {02}o{C8}!?\n\n\n...You cured me, so I can't complain.\nHere, {02}o{C8}, take it.
+@171.2
+My! {02}o{C8}!?\n\n\n...You cured me, so I can't complain.\nHere is {02}o{C8}.
+@171.3
+What! {02}o{C8}!?\n\n\n...You cured me, so I can't complain.\nHere, {02}o{C8}, take it.
+@171.4
+What! {02}o{C8}!?\n\n\n...You cured me, so I won't complain.\nHere, {02}o{C8}, take it!
+@171.5
+What! {02}o{C8}!?\n\n\n...You cured me, so I can't complain.\nHere, {02}o{C8}, please take it.
+@171.6
+My! {02}o{C8}!?\n\n\n...You cured me, so I can't complain.\nHere, {02}o{C8}, please take it.
+@172
+Does this medicine really cost {02}o{C8}?\nI didn't feel all that good...
+@172.1
+Does this medicine really cost {02}o{C8}?\nI feel like I'm being fleeced...
+@172.2
+Does this medicine really cost {02}o{C8}?\nI feel I'm being taken advantage of...
+@172.3
+Does this medicine really cost {02}o{C8}?\nI feel I'm being fleeced...
+@172.4
+Does this medicine really cost {02}o{C8}?\nI feel I'm being fleeced...
+@172.5
+Does this medicine really cost {02}o{C8}?\nI feel I'm being fleeced...
+@172.6
+Does this medicine really cost {02}o{C8}?\nI feel I'm being taken advantage of...
+@173
+...{01}C{88}^, you're joking.\nYou barely pleased me,\nand you want all that money...
+@173.1
+...{01}C{88}^, that's absurd!\n{02}o{C8} for treatment like this...\nIt's outrageous!
+@173.2
+...{01}C{88}^, surely not!\nTaking {02}o{C8} for treatment like this\nis outrageous.
+@173.3
+...{01}C{88}^, that's absurd!\nTaking {02}o{C8} for treatment like this\nis outrageous.
+@173.4
+...{01}C{88}^, that's absurd!\nTaking {02}o{C8} for treatment like this\nis outrageous!
+@173.5
+...{01}C{88}^, that's absurd!\nTaking {02}o{C8} for treatment like this\nis outrageous.
+@173.6
+...{01}C{88}^, surely not!\nTaking {02}o{C8} for treatment like this\nis outrageous.
+@174
+{02}o{C8} for that!\nYou can't satisfy me and want money?\nI'm never coming back here!
+@174.1
+{02}o{C8} and you didn't even cure me!?\nI'm done with this quack\nfor good, hmph!
+@174.2
+{02}o{C8} without even curing me!?\nI'll have nothing more to do\nwith such a quack!
+@174.3
+{02}o{C8} without even curing me!?\nI'm done with this quack\nfor good!
+@174.4
+{02}o{C8} without even curing me!?\nI'm done with this quack\nfor good!
+@174.5
+{02}o{C8} without even curing me!?\nI'll have nothing more to do\nwith such a quack!
+@174.6
+{02}o{C8} without even curing me!?\nI'll have nothing more to do\nwith such a quack!
+@175
+No charge for the medicine.\nHelping those in need\nis only natural.
+@175.1
+No charge for the medicine.\nHelping those in need\nis only natural.
+@175.2
+No charge for the medicine.\nHelping those in need\nis only natural.
+@176
+Oh, thank you so much...\nTo be made to feel this good...\nMmm, I could get sick on purpose.
+@176.1
+Oh, thank you...\n{01}C{88}^, you're a living Buddha!
+@176.2
+Oh, thank you so much...\n{01}C{88}^, you're a living Buddha!
+@176.3
+What!?\nBless you, bless you!\n{01}C{88}^, a model physician!
+@176.4
+What!?\nBless you, bless you!\n{01}C{88}^, a model physician!
+@176.5
+My!?\nThank you so much!\n{01}C{88}^, a model physician!
+@177
+What!?\nBless you, bless you!\n{01}C{88}^, a model physician!
+@177.1
+Why, how kind...\n{01}C{88}^, you're a living Buddha!
+@178
+Oh!\nFree, like this? I could get used to it...
+@178.1
+Oh!\nThanks!
+@178.2
+Oh!\nThank you so much.
+@178.3
+Oh!\nThank you so much.
+@178.4
+Oh!\nMuch obliged, my thanks.
+@178.5
+Oh!\nThank you so much.
+@178.6
+Oh!\nThank you so much.
+@179
+...All right.\nYou meanie...
+@179.1
+...All right.
+@179.2
+...I see.
+@179.3
+...I see.
+@179.4
+...I see.
+@179.5
+...I see.
+@179.6
+...I see.
+@180
+Of course!\nYou couldn't even satisfy me,\nI'm not paying!
+@180.1
+Of course!\nNothing worked,\nso I'm not paying!
+@180.2
+Of course!\nNothing worked,\nso I won't pay!
+@180.3
+Of course!\nNothing worked,\nso I won't pay!
+@180.4
+Of course!\nNothing worked, why would I pay!\nQuack!
+@180.5
+Of course!\nNothing worked, so I shall not pay!
+@180.6
+Of course!\nNothing worked,\nso I won't pay!
+@181
+(Oops, my purse is full.\n I can't carry more money.\n Take it anyway?)
+@181.1
+(Oh, my purse is full.\n I can't carry more money.\n Shall I take it anyway?)
+@182
+(Yes, I'll take money, if only for form.\n A fee is also a token of thanks...\n it would be rude to refuse.)
+@182.1
+(I'll take money, if only for form.\n A fee is a token of thanks too...\n it would be rude to refuse.)
+@183
+(Yes, those who should pay must pay.\n Someone who won't pay\n hardly deserves to be called a patient.)
+@183.1
+(Those who should pay must pay.\n Someone who won't pay\n hardly deserves to be called a patient.)
+@184
+That fee filled my purse.\nMore fees won't add any money.\nShall I carry on anyway?
+@184.1
+That fee filled my purse.\nMore fees won't add any money.\nShall I carry on anyway?
+@185
+That fee filled my purse.\nMore fees won't add any money,\nand I won't work for nothing.
+@185.1
+That fee filled my purse.\nMore fees won't add any money,\nand I won't work for nothing!
+@186
+Yes, I can't abandon the sick\nfor the sake of a little money.
+@186.1
+Yes, I mustn't abandon the sick\nfor the sake of a little money.
+@187
+Yes, treat them free now to earn their\ngratitude, and win it all back later.
+@187.1
+Ufufu, treat them free now to earn their\ngratitude, and win it all back later.
+@188
+Right, I'll stop for now.
+@188.1
+Right, I'll stop for now.
+@189
+Then take care.
+@189.1
+Then take good care...
+@189.2
+Then take good care...
+@190
+(...Just {02}o{C8} for the medicine\n doesn't cover my trouble...\n You can hardly call this work...)
+@190.1
+(...Just {02}o{C8} for the medicine\n doesn't cover my trouble...\n You can hardly call this work...)
+@191
+(...Just {02}o{C8} for the medicine\n doesn't cover my trouble...\n What a foolish thing I did.)
+@191.1
+(...Just {02}o{C8} for the medicine\n doesn't cover my trouble...\n What a foolish thing I did...)
+@192
+(Hmm, I was joking,\n but they really paid {02}o{C8}...\n Never hurts to ask...)
+@192.1
+(Oh my, I was joking,\n but they really paid {02}o{C8}...\n Never hurts to ask...)
+@193
+(What a nasty one.\n If you're going to complain,\n don't come in the first place.)
+@193.1
+(What a nasty one.\n If you're going to grumble,\n don't come in the first place.)
+@194
+(Medicine is, after all,\n just nature's gifts processed.\n Free treatment now and then is fine.)
+@194.1
+(Medicine is, after all,\n just nature's gifts processed.\n Free treatment now and then is nice.)
+@195
+(A shame not to charge...\n But I only got rid of leftover medicine,\n so I suppose that's fair...)
+@195.1
+(A shame not to charge, maybe...\n But I only got rid of leftover medicine,\n so I suppose that's fair.)
+@196
+Oh, I'm out of medicine.\nI'll stop here for now.
+@196.1
+Oh... I'm out of medicine.\nI'll stop here for now.
+@197
+If you're going to treat people,\ndon't run out of medicine.
+@197.1
+If you're going to treat people,\ndon't run out of medicine.
+@197.2
+If you mean to treat people,\nplease don't run out of medicine.
+@197.3
+If you mean to treat people,\nplease don't run out of medicine.
+@197.4
+If you mean to treat people,\ndon't run out of medicine.
+@197.5
+If you mean to treat people,\nplease don't run out of medicine.
+@197.6
+If you're going to treat people,\nplease don't run out of medicine.
+@198
+(No help for it.\n I can't prescribe just anything.)
+@198.1
+(No help for it.\n I can't prescribe just anything.)
+@199
+(No help for it.\n It'd be a waste to use\n costly medicine here.)
+@199.1
+(No help for it.\n It'd be a waste to use\n costly medicine here.)
+@200
+my lord
+@200.1
+my lord
+@200.2
+my lord
+@200.3
+shopkeeper
+@200.4
+master
+@200.5
+Captain
+@200.6
+Chief
+@200.7
+Squad Chief
+@200.8
+Boss
+@200.9
+Doctor
+@201
+Hm? Someone's come in.
+@201.1
+Oh? Someone's come in.
+@202
+{01}C{88}^, thank you.\nMy dad's all better now.
+@203
+Here's my treasure, to say thanks.\nHere you go!
+@204
+Received {02}3g.
+@205
+Bye, {01}C{88}^!\nHee hee... I'd never heard a thing\nabout this clinic, so I was a bit worried.
+@205.1
+Bye, {01}C{88}^!\nPeople say this clinic's a hidden gem.
+@205.2
+Bye, {01}C{88}^!\nHee hee, this clinic's so famous,\nI was worried you'd charge a lot.
+@205.3
+Bye, {01}C{88}^!\nWhen I grow up I'll be a fine doctor\njust like {01}C{88}^!
+@206
+Heh heh, a child's smile is the best reward.
+@206.1
+Ufufu, a child's smile is the best reward.
+@207
+...Honestly, an ill-mannered brat.\nWhat good is junk like this to me.
+@207.1
+Really... I hate children with no manners.\nWhat am I to do with junk like this...
+@208
+{01}C{88}^,\n{01}C>{00} is in your debt.\nI was asked to give you this.
+@209
+Received {02}o{C8}.
+@210
+Then I'll take my leave.
+@211
+Oh, though I said no fee was needed...\nhow generous {01}C1{00} is.
+@211.1
+My, though I said no fee was needed...\nhow generous {01}C1{00} is.
+@212
+As expected of {01}C1{00}.\nThose of {02}{02}{EC} know\nhow to use money...
+@212.1
+As expected of {01}C1{00}.\nThose of {02}{02}{EC} know\nhow to use money...
+@213
+(Ugh, more {02}3g than I can carry...\n No use hoarding useless medicine.\n A waste, but I'll throw it out.)
+@213.1
+(More {02}3g than I can carry...\n No use hoarding useless medicine,\n so I'll just throw it out.)
+@214
+Threw away {02}od {02}3g.
+@215
+Doing Missions
+@216
+Samurai Missions
+@217
+Ninja Missions
+@218
+Pirate Missions
+@219
+Merchant Missions
+@220
+Ashigaru Captain Missions
+@221
+Missions you can get as Ashigaru Captain.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+@222
+{1B}C1●Sell Rice{1B}C0\nSell the rice you're given at a better price.\n{1B}C3◆How to do it{1B}C0\nSell it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so buying low and selling high again and again raises your results; sell where rice is dear.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@223
+{1B}C1●Buy Rice{1B}C0\nBuy as much rice as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so selling high and buying low again and again raises your results; buy where rice is cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@224
+{1B}C1●Buy Horses{1B}C0\nBuy as many warhorses as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy them at a town stable. Horse prices differ by town, so buy where they're cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@225
+{1B}C1●Buy Guns{1B}C0\nBuy as many guns as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy them at a town merchant house or smithy. The closer you are to the merchant or smith, the cheaper. Smithies are cheaper but make to order, which takes time; [Help Make Guns] after ordering shortens it.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@226
+{1B}C1●Buy Cannon{1B}C0\nBuy as many cannon as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy them at a town smithy or Nanban trading house; the closer you are to the smith or Nanban merchant, the cheaper. A Nanban trading house needs a letter of introduction from a Nanban temple's missionary. Smithies make to order, which takes time.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@227
+{1B}C1●Talent Search{1B}C0\nFind ronin you haven't met yet.\n{1B}C3◆How to do it{1B}C0\nVisit common homes and the like in towns to find ronin you don't know. The more you find, the better the rating.
+@228
+Ashigaru General Missions
+@229
+Missions you can get as Ashigaru General.\n※ You can also get Ashigaru Captain missions.\n\n{1B}C1●Raise Funds{1B}C0\nIncrease the money you're given.\n{1B}C3◆How to do it{1B}C0\nUse it as capital, trading goods at town guilds and the like, to make more.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@230
+{1B}C1●Drill{1B}C0\nRaise the training of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to its drill ground and choose [Train]. The result depends on a mock battle: win with as little damage as you can for better results.\n{1B}C3◆Useful skills etc.{1B}C0\nInfantry skill, field battle cards
+@231
+{1B}C1●Scout Base{1B}C0\nSneak into the base named for information.\n{1B}C3◆How to do it{1B}C0\nSneak into its drill ground and learn its strength and supplies.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, "Silent Step" card
+@232
+Samurai General Missions
+@233
+Missions you can get as Samurai General.\n※ Ashigaru Captain/General missions too.\n\n{1B}C1●Keep Order{1B}C0\nRaise public order in the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and work on public order.\n{1B}C3◆Useful skills etc.{1B}C0\nCharm; Speech to preach, Martial Arts vs. bandits
+@234
+{1B}C1●Conscript{1B}C0\nRaise the troops of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to its drill ground and choose [Conscript].\n{1B}C3◆Useful skills etc.{1B}C0\nTactics skill; Speech if persuading, Martial Arts if showing off your valour, etc.
+@235
+{1B}C1●Sabotage{1B}C0\nLower the defense of the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and sabotage it. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Stone Pull" card
+@236
+{1B}C1●Rumours{1B}C0\nLower public order in the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and spread rumours. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Disguise" card
+@237
+{1B}C1●Arson{1B}C0\nReduce the supplies held by the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and set fires. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Fire Setting" card
+@238
+Commander Missions
+@239
+Missions you can get as Commander.\n※ You can also get Ashigaru Captain to Samurai General missions.\n\n{1B}C1●New Fields{1B}C0\nRaise the yield of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and develop new fields. The result depends on the mini-game "Irrigation".\n{1B}C3◆Useful skills etc.{1B}C0\nFarming skill, "Better Tools" card
+@240
+{1B}C1●Mine Work{1B}C0\nRaise the mine of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and develop the mine. The result depends on the mini-game "Gold Hunt".\n{1B}C3◆Useful skills etc.{1B}C0\nMining skill, "Nanban Refining" card
+@241
+{1B}C1●Repair{1B}C0\nRaise the defense of the castle named.\n{1B}C3◆How to do it{1B}C0\nRepair the castle. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Split Works" card
+@242
+{1B}C1●Diplomacy: Alliance{1B}C0\nMake an alliance with another daimyo house.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech and Etiquette skills, "Selfless Heart" card\n\n{1B}C1●Diplomacy: Break{1B}C0\nBreak an alliance with another daimyo house.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy].
+@243
+{1B}C1●Diplomacy: Subjugate{1B}C0\nMake another power your vassal.\n{1B}C3◆How to do it{1B}C0\nVisit the seat of the power named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works. There are three ways to negotiate:\n  Overbearing: works on the timid.\n  Gentle: works on the bold.\n  Just Business: works on the ordinary.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@244
+{1B}C1●Diplomacy: Submit{1B}C0\nOffer to become another daimyo house's vassal.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@245
+{1B}C1●Diplomacy: War{1B}C0\nDeclare war on another daimyo house.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy].\n※ The house you declare war on gains a "pretext" against yours, making it likelier to attack you.
+@246
+{1B}C1●Diplomacy: Peace{1B}C0\nMake peace with a daimyo house you've broken with.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works. Getting a "letter of support" from a monk at a temple, or an "imperial peace order" from a noble's house, first also helps.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@247
+{1B}C1●Diplomacy: Goodwill{1B}C0\nDeepen friendship with another power.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@248
+{1B}C1●Diplomacy: Court{1B}C0\nDonate to the court to raise court standing.\n{1B}C3◆How to do it{1B}C0\nVisit a noble's house in Kyoto and ask them to [Put in a Word]. The closer you are to the noble, the better, and the bigger the donation, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\nEtiquette skill, "Court Speech" card
+@249
+Chief Retainer Missions
+@250
+Missions you can get as Chief Retainer.\n※ Commander missions and below too.\n\n{1B}C1●Expand{1B}C0\nRaise the size of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and expand it.\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding, "Trade Network" card
+@251
+{1B}C1●Recruit{1B}C0\nRecruit a ronin as a direct retainer.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
+@252
+Castle and Province Lord Missions
+@253
+Missions you can get as castle or province lord from the daimyo.\n\n{1B}C1●Take Base{1B}C0\nCapture the base named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target base.\n\n{1B}C1●Take Province{1B}C0\nCapture every castle in the province named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at castles in the target province.
+@254
+{1B}C1●Destroy Power{1B}C0\nCapture every castle of the power named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target power's castles.\n\n{1B}C1●Take Region{1B}C0\nCapture every castle in the region named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at castles in the target region.
+@255
+{1B}C1●Develop Town{1B}C0\nDevelop your own castle.\n{1B}C3◆How to do it{1B}C0\nIn the council chamber, give your officers domestic missions (Keep Order, New Fields, Mine Work), or do [Domestic] work in town yourself.\n\n{1B}C1●Build Up Army{1B}C0\nBuild up your own castle's forces.\nIn the council chamber, give your officers military missions (Conscript, Drill, Repair, Expand, Buy Horses, Buy Guns, Buy Cannon), or build up yourself.
+@256
+Genin Missions
+@257
+Missions you can get as Genin.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+@258
+{1B}C1●Buy Rice{1B}C0\nBuy as much rice as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so selling high and buying low again and again raises your results; buy where rice is cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@259
+{1B}C1●Bodyguard{1B}C0\nEscort your client to the destination.\n{1B}C3◆How to do it{1B}C0\nTravel with your client. Enemy attacks on the map start duels. Reach the destination without your charge falling and the mission is done.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
+@260
+{1B}C1●Start a Fashion{1B}C0\nMake a luxury (fancy trade good) fashionable in every base of the province with the town named.\n{1B}C3◆How to do it{1B}C0\nBuy the goods at a town guild and tour the bases in that province. In each base, disguised as a traveller or merchant, promote the goods. When done, report to your client, the guild master.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu and Speech skills, "Disguise" card
+@261
+{1B}C1●Treasure Hunt{1B}C0\nFind hidden treasure and bring it back.\n{1B}C3◆How to do it{1B}C0\nThe treasure is hidden somewhere on the map. Gather clues at town taverns to narrow down the spot. Find it and the mission is done.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill
+@262
+{1B}C1●Steal Valuable{1B}C0\nSteal a valuable from the home of the person named.\n{1B}C3◆How to do it{1B}C0\nVisit their home. If they're out you can sneak in and search; pick likely hiding places and find it to succeed. If they come home midway, try again later.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill
+@263
+{1B}C1●Hunt Rogue Ninja{1B}C0\nFind and dispose of a rogue ninja.\n{1B}C3◆How to do it{1B}C0\nVisit the base named and attack the rogue. With high Ninjutsu you can weaken them first with "Infiltrate" and "Blast".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
+@264
+{1B}C1●Drill{1B}C0\nRaise the training of the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the village's drill ground and choose [Train]. The result depends on a mock battle: win with as little damage as you can for better results.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, field battle cards
+@265
+{1B}C1●Talent Search{1B}C0\nFind ronin you haven't met yet.\n{1B}C3◆How to do it{1B}C0\nVisit common homes and the like in towns to find ronin you don't know. The more you find, the better the rating.\n\n{1B}C1●Scout Base{1B}C0\nSneak into the base named and gather information.\n{1B}C3◆How to do it{1B}C0\nSneak into the base's drill ground and gather information.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Silent Step" card
+@266
+{1B}C1●Sabotage{1B}C0\nLower the defense of the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and sabotage it. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Stone Pull" card
+@267
+{1B}C1●Rumours{1B}C0\nLower public order in the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and spread rumours. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Disguise" card
+@268
+{1B}C1●Arson{1B}C0\nReduce the supplies held by the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and set fires. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Fire Setting" card
+@269
+{1B}C1●Spy on Strategy{1B}C0\nLearn the strategy of the power named.\n{1B}C3◆How to do it{1B}C0\nVisit the base named and lie in hiding. Overhear the head's strategy and the mission is done.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Silent Step" card
+@270
+Chunin Missions
+@271
+Missions you can get as Chunin.\n※ You may also be given Genin missions.\n\n{1B}C1●Steal Rice{1B}C0\nSteal rice from a rice shop.\n{1B}C3◆How to do it{1B}C0\nSneak into a town rice shop and steal rice. The bigger the town, the more you can steal.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
+@272
+{1B}C1●Attack Target{1B}C0\nAttack the person named.\n{1B}C3◆How to do it{1B}C0\nMeeting the person starts a duel. Win and wound them to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
+@273
+{1B}C1●Guard Route{1B}C0\nEscort a merchant house's pack train on the route named.\n{1B}C3◆How to do it{1B}C0\nGo to the town named and join the pack train, then travel the route with it. Enemy attacks on the way start duels. Even if your merchant falls, reaching the destination completes the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
+@274
+{1B}C1●Raid Route{1B}C0\nRaid a merchant house's pack train on the route named.\n{1B}C3◆How to do it{1B}C0\nLook for the pack train on the route named (the road linking two towns). Meeting it starts a duel; win to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
+@275
+{1B}C1●Route Talks{1B}C0\nAsk a merchant house for a higher escort fee.\n{1B}C3◆How to do it{1B}C0\nVisit the merchant house named: [Route Talks]. Mini-game "Haggling".\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech and Accounting
+@276
+{1B}C1●Conscript{1B}C0\nConscript in a town to raise your village's troops.\n{1B}C3◆How to do it{1B}C0\nGo to a town and conscript. The most gifted of those you could hire are picked. The bigger the town, the more you can hire.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill
+@277
+{1B}C1●Repair{1B}C0\nRaise the defense of the ninja village.\n{1B}C3◆How to do it{1B}C0\nRepair the village named. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Split Works" card
+@278
+{1B}C1●Recruit{1B}C0\nRecruit a ronin into the ninja band.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
+@279
+Jonin Missions
+@280
+Missions you can get as Jonin.\n※ You may also be given Genin and Chunin missions.\n\n{1B}C1●Expand{1B}C0\nRaise the size of the ninja village.\n{1B}C3◆How to do it{1B}C0\nExpand the village named. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Trade Network" card
+@281
+{1B}C1●Diplomacy: Alliance{1B}C0\nMake an alliance with another ninja band.\n{1B}C3◆How to do it{1B}C0\nVisit the ninja village named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech and Etiquette skills, "Selfless Heart" card\n\n{1B}C1●Diplomacy: Break{1B}C0\nBreak an alliance with another ninja band.\n{1B}C3◆How to do it{1B}C0\nVisit the ninja village named and choose [Diplomacy].
+@282
+{1B}C1●Diplomacy: Submit{1B}C0\nOffer to become a daimyo house's vassal.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@283
+{1B}C1●Diplomacy: War{1B}C0\nDeclare war on another ninja band.\n{1B}C3◆How to do it{1B}C0\nVisit the ninja village named and choose [Diplomacy].\n\n{1B}C1●Diplomacy: Peace{1B}C0\nMake peace with a ninja band you've broken with.\n{1B}C3◆How to do it{1B}C0\nVisit the ninja village named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@284
+{1B}C1●Diplomacy: Goodwill{1B}C0\nDeepen friendship with another power.\n{1B}C3◆How to do it{1B}C0\nVisit a base of the power named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@285
+Squad Chief Missions
+@286
+Missions you can get as Squad Chief from the boss.\n\n{1B}C1●Take Base{1B}C0\nCapture the base named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target base.\n\n{1B}C1●Destroy Power{1B}C0\nCapture every ninja village of the power named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target power's villages.
+@287
+Boatman Missions
+@288
+Missions you can get as Boatman.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+@289
+{1B}C1●Buy Rice{1B}C0\nBuy as much rice as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so selling high and buying low again and again raises your results; buy where rice is cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@290
+{1B}C1●Bodyguard{1B}C0\nEscort your client to the destination.\n{1B}C3◆How to do it{1B}C0\nTravel with your client. Enemy attacks on the map start duels. Reach the destination without your charge falling and the mission is done.\n{1B}C3◆Useful skills etc.{1B}C0\nMartial Arts etc.
+@291
+{1B}C1●Steal Valuable{1B}C0\nSteal a valuable from the home of the person named.\n{1B}C3◆How to do it{1B}C0\nVisit their home. If they're out you can sneak in and search; pick likely hiding places and find it to succeed. If they come home midway, try again later.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill
+@292
+{1B}C1●Route Talks{1B}C0\nAsk a merchant house for a higher escort fee.\n{1B}C3◆How to do it{1B}C0\nVisit the merchant house named: [Route Talks]. Mini-game "Haggling".\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech and Accounting
+@293
+{1B}C1●Guard Port{1B}C0\nProtect a town from pirate raids.\n{1B}C3◆How to do it{1B}C0\nVisit the town named and stand ready. A pirate raid during your watch starts a battle. Hold out for 20 days to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNavy skill, field (sea) battle cards
+@294
+{1B}C1●Drill{1B}C0\nRaise the training of the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the fort's drill ground and choose [Train]. The result depends on a mock battle: win with as little damage as you can for better results.\n{1B}C3◆Useful skills etc.{1B}C0\nNavy skill, field (sea) battle cards
+@295
+{1B}C1●Build Ships{1B}C0\nBuild as many sekibune as you can.\n{1B}C3◆How to do it{1B}C0\nBuild them at the named fort's shipyard (mini-game "Joinery").\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding, "Split Works" card\n\n{1B}C1●Talent Search{1B}C0\nFind ronin you haven't met.\n{1B}C3◆How to do it{1B}C0\nVisit common homes in towns.
+@296
+{1B}C1●Scout Base{1B}C0\nSneak into the base named and gather information.\n{1B}C3◆How to do it{1B}C0\nSneak into the base's drill ground and gather information.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Silent Step" card
+@297
+{1B}C1●Sabotage{1B}C0\nLower the defense of the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and sabotage it. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Stone Pull" card
+@298
+{1B}C1●Rumours{1B}C0\nLower public order in the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and spread rumours. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Disguise" card
+@299
+{1B}C1●Arson{1B}C0\nReduce the supplies held by the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and set fires. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Fire Setting" card
+@300
+Bosun Missions
+@301
+Missions you can get as Bosun.\n※ You can also get Boatman missions.\n\n{1B}C1●Guard Route{1B}C0\nEscort a merchant house's pack train on the route named.\n{1B}C3◆How to do it{1B}C0\nGo to the town named and join the pack train, then travel the route with it. Enemy attacks on the way start duels. Even if your merchant falls, reaching the destination completes the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nMartial Arts etc.
+@302
+{1B}C1●Raid Route{1B}C0\nRaid a merchant house's pack train on the route named.\n{1B}C3◆How to do it{1B}C0\nLook for the pack train on the route named (the road or sea route linking two towns). Meeting it starts a duel; win to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nMartial Arts etc.
+@303
+{1B}C1●Steal Ship{1B}C0\nSteal a ship from another pirate band.\n{1B}C3◆How to do it{1B}C0\nVisit the pirate fort named with two companions, sneak into the shipyard and steal a sekibune. If the enemy spots you, your companions hold them off in duels one at a time. If all three of you lose, the mission fails.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu and Martial Arts skills, "Silent Step" card etc.
+@304
+{1B}C1●Build Large Ship{1B}C0\nBuild as many large ships as you can at the shipyard.\n{1B}C3◆How to do it{1B}C0\nVisit the shipyard of the fort named and build large ships. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Split Works" card
+@305
+{1B}C1●Repair{1B}C0\nRaise the defense of the pirate fort.\n{1B}C3◆How to do it{1B}C0\nRepair the fort named. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Split Works" card
+@306
+{1B}C1●Recruit{1B}C0\nRecruit a ronin into the pirate band.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
+@307
+Ship Captain Missions
+@308
+Missions you can get as Ship Captain.\n※ You can also get Boatman and Bosun missions.\n\n{1B}C1●Blockade{1B}C0\nBlockade a merchant house's trade route.\n{1B}C3◆How to do it{1B}C0\nHead for the route named with four companions. Hold there for a set time while fighting the route's escort to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNavy skill, field (sea) battle cards
+@309
+{1B}C1●Pirate Hunt{1B}C0\nDrive off pirates.\n{1B}C3◆How to do it{1B}C0\nHead for the sea area named with four companions. Hold there for a set time while fighting the pirates plaguing it to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNavy skill, field (sea) battle cards\n{1B}C3◆On success{1B}C0\nThe area's danger drops and your ship-flag income rises.
+@310
+{1B}C1●Coastal Raid{1B}C0\nRaid a town to disrupt its trade routes.\n{1B}C3◆How to do it{1B}C0\nHead for the town named with four companions. You'll fight the town's own fleet; win and raid the town to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNavy skill, field (sea) battle cards
+@310.1
+※ If the hero is Fleet Captain or above and orders\n this, 1000+ sekibune are needed.\n
+@311
+{1B}C1●Build Ironclad{1B}C0\nBuild as many ironclads as you can at the shipyard.\n{1B}C3◆How to do it{1B}C0\nVisit the shipyard of the fort named and build ironclads. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Split Works" card
+@312
+{1B}C1●Expand{1B}C0\nRaise the size of the pirate fort.\n{1B}C3◆How to do it{1B}C0\nExpand the fort named. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Trade Network" card
+@313
+{1B}C1●Diplomacy: Alliance{1B}C0\nMake an alliance with another pirate band.\n{1B}C3◆How to do it{1B}C0\nVisit the pirate fort named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech and Etiquette skills, "Selfless Heart" card\n\n{1B}C1●Diplomacy: Break{1B}C0\nBreak an alliance with another pirate band.\n{1B}C3◆How to do it{1B}C0\nVisit the pirate fort named and choose [Diplomacy].
+@314
+{1B}C1●Diplomacy: Submit{1B}C0\nOffer to become a daimyo house's vassal.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and choose [Diplomacy]. The closer you are to the other daimyo, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@315
+{1B}C1●Diplomacy: War{1B}C0\nDeclare war on another pirate band.\n{1B}C3◆How to do it{1B}C0\nVisit the pirate fort named and choose [Diplomacy].\n\n{1B}C1●Diplomacy: Peace{1B}C0\nMake peace with a pirate band you've broken with.\n{1B}C3◆How to do it{1B}C0\nVisit the pirate fort named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@316
+{1B}C1●Diplomacy: Goodwill{1B}C0\nDeepen friendship with another power.\n{1B}C3◆How to do it{1B}C0\nVisit a base of the power named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
+@317
+Fleet Captain Missions
+@318
+Missions you can get as Fleet Captain from the chief.\n\n{1B}C1●Take Base{1B}C0\nCapture the base named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target base.\n\n{1B}C1●Destroy Power{1B}C0\nCapture every pirate fort of the power named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target power's forts.
+@319
+Apprentice Missions
+@320
+Missions you can get as Apprentice.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+@321
+{1B}C1●Sell Rice{1B}C0\nSell the rice you're given at a better price.\n{1B}C3◆How to do it{1B}C0\nSell it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so buying low and selling high again and again raises your results; sell where rice is dear.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@322
+{1B}C1●Buy Rice{1B}C0\nBuy as much rice as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so selling high and buying low again and again raises your results; buy where rice is cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@323
+{1B}C1●Buy Horses{1B}C0\nBuy as many warhorses as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy them at a town stable. Horse prices differ by town, so buy where they're cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@324
+{1B}C1●Buy Guns{1B}C0\nBuy as many guns as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy them at a town merchant house or smithy. The closer you are to the merchant or smith, the cheaper. Smithies are cheaper but make to order, which takes time; [Help Make Guns] after ordering shortens it.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@325
+{1B}C1●Sell Guns{1B}C0\nSell the guns you're given to a daimyo house.\n{1B}C3◆How to do it{1B}C0\nVisit a daimyo's castle and negotiate a sale. The closer you are, the better.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@326
+{1B}C1●Buy Cannon{1B}C0\nBuy as many cannon as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy them at a town smithy or Nanban trading house; the closer you are to the smith or Nanban merchant, the cheaper. A Nanban trading house needs a letter of introduction from a Nanban temple's missionary. Smithies make to order, which takes time.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@327
+{1B}C1●Corner Rice{1B}C0\nBuy up the rice of the castle named.\n{1B}C3◆How to do it{1B}C0\nVisit the castle and negotiate to have them sell you as much rice as possible.\n\n{1B}C1●Debt Collection{1B}C0\nCollect war funds lent to a daimyo house.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the indebted daimyo and collect. If they beat down the sum, the hero can make up the shortfall.
+@328
+{1B}C1●Survey Specialties{1B}C0\nSurvey the specialties of the trade area named.\n{1B}C3◆How to do it{1B}C0\nVisit the town guilds in the trade area and choose [Market Prices]. Survey every town to complete the mission.\n\n{1B}C1●Talent Search{1B}C0\nFind ronin you haven't met yet.\n{1B}C3◆How to do it{1B}C0\nVisit common homes and the like in towns to find ronin you don't know. The more you find, the better the rating.
+@329
+{1B}C1●Deliver Trade Goods{1B}C0\nCarry trade goods to another town's guild.\n{1B}C3◆How to do it{1B}C0\nTake the goods you're given to the guild of the town named. Bandit attacks on the way start duels.\n{1B}C3◆Useful skills etc.{1B}C0\nMartial Arts etc.
+@330
+{1B}C1●Advertise Shop{1B}C0\nAdvertise a branch shop.\n{1B}C3◆How to do it{1B}C0\nVisit the town named and promote the shop. Getting leave first from a daimyo house you're purveyor to, to say "By Appointment", makes it more effective. It costs money.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@331
+{1B}C1●Peddling{1B}C0\nGo about selling the valuables you're given.\n{1B}C3◆How to do it{1B}C0\nTalk to people walking on the map and sell them the valuables, naming a price. The smallest unit is 100 mon (1 kan is 1000 mon).\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@332
+{1B}C1●Buy Trade Goods{1B}C0\nStock up on trade goods at other towns' guilds.\n{1B}C3◆How to do it{1B}C0\nVisit a town guild and buy the goods named.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@333
+{1B}C1●Buy Treasure{1B}C0\nVisit a town merchant house and buy the valuable named.\n{1B}C3◆How to do it{1B}C0\nVisit a town tavern to learn which town sells it, then buy it at that town's merchant house.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@334
+{1B}C1●Sell Treasure{1B}C0\nSell a valuable to the person named.\n{1B}C3◆How to do it{1B}C0\nVisit the person's home and sell it. The result depends on the mini-game "Haggling".\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@335
+Clerk Missions
+@336
+Missions you can get as Clerk.\n※ You can also get Apprentice missions.\n\n{1B}C1●Gift Funds{1B}C0\nSend war funds to the power named to deepen friendship.\n{1B}C3◆How to do it{1B}C0\nVisit the facility at its seat where the head is (castle, ninja house or pirate house) and choose [Diplomacy]. The more you give, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\n"Selfless Heart" card
+@337
+{1B}C1●Repair{1B}C0\nRaise the defense of the base named.\n{1B}C3◆How to do it{1B}C0\nRepair the base. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Split Works" card
+@338
+{1B}C1●Expand{1B}C0\nRaise the size of the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and expand it. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Trade Network" card
+@339
+{1B}C1●Moneylending{1B}C0\nLend war funds to a daimyo house.\n{1B}C3◆How to do it{1B}C0\nVisit a daimyo's castle and offer a loan. The more you lend, the better. The sum offered depends on the house's funds and strategy; if it's below what you can lend, you can raise it with the mini-game "Haggling".\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@340
+{1B}C1●Invest{1B}C0\nInvest money in a town.\n{1B}C3◆How to do it{1B}C0\nVisit the guild of the town named and [Invest]. The more you invest, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
+@341
+Head Clerk Missions
+@342
+Missions you can get as Head Clerk.\n※ You can also get Apprentice and Clerk missions.\n\n{1B}C1●Bribe{1B}C0\nSend a bribe to keep your go-between (the officer who helped you become a purveyor) sweet.\n{1B}C3◆How to do it{1B}C0\nVisit the home of the person named and give the gift.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill
+@343
+{1B}C1●Recruit{1B}C0\nRecruit a ronin into the merchant house.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
+@344
+{1B}C1●Resign Purveyor{1B}C0\nGive up the post of a daimyo house's purveyor.\n{1B}C3◆How to do it{1B}C0\nVisit the castle of the daimyo named and say you will resign as purveyor.

@@ -1,0 +1,1735 @@
+# msg00: shared fragments. Slots: {02}{01} speaker, {02}{02} listener, {02}{03} third
+# person; fields g full name, e family name, f given name, i rank title, {EC} house/shop.
+# Inserted with {01}C<entry>{00} into sentences. Pronoun inserts give plain English
+# ("I", "you"); vocative and title entries give capitalised forms; verb endings and
+# politeness fragments (entries 63-356, 373-400) are empty: English sentences say it
+# themselves, so translations drop those inserts.
+
+# ranks
+@0
+Daimyo
+@0.1
+Province Lord
+@0.2
+Castle Lord
+@0.3
+Chief Retainer
+@0.4
+Commander
+@0.5
+Samurai General
+@0.6
+Ashigaru General
+@0.7
+Ashigaru Captain
+@0.8
+Ronin
+
+@1
+Obtained {02}=e!
+@2
+Using {02}=e.
+@3
+{02}{03}g's\n{02}yd rose by {02}od.
+@4
+{02}{03}g's\n{02}yd fell by {02}od.
+@5
+Obtained {02}o{C8}.
+@6
+Obtained {02}3g.
+@7
+{02}yd skill rose to {02}od.
+@8
+{02}{03}g has collapsed...
+
+# I
+@10.*
+I
+@11.*
+I
+@14.*
+I
+
+# you (pronoun)
+@15.*
+you
+@16.*
+you
+@21-25.*
+you
+
+# vocative lord titles (J targets of the vocative chain)
+@17
+My liege
+@17.1
+My lord
+@17.2
+Your Holiness
+@17.3
+My lord
+@18
+My liege
+@18.1
+My lord
+@18.2
+Your Holiness
+@18.3
+My lord
+@19
+My liege
+@19.1
+My lord
+@19.2
+Your Holiness
+@19.3
+My lord
+@20
+My liege
+@20.1
+My lord
+@20.2
+Your Holiness
+@20.3
+My lord
+
+# that person (third person, absent)
+@26
+that person
+@27
+that one
+@28
+the princess
+@28.1
+the young lord
+@28.2
+the princess
+@28.3
+the young lord
+@28.4
+Lord {02}{03}f
+@28.5
+that one
+@28.6
+that fellow
+@28.7
+that one
+@28.8
+that one
+@28.9
+the master
+@28.10
+that person
+@28.11
+that one
+@28.12
+that fellow
+@28.13
+that one
+@28.14
+that person
+@29
+the boss
+@29.1
+that person
+@29.2
+that one
+@29.3
+that fellow
+@29.4
+that one
+@29.5
+that one
+@29.6
+the master
+@29.7
+that person
+@29.8
+that one
+@29.9
+that fellow
+@29.10
+that one
+@29.11
+that one
+@29.12
+the master
+@29.13
+that person
+@29.14
+that one
+@30
+the chief
+@30.1
+the young master
+@30.2
+the young master
+@30.3
+Lord {02}{03}f
+@30.4
+that one
+@30.5
+that fellow
+@30.6
+that one
+@30.7
+that one
+@30.8
+the master
+@30.9
+that one
+@30.10
+that fellow
+@30.11
+that one
+@30.12
+that one
+@30.13
+the master
+@30.14
+that person
+@30.15
+that one
+@31
+the old master
+@31.1
+the young master
+@31.2
+Master {02}{03}f
+@31.3
+the {02}{03}i
+@31.4
+the young master
+@31.5
+Master {02}{03}f
+@31.6
+that one
+@31.7
+that one
+@31.8
+the master
+@31.9
+that person
+@31.10
+that one
+@31.11
+that one
+@31.12
+the master
+@31.13
+that person
+@32
+our lord
+@32.1
+the master
+@32.2
+Father
+@32.3
+Mother
+@32.4
+Grandmother
+@32.5
+Grandfather
+@32.6
+Aunt
+@32.7
+Uncle
+@32.8
+Sister
+@32.9
+Brother
+@32.10
+Brother
+@32.11
+that fellow
+@32.12
+that one
+@32.13
+that person
+@32.14
+the master
+@32.15
+the master
+
+# this person (third person, present)
+@33
+this person
+@34
+this one
+@35
+the princess
+@35.1
+the young lord
+@35.2
+the princess
+@35.3
+the young lord
+@35.4
+Lord {02}{02}f
+@35.5
+this one
+@35.6
+this one
+@35.7
+the master
+@35.8
+this one
+@35.9
+this person
+@35.10
+this one
+@35.11
+the master
+@35.12
+this person
+@36
+the boss
+@36.1
+this person
+@36.2
+this one
+@36.3
+this one
+@36.4
+the master
+@36.5
+this person
+@36.6
+this one
+@36.7
+this one
+@36.8
+the master
+@36.9
+this person
+@36.10
+this one
+@37
+the chief
+@37.1
+the young master
+@37.2
+this person
+@37.3
+the young master
+@37.4
+Lord {02}{02}f
+@37.5
+this one
+@37.6
+this one
+@37.7
+the master
+@37.8
+this person
+@37.9
+this one
+@37.10
+this one
+@37.11
+the master
+@37.12
+this person
+@37.13
+this one
+@38
+the old master
+@38.1
+the young master
+@38.2
+this gentleman
+@38.3
+the young master
+@38.4
+Master {02}{02}f
+@38.5
+this one
+@38.6
+this one
+@38.7
+the master
+@38.8
+this person
+@38.9
+this one
+@38.10
+this person
+@39
+our lord
+@39.1
+the master
+@39.2
+Father
+@39.3
+Mother
+@39.4
+Grandmother
+@39.5
+Grandfather
+@39.6
+Aunt
+@39.7
+Uncle
+@39.8
+Sister
+@39.9
+Brother
+@39.10
+Brother
+@39.11
+this fellow
+@39.12
+this one
+@39.13
+this person
+@39.14
+the master
+@39.15
+the master
+
+# honorific suffixes after a name: nothing in English
+@40.*
+
+@42.*
+
+
+# vocative titles
+@41
+My lord
+@41.1
+Lord Shogun
+@41.2
+Your Highness
+@41.3
+Lord Chancellor
+@41.4
+Minister of the Left
+@41.5
+Minister of the Right
+@41.6
+Inner Minister
+@43
+Monkey
+@44
+Kuni
+@44.1
+Sena
+@44.2
+Toku
+@44.3
+O-Kiku
+@44.4
+Hayakawa
+@44.5
+O-Fuyu
+@44.6
+Ai
+@44.7
+O-Yoshi
+@44.8
+O-Go
+@44.9
+O-Ei
+@44.10
+O-Tama
+@44.11
+O-Fuku
+@44.12
+O-Ume
+@44.13
+Hatsu
+@44.14
+Teru
+@44.15
+Minami
+@45
+Princess
+@45.1
+Young lord
+@45.2
+Princess
+@45.3
+Young lord
+@45.4
+Lord {02}{02}f
+@45.5
+Master
+@46
+Boss
+@46.1
+Lord {02}{02}f
+@46.2
+{02}{02}i
+@46.3
+Master
+@46.4
+Master
+@47
+Chief
+@47.1
+Young master
+@47.2
+Young master
+@47.3
+Lord {02}{02}f
+@47.4
+Master
+@47.5
+Master
+@48
+Master
+@48.1
+Young master
+@48.2
+Master {02}{02}f
+@48.3
+{02}{02}i
+@48.4
+Young master
+@48.5
+Master {02}{02}f
+@48.6
+Master
+@48.7
+Master
+@48.8
+Master {02}{02}{EC}
+@49
+My lord
+@49.1
+{02}{02}g
+@49.2
+Father
+@49.3
+Mother
+@49.4
+Grandmother
+@49.5
+Grandfather
+@49.6
+Aunt
+@49.7
+Uncle
+@49.8
+Sister
+@49.9
+Brother
+@49.10
+Brother
+@49.11
+{02}{02}e
+@49.12
+Ma'am
+@49.13
+Sir
+@49.14
+Missus
+@49.15
+Old man
+@49.16
+Master
+@49.17
+Lord {02}{02}{EC}
+@49.18
+Lord {02}{02}f
+@49.19
+Master
+@49.20
+Lord {02}{02}g
+@49.21
+Lord {02}{02}f
+
+# third person titles (the lord of the speaker, a named person...)
+@51
+the princess
+@51.1
+the young lord
+@51.2
+the princess
+@51.3
+the young lord
+@51.4
+Lord {02}{03}f
+@51.5
+the master
+@51.6
+the master
+@52
+the boss
+@52.1
+Lord {02}{03}f
+@52.2
+the {02}{03}i
+@52.3
+the master
+@52.4
+the master
+@53
+the chief
+@53.1
+the young master
+@53.2
+the young master
+@53.3
+Lord {02}{03}f
+@53.4
+the master
+@53.5
+the master
+@54
+the old master
+@54.1
+the young master
+@54.2
+Master {02}{03}f
+@54.3
+the {02}{03}i
+@54.4
+the young master
+@54.5
+Master {02}{03}f
+@54.6
+the master
+@54.7
+the master
+@54.8
+Master {02}{03}{EC}
+@55
+our lord
+@55.1
+your master
+@55.2
+your wife
+@55.3
+your father
+@55.4
+your mother
+@55.5
+your grandmother
+@55.6
+your grandfather
+@55.7
+your aunt
+@55.8
+your uncle
+@55.9
+your sister
+@55.10
+your brother
+@55.11
+Lord {02}{03}f
+@55.12
+Lord {02}{03}g
+@55.13
+Lord {02}{03}g
+@55.14
+the princess
+@55.15
+the young lord
+@55.16
+Lord {02}{03}g
+@55.17
+the princess
+@55.18
+the young lord
+@55.19
+Lord {02}{03}f
+@55.20
+Lord {02}{03}f
+@55.21
+Lord {02}{03}f
+@55.22
+your master
+@55.23
+Lord {02}{03}g
+@55.24
+Lord {02}{03}f
+@55.25
+Lord {02}{03}g
+@55.26
+Lord {02}{03}f
+@56
+the Shogun
+@56.1
+our lord
+@56.2
+the master
+@56.3
+Father
+@56.4
+Mother
+@56.5
+Grandmother
+@56.6
+Grandfather
+@56.7
+Aunt
+@56.8
+Uncle
+@56.9
+Sister
+@56.10
+Brother
+@56.11
+Brother
+@56.12
+{02}{03}e
+@56.13
+Lord {02}{03}e
+@56.14
+the master
+@56.15
+Lord {02}{03}{EC}
+@56.16
+Lord {02}{03}f
+@56.17
+the master
+@57
+the princess
+@57.1
+the young lord
+@57.2
+the princess
+@57.3
+the young lord
+@57.4
+Lord {02}{03}g
+@57.5
+the master
+@57.6
+the master
+@58
+the boss
+@58.1
+Lord {02}{03}f
+@58.2
+the {02}{03}i
+@58.3
+Lord {02}{03}g
+@58.4
+the master
+@58.5
+the master
+@59
+the chief
+@59.1
+the young master
+@59.2
+the young master
+@59.3
+Lord {02}{03}g
+@59.4
+the master
+@59.5
+the master
+@60
+the old master
+@60.1
+the young master
+@60.2
+Master {02}{03}f
+@60.3
+the {02}{03}i
+@60.4
+the young master
+@60.5
+Master {02}{03}g
+@60.6
+the master
+@60.7
+Master {02}{03}{EC}
+@61
+our lord
+@61.1
+your master
+@61.2
+your wife
+@61.3
+your father
+@61.4
+your mother
+@61.5
+your grandmother
+@61.6
+your grandfather
+@61.7
+your aunt
+@61.8
+your uncle
+@61.9
+your sister
+@61.10
+your brother
+@61.11
+Lord {02}{03}g
+@61.12
+Lord {02}{03}g
+@61.13
+Lord {02}{03}g
+@61.14
+the princess
+@61.15
+the young lord
+@61.16
+Lord {02}{03}g
+@61.17
+the princess
+@61.18
+the young lord
+@61.19
+Lord {02}{03}g
+@61.20
+Lord {02}{03}g
+@61.21
+Lord {02}{03}g
+@61.22
+your master
+@61.23
+Lord {02}{03}g
+@61.24
+Lord {02}{03}g
+@62
+the Shogun
+@62.1
+our lord
+@62.2
+the master
+@62.3
+Father
+@62.4
+Mother
+@62.5
+Grandmother
+@62.6
+Grandfather
+@62.7
+Aunt
+@62.8
+Uncle
+@62.9
+Sister
+@62.10
+Brother
+@62.11
+Brother
+@62.12
+{02}{03}g
+@62.13
+Lord {02}{03}g
+@62.14
+the master
+@62.15
+Lord {02}{03}{EC}
+@62.16
+Lord {02}{03}g
+@62.17
+the master
+
+# verb endings, politeness, particles: empty
+@63-356.*
+
+
+# yes / no / interjections
+@357-363.*
+Yes
+@364-370.*
+No
+@371.*
+Oh
+@372.*
+Oh
+
+# honorific prefixes, "let's see", "please": empty
+@373-400.*
+
+
+# nouns that depend on the profession (samurai / ninja / pirate / merchant)
+@401
+shop funds
+@401.1
+war funds
+@402
+shop funds
+@402.1
+war funds
+@403-405.*
+town
+@403.1
+castle
+@403.2
+village
+@403.3
+fort
+@404.1
+castle
+@404.2
+village
+@404.3
+fort
+@405.1
+castle
+@405.2
+village
+@405.3
+fort
+@406-408.*
+castle lord
+@406.2
+boss
+@406.3
+fleet captain
+@406.4
+manager
+@407.2
+boss
+@407.3
+fleet captain
+@407.4
+manager
+@408.2
+boss
+@408.3
+fleet captain
+@408.4
+manager
+@409-411.*
+aide
+@409.4
+helper
+@410.4
+helper
+@411.4
+helper
+@412-413.*
+subordinate
+@412.1
+officer
+@412.5
+officer
+@413.1
+officer
+@413.5
+officer
+@414-416.*
+base
+@414.1
+castle
+@414.4
+shop
+@414.5
+castle
+@415.1
+castle
+@415.4
+shop
+@415.5
+castle
+@416.1
+castle
+@416.4
+shop
+@416.5
+castle
+@417-419.*
+direct-rule base
+@417.1
+direct-rule castle
+@417.4
+direct-run shop
+@417.5
+direct-rule castle
+@418.1
+direct-rule castle
+@418.4
+direct-run shop
+@418.5
+direct-rule castle
+@419.1
+direct-rule castle
+@419.4
+direct-run shop
+@419.5
+direct-rule castle
+@420-422.*
+follower
+@420.1
+retainer
+@420.5
+retainer
+@421.1
+retainer
+@421.5
+retainer
+@422.1
+retainer
+@422.5
+retainer
+@423-425.*
+our house
+@423.2
+our band
+@423.3
+our crew
+@423.4
+our firm
+@424.2
+our band
+@424.3
+our crew
+@424.4
+our firm
+@425.2
+our band
+@425.3
+our crew
+@425.4
+our firm
+@426-428.*
+subordinate
+@426.1
+vassal
+@426.5
+vassal
+@427.1
+vassal
+@427.5
+vassal
+@428.1
+vassal
+@428.5
+vassal
+@429
+Manager
+@429.1
+Master
+@429.2
+Boss
+@429.3
+Boss
+@429.4
+Captain
+@429.5
+Chief
+@429.6
+My lord
+@429.7
+My lord
+
+# results and mission texts
+@431
+Could not lower the {02}yd\nof {02}{15}e.
+@431.1
+Lowered the {02}yd\nof {02}{15}e by {02}od.
+@433
+The defense of {02}{15}e did not drop.\n
+@433.1
+The defense of {02}{15}e dropped by {02}od.\n
+@434
+Provisions did not drop.\n
+@434.1
+Provisions dropped by {02}pd.\n
+@435
+Horses did not drop.\n
+@435.1
+Horses dropped by {02}qd.\n
+@436
+Guns did not drop.
+@436.1
+Guns dropped by {02}rd.
+@437
+The officers of {02}{15}e, too,\nseem to have grown suspicious of one another.
+@438
+A bonus is added to the results.
+@439
+Mastered the {02}yd skill.
+@440
+Infantry
+@440.1
+Cavalry
+@440.2
+Gunnery
+@440.3
+Navy
+@440.4
+Archery
+@440.5
+Martial Arts
+@440.6
+Tactics
+@440.7
+Ninjutsu
+@440.8
+Building
+@440.9
+Farming
+@440.10
+Mining
+@440.11
+Accounting
+@440.12
+Etiquette
+@440.13
+Speech
+@440.14
+Tea
+@440.15
+Medicine
+@441
+No result
+
+# mission goals
+@443
+Learn more skills
+@443.1
+Earn {02}od kan of war funds
+@443.2
+Raise war funds to {02}od kan
+@443.3
+Raise order by {02}od
+@443.4
+Raise yield by {02}od,000 koku
+@443.5
+Raise mining by {02}od
+@443.6
+Buy {02}od,000 koku of rice
+@443.7
+Buy {02}od horses
+@443.8
+Buy {02}od guns
+@443.9
+Buy {02}od cannons
+@443.10
+Raise training by {02}od
+@443.11
+Add {02}od soldiers
+@443.12
+Raise defense by {02}od
+@443.13
+Raise base size by {02}od
+@443.14
+Scout {02}od ronin
+@443.15
+Gather detailed intelligence
+@443.16
+Lower defense by {02}od
+@443.17
+Lower order by {02}od
+@443.18
+Burn military supplies
+@443.19
+Conclude an alliance
+@443.20
+Break an alliance
+@443.21
+Bring the target under control
+@443.22
+Make the target submit
+@443.23
+Declare war
+@443.24
+Make peace
+@443.25
+Improve relations
+@443.26
+Raise court standing by {02}od
+@443.27
+Recruit the target
+@443.28
+Take the target base
+@443.29
+Take the target province
+@443.30
+Defeat the target clan
+@443.31
+Take the target region
+@443.32
+Learn more skills
+@443.33
+Buy {02}od,000 koku of rice
+@443.34
+Protect the VIP
+@443.35
+Raise the town's goods' reputation
+@443.36
+Find {01}C{BA}{01}
+@443.37
+Obtain {01}C{BA}{01}
+@443.38
+Steal {02}od,000 koku of rice from rice dealers
+@443.39
+Attack the target
+@443.40
+Protect the supply train
+@443.41
+Wipe out the supply train
+@443.42
+Raise the trade route escort fee
+@443.43
+Eliminate the rogue ninja
+@443.44
+Raise training by {02}od
+@443.45
+Add {02}od soldiers
+@443.46
+Raise defense by {02}od
+@443.47
+Raise base size by {02}od
+@443.48
+Scout {02}od ronin
+@443.49
+Gather detailed intelligence
+@443.50
+Lower defense by {02}od
+@443.51
+Lower order by {02}od
+@443.52
+Burn military supplies
+@443.53
+Conclude an alliance
+@443.54
+Break an alliance
+@443.55
+Make the target submit
+@443.56
+Declare war
+@443.57
+Make peace
+@443.58
+Improve relations
+@443.59
+Recruit the target
+@443.60
+Learn their strategy
+@443.61
+Take a base
+@443.62
+Defeat a clan
+@443.63
+Learn more skills
+@443.64
+Buy {02}od,000 koku of rice
+@443.65
+Protect the VIP
+@443.66
+Seize {01}C{BA}{01}
+@443.67
+Protect the supply train
+@443.68
+Wipe out the supply train
+@443.69
+Seize {02}od sekibune
+@443.70
+Blockade a trade route
+@443.71
+Defeat the pirates
+@443.72
+Raid a port town
+@443.73
+Raise the trade route escort fee
+@443.74
+Guard a port town
+@443.75
+Raise training by {02}od
+@443.76
+Build {02}od sekibune
+@443.77
+Build {02}od large ships
+@443.78
+Build {02}od ironclads
+@443.79
+Raise defense by {02}od
+@443.80
+Raise base size by {02}od
+@443.81
+Scout {02}od ronin
+@443.82
+Gather detailed intelligence
+@443.83
+Lower defense by {02}od
+@443.84
+Burn military supplies
+@443.85
+Conclude an alliance
+@443.86
+Break an alliance
+@443.87
+Make the target submit
+@443.88
+Declare war
+@443.89
+Make peace
+@443.90
+Improve relations
+@443.91
+Recruit the target
+@443.92
+Take a base
+@443.93
+Defeat a clan
+@443.94
+Learn more skills
+@443.95
+Earn {02}od kan selling rice
+@443.96
+Buy {02}od,000 koku of rice
+@443.97
+Buy {02}od horses
+@443.98
+Buy {02}od guns
+@443.99
+Earn {02}od kan selling guns
+@443.100
+Buy {02}od cannons
+@443.101
+Buy {02}od,000 koku of rice from a daimyo
+@443.102
+Give war funds to build goodwill
+@443.103
+Raise defense by {02}od
+@443.104
+Raise base size by {02}od
+@443.105
+Invest {02}od kan in a guild
+@443.106
+Give a go-between {02}od kan or more
+@443.107
+Resign as purveyor
+@443.108
+Lend daimyo houses {02}od kan in total
+@443.109
+Collect money from daimyo houses
+@443.110
+Survey prices in every town of the trade area
+@443.111
+Transport trade goods
+@443.112
+Scout {02}od ronin
+@443.113
+Recruit the target
+@443.114
+Gain {02}od months of advertising
+@443.115
+Sell valuables
+@443.116
+Buy {02}od trade goods
+@443.117
+Buy the specified valuable
+@443.118
+Sell {01}C{BA}{01} above list price
+@443.119
+Complete the mission
+
+# mission results
+@444
+Learned the {01}C{B8}{01} skill
+@444.1
+Learned the {01}C{B8}{01} skill deeply
+@444.2
+Learned many skills
+@444.3
+Earned {02}pd kan of war funds
+@444.4
+Earned {02}pd kan of war funds
+@444.5
+Raised order by {02}pd
+@444.6
+Raised yield by {02}pd,000 koku
+@444.7
+Raised mining by {02}pd
+@444.8
+Bought {02}pd,000 koku of rice
+@444.9
+Bought {02}pd horses
+@444.10
+Bought {02}pd guns
+@444.11
+Bought {02}pd cannons
+@444.12
+Raised training by {02}pd
+@444.13
+Added {02}pd soldiers
+@444.14
+Raised defense by {02}pd
+@444.15
+Raised base size by {02}pd
+@444.16
+Scouted {02}pd ronin
+@444.17
+Gathered some intelligence
+@444.18
+Gathered detailed intelligence
+@444.19
+Gathered all intelligence
+@444.20
+Lowered defense by {02}pd
+@444.21
+Lowered order by {02}pd
+@444.22
+Burned a few military supplies
+@444.23
+Burned some military supplies
+@444.24
+Burned military supplies
+@444.25
+Burned most military supplies
+@444.26
+Alliance talks failed
+@444.27
+Concluded an alliance
+@444.28
+Broke an alliance
+@444.29
+Could not bring under control
+@444.30
+Brought under control
+@444.31
+Submission refused
+@444.32
+Made the target submit
+@444.33
+Declared war
+@444.34
+Peace talks failed
+@444.35
+Made peace
+@444.36
+Improved relations
+@444.37
+Raised court standing by {02}pd
+@444.38
+Recruiting failed
+@444.39
+Recruited the target
+@444.40
+In progress
+@444.41
+Took the base
+@444.42
+In progress
+@444.43
+Took the target province
+@444.44
+In progress
+@444.45
+Defeated the target clan
+@444.46
+In progress
+@444.47
+Took the target region
+@444.48
+Learned the {01}C{B8}{01} skill
+@444.49
+Learned the {01}C{B8}{01} skill deeply
+@444.50
+Learned many skills
+@444.51
+Bought {02}pd,000 koku of rice
+@444.52
+Escort failed
+@444.53
+Protected the VIP
+@444.54
+Raised the goods' reputation
+@444.55
+Raised the goods' reputation somewhat
+@444.56
+Found {01}C{BA}{01}
+@444.57
+Failed to obtain it
+@444.58
+Obtained it
+@444.59
+Stole {02}pd,000 koku of rice from rice dealers
+@444.60
+Attack succeeded
+@444.61
+Escort failed
+@444.62
+Protected the supply train
+@444.63
+Attack failed
+@444.64
+Wiped out the supply train
+@444.65
+Failed to raise the escort fee
+@444.66
+Raised the escort fee
+@444.67
+Failed to eliminate the rogue ninja
+@444.68
+Eliminated the rogue ninja
+@444.69
+Raised training by {02}pd
+@444.70
+Added {02}pd soldiers
+@444.71
+Raised defense by {02}pd
+@444.72
+Raised base size by {02}pd
+@444.73
+Scouted {02}pd ronin
+@444.74
+Gathered some intelligence
+@444.75
+Gathered detailed intelligence
+@444.76
+Gathered all intelligence
+@444.77
+Lowered defense by {02}pd
+@444.78
+Lowered order by {02}pd
+@444.79
+Burned a few military supplies
+@444.80
+Burned some military supplies
+@444.81
+Burned military supplies
+@444.82
+Burned most military supplies
+@444.83
+Alliance talks failed
+@444.84
+Concluded an alliance
+@444.85
+Broke an alliance
+@444.86
+Submission refused
+@444.87
+Made the target submit
+@444.88
+Declared war
+@444.89
+Peace talks failed
+@444.90
+Made peace
+@444.91
+Improved relations
+@444.92
+Recruiting failed
+@444.93
+Recruited the target
+@444.94
+Failed to learn their strategy
+@444.95
+Learned their strategy
+@444.96
+Took a base
+@444.97
+Defeated a clan
+@444.98
+Learned the {01}C{B8}{01} skill
+@444.99
+Learned the {01}C{B8}{01} skill deeply
+@444.100
+Learned many skills
+@444.101
+Bought {02}pd,000 koku of rice
+@444.102
+Escort failed
+@444.103
+Protected the VIP
+@444.104
+Obtained it
+@444.105
+Escort failed
+@444.106
+Protected the supply train
+@444.107
+Attack failed
+@444.108
+Wiped out the supply train
+@444.109
+Seized {02}pd sekibune
+@444.110
+Failed to blockade the route
+@444.111
+Blockaded the trade route
+@444.112
+Failed to defeat the pirates
+@444.113
+Defeated the pirates
+@444.114
+Raided the port town
+@444.115
+Failed to raise the escort fee
+@444.116
+Raised the escort fee
+@444.117
+Failed to guard the port town
+@444.118
+Guarded the port town
+@444.119
+Raised training by {02}pd
+@444.120
+Built {02}pd sekibune
+@444.121
+Built {02}pd large ships
+@444.122
+Built {02}pd ironclads
+@444.123
+Raised defense by {02}pd
+@444.124
+Raised base size by {02}pd
+@444.125
+Scouted {02}pd ronin
+@444.126
+Gathered some intelligence
+@444.127
+Gathered detailed intelligence
+@444.128
+Gathered all intelligence
+@444.129
+Lowered defense by {02}pd
+@444.130
+Burned a few military supplies
+@444.131
+Burned some military supplies
+@444.132
+Burned military supplies
+@444.133
+Burned most military supplies
+@444.134
+Alliance talks failed
+@444.135
+Concluded an alliance
+@444.136
+Broke an alliance
+@444.137
+Submission refused
+@444.138
+Made the target submit
+@444.139
+Declared war
+@444.140
+Peace talks failed
+@444.141
+Made peace
+@444.142
+Improved relations
+@444.143
+Recruiting failed
+@444.144
+Recruited the target
+@444.145
+Took a base
+@444.146
+Defeated a clan
+@444.147
+Learned the {01}C{B8}{01} skill
+@444.148
+Learned the {01}C{B8}{01} skill deeply
+@444.149
+Learned many skills
+@444.150
+Earned {02}pd kan of war funds
+@444.151
+Bought {02}pd,000 koku of rice
+@444.152
+Bought {02}pd horses
+@444.153
+Bought {02}pd guns
+@444.154
+Earned {02}pd kan of war funds
+@444.155
+Bought {02}pd cannons
+@444.156
+Bought {02}pd,000 koku of rice from a daimyo
+@444.157
+Gave war funds and built goodwill
+@444.158
+Raised defense by {02}pd
+@444.159
+Raised base size by {02}pd
+@444.160
+Invested {02}pd kan
+@444.161
+Our house's standing did not change
+@444.162
+Improved our house's standing
+@444.163
+Greatly improved our house's standing
+@444.164
+Resigned as purveyor
+@444.165
+Lent daimyo houses {02}pd kan in total
+@444.166
+Collected {02}pd kan in total from daimyo houses
+@444.167
+Surveyed prices in every town of the trade area
+@444.168
+Surveyed prices in towns of the trade area
+@444.169
+Transported the goods
+@444.170
+Scouted {02}pd ronin
+@444.171
+Recruiting failed
+@444.172
+Recruited the target
+@444.173
+Gained {02}pd months of advertising
+@444.174
+Sold for {02}pd kan in total
+@444.175
+Bought {02}pd trade goods
+@444.176
+Bought it
+@444.177
+Sold at list price
+@444.178
+Sold below list price
+@444.179
+Sold above list price
+@444.180
+Completed the mission
+
+# professions (new game)
+@445
+Rise in the world and unify the realm.\nRuns domestic affairs, war and diplomacy.
+@446
+Help your daimyo unify the realm.\nSpies, steals and sabotages.
+@447
+Hone your sword to be the land's best.\nFound a school and gather disciples.
+@448
+Help your daimyo unify the realm.\nHunts other pirates and calms the seas.
+@449
+Dominate the trade areas of the land.\nGrows funds by trade and moneylending.
+
+# jobs
+@450
+Buy trade goods
+@451
+Buy a treasure
+@452
+Transport {02}od of {02}Ge
+@453
+Deliver {02}3g
+@454
+Collect {02}od kan of debts
+@455
+Survey trade-good prices in the trade area
+@456
+Help a page in a duel in the target town
+@457
+Work as a tavern bouncer
+@458
+Fight for a dojo in a match
+@459
+Rid the castle and town of bandits
+@460
+Escort a merchant to the target town
+@461
+Help a townswoman take revenge
+@462
+Buy {02}od saltpeter at the Nanban trading house
+@463
+Buy {02}od sulfur from the guild
+@464
+Buy {02}od charcoal from the guild
+@465
+Gather {02}od iron sand
+@466
+Help forge swords
+@467
+Help make guns
+@468
+Target has died; cannot be completed

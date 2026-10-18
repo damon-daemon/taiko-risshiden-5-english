@@ -1,0 +1,1096 @@
+@0
+Maeda Keiji's horse. Bold, tireless and amazingly fast, this legendary steed carried the giant Keiji with ease, a load that would break an ordinary horse in three days.
+@1
+Kato Kiyomasa's horse. Over 1.9 m tall, it awed the assembled generals. Named for Taishakuten, the god who guards the Buddhist law with Bonten.
+@2
+Uesugi Kenshin's horse, also "Hosho Tsukige": a pale grey with a reddish tinge. Kenshin is said to have ridden it in his duel with Shingen at the 4th Kawanakajima.
+@3
+Tokugawa Ieyasu's horse. Despite "white" in its name, it is said to have been black. Ieyasu is said to have ridden it at Sekigahara.
+@4
+Takeda Shingen's horse. So wild that only a superb rider could handle it.
+@5
+A fine horse Hideyoshi gave his retainer Tomita Ippaku, as reward for brokering peace with Oda Nobukatsu after Komaki-Nagakute. Lean, strong and noble.
+@6
+Honda Tadakatsu's horse, said to be a gift from Tokugawa Hidetada. The black horse Tadakatsu rode at Sekigahara.
+@7
+Kikkawa Motoharu's horse. The Rokkaku gave it to shogun Yoshiharu; it passed to Ouchi Yoshitaka, then to Sue Harukata, who gave it to Motoharu as a pledge of brotherhood.
+@8
+Horse of Oda Nobunaga, then Gamo Ujisato. Nobunaga's favourite of the many steeds presented to him, later given to his beloved Ujisato.
+@9
+Mori Nagayoshi's black horse, named for having the strength to charge up the 100 stone steps of his Kaneyama Castle.
+@10
+A black horse bred in Aizu.
+@11
+A packhorse. Slow and weak, it's no good for riding or for war.
+@12
+Legendary Western armour, said to be worn by a holy knight.
+@13
+Legendary armour said to be worn by Chiyou, who fought the Yellow Emperor, founder of China's first dynasty.
+@14
+Legendary armour said to be Minamoto no Yoshitsune's favourite.
+@15
+Armour said to be Mori Motonari's. Its scales, lacing, fittings and ridged helmet are exquisitely fine: a classic work of the late Muromachi era.
+@16
+Said to be made by the Myochin of Sagami, modelled on the Yukinoshita cuirass. Worn by Date Masamune and his men, it is also called the Sendai cuirass.
+@17
+Splendid armour of fine gilt scales laced in red, green, purple and white. Nobunaga sent it to Uesugi Kenshin for an alliance on hearing Shingen was marching west.
+@18
+Lavish armour covered in gold leaf. Ieyasu wore it to bring provisions into Odaka Castle at Okehazama; also called the Odaka Provisioning Armour.
+@19
+Lavish armour covered in silver leaf, said to be owned by Yoshinari, Ieyasu's ninth son and founder of the Owari Tokugawa.
+@20
+Splendid armour laced in red and white. One was offered by Ouchi Yoshitaka to Itsukushima Shrine.
+@21
+Armour said to be Uesugi Kenshin's, with a gilt helmet. Its round sleeves, made separately, are said to be a gift from Nobunaga.
+@22
+Armour said to be Ieyasu's, known for its Nanban helmet with a fern crest. Kuroda Nagamasa received it from Ieyasu.
+@23
+A small haramaki of fine black scales laced in red. Said to be Ieyasu's first armour, made in Nara for Imagawa Yoshimoto.
+@24
+Standard domaru-style armour that Hideyoshi gave Wakisaka Yasuharu, with lacquered iron scales on body and skirt.
+@25
+Armour from Nanban lands. Inspired by it, the Sengoku era made modern armour with fittings matched to helmet and body.
+@26
+Small metal plates joined by chain.
+@27
+Light armour worn by foot soldiers. Easy to move in, but little use for protection.
+@28
+Honda Tadakatsu's spear. A dragonfly that landed on its tip fell cut in two, hence the name: "dragonfly cutter".
+@29
+A spear over 3 m long, carved with Kurikara, a dragon king and avatar of Fudo Myoo. Famous as the spear Mori Tahee, one of Kuroda's 24 Riders, won from Fukushima Masanori in a drinking bout.
+@30
+Yuki Harutomo's spear, one of the Three Great Spears of the realm with Nihongo and Tonbogiri. It burned in an air raid in the war and no longer survives.
+@31
+Made by the Nobukuni school of Kyoto swordsmiths, heirs to the Soshu style. After the Onin war they took the Yamashiro style to Kyushu, and were also called "Tsukushi Nobukuni".
+@32
+Kuroda Nagamasa's spear, made by Heianjo Nagayoshi, teacher of the great smith Muramasa.
+@33
+A plain spear with a single-edged head, like a dagger on a long shaft. Named after Kikuchi Takeshige, who used it in Nitta Yoshisada's service in the Nanbokucho era.
+@34
+A bow half the usual length. Handy, as it can be shot sitting, but not very powerful.
+@35
+A spear popular in the Sengoku era. A guarded tube slides on the shaft and is held in the left hand. It can be thrust fast, ideal for foot soldiers.
+@36
+A spear made for attack and defence: the blade can be set flat to block or upright to strike, as needed.
+@37
+As the name says, a cross-shaped spear. A kind of hooked spear, favoured and refined by the Hozoin school.
+@38
+Spear with a hook on one side.
+@39
+The basic spear: a straight head on a plain, slender shaft.
+@40
+Treasure sword of the Ashikaga of Kanto. Its tang is dewy; drawn in anger it gives off moisture, and blood never clings to the blade, they say.
+@41
+A Chinese treasure sword: the legendary blade forged by Gan Jiang, master smith of Wu in the Warring States era.
+@42
+Made by Muramasa of Ise, a famed smith. Muramasa blades killed Ieyasu's grandfather, father and eldest son, so they were called "swords cursed against the Tokugawa".
+@43
+Made by Goro Nyudo Masamune of Sagami, a famed smith. His style of beautiful temper lines influenced all Japan, and samurai longed for his blades.
+@44
+Handed down in the Hojo, regents of the Kamakura shogunate. After they fell it passed to Nitta Yoshisada, the Ashikaga shoguns, Nobunaga, Hideyoshi and others: prized as a great blade.
+@45
+Made by Awataguchi Yoshimitsu of Kyoto. The Otomo gave it to the Ashikaga shoguns; via Matsunaga Hisahide it came back to them, and after Kyushu they gave it to Hideyoshi.
+@46
+Made by Sadamune of Sagami, Masamune's adopted son, said to be heir to his style above all others.
+@47
+Made by Yasutsuna of Hoki. One of the Five Great Swords. Named for Minamoto no Raiko slaying the demon Shuten Doji of Oeyama. Later owned by Hideyoshi and Ieyasu.
+@48
+Made by Kanemitsu of Bizen: a bold, heavy blade over 90 cm long.
+@49
+A great sword Emperor Go-Toba had Norimune and other Bizen smiths forge in the Kamakura era. The tang bears a sixteen-petal chrysanthemum.
+@50
+Signed Sanjo. Made by Sanjo Kokaji Munechika, master of the mid-Heian era. Named for the crescent moons in its temper line. One of the Five Great Swords.
+@51
+Nobunaga's sword, made by Hasebe Kunishige of Kyoto. Named for when Nobunaga cut a tea servant hiding under a kitchen shelf, shelf and all.
+@52
+Date Masamune's sword. In Korea he cut an enemy general down to the saddle, so it is also called "Saddle Cutter".
+@53
+Made by Sadatoshi of Yamashiro: graceful and elegant.
+@54
+Made by Kagemitsu of Osafune, Bizen, late Kamakura era; said to be Kusunoki Masashige's sword. Named for its relief of the Kurikara dragon.
+@55
+Made by Miike Denta Mitsuyo of Chikugo. One of the Five Great Swords: deeply curved and majestic.
+@56
+Ieyasu's favourite sword, made by Togenji Sukezane of the Fukuoka Ichimonji school of Bizen, who moved to Kamakura. Enshrined with Ieyasu at Nikko Toshogu.
+@57
+The swordsman Ito Ittosai's sword, given to his student Mikogami Tenzen (Ono Tadaaki) with the true Itto-school teaching.
+@58
+Made by Nagamitsu of Bizen. It cost 600 kan, like the 600 volumes of the Great Wisdom Sutra, hence the name. Owned by Yoshiteru, Nagayoshi, then Nobunaga and Ieyasu.
+@59
+A Heike heirloom, said to be given by the court to Taira no Sadamori for defeating Fujiwara no Sumitomo. Deeply curved, double-edged over half its length.
+@60
+Tachibana Dosetsu's sword. Named for when he cut what seemed to be the thunder god as lightning struck him.
+@61
+Yoshihiro was one of Masamune's Ten Disciples and of the three great smiths. Like his master he didn't sign his blades, so fakes abound.
+@62
+Hideyoshi's sword, by Toshiro Yoshimitsu, over 90 cm long. Hideyoshi named Yoshimitsu one of the three great smiths with Masamune and Go Yoshihiro.
+@63
+Made by Tegai Kanenaga, Kamakura master, who first tempered different patterns on each face. Hosokawa Yusai named it after a Manyoshu poem. Later passed to the Mito Tokugawa.
+@64
+Made by Sadayoshi of the Hosho school of Nara. Owned by Maeda Toshiie and handed down in the Maeda.
+@65
+Gamo Ujisato's sword, made by the Kamakura smith Shintogo Kunimitsu.
+@66
+Sasaki Kojiro's sword, said to be by Nagamitsu of Osafune, Bizen, and about 93 cm long.
+@67
+Made by Tsunetsugu of Bitchu. One of the Five Great Swords, given by a believer to Saint Nichiren of Minobu. Used against evil with a rosary hung on it, hence "Juzumaru".
+@68
+Made by Chikuzen Saemon-no-jo Yasuyoshi. Miyoshi Masanaga (Sozo) gave it to Takeda Nobutora, who gave it to Imagawa Yoshimoto. Then it passed to Nobunaga, Mitsuhide, Hideyoshi and Ieyasu.
+@69
+A rusty sickle with a token chain and weight. Not very powerful.
+@70
+Made by the Fukuoka branch of the Ichimonji school of Bizen, whose smiths include Norimune of Kiku-ichimonji fame.
+@71
+A naginata by Nagamitsu of Osafune, Bizen, the second Osafune master, a versatile smith of swords, naginata and more.
+@72
+A dagger by Shintogo Kunimitsu, early Kamakura master and founder of the Soshu smiths. Gamo Ujisato's favourite. Kunimitsu's daggers are straight, without curve.
+@73
+A short sword by the Osafune school of Bizen, founded by Mitsutada in the mid-Kamakura era, which flourished most in the Nanbokucho and Muromachi eras.
+@74
+A wakizashi made in Omi, long home to smithing, which grew into swordmaking in medieval times and paved the way for Kunitomo's guns.
+@75
+A wakizashi by a nameless smith: a short sword worn at the hip for protection, mostly under 60 cm long.
+@76
+A spear by who knows whom. Never polished and rusty in places, it's little use as a weapon.
+@77
+A bamboo blade wrapped in silver foil to look like a sword. Only for keeping up a samurai's appearance; not a real sword, so weak in attack.
+@78
+A bow said to be used by Tawara Toda Hidesato, Heian warrior, to shoot down Soma Kotaro Masakado, rebel of Kanto.
+@79
+A legendary bow, said to be used by Chinzei Hachiro Tametomo, the late-Heian youth with no equal at archery.
+@80
+A legendary bow said to be used by Nasu no Yoichi Munetaka, who at Yashima answered the Heike challenge by shooting down a fan on a bobbing boat.
+@81
+A black-lacquered bow wrapped in rattan, 36 times above and 28 below, they say. Used as a license bow in the Ogasawara school.
+@82
+A strong bow. As its name says, it shoots with more force.
+@83
+A bow shorter than usual. Handy, as it can be shot sitting, but not very powerful.
+@84
+A powerful matchlock of three bound barrels. Its power is beyond measure.
+@85
+A matchlock made at Kunitomo, Omi, famed early on everywhere as a gun-making village.
+@86
+A gun with a barrel about half a standard matchlock's, for close attack.
+@87
+A standard matchlock. Tanegashima, where guns first reached Japan, became another word for the matchlock.
+@88
+Ishibiya were really cannon, not guns, but the word was also used for matchlocks.
+@89
+A legendary ninja tool only the realm's greatest ninja can use.
+@90
+Shuriken shaped like the sun, moon and shooting stars. A ninja weapon for many kinds of attack.
+@91
+Strong steel shuriken, more damaging than normal kunai or shuriken.
+@92
+A ninja tool. Besides a weapon, it was used to climb stone walls and dig holes: the ninja's must-have all-purpose tool.
+@93
+A ninja tool. As the name says, a small weapon to hide in the palm. Held, it's for close combat; thrown, for range.
+@94
+A legendary chain-sickle with a weight of great hardness and crushing force, and a razor-sharp sickle.
+@95
+An eerie chain-sickle whose blade is said to send all who fight it to the land of the dead.
+@96
+A kind of chain-sickle with a golden weight. A little stronger than usual.
+@97
+A kind of chain-sickle, specially made for ninja.
+@98
+Just as it says: a sickle with a weighted chain. A new weapon born in the Sengoku era.
+@99
+Sesshu's work at 67, also called the "Long Landscape Scroll", showing the landscape through the four seasons. Rich in composition and perspective, called the finest Muromachi ink painting.
+@100
+Hon'ami Koetsu's masterpiece: Koetsu's calligraphy over flocks of cranes painted in gold and silver by Tawaraya Sotatsu. Also called the "Crane Scroll of 36 Poets".
+@101
+A scroll Takezaki Suenaga, a Higo vassal, had painted to record his deeds in the Mongol invasions of Bun'ei and Koan.
+@102
+By the painter-monk Josetsu, on the Zen koan of catching a catfish with a gourd. The character here means "catfish", not the Japanese "ayu".
+@103
+By Hon'ami Koetsu, one of the Three Brushes of Kan'ei. Two panels of a gold six-fold screen: Koetsu's Kokinshu poems over Sotatsu's underpainting. Also the "Flowers of the Four Seasons Scroll".
+@104
+By Sesson: a hawk on a pine in lively brushwork. Sesson, a painter-monk of the Satake of Hitachi, admired Sesshu, studied Song and Yuan art and found his own style.
+@105
+A Kamakura-era Yamato painting: dense woods above with the moon rising over them, and in the centre a dim cliff with the silver plume of a waterfall.
+@106
+By Wu Hong of Linchuan, a literati painter of the Eight Masters of Jinling. A great ink painting showing his keen sense of light.
+@107
+Said to be by Xia Gui: a landscape veiled in wind and rain. A late Southern Song painter, he greatly influenced Japanese ink landscapes from the Muromachi era.
+@108
+By Ma Lin. His father Ma Yuan, a leading Southern Song court painter, founded the Ma school, making the most of empty space. It deeply shaped Japanese ink landscapes.
+@109
+Said to be by Muqi: the Xiao and Xiang rivers meeting south of Lake Dongting. One of the Eight Views of Xiaoxiang; once a single scroll owned by Ashikaga Yoshimitsu.
+@110
+Paintings of flowers, birds and insects, a set theme since the Song era, brought to Japan in the Muromachi era. Kaiho Yusho's peacocks and pines is famous.
+@111
+By Luochuang: a lifelike ink painting of a rooster, with light colour on the comb and legs. A late Southern Song Zen monk, said to be heir to the ink master Muqi.
+@112
+A scroll of Chinese-style calligraphy influenced by Ming masters. The style was popular in the early to mid Edo era.
+@113
+A painting of bustling Kyoto. There are many, but the most famous is Kano Eitoku's screen, which Nobunaga gave to Uesugi Kenshin.
+@114
+By Hasegawa Tohaku: a deep pine wood shut in winter fog. Said to be painted in grief after losing his patron Sen no Rikyu and then his son and right hand Kyuzo.
+@115
+By Kano Eitoku: a true Eitoku work in the "grand style" of huge subjects. The style, matching the temper of Nobunaga, Hideyoshi and the age, swept the era.
+@116
+Wall paintings by Hasegawa Tohaku. Chishakuin at the foot of Higashiyama in Kyoto keeps "Cherry Blossoms" by his son Kyuzo, "Maples" by Tohaku and his students, and more.
+@117
+By Kano Eitoku: lavish colour on gold, with one huge cypress that overwhelms the viewer. Now a screen, it was once sliding doors in Prince Hachijo's palace.
+@118
+By Kano Hideyori, a masterpiece of early genre painting: samurai, monks and ladies enjoying the autumn leaves at Takao, in brilliant colour.
+@119
+By Kano Naganobu, Eitoku's brother: women dancing before a young lord on an octagonal hall, and ladies feasting under full cherry blossom, using ink techniques.
+@120
+By the Hasegawa school: a pair of six-fold screens, white chrysanthemums and a stream finely placed. Gold wall painting flourished from Momoyama into the Edo era.
+@121
+By Tosa Mitsuoki: great scenes of "The Tale of Genji" on a screen, a classic theme painted by Kano Eitoku, Kano Tan'yu, Tawaraya Sotatsu and many more.
+@122
+Scribbles by Kyoto children made into a screen. No artistic value.
+@123
+A diplomatic document from the king of Korea, given to those allowed to trade with Korea. Holders were called seal holders; no one else could trade.
+@124
+A travel pass to Korea issued by the lord of Tsushima, used to stop pirates.
+@125
+A diplomatic document from the king of Korea, given to those allowed to trade with Korea. Holders were called seal holders; no one else could trade.
+@126
+A seal from the Ming emperor, given to the one with the right to deal with Ming for Japan. "King" here means diplomatic representative, not a king in today's sense.
+@127
+A tally split between Japan and Ming to prove a ship was an official trader, used to stop pirate smuggling.
+@128
+A tally split between Japan and Ming to prove a ship was an official trader, used to stop pirate smuggling.
+@129
+A daimyo's pass for merchant ships bound for Nanban lands (Southeast Asia).
+@130
+A daimyo's pass for merchant ships bound for Nanban lands (Southeast Asia).
+@131
+A daimyo's pass for merchant ships bound for Nanban lands (Southeast Asia).
+@132
+A crown adorned with jewels, gold and silver. A symbol of power.
+@133
+Fragrant wood in the Shosoin of Todaiji, imported under Emperor Shomu. The characters of "Ranjatai" hide those of "Todaiji". Ashikaga Yoshimasa and Nobunaga were granted pieces.
+@134
+Also called the hard stone. The costliest of gems, from clear to blue, yellow, red and more.
+@135
+A ring set with a clear red ruby.
+@136
+A necklace set with fine jade.
+@137
+A lump of refined gold, in many sizes.
+@138
+A large pearl: a ball formed inside a shellfish. Its noble silver lustre makes it a gem.
+@139
+Tortoiseshell from hawksbill turtles, pressed with water and heat in many layers and worked into combs and hairpins.
+@140
+Gold mined at the Sado gold mine.
+@141
+Silver mined at the Iwami silver mine.
+@142
+Gold dust gathered into small grains.
+@143
+Japan's oldest surviving history, in three books, telling of the creation and the founding of Japan from the age of gods to Empress Suiko.
+@144
+A Nara-era history, one of the Six National Histories and Japan's first official one. Myths, legends and records from the age of gods to Empress Jito.
+@145
+A long tale by Murasaki Shikibu, Heian lady writer. Centred on the court life of Prince Genji, it shows the world of the early and mid Heian era. With "The Pillow Book", a twin peak of Heian letters.
+@146
+Essays by the lady writer Sei Shonagon: musings and observations on the seasons, life and more. With "The Tale of Genji", a twin peak of Heian letters.
+@147
+A medical book in 8 volumes by Manase Dosan, great physician of the Sengoku era.
+@148
+A guide to etiquette and manners the Sengoku general Hojo Gen'an gave the daughter of his nephew and lord Hojo Ujiyasu when she married.
+@149
+Japan's first imperial poetry anthology, compiled by Ki no Tsurayuki and others, with about 1,100 waka.
+@150
+The oldest surviving poetry collection: about 4,500 poems, from one said to be by Emperor Nintoku's empress to the reign of Emperor Junnin.
+@151
+Essays by Kamo no Chomei, written in the early Kamakura era. Rooted in the Buddhist view of impermanence, it tells of life's transience through many examples.
+@152
+Essays by the monk Kenko of the late Kamakura era. With "The Pillow Book", called a twin peak of essay literature.
+@153
+A tale in poems, said to be written by several authors from the poems of the Heian poet Ariwara no Narihira.
+@154
+Japan's oldest work of fiction, written in the early Heian era. Author unknown.
+@155
+A diary by the mother of Fujiwara no Michitsuna, Major Captain of the Right, recording her days and feelings.
+@156
+A history of the early Heian era and the rise of regency rule, told in biographies through the talk of two old men, Oyake no Yotsugi and Natsuyama no Shigeki.
+@157
+A historical tale said to be by Akazome Emon. Centred on the glory of Fujiwara no Michinaga, it shows Heian noble life in story form. Also "Eiga Monogatari".
+@158
+A dictionary of everyday words by topic, mid-Muromachi era, author unknown. Printed by the townsman scholar Manjuya Soji.
+@159
+A Kamakura-era collection of tales by the lay monk Rokuhara Jirozaemon, teaching virtues through moral stories from Japan and China. Used as a children's textbook.
+@160
+Paper a child practised writing on. As paper was precious, they used the backs of books and documents. Not a book, so worth nothing at all.
+@161
+Zuo Qiuming's commentary on the "Spring and Autumn Annals", a Confucian classic by Confucius. With the Gongyang and Guliang, one of the Three Commentaries.
+@162
+First of the Four Books, the Confucian canon. Said to be the sayings of Confucius gathered by his students.
+@163
+A book of war said to be by Wei Liao, strategist of the First Emperor of Qin.
+@164
+A Confucian classic, one of the Four Books with the Analects, Great Learning and Doctrine of the Mean. Mencius's dialogues with lords and students. Mencius is famed for teaching that human nature is good.
+@165
+An anthology by Prince Zhaoming of Liang, 6th century: a thousand years of fine writing by style and era.
+@166
+A book of war: Li Jing's answers to Emperor Taizong (Li Shimin) of Tang.
+@167
+One of the Four Books. First a chapter of the Book of Rites, it teaches the root of learning.
+@168
+By Guiguzi, a strategist of Chu. Such strategists offered diplomatic plans to states; the greatest, Su Qin and Zhang Yi, were both his students.
+@169
+One of the Four Books, by Zisi, grandson of Confucius.
+@170
+The world's oldest history in biographies, by Sima Qian: the long history from ancient times to Emperor Wu, in 130 volumes.
+@171
+A book of strategy Miyamoto Musashi wrote in old age in seclusion at Reigando cave, in five books: Earth, Water, Fire, Wind and Void. A practical philosophy from his life and thought.
+@172
+A war tale said to be by the monk Kojima: 40 volumes on the Nanbokucho war, from the Southern Court's side. Read by Sengoku generals.
+@173
+A war tale on the rise and fall of the Heike clan under Taira no Kiyomori, on the theme that all is fleeting and the mighty fall. Author unknown; sung by biwa monks.
+@174
+A matchlock by who knows whom. Rusted and liable to burst, it's of little use as a weapon.
+@175
+A chronological history by Sima Guang of Northern Song, covering 1,362 years from 403 BC to AD 959.
+@176
+A history by Jien, from Emperor Jinmu to Emperor Juntoku, interpreted through a Buddhist view of the world.
+@177
+A war record of Asakura Soteki's talks, written down by his retainer Hagiwara Hachiroemon: tales of battle and the samurai's frame of mind.
+@178
+A book of naval tactics by Murakami Takeyoshi, a guide to all the Mishima school's sea warfare, which deeply influenced later navies.
+@179
+Debates on government between Emperor Xuanzong of Tang and his ministers; a basic text on politics.
+@180
+A diplomatic history by Zuikei Shuho, early Muromachi Zen monk, detailing Ashikaga Yoshimitsu's dealings with Ming. Such Zen monks served the shogunate as diplomats and interpreters.
+@181
+Japan's oldest maritime law, made between the Kamakura and Muromachi eras. It set rules on chartering ships, cargo damages and more, and was still used in the Edo era.
+@182
+The official history of the Kamakura shogunate: 87 years from Minamoto no Yorimasa's rising through its rise to power.
+@183
+Japan's first anthology of Chinese poems, Nara era. Its editor is disputed: Omi no Mifune and others.
+@184
+A Japanese translation of Aesop's Fables printed in Japan, written in roman letters and used to teach missionaries Japanese.
+@185
+A Heian anthology of fine waka and Chinese poems compiled by Fujiwara no Kinto, widely used as a model for writing poetry.
+@186
+A book of war said to extract only the deepest secrets from the "Wu Sunzi" of Sunzi of Wu and the "Qi Sunzi" of Sunzi of Qi. Compiler unknown.
+@187
+Books of war. Some say the "Wuzi" was forged by strategists of the Wei-Jin era. "Secrets of Wuzi" is said to gather the teachings of the strategist Wu Qi by his students.
+@188
+A book of war said to be by Sun Wu of Wu, in thirteen chapters, beloved of Sengoku generals. Takeda Shingen's famous "Wind, Forest, Fire, Mountain" banner quotes it.
+@189
+A book of war said to be by the strategist Wu Qi, with basics built on harmony among men and practical strategy and tactics. Ranked with Sun Wu's "Art of War".
+@190
+A bamboo skewer whittled into a throwing knife. A weapon of sorts, but weak.
+@191
+A book of war setting out rules of government, command and strategy in three parts. Paired with the "Six Secret Teachings" as "Rikuto Sanryaku".
+@192
+A book of war said to be by Taigong Wang of Zhou, in six volumes of sayings on government, tactics and strategy. The Japanese word for a secret manual, "tora no maki", comes from its "Tiger" volume.
+@193
+A book of war said to be by Cao Cao, Emperor Wu of Wei, in the Three Kingdoms era. Mocked by Zhang Song, he burned it himself, they say. Also Cao Cao's Sunzi notes.
+@194
+A history gathering by state the schemes that strategists urged on the lords of the Warring States. The name "Warring States" comes from it.
+@195
+A book of war of the Spring and Autumn era, said to be by Taigong Wang.
+@196
+By Han Feizi of China's Warring States era: law and punishment as the base of government.
+@197
+A tea scoop by Sen no Rikyu, said to be made for his last tea after he was ordered to commit seppuku. After his death his student Furuta Oribe kept it as a keepsake.
+@198
+A black raku censer by Tanaka Sokei, the potter Hideyoshi gave the title "Best in the Realm" and gold and silver "Raku" seals. Smoke rises from a pair of lions' open mouths.
+@199
+A three-legged censer owned by Hideyoshi. When the thief Ishikawa Goemon tried to steal it from Fushimi Castle, the plovers on its lid cried out and he was caught, they say.
+@200
+A tea scoop by Sen no Sotan, a gem praised in the "Senke Revival Treasures".
+@201
+A flower vase fired in Seto-type kilns near Kukuri in Kani, Mino, late 16th to early 17th century. Momoyama Kiseto has a thicker, opaque yellow glaze than Muromachi wares.
+@202
+A celadon vase: porcelain with an iron glaze, blue-green or pale yellow. Famous are the kinuta celadon of China's Longquan kilns and Goryeo celadon.
+@203
+A small ladle-shaped tool for scraping out ears. It might look like a tea scoop at a glance, but that's just your imagination.
+@204
+A tea kettle, wide-mouthed and squat, named for its likeness to a crawling spider. When Nobunaga demanded it, Matsunaga Hisahide refused, filled it with powder and blew himself up, they say.
+@205
+A tea kettle. "Oto-gozen" means a plump, homely woman, for its full shape. Nobunaga gave it to Yamanoue Soji; it was later presented to Hideyoshi.
+@206
+A tea kettle with a pattern of hail-like dots on its body. It has many names depending on how the dots are laid.
+@207
+Pottery made at Sawankhalok in Thailand, then called Siam. Prized as tea ware in the Azuchi-Momoyama era.
+@208
+Kettles made at Ashiya on the Onga river in Chikuzen from late Kamakura to Momoyama times, until Kyoto kettles took over. Mostly shingyo shape, with "catfish" or "silk" skin.
+@209
+Tea kettles made at Tenmyo in Sano, Shimotsuke. Tea masters loved their rustic style; with Ashiya kettles they were famed as "Ashiya in the west, Tenmyo in the east".
+@210
+A Chinese eggplant caddy, first of the Four Eggplants of the Realm. Named for the 99 kan Murata Juko, founder of tea, paid for it. Lost in the Honnoji fire.
+@211
+One of the Three Tea Jars of the Realm, named for its many lumps like the islands of Matsushima. Imai Sokyu gave it to Nobunaga in Kyoto, but it burned at Honnoji.
+@212
+One of Murata Juko's treasures and of the Four Eggplants of the Realm. Takigawa Kazumasu famously asked Nobunaga for it as a reward and was crushed to be refused. Lost at Honnoji.
+@213
+A great leaf-tea jar, one of the Three Tea Jars of the Realm, named for its seven lumps and slight tilt. It passed from Ashikaga Yoshimasa and Miyoshi Yoshikata to Nobunaga, and burned at Honnoji.
+@214
+One of the Three Great Shouldered Caddies, said to be Yang Guifei's oil jar. Ashikaga Yoshimasa named it "First Flower" for its noble beauty. Nobunaga bought it from a Kyoto merchant.
+@215
+One of the Three Great Shouldered Caddies, also called the "Hakata caddy" as the Hakata merchant and tea master Shimai Soshitsu owned it. Presented to Hideyoshi in the Kyushu campaign.
+@216
+First of the Three Great Shouldered Caddies. Owned by Murata Juko, it was called "the finest caddy in the realm". It passed to Nobunaga, Otomo Sorin and Hideyoshi, then to the Tokugawa.
+@217
+One of the Four Eggplants of the Realm, also "Miotsukushi". Named for its owner, the Sakai tea master Takeno Joo. Imai Sokyu gave it with the Matsushima jar to Nobunaga.
+@218
+A great old Seto caddy, named "Yamanoi" after a poem by Takuan Soho on a mountain spring. Date Masamune received it from Ieyasu.
+@219
+A great Chinese bunrin caddy, named for its owner Asakura Yoshikage of Echizen. Nobunaga later gave it to Honnoji, so it is also the "Honnoji Bunrin".
+@220
+Owned by Jushiya Sogo, Takeno Joo's tea teacher. A large eggplant with one line around the body. Sogo, from Omi, lived in Kyoto and learned tea from Murata Juko.
+@221
+A huge leaf-tea jar holding seven kin. Found in Tango, it was named after the famous Amanohashidate there. Ashikaga Yoshimasa's beloved jar, Sen no Rikyu treasured it for its wabi.
+@222
+A great Chinese caddy owned by Hideyoshi, beautiful in purple and black.
+@223
+A Chinese eggplant caddy, one of the Three Eggplants of the Realm, named for its great, stately shape like Mt. Fuji. Owned by Yoshiteru, Nobunaga and Hideyoshi.
+@224
+A Chinese taikai caddy. Ashikaga Yoshimasa named it for black patches like clouds on its persimmon ground. "Taikai" are wide-mouthed, flat round caddies. Owned by Hideyoshi and the Kyogoku.
+@225
+One of the Four Eggplants of the Realm. As the Sakai merchant Shioya Soetsu paid 100 kan for it, it is also "Hyakkan Nasu", named for its price so close to the Tsukumo Nasu's 99 kan.
+@226
+An old Seto caddy, nearly straight with a slight roundness, named after a Kokinshu poem about the maiden of Uji bridge.
+@227
+A Tanba-ware tea jar. Tanba ware, from Imada in Taki, Tanba, is one of the Six Old Kilns, dating back to the late Heian era. Pieces before Momoyama are called Old Tanba.
+@228
+A caddy fired in Guangdong, Yixing in Zhejiang, Shushan and elsewhere in southern China, named for the Cochin trade ships that brought it. Known for bright green, blue, yellow and red glazes.
+@229
+Fine blue-and-white porcelain made at the great Ming kilns of Jingdezhen to Japanese tea masters' orders, named for the mark "Goradayu Go Shonzui" on the base.
+@230
+A celadon bowl given by Song to Taira no Shigemori. When Ashikaga Yoshimasa got it, it was cracked and repaired with staples, which looked like locusts, hence the name.
+@231
+First of the Three Great Celadon Bowls, named for its owner, the tea master Matsumoto Juho. Sumiyoshiya Somu gave it to Nobunaga, but it burned at Honnoji.
+@232
+A raku bowl by Hon'ami Koetsu, one of his Five Bowls. White above and black below like Mt. Fuji, named "Fujisan" as a work too fine to make twice.
+@233
+A raku bowl by Hon'ami Koetsu, one of his Seven Bowls, owned by Shichiri Hikoemon.
+@234
+A kind of tenmoku bowl. Bowls from the Jian kilns of Fujian are called kensan; this kind has star-like spots on its surface.
+@235
+By Chojiro, Azuchi-Momoyama potter: a famed red raku bowl, first of Chojiro's Seven. Named for Rikyu sending a fast boat to fetch it for a tea party. Later passed to Gamo Ujisato.
+@236
+A fine Ido bowl owned by Tsutsui Junkei. Deep with a high foot, it was called "Tsutsui's tube bowl", hence the name. Later presented to Hideyoshi.
+@237
+A Korean Ido bowl that Nobunaga gave Shibata Katsuie: loquat-coloured overall, with spots of white and blue glaze.
+@238
+A black raku bowl, one of Chojiro's Seven: seven masterpieces Rikyu chose from Chojiro's bowls, also Rikyu's Seven. Named for being a large black bowl.
+@239
+A tenmoku bowl with stars of seven colours, blue, yellow, purple and more, on black. Named for the Inaba, lords of Yodo, who owned it. "Yohen" means spots all over the glaze with rainbow halos.
+@240
+Karatsu ware fired near Kishidake from Momoyama to early Edo times, with iron and straw-ash glazes split above and below for its look. Long prized as tea ware.
+@241
+Korean tea bowls made from Goryeo to Joseon times. With the fashion for wabi tea they replaced Chinese bowls.
+@242
+One of the Three Great Ido Bowls, named for its owners, the Maeda of Kaga; also called "Lion". "O-Ido" are the largest, tallest Ido bowls.
+@243
+One of Takeno Joo's treasures. White tenmoku, said to be the forerunner of Shino ware, is tenmoku thickly glazed with white feldspar. Those of the Owari Tokugawa and Kaga Maeda are famous.
+@244
+A bowl fired in Seto-type kilns near Kukuri in Kani, Mino, late 16th to early 17th century, in pale yellow glaze, often with copper-green spots, incised lines or a band.
+@245
+A raku bowl finished in black. Raku is shaped all by hand without a wheel and fired by sudden heat and cooling. Rikyu liked black raku; Hideyoshi liked red, they say.
+@246
+A raku bowl in red-brown glaze. Raku began when Rikyu taught the tile maker Chojiro to make it. Hideyoshi gave Chojiro a gold "Raku" seal, which became his family name.
+@247
+An old, half-broken bowl. Too big to be a tea bowl. Its cracks have no particular charm, either.
+@248
+A screen painted with a map of the world, based on a map made in Portugal.
+@249
+A Nanban clock, run by gears, that came in the Muromachi era. Named for the bell that rings the hours, they say. Also a chiming clock.
+@250
+A lavish clock with gold used inside and out.
+@251
+A jar made of vidro (glass). The Dutch who came to Nagasaki late in the Muromachi era brought the method.
+@252
+A lavish clock with silver used inside and out.
+@253
+A large pottery tea jar from southern China via Luzon (the Philippines), Azuchi-Momoyama era. Hideyoshi prized them, and they were the rage for a time.
+@254
+A rosary with a cross, used in prayer to the Virgin Mary.
+@255
+A small telescope, brought on Nanban trade ships in the Sengoku era.
+@256
+A box for jewels, itself richly decorated.
+@257
+A globe-shaped model of the earth. The missionary Luis Frois is said to have given one to Nobunaga.
+@258
+A Christian sign for worship and decoration, standing for honour, sacrifice and atonement.
+@259
+A globe of the heavens around the earth, used at sea.
+@260
+A toy that plays a little tune when you open the lid. A music box.
+@261
+A clock made small enough to carry in the breast of your robe.
+@262
+A keyboard instrument that plucks its strings with quills. Widely used from the 16th to 18th centuries, it faded after the piano was invented. The harpsichord.
+@263
+Scripture of Judaism and Christianity. The Old Testament, Judaism's scripture, was written over thousands of years BC; Christianity holds it sacred with the New Testament.
+@264
+A Western transverse flute, a woodwind with a clear, brilliant tone. Most are now metal.
+@265
+A woollen weave, woven with animal hair besides the warp and weft. Mostly a rug, it was once also used to cover tables and the like.
+@266
+Fragrant rose scent dissolved in alcohol, worn on the body or clothes.
+@267
+A book that explains things, such as an encyclopedia.
+@268
+A bird of the pheasant family. The male has long plumes with eye-like spots above its tail, beautiful when fanned. Few reached Japan, so it was a rare bird.
+@269
+The larger birds of the parrot family. They eat fruit and mimic speech. In Japan they were thought sacred birds of the western lands.
+@270
+A kiseru pipe: pack tobacco in the bowl, light it, draw through the mouthpiece. In the Keicho years smoking spread nationwide; Date Masamune smoked 3-5 pipes a day.
+@271
+A cup of vidro (glass) for drinking wine.
+@272
+Tobacco leaves rolled together into a stick.
+@273
+A loose velvet cloak. The one Nobunaga gave Uesugi Kenshin, red velvet with peony arabesques, is made of three pieces and opens out into a near half circle.
+@274
+A Nanban sweet: a core of poppy seed, buckwheat or sugar crystal turned in a big pan and coated in syrup again and again until it grows little horns. Frois is said to have given some to Nobunaga.
+@275
+Soap, from the Spanish "jabon", they say.
+@276
+Oolong tea from Fujian leaves. The finest is grown on mountains high enough for dew to freeze, and is also called Dong Ding oolong.
+@277
+Tea made by fermenting. Only the method differs from green or oolong tea; it comes from the same leaves.
+@278
+A Nanban sweet: flour mixed with whipped egg, sugar and syrup, baked in an oven. Brought by Europeans late in the Muromachi era and slowly improved.
+@279
+A small ball of vidro, mostly for show. Vidro is another word for glass; the Dutch who visited Nagasaki late in the Muromachi era brought the method.
+@280
+A Nanban sweet: little round cakes of flour, egg and sugar baked light. They keep longer than kasutera. From the Portuguese "bolo".
+@281
+Milk fat, especially from cow's milk, set and worked with salt. Very nourishing; used in cooking and sweets.
+@282
+Sake brewed from soaked, steamed rice with koji and water, never strained of its lees. Cloudy white. The origin of the name is unclear.
+@283
+A famous sake of Kaga, a kind of mirin, made from Hakusan snowmelt in the Tedori river. Praised at the Daigo cherry-blossom party, they say.
+@284
+A famous sake of Yamato and Iga, brewed in temples. Nara's temple sake was famous from the Muromachi era.
+@285
+A famous sake of Yamashiro: refined and mellow with a clean finish. After temple sake rose, regional breweries gained ground in the Bunmei years, and the fine sake of Nishinomiya reached Kyoto too.
+@286
+Sake made by straining doburoku: pale yellow, with its own flavour. Also clear sake. Legend says it was born when a Sengoku brewery dropped charcoal into doburoku by mistake.
+@287
+Red wine from Portugal. "Chinta" is from the Portuguese "tinto", red.
+@288
+Plain powder from a failed attempt at medicine. It does nothing if you take it.
+@289
+A drink of barley malt and water heated to sugar, then fermented with hops and yeast. Beer.
+@290
+Spirits flavoured with herbs, sugar and the like. Liqueur.
+@291
+Grape juice fermented with yeast. Wine.
+@292
+A tonic: clove, aconite, cinnamon and many more rolled into pills.
+@293
+A wonder drug brought by Chen Zongjing, who came to Japan in the Muromachi era, also called "uiro" after his title. Being bitter, a steamed sweet was invented to take after it: today's uiro.
+@294
+A rather costly cold remedy, mixed to work best for each symptom.
+@295
+Medicine to cure a cold.
+@296
+A wonder drug said to revive even the souls of the dead, spread across Japan by the medicine sellers of Toyama in Etchu.
+@297
+A pill said to cure any illness.
+@298
+Fragrant wood. One of the 61 Famous Incenses.
+@299
+The kettle of Morinji in Kozuke. Legend says its hot water never runs out however much you draw. Some say the monk Shukaku who brought it was really a tanuki in disguise.
+@300
+An inkstone box by Hon'ami Koetsu: gold lacquer with shell and lead inlay, showing a woodcutter and little mountain scenes of bracken and dandelions.
+@301
+A red raku bowl by Hon'ami Koetsu. Its white glaze runs like snow on a peak. A big crack in firing was mended with gold lacquer, which only adds to its charm.
+@302
+A book of funny stories by Anrakuan Sakuden, abbot of Seiganji in Kyoto, said to be Kanamori Nagachika's brother. It deeply shaped Edo-era rakugo; he is called its father.
+@303
+An ink painting by Kaiho Yusho on Du Fu's "Eight Immortals of the Wine Cup", said to be painted for Kamei Korenori.
+@304
+A screen by Kaiho Yusho of the zither, go, calligraphy and painting, the gentleman's pursuits in China, a theme much used in ink painting by many artists.
+@305
+A wall painting by Kaiho Yusho, one of his masterpieces: a giant dragon in powerful strokes.
+@306
+A pair of screens, one of massed peonies, the other of a brushwood fence and plum.
+@307
+A screen by Kaiho Yusho: gold mist trails, and sailing ships come and go on an ultramarine sea. A Japanese scene, as suits Yusho, self-taught in ink painting.
+@308
+An ink painting by Kaiho Yusho of the Seven Sages of the Bamboo Grove, a common theme. Using Song and Yuan sparse brushwork, its shading shows his mastery of space.
+@309
+A masterpiece of Kaiho Yusho, who had many friends among nobles and at court. Like his "Drying Nets", it was painted for the Katsura prince's house.
+@310
+A screen by Naganobu, brother of Kano Eitoku, famed as a masterpiece of early genre painting: men and women dancing gaily before a young lord on an octagonal hall.
+@311
+A masterpiece of Hasegawa Tohaku: monkeys scrambling up a dead tree and swinging freely. A treasure of Myoshinji.
+@312
+A famed ink scroll by Kano Eitoku. Xu You and Chao Fu were pure men of old who never bowed to power and lived by their own way.
+@313
+A slow horse. Utterly useless, as in the saying "even a kirin in old age is worse than a nag".
+@314
+A book on government written early in the Sengoku era by Ichijo Kaneyoshi, retired regent, for shogun Ashikaga Yoshihisa.
+@315
+Japan's first anthology of linked verse, compiled by the Nanbokucho poet Nijo Yoshimoto, regent and chancellor. Its poets range from emperors to commoners.
+@316
+A collection of comic linked verse compiled by Yamazaki Sokan in the mid Sengoku era. Haikai, earthy and funny, broke from linked verse in the Edo era and led to haiku.
+@317
+The life of Minamoto no Yoshitsune, hero of the Genpei war. Author unknown; widely read as a war tale.
+@318
+Japan's first war tale, on the Heian rebellions of Johei and Tengyo, told in plain Japanese-style Chinese. Author unknown.
+@319
+A shuriken that flies in a vivid arc, just like a swallow.
+@320
+A kunai that strikes as fast as a falcon flies.
+@321
+As the name says, a ninja weapon that kills as fast as lightning.
+@322
+A divine bow said to be given by the god Takamimusubi to Amenowakahiko in the age of the gods.
+@323
+A legendary strong bow said to be used by Hachiman Taro Yoshiie, restorer of the Genji.
+@324
+A legendary bow said to be used by Kusunoki Tamon-hyoe Masashige, hero of the Nanbokucho era.
+@325
+A legendary chain-sickle with a blade that cuts down foes like a yaksha demon.
+@326
+A legendary chain-sickle with a sharp blade that drives foes to death like a rakshasa.
+@327
+A legendary chain-sickle bearing the name of Devadatta, who turned on the Buddha and his law.
+@328
+Sakai Tadatsugu's spear, named because it could pierce even a jar full of water.
+@329
+A spear by Sukemune of the Shimada smiths of Suruga. Sukemune's daggers are known for their "osoraku" style, with the point over half the blade.
+@330
+A spear by the Enju smiths of Higo, founded by Kunimura of the Rai school. The finest Kikuchi spear in quality and edge.
+@331
+A matchlock said to be used by Hashimoto Ippa of Owari, master gunner and Nobunaga's gun teacher.
+@332
+A destructive matchlock named for the thunder god for its roar.
+@333
+The ultimate gun, developed by the Argot company of the Nanban merchant Lilka.
+@334
+A great sword said to be forged by Shinsoku, a monk of Usa Shrine and famous smith. How his name is read is unknown.
+@335
+A treasure sword of Oyamazumi Shrine on Omishima, said to be offered by Emperor Go-Murakami.
+@336
+Armour laced like water-plantain leaves. The plant is also called "victory grass", a good omen, so such armour was widely used from Genpei times.
+@337
+A great old bronze vase named for its shape, like a broken pestle. It passed from Hideyoshi to Ieyasu, then to the Owari Tokugawa.
+@338
+An earthen pot with a lid. It might look like a costly tea kettle, but that's just your imagination.
+@339
+A Chinese bunrin caddy, beautiful with persimmon colour on dark amber. Owned by Ieyasu, then given to Sakai Tadayo and handed down in the Sakai.
+@340
+A Chinese bunrin caddy, famed with the Nitta caddy as the finest of Chinese caddies. Owned by Oda Urakusai, Toyotomi Hideyori and others.
+@341
+A great jar named "Foundling" after shogun Ashikaga Yoshimasa marvelled: "A jar this fine with no name? It must be a foundling."
+@342
+The bowl of Toyobo, a monk of Shinnyodo in Kyoto, skilled at tea and said to be Rikyu's student.
+@343
+A great caddy, one of the Higashiyama treasures chosen by Ashikaga Yoshimasa. Records say Nobunaga used it at a tea party with his retainers.
+@344
+A kind of censer, named for its look of a hakama worn at the hips. Song celadon ones are the most famous.
+@345
+A bamboo tea scoop by Sen no Sotan: plain and quiet, as suits Sotan, who valued wabi. Later passed to the Owari Tokugawa.
+@346
+An inkstone box by Hon'ami Koetsu: a poem from the "Gosenshu" written on it with "boat bridge" left out, for the whole box shows the boat bridge. A gem of refined wit.
+@347
+A masterpiece of Kano Sanraku on the carriage quarrel from "The Tale of Genji".
+@348
+A masterpiece of Kano Sanraku: a screen of emperors' deeds from "Emperors' Mirror" by Zhang Juzheng, Ming chief minister.
+@349
+A horse offered to a shrine. Chosen for its looks as a gift to the gods, not for being fast.
+@350
+A sword made by {02}{01}g of {01}CUW.
+@351
+A spear made by {02}{01}g of {01}CUW.
+@352
+A kunai made by {02}{01}g of {01}CUW.
+@353
+A chain-sickle made by {02}{01}g of {01}CUW.
+@354
+A matchlock made by {02}{01}g of {01}CUW.
+@355
+A bow made by {02}{01}g of {01}CUW.
+@356
+A tea caddy by the tea master {02}{01}g of {01}CUW.
+@356.1
+A tea kettle by the tea master {02}{01}g of {01}CUW.
+@356.2
+A tea bowl by the tea master {02}{01}g of {01}CUW.
+@356.3
+A tea jar by the tea master {02}{01}g of {01}CUW.
+@356.4
+A tea scoop by the tea master {02}{01}g of {01}CUW.
+@356.5
+A flower vase by the tea master {02}{01}g of {01}CUW.
+@356.6
+A censer by the tea master {02}{01}g of {01}CUW.
+@357
+Kazusa
+@357.1
+Sagami
+@357.2
+Shinano
+@357.3
+Shinano
+@357.4
+Ise
+@357.5
+Omi
+@357.6
+Omi
+@357.7
+Yamato
+@357.8
+Wakasa
+@357.9
+Izumi
+@357.10
+Inaba
+@357.11
+Nagato
+@357.12
+Awa
+@357.13
+Chikuzen
+@358
+Fish sauce was used in ancient times; around the Kamakura era came "tamari", forerunner of soy sauce. Soy sauce appeared around the Muromachi era and was made in bulk.
+@359
+Vinegar-making came from the mainland in ancient times along with brewing. As a seasoning that also preserves, it spread to common people from medieval times.
+@360
+Pottery used to make salt has been found even at Jomon sites. Raised salt fields were usual in medieval times; flooded salt fields came in the Edo era.
+@361
+Oil pressed from cottonseed, rapeseed, sesame and more. Many oils were made for food, medicine, paint and polishing, and demand soared as medieval industry grew.
+@362
+An annual of the mint family from Southeast Asia, grown in Japan from the Nara era. Prized mostly as a source of oil for food and lamps.
+@363
+A perennial of the arum family, grown for its corm. Long grown all over Japan.
+@364
+A biennial of the mustard family, once read "one". Easy to grow, it has been on Japanese tables since ancient times.
+@365
+An annual of the gourd family. The cucumber reached Japan in the Asuka era but did not spread; real cultivation began from the Sengoku to early Edo eras.
+@366
+An annual of the nightshade family. Already grown in the Nara era, it spread nationwide as one of the most familiar vegetables.
+@367
+A biennial of the daisy family from Siberia and northern Asia, grown in Japan from the early Heian era. Eaten, and also used in Chinese medicine.
+@368
+Soybeans fermented with natto bacteria. An old food, said to be made as early as the Yayoi era.
+@369
+An annual of the pea family, long grown across Japan. Used in red rice and for the bean paste at the heart of Japanese sweets.
+@370
+Steamed rice grown with koji mould, the base of sake, soy sauce and miso. In medieval times output grew, and koji guilds of specialist merchants arose.
+@371
+First grown for its flowers in temple ponds. The Zen master Dogen brought edible lotus root back from Song in the Kamakura era, and it came to be grown widely, they say.
+@372
+Konnyaku root boiled to a paste and set with lime. Known since Heian records, but it only began to spread late in the Sengoku era.
+@373
+Native to Japan since ancient times, but widely grown only from around the Edo era. By the Sengoku era many varieties had already appeared.
+@374
+Mandarin growing is fairly new, starting early in the Muromachi era from wild trees raised for cultivation. By the Edo era it was grown widely.
+@375
+It began late in the Heian era when Amemiya Kageyu found a wild grape variant at Katsunuma in Kai and grew it. In the Sengoku era the Kai doctor Nagata Tokuhon devised trellis growing.
+@376
+The sweet potato. Noguni Sokan of Ryukyu brought it from Ming in the late 16th century and Gima Shinjo grew it. By the early Edo era it was grown in Kyushu too.
+@377
+Grown since ancient times; found even at Jomon sites. It was usually eaten as a mash or dumplings; noodles like today's came only from the Edo era.
+@378
+Vegetables or fish pickled in sake lees, spread along with sake. The word "ko-no-mono" for pickles also dates from the Muromachi era.
+@379
+In the Sengoku era many regions began making their own pottery. The rise of tea in particular drove pottery skills forward.
+@380
+Pottery fired at Seto in Owari. Seto may come from "suedo", a potters' place; long famous for its wares.
+@381
+Pottery fired at Shigaraki in Omi. Begun in the late Heian era, it grew fast from the Muromachi era; in the Edo era large wares flourished.
+@382
+Pottery from Bizen, heir to ancient Sue ware, which became unglazed stoneware in medieval times. Tea masters loved its plain charm and prized it as tea ware.
+@383
+Pottery fired at Hagi in Nagato. It leapt forward with Korean potters' new methods in the late 16th century. Soft to the touch, it holds moisture and absorbs water.
+@384
+Many-coloured ware of Ming's Wanli years (16th-17th c.), with lavish painting. In Japan it was used as tea ware.
+@385
+Hard white porcelain. Goryeo excelled at world-famous celadon; under Joseon fine white porcelain was made one after another.
+@386
+A perennial of the madder family, perhaps named "red root". A key dye since prehistoric times, colouring brilliant cloth.
+@387
+An annual of the knotweed family, long grown for dye. Its seeds are also used in Chinese medicine.
+@388
+An evergreen of the bayberry family, used as a brown dye and in Chinese medicine for diarrhoea and bruises.
+@389
+An annual of the daisy family. Its flowers give yellow and red dye, its seeds oil and Chinese medicine: a plant of many uses.
+@390
+A perennial of the gromwell family whose root gives dye. The colour purple, "murasaki", is named for it. Ancient purple was a reddish dark shade, unlike later Edo purple.
+@391
+In the Sengoku era cotton spread explosively, and demand for cotton needles soared. The young Kinoshita Tokichiro (later Hideyoshi) is said to have sold needles before serving Nobunaga.
+@392
+A luxury only nobles ate in the Nara era, it spread to common people from the Kamakura era. Drunk as miso soup and used to prepare food, demand kept growing.
+@393
+Also written "blue hemp": hemp bark well soaked and finely split, used for hemp cloth. Echigo's was famous in the Sengoku era and shipped in bulk to the capital.
+@394
+Cotton was grown long before, but cotton cloth spread explosively in the Sengoku era. First imported from Korea, it was soon widely grown in Mikawa and elsewhere.
+@395
+Thread twisted from silk floss of unwound cocoons, the stuff of silk cloth. Demand was high; besides home production, much was imported in the Ming trade.
+@396
+Cloth woven from cotton thread. Common clothes and uniforms had been mostly hemp, but in the Sengoku era cotton spread explosively and took over: a true "textile revolution".
+@397
+Cloth woven from hemp thread. Before the Muromachi era nearly all common clothes were hemp. From the Sengoku era cotton took its place, but demand stayed high.
+@398
+Cloth woven from raw silk, such as crepe and tsumugi. A luxury worn by the upper classes, far from common people.
+@399
+Silk cloth of Yuki in Shimousa, woven dense and tough from hand-spun floss thread in warp and weft, mostly in sober colours.
+@400
+Silk cloth of Kaga, first made early in the Sengoku era and at its peak in the Edo era. Habutae, tsumugi and more were woven.
+@401
+Silk cloth of Nishijin in Kyoto, named for the Western Army's camp there in the Onin war. Brocade, gold brocade, damask: showy, intricate and luxurious.
+@402
+Silk cloth of Hakata in Chikuzen, made widely from the mid Sengoku era. Fine warp threads make the pattern; thick weft makes it stiff. Rough to the touch.
+@403
+Cotton cloth of Ryukyu and Satsuma: plain weave with white ikat on indigo. First a Ryukyu speciality, also made in Satsuma after the Shimazu took Ryukyu.
+@404
+Cotton dyed in many patterns and colours, from the Portuguese "saraca". Much imported in the Nanban trade.
+@405
+Lacquer from the sap of a tree of the sumac family, mainly urushiol. Decorative and insect-proof, long used in Japan on dishes and ships.
+@406
+Lacquered ware. Very old: found even at Yayoi sites. In medieval times maki-e with gold and silver dust was invented, and Japanese lacquer flourished.
+@407
+Lacquerware of Negoroji: red and black altar ware, statues, dishes and more. Very old, it influenced Wajima and other lacquers.
+@408
+Lacquerware of Wajima in Noto, known for "chinkin": patterns carved into the lacquer with a blade, rubbed with lacquer and filled with gold dust.
+@409
+Shunkei, an early Muromachi lacquerer, devised an undercoat method. It spread as Shunkei lacquer; those of Awano in Hitachi, Noshiro and Hida are the "three Shunkei".
+@410
+Kettles, pots and other ironware cast by pouring molten metal into moulds. Casters were called imoji.
+@411
+A seaweed of the kelp family; the word is Ainu. As it sounds like "rejoice", Sengoku generals always ate it as a charm when marching out or home.
+@412
+Before the Muromachi era, nori was raw seaweed simply dried. From around the Edo era it was made into sheets like paper, as today.
+@413
+A sea fish of the mackerel family, caught in plenty off Japan and eaten widely for protein. Around the Sengoku era dried bonito was invented and exported to Nanban lands as a seasoning.
+@414
+A sea fish of the herring family: sardines, anchovies and round herring. Oily, it gave oil as well as food; dried after pressing, the cakes were used as fertiliser.
+@415
+A sea fish of the bream family. Pale red, beautiful and delicious, it is prized in Japanese cooking. Its name echoes "medetai", happy, so it has long graced celebrations.
+@416
+A spiny lobster, caught on the Pacific coast from Kanto to Kyushu. Delicious and handsome, prized at celebrations.
+@417
+A bivalve of the oyster family, nourishing and prized as food. Though hermaphrodite, oysters were thought all male, hence the character "male". Farming began in the mid Sengoku era.
+@418
+Dried sea cucumber, dried abalone and shark fin packed in bales: a key export for Japan, rich in sea produce.
+@419
+Fish salted and left to ferment, like today's narezushi, used as preserved food. Today's scattered and hand-pressed sushi date from the late Edo era.
+@420
+A mineral of silica with bands of red, white, green, brown and more. Prized as an ornamental gem.
+@421
+Clear quartz crystals, mostly six-sided columns, colourless, purple, yellow and more. Prized as gems.
+@422
+Japanese ironmaking came from Korea in the Kofun era, then grew into Japan's own "tatara" method. In the Sengoku era guns raised demand for iron.
+@423
+Mostly calcium carbonate, made by burning and crushing shells or stone. Demand rose for castle plaster and for the lye used in dyeing cloth.
+@424
+Yellow crystals found mostly in volcanic regions. With guns spreading in the Sengoku era, demand for it as a gunpowder ingredient rose.
+@425
+With the Iwami mine, silver output soared, making Japan the world's top producer. Japan and New Spain (Mexico) alone made some 40% of the world's silver.
+@426
+Japan, a leading producer, relied on copper as a main export. Not minting its own coins, Japan exported copper to Ming and imported copper coins (Eiraku tsuho).
+@427
+Prized in the Sengoku era for gunpowder, but at first Japan had almost none and had to import it. Late in the Sengoku era it was made at home too.
+@428
+Used for bullets, and also to refine gold and silver by the "cupellation" method.
+@429
+Beeswax was used in ancient times; in the Sengoku era candles of wax from wax-tree berries were the norm, used to light the night.
+@430
+With new castles and towns built one after another in the Sengoku era, demand for timber soared.
+@431
+Firewood baked without air, used for watch fires in castles and camps.
+@432
+As times grew settled from the Azuchi-Momoyama to Edo eras, many new women's hairstyles appeared, and demand for combs and hairpins rose.
+@433
+Tatami were once precious; samurai and commoners sat cross-legged on round cushions on wooden floors. From the Sengoku era, partly through tea, they spread fast, and kneeling became the norm.
+@434
+Mostly oiled paper on a frame of bamboo or wood. Merchant houses made umbrellas with their shop names to advertise.
+@435
+"Fude" is said to come from "fumite". Made in many materials and sizes. Inkstone, brush, ink and paper are the Four Treasures of the study.
+@436
+Inkstone, brush, ink and paper are the Four Treasures of the study. Pottery inkstones were usual in ancient times; in medieval times stone ones came into use.
+@437
+Japan's own handmade paper of gampi, kozo, mitsumata and the like. Strong, it was used for writing and much else.
+@438
+Paper soaked with sesame oil and the like. Waterproof, it was used for umbrellas, medicine wrappers, tobacco pouches and more.
+@439
+Japanese paper in many colours; patterned ones are called chiyogami. Used to decorate boxes, dress dolls and the like.
+@440
+Fine paper of gampi, named for its pale yellow like a bird's egg. Echizen, Mino and Najio in Settsu are famous for it.
+@441
+Paper of Sugiharadani in Harima, the shogunate's official paper in the Kamakura era. It spread in the Muromachi era, and local Sugihara papers were made everywhere.
+@442
+Japanese paper of Mino from kozo. Papermaking came there from the late Heian to Kamakura eras, and fine paper was made. Strong, it is used for shoji screens too.
+@443
+Thick indigo-dyed paper of Tosa, tough and handsome, used for umbrellas and book covers.
+@444
+Sugar was precious then, used even as medicine. Japan made almost none, so it was a key import in the mainland and Nanban trades.
+@445
+The Portuguese "tabaco" written with characters for "smoke grass". Brought by Nanban people in the Sengoku era, it was shredded and smoked in a kiseru.
+@446
+Men and women wore their hair tied up, so pillows went under the neck, not the head: a cloth bag of buckwheat husks or charcoal fixed on a wooden stand.
+@447
+Tea drinking spread in Japan from the Kamakura era. In the Sengoku era the fashion for tea gave rise to famous teas in many regions.
+@448
+A perennial of the ginseng family, grown for medicine; also Korean ginseng. A key import in the Korea trade for Chinese medicine. The carrot is a different plant of the parsley family.
+@449
+Pepper and other spices come from Southeast Asia and reached Japan with the start of the Nanban trade.
+@450
+An evergreen from India. Fragrant, prized since ancient times as incense wood and used for statues and art.
+@451
+Plants and animals of many virtues, mixed with little processing. Sometimes taken as is, but mostly ground and mixed into Chinese medicines.
+@452
+Fans were long a key export. In the Muromachi era Chinese fans with paper on both sides of the ribs came back from Ming, and still finer fans were made and exported.
+@453
+Black powder of saltpetre, sulphur and charcoal. Demand soared with guns in the Sengoku era; in peaceful times it went into fireworks.
+@454
+A Japanese instrument. The Ryukyu sanshin reached Japan late in the Sengoku era; with cat or dog skin instead of snakeskin, the shamisen was born and became the rage.
+@455
+Portuguese for glass. Mostly bowls and cups, a key Nanban import. Later the method came too, and it was made at home.
+@456
+Lanterns were once boxes of paper on wood with a candle inside; around the mid Sengoku era folding cage lanterns were developed.
+@457
+Japanese sweets mostly use red bean paste. In the Sengoku era sugar was imported and Nanban sweets left their mark; the fashion for tea also helped them develop.
+@458
+"Usukeshi" is Ainu for "end of the bay". The house Kono Masamichi built when he fled here from Tsugaru in the mid 15th century was box-shaped, so it was also called "Hakodate" (box house), renamed in 1869 to today's Hakodate.
+@459
+Once called Takaoka, it was developed by the daimyo Tsugaru Tamenobu. Breaking free of the Nanbu, he built up Hirosaki as the pivot of the Tsugaru plain, his base. In the Edo era it thrived as the Tsugaru castle town.
+@460
+Once called Toyagasaki, it was the seat of the Hienuki, local lords since the Kamakura era, who fell for defying Hideyoshi. Under the Nanbu it was renamed Hanamaki, and in the Edo era thrived as a post town too.
+@461
+Sendai was once written "thousand ages" or "thousand bodies". Date Masamune, who built his castle on Aobayama, wrote a poem after a Tang verse on the pines of Sendai lasting more than a thousand ages, and renamed it "Sendai", they say.
+@462
+Tsuchizaki was long known as a fine natural harbour, seat of the Ando clan since the Kamakura era and key to northern Sea of Japan shipping. After the Satake moved here after Sekigahara, it thrived as the port of Kubota Castle, one of the Seven Northern Ports.
+@463
+One of the great trading ports of the northeast, run by the 36 leading merchants. This lasted into the Edo era; Ihara Saikaku praised their leader Abumiya as the north's top rice buyer, known to all.
+@464
+The Ashina long ruled Aizu from Kurokawa Castle, until Date Masamune beat them at Suriagehara. Hideyoshi then gave Kurokawa to Gamo Ujisato, who renamed it Wakamatsu. Then came Uesugi Kagekatsu, Gamo Hideyuki, Kato Yoshiaki and Hoshina Masayuki.
+@465
+Kashima Shrine, first shrine of Hitachi, has drawn worship since ancient times. The swordsman Tsukahara Bokuden, born here, was the son of a Kashima priest. In the Edo era the shrine town thrived on visitors and trade.
+@466
+The Ashikaga school, which Xavier described to Europe as "the university of Bando", was revived by the Kanto deputy Uesugi Norizane. Many monks and samurai studied Chinese learning, medicine and tactics. Also long known for weaving and dyeing.
+@467
+Also read "Nmayabashi" or "Mayabashi". Around the mid Edo era it was renamed Maebashi, as it is today. The Takeda, Hojo and Uesugi fought over it and burned the town, and its centre moved to where Maebashi stands today, they say.
+@468
+In myth, Yamato Takeru, mourning his wife Ototachibana who gave her life for him, sang "kimi sarazu", "you never leave me", giving Kisarazu its name. After Sekigahara, Shojoji temple, later famed for its tanuki dance, was founded.
+@469
+The seat of the Chiba, Shimousa clan since the late Heian era, who fell with the Hojo of Odawara in Hideyoshi's campaign. The Tokugawa retainer Doi Toshikatsu later built today's Sakura Castle a little away; the Chiba castle became Moto-Sakura.
+@470
+Once ruled by the Edo clan, it became a key Kanto base when Ota Dokan, steward of the Ogigayatsu Uesugi, built a castle. When Ieyasu entered Edo on the first day of the eighth month, it is said to have been a poor village, but it was in fact a thriving town.
+@471
+Once ruled by the Omori, it was seized by Ise Sozui (Hojo Soun), an Imagawa commander, who made it his seat and invited merchants and craftsmen from everywhere. Until Ieyasu built up Edo, as the Hojo capital it was Kanto's greatest city.
+@472
+Since the Nara era the heart of Echigo's shipping, trade and culture, seat of the governor in the Sengoku era too, and the gateway for shipping Echigo hemp to Kyoto. Now merged with Takada as Joetsu.
+@473
+Etchu was a chaos of deputies and local lords in the Sengoku era. Toyama, the Jinbo seat, became a battleground, fell to Uesugi Kenshin and later to Sassa Narimasa. In the Edo era it won fame nationwide for medicine, making "Hangontan".
+@474
+One of the Three Harbours and Seven Ports, a great relay port on the Sea of Japan since old times, making lacquerware from the early Muromachi era. It was the seat of the Nukui, vassals of the Hatakeyama governors, who rose as senior retainers on Wajima's wealth.
+@475
+It began as a Honganji branch temple, a base of the Kaga Ikko league, from which the faithful ran a partial self-rule for about a century. Then Maeda Toshiie came, and it thrived as the castle town of the million-koku Kaga domain.
+@476
+Once called Tsunuga. As the end of Sea of Japan shipping, goods from the northeast and Hokuriku were landed here and taken to the capital via Lake Biwa, so it grew early into a key port. Many great merchants rose here in the Sengoku era.
+@477
+Where the Hokkoku, Nakasendo and Koshu roads meet, Komoro was long a crossroads. Komoro Castle, built by Takeda Shingen, is an unusual "hollow castle" lying lower than its town. In the Edo era it thrived as a post town for daimyo processions.
+@478
+Famed for Lake Suwa, where in hard winters the ice cracks in the "gods' crossing", and for Suwa Taisha's "Onbashira", one of Japan's three strangest festivals. In the Edo era it was a key post town where the Nakasendo and Koshu roads met.
+@479
+Developed as a castle town by Takeda Nobutora, who united Kai, home to powerful clans. His grandson Katsuyori moved to Shinpu (Nirasaki), but after the Takeda fell the Tokugawa rebuilt Kofu, and Tokugawa kin ruled it in the Edo era.
+@480
+Named for the ancient provincial seat (fu) of Suruga, it remained the heart of Suruga. Under the Imagawa governors great merchants gathered, and it became the little Kyoto of the Tokai. Ieyasu rebuilt its castle as his retreat after handing the shogunate to Hidetada.
+@481
+Hamamatsu was once also called Hikuma; under the Imagawa it had Hikuma Castle. Tokugawa Ieyasu then built Hamamatsu Castle, moved his seat here from Okazaki in Mikawa and made it grow into a city.
+@482
+The Yahagi river here is where the young Kinoshita Tokichiro (Hideyoshi) is said to have met Hachisuka Koroku, but the Yahagi was only bridged at Okazaki after the Toyotomi took power, when Hideyoshi's retainer Tanaka Yoshimasa held it.
+@483
+Built by the Shiba governors of Owari as their seat, it became Owari's centre of rule and trade. Oda Nobunaga took it as his seat until moving into Mino, with free-market policies. Later held by Oda Nobukatsu, Fukushima Masanori, Matsudaira Tadayoshi and others.
+@484
+Named "Inokuchi", the well's mouth, for an irrigation intake. It grew as the town of Inabayama Castle, seat of the Mino Saito, and Oda Nobunaga renamed it Gifu. Today's Gifu city emblem is based on the "well" of Inokuchi.
+@485
+After King Wen of Zhou, who rose at Mt. Qi and won the realm, the Zen monk Takugen Soon likened Mt. Kinka northeast of town to Mt. Qi and named it "Gifu", they say. After Nobunaga went to Kyoto his son Nobutada was lord, then his son Hidenobu (Sanboshi).
+@486
+It began when Mitsuki Yoritsuna, calling himself governor of Hida, united Hida and built a castle at Matsukura. It thrived as Hida's centre until Kanamori Nagachika destroyed the Mitsuki after Honnoji; then the castle was abandoned and the town faded.
+@487
+Once called Tenjinyama, it came to be called Takayama after Takayama Geki, of the Taga line of Hida deputies, built a castle here, they say. Kanamori Nagachika, given Hida by Hideyoshi, made it grow further as a castle town.
+@488
+Today's Ominato in Ise city, a port long thriving as the outport of Ise Shrine. It stored timber for the shrine's periodic rebuilding, and shipbuilding boomed from the Sengoku to Edo eras. The Nihon Maru Hideyoshi had built for Korea was made here.
+@489
+It began with a castle built by Imahama Rokurozaemon, retainer of Sasaki (Kyogoku) Doyo, the flamboyant Nanbokucho daimyo. Later the Azai, Kyogoku vassals, overthrew their lords and took northern Omi. A key spot near Kunitomo, the gun village.
+@490
+After destroying the Azai, Hashiba Hideyoshi, given Odani Castle, built the town of Nagahama at Imahama near Kunitomo, the gun village, renaming it. Some say the "naga" is a character from his lord Oda Nobunaga's name.
+@491
+It began when Mekata Sadamasa, a retainer of the Sasaki (Rokkaku) of Omi, built a castle on Mt. Mekata. Close to Kannonji, the Rokkaku seat, and handy for Lake Biwa shipping, it caught the eye of Nobunaga as he planned a new castle.
+@492
+A castle town Oda Nobunaga built, seeing the superb site on Lake Biwa, named Azuchi in hope of a "land of peace and joy", they say. Nanban merchants and missionaries were invited and it grew greatly, but it burned after Honnoji.
+@493
+Also called Nanto, the old capital where Heijo-kyo stood. Rich in great temples; above all Kofukuji, the Fujiwara clan temple, was mighty, and the Kamakura and Muromachi shogunates made it governor of Yamato.
+@494
+Heian-kyo. Japan's capital for ages since the move at the end of the 8th century. Even after power passed to the samurai it stayed the centre of politics and trade and was ever fought over. In the Sengoku era powerful merchants called machishu arose.
+@495
+Today's Kameoka. Tanba was in utter chaos in the Sengoku era, home to the Hatano, Naito, Ogino and others. Tanba-Kameyama came to note when Akechi Mitsuhide, ordered by Nobunaga to take Tanba, built a castle here.
+@496
+A fine natural harbour on the Sea of Japan near Kyoto, a key trade hub where thousand-koku ships came and went, and with Tsuruga a start of northern shipping. In the Edo era it was also a key relay port on the western sea route.
+@497
+From around the Onin war it became the port for the Ming missions and boomed, and powerful merchants called egoshu ran it themselves. A free spirit spread; Nanban culture and the tea ceremony flowered here thanks to its trading power.
+@498
+Late in the 15th century Rennyo, founder of Honganji's rise, built the Ishiyama hall as a branch of Yamashina Honganji; after Yamashina burned, Ishiyama became the head temple. Under Kennyo it held out ten years against Nobunaga but lost, and its halls burned.
+@499
+On the site of Ishiyama Honganji, Hideyoshi created a mighty castle and vast town as his base to unify the realm. Building went on after the two Osaka campaigns; through the Edo era it was the nation's rice market, "the realm's kitchen", Japan's top trading city.
+@500
+Today's central Wakayama. Skilled in ironwork, it learned gunmaking early and became famous for guns. Backed by these weapons, armed bands like the Saika and Negoro arose and toyed with Sengoku daimyo.
+@501
+Built as the seat of the Yamana governors of Inaba, it was fought over by the Yamana, Amago, Mori and Oda, most famously in Hashiba Hideyoshi's siege. It grew as a castle town only after Ikeda Mitsumasa moved here from Himeji in the early Edo era.
+@502
+Today's Akasaki in Tottori. In the Nanbokucho era Nawa Hoki-no-kami Nagatoshi, who backed Emperor Go-Daigo, beat the Kamakura shogunate's army here. A relay port on the Sea of Japan; in the Edo era many rice ships for Osaka called here.
+@503
+The heart of Izumo since ancient times. The Amago, who rose from deputy governors to daimyo, held strong Gassan-Toda Castle. Then Hideyoshi's retainer Horio Yoshiharu came, moved his seat from inconvenient Gassan-Toda, and built the modern castle town of Matsue.
+@504
+As the name says, hot springs have flowed here since ancient times, giving "Yunotsu", hot-spring port. In the Sengoku era it grew as the port shipping silver from the Iwami mine, then the world's biggest.
+@505
+It began with a castle the Akamatsu governors of Harima built on Himeyama in the Nanbokucho era, rebuilt by Hashiba Hideyoshi as his base for the west. Today's keep, praised as the White Heron Castle, was built by Ikeda Terumasa early in the Edo era. The town thrived too.
+@506
+Mimasaka was fought over by the Akamatsu and Amago in the Sengoku era, later held by the Mori, Kobayakawa and others. Tsuyama grew only when Mori Tadamasa came to rule it, they say; a true castle town was built early in the Edo era.
+@507
+Bizen was long known for iron, and Osafune produced many swordsmiths from the late Heian era. The bustle of Fukuoka market, shown in the "Ippen Scrolls", is famous. Today's Fukuoka in Kyushu was named after it by Kuroda Nagamasa.
+@508
+A little fishing village near Kojima Bay in the Sengoku era, developed from the start of the Edo era. Past the mid Edo era, rich "new" merchant houses arose, and from their rows of storehouses it came to be called Kurashiki, "storehouse town", they say.
+@509
+Since ancient times a port shipping goods from Bingo and a key point on the Inland Sea. In the Sengoku era it was a starting port for ships to Ming, and in the Edo era a key relay port for the kitamae ships on the western route.
+@510
+The town of Itsukushima Shrine, founded in the Asuka era; Taira no Kiyomori built its halls. Ruined by fires and typhoons, it was revered by Mori Motonari after his win at Itsukushima, who rebuilt the main hall; Hideyoshi later had the great sutra hall built.
+@511
+Today's Shimonoseki. Since ancient times a key link between the Sea of Japan and the Inland Sea, called Akamagaseki or Bakan. Historic events like Dannoura, the Ganryujima duel and the Shimonoseki treaty tell of its importance.
+@512
+Once called Kameyama, it was named "Marugame" by the Ikoma, who ruled it late in the Momoyama era and built a new castle, they say. In the Edo era it bustled with pilgrims to Kotohiragu.
+@513
+A base of the Inland Sea navies, once written "Imahari" and read Imahari or Imabaru. Todo Takatora, master builder given a castle in Iyo, prayed "from now, peace" and renamed it Imabari, they say.
+@514
+A port at the mouth of the Muya river, long known for salt. In the Sengoku era it was in the domain of the Hosokawa deputies, then their stewards the Miyoshi rose. After the Miyoshi and the Chosokabe, Hachisuka Iemasa came under the Toyotomi and his house held it in the Edo era.
+@515
+A town on a deep bay into Kochi, seen even in the Heian "Tosa Diary". While Hideyoshi banned Christianity, the Spanish ship San Felipe drifted ashore at Urado, and the Christians aboard were executed in Nagasaki.
+@516
+It thrived from the Heian Korokan, where foreign envoys were received, and became a town of medieval merchants. A cosmopolitan city open to Ryukyu, Korea, Ming and all Asia, its great merchants governed it as "town elders".
+@517
+Yanagawa was ruled by the Kamachi, who claimed descent from Fujiwara no Sumitomo, then by the Otomo retainer Tachibana Muneshige. After Sekigahara Tanaka Yoshimasa built up the castle town and its famous canals. The Tachibana later returned and ruled it in the Edo era.
+@518
+Seat of the Matsura, powerful in Iki and Hizen since the 13th century. After Portuguese ships came, Spanish and Dutch ships followed and it thrived as an international port. Under the Edo closed-country policy, Nagasaki took its place.
+@519
+A city at the mouth of the Kuma river, ruled by the Sagara in the Sengoku era, with foreign trade too. Its rulers then changed in quick succession: Konishi Yukinaga, then Kato Kiyomasa after Sekigahara.
+@520
+Long a fought-over crossroads, it got a castle from the Mori; Hosokawa Tadaoki fostered trade and built up the town, even bringing Kyoto's Gion festival in the early Edo era. After the Hosokawa moved to Kumamoto, the Ogasawara ruled it.
+@521
+Today's Oita. Castle town of the Otomo governors of Bungo, a trading city from early medieval times. Especially under Sorin, who welcomed missionaries, it became an international city known even in Europe.
+@522
+Aburatsu is said to be named after the Ahiratsu shrine of Ahiratsuhime, Emperor Jinmu's consort. Hyuga's top trading port and outport of Obi, seat of the Ito of southern Hyuga, it was a relay port for the tally trade, fought over by the Shimazu and Ito.
+@523
+Ruled by the Kanoya, a branch of the Kimotsuki of Osumi, who fell when the Kimotsuki lost to the Shimazu. The Shimazu retainer Ijuin Tadamune then restored Kanoya Castle, built up its town and fostered local industry.
+@524
+Called "Kagonma" locally. Castle town of the Shimazu, who had ruled the area since the Kamakura era. In the mid 16th century the missionary Francis Xavier landed here and preached for the first time in Japan.
+@525
+Once called Busanpo, one of the Three Ports the Joseon court allowed for trade with Japan. As more Japanese settled long-term, the court restricted trade, and the angry Japanese of the Japan House raised the Three Ports revolt.
+@526
+Ming, closed to the sea, limited each country to set ports; Ningbo was Japan's. When the Hosokawa and Ouchi missions clashed over control of the Ming ships, the "Ningbo incident" broke out.
+@527
+Port of Shuri, capital of the Ryukyu kingdom, and hub of trade among Japan, Ming and Southeast Asia. At its peak in the early 16th century, Ryukyu trade declined with the arrival of European merchants and the Shimazu conquest.
+@528
+The Philippines, Luzon included, were under Spain, governed from Manila. Many merchants came from Japan and Ryukyu and also traded with Europeans. Many Japanese merchants visited Annam (Vietnam), Siam (Thailand) and elsewhere too.

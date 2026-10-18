@@ -1,0 +1,2237 @@
+# msg04: field actions, meditation/gathering, greetings, tips, rumors, buying, duels.
+@0
+Move to {02}{15}e?
+@1
+Move to {02}{01}g?
+@1.1
+Move toward the chosen person?
+@2
+Move to the chosen place?
+@3
+Return to {02}{15}e?
+@4
+Wait?
+@5
+Stop waiting?
+@6
+Stop moving?
+@7
+Stop gathering?
+@8
+Stop meditating?
+@9
+Enter {02}{15}e?
+@10
+Leave {02}{15}e?
+@11
+Register a destination?
+@12
+Choose a base to register.
+@13
+Change the registered base?
+@14
+Stop registering a base?
+@15
+Register {02}{15}e?
+@16
+Remove {02}{15}e from the register?
+@17
+Hmm... I feel sluggish.\nThis is no time to meditate.
+@17.1
+Ugh... I feel sluggish.\nThis is no time to meditate.
+@18
+.........
+@19
+...Ah!\nOh no... I fell asleep while meditating.
+@19.1
+...Ah!\nBlast... I fell asleep while meditating.
+@20
+It seems a thick mist has risen.
+@20.1
+It seems a thick mist has risen.
+@21
+Rustle, rustle
+@22
+Hm, who's there!
+@23
+I am you... you are me
+@23.1
+I am you... you are me
+@24
+What?!\nThere's another... me?!
+@24.1
+What?!\nThere's another... me?!
+@25
+I am the fake... you are the fake.\nWhich one... is the fake
+@25.1
+I am the fake... you are the fake.\nWhich one... is the fake
+@26
+Argh... impostor!\nI'll cut you down!
+@26.1
+Argh... false me!\nI'll cut you down!
+@27
+I am you... you are me\n\n\nYou... who are you...
+@27.1
+I am you... you are me\n\nYou... who are you...
+@28
+What?!\nThere are two more... of me?!
+@28.1
+What?!\nThere are two more... of me?!
+@29
+I am the fake... you are the fake.\nWhich one... is the fake\n\n...I'll strike down the fakes
+@29.1
+I am the fake... you are the fake.\nWhich one... is the fake\n\n...I'll strike down the fakes
+@30
+Argh... impostors!\nI'll cut you down!
+@30.1
+Argh... impostors!\nI'll cut you down!
+@31
+Who is it... that wakes me?\nMy name is Soma no Kojiro...\nTaira no Masakado.
+@32
+What?! The one who raised the Johei rebellion...\nthat legendary warrior?!\nWhy?
+@32.1
+What?! The one who raised the Johei rebellion...\nthat legendary warrior?! Why?
+@33
+I have woken from six hundred years of sleep.\nTo one who seeks the way of arms, I will teach a secret.\nCome, have at me!
+@34
+The warrior of old who once ruled the Bando...\nA worthy opponent! I beg you, face me!
+@34.1
+The warrior of old who once ruled the Bando...\nA worthy opponent indeed! I beg you, face me!
+@35
+Who is it... that wakes me from my sleep?\nI am... former police commissioner...\nLieutenant of the Left Gate, Minamoto no Kuro Yoshitsune.
+@36
+What?! The hero of the Genpei War...\nWh-why?!
+@36.1
+What?! The hero of the Genpei War...\nWh-why are you here?!
+@37
+I heard of one devoted to the way of arms,\nand came from the dark beyond to grant a secret...\nDefeat me, if you can!
+@38
+The hero whose name lives on, Lord Kuro Hogan...\nA worthy opponent! I beg you, face me!
+@38.1
+The hero whose name lives on, Lord Kuro Hogan...\nA worthy opponent indeed! I beg you, face me!
+@39
+You have realized a technique of your own!\nGive it a name.
+@40
+That name cannot be used.
+@41
+You have realized the technique {02}=e!
+@42
+......Ah!\nHm? Was that... a dream?
+@42.1
+......Ah!\nHm? Was that... a dream?
+@43
+What a strange dream that was...
+@43.1
+What a strange dream that was...
+@44
+Hmm... I feel sluggish.\nThis is no time to gather.
+@44.1
+Ugh... I feel sluggish.\nThis is no time to gather.
+@45
+Phew, I got plenty.\nThat should be enough.
+@45.1
+Hm, I got plenty.\nThat should be enough.
+@46
+Gathered {02}od of iron sand.
+@47
+Gathered {02}od of herbs.
+@48
+Oh, amazing!\nThis area is full of iron sand.
+@48.1
+Oh, this is amazing!\nThis area is full of iron sand.
+@48.2
+I should get lots of iron sand around here.
+@48.3
+I should get lots of iron sand around here.
+@48.4
+There doesn't seem to be much iron sand here.\nI can't expect much in a day.
+@48.5
+There doesn't seem to be much iron sand here.\nI can't expect much in a day.
+@48.6
+There's no iron sand at all around here.\nI'd better try somewhere else.
+@48.7
+There's no iron sand at all around here.\nI'd better try somewhere else.
+@49
+Oh, amazing!\nThis area is full of herbs.
+@49.1
+Oh, this is amazing!\nThis area is full of herbs.
+@49.2
+I should get lots of herbs around here.
+@49.3
+I should get lots of herbs around here.
+@49.4
+There don't seem to be many herbs here.\nI can't expect much in a day.
+@49.5
+There don't seem to be many herbs here.\nI can't expect much in a day.
+@49.6
+There are no herbs at all around here.\nI'd better try somewhere else.
+@49.7
+There are no herbs at all around here.\nI'd better try somewhere else.
+@50
+You know no one.
+@51
+You don't belong to a daimyo house.
+@52
+You have no subordinates.
+@53
+You have no items.
+@54
+You have no trade goods.
+@55
+You have no cards.
+@56
+Suspend the game?
+@57
+Return to the title screen?
+@58
+Saving complete.
+@59
+You have no mission right now.
+@60
+You have no job right now.
+@61
+You have no base right now.
+@62
+Not connected to the home base.
+@63
+There are units sortied from that castle.
+@64
+......And three days later
+@65
+So this is the famous {02}=e...\nThe view lives up to its reputation...
+@65.1
+So this is the famous {02}=e...\nThe view lives up to its reputation...
+@65.2
+Oh, so this is the famous {02}=e.\nWhat a view, what a view...
+@65.3
+So this is the renowned {02}=e.\nA splendid view.
+@66
+{02}=e always soothes the heart...
+@66.1
+{02}=e always soothes the heart...
+@67
+Health recovered a little.
+@68
+Having visited several scenic spots,\nI feel I've come to appreciate famous sights.
+@68.1
+Having visited several scenic spots,\nI feel I've come to appreciate famous sights.
+@69
+Obtained the "Saisho" card.\nFrom now on, places with famous sights\nwill show a hint.
+@70
+Come to think of it, I've toured\nmany of the famous sights\nall over the land...
+@70.1
+Come to think of it, I've toured\nmany of the famous sights\nall over the land...
+@71
+Touring the provinces and broadening my horizons\nseems to have sharpened my intuition.\n
+@71.1
+Touring the provinces and broadening my horizons\nseems to have sharpened my intuition.\n
+@72
+What do you want, {01}C1{00}?\nYou have the nerve to show yourself before me.\nBe gone at once.
+@73
+meet
+@73.1
+meet
+@74
+Well, well
+@75
+Oh, it's {01}C1{00}...\nToday I'd like a match with you.\nDraw your sword! Come on!
+@75.1
+...You!\nWhat luck to meet you here!\nI'll cut you down!!
+@75.2
+Hm? Who are you?
+@75.3
+Pleased to meet you.\nI am {02}{01}g.
+@75.4
+Hm? You called me?\nI'm {02}{01}g the smith,\nare you sure you've got the right man?
+@75.5
+Well, well.\nI am {02}{01}g.
+@76
+What do you want!\nI don't even want to see your face.\nGet lost!
+@76.1
+What do you want?\nI don't even want to see your face.\nGoodbye!
+@77
+{01}C1{00}...\nI have nothing to say to you.\nExcuse me.
+@78
+Um... who are you again?\nSorry, so many people ask me for guns,\nI can't remember every name.
+@78.1
+{01}C1{00}?
+@78.2
+Um... {02}{02}e, was it?\nSorry, so many people ask me for guns,\nnames are hard to remember.
+@78.3
+{01}C1{00}?\nWhat a coincidence.
+@78.4
+{01}C1{00}?\nWhat a coincidence.
+@78.5
+Hey, it's {02}{02}e.\nWhat are you doing here?
+@78.6
+Oh, {01}C1{00}?\nWhat a coincidence.
+@78.7
+Oh, {01}C1{00}?\nWhat a coincidence.
+@78.8
+Hey! It's {02}{02}e!\nFancy meeting you here.\nGood to see you.
+@78.9
+Oh, {01}C1{00}!\nWhat a coincidence to {01}C{E9}{0F} you here.
+@78.10
+Oh, {01}C1{00}!\nWhat a coincidence to {01}C{E9}{0F} you here.
+@79
+Pleased to meet you.\nI am {02}{01}g.
+@79.1
+How do you do?\nI am {02}{01}g.
+@79.2
+Pleased to meet you.\nI am {02}{01}g.
+@79.3
+Pleased to meet you.\nI am {02}{01}g of {02}{01}{EC}.
+@79.4
+Pleased to meet you.\nI am {02}{01}g.
+@80
+Pleased to meet you.\nI am {02}{01}g of {02}{01}{EC}.
+@80.1
+Pleased to meet you.\nI am {02}{01}g.
+@80.2
+How do you do?\nI am {02}{01}g.
+@81
+I have a mission to attend to...\nExcuse me!
+@82
+Oh, Lord {02}{02}g...\nPleased to meet you.
+@82.1
+Lord {02}{02}g...\nPleased to meet you.
+@82.2
+Oh, Lord {02}{02}g...\nPleased to meet you.\nI am {02}{01}g.
+@82.3
+Lord {02}{02}g...\nPleased to meet you.\nI am {02}{01}g.
+@82.4
+Oh, Lord {02}{02}g...\nPleased to meet you.\nI am {02}{01}g.
+@82.5
+Lord {02}{02}g...\nHow do you do?\nI am {02}{01}g.
+@82.6
+Oh, Lord {02}{02}g...\nPleased to meet you.\nI am {02}{01}g of {02}{01}{EC}.
+@82.7
+Lord {02}{02}g...\nHow do you do?\nI am {02}{01}g of {02}{01}{EC}.
+@82.8
+Ah, forgive my rudeness.\n{01}C1{00}, pleased to meet you.\nI am {02}{01}g.
+@82.9
+{01}C1{00}?\nExcuse me.
+@82.10
+Oh, {01}C1{00}?\nForgive me.
+@83
+Ah, Lord {02}{02}g?\nForgive me.\nPleased to meet you.
+@83.1
+Ah, Lord {02}{02}g?\nForgive my rudeness.\nI am {02}{01}g.
+@83.2
+Oh, so you are Lord {02}{02}g.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@83.3
+Oh, so you are Lord {02}{02}g...\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@83.4
+Ah, forgive my rudeness.\n{01}C1{00}, pleased to meet you.\nI am {02}{01}g.
+@83.5
+Oh, {01}C1{00}?\nExcuse me.
+@83.6
+{01}C1{00}?\nExcuse me...
+@83.7
+Oh, {01}C1{00}?\nForgive me.
+@83.8
+Oh, {01}C1{00}?\nForgive me.
+@84
+What do you want?
+@84.1
+What business brings you?
+@84.2
+What business brings you?
+@84.3
+What business brings you?
+@84.4
+How may I help you?
+@84.5
+What business brings you?
+@85
+Your skill with a gun is splendid.\nAs far as I know, there are only a handful\nas good as you.
+@85.1
+Your skill with a gun is considerable.\nBut if you want to polish it more,\ncome to me.
+@85.2
+If you want to get better with guns,\ncome to me.
+@85.3
+Don't you want to get better with guns?\nIf you do,\ncome to me.
+@85.4
+{01}C1{00},\ndon't you want to enter service?
+@85.5
+Fighting skills like Infantry\nshow their worth in war,\nso it doesn't hurt to train them.
+@85.6
+With high swordsmanship\nyou'll feel safe\neven when fighting an enemy.
+@85.7
+They say raising Tactics\ngives you more special moves in battle...\nIt doesn't hurt to train it.
+@85.8
+Training Ninjutsu, I hear,\nhelps with infiltration and the like.\nIt doesn't hurt to train it.
+@85.9
+The Building skill\nhelps repair and extend castles,\nso it doesn't hurt to train it.
+@85.10
+The Farming skill\nhelps develop new fields,\nso it doesn't hurt to train it.
+@85.11
+The Accounting skill\nhelps in trade missions,\nso it doesn't hurt to train it.
+@85.12
+The Etiquette skill\nhelps in formal diplomacy,\nso it's worth training.
+@85.13
+The Speech skill\nhelps in negotiations with people,\nso it's worth training.
+@85.14
+The Tea skill\nmatters for making friends,\nso it doesn't hurt to train it.
+@85.15
+The Medicine skill\nhelps restore health,\nso it doesn't hurt to train it.
+@85.16
+They say owning a fine horse\nmakes you travel faster on land...
+@85.17
+In war, after all,\nhigh Leadership matters most.\nBeyond that, skills are the key.
+@85.18
+Besides war, I hear diplomacy\ncan bring enemies over to your side.\nHigh Speech and Etiquette help there.
+@85.19
+Those with high court rank\ncommand respect from everyone.\nStart by building ties with the court.
+@87
+Fighting skills like Infantry\nshow their worth in war,\nso it doesn't hurt to train them.
+@87.1
+Studying Tactics, they say, lets you use\nmore special moves in battle.\nIt doesn't hurt to train it.
+@88
+With high swordsmanship\nyou'll feel safe\neven when fighting an enemy.
+@88.1
+Training Ninjutsu\nhelps with infiltration and the like.\nIt doesn't hurt to train it.
+@89
+The Building skill\nhelps repair and extend castles.\nIt doesn't hurt to train it.
+@89.1
+The Farming skill\nhelps develop new fields.\nIt doesn't hurt to train it.
+@90
+The Accounting skill\nhelps in trade missions.\nIt doesn't hurt to train it.
+@90.1
+The Etiquette skill\nhelps in formal diplomacy.\nIt doesn't hurt to train it.
+@90.2
+The Speech skill\nhelps in negotiations with people.\nIt doesn't hurt to train it.
+@91
+The Tea skill\nmatters for making friends.\nIt doesn't hurt to train it.
+@91.1
+The Medicine skill\nhelps restore health.\nIt doesn't hurt to train it.
+@92
+In war, after all,\nhigh Leadership matters most.\nBeyond that, skills are the key.
+@92.1
+Besides war, diplomacy can\nbring enemies over to your side.\nHigh Speech and Etiquette help there.
+@92.2
+Those with a high reputation command respect,\nand gain in all sorts of situations.\n\nBut for ninja, who must stay hidden,\nfame can sometimes\nget in the way.
+@92.3
+A bad reputation makes you lose out\nin all sorts of situations.\n\nBut if your infamy spreads far enough,\neven bandits and villains\nmay run from you...
+@93
+Come to think of it, I hear {02}3g\nis sold at {02}{03}{EC}...
+@93.1
+Come to think of it, I hear\n{01}C>{00} owns a fine piece, {02}3g.\nI'd love to see it once.
+@94
+Come to think of it,\nI hear you own {02}3g.\nI envy you.
+@95
+Come to think of it, I think I heard\n{02}3g belongs to {02}{03}g...
+@96
+Come to think of it, there's a rumor\nsomeone of {02}{0B}e has {02}3g...
+@97
+Come to think of it, I think I heard\nabout {02}3g in {02}{1F}e...
+@98
+Come to think of it, I heard a rumor\n{02}3g was seen in the {02}{1F}g region...
+@99
+I hear {01}C>{00} is known\nas {02}yd.
+@100
+I've heard that {01}C>{00}\nis a master of the technique\n{02}yd.
+@101
+I've heard that {01}C>{00}\nis a master of the technique\n{02}yd.
+@102
+At the inn in {02}{03}{81}\na beautiful girl named {02}{03}f works.
+@103
+I've heard {01}C>{00}\nis fond of {02}yd.
+@104
+...You say you'll sell something,\nbut you don't have\nanything, do you?
+@104.1
+...You say you'll sell something,\nbut forgive me,\nit seems you have nothing.
+@105
+Oh, you have something to sell...\nAnd what is it?
+@105.1
+Oh,\nyou'll sell me something?
+@105.2
+Oho,\nyou'll sell me something?
+@106
+Oho! Well, well...\nAnd the price?
+@106.1
+Oho, I see...\nAnd the price?
+@106.2
+Oh, this is...\nAnd the price?
+@106.3
+............\nAnd the price?
+@107
+I see, what a pity.
+@108
+Very well.\nI'll buy it at that price.
+@108.1
+Very well.\nI'll buy it at that price.
+@109
+(They seem very pleased.)
+@110
+......Sorry, but I'll pass this time.
+@110.1
+I'm sorry, but\nI'll pass this time.
+@111
+(......They didn't seem to like it much.)
+@112
+Hm, you bring out a spear...\nDon't tell me you mean to fight here?
+@112.1
+Eh, you bring out a spear...\nDon't tell me you mean to fight here?
+@112.2
+Hm, what's with that kunai...?\nDon't tell me you mean to fight here?
+@112.3
+Eh, what's with that kunai...?\nDon't tell me you mean to fight here?
+@112.4
+Hm, what's with that sickle-and-chain...?\nDon't tell me you mean to fight here?
+@112.5
+Eh, what's with that sickle-and-chain...?\nDon't tell me you mean to fight here?
+@112.6
+Hm, what's with that matchlock...?\nDon't tell me you mean to fight here?
+@112.7
+Eh, what's with that matchlock...?\nDon't tell me you mean to fight here?
+@112.8
+Hm, you bring out a bow...\nDon't tell me you mean to fight here?
+@112.9
+Eh, you bring out a bow...\nDon't tell me you mean to fight here?
+@112.10
+Hm, you draw your sword...\nDon't tell me you mean to fight here?
+@112.11
+Eh, you draw your sword...\nDon't tell me you mean to fight here?
+@112.12
+What, you bring out a spear...\nDo you mean to fight here?
+@112.13
+Eh, you bring out a spear...\nSurely...\nyou don't mean to fight here?
+@112.14
+What?!\nWhat is that kunai for...?\nDo you mean to fight here?
+@112.15
+Eh, you bring out a spear...\nSurely...\nyou don't mean to fight here?
+@112.16
+What?!\nWhat is that sickle-and-chain for...?\nSurely you don't mean to fight here?
+@112.17
+Eh, you bring out a sickle-and-chain...\nSurely...\nyou don't mean to fight here?
+@112.18
+What?!\nWhat is that matchlock for...?\nSurely you don't mean to fight here?
+@112.19
+Eh, you bring out a matchlock...\nSurely...\nyou don't mean to fight here?
+@112.20
+What, you bring out a bow...\nSurely you don't mean to fight here?
+@112.21
+Eh, you bring out a bow...\nSurely...\nyou don't mean to fight here?
+@112.22
+What, you draw your sword...\nSurely you don't mean to fight here?
+@112.23
+Eh, you bring out a sword...\nSurely...\nyou don't mean to fight here?
+@113
+Eek!\nS-sensei! Please!
+@114
+You think you can beat me?\nPrepare yourself!
+@114.1
+......Pointless.\nYou'll rust my sword.
+@114.2
+......Pointless.\nYou'll rust my sword.
+@114.3
+......Pointless.\nI'll strike you down with this spear.
+@114.4
+......Pointless.\nI'll strike you down with this spear.
+@114.5
+......Pointless.\nI'll strike you down with this sickle-and-chain.
+@114.6
+......Pointless.\nI'll strike you down with this sickle-and-chain.
+@114.7
+......Pointless.\nI'll strike you down with this kunai.
+@114.8
+......Pointless.\nI'll strike you down with this kunai.
+@114.9
+......Pointless.\nI'll strike you down with this bow.
+@114.10
+......Pointless.\nI'll strike you down with this bow.
+@114.11
+......Pointless.\nI'll strike you down with this matchlock.
+@114.12
+......Pointless.\nI'll strike you down with this matchlock.
+@114.13
+Fool! You think you can win?\nYou'll rust my sword.
+@114.14
+How foolish!\nPointless.\nYou'll rust my sword.
+@114.15
+Fool! You think you can win?\nI'll strike you down with this spear.
+@114.16
+How foolish!\nI'll strike you down with this spear.
+@114.17
+Fool! You think you can win?\nI'll strike you down with this sickle-and-chain.
+@114.18
+How foolish!\nI'll strike you down with this sickle-and-chain.
+@114.19
+Fool! You think you can win?\nI'll strike you down with this kunai.
+@114.20
+How foolish!\nI'll strike you down with this kunai.
+@114.21
+Fool! You think you can win?\nI'll strike you down with this bow.
+@114.22
+How foolish!\nI'll strike you down with this bow.
+@114.23
+Fool! You think you can win?\nI'll strike you down with this matchlock.
+@114.24
+How foolish!\nI'll strike you down with this matchlock.
+@114.25
+Wh-why would you do this!
+@114.26
+Wh-why would you do this!
+@114.27
+Eek!
+@114.28
+Eek!\nHelp!
+@115
+Don't push your joke too far.
+@115.1
+Don't push your joke too far.
+@115.2
+Please, don't push your joke too far.
+@115.3
+Please, don't push your joke too far.
+@116
+Right, see you.
+@116.1
+Then excuse me.
+@116.2
+Then excuse me.
+@117
+Then excuse me.
+@117.1
+Hm, see you, then.
+@117.2
+I see. Then excuse me.
+@117.3
+No other business?\nThen farewell.
+@118
+{02}{15}e is at war; you can't enter.
+@119
+Hmm...\nIs there no way to slip through the siege?
+@119.1
+What now...\nIs there no way to slip through the siege?
+@120
+Who are you!\nWandering the battlefield alone; suspicious!
+@121
+Ow...\nI was careless...
+@121.1
+Ouch...\nI was careless...
+@122
+Hmph! Small fry...\nThis is a battlefield!\nOutsiders, be gone!
+@123
+You were thrown out\nby the army besieging {02}{15}e.
+@124
+{02}{15}e is at war.\nForce your way in?
+@125
+Hmm... please,\nwon't you let me pass for this...?
+@125.1
+Please...\nwon't you let me pass for this?
+@126
+Well, well, Master {02}{02}e!\nActually, I have a fine piece\nI'd very much like you to buy.
+@127
+How about it!?\nI've only just got it in,\nisn't it splendid?\nThis must be fate.\n{01}C1{00}, I really\nwish you would buy it.
+@128
+(Hmm... this doesn't\n look like a very good piece.)
+@128.1
+(Oh... this doesn't\n look like a very good piece.)
+@129
+(Oh! This...\n looks like quite a good piece.)
+@129.1
+(Oh! This...\n looks like quite a good piece.)
+@130
+(Hmm... hard to say.\n It might be valuable,\n or it might not...)
+@130.1
+(Hmm... hard to say.\n It might be valuable,\n or it might not...)
+@131
+Er, I'll give you a discount:\n{02}o{C8}!\n{01}C1{00}, will you buy it?
+@132
+Oh! You have a fine eye!\nPlease, take it.\nI'll take my leave now.
+@133
+I see... what a pity.\nAnother time, then.
+@134
+Hey, hey, hey!\nIf you value your life, leave your money and cargo!
+@135
+Ah...!! Could this be\nthe infamous {02}{02}g?\n\nUh-oh! This means trouble!\nEveryone, run for it!
+@135.1
+Hm? Don't tell me you're...\nthe notorious villain {02}{02}g?\nUh-oh, we picked on the wrong one!\nThey say not even weeds grow\nwhere this one's been!\nBoys! Let's get out of here!
+@135.2
+Hm? You're...!\nDon't tell me, {02}{02}g?!\nThis is bad!\nThey say Lord {02}{02}g\nis far worse than us...\nSorry, sir! Please, go on through...
+@135.3
+Hey, you're... the infamous {02}{02}g?\n\n\nHeh heh heh... excuse us.\nA villain knows a villain.\nI get it, it's tough for you too, eh?\nWell, us bad guys should stick together.\nGo on, pass through!
+@136
+The bandits ran away.
+@137
+Uh-oh...!! Could this be\n{02}{02}g, famed as {02}=e?\n\nUh-oh! We're no match for them!\nEveryone, run for it!
+@137.1
+Hm? Don't tell me you're...\n{02}{02}g, the famous {02}=e?\nWe picked on the wrong one!\nEven if we all jump them at once\nwe'll be the ones cut down!\nBoys! Let's get out of here!
+@137.2
+Hm? You're...!\nDon't tell me, {02}{02}g?!\nThis is bad!\nLord {02}{02}g is famous\neverywhere as {02}=e!\nSorry, sir! Please, go on through...
+@137.3
+Hey, you're... {02}{02}g,\nthe {02}=e?\nHeh heh heh... excuse us, sir.\nWe'd never be stupid enough\nto pick a fight with {02}=e...\nPlease, go on through.
+@138
+Get back! Scum!\nYou'd better vanish from my sight\nbefore I really get angry!
+@138.1
+Oho... so you want to see\nmy swordsmanship that badly?\nThen come at me all at once.
+@138.2
+Hold it!\nAs long as I'm here, you won't\nlay a finger on this person!
+@139
+Eek!\nThis one's the real deal...\nH-hey, you lot! Run!
+@139.1
+Sh-shows strength... tch! No choice.\nYou got lucky!\nWatch yourself when you walk alone!
+@139.2
+This is bad... this one looks skilled.\nN-no choice! You lot!\nLet's get out of here!
+@140
+Leave your money and trade goods behind?
+@141
+Hmph! No backbone.\nBut since you were so obliging,\nI'll only take half.\nSee ya.
+@142
+What?! You won't hand it over?!\nYou've got guts!\nGo regret it in hell!!
+@143
+Sensei!! Sensei!!\nPlease!
+@144
+Hm...\nLeave it to me.
+@145
+What's this, a scruffy ronin!\nBoys, beat him to a pulp!
+@146
+What do you want!\nBoys, beat them to a pulp!
+@147
+It can't be helped...
+@147.1
+It can't be helped...
+@148
+Heh! Fool.\nWe'll take all your money and goods.\nSee ya.
+@149
+Argh... you're all talk.\nIt was a mistake to hire\nsomeone like you as a guard!
+@150
+I-I'm terribly sorry...
+@151
+I'll never hire you again!\nFarewell!
+@152
+The escort mission failed.
+@153
+Argh... useless bodyguard.\nRan off somewhere!
+@154
+The bodyguard is gone.
+@155
+Rogue ninja, I've found you!\nIn the name of {02}{0B}e,\nI won't let you live!
+@156
+Well done... {02}{02}g!\nI'm no match for you... From now on\n{02}{0B}e won't lay a hand on you...
+@157
+Hm, a storm...\nThe waves are getting high.
+@157.1
+Oh, a storm...\nThe waves are getting high.
+@158
+Everyone, hold your posts...\nWe'll get through this storm somehow.
+@158.1
+Everyone, hold your posts...\nWe'll get through this storm somehow!
+@159
+The storm seems to have passed.
+@160
+Waah... what a terrible rolling...\nHelp...
+@161
+Boys, calm down! Don't leave your posts!\nHold on till the storm passes!
+@161.1
+Everyone, calm down!\nDon't leave your posts!\nHold on till the storm passes!
+@162
+Ugh... no good.\nThe rolling is too strong!
+@163
+Creak, crack!
+@164
+Eek... I'll die...\nIt's hopeless...
+@165
+Whoosh!
+@166
+The storm seems to have passed...\nHey! Report the damage!
+@166.1
+The storm seems to have passed...\nEveryone! Report the damage!
+@167
+Part of the fleet was damaged.\nIt seems 10% of the cargo was washed away.
+@168
+Argh, just when we're in a hurry!\nTroublesome pirates...!
+@169
+Argh, I have no choice...\nI'll give you money, now be gone!
+@170
+Heh, you know what's good for you...\nWell, watch yourselves on the way... See ya!
+@171
+Paid {02}od kan to drive off the pirates.
+@172
+Argh, I have no money for the likes of you!\nI'll cut you down!
+@173
+You've got some nerve!\nYou'll regret this!\nBoys, get them!
+@174
+Damn it!\nYou'll pay for this!
+@175
+Heh! Serves you right!\nNext time just hand over the money...!\nSee ya!!
+@176
+Ugh...! What humiliation...\nTo lose to such rabble...
+@177
+Obtained {02}o{C8} in money.\nAdded to the war funds.
+@178
+You there, fleet, halt!\nIf you value your lives, leave your money and cargo!
+@179
+Blast! Wako pirates!!
+@180
+I have no choice...\nShall I pay about 2000 kan?
+@181
+Heh heh... fine, that'll do! Go!\nThere are other pirates around here,\nso watch yourselves! Gahaha
+@182
+Boys!!\nPrepare for battle!
+@182.1
+Everyone!!\nPrepare for battle!
+@183
+Phew, we drove them off somehow...
+@184
+As expected of {02}{0B}e.\nA splendid defense.
+@184.1
+As expected of {02}{0B}e.\nA splendid defense.
+@185
+Drove off the wako\nwith hardly any damage.
+@186
+It seems we took quite a lot of damage...
+@186.1
+It seems we took quite a lot of damage...
+@187
+The fleet was damaged\nand some of the cargo was lost.
+@188
+We took terrible damage...\nBut we can't turn back now.\nRegroup the fleet and press on...
+@188.1
+We took terrible damage...\nBut we can't turn back now.\nRegroup the fleet and press on.
+@189
+Uh-oh...!! Could this be\n{02}{02}g, famed as {02}=e?\n\nUh-oh! We're no match for them!\nEveryone, run for it!
+@189.1
+Hm? Don't tell me you're...\n{02}{02}g, the famous {02}=e?\nWe picked on the wrong one!\nEven if we all jump them at once\nour ships will be the ones sunk!\nBoys! Get out of here!
+@189.2
+Hm? You're...!\nDon't tell me, {02}{02}g?!\nThis is bad!\nLord {02}{02}g is famous\neverywhere as {02}=e!\nSorry, sir! Please, go on through...
+@189.3
+Hey, you're... {02}{02}g,\nthe {02}=e?\nHeh heh heh... excuse us, sir.\nWe'd never be stupid enough to pick a fight\nwith the warships of {02}=e...\nPlease, go on through.
+@190
+The raiders ran away.
+@191
+Ah...!! Could this be\nthe infamous {02}{02}g?\n\nUh-oh! This means trouble!\nEveryone, run for it!
+@191.1
+Hm? Don't tell me you're...\nthe notorious villain {02}{02}g?\nUh-oh, we picked on the wrong one!\nThey say not even seaweed drifts\nwhere this one's been!\nBoys! Let's get out of here!
+@191.2
+Hm? You're...!\nDon't tell me, {02}{02}g?!\nThis is bad!\nThey say Lord {02}{02}g\nis far worse than us...\nSorry, sir! Please, go on through...
+@191.3
+Hey, you're... the infamous {02}{02}g?\n\n\nHeh heh heh... excuse us.\nA villain knows a villain.\nI get it, it's tough for you too, eh?\nWell, us bad guys should stick together.\nGo on, pass through!
+@192
+I travel the provinces every day\nto master the way of the sword.
+@192.1
+Come to think of it,\nI hear Lord {02}{03}g\nuses a sword technique called {02}=e.
+@192.2
+Come to think of it,\nI hear Lord {02}{03}g\nuses a sword technique called {02}=e.
+@192.3
+Come to think of it, I hear Lord {02}{03}g\nuses a sword technique called {02}=e.
+@193
+Come to think of it, I hear Lord {02}{03}g\nuses a formation called {02}=e\nin battle.
+@194
+Won't you let me go\nfor this {02}od kan?
+@195
+Hm... well, for now\nI'll let you go for that.
+@196
+Did you think we'd back off\nfor such a pittance?!\nGo regret it in hell!!
+@197
+Pay 100 kan to call for help?
+@198
+Then leave this to me.
+@198.1
+Then leave this to me.
+@198.2
+Then leave this to me.
+@198.3
+Then leave this to me.
+@199
+They weren't much of a match,\nso I drove them off easily.\nTake care on your way...
+@199.1
+They had some skill, but\nI drove them off easily.\nTake care on your way...
+@199.2
+Phew, they were quite tough, but\nI managed to drive them off.\nThen I'll be going... Farewell!
+@199.3
+Huff, huff...\nI-I managed to drive them off.\nThen I'll be going...
+@200
+No... it can't be, that I lost...\nI'm sorry, but the rest is up to you...\nFarewell...
+@200.1
+Ugh... that I should lose...\nForgive me, but the rest is up to you...\nFarewell...
+@200.2
+Hmm... that I should lose...\nI'm sorry, but deal with the rest yourself.\nI'll take my leave... Farewell.
+@200.3
+Ugh... that I should lose...\nSorry, but handle the rest yourself.\nThen I'll be going...
+@201
+You called for help!\nSo you'll never hand the goods over!\nGo regret it in hell!!
+@202
+(Found a ronin, for a start.)
+@202.1
+(Found another ronin.)
+@202.2
+(Found a ronin, for a start.)
+@202.3
+(Found another ronin.)
+@203
+Ah, {01}C1{00}.\nThen I'm in your hands.
+@204
+{01}C1{00}, you've saved me.\nThen I'll take my leave.
+@205
+You're past the agreed deadline!\n...It seems you can't be trusted, {01}C1{00}.\nI'll take my leave for now.
+@206
+...You're {02}{02}g of {02}{02}{EC}?
+@207
+Are you one of {02}{0B}e's men?
+@208
+Whose men are you?
+@209
+Heh heh heh...\nYour life is mine!
+@210
+Damn, retreat!
+@211
+Good, let's keep going like this.
+@212
+No challenge at all.\nNow, let's withdraw before reinforcements come.
+@213
+...What humiliation.\nEnough, I'll take my leave.
+@214
+The route to guard is {02}{15}e - {02}{16}e.\nThen let's head to {02}{15}e or {02}{16}e.
+@215
+Ah, {01}C1{00}, I've been waiting.\nThen I'll ask you to guard\n{02}{15}e - {02}{16}e.
+@216
+{01}C1{00}, you've saved me.\nThen I'll take my leave.
+@217
+...You're with {02}{0B}e?\nWe'll have that cargo of yours.
+@218
+Eek!\nPeople of {02}{02}{EC}, please help!
+@219
+Damn, retreat!
+@220
+You've saved us.\nLet's keep going like this.
+@221
+No challenge at all.\nCome on, seize the cargo!
+@222
+...How could this happen.\nI won't ask you people again.
+@223
+The route to raid is {02}{15}e - {02}{16}e.\n
+@224
+You're with {02}{0B}e?\nSorry, but we'll have that cargo.
+@224.1
+You're with {02}{0B}e?\nWe'll have that cargo.
+@225
+Eek!\nHelp!
+@226
+Rustle rustle rustle...
+@227
+Hold it!\nI won't let you run riot on this route!!
+@228
+Wh-what happened...\nThe supply train wiped out...\nTrade on this route will stall...
+@229
+Ha ha ha ha\nThat'll do for today.
+@230
+...Prepare yourself.
+@231
+Ugh
+@232
+Today's prey is {02}{15}e.\nBoys, don't slack off!
+@232.1
+Today's prey is {02}{15}e.\nBoys, put your backs into it!
+@233
+Yeaaah!
+@234
+P-pirates!
+@234.1
+Eek, pirates!
+@234.2
+D-defend yourselves!\nPirates!
+@235
+P-pirates!
+@235.1
+Eek, pirates!
+@235.2
+Eeek, pirates!
+@236
+Ha ha ha ha\nRight, load the rice!\nSmash anything we don't need!!
+@236.1
+Ha ha ha ha\nRight, load the rice!\nSmash anything we don't need!!
+@237
+Plundered rice from {02}{15}e\nand destroyed trade goods.\nOrder in nearby castles fell.\nTrade on nearby routes was disrupted.
+@238
+Plundered rice from {02}{15}e.\nDestroyed trade goods.\nOrder in nearby castles fell.\n
+@239
+Damn.\nBoys, let's pull out!
+@239.1
+Damn.\nBoys, let's pull out!
+@240
+The reputation of every officer on this mission fell by 5.
+@241
+......Hm, someone's coming.
+@241.1
+......Hm, someone's coming.
+@242
+{02}{15}e, the port we guard this time, is huge,\nso countless raiders will attack.\nBoys, stay sharp!
+@242.1
+{02}{15}e, the port we guard this time, is large,\nso many raiders will attack.\nBoys, stay sharp!
+@242.2
+{02}{15}e, the port we guard this time, is mid-sized,\nso a fair number of raiders will attack.\nBoys, stay sharp!
+@242.3
+{02}{15}e, the port we guard this time, is small,\nso there shouldn't be many raiders.\nStill, boys, stay sharp!
+@242.4
+{02}{15}e, the port we guard this time, is huge,\nso countless raiders will attack.\nEveryone, put your backs into it!
+@242.5
+{02}{15}e, the port we guard this time, is large,\nso many raiders will attack.\nEveryone, put your backs into it!
+@242.6
+{02}{15}e, the port we guard this time, is mid-sized,\nso a fair number of raiders will attack.\nEveryone, put your backs into it!
+@242.7
+{02}{15}e, the port we guard this time, is small,\nso there shouldn't be many raiders.\nStill, everyone, put your backs into it!
+@243
+Yeaaah!
+@243.1
+Ah, my arms are itching!
+@243.2
+Let's show them the strength of {02}{01}{EC}!
+@244
+Yeaaah!
+@244.1
+Yeah, my arms are itching!
+@244.2
+Let's show them the strength of {02}{01}{EC}!
+@245
+You're the people of {02}{02}{EC}.\nI've been waiting for you.
+@246.*
+Right, let's stop at this town for now.
+@247
+Good, the promised 20 days are up.
+@247.1
+Good, the promised 20 days are up.
+@248
+Thank you, you saved us.\nAs expected of the people of {02}{02}{EC}.\nI hope we can count on you again.
+@249
+Well done, you lot!\nWe'll disband here.\nDon't forget to report on the mission.
+@249.1
+Well done, everyone!\nWe'll disband here.\nDon't forget to report on the mission.
+@250
+Who the hell are you!\nAnyone in our way gets cut down!
+@250.1
+Gyahahaha\nTake anything valuable!\nBurn the rest to the ground!!
+@250.2
+Hey, you lot,\ntake, take, take it all!!
+@251
+Boys, let's go!
+@251.1
+Everyone, let's go!
+@252
+They might come back,\nso boys, stay on your guard.
+@252.1
+They might come back,\nso everyone, stay on your guard.
+@253
+Damn...\nBoys, let's pull out!
+@253.1
+Damn...\nEveryone, let's pull out!
+@254
+The reputation of every officer on this mission fell by 5.
+@255.*
+......Hm, someone's coming.
+@256
+This town has suffered from raiders for a long time...\nPlease, do your best.
+@256.1
+This town has suffered from raiders for a long time...\nPlease, do your best.
+@256.2
+Ho ho ho, how reassuring.\nI leave this town in your hands.
+@256.3
+Trade has stalled because of the raiders...\nI'm counting on you all.
+@256.4
+Thanks to the raiders we can't even travel.\nWe're counting on you, give it your all.
+@257
+Yeah, leave it to me!
+@257.1
+Yes, leave it to me!
+@258
+Luckily no raiders came these five days.\nStill, nobody let your guard down.
+@258.1
+Luckily no raiders came these five days.\nStill, nobody let your guard down.
+@259
+(Right, let's slip in...)
+@259.1
+(Right, let's slip in...)
+@260
+(Everyone, get to work.\n Don't dawdle.)
+@260.1
+(Everyone, get to work,\n quickly and without a sound.)
+@261
+(Yes, boss.)
+@261.1
+(Yes!)
+@262
+(...A lock like this is nothing.\n ...How about you?)
+@262.1
+(...Got the lock open.\n ...How about you?)
+@262.2
+(...Hm... this... lock... won't...\n ...How about you?)
+@262.3
+(...A lock like this is nothing.\n ...How about you?)
+@262.4
+(...Got the lock open.\n ...How about you?)
+@262.5
+(...Mm... this... lock... won't...\n ...How about you?)
+@263
+(...The escape route is already secured.)
+@263.1
+(...I managed to secure the escape route.)
+@263.2
+(...fumble fumble\n ...fumble fumble)
+@263.3
+(...The escape route is already secured.)
+@263.4
+(...I managed to secure the escape route.)
+@263.5
+(...fumble fumble\n ...fumble fumble)
+@264
+(...All clear here too.)
+@264.1
+(...No problem here either.)
+@264.2
+(...fumble fumble\n ...fumble fumble)
+@265
+(...Right, shall we carry it out...?)
+@265.1
+(...Right, shall we carry it out...?)
+@266
+(......\n ......\n ......)
+@267
+(...Good, it seems\n we got it out safely.)
+@267.1
+(...Good, it seems\n we got it out safely.)
+@268
+Seized {02}od sekibune.
+@269
+(Then we disband here.)
+@270
+(Blast, a lookout is coming this way.\n You lot, hold him off!)
+@270.1
+(Blast, a lookout is coming this way.\n You lot, hold him off!)
+@271
+(Y-yes, boss!)
+@271.1
+(Y-yes!)
+@272
+N-no good...
+@272.1
+Th-they're strong...
+@272.2
+W-we can't win...
+@273
+N-no good...
+@273.1
+Th-they're strong, these guys...
+@273.2
+W-we can't win...
+@274
+I'm ashamed...
+@274.1
+I'm sorry...
+@274.2
+We just can't...
+@275
+Idiots.\nNo choice, I'll take him on!
+@275.1
+I can't leave it to you lot.\nI'll take him on.
+@275.2
+No choice, I'll take him on!
+@276
+Pathetic.\nThen I'll take him on!
+@276.1
+I can't leave it to you lot.\nI'll take him on.
+@276.2
+No choice, I'll take him on!
+@277
+......\n......\n......
+@278
+...We did it, that's the boss!
+@278.1
+...Yes, the boss wins!
+@278.2
+...That's the boss!\nThe lookout's down.
+@279
+...We did it, that's the boss!
+@279.1
+...Yes, the boss wins!
+@279.2
+...That's the boss!\nThe lookout's down.
+@280
+Huff, huff...\nNo wonder {02}{15}e is called impregnable.\nTake what we can and get out.
+@280.1
+Huff, huff...\nNo wonder {02}{15}e is known for tight guard.\nTake what we can and get out.
+@280.2
+Well, that's how it goes.\n{02}{15}e's guard is full of holes.\nTake what we can and get out.
+@280.3
+Huff, huff...\nNo wonder {02}{15}e is called impregnable.\nTake what we can and get out.
+@280.4
+Huff, huff...\nNo wonder {02}{15}e is known for tight guard.\nTake what we can and get out.
+@280.5
+Well, that's how it goes.\n{02}{15}e's guard is full of holes.\nTake what we can and get out.
+@281
+...Ah, even the boss couldn't do it
+@281.1
+...Ah, the boss is down too!
+@281.2
+......\n......\nIt's no good, the boss is down!
+@282
+Huff, huff...\nNo wonder {02}{15}e is called impregnable...\nAnyway, this mission's failed. Get out.
+@282.1
+Huff, huff...\nNo wonder {02}{15}e is known for tight guard.\nAnyway, this mission's failed. Get out.
+@282.2
+Tch, that's not what we were told...\n{02}{15}e's guard was supposed to be full of holes...\nAnyway, this mission's failed. Get out.
+@282.3
+Huff, huff...\nNo wonder {02}{15}e is called impregnable...\nAnyway, this mission's failed. Get out.
+@282.4
+Huff, huff...\nNo wonder {02}{15}e is known for tight guard.\nAnyway, this mission's failed. Get out.
+@282.5
+Tch, that's not what we were told...\n{02}{15}e's guard was supposed to be full of holes...\nAnyway, this mission's failed. Get out.
+@283
+...Huff, huff\n...Hah!\n...Yah!
+@283.1
+...Hah!\n...What!\n...Yah!
+@283.2
+...What!\n...Hah!\n...Yah!
+@284
+...Right, we took out the lookouts!\n{02}{15}e may be called impregnable,\nbut it was nothing much.
+@284.1
+...Right, we took out the lookouts!\n{02}{15}e may be known for tight guard,\nbut it was nothing much.
+@284.2
+...Right, we took out the lookouts!\nWe'd heard {02}{15}e's guard was full of holes,\nand it's true.
+@284.3
+...Right, we took out the lookouts!\n{02}{15}e may be called impregnable,\nbut it was nothing much.
+@284.4
+...Right, we took out the lookouts!\n{02}{15}e may be known for tight guard,\nbut it was nothing much.
+@284.5
+...Right, we took out the lookouts!\nWe'd heard {02}{15}e's guard was full of holes,\nand it's true.
+@285.*
+Take what we can\nand get out.
+@286
+We're blockading {02}{15}e.\nRight, let's go!
+@286.1
+We're blockading {02}{15}e.\nRight, let's go!
+@287
+Every route to this town is completely blockaded.\nDon't let a single ship through!
+@287.1
+Every route to this town is completely blockaded.\nDon't let a single ship through!
+@288
+So you're the ones blockading our trade routes.\n\n\nW-well then, everyone,\nplease deal with them!
+@289
+Yeah, leave it to us!\n\n\nHeh heh heh, you've got some nerve.\nI hope you're ready for this.
+@290
+P-pirates!\nEek, spare my life!
+@290.1
+P-pirates, run!
+@290.2
+P-pirates!\nPlease, take this and let me go!
+@291
+They ran off...\nOh, they dropped something.
+@291.1
+They ran off.\nOh, they dropped something.
+@292
+Obtained {02}o{C8}.
+@293
+Luckily no escorts\nshowed up these five days...
+@293.1
+Luckily no escorts\nshowed up these five days...
+@294
+The waters for the pirate hunt are {02})e.\nRight, let's go!
+@294.1
+The waters for the pirate hunt are {02})e.\nCome on, let's go!
+@295
+Now, we begin patrolling these waters!
+@296
+Running riot in our waters, are you?\nFeel the power of {02}{01}{EC}!
+@296.1
+Running riot in our waters, are you?\nFeel the power of {02}{01}{EC}!
+@297
+Eek!
+@298
+These waters belong to {02}{01}{EC}.\nGot it? Now get lost!
+@298.1
+These waters belong to {02}{01}{EC}.\nGot it? Now get lost!
+@299
+Right, that'll do.\nNo fool should dare touch\nthe waters of {02}{01}{EC} now.
+@299.1
+Right, that'll do.\nNo fool should dare touch\nthe waters of {02}{01}{EC} now.
+@300
+Now, I need information\non where {02}3g is hidden...\nI'll ask the locals at inns and taverns.
+@300.1
+Now, I need information\non where {02}3g is hidden...\nI'll ask the locals at inns and taverns.
+@301
+{02}{15}e...\nThey say the treasure is hidden near here.
+@301.1
+{02}{15}e...\nThey say the treasure is hidden near here.
+@302
+The treasure should be hidden near here...
+@302.1
+The treasure should be hidden near here...
+@303
+(With a pirate's instinct I'll find it...\n ......\n ......\n ......\n ......\n ......Aha!)
+@303.1
+(My ninja instinct tells me the hiding place...\n ......\n ......\n ......\n ......\n ......Aha!)
+@304
+Found {02}3g.
+@305
+Good, I found the treasure.\nThe chief will be pleased.
+@305.1
+Good, I found the treasure.\nThe chief will be pleased.
+@306
+...These are digging marks.\nHmm, it seems someone\ngot here first.
+@306.1
+...These are digging marks.\nHmm, it seems someone\ngot here first.
+@307
+Now, where is {02}3g sold?\nI'll ask the townspeople.
+@307.1
+Now, where is {02}3g sold?\nI'll ask the townspeople.
+@308
+Good, I got as much as the job needs.
+@309
+With this head as a gift we'll enter service,\nand give up the bandit life.\nSee ya.
+@310
+Hey, boys,\nthis one's a fugitive from {02}{02}{EC}.\nThis head will fetch a good price... let's get him.
+@311
+corps
+@311.1
+army
+@313
+{02}{15}e is under attack\nby the {01}C{D7}{10} of {02}{0B}e.\nIf we send reinforcements, now's the time.
+@313.1
+{02}{15}e is under attack\nby the {01}C{D7}{10} of {02}{0B}e.\nIf we send reinforcements, now's the time.
+@314
+The {01}C{D7}{10} of {02}{0B}e\nis closing on {02}{15}e.\nWe might intercept it now.
+@314.1
+The {01}C{D7}{10} of {02}{0B}e\nis closing on {02}{15}e.\nWe might intercept it now.
+@315
+{02}{15}e, ruled by {01}C{D8}{10},\nis under attack by the {01}C{D7}{10} of {02}{0B}e.\nIf we send reinforcements, now's the time.
+@315.1
+{02}{15}e, ruled by {01}C{D8}{10},\nis under attack by the {01}C{D7}{10} of {02}{0B}e.\nIf we send reinforcements, now's the time.
+@316
+{01}C{D8}{10} has invaded\n{02}{15}e.\nIf we send reinforcements, now's the time.
+@316.1
+{01}C{D8}{10} has invaded\n{02}{15}e.\nIf we send reinforcements, now's the time.
+@317
+The army of {01}C{D8}{10}\nis attacking the {01}C{D7}{10} of {02}{0B}e.\nIf we send reinforcements, it must be now.
+@317.1
+The army of {01}C{D8}{10}\nis attacking the {01}C{D7}{10} of {02}{0B}e.\nIf we send reinforcements, it must be now.
+@318
+{02}{15}e, ruled by {02}{0B}e,\nhas been invaded by {02}{0C}e.\nIf we send reinforcements, it must be now.
+@318.1
+{02}{15}e, ruled by {02}{0B}e,\nhas been invaded by {02}{0C}e.\nIf we send reinforcements, it must be now.
+@319
+But our house is allied with both\n{02}{0B}e and {02}{0C}e...\nThink carefully about which side to help.
+@319.1
+But our band is allied with both\n{02}{0B}e and {02}{0C}e...\nThink carefully about which side to help.
+@319.2
+But our house is allied with both\n{02}{0B}e and {02}{0C}e.\nPlease decide which side to help.
+@319.3
+But our band is allied with both\n{02}{0B}e and {02}{0C}e.\nPlease decide which side to help.
+@320
+The {01}C{D7}{10} of {02}{0B}e is attacking\n{02}{15}e of {02}{0C}e.\nIf we send reinforcements, now's the time.
+@320.1
+The {01}C{D7}{10} of {02}{0B}e is attacking\n{02}{15}e of {02}{0C}e.\nIf we send reinforcements, now seems the time.
+@321
+The {01}C{D7}{10} of {02}{0B}e\nis attacking the corps of {02}{0C}e.\nIf we send reinforcements, it must be now.
+@321.1
+The {01}C{D7}{10} of {02}{0B}e\nis attacking the corps of {02}{0C}e.\nIf we send reinforcements, it must be now.
+@322
+No more units can sortie.
+@323
+There are no bases to attack.
+@324
+There are enough supplies.\nNo need to transport.
+@325
+The chosen supplies will be divided\namong all the {01}C{A2}{01}.
+@325.1
+The chosen supplies will be divided\namong all the {01}C{A2}{01}.\nOnly {01}C{94}{01} not in battle are included.
+@326
+What will you do?
+@327
+Which will you transport?
+@328
+There is no stock of {02}yd.\nIt can't be transported.
+@329
+There is plenty of {02}yd in stock.\nNo need to transport it.
+@330
+Divide {02}yd?
+@331
+{02}yd has been divided.
+@332
+Supplies will be gathered\nat the chosen {01}C{A2}{01}.\nWhich shop will you gather supplies at?
+@332.1
+Supplies will be gathered at the chosen {01}C{94}{01}.\nOnly {01}C{A2}{01} not in battle\ncan be chosen.\nWhere will you gather supplies?
+@333
+{02}{03}g rules\n{02}{15}e.\nUse "Choose destination".
+@334
+{02}{03}g rules\n{02}{15}e.\nIt can't be chosen as the source.
+@335
+Not connected to the home base.\nSupplies can't be sent there.
+@336
+{02}{15}e is in battle,\nso supplies can't be sent.
+@337
+A corps is marching\non {02}{15}e.\nSupplies can't be sent.
+@338
+{02}{15}e has enough supplies.\nIt can't be chosen as the destination.
+@339
+Gathered {02}yd at {02}{15}e.
+@340
+There are no {01}C{A2}{01}\nthat can send to the front line.
+@341
+Supplies go to the front-line {01}C{94}{01}.\\nOnly {01}C{A2}{01} not in battle\\nare included.
+@342
+Sent {02}yd to the front line.
+@343
+Not connected to the home base.\nIt can't be chosen as a destination.
+@344
+{02}{15}e is in battle,\nso it can't be chosen as a destination.
+@345
+A corps is marching\non {02}{15}e.\nIt can't be chosen as a destination.
+@346
+A corps has sortied\nfrom {02}{15}e.\nIt can't be chosen as a destination.
+@347
+Close the shop in {02}{02}{81},\nspend {02}o{C8} to open a shop in {02}{15}e\nand move your base there. Is that all right?
+@348
+{02}{15}e is under attack.\nSpare me such nonsense.
+@349
+I must decide on a name\nto replace {02}{02}{EC}...
+@349.1
+I must decide on a name\nto replace {02}{02}{EC}...
+@350
+Shall we call ourselves {02}yd{02}zd...?\n
+@351
+Yes, from today our band\nwill be known as {02}yd{02}zd.
+@352
+The following {01}C{96}{01} and all their men\nhave declared they will rise\nwith {02}{01}g and follow.
+@353
+Right now a battle\nis under way.
+@354
+No particular problems.
+@355
+No particular problems.
+@356
+No particular problems.
+@357
+Right now {02}{15}e, which you govern,\nis under attack by {02}{0B}e.
+@357.1
+Right now {02}{15}e, governed by {01}C{D8}{10},\nis under attack by {02}{0B}e.
+@358
+A corps of {02}{0B}e\nis closing on {02}{15}e.
+@359
+Right now the corps of {01}C{D8}{10}\nis on campaign.
+@360
+Right now {02}{15}e of {02}{0B}e\nis under attack\nby a corps of {02}{0C}e.
+@361
+Right now a corps of {02}{0C}e\nis closing on\n{02}{15}e of {02}{0B}e.
+@362
+Right now a corps of {02}{0B}e\nis on campaign.
+@363
+For details, look here.
+@364
+Not connected to the home base.\nA corps can't be sent there.
+@365
+{02}{0C}e, the daimyo house we support,\nis allied with {02}{0B}e,\nso we can't attack.
+@365.1
+{02}{0C}e, the daimyo house we support,\nis allied with {02}{0B}e,\nso we can't attack.
+@365.2
+{02}{0C}e, the daimyo house we support,\nis allied with {02}{0B}e,\nso we can't attack.
+@366
+Our side has already sent reinforcements.\nA corps can't be sent there.
+@366.1
+Our side has already sent reinforcements.\nA corps can't be sent there.
+@366.2
+Our side has already sent reinforcements.\nA corps can't be sent there.
+@367
+It seems reinforcements\nhave already arrived.\nNo more corps can be sent there.
+@367.1
+It seems reinforcements have already arrived.\nNo more corps can be sent there.
+@367.2
+It seems reinforcements\nhave already arrived.\nNo more corps can be sent there.
+@368.*
+Set out for {02}{15}e?
+@369.*
+Even if we take {02}{15}e,\nit will belong to {02}{0B}e, the house we support.\nIs that all right?
+@370.*
+Even if we take {02}{15}e,\nwe can't keep it.\nIs that all right?
+@371
+Send reinforcements to\n{02}{0B}e or {02}{0C}e?
+@372
+No more reinforcements\ncan be sent to {02}{0B}e.
+@373.*
+It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+@374.*
+We have a truce with {02}{0B}e.\nAttacking now would be dishonorable.\nReally set out?
+@375
+Relations with the surrounding powers worsened.
+@376.*
+There seems to be no particular\npretext for attacking {02}{0B}e...\nReally set out?
+@377
+That is wise...
+@378
+I will go myself.\nWe set out!
+@378.1
+I'll go myself.\nForward, we set out!
+@379
+Everyone, if we can't hold here, there's nothing left!\nFight as if you were already dead!\nForward!
+@380
+Yeaaah!
+@381
+{01}C1{00}...\nI pray for your fortune in battle.\nNow, set out!
+@381.1
+{01}C1{00},\nI pray for your fortune in battle.\nNow, set out!
+@381.2
+{01}C1{00}...\nI pray for your fortune in battle.\nNow, set out!
+@382
+Yeaaah!
+@382.1
+Yes, sir!
+@383
+Let us show them\nthe full might of {02}{01}{EC}.\nEveryone, we set out!
+@383.1
+Let's show them\nthe full might of {02}{01}{EC}.\nEveryone, we set out!
+@384
+{01}C1{00}, I leave it to you!\nShow them\nthe might of {02}{01}{EC}.
+@384.1
+{01}C1{00}, I leave it to you.\n{02}{01}{EC} will not tolerate failure.\nNow, set out!
+@384.2
+{01}C1{00}, good fortune in battle!\nShow them\nthe might of {02}{01}{EC}.
+@385
+Forward!\nThe fate of {02}{15}e rests on us.\nEveryone, we set out!
+@385.1
+{01}C{D8}{10}...\nI, {02}{01}f, go now.\nEveryone, we set out!
+@385.2
+{01}C{D8}{10}...\nI, {02}{01}f, am coming now.\nEveryone, we set out!
+@385.3
+Wait for me, {01}C{D8}{10}!\nHold out until I get there...\nEveryone, we set out!
+@386
+{01}C1{00}, I leave it to you!\nBe sure to save {01}C{D8}{10}!!
+@386.1
+Go, {01}C1{00}!\nDefend {02}{15}e!!
+@386.2
+I leave it to you, {01}C1{00}!\nDefend {02}{15}e!!
+@386.3
+{01}C1{00}, hurry!\nBe sure to save {01}C{D8}{10}!!
+@386.4
+{01}C1{00}, I leave it to you!\nBe sure to save {01}C{D8}{10}!!
+@386.5
+Go, {01}C1{00}!\nHelp {01}C{D8}{10}.
+@386.6
+I leave it to you, {01}C1{00}!\nPlease help {01}C{D8}{10}.
+@387
+Shall I promote\nmyself and these people?
+@387.1
+Shall I promote these people?
+@388
+Thank you.\nI'll work all the harder.
+@388.1
+Understood.\nI will promote {01}C{D8}{10} and the others.
+@389
+We're competing for merchant chief in {02}{15}e.\nThe manager can't be changed now.
+@390
+There is no one who can be made\nbranch manager of {02}{15}e.
+@391
+The {02}{15}f branch\nis run by you right now.\nWho will you entrust it to?
+@391.1
+The {02}{15}f branch\nis run by me right now.\nWho will you entrust it to?
+@391.2
+The {02}{15}f branch\nis run by {02}{03}g right now.\nWho will you entrust it to?
+@392
+There's no one to send as helper,\nso no manager can be appointed.
+@393
+Make the {02}{15}f branch\n{02}{03}g's {01}C{A2}{01}?
+@393.1
+Entrust the {02}{15}f branch\nto {02}{03}g?
+@394
+Return a castle to {01}C{D8}{10}\nto strengthen {01}C8{00}?\nThen choose the castle to return.
+@395
+{02}{15}e is in battle,\nso it can't be returned.
+@396
+A corps is closing\non {02}{15}e.\nIt can't be returned.
+@397
+A corps has sortied\nfrom {02}{15}e.\nIt can't be returned.
+@398
+I will return {02}{15}e to {01}C{D8}{10}.\nOnce returned, it won't come back.\nIs that really all right?
+@399
+Understood. I return {02}{15}e\nto {01}C{D8}{10}.
+@400
+Which town will you open a branch in?
+@401
+Stop opening a branch?
+@402
+{02}yd already has the {02}{15}f branch.\nNo branch can be opened in {02}{15}e.
+@403
+{02}{16}e in {02}yd has\nyour trade route.\nNo branch can be opened in {02}{15}e.
+@403.1
+{02}{16}e in {02}yd has\nmy trade route.\nNo branch can be opened in {02}{15}e.
+@403.2
+{02}{16}e in {02}yd has\n{01}C{D8}{10}'s trade route.\nNo branch can be opened in {02}{15}e.
+@404
+Opened a branch in {02}{15}e.
+@405
+A branch will open in {02}{15}e.\nWho will be the manager?\n(Choose your own name to run it directly.)
+@406
+You'll run the {02}{15}f branch\nyourself...\nUnderstood.
+@406.1
+Then I will take charge\nof the {02}{15}f branch.
+@406.2
+Then the {02}{15}f branch\nis entrusted to {01}C{D8}{10}.
+@407
+{02}{02}{81} in {02}yd\nhas your home base, {01}C1{00}.\nMove the home base to {02}{15}e?
+@408
+If the {02}{15}e branch closes,\nthe following trade routes will be lost.
+@409
+Really move?
+@410
+Closed the shop in {02}{02}{81}\nand moved the base to {02}{15}e.
+@411
+{02}{15}e in {02}yd\nalready has your branch.\nChange the branch to {02}{15}e?
+@411.1
+{02}{15}e in {02}yd\nalready has my branch.\nChange the branch to {02}{15}e?
+@411.2
+{02}{15}e in {02}yd\nalready has {01}C{D8}{10}'s branch.\nChange the branch to {02}{15}e?
+@412
+Closed the {02}{15}e branch\nand opened one in {02}{16}e.\nThe branch manager is {01}C1{00}.
+@413
+Closing a branch moves all its money\nand gun stock to the main shop.\nWhich branch will you close?
+@414
+Stop closing a branch?
+@415
+We're competing for merchant chief in {02}{15}e.\nThe branch can't be closed now.
+@416
+{02}{15}e has your\ntrade route.\nThat branch can't be closed.
+@416.1
+{02}{15}e has my\ntrade route.\nThat branch can't be closed.
+@416.2
+{02}{15}e has {01}C{D8}{10}'s\ntrade route.\nThat branch can't be closed.
+@417
+{01}C{D8}{10} has forbidden\ncutting the trade route\nof {02}{15}e.
+@418
+Closing the {02}{15}e branch would leave\nsomeone unable to keep their trade route.\nThe branch can't be closed.
+@419
+Close the {02}{15}e branch?
+@420
+Closing the {02}{15}e branch\nwill lose some trade routes.\nReally close it?
+@421
+You haven't opened any trade routes.
+@422
+Which trade route will you abolish?
+@423
+Abolish the trade route\nbetween {02}{15}e and {02}{16}e?
+@424
+Understood.\nThe trade route between {02}{15}e\nand {02}{16}e is abolished.
+@425
+{01}C1{00}, it seems you have\nsomething to think over alone...\nI'll leave you, then.
+@426
+Who shall I dismiss?
+@427
+{01}C1{00} was lent to me as {01}C{99}{01}\nby {01}C{D8}{10}...\nI should send them back to {01}C{D8}{10}.
+@428
+Dismiss {01}C1{00}?\nIf I recommend them to {01}C{D8}{10}, no harm done,\nbut is it really all right?
+@429
+dismiss
+@429.1
+banish
+@430
+Dismiss {01}C1{00}?\n
+@431
+{01}C1{00}, what is it?\nYou wish to speak with me alone?
+@432
+Yes, {01}C1{00}...\nAs of today\nI release you from my service.
+@433
+Wh-what did you say?!\nYou {01}CM{11} me?!\nTell me why!
+@434
+Enough! You are no longer\nmy child, nor I your parent.\nGo wherever you please.
+@434.1
+Enough.\nI have no reason to give you.\nGo wherever you please.
+@435
+Heh heh heh, so I'm no longer of use...\nI, {02}{01}f, have no attachment\nto the post of {02}{01}i...\n...Because I'll take\nyour head as my parting gift.\nYour life is mine!
+@436
+Heh heh heh, banished, am I?\nThen I owe no more loyalty...\n\nI'll make you regret\nmaking an enemy of me, right here!\nYour life is mine!
+@437
+...Is this how you treat one who has\nworked himself to the bone for {02}{01}{EC}?\n\n...I won't forgive it, never!\nI have my pride too.\nPrepare yourself!
+@438
+Heh heh heh... even you\nare no match for my strength. Now, how shall I deal with you!
+@439
+Hm, {01}C{D8}{10} has gone mad!\nEveryone, come quickly!
+@440
+Ah... too many of them...\nI'll withdraw for now, but one day\nI'll pay you back.
+@441
+{02}{03}g fled\nto parts unknown.
+@442
+Are you unharmed?\n\n\n...What!? Your {02}3g\nhas been taken!\nIt may have been that one's doing...
+@443
+{02}3g was taken.
+@444
+Are you unharmed?\n\n\n...What!? The {01}C{92}{01} has been taken!\nIt must have been that one's doing...!
+@445
+{02}o{C8} of {01}C{92}{01} was taken.
+@446
+Ugh... I'm no match for you...\nRemember this, I'll pay you back one day!
+@447
+...Next time we meet,\nwe'll likely be rivals in trade.\nFarewell, then!!
+@447.1
+...Next time we meet,\nwe'll likely be rivals in trade.\nGoodbye, then...
+@447.2
+...Next time we meet,\nwe'll likely be enemies.\nFarewell, then!!
+@447.3
+...Next time we meet,\nwe'll likely be enemies.\nGoodbye, then...
+@448
+.........
+@449.*
+Right now there is no {01}C{AB}{01}\nwho can be dismissed.
+@450
+Which power will you ask?
+@451
+Which job will you request?
+@452.*
+Right now there is no power\nyou can ask.
+@453
+ninja band
+@453.1
+pirate band
+@453.2
+merchant house
+@453.3
+daimyo house
+@454.*
+There are no jobs you can ask\nof a {01}Ce{11}.
+@455.*
+Requesting {02}Qe\nneeds {02}o{C8}.\nThere isn't enough {01}C{92}{01}.
+@456.*
+Requesting {02}Qe\nneeds {02}Qn,000 koku of rice.\nThere isn't enough rice.
+@457
+Which base is the target?
+@458.*
+There are no bases that can be targeted right now.
+@459
+Which power is the target?
+@460.*
+There are no powers that can be targeted right now.
+@461.*
+Which town's trade goods will you make fashionable?
+@462.*
+That town already has too many fashionable goods.\nStarting a fashion would be pointless.
+@463
+Which trade goods?
+@464
+Who?
+@465
+Which valuable?
+@466.*
+There are no valuables that can be targeted right now.
+@467
+Which trade route?
+@468.*
+There are no trade routes that can be targeted right now.
+@469.*
+Requesting {02}Qe from {02}{0B}e\nneeds {02}o{C8}.\nIs that all right?
+@470.*
+Request {02}Qe\nfrom {02}{0B}e?\nIs that all right?
+@471
+{02}{0B}e says that, for their own reasons,\nthey can't accept {02}Qe.
+@472.*
+{02}{0B}e has accepted\nthe request for {02}Qe.
+@473.*
+The following towns lost the trade routes\nfor iron and gunpowder, so the smiths\nyou invited can no longer deliver guns.
+@474
+No trade routes have been opened.\nSpecialties can't be developed.
+@474.1
+No trade routes have been opened.\nDeveloping a specialty is impossible.
+@475.*
+With the routes our house runs now,\nno more specialties\ncan be added.
+@476
+With the routes our house runs now,\nno new specialty can be developed.\nWe'd need to open new routes...
+@476.1
+With the routes our house runs now,\nno new specialty can be developed.\nPlease open new routes.
+@477
+{01}C1{00}, the shop lacks the money.\nDeveloping a specialty\nneeds {02}o{C8}.
+@477.1
+The shop lacks the money.\nDeveloping a specialty\nneeds {02}o{C8}.
+@478.*
+On which route shall I develop a specialty?
+@479.*
+On this route,\nno more specialties can be added.
+@480.*
+From the goods traded on this route,\nit seems no new specialty\ncan be developed...
+@481.*
+Oh, this route could produce\nall sorts of things...\nWhich goods shall I combine?
+@482.*
+Shall I develop a new specialty\nfrom {02}Ge of {02}{15}e\nand {02}He of {02}{16}e?
+@483
+Developed {02}Ge!\nFrom now on it will be produced\nin {02}{15}e and {02}{16}e.
+@484
+{02}Ge produced in {02}{15}e\nis known as {02}He.
+@485
+For developing a new product,\n{02}{02}g's merit\nrose by {02}o{CB}!
+@486.*
+A smith has already been invited to this town.\nNo more can be invited.
+@487.*
+This town already has a smith.\nThere's no need to invite one.
+@488.*
+The shop lacks the money.\nInviting a smith to {02}{15}e\nneeds {02}o{C8}.
+@489.*
+Inviting a smith to {02}{15}e\ncosts {02}o{C8}.\nIs that all right?
+@490
+Invited a smith to {02}{15}e.\nFrom now on guns will be delivered\nto the {02}{15}f shop every month.
+@491.*
+Haven't you placed an order\nwith this town's smith?\nYou can't close it until you collect it.
+@492.*
+Haven't you taken a job\nfrom this town's smith?\nYou can't close it until it's done.
+@493.*
+The smith in {02}{15}e will be closed.\nGun deliveries will stop and no new orders\ncan be placed. Is that all right?
+@494
+Closed the smith in {02}{15}e.\n
+@495.*
+There are branches in every trade area.\nIf you want a branch in another town,\nplease close one somewhere.
+@496.*
+The shop lacks the money.\nOpening a branch takes {02}o{C8}\nor more.
+@497.*
+The shop lacks the money.\nOpening a shop in {02}{15}e\nneeds {02}o{C8}.
+@498.*
+Opening a shop in {02}{15}e\nneeds {02}o{C8}.\nReally open a branch?
+@499.*
+A smith has been invited to this town.\nIf you move the home base,\nplease close the smith first.
+@500.*
+Opening a shop in {02}{15}e and moving\nthe base needs {02}o{C8}.\nThe shop lacks the money.
+@501.*
+{01}C1{00}, {01}C{D8}{10} was just\nspending lavishly at the tavern...\nDid something happen?
+@502
+What, {02}3g is missing!\nIt seems {01}C{D8}{10} took it\nas a parting tip...
+@502.1
+Oh, {02}3g is missing!\nDid {01}C{D8}{10} take it\nas a parting tip...?
+@503.*
+Oh, {01}C1{00}, terrible news!\nThe shop's money is gone from the storehouse!\nProbably {01}C{D8}{10} took it as a parting tip...
+@504
+{02}o{C8} of the shop's money was taken.
+@505
+Lord {02}{02}g!!\nSomething terrible has happened!
+@506
+I must report: the lord of {02}{15}e castle,\nLord {02}{03}g, has rebelled\nagainst our house and declared independence!
+@506.1
+I must report: Lord {02}{03}g,\nin charge of {02}{15}e, has declared\nindependence from our band!
+@507
+Wh-what did you say?!\nIs it true?!!
+@507.1
+Wh-what did you say?!\nIs that true?!
+@508
+Lord {02}{03}e gathered the commanders in the castle\nand declared independence on the spot!\nTheir treachery is now plain!
+@508.1
+Lord {02}{03}g has already gathered his men\nand declared independence!\nTheir treachery is now plain!!
+@509
+...That can't be true?!\nThat {01}C8{00} would betray me...\nI can't believe it.\n...Argh, then there will be no mercy.\nTell all our commanders! Our house will\nstrike down {02}{03}g with all its might!
+@509.1
+Is it true?!\nThat {01}C8{00} would betray me...\nI can't believe it. Then there will be no mercy...\nTell every commander! Our house will\nstrike down {02}{03}g with all its might!
+@509.2
+...That {01}C8{00}\nwould betray our band... I can't believe it.\nForgetting all we did... no mercy!
+@509.3
+...That {01}C8{00}\nwould betray our band... I can't believe it.\nAn ungrateful traitor... no mercy!
+@510
+{02}{01}{EC} has made\n{02}{02}{EC} its target.
+@510.1
+{02}{01}{EC} and {02}{02}{EC}\nare now enemies.
+@511
+Daring to try for my life!\nWho sent you? Talk!\nTell me and I'll let you go.
+@511.1
+What insolence...\nWho sent you? Talk!\nIf you won't, I'll cut you down.
+@512
+Daring to try for my life!\nWho sent you? Talk!\nTell me and I'll let you go.
+@512.1
+What insolence...\nWho sent you? Talk!\nIf you won't, I'll cut you down.
+@513
+...I'll talk, it was {02}{0B}e...\nYes, {02}{0B}e!\nNow, please, spare my life!
+@513.1
+...I'll talk, it was {02}{0B}e...\nYes, {02}{0B}e!\nNow, please, spare my life!
+@514
+I see...\nThat was worth hearing...\nAs promised, I'll let you go.
+@514.1
+I see...\nThat was worth hearing...\nAs promised, I'll let you go.
+@515
+I see, quite honest.\nBut now that I know, you're no longer of use.\nDie!
+@515.1
+Hmm... quite honest.\nBut now that I know, you're no longer of use.\nDie!
+@516
+Wh-why?!\nThat's not what you said!
+@516.1
+Wh-why?!\nThat's not what you said!
+@517
+Who would trust an assassin with a loose tongue?\nPrepare yourself, hah!
+@517.1
+Did you think I'd let someone who came\nfor my life just walk away?\nDie, hah!
+@517.2
+Foolish wretch...\nIf you had time for excuses, you should have run...\nGo to hell, villain, hah!
+@518
+Who would trust an assassin with a loose tongue?\nPrepare yourself, hah!
+@518.1
+Did you think I'd let someone who came\nfor my life just walk away?\nDie, hah!
+@518.2
+Foolish wretch...\nIf you had time for excuses, you should have run...\nGo to hell, hah!
+@519.*
+.........
+@520
+No intention of talking, eh...\nHmph, small fry like {01}C{19}{00} aren't worth killing.\nBegone, now!
+@520.1
+No intention of talking, it seems...\nHmph, small fry like {01}C{19}{00} aren't worth killing.\nBegone, now!
+@521
+No intention of talking, eh.\nSo eager to die...\nThen I'll send you to the next world. Hmph!
+@521.1
+No intention of talking, it seems.\nSo eager to die, you fool...\nThen I'll send you to the next world. Hah!
+@522
+Cu... curses...\nIs there no one in {02}{0B}e\nwho can defeat {01}C{19}{00}...
+@522.1
+Cu... curses...\nIs there no one in {02}{0B}e\nwho can defeat {01}C{19}{00}...
+@523
+Ugh, curses...\nBut {02}{0B}e does not forgive failure...\nI'll... take you... with me...
+@523.1
+Ugh, curses...\nBut {01}C{0E}{00} won't die for nothing...\nFace the final secret art of {02}{0B}e...
+@523.2
+Th-this wound is fatal...\n...But I refuse to die alone.\nYou're coming with me, heh heh...
+@523.3
+S-so I'm no match for you after all...\n...But I planned for this.\nSee through it if you can...
+@523.4
+So you're beyond my power...\n...But all of this went as I planned.\nYou walked right into my trap.
+@524
+Ugh, curses...\nBut {02}{0B}e does not forgive failure...\nI'll... take you... with me...
+@524.1
+Ugh, curses...\nBut {01}C{0E}{00} won't die for nothing...\nFace the final secret art of {02}{0B}e...
+@524.2
+Th-this wound is fatal...\nBut I won't die alone...\nYou're coming with me, ufufu...
+@524.3
+S-so I'm no match for you after all...\nBut I planned for this...\nSee through it if you can...
+@524.4
+So you were beyond my power...\n...But all of this went as I planned.\nYou walked right into my trap.
+@525
+Hmm... at this point,\nwhat do you mean to do?
+@525.1
+My... at this point,\nwhat do you mean to do?
+@526.*
+Sensed the smell of gunpowder.
+@527
+BOOM!
+@527.1
+KABOOM!
+@527.2
+BA-BOOM!
+@528
+This smell... gunpowder!\nThat trick won't work on me.
+@528.1
+This smell... gunpowder!\nThat trick won't work on me.
+@529
+...That was a close call.\nIf I didn't know gunpowder,\nI'd be...
+@529.1
+...That was a close call.\nIf I didn't know gunpowder,\nI'd be...
+@530
+Gwah!\nCareless of me, to go this far...\nIs this the merciless law of {02}{0B}e...
+@530.1
+Gwah!\n...The forbidden art of {02}{0B}e I'd heard of...\nI never thought it was this strong...
+@531
+Kyaaah!\nWhat people would go this far?\nIs this the merciless law of {02}{0B}e...
+@531.1
+Kyaaah!\n...The forbidden art of {02}{0B}e I'd heard of...\nI never thought it was this strong...
+@532
+(...Now I could even slip in poison.\n What shall I do?)
+@532.1
+(...Now I could even slip in poison.\n What shall I do?)
+@533
+(...How many doses?\n Too few and it may not work,\n too many and they'll notice.)
+@533.1
+(...How many doses?\n Too few and it may not work,\n too many and they'll notice...)
+@534
+(I'll use {02}od doses of poison...\n If I'm found out, it's a disaster.\n Am I really doing this?)
+@534.1
+(I'll use {02}od doses of poison...\n If I'm found out, it's a disaster.\n Am I really doing this?)
+@535
+(...No.\n What a terrible thing\n I was thinking.)
+@535.1
+(...No.\n What a terrible thing\n I was thinking...)
+@536
+(No hesitating now.\n Steel yourself and go.)
+@536.1
+(No hesitating now.\n Steel yourself and go.)
+@537
+Sip...\n\n\nHm, what's this?!
+@537.1
+Sip...\n\n\nOh, what's this?!
+@537.2
+Sip...\n\n\nMm... mmgh...
+@537.3
+Sniff sniff...\n\n\nOho, what's this?!
+@537.4
+Sniff sniff...\n\n\nHmm, well now...
+@538
+Sip...\n\n\nHm, what's this?!
+@538.1
+Sip...\n\n\nOh my, what's this?!
+@538.2
+Sip...\n\n\nMm... mmgh...
+@538.3
+Sniff sniff...\n\n\nMy, what is this...
+@538.4
+Sniff sniff...\n\n\nHmm, hmm...
+@539
+(Damn, have I been found out?!)
+@539.1
+(Oh no, have I been found out?!)
+@540
+Ah, wait!\nThere was a bug in the tea jar.\nI'll make another bowl.
+@540.1
+Ah, please wait!\nThere was a bug in the tea jar.\nI shall make another bowl.
+@540.2
+Ah, please wait!\nThere was a bug in the tea jar.\nI'll make another bowl.
+@541
+Really? I didn't see one...\n...A rather unsettling tale.\nLet's continue another time.
+@541.1
+Really? I didn't see one...\n...A rather unsettling tale.\nLet us continue another time.
+@541.2
+Really? I didn't see one...\n...A rather unsettling tale.\nLet's continue another time.
+@542
+(That was close.\n But {01}C1{00}...\n doesn't seem to have noticed...)
+@542.1
+(That was close...\n But {01}C1{00}...\n doesn't seem to have noticed...)
+@543
+...{01}C1{00},\nthis tea seems suspicious...\nYou drink it first!
+@543.1
+...{01}C1{00},\nthis tea seems suspicious...\nPlease drink it first.
+@543.2
+...{01}C1{00},\nthis tea feels suspicious...\nPlease, {01}C{19}{00} drink first.
+@544
+(...They've noticed!)
+@544.1
+(...They seem to have noticed!)
+@545
+Why won't you drink it?\nWhat did you mean by plotting against {01}C{0E}{00}?!
+@545.1
+Why won't you drink it?\nWhat did you mean by plotting against {01}C{0E}{00}?!
+@545.2
+Why won't you drink it?\nWhat did you mean\nby plotting against {01}C{0E}{00}?!
+@546
+I can't let {01}C{19}{00} go just like that.\nNow, you will take responsibility.
+@546.1
+I can't let {01}C{19}{00} go just like that.\nNow, you will be made\nto take responsibility.
+@546.2
+I can't let {01}C{19}{00} go just like that.\nNow, you will\ntake responsibility.
+@547
+...Why won't you drink it?\nIs there something on your conscience...?\n\nHmph... to think I served such a person.\nThe blunder of my life...
+@547.1
+...Why won't you drink it?\nIs there something on your conscience...?\n\nHmph... to think I served such a person.\nThe blunder of my life...
+@547.2
+...Why won't you drink it?\nIs there something on your conscience...?\n\nTo think I served such a person...\nI must have had no eye for people...
+@548
+I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nGet out.
+@548.1
+I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nPlease leave.
+@548.2
+I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nPlease leave.
+@549
+...Why won't you drink it?\nIs there something on your conscience...?\n\nTo have kept such a person...\n{01}C{0E}{00} had no eye for people...
+@549.1
+...Why won't you drink it?\nIs there something on your conscience...?\n\nTo have kept such a person...\n{01}C{0E}{00} had no eye for people...
+@549.2
+...Why won't you drink it?\nIs there something on your conscience...?\n\nTo have kept such a person...\n{01}C{0E}{00} had no eye for people...
+@550
+From now on, you are\nno longer in {01}C{19}{00}'s service.\nI'm leaving; begone with you.
+@550.1
+From now on, I take my leave\nof {01}C{19}{00}'s service.\nI'm leaving; please go.
+@550.2
+From now on, I take my leave\nof {01}C{19}{00}'s service.\nI'm leaving; please go.
+@551
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@551.1
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@551.2
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@552
+As a samurai's mercy,\nI'll end you with my own hand.\nAre you ready? Hmph!
+@552.1
+As a samurai's mercy,\nI'll end you with my own hand.\nPrepare yourself! Hmph!
+@552.2
+As a samurai's mercy,\nI'll end you with my own hand.\nAre you ready? Hah!
+@553
+I would order you to commit seppuku at once,\nbut for the nerve to come here alone,\nI'll hold back. Now begone!
+@553.1
+I would end your house at once,\nbut for the nerve to come here alone,\nI'll hold back. Now begone!
+@553.2
+I'd wipe out your whole clan at once,\nbut for the nerve to come here alone,\nI'll hold back. Now leave!
+@554
+What now...\nNothing for it but to defect to another house.
+@554.1
+What shall I do now...\nNothing for it but to defect to another house.
+@555
+What shall I do with myself now...\nDefect to another house,\nor declare independence here...
+@555.1
+What shall I do with myself now...\nShould I defect to another house,\nor declare independence here...
+@556
+Heh, where shall I defect to...
+@556.1
+Ufufu, where shall I defect to...
+@557
+Defect to {02}{0B}e?
+@557.1
+Shall I defect to {02}{0B}e?
+@558
+Right, I'll defect to {02}{0B}e.\nI'll do anything to survive!
+@558.1
+Right, I'll defect to {02}{0B}e.\nI'll do anything to survive!
+@559
+Now nothing binds me...\nNo one can blame me for rebelling!
+@559.1
+Now nothing binds me...\nNo one can blame me for rebelling!
+@560
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@560.1
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@560.2
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@561
+{01}C{D2}{11}:\nI'll end you with my own hand.\nAre you ready? Hmph!
+@561.1
+{01}C{D2}{11}:\nI'll end you with my own hand.\nAre you ready? Hmph!
+@561.2
+{01}C{D2}{11}:\nI'll end you with my own hand.\nAre you ready? Hah!
+@562
+As a samurai's mercy
+@562.1
+As a last mercy
+@563
+{01}C{A7}{01} has no need of traitors.\nAs of now, {01}C{19}{00} is banished.\nGo wherever you like.
+@563.1
+{01}C{A7}{01} has no need of traitors.\nAs of now, {01}C{19}{00} is banished.\nGo wherever you like.
+@563.2
+{01}C{A7}{01} has no need of traitors!\nAs of now, {01}C{19}{00} is banished.\nGo wherever you like.
+@564
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@564.1
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@564.2
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@565
+Someone like {01}C{19}{00} shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nAre you ready? Hmph!
+@565.1
+Someone like {01}C{19}{00} shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nPrepare yourself! Hmph!
+@565.2
+Someone like {01}C{19}{00} shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nAre you ready? Hah!
+@566
+Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
+@566.1
+Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
+@566.2
+Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
+@567
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@567.1
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@567.2
+...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+@568
+...Even a member of {02}{01}{EC}\ncan't be let off.\nAre you ready? Hmph!
+@568.1
+...Even a member of {02}{01}{EC}\ncan't be let off.\nPrepare yourself! Hmph!
+@568.2
+...Even a member of {02}{01}{EC}\ncan't be let off.\nAre you ready? Hah!
+@569
+...{01}C{19}{00} isn't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
+@569.1
+...{01}C{19}{00} isn't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
+@569.2
+...{01}C{19}{00} isn't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
+@570
+Ugh... as long as {01}C{19}{00} holds sway,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Farewell.
+@570.1
+Ugh... as long as {01}C{19}{00} holds sway,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Farewell!
+@570.2
+Ugh... as long as {01}C{19}{00} is here,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Goodbye.
+@571.*
+{02}{02}g has fled {02}{02}{EC}.
+@572
+......Ahh, tea calms the heart.
+@572.1
+......A splendid tea ceremony...
+@572.2
+......Gulp.\nMm, delicious...
+@573
+......Ahh, tea calms the heart.
+@573.1
+......What a splendid tea ceremony.
+@573.2
+......Gulp.\nMm, delicious...
+@574
+(Huh, nothing seems to be happening.\n After drinking that much...\n Is {01}C1{00} some kind of monster?)
+@574.1
+(Oh my, nothing seems to be happening.\n After drinking that much...\n Is {01}C1{00} some kind of spirit?)
+@575
+...What delicious tea.\nLike ascending to heaven...\nI've never had tea like this.
+@575.1
+...What delicious tea.\nLike ascending to heaven...\nI've never had tea like this...
+@576
+(Phew... that chilled my blood.\n It seems to have worked.)
+@576.1
+(Phew... that took years off my life.\n Heh heh, they drank it all down.)
+@577
+(Phew... that took years off my life.\n It seems to have worked.)
+@577.1
+(Phew... that was bad for my heart.\n Ufufu, they drank it all down.)
+@578
+Oh... my head is spinning...\nI suddenly feel so tired...\nI'm sorry, but please leave.
+@578.1
+Oh... my eyes are blurring...\nI suddenly feel so tired...\nI'm sorry, but please leave.
+@579
+Mmh... my head is heavy...\nI suddenly feel very tired...\nI'm sorry, but please leave.
+@579.1
+Mmh... my eyes are blurring...\nPerhaps I'm suddenly tired...\nI'm sorry, but please leave.
+@580.*
+Mmh... my head is heavy...\nPerhaps I'm suddenly tired...\nSorry, but go home.
+@581
+As expected of a tea master\nlike {01}C1{00}, fine tea ware.
+@581.1
+As expected of a tea master\nlike {01}C1{00}, you have fine tea ware.
+@581.2
+As expected of a tea master\nlike {01}C{19}{00}, you have fine tea ware.
+@582
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you sell it for {02}o{C8}?
+@582.1
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you part with it for {02}o{C8}?
+@582.2
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you part with it for {02}o{C8}?
+@583
+Not enough, you say...\nThen I'll offer all I have.\nPlease, sell it for {02}o{C8}.
+@583.1
+Not enough...?\nThen I shall offer all I have.\nPlease, part with it for {02}o{C8}.
+@583.2
+Not enough...?\nThen I'll offer all I have.\nWould you part with it for {02}o{C8}?
+@584
+Mmm... a pity.\nSo it's a treasure money can't buy.\nTake good care of it.
+@584.1
+Mmm... a great pity.\nSo it's a treasure money can't buy.\nPlease take good care of it.
+@584.2
+Mmm... a great pity.\nSo it's a treasure money can't buy.\nPlease take good care of it.
+@585
+Really?!\nI'm overjoyed; it'll be an heirloom forever!
+@585.1
+Really?!\nI'm overjoyed.\nIt shall be our heirloom forever!
+@585.2
+Really?!\nI'm overjoyed.\nIt shall be our heirloom forever.
+@586
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to {01}C{0E}{00}.
+@586.1
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to {01}C{0E}{00}.
+@586.2
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you give it to {01}C{0E}{00}?
+@587
+If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nWell? Not a bad deal, is it?
+@587.1
+If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nWhat say you? Not a bad deal, surely?
+@587.2
+If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nNot a bad deal, I think. What say you?
+@588
+What, you refuse?\n{02}3g in exchange for {02}{15}e!\nYou won't get an offer like this again!
+@588.1
+What, you refuse?\nThis is {02}3g in exchange\nfor {02}{15}e, you know.
+@588.2
+What, you decline?\n{02}3g in exchange for {02}{15}e!\nYou won't get an offer like this again!
+@589
+I see... a gem like {02}3g\nis worth more than a castle...\n...A pity. Now I want it even more.
+@589.1
+Mmm... a gem like {02}3g\nis worth more than a castle...\nNow I want it even more.
+@589.2
+I see... a gem like {02}3g\nis worth more than a castle...\n...A pity. Now I want it even more.
+@590
+Really! Splendid!\nThen from today, {02}{15}e\nbelongs to {01}C{19}{00}.
+@590.1
+You agree! Splendid!\nThen from today, {02}{15}e\nshall belong to {01}C{19}{00}.
+@590.2
+Really! Splendid!\nThen from today, {02}{15}e\nshall belong to {01}C{19}{00}.
+@591
+Serve {02}{01}{EC} well from now on.\nI'll make the arrangements at once.
+@591.1
+From now on, lend your strength\nto {02}{01}{EC}.\nI shall make the arrangements at once.
+@591.2
+From now on, do your best\nfor {02}{01}{EC}.\nI'll make the arrangements at once.

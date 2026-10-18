@@ -1,0 +1,1552 @@
+@0
+{01}C1{00}, good timing.\nThe rice here was so cheap\nthat {01}C{0E}{00} bought it up.\nThanks to that, the price went up.\nIf you still want it, buy it here.\nOops, no reason to stay. Farewell.
+@0.1
+Oh, {01}C1{00}, buying rice too?\nThe rice here was so cheap\nthat {01}C{0E}{00} bought lots of it.\nThanks to that, the price went up.\nIf you still want it, buy it here.\nWell, no reason to stay. Bye now~
+@1
+{01}C1{00}, you're late.\nThey said they'd pay well for rice,\nso {01}C{0E}{00} sold first.\nThanks to that, the price collapsed.\nIf you still want to, sell it here.\nOops, no reason to stay. Farewell.
+@1.1
+{01}C1{00}, a bit late, it seems.\nThey said they'd pay well for rice,\nso I sold mine first.\nThanks to that, the price collapsed.\nIf you still want to, sell it here.\nWell, no reason to stay. Bye now~
+@2
+You haggled and now won't buy?\nWe don't welcome window-shoppers.\nPlease leave.
+@3
+You haggled and now won't sell?\nWe don't welcome time-wasters.\nPlease leave.
+@4
+Heh, {01}C1{00}, you're late.\nI bought up all the horses here.\nOops, no reason to stay. Farewell.
+@4.1
+Oh, {01}C1{00}, a bit late, it seems.\nI bought every last horse here.\nWell, no reason to stay. Bye now~
+@5
+What, wandering around\na place like this...\n\nThis is where one learns to ride.\nIf you want to play horsey,\ngo play with the children.\nOops, no reason to stay. Farewell.
+@5.1
+My my, what are you doing\nin a place like this?\n\nWith a face like a horse,\ndid you come to chat with the horses?\nTee hee...\nWell, no reason to stay. Bye now~
+@6
+Heh heh, sorry to interrupt, {01}CG{1F}\nI've got a sweet deal for you.\nWon't you hear me out?
+@7
+mister.
+@7.1
+honored samurai.\n
+@8
+You haggled and now won't buy?\nWe don't welcome window-shoppers.\nPlease leave.
+@9
+You haggled and now won't sell?\nWe don't welcome time-wasters.\nPlease leave.
+@10
+Welcome.
+@11
+What'll it be, customer?
+@12
+Sake is {02}o{C8} a cup.\nSorry, but you seem short of money.
+@13
+Sake is {02}o{C8} a cup.\nHaving a drink?
+@14
+You can hold your drink, customer.\nIf you like our sake,\nwhy not buy some?
+@15
+Oh, I see.\nWhat a shame.
+@16
+Which one?
+@16.1
+Which one do you like?\nThey're all superb.
+@17
+You can't seem to afford it\nwith the money you have...
+@18
+You already have plenty\nof {02}3g, don't you?
+@19
+{02}3g is {02}o{C8} each.\nHow many?
+@20
+{02}od bottles comes to {02}p{C8}.\nIs that all right?
+@21
+Thank you kindly.
+@21.1
+Thanks.
+@21.2
+Here you go, take it.
+@22
+Oh, you're with them?\nShame... the sake's good too.\nSo, what will you play?
+@23
+Hm? Who are you?
+@23.1
+Oh, who are you?
+@24
+I see, this is the first time\nI've met {01}C{19}{00}.\n{01}C{0E}{00} am {02}{01}g.
+@24.1
+A pleasure to meet you.\nI am {02}{01}g.
+@24.2
+A pleasure to meet you.\nI am {02}{01}g.
+@25
+This is the first time\nI've met {01}C{19}{00}.\n{01}C{0E}{00} am {02}{01}g.
+@25.1
+How do you do?\nI am {02}{01}g.
+@25.2
+How do you do?\nI am {02}{01}g.
+@26
+You look like you can fight.\nDraw! Have at you!
+@26.1
+What, you're one of {02}{02}{EC}!\nYou've got some nerve!!\nDraw! Have at you!!
+@27
+You look like you can fight.\nDraw! Have at you!
+@27.1
+You're one of {02}{02}{EC}!\nDraw, and have at you!!
+@28
+Oho, Lord {02}{02}g......\nWell, well, a pleasure!\nI am {02}{01}g.
+@28.1
+Oho...... a ronin, is it?\nA pleasure.
+@28.2
+Oh, forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nI am {02}{01}g.
+@28.3
+Oho, so it's {01}C1{00}.\nI look forward to knowing you.
+@28.4
+Oho, so {01}C{19}{00} is {02}{02}g.\nWhat a surprising place to meet.
+@28.5
+{01}C1{00}... of {02}{02}{EC}?\nForgive me, I don't know you...\nI am {02}{01}g of {02}{01}{EC}.
+@28.6
+{01}C1{00}... of {02}{02}{EC}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@28.7
+Oho, so it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@28.8
+Ah, so it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@29
+Lord {02}{02}g?\nHow do you do?\nI am {02}{01}g.
+@29.1
+Oh, a ronin?\nHow do you do?
+@29.2
+Oh! Forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nI am {02}{01}g.
+@29.3
+Ah, it's {01}C1{00}.\nPlease remember me from now on.
+@29.4
+My, {01}C{19}{00} is {02}{02}g?\nWhat a surprising place to meet.
+@29.5
+{01}C1{00} of {02}{02}{EC}?\nForgive me, I don't know you...\nI am {02}{01}g of {02}{01}{EC}.
+@29.6
+{01}C1{00} of {02}{02}{EC}?\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@29.7
+Oh, it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@29.8
+Oh, it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+@30
+You've got some nerve, wretch!!\nI'll cut you down!!
+@30.1
+Y-you've got some nerve...\nI'll punish you right here!!
+@31
+What do you want?\nI have nothing to say to {01}C{19}{00}.\nFarewell.
+@31.1
+What do you want?\nI have nothing to say to {01}C{19}{00}.\nFarewell.
+@31.2
+What do you want?\nI have nothing to say to {01}C{19}{00}.\nFarewell.
+@31.3
+What do you want!\nI don't even want to see {01}C{19}{00}'s face.\nFarewell!
+@31.4
+Oh, it's {01}C1{00}.
+@31.5
+Well, {01}C1{00}.\nWhat a coincidence.
+@31.6
+Isn't that {01}C1{00}?\nWhat a coincidence.
+@31.7
+Oh, isn't that {01}C1{00}?\nWhat a coincidence.
+@32
+I have nothing to say to {01}C{19}{00}.\nExcuse me.
+@32.1
+I have nothing to say to {01}C{19}{00}.\nExcuse me.
+@32.2
+I have nothing to say to {01}C{19}{00}.\nExcuse me.
+@32.3
+I was just about to go home.\nExcuse me.
+@32.4
+Oh, {01}C1{00}.
+@32.5
+Well, {01}C1{00}.\nWhat a coincidence.
+@32.6
+Isn't that {01}C1{00}?\nWhat a coincidence.
+@32.7
+My, isn't that {01}C1{00}?\nTo meet in a place like this!
+@33
+I seem to have had a bit too much. Excuse me.
+@33.1
+I can't share a table with you.\nI'll go drink somewhere else.
+@34
+Maybe I've had a bit too much...\nExcuse me.
+@34.1
+I can't share a table with you.\nI'll go drink somewhere else.
+@35
+Oh, customer?!\nI brought the sake you ordered...\nWhat a waste.
+@36
+(Shall I treat them to sake?)
+@36.1
+(Shall I treat them to sake?)
+@37
+(Oops, not enough money.)
+@37.1
+(Oh, not enough money.)
+@38
+{01}C1{00}, let's drink together.\nIt's on {01}C{0E}{00}.
+@38.1
+{01}C1{00}, let's drink together.\n{01}C{0E}{00} will pay.
+@39
+Oh, how kind!
+@39.1
+Oh, how lovely!
+@40
+......By the way, {01}C1{00},\nI have a favor to ask.\nWould you take {01}C{0E}{00} into your service?
+@40.1
+By the way, {01}C1{00},\nI have a favor to ask...\nWould you take {01}C{0E}{00} into your service?
+@41
+{01}C{0E}{00} can't stay idle forever.\nWon't you take {01}C{0E}{00}\ninto your service?
+@41.1
+{01}C{0E}{00} am getting tired\nof this life...\nWon't you take {01}C{0E}{00} into your service?
+@42
+Sadly, {01}C{0E}{00} am not yet\nof a rank to have subordinates.
+@42.1
+I'm sorry, at {01}C{0E}{00}'s rank\nI can't have subordinates yet.
+@43
+I see......\nThen when you rise in the world,\ndo call on {01}C{0E}{00}.
+@43.1
+Too bad...\nThen when you rise in the world,\nplease call on {01}C{0E}{00}.
+@44
+(Shall I take {01}C1{00}\n into my service?)
+@44.1
+(Shall I take {01}C1{00}\n into my service?)
+@45
+What! Really?!\nWith {01}C1{00} on board,\nwe're a hundred strong!
+@45.1
+Eh, really?!\nWith {01}C1{00} on board,\nwe're a hundred strong!
+@46
+I'm deeply grateful!\nI have preparations to make,\nso I'll take my leave.
+@46.1
+Thank you very much!\nI have preparations to make,\nso I'll take my leave.
+@47
+Sadly, {01}C{0E}{00} have no room\nfor more subordinates now.
+@47.1
+Sadly, {01}C{0E}{00} have no room\nfor more subordinates now.
+@48
+......A pity.\nThen, farewell.
+@48.1
+I see... a pity.\nThen, excuse me.
+@49
+......Ahh, the sake is good!
+@49.1
+......Phew, the sake is good!
+@50
+Hahaha......\n......Hic.
+@50.1
+Ufufu......\n......Hic.
+@51
+Whoa~, my head's spinning......\nI seem to have drunk a bit much.\nI'll take my leave for today.
+@51.1
+Mmm, my head's spinning......\nMaybe I drank a bit much.\nI'll take my leave for today.
+@52
+Today's sake is on {01}C{0E}{00}.\nNo need to hold back.\nCome, let's drink.
+@52.1
+Please let {01}C{0E}{00} pay for today's sake.\nNo need to hold back.\nCome, another cup.
+@53
+(Shall I treat them to some sake?)
+@53.1
+(Shall I treat them\n to some sake?)
+@54
+Speaking of which, I hear\nthat in {02}{15}e there's\na technique called {02}=e.
+@54.1
+Oh yes, I overheard\nthat in {02}{15}e there's\na technique called {02}=e.
+@55
+Your gunnery is the best in the land.\nEven I can't match it.
+@55.1
+Your gunnery is splendid.\nAs far as I know, those as good as you\ncan be counted on one hand.
+@55.2
+Your gunnery is pretty good.\nBut if you want to get better,\ncome see me.
+@55.3
+Your gunnery is still just average.\nIf you want to get better,\ncome see me.
+@55.4
+If you want to get better with guns,\ncome see me.
+@55.5
+Don't you want to get better with guns?\nIf you do,\ncome see me.
+@55.6
+Speaking of which, I hear {02}=e\nhas a superb view.\nI'd like to see it someday.
+@56
+Your gunnery is the best in the land.\nEven I can't match it.
+@56.1
+Your gunnery is splendid.\nAs far as I know, those as good as you\ncan be counted on one hand.
+@56.2
+Your gunnery is pretty good.\nBut if you want to get better,\ncome see me.
+@56.3
+Your gunnery is still just average.\nIf you want to get better,\ncome see me.
+@56.4
+If you want to get better with guns,\ncome see me.
+@56.5
+Don't you want to get better with guns?\nIf you do,\ncome see me.
+@56.6
+Speaking of which, I've heard {02}=e\nhas a superb view.\nI'd like to see it someday.
+@57
+Oh yes, with an introduction,\nyou can trade cannons with the Western\nmerchants in Sakai and Hirado.
+@57.1
+Oh yes, with an introduction,\nyou can trade cannons with the Western\nmerchants in Sakai and Hirado, they say.
+@58
+By the way, how have you\nbeen getting on lately?
+@58.1
+By the way, how have you\nbeen getting on lately?
+@59
+Let's see, {01}C{0E}{00}...
+@59.1
+{01}C{0E}{00}...
+@60
+(From the talk, I've learned\n how things stand in {02}{02}{81}!)
+@60.1
+(From the talk, I've learned\n how things stand in {02}{02}{81}!)
+@61
+Sake really is the best of medicines.\nIt seeps right into the gut.
+@61.1
+Phew......\nDelicious.
+@61.2
+......Hmm.\nI seem to have drunk a bit much.
+@62
+Sake is the best of medicines!\nDrink, but don't let it drink you...
+@62.1
+Phew......\nDelicious.
+@62.2
+......Mmm.\nI seem to have drunk a bit much.
+@63
+Well, sorry, but\n{01}C{0E}{00} will be going.
+@63.1
+Sorry,\nI'll be going now.
+@64
+Hey, customers!\nIf you want to fight, do it outside!!\nDon't get in the way of business!
+@65
+Hm? {01}C1{00}...\nNeglecting your mission to idle over sake...\n\nOops, no reason to stay. Farewell.
+@65.1
+Oh? {01}C1{00}...\nNeglecting your mission to idle over sake...\n\nWell, no reason to stay. Bye now~
+@66
+You're working as a bodyguard, aren't you?\nI can't introduce another bodyguard\nto someone who is one.
+@67
+You're on a merchant escort job, aren't you?\nSorry, but I can't introduce a bodyguard.
+@68
+Haven't you taken a revenge job?\nSorry, but I can't introduce a bodyguard.
+@69
+You're on a job as a match helper, aren't you?\nThen I can't introduce a bodyguard.
+@70
+You're on a job as a sword ally, aren't you?\nThen I can't introduce a bodyguard.
+@71
+Oh, right now aren't you on a job\nor mission where you can't\nhire a bodyguard?
+@72
+Oh, you want to hire a bodyguard?\nWhat kind of person would you like?
+@73
+Hmm, let's see...\n\n\nI know just the person.\nHow about this one?
+@74
+Hmm, let's see...\n\n\nThere's no one cheaper than that\nanywhere, you know.\nBesides, you look strong without one.
+@74.1
+Hmm, let's see...\n\n\nThere's no one cheaper than that\nanywhere, you know.\nAren't you being too stingy?
+@75
+Hmm, let's see...\n\n\nNo matter how much money you pile up,\nI don't think there's anyone stronger...\nYou look much stronger than them anyway.
+@75.1
+Hmm, let's see...\n\n\nNo matter how much money you pile up,\nI don't think there's anyone stronger...\nTry settling for someone else.
+@76
+That's {02}o{C8}.\nDon't tell me you're broke?\nHic... that won't even pay for drinks.
+@77
+That's {02}o{C8}.\nI'm putting my life on the line,\nso I need something in return...
+@78
+That's {02}o{C8}.\nSorry, but I don't take cheap jobs.
+@79
+That would be {02}o{C8}.\nIs {01}C{19}{00}'s life\nworth only that much?
+@80
+Hehehe...\nThe fee's {02}p{C8} for {02}od days.\nPaid up front. All right?
+@81
+The fee's {02}p{C8} for {02}od days.\nPaid up front, got it?
+@82
+Huh? {01}C{0E}{00} don't come cheap.\nThe fee's {02}p{C8} for {02}od days.\nPaid up front. Can you pay?
+@83
+I will protect {01}C{19}{00}'s life\nfor {02}p{C8} for {02}od days.\nPaid in advance. Is that all right?
+@84
+Oh, you'll pass?\nDidn't you like them?
+@85
+Hic... much obliged~\nI'm countin' on ya{01}C{96}{1F}
+@86
+, boss.
+@86.1
+, heh heh...
+@87
+(Ugh, he reeks of sake...\n  And he's built like a {01}C{98}{1F}.\n  Will he be all right?)
+@87.1
+(Ugh, he reeks of sake...\n  And he's built like a {01}C{98}{1F}.\n  Will he be all right??)
+@88
+beansprout
+@88.1
+burdock root
+@89
+Thanks.\nWith {01}C{0E}{00} around, there's nothing to fear.\nWell, leave it to me.
+@90
+(All talk,\n  and not very reliable...\n  It may be risky to push it.)
+@90.1
+(All talk,\n  and not very reliable...\n  It may be risky to push it.)
+@91
+{01}C{9C}{1F}, my arm's itching for a fight.
+@92
+Wahaha
+@92.1
+Heh...
+@92.2
+Kuku...
+@92.3
+Gahaha
+@92.4
+Fshhh...
+@92.5
+Gufshhh
+@93
+(Such a bold fellow...\n  seems quite skilled...)
+@93.1
+(Such a bold fellow...\n  seems quite skilled...)
+@94
+......I accept.
+@95
+(Not a single opening......\n  This one is good.)
+@95.1
+(Not a single opening......\n  This one is good!)
+@96
+Thank you very much.\nI shall take charge of {01}C{19}{00}'s life.
+@97
+(After paying this much...\n  they'd better work for it,\n  or it won't be worth it.)
+@97.1
+(After paying this much...\n  they'd better work for it,\n  or it won't be worth it.)
+@98
+Oh, you want to dismiss the bodyguard?\nThere are {02}od days left,\nbut the fee won't come back.
+@99
+Changed your mind?\nSo you don't need to dismiss them yet.
+@100
+What, that's it?\nHic... see ya.
+@101
+Well then, I'll take my leave.\nTake care{01}C{A6}{1F}.
+@102
+, boss
+@102.1
+yourself
+@103
+{01}C{9C}{1F}, that was an easy job.\nJobs like this are always welcome.
+@104
+If you value your life,\nhire {01}C{0E}{00} again...
+@105
+The bodyguard is gone.
+@106
+Don't you have another job right now?\nSorry, but no doubling up.\nFinish it first and then come.
+@107
+Oh, the deadline for your job\nhas passed.\nYou have to keep your promises.
+@108
+Is the job done?
+@109
+I'm counting on you to the end.
+@110
+Then tell me how the job went.
+@111
+W-well...\nUm, the thing is... well...
+@111.1
+Well, the thing is...\nHow do I put it, um...
+@112
+Hmm...\nNext time, don't take on\njobs you can't do.
+@113
+W-well...\nThere were unavoidable circumstances...
+@113.1
+Well, the thing is...\nThere were unavoidable circumstances...
+@114
+Well, it can't be helped this time.\nBe careful next time.
+@115
+Sorry, this is all I managed.
+@115.1
+I'm sorry.\nThis is all I managed.
+@116
+I thought you'd try a bit harder...\nI can only pay {02}o{C8}.
+@117
+I finished it properly.
+@117.1
+I finished it properly.
+@118
+Good work.\nBut since you're past the deadline,\nI can only give you {02}o{C8}.
+@119
+Good work.\nHere's the {02}o{C8} as promised.
+@120
+That was more than I asked for.\nI could fall for you.\nI'll add a lit-tle some-thing ex-tra.
+@121
+Received {02}3g.
+@122
+Received {02}o{C8} from the tavern mistress.
+@123
+Wow, received\n{02}3g.
+@124
+Isn't that expensive sake, you ask?\nUfufu, it was collateral for a gambling debt.\nYou be careful with gambling too.
+@124.1
+Isn't that expensive sake, you ask? Ufufu,\nI confiscated it as a penalty for a botched job.\nYou finish your jobs properly too.
+@125
+...I thought, but\nI've nothing to give you.\nLet's see... today I'll pour for you, ufufu.
+@127
+Oh, looking for work?\nRight now there's this job.\nUfufu, maybe it's too easy for you.
+@127.1
+Oh, looking for work?\nRight now there's this job.\nWell? Interested?
+@127.2
+Oh, looking for work?\nRight now there's this job.\nI recommend it for someone like you.
+@128
+Oh, looking for work?\nRight now there's this job.\nBut no one without confidence in their skill.
+@128.1
+Oh, looking for work?\nRight now there's this job.\nBut no time-wasters, mind you.
+@128.2
+Oh, looking for work?\nRight now there's this job.\n...It may be a bit tough for you.
+@128.3
+Oh, looking for work?\nRight now there's this job.\n...Well, I won't make you take it.
+@129
+Sorry, but if you've hired a bodyguard,\nI can't give you this job.\nPick another job, or say goodbye to them.
+@130
+The client is this person.
+@131
+Take the {02}yd job?
+@132
+Will you help me strike down my sworn enemy,\n{02}{03}g? I've heard they're in {02}{1A}e...\n...Now is the perfect chance!\nBut I can't possibly do it\nby my own strength alone.\nPlease, lend me your aid.
+@133
+They mustn't notice us.\nPlease don't hire a bodyguard\nor anything conspicuous.\nI'll go on ahead.
+@134
+There's a match in {02}{15}e,\nbut we're one person short.\nI'd like you to join as a helper.
+@135
+Then I'll be waiting\nat the dojo in {02}{15}e.\nDon't be late.
+@136
+Lately, desperate bandits have been\nraiding even the fields near the castle and town.\nPlease round them up.
+@137
+They've gotten a taste for it\nand settled near the castle and town.\nPlease sweep through them one by one.
+@138
+A while ago, some foot soldiers\nof {02}{15}e picked a fight with me...
+@138.1
+A while ago, some foot soldiers\nof {02}{15}e started a quarrel with me...
+@139
+There were two of them, so I declined then,\nbut backing down would shame a samurai.\nPlease be my second.
+@139.1
+It was in public, so I declined then, but\nI want to show those two what a samurai is.\nPlease be my second.
+@140
+Then I'll wait in {02}{15}e first.\nOh, and don't hire a bodyguard.\nThree against two would make us a laughingstock.
+@141
+Lately the drunken brawls never stop.\nThey break the shop's things... business is ruined.\nPlease do something about it.
+@141.1
+Lately there have been strange customers...\nThey brawl in the shop... skip out on the bill...\nI'm at my wits' end.\nPlease! Use that strength of yours\nto protect this shop.
+@142
+Then for the next {02}od days\nplease sleep here.
+@143
+Lately there are so many bandits after cargo.\nPlease escort me to {02}{15}e.
+@260
+Sorry, a {01}C{82} \_named {01}C8{00}\ngave me a pile of orders.\nI'll be swamped for {02}od more days.
+@322
+merchant
+@322.1
+samurai
+@322.2
+customer
+@143.1
+On a request from a certain daimyo house,\nI must deliver this cargo no matter what.\nIf bandits stole it on the way,\nI'd... no, our shop would be finished.\nPlease escort me to {02}{15}e.
+@144
+Became a merchant's bodyguard.
+@145
+Then, sensei, let's be off.
+@145.1
+Then, sensei,\nI entrust our shop's fate to you.
+@146
+(Hm, it's noisy at the back of the shop.\n Oh, that's...)
+@146.1
+(Hm, those bad customers are here again.\n I hope nothing happens...)
+@146.2
+(Hm, a woman's scream from the back!\n Well, well, my turn, it seems...)
+@147
+(It's noisy at the back of the shop.\n Oh! That's...)
+@147.1
+(Oh, those bad customers are here again.\n I hope nothing happens...)
+@147.2
+(A scream from the back of the shop!\n Oh well, my turn...)
+@148
+Hey, you!\nWhere do you think you're touching?!
+@148.1
+Hey, you! Don't go drinking\nmy doburoku as you please!
+@148.2
+If you want someone to pour, ask someone else!\nI wouldn't keep you company\neven if you paid me.
+@148.3
+What a pushy old man...\nStop clinging to me.
+@148.4
+You, go drink over there!\nDon't breathe your boozy breath on me.
+@149
+Aw, don't be cold.\nHic~, I need more sake.
+@149.1
+C'mon, what's the harm?\nDon't be stingy!
+@149.2
+Haa~\nI love that snooty attitude.\nLet's be friends, missy.
+@149.3
+Whoa, a feisty one.\nDon't say that, have a drink with me.
+@149.4
+Is that how you treat a customer?\nYou drunk!
+@150
+Oh dear, what troublesome customers.\nSensei, please do something.
+@150.1
+That lot always make a racket like that\nand skip out on the bill.\nSensei, please teach them a lesson!
+@150.2
+Here they go again.\nWhy are all our customers like that...\nSensei, throw them out, please.
+@151
+Eek, you're the notorious {02}{02}g!\nTaking on a villain like that would be death.\nR-run~
+@152
+Ah... isn't that {02}{02}g, of martial renown?\nI'm outmatched here.\nI'll withdraw.
+@153
+Huh? You want me out?\nNo way... hic...\nIf you insist, make me.
+@153.1
+Huh? Pay and get out?\nDon't be stupid, who do you think customers are?\nUrgh~... cheeky brats need a lesson!
+@153.2
+Oi? Who are you?\nSpoiling the fun...\nHic... I won't stand for it!
+@154
+The drunk withdrew.
+@155
+The drunks in the shop attacked.
+@156
+The drunks withdrew.
+@157
+Eeek, spare my life!
+@157.1
+Eeek, have mercy!
+@157.2
+Wawawa... I-I'm never coming to this shop again!
+@158
+Hmph, good riddance!\nPhew... thank you, sensei, you saved me.\nI'm counting on you still.
+@158.1
+Do it again and you'll regret it!\nPhew... sensei, how reliable you are...\nI'll keep counting on you.
+@159
+Hmph, pathetic.\nHonestly, it spoils the sake!
+@159.1
+Hey, hey, already? Is that it?\nLike this you're not even\nentertainment for the drinking party.
+@160
+Oh, you've got something nice.\nI'll let you off with this today.
+@161
+{02}3g was taken.
+@162
+What, you bring {02}3g\nto a tavern?\nWhat a fancier... I'll take one.
+@163
+{02}3g was taken.
+@164
+Hmm, I'm still not satisfied...\nI'll beat you to a pulp!\nTake that!
+@165
+There's more where that came from!
+@166
+S-stop it...\nGyaaah~!
+@166.1
+Eeek!\nS-stop...
+@167
+Ow ow ow...\nStop~!
+@167.1
+Eek!\nI'm sorry, I said I'm sorry...
+@168
+I'll take all your money\nfor my trouble.
+@169
+All your money was taken.
+@170
+Broke, are you? Lousy bum.\nYou'll pay for this with your life!\nHyah!
+@171
+Gwaaah~!
+@171.1
+Kyaaah~!
+@172
+Some bodyguard you are.\nHonestly... you're useless.
+@173
+You're done as bodyguard.\nAnd I can't pay for this job.\nYou'll have to do better next time...
+@174
+You're done as bodyguard.\nHere's {02}o{C8} for the work so far.\nDo better next time.
+@175
+Today makes the {02}od days we agreed.\nNo fights broke out, but a deal's a deal.\nHere, {02}p{C8}.
+@176
+Today makes the {02}od days we agreed.\nYou were a big help.\nHere, {02}p{C8}.
+@177
+(I know,\n I'll try to find out from Lord {02}{02}g\n how things are in {02}{02}{81}.)
+@177.1
+(I know,\n I'll try to find out from Lord {02}{02}g\n how things are in {02}{02}{81}.)
+@178
+(...Hmm, I'm getting nothing.\n If I ask more they'll get suspicious...\n I'll give up for now.)
+@178.1
+(...Mmm, I'm getting nothing.\n If I ask more they'll get suspicious...\n Oh well, I'll give up.)
+@179
+Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
+@179.1
+Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
+@179.2
+Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
+@180
+{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nPlease remember me.
+@180.1
+{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nPlease remember me.
+@180.2
+{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nPlease remember me.
+@181
+Oh, that face, could it be...\nthe {01}C{06} \_{01}C1{00}?\nWelcome! Drinks are half price for you.
+@182
+Rumor has it a person called {01}C>{00}\nbears {01}C{19}{00} a great grudge...\nBe careful when you're out.
+@183
+It's the season of {02}=e again.\n{01}C{0E}{00} can't resist it...\nEven when traveling, I stop to see it.
+@184
+(I see, {02}=e\n even captures travelers' hearts...\n No harm in remembering it.)
+@184.1
+(I see, {02}=e\n even captures travelers' hearts...\n No harm in remembering it.)
+@185
+Learned about {02}=e.
+@186
+It's the season of {02}=e again.\nI wish they held such a fun event\nmore often...\n
+@187
+(I see, {02}=e\n is popular with women...\n No harm in remembering it.)
+@187.1
+(I see, {02}=e\n is popular with everyone...\n No harm in remembering it.)
+@188
+There's a votive sumo every year at this time.\nThis year I'm aiming to be the village strongman.\nHeh heh, my blood's boiling already.
+@189
+(I see, {02}=e...\n The shrine must be lively...\n No harm in remembering it.)
+@189.1
+(I see, {02}=e...\n The shrine must be lively...\n No harm in remembering it.)
+@190
+There's a {02}yd dojo in this town.\nIf you're confident in your skill,\nwhy not visit its master, {01}C>{00}?
+@191
+This town's smith, {01}C>{00},\nis famed as a master gunsmith.\nWhy not pay a visit?
+@192
+This town's smiths\nare famed as master swordsmiths.\nWhy not pay a visit?
+@193
+Have you been to the Western temple?\nThey say people with some fateful tie\nsometimes run in there...
+@193.1
+Rumor has it some people went to the\nWestern temple and were never seen again...\nSpirited away...? Heaven protect us.
+@193.2
+I heard someone's luck turned\nafter praying at the Western temple...\nMagic powers? Sounds dubious to me.
+@193.3
+I heard a notorious villain\nreformed after praying at a temple, or not...\nCan a bad man really turn good so easily?
+@194
+{01}C{03} ......\nPlease accept this...
+@195
+Lord {02}{02}g
+@195.1
+Little {02}{02}g
+@195.2
+{02}{02}g
+@195.3
+{02}{02}g
+@195.4
+Little {02}{02}g
+@195.5
+Miss {02}{02}g
+@195.6
+Lady {02}{02}g
+@195.7
+Miss {02}{02}g
+@195.8
+Little {02}{02}g
+@195.9
+{01}C,{00}
+@195.10
+Lord {01}C,{00}
+@195.11
+{01}C,{00}
+@195.12
+Little {01}C,{00}
+@196
+It's {02}o{C8} a night.\nWith the money you have, you can\nstay up to {02}pd days. How long?
+@197
+Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?\nWelcome! Half price for you.
+@198
+far-famed
+@198.1
+renowned
+@199
+What, wandering around a place like this...\n\n\nGoing to learn arithmetic?\nA fine idea.\nYou should at least count your fingers.\nOops, no reason to stay. Farewell.
+@199.1
+My my, what are you doing\nin a place like this?\n\nGoing to learn arithmetic?\nA fine idea.\nIt's embarrassing if you can't count your fingers.\nWell, no reason to stay. Bye now~
+@200
+(Our house already has many purveyors...\n To deal with {02}{03}{EC},\n we'd have to drop one of them...)
+@200.1
+(We already have many purveyors...\n To deal with {02}{03}{EC},\n we'd have to drop one of them...)
+@201
+{01}C1{00}...\nI'd like to take {02}{02}{EC} on\nas a purveyor to our {02}{01}{EC}...
+@201.1
+{01}C1{00}...\nWe would like {02}{02}{EC}\nas a purveyor to our {02}{01}{EC}...
+@201.2
+{01}C1{00}...\nWe would like {02}{02}{EC}\nas a purveyor to our {02}{01}{EC}...
+@202
+Sorry... our shop already deals\nwith many daimyo houses.\nI must decline this offer...
+@202.1
+I'm sorry... our shop already deals\nwith many daimyo houses,\nso please forgive us...
+@202.2
+I'm sorry... our shop already deals\nwith many daimyo houses,\nso please forgive us...
+@203
+I see...\nA pity...
+@203.1
+I see...\nA great pity...
+@203.2
+I see...\nWhat a pity...
+@204
+Hmm, I won't be led around\nby {01}C{19}{00} again.\nI must decline this offer.
+@204.1
+Hmm, I won't be led around\nby {01}C{19}{00} again.\nI must decline the offer.
+@204.2
+Mmm, I won't be led around\nby {01}C{19}{00} again.\nI decline the offer.
+@205
+It's a great honor...\nbut we have our own circumstances...\nI must decline this offer.
+@205.1
+It is truly an honor,\nbut we have our own circumstances...\nPlease forgive us this time.
+@205.2
+It's a great honor...\nbut we have our own circumstances...\nPlease forgive us.
+@206
+That's just what I hoped for.\nFrom now on I'll help {01}C{19}{00}\nconquer the realm.
+@206.1
+That's just what I hoped for.\nFrom now on please let me help\n{01}C{19}{00} conquer the realm.
+@206.2
+That's just what I hoped for.\nFrom now on I'll help\n{01}C{19}{00} conquer the realm.
+@207
+Oh, much appreciated.\nI'm counting on you.
+@207.1
+Oh, thank you very much.\nI'm counting on you.
+@207.2
+Oh, thank you.\nI'm counting on you.
+@208
+{02}{0B}e became a purveyor\nto {02}{0C}e.
+@209
+Then I'll tell the shop's people\nat once.\nPlease leave for today.
+@209.1
+Then I'll tell the shop's people\nthe news at once.\nPlease leave for today.
+@209.2
+Then I'll tell the shop's people\nat once.\nPlease leave for today.
+@210
+(Shall I remove {02}{03}{EC}\n as our house's purveyor...)
+@210.1
+(Shall I remove {02}{03}{EC}\n as our house's purveyor...)
+@211
+(If I remove them as purveyor,\n all the jobs I gave them come to nothing.\n Really remove them?)
+@211.1
+(If I remove them as purveyor,\n all the jobs I gave them come to nothing.\n Should I really remove them?)
+@212
+(I'll leave it for now...)
+@212.1
+(I'll leave it for now...)
+@213
+{01}C1{00}... From today {02}{02}{EC}\nis no longer purveyor to our {02}{01}{EC}.\nThank you for your service.
+@213.1
+{01}C1{00}...\nFrom today {02}{02}{EC} is no longer\npurveyor to our {02}{01}{EC}.
+@213.2
+{01}C1{00}...\nFrom today {02}{02}{EC} is no longer\npurveyor to our {02}{01}{EC}. Thank you for everything.
+@214
+What! Are we of no use...\nIf it's {01}C1{00}'s will, it can't be helped...
+@214.1
+What! Are we of no use to you...\nIf it's {01}C1{00}'s wish, it can't be helped.
+@214.2
+What! Are we of no use to you...\nIf it's {01}C1{00}'s wish, it can't be helped.
+@215
+{02}{0B}e was removed as purveyor\nto {02}{0C}e.
+@216
+...There's nothing more to say.\nGo home for today.
+@216.1
+...There's nothing more to say.\nPlease leave for today.
+@216.2
+...There's nothing more to say.\nPlease leave for today.
+@217
+I can't buy what you have equipped.
+@217.1
+I can't buy what you have equipped.
+@217.2
+I can't buy what you have equipped.
+@218
+I can't buy what you have equippeeed.
+@219
+{01}C{19}{00} is with {02}{02}{EC}, aren't you...\nSorry, I haven't a single gun\nto sell to a business rival.
+@219.1
+Aren't you with {02}{02}{EC}...?\nI'm afraid I haven't a single gun\nto sell to a business rival.
+@219.2
+Aren't you with {02}{02}{EC}...?\nI'm afraid I haven't a single gun\nto sell to a business rival.
+@220
+{01}C{19}{00} is with {02}{02}{EC}, aren't you...\nI can't sell to those at odds\nwith {02}{0B}e, whom we serve.
+@220.1
+Aren't you with {02}{02}{EC}...?\nWe can't sell to those at odds\nwith {02}{0B}e, whom we serve.
+@220.2
+Aren't you with {02}{02}{EC}...?\nWe can't sell to those at odds\nwith {02}{0B}e, whom we serve.
+@221
+Oh, your purse is full.\nBuy something, or go save some.
+@221.1
+Your purse is full.\nYou'd best buy something,\nor go save some.
+@221.2
+Your purse is full.\nYou'd best buy something,\nor go save some.
+@222
+Your purse is fuuull.\nPlease buy something, or go save some.
+@223
+You haggled and now won't buy?\nDon't mess with me.\nGet out!
+@223.1
+You haggled and now won't buy?\nWe don't welcome window-shoppers.\nPlease leave.
+@223.2
+You haggled and won't buy?\nWe don't welcome window-shoppers.\nPlease leave.
+@224
+You haggled and now won't sell?\nI've no time for your games.\nGet out!
+@224.1
+You haggled and now won't sell?\nWe don't welcome time-wasters.\nPlease leave.
+@224.2
+You haggled and won't sell?\nWe don't welcome time-wasters.\nPlease leave.
+@225
+Oh, you not want to buuy?\nNo window-shoppeeers.\nPlease go hoome.
+@226
+Oh, you not want to seell?\nNo time-wasteeers.\nPlease go hoome.
+@227
+You want to know about your branches?\nThen I'll tell you.
+@227.1
+You want to know about your branches?\nThen I'll tell you.
+@228
+You'll have {02}{02}{EC} escort\n{02}{01}{EC}'s trade routes?\nAnd which route?
+@229
+The route between\n{02}{15}e and {02}{16}e... hmm.
+@230
+Forgive me, but isn't {02}{02}{EC}\nfully occupied with the routes it guards now?\nLet's discuss this another time.
+@231
+We have close ties with {02}{0B}e,\nwho escorts that route now...\n\nWe can't turn them away...\nLet's discuss this another time.
+@232
+Well...\nWould you take it on\nfor {02}o{C8} a month?
+@232.1
+Let me see...\nWould you take it on\nfor {02}o{C8} a month?
+@232.2
+Let me see...\nWould you take it on\nfor {02}o{C8} a month?
+@233
+{01}C{19}{00} drives a hard bargain...\nThen how about\n{02}o{C8} a month?
+@233.1
+{01}C{19}{00} drives a hard bargain...\nThen how about\n{02}o{C8} a month?
+@233.2
+{01}C{19}{00} drives a hard bargain...\nThen how about\n{02}o{C8} a month?
+@234
+Good grief, is that so... then\nlet's forget this talk.\nFarewell.
+@234.1
+Oh dear, is that so... then\nlet's forget this talk.\nPlease leave.
+@234.2
+Oh, is that so... then\nlet's forget this talk.\nPlease leave.
+@235
+Then from this month\nwe'll ask you to escort.\nI'm counting on you.\nThat's all for today.
+@235.1
+Then from this month\nwe'll ask you to escort.\nWe're counting on you.\nThat's all for today; please go.
+@235.2
+Then from this month\nwe'll ask you to escort.\nWe're counting on you.\nThat's all for today; please go.
+@236
+Welcome.
+@237
+With the medical skill you can\nnot only open a clinic but also\nuse it when visiting the sick.
+@237.1
+How many herbs you gather\ndepends on where you gather them.\nYou can't gather them near towns or castles.
+@237.2
+Processed into medicine, herbs\ncan be handled as trade goods.\nYou can sell them to guilds for money.
+@237.3
+Depending on the mixing, medicine\ncan be expensive or as good as rubbish.
+@237.4
+A cure-all, though its effect varies,\nworks for most illnesses.\nBut don't rely on it too much.
+@237.5
+Medicine doesn't just cure illness;\nit can restore strength too.
+@237.6
+They say medicine is benevolence,\nbut doctors have a living to make.\nBalancing the two is hard.
+@237.7
+Open a clinic at home and\nyou can make medicine yourself.\nNo need to go out and buy it.
+@237.8
+If you run a dojo or forge at home,\nyou can't open a clinic.\nClose the dojo or forge and you can...
+@237.9
+Mixing medicine is very hard;\neven with great skill\nyou sometimes fail.
+@237.10
+Lately some say my fees are too high.\n{01}C{0E}{00} don't like it either,\nbut it can't be helped.
+@237.11
+To be called a great doctor\nyou need, besides great skill,\na spirit of compassion.
+@237.12
+Even with a clinic at home\nyou can still move or take service.\nUnlike a dojo, no need to close it.
+@238
+What, wandering around a place like this...\n\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for {01}C{19}{00}... Oops, no reason to stay. Farewell.
+@238.1
+My my, what are you doing\nin a place like this?\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for {01}C{19}{00}...\n...Oh, was that a bit vulgar?\nWell, bye now~
+@239
+What, wandering around a place like this...\n\n\nGoing to learn etiquette?\nHaha, how amusing.\nLike reciting sutras to a horse.\nOops, no reason to stay. Farewell.
+@239.1
+My my, what are you doing\nin a place like this?\n\nGoing to learn etiquette?\nUfufu...\nLike reciting sutras to a horse.\nWell, no reason to stay. Bye now~
+@240
+I'm glad of the thought, but\nyou can't make an offering with that money.
+@240.1
+I'm grateful for the thought, but\nyou can't make an offering with that money.
+@241
+Oh, you'll make an offering?\nWe accept from 1 kan.\nHow much will you donate?
+@241.1
+Oh, you'll make an offering?\nWe accept from 1 kan.\nHow much would you donate?
+@242
+Ah, a worthy deed.\nThe Buddha will surely watch over\n{01}C{19}{00}'s merit.
+@242.1
+Thank you very much.\nThe Buddha will surely see\n{01}C{19}{00}'s merit.
+@243
+Ah, a worthy deed.\nThe Buddha will be grateful too.
+@243.1
+Thank you very much.\nThe Buddha will be grateful too.
+@244
+You want a letter of introduction\nfrom {01}C{0E}{00} to make peace with {02}{0B}e?
+@244.1
+You want a letter of introduction\nfrom {01}C{0E}{00} to make peace with {02}{0B}e?
+@245
+Even if I wrote one,\nI don't know {01}C{19}{00} well.\nSorry, I can't help.
+@245.1
+Even if I wrote one,\nI don't know {01}C{19}{00} well.\nI'm sorry, but I must decline.
+@246
+{02}{0B}e's base is far away,\nso I have no close ties.\nSorry, I can't help.
+@246.1
+{02}{0B}e's base is far away,\nso I have no close ties.\nI must decline the letter.
+@247
+Very well, I'll write a line.\nShow this when you talk\nwith {02}{0B}e.
+@247.1
+Understood, I'll write a line.\nPlease show this when you talk\nwith {02}{0B}e.
+@248
+Received a letter of introduction to {02}{0B}e.
+@249
+This letter is only good for this peace.\nDon't hold back; use it.
+@249.1
+This letter is only good\nfor this peace.\nDon't hold back; use it.
+@250
+You come here often...\nAlways treasure that faith.
+@250.1
+You come here often.\nAlways treasure that faith.
+@251
+What, wandering around a place like this...\nHey, this is a place\nfor people who enjoy tea.\nHowever hard up you are,\ndon't come selling rice bowls.\nOops, no reason to stay. Farewell.
+@251.1
+Oh, wandering around a place like this...\nThis is a place for people who enjoy tea.\n\nHowever hard up you are,\nselling rice bowls here is a bit much...\nOops, no reason to stay. Farewell.
+@251.2
+What, wandering around a place like this...\nHey, this is a place\nfor people who enjoy tea.\nHowever hard up you are,\ndon't come selling rice bowls.\nOops, no reason to stay. Farewell.
+@252
+You haggled and now won't buy?\nI've no time for games.\nGet out!
+@252.1
+You haggled and now won't buy?\nWe don't welcome window-shoppers.\nPlease leave.
+@253
+You haggled and now won't sell?\nI've no time for games.\nGet out!
+@253.1
+You haggled and now won't sell?\nWe don't welcome time-wasters.\nPlease leave.
+@254
+Thanks for your custom as always...\nI'm counting on you.
+@254.1
+Thank you for your custom as always.\nWe look forward to serving you.
+@255
+Thanks for your custom as always...\nI'm counting on you.
+@255.1
+Thank you for your custom as always.\nWe look forward to serving you.
+@256
+How much iron sand you gather\ndepends on the place.\nBut watch out for bandits in the mountains.
+@256.1
+Iron sand must be made into iron\nbefore it can be traded.\nYou can't buy or sell it as is.
+@256.2
+Iron sand is no use\njust gathered.\nDon't forget to smelt it.
+@256.3
+Make iron into arms or guns and it\nturns from trade goods into belongings.\nCareless crafting can be a disaster.
+@256.4
+Iron can be made into arms or guns,\nbut they can't be turned back into iron...\nMaking them for nothing wastes material.
+@256.5
+Gunpowder sells high to the guilds.\nBut if you don't buy the saltpeter,\ncharcoal and sulfur cheap, you'll lose big.
+@256.6
+Swordmaking differs by region.\nGo round the smiths everywhere\nand steal their techniques.
+@256.7
+If you take in other smiths' techniques,\nmaybe you can make\neven better blades...
+@256.8
+Saltpeter isn't found in this country.\nThe Western trading posts sell it, but it's pricey...\nI wish I could buy it cheap somewhere.
+@256.9
+If you want to get good at making guns,\nfiddling with iron isn't enough.\nYou need to know gunpowder too.
+@256.10
+Daily effort pays off someday.\nEven things that seem pointless,\nthe important thing is to keep at it.
+@256.11
+If you help make swords and guns,\nthe guns and cannons you ordered\nmay be ready sooner.
+@257
+You're a step too late, {01}C1{00}!\nI just placed an order with this smith.\nIf you want {02}yd, try elsewhere.
+@257.1
+You're a step too late, {01}C1{00}!\nI just placed an order with this smith.\nIf you want {02}yd, try elsewhere.
+@258
+Oh, you're with {02}{02}{EC}?\nGood of you to come.
+@259
+What can I do for you today?
+@261
+Don't you have another job right now?\nHalf-done work is a nuisance.\nFinish it first and then come.
+@262
+Hey, the deadline for the job\nhas passed.\nThat leaves a hole in {01}C{0E}{00}'s work.
+@263
+Is the job I asked for done?
+@264
+Right, I'm counting on you.
+@265
+So, how's the job going?
+@266
+Sorry... well, the thing is...\nI couldn't get a single one...
+@266.1
+I'm sorry... well, the thing is...\nI couldn't get a single one...
+@267
+What?\nI went to the trouble of giving you work.\nIf you can't be bothered, go home!
+@268
+Sorry...\nThere were, um, circumstances...
+@268.1
+I'm sorry...\nThere were all sorts of circumstances...
+@269
+Well, it can't be helped this time.\nDo better next time.
+@270
+Sorry,\nI only managed to get\n{02}od of {02}Ge.
+@270.1
+I'm sorry!\nI only managed to get\n{02}od of {02}Ge...
+@271
+Sorry,\nI only managed to gather\n{02}od of iron sand.
+@271.1
+I'm sorry!\nI only managed to gather\n{02}od of iron sand...
+@272
+What, gave up halfway?\nI thought you'd try\na bit harder......
+@273
+As requested, I got\n{02}od of {02}Ge, all of it.
+@273.1
+As requested, I got\n{02}od of {02}Ge, all of it.
+@274
+As requested, I gathered\n{02}od of iron sand, all of it.
+@274.1
+As requested, I gathered\n{02}od of iron sand, all of it.
+@275
+Ah, thanks.\nNow my work will move along.
+@276
+Ah, thanks.\nBut because you were late,\nmy work's been left with a hole.
+@277
+Then I'll have back\nthe {02}o{C8} I gave you to work with.
+@278
+Even with all the money you have,\nyou're still {02}o{C8} short.
+@279
+Like this I'm at a big loss.\nI'll get my money back\neven if I strip you bare.
+@280
+{02}3g was taken!
+@281
+Well, this about covers what I fronted.\nCheap job or not,\ndon't go spending my capital.
+@282
+Whoops, nothing left to strip.\nMake do with this.
+@282.1
+Whoops, nothing left to strip.\nMake do with this.
+@283
+Received {02}3g.\nEquipment was changed.
+@284
+Received {02}3g and {02}4g.\nEquipment was changed.
+@285
+That's still not enough!\nI'll get the guild boss\nto collect the money at your house.
+@286
+Honestly, what a hassle you've been,\nmaking extra work for me...\nGo home for today!
+@287
+Still not enough!\nFine, I'll buy anything you could trade\nat a bargain price.
+@288
+{02}Ge was taken!
+@289
+Phew... at last I've got my money back.\nMaking extra work for me...\nGo home for today!
+@290
+You're messing with me...\nNow you've made {01}C{0E}{00} really angry...\n\nIt can't be helped, I'll test my\nlatest piece on your body.\nTake this!
+@290.1
+Making fun of me...\nNow you've made {01}C{0E}{00} really angry...\n\nIt can't be helped, I'll test my\nlatest piece on your body.\nTake this!
+@291
+Eeek... {01}C1{00},\nanything but that!\n\nOw ow ow!
+@291.1
+N-no, stop, not that!\n\n\nOw ow ow!
+@291.2
+Eh?! W-wait...\nplease, not that!\n\nKyaa!
+@292
+Gahaha, I was joking, of course.\nBe grateful you still have your life.\n\nTch... poorly made, was it...\nI've still got a lot to learn...\nOops, talking to myself, never mind.
+@292.1
+Gahaha, did you think I'd really do it?\nBe grateful you still\nhave your life.\nStrange, I aimed between the eyes... must be poorly made...\nAh... talking to myself, never mind.
+@293
+Now, about your pay...\nFor this, {02}o{C8} is about right.\nWell, I'm counting on you again.
+@294
+Now, about your pay...\nSorry, but like this I can't pay a penny.\nWell, ask again if you feel like it.
+@295
+Here's your pay.\nIt's pocket money, but take {02}o{C8}.\nYou were a help; I'm counting on you again.
+@296
+Oh, I almost forgot something important.\nYou've really got used to smithing.\nAs a special favor, I'll teach you {02}=e.
+@297
+Obtained {02}=e.
+@298
+This {02}=e\nshould be useful when\nyou open your own forge.
+@298.1
+This {02}=e\nshould be useful when\nyou open your own forge.
+@299
+With this {02}=e,\nyour smithing skill\nshould rise even further.
+@300
+You want to know about smithing?\nIf you insist,\nsteal it while you work.
+@301
+I'd like you to buy the {02}Ge\nneeded for gunpowder and guns,\nbut your purse is full; I can't give you the money.
+@302
+We're running out of the {02}Ge\nneeded for gunpowder and guns...\nSorry, but buy about {02}od.
+@303
+We're running out of the {02}Ge\nneeded for gunpowder and guns...\nBuy about {02}od at the Western trading post.
+@304
+Received {02}o{C8} as a budget.
+@305
+I'd like you to buy the {02}Ge needed\nfor making {01}C{81} s and smelting iron, but\nyour purse is full; I can't give you the money.
+@306
+Whoops, this job's no longer needed.\nSilly {01}C{0E}{00} forgot to get\nthe money ready, gahaha...\n......I won't be fooled, you good-for-nothing.\nPlanning to gamble the money away? Oops, talking to myself... nothing.
+@306.1
+Whoops, this job's no longer needed.\nSilly {01}C{0E}{00} forgot to get\nthe money ready, gahaha...\n......I won't be fooled, you crook.\nPlanning to gamble the money away? Oops, talking to myself... nothing.
+@307
+Sorry, this job's already covered.\nI'd feel bad making you\ndo this, hahaha...\n......Who knows what someone like that\nwould do in my forge...\nOops, talking to myself, never mind.
+@307.1
+Sorry, this job's already covered.\nI'd feel bad making you\ndo this, hahaha...\n......Who knows what a shady type\nwould do in my forge...\nOops, talking to myself, never mind.
+@308
+We're running out of the {02}Ge\nneeded for making {01}C{81} s and smelting...\nSorry, but buy about {02}od.
+@309
+We're {02}od short of iron sand\nneeded for making {01}C{81} s and smelting...\nSorry, but gather some somewhere.
+@310
+Oh, you don't know how to gather\niron sand? I'll teach you specially.
+@310.1
+Oh, you don't seem to know\nhow to gather iron sand.\nI'll teach you specially.
+@311
+The rest is up to you.\nWhere good iron sand is found,\nfind out on your own feet.
+@312
+Sorry, you can't help in that condition.\nOne slip in this work can cost a life.\nCome back when you're well.
+@313
+Oh, you want to learn making {01}C{81} s?\nLet's see... I'll look after you for {02}od days.\nHow long will you help?
+@314
+You'll help for {02}od days?
+@315
+All right! I'm counting on you.\nDon't give up halfway.
+@316
+Stop the apprentice work?
+@317
+You can't go on in that condition.\nI don't need dead weight.\nCome back when you're well.
+@318
+Well then, it's pocket money,\nbut here's {02}o{C8} for the work.\nI'm counting on you again.
+@319
+Will you take on {02}yd?
+@320
+I see.\nIf you change your mind, come any time.
+@321
+sword
+@321.1
+gun
+@323
+What, wandering around a place like this...\n\n\nGoing to learn to handle guns?\nHow alarming... give {01}C{19}{00} a gun\nand our own side's lives are in danger.\nOops, no reason to stay. Farewell.
+@323.1
+My my, what are you doing\nin a place like this?\n\nGoing to learn to handle guns?\nHow alarming... give {01}C{19}{00} a gun\nand our own side's lives are in danger...\nWell, no reason to stay. Bye now~
+@324
+With this {02}=e,\nit should help with\nopening new fields.
+@325
+Hmm, thanks to your help\nyour order moved along too, but...\nit'll take {02}od more days.
+@325.1
+Hmm, thanks to your help\nyour order moved along too, but...\nit'll take {02}od more days.
+@326
+Hmm, your order will take\n{02}od more days to finish.
+@326.1
+Hmm, your order will take\n{02}od more days to finish.
+@327
+Phew... thanks to your help,\n{02}od {02}yd{02}zd were done ahead of schedule.\nHere, take them.
+@327.1
+Phew... thanks to your help,\n{02}od {02}yd{02}zd were done ahead of schedule.\nHere you are.
+@328
+Phew... your order,\n{02}od {02}yd{02}zd, is done.\nHere, take them.
+@328.1
+Phew... your order,\n{02}od {02}yd{02}zd, is done.\nHere you are.
+@329
+Phew... your order,\n{02}od {02}yd{02}zd, was done early...\nbut it seems it was for nothing.
+@329.1
+Phew... your order,\n{02}od {02}yd{02}zd, was done early...\nbut it seems it was wasted.
+@330
+Phew... your order,\n{02}od {02}yd{02}zd, is done...\nbut it seems it was for nothing.
+@330.1
+Phew... your order,\n{02}od {02}yd{02}zd, is done...\nbut it seems it was wasted.
+@331
+Gathered {02}od iron sand.
+@332
+Helped make {02}yd for {02}od days.
+@333
+You haggled and now won't buy?\nI've no time for games.\nGo on, get out of here!
+@333.1
+You haggled and now won't buy?\nNo window-shoppers.\nGet out!
+@334
+Thanks for always helping me...\nFor once, let me thank you.\nHere, take it.
+@334.1
+Sorry for always being such a bother.\nFor once, let me thank you.\nPlease take it.
+@335
+Lost lamb...\nIn the name of the Lord, repent of everything\nand be reborn as another person?
+@336
+Once reborn, you can never\ngo back... Even so, will you\nseek the Lord's forgiveness?
+@337
+Being reborn and living under another name\nmeans your sins and deeds... your friendships\nall vanish, and you begin a new life.\nIs that truly all right?
+@338
+You changed your mind.\nThe Lord always watches over you.\nCome again when you wish to confess.
+@339
+Then close your eyes...\nTell all your sins to the Lord Deus.\nAnd humbly beg for forgiveness...\nWhen you have confessed all your sins,\npicture in your mind\nthe new you, reborn.
+@340
+You will be reborn\nas {02}yd{02}zd?
+@341
+The {02}{02}g of yesterday\nis gone...\nUnder the Lord's name, you are reborn...\nPray with all your heart...\nAmen.
+@342
+The Lord has forgiven everything.\nFrom now on you are\n{02}{02}g.\nMay your new life\nbe full of happiness...\nAmen.
+@343
+Right, a fresh start.
+@343.1
+Right, a fresh start.
+@344
+Haven't I already granted\n{01}C{19}{00} a request this month...?\n\nHis Majesty is busy too...\nBetter make it another time.
+@345
+You wish His Majesty to grant\njust cause to attack a daimyo house?
+@346
+And which daimyo house would you\nhave named an enemy of the court?
+@347
+{02}{0B}e, is it?
+@348
+Very well... I shall work to obtain\nan imperial edict to punish {02}{0B}e\nas an enemy defying His Majesty.
+@349
+With {02}{0B}e named an enemy of the court,\nyou now have just cause to attack {02}{0B}e.
+@350
+I am not very close to you...\nTo intercede with His Majesty,\nI must first know you well.
+@350.1
+Hmm, that is impossible.\n{02}{0B}e far surpasses {01}C{19}{00}\nin loyalty to His Majesty.
+@351
+Hmm, that is difficult.\n{02}{0B}e has not yet contributed\nenough to His Majesty.
+@352
+You wish to petition His Majesty\nfor peace with some daimyo house?
+@353
+And with which daimyo house do you seek peace?
+@354
+Very well.\nI shall ask His Majesty for an edict\nof peace with {02}{0B}e.
+@355
+An imperial order was obtained for\n{02}{0B}e and {02}{0C}e to make peace.
+@356
+{02}{01}{EC}'s contribution was\nrecognized very slightly.
+@356.1
+{02}{01}{EC}'s contribution was\nrecognized slightly.
+@356.2
+{02}{01}{EC}'s contribution was\nrecognized somewhat.
+@356.3
+{02}{01}{EC}'s contribution was\nwell recognized.
+@356.4
+{02}{01}{EC}'s contribution was\ngreatly recognized.
+@357
+Good of you to come.\nBut there's nothing left to teach.\nNow put your skills to work.
+@357.1
+Welcome to the training ground.\nBut there's nothing left to teach.\nNow put your skills to work.
+@358
+No one from another band may enter.\nLeave!
+@359
+Only those aiming to be men of the sea come here.\nIt has nothing to do with merchants,\nso you can't train here.
+@359.1
+Only those aiming to be men of the sea come here.\nIt has nothing to do with ronin,\nso you can't train here.
+@359.2
+Only those aiming to be men of the sea come here.\nIt has nothing to do with commanders,\nso you can't train here.
+@361
+Welcome to the training ground.
+@361.1
+Welcome to the training ground.
+@362
+Before training in navy skills,\ndon't forget to donate {02}o{C8} to the fort.\nBring the money first.
+@362.1
+Before training in navy skills,\nwould you donate {02}o{C8} to the fort?\nPlease bring the money first.
+@363
+Training here takes {02}od days.\nYou seem to have a council.\nBetter not.
+@363.1
+Training takes {02}od days.\nWith the next council in mind,\nyou should hold off for now.
+@364
+Training takes {02}od days.\nShall we begin at once?
+@364.1
+Training here takes {02}od days.\nYou're one of us, so no money is needed...\nShall we begin at once?
+@364.2
+Training here takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+@364.3
+Training here takes {02}od days,\nand a donation of {02}p{C8}.\nAll right?
+@364.4
+Training takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+@365
+Then it can't be helped.\nDon't neglect your drills.
+@365.1
+I see......\nDo not neglect your training.
+@366
+You've mastered it well.\nNow put your skills to work.
+@366.1
+You've improved,\nbut you haven't mastered navy skills yet.\nKeep at it.
+@366.2
+You've learned the basics,\nbut you've only touched navy skills.\nI expect much of your efforts.
+@366.3
+You've mastered it this far.\nNow put your skills to work.
+@366.4
+You've improved,\nbut you haven't mastered navy skills yet.\nPlease keep at it.
+@366.5
+You've learned the basics,\nbut you've only touched navy skills.\nPlease keep at it.
+@367
+Not enough training.\nBut even this will be a lesson.\nDon't give up; keep at it.
+@367.1
+Not impressive.\nBut even this will be a lesson.\nDon't give up; keep at it.
+@367.2
+You show promise.\nKeep at it.
+@367.3
+Just one step short.\nKeep at it.
+@367.4
+Hm, good.\nKeep up your efforts.
+@367.5
+Not enough training.\nBut even this will be a lesson.\nPlease keep at it.
+@367.6
+Not impressive.\nBut even this will be a lesson.\nPlease keep at it.
+@367.7
+You showed promise.\nPlease keep at it.
+@367.8
+Just one step short.\nPlease keep at it.
+@367.9
+Hm, quite a good result.\nPlease keep up your efforts.
+@368
+Navy skill experience rose slightly.
+@369
+Well done, you've overcome this trial.\nIn praise of your skill, I grant you this.
+@369.1
+Well done, you've overcome this trial.\nIn praise of your skill, I grant you this.
+@370
+There's nothing more to teach here.\nTrain elsewhere\nand aim higher.
+@370.1
+There's nothing more to teach here.\nPlease train elsewhere\nand aim higher.
+@371
+Still, I haven't taught you\nevery technique.\nAim higher.
+@371.1
+Still, I haven't taught you\nevery technique.\nPlease aim higher.
+@372
+Not enough training.\nI can't teach a new technique.\nKeep at it.
+@372.1
+Not impressive.\nI can't teach a new technique yet.\nKeep at it.
+@372.2
+You show promise,\nbut I can't teach a new technique yet.\nKeep at it.
+@372.3
+Just one step short,\nbut I can't teach a new technique yet.\nKeep at it.
+@372.4
+Hm, not bad.\nThe day for a new technique is near.\nKeep up your efforts.
+@372.5
+Not enough training.\nI can't teach a new technique.\nPlease keep at it.
+@372.6
+Not impressive.\nI can't teach a new technique yet.\nPlease keep at it.
+@372.7
+You show promise,\nbut I can't teach a new technique yet.\nPlease keep at it.
+@372.8
+Just one step short,\nbut I can't teach a new technique yet.\nPlease keep at it.
+@372.9
+Hm, quite good.\nYou'll soon learn a new technique.\nPlease keep up your efforts.
+@373
+If you quit being a merchant, trade goods\nyou can't carry will be discarded.\nReally become a pirate?
+@374
+Right, I'll apply to be a pirate of {02}{0B}e.\nNo need to sneak around.\nLet's talk to that one over there.
+@374.1
+Right, I'll apply to be a pirate of {02}{0B}e.\nNo need to sneak around.\nLet's talk to that person over there.
+@375
+Who's there?!\nOutsiders don't come in here.
+@376
+{01}C{0E}{00} am called {02}{01}g.\nI wish to put my strength\nto use for {02}{0B}e.
+@377
+...You don't seem to be an intruder.\nBut I can't decide this alone...\n
+@378
+I can't steal techniques in this state...\nI must get my health back first.
+@378.1
+I can't steal techniques in this state...\nI must get my health back first.
+@379
+The {01}C>{00} who runs this fort\nis in {02}{15}e.\nGo there.
+@380
+The {01}C>{00} who runs this fort\nis away.\nWhile I keep watch, I can't hear such talk.
+@381
+What is it? What's all the noise?
+@381.1
+What is it? What's all the noise?
+@382
+Ah, {01}C1{00}!\nSomeone called {02}{03}e\nhas barged in...
+@383
+A pleasure to meet you.\nI am {02}{01}g.
+@383.1
+A pleasure to meet you.\nI am {02}{01}g.
+@384
+...So, {01}C1{00},\nwhat business brings you?
+@384.1
+...So, {01}C1{00},\nwhat business brings you?
+@385
+Oh, well, well, {01}C1{00}.\nBuilding a ship, is it?\nPick the kind of ship to build.
+@386
+You've received a mission for {02}yd?
+@386.1
+Ah, {01}C1{00}!\n{02}yd, is it?\nAnd how many today?
+@387
+You've come on a shipbuilding mission?\nBut isn't that mission about {02}{15}e?
+@388
+Damn,\nI came to the wrong place.\nI must hurry to {02}{15}e!
+@388.1
+Oh no!\nI seem to have come to the wrong place.\nI must hurry to {02}{15}e!
+@389
+Hm? You don't seem to have a shipbuilding\nmission... We're busy; if there's nothing, please go.
+@389.1
+Ah, {01}C1{00}!\nWe're hard at work as you can see.
+@390
+Ah, {01}C1{00}!\nWe're hard at work as you can see.
+@391
+Will you build {02}yd?
+@391.1
+Will you build {02}yd?
+@392
+Building {02}yd costs\nabout {02}o{C8}...\nYou don't have enough money.
+@392.1
+Building {02}yd costs\nabout {02}o{C8}...\nYou don't have enough money.
+@393
+Building {02}yd takes {02}od days.\nThere aren't enough days before the council.\nPlease give up this time.
+@394
+Building {02}yd takes {02}od days\nand costs {02}p{C8}.\nIs that all right?
+@394.1
+Building {02}yd takes {02}od days\nand costs {02}p{C8}.\nIs that all right?
+@395
+Hmm, not a single {02}yd was added.
+@395.1
+{02}od new {02}yd were added.
+@395.2
+Hmm, not a single {02}yd was added.
+@395.3
+{02}od new {02}yd were added.
+@396
+Hm, you're not with {02}{0B}e.\nYou can't go further in.\nLeave.
+@397
+No more {02}yd can be built.
+@399
+Hey, don't drag {01}C{0E}{00} into a battle!\nYou're fired from the escort job!\nEek... I shouldn't have asked someone like this.
+@401
+Sorry, but I owe {02}{0B}e no loyalty.\nThere's time left on the deal,\nbut I'm quitting as bodyguard here.
+@402
+Settings
+@403
+Menu Screen
+@404
+Card List
+@405
+Event CG
+@406
+Music Room
+@407
+Minigames
+@408
+New Officers
+@409
+Welcome to the world of Taiko Risshiden V!\nTo start a new game, choose [From the Beginning].\nThe other menu items become available once you\ncollect a certain number of "cards" in play.\n\n{1B}C1● From the Beginning{1B}C0\nStarts a new game. Collect a certain number\nof cards in play to unlock more scenarios.\nGetting "hero cards" unlocks more heroes.\n{1B}C1● Continue{1B}C0\nResumes a saved game.
+@410
+{1B}C1● Card List{1B}C0\nView the cards collected in play.\n{1B}C1● Event CG{1B}C0\nView the CG of events that occurred in play.\n{1B}C1● Music Room{1B}C0\nListen to the BGM.\n{1B}C1● Minigames{1B}C0\nPlay the minigames.\n{1B}C1● New Officers{1B}C0\nRegister new officers. They can appear\nin the game or be chosen as heroes.
+@411
+{1B}C1● Battle Guide{1B}C0\nView explanations of field battles and sieges.\n{1B}C1● Options{1B}C0\nSettings, screen adjustment, installing to\nthe "PlayStation BB Unit" and more.
+@412
+View the cards collected in play.\nTo add a card to the Card List, save the game\nafter getting it. If you quit without saving,\nit won't be added, so be careful.
+@413
+View the CG of events that occurred in play.\nTo add one to Event CG, save the game after\nthe event. If you quit without saving,\nit won't be added, so be careful.
+@414
+Listen to the BGM.\n⑩/⑪ change the page.\nChoose a track with ⑤ and play it with ①.\nEnjoy the profound sounds of the Sengoku era.
+@415
+Play the minigames.\nFirst choose the person who will play.\nThe minigame difficulty depends on that\nperson's abilities and skills.\nFor how to play each minigame,\nsee its help.
+@416
+New Officers
+@417
+Register new officers. They can appear\nin the game or be chosen as heroes.\nUp to 40 new officers can be registered.\n\n{1B}C1● Create{1B}C0\nCreate a new officer.\n{1B}C1● Edit{1B}C0\nChange a registered officer.\n{1B}C1● Delete{1B}C0\nDelete a registered officer.
+@418
+New Officers
+@419
+Check the new officer's information.\nChoose a menu on the left to change it.\nChoose [OK] to save the current information.\n{1B}C1● To change the face{1B}C0\nFirst choose a base face in [Face Base].\nThen change eyes, nose and other parts\nin [Face Parts] to finish the face.
+@420
+New Officers - Face Base
+@421
+Choose the face closest to your ideal.\nThen choose [Face Parts] and change eyes,\nnose and so on to finish the face.\nFor a female face, don't forget to set\n"Sex" in [Info] to "Female".
+@422
+New Officers - Face Parts
+@423
+Change parts to finish your ideal face.\nChoose a face close to your ideal\nin [Face Base] first.\nWhen the face is done, press ①.\n\n* More parts may become available\n  as you progress in the game.
+@424
+New Officers - Name
+@425
+Enter the new officer's name and reading.\nFamily and given names: up to 4 characters\neach; reading: up to 8. Then choose [OK].
+@426
+New Officers - Info
+@427
+Change the new officer's basic information.\n\n{1B}C1● Sex{1B}C0\nA woman can be proposed to and married.\n{1B}C1● Born, Lifespan, Cause of Death{1B}C0\nAffect when the officer appears and dies.\n{1B}C1● Father{1B}C0\nChosen from people 15+ years older.\n{1B}C1● Origin{1B}C0\nAffects ending conditions and more.\n{1B}C1● Base, Arms{1B}C0\nHome base and weapon at the start of the game.
+@428
+New Officers - Personality
+@429
+Change the new officer's personality.\n\n{1B}C1● Temper, Spirit, Principle, Action{1B}C0\nAffect strategy as a base lord, attitude\nas a negotiating partner and more.\n{1B}C1● Loyalty, Ambition{1B}C0\nAffect how readily they defect or rebel.\n{1B}C1● Tastes, Greed{1B}C0\nAffect how much gifts raise friendship.\n{1B}C1● Drinking{1B}C0\nAffects friendship from gifts of sake and\nhow easily you meet them at taverns.
+@430
+{1B}C1● Service{1B}C0\nThe kind of power they readily serve.\n{1B}C1● Wife Type{1B}C0\nOnly for a female officer.\nAffects conditions for marrying the hero.
+@431
+New Officers - Abilities
+@432
+Change the new officer's abilities and skills.\nChoose a "type" with ⑧/⑨ to change\nstats and skill levels.\nPress ④ to adjust the stats randomly.\nWhen done, press ①.
+@433
+New Officers - Biography
+@434
+Enter the new officer's biography.\nChoose [Edit] to open the input screen.\nUp to 11 characters × 12 lines.\nWhen done, choose [OK].
+@435
+New Officers - Edit
+@436
+Change a registered new officer.\nChoose the officer to change from the list.
+@437
+New Officers - Delete
+@438
+Delete a registered new officer.\nChoose the officer to delete from the list.

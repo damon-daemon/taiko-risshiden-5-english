@@ -1,0 +1,1998 @@
+@0
+Anyone of higher rank than the army commander\nwill be removed as a unit commander. Is that OK?
+@1
+March out with this army.\nIs that OK?
+@2
+{02}{01}g will march out\nas army commander.\nIs that OK?
+@3
+Meet the attack with this army.\nIs that OK?
+@4
+Call off the march?
+@5
+Form the army that will march out.
+@6
+Check the army that will march out.
+@7
+Choose the army commander.
+@8
+Choose unit commanders (up to 4).
+@9
+Set provisions (about {02}o{CB} per day).
+@10
+Set war funds.
+@11
+Set troop numbers.
+@12
+Set the number of horses.
+@13
+Set the number of guns.
+@14
+Set the number of cannons.
+@15
+Set sekibune (10 troops per ship).
+@16
+Set large ships (100 troops per ship).
+@17
+Set ironclads (100 troops per ship).
+@18
+No more armies can be\nentrusted to subordinates.
+@19
+There are no candidates for unit commander.
+@20
+Not enough troops to march out.\nForm at least 500.
+@21
+This time I ask you, {01}C1{00},\nto take command.
+@21.1
+{01}C1{00}, this time I entrust\nthe army to you. Don't fail me.
+@22
+As you wish.
+@22.1
+Very well, leave it to me.
+@22.2
+As you wish.
+@22.3
+Leave it to me.
+@22.4
+Yes, sir!
+@22.5
+I'll surely live up to your hopes.
+@22.6
+Await good news.
+@23
+{01}C1{00}, I'd like you\nto lead a unit as well.
+@23.1
+{01}C1{00},\nI give you a unit too.\nDo your very best!
+@23.2
+{01}C1{00},\nI give you a unit too.\nShow me what you can do!
+@24
+As you wish.
+@24.1
+Very well, leave it to me.
+@24.2
+As you wish.
+@24.3
+Yes! My arm is itching for it.
+@24.4
+Yes, sir!
+@24.5
+I'll surely live up to your hopes.
+@25
+There is no base you can ask for reinforcements.
+@26
+Request reinforcements?
+@27
+The base lord is out on campaign,\nso you can't request reinforcements.
+@28
+Not enough war funds\nto request reinforcements from {02}{15}e.
+@29
+There is no base you can attack.
+@30
+Choose the reinforcements' target.
+@31
+Make {02}{15}e the\nreinforcements' target?
+@32
+Request reinforcements\nto take {02}{15}e?
+@33
+Request relief for {02}{15}e?
+@34
+Enter the provisions to request\nin units of 1,000 koku.
+@35
+Ask {02}{15}e to send\n{02}o{CB} koku of provisions?
+@36
+Cancel the request for reinforcements?
+@37
+Choose the purpose of the reinforcements.
+@38
+Reinforcements requested from {02}{15}e.
+@39
+{02}{15}e is short of provisions,\nso you can't ask it to send provisions.
+@40
+How much will you pay as thanks?
+@41
+Pay {02}{0B}e {02}o{CB} kan as thanks. Is that OK?
+@42
+{02}{03}g of {02}{15}e\nhas agreed to send reinforcements!
+@43
+{02}{03}g of {02}{15}e\nsays no reinforcements will be sent.
+@44
+{02}{03}g of {02}{15}e\nis allied with {02}{0B}e,\nso no reinforcements will be sent.
+@45
+{02}{03}g of {02}{15}e\nis short of provisions,\nso no reinforcements will be sent.
+@46
+{02}{03}g of {02}{15}e\nsays sending the provisions you asked for\nwould leave them short,\nso no reinforcements will be sent.
+@47
+{02}{03}g of {02}{15}e\nis short of troops,\nso no reinforcements will be sent.
+@48
+Also, reinforcements are set\nto march from {02}{15}e.
+@48.1
+Also, reinforcements are set to march\nfrom {02}{15}e and {02}{16}e.
+@48.2
+Also, reinforcements are set to march\nfrom {02}{15}e, {02}{16}e\nand {02}{17}e.
+@48.3
+Also, reinforcements are set to march\nfrom {02}{15}e, {02}{16}e,\n{02}{17}e and {02}{18}e.
+@49
+{02}{02}g,\nthis is grave news!\n\nThe {02}{03}g army of {02}{0B}e\nhas attacked our base, {02}{15}e!
+@50
+Until you return, {02}{02}g,\n{02}{03}g will take\ncommand of the army!
+@51
+{02}{02}g,\nthe {02}{03}g army of {02}{0B}e\nhas attacked our {02}{15}e!
+@52
+The {02}{03}g army of {02}{0B}e\nhas attacked {02}{15}e\nof {02}{0C}e!
+@53
+{02}{02}g!\n{02}{03}g's army\nhas surrounded {02}{15}e!
+@53.1
+{02}{02}g!\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
+@54
+I see.\nLet's get outside for now.
+@54.1
+I see.\nLet's get outside for now.
+@55
+{02}{02}g,\nthis is grave news!\n\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
+@56
+What did you say!?\n\n\nThis is no time to dawdle.\nLet's hurry!
+@56.1
+What? Truly!?\n\n\nNo time to lose. We must hurry!!
+@57
+Also, {01}C7{00} says:\n"Given the emergency, no mission report\nis needed this time."
+@58
+Forgive me, but I must collect\nthe {02}3g you got on your mission.
+@59
+Forgive me, but I must collect\nthe funds given for your mission.
+@60
+What did you say!?\n\n\nPrepare for battle!\nGather everyone!
+@60.1
+What? Truly!?\n\n\nIt's war!!\nGather everyone!
+@61
+Yes, at once!
+@62
+{02}{15}e is in no state\nto fight!\n\nPlease escape outside for now.
+@63
+Is everyone here!?\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
+@63.1
+Hear me, all!\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
+@64
+{01}C8{00} is away right now,\nso {01}C{0E}{00} will lead the defence for now.
+@64.1
+{01}C8{00} is away right now,\nso {01}C{0E}{00} will lead the defence for now.
+@65
+{01}C1{00}!
+@66
+I entrust a unit to each of the above!
+@67
+{01}C{19}{00}, thank goodness you're safe...
+@67.1
+{01}C1{00}, good, you're back.
+@67.2
+{01}C{19}{00}, thank goodness you're safe...
+@68
+We must ready our forces at once!
+@68.1
+Right, ready our forces at once!
+@69
+{01}C1{00} isn't back yet...\nThen {01}C{0E}{00} will command in their place.
+@69.1
+{01}C1{00} isn't back yet...\nThen {01}C{0E}{00} will command in their place.
+@70
+Then, {01}C{19}{00}, I entrust you\nwith a unit too. We must hold at all costs!
+@70.1
+Then, {01}C{19}{00}, I entrust you\nwith a unit too. We must hold at all costs!
+@71
+We now begin the attack\non {02}{15}e!\n\nI'm counting on you all!
+@71.1
+We now begin the attack on {02}{15}e!\n\n\nI expect great things from you all!
+@72
+We now join the attack\non {02}{15}e!\n\nDon't fall behind, any of you!
+@72.1
+We now join the attack on {02}{15}e!\n\n\nLet none of you fall behind!
+@73
+Drive back the {02}{03}g army!\n\n\nWe can't give up {02}{15}e!
+@73.1
+Drive back the {02}{03}g army!\n\n\nWe'll never give up {02}{15}e!
+@74
+{02}{02}g,\n{02}{03}g's army\nhas arrived!
+@74.1
+{02}{02}g,\nthe {02}{03}g army of {02}{0B}e\nhas come to reinforce us!
+@75
+{02}{02}g!\nThe {02}{03}g army of {02}{0B}e\nhas joined the enemy as reinforcements!
+@76
+{01}C1{00},\nnow that our army has joined,\ndefeat won't be tolerated!
+@76.1
+{01}C1{00},\nlet's charge in at once!
+@76.2
+{01}C1{00},\nwe've come to reinforce you.\nWatch our army at work!
+@76.3
+{01}C1{00},\nplease watch our army at work.
+@77
+{01}C1{00}, we've brought provisions!
+@77.1
+{01}C1{00}, we've brought provisions!
+@78
+Oh! Well done for coming.\nYou've saved us.
+@78.1
+Oh! I'm grateful.\nYou've saved us.
+@79
+The provisions are delivered.\nOur army will now withdraw.
+@79.1
+The provisions are delivered.\nWith that, our army\nwill now withdraw.
+@80
+Enemy reinforcements arrived,\nbut they seem to have come to bring provisions.
+@81
+Enemy reinforcements,\nthe {02}{03}g army of {02}{0B}e,\nare closing in!
+@82
+No choice. Lift the siege for now\nand meet the enemy reinforcements!
+@83
+{02}{03}g's reinforcements\nhave arrived!
+@83.1
+Our reinforcements,\nthe {02}{03}g army of {02}{0B}e,\nhave arrived!
+@84
+Good, now the real fight begins!
+@85
+Reinforcements reached the defenders of {02}{15}n.\nThe battle moves to the field.
+@86
+{02}{03}g's army\nhas taken {02}{15}e!
+@87
+{02}{03}g's army\nhas failed to take {02}{15}e!
+@88
+The {02}{03}g army of {02}{0B}e\nhas withdrawn from our {02}{15}e!
+@89
+Our {02}{15}e has fallen\nto the {02}{03}g army\nof {02}{0B}e!
+@90
+The {02}{03}g army of {02}{0B}e\nhas pulled back from {02}{15}e\nof {02}{0C}e.
+@91
+The {02}{03}g army of {02}{0B}e\nhas taken {02}{15}e\nof {02}{0C}e.
+@92
+Talks succeeded; the enemy has withdrawn.
+@93
+{02}{15}e has held out.
+@94
+{02}{15}e has fallen to the enemy.
+@95
+Talks succeeded; we withdraw.
+@96
+{02}{15}e has been taken.
+@97
+The attack on {02}{15}e has failed.
+@98
+What!!\n{02}{15}e has fallen!?\n\nThe battle is off.\nThe army disbands here!!
+@98.1
+What!!\n{02}{15}e has fallen!?\n\nThe battle is off!\nThe army disbands here!!
+@99
+What!!\n{02}{15}e has fallen!?\n\nThe march is off; our army disbands here!
+@99.1
+What!!\n{02}{15}e has fallen!?\n\nThe march is off; our army disbands here!
+@100
+The {02}{01}g army of {02}{0B}e\nlost its home base and disbanded.
+@101
+Ugh...\nThe reinforcements came too late...\n\nNo choice. We go back!
+@101.1
+Hmph...\nThe reinforcements were too late...\n\nNo choice. We go back!
+@102
+Is this formation OK?
+@103
+Is that OK?
+@104
+The army commander has no troops.
+@105
+Some units have no troops.\nIs that OK?
+@106
+Some troops are still unassigned.\nIs that OK?
+@107
+There are no special skills you can use.
+@108
+Decide the formation.
+@109
+Check the formation.
+@110
+Set troop numbers for {02}{01}g's unit.
+@111
+Choose the troop type for {02}{01}g's unit.
+@112
+Special skills of {02}{01}g's unit.
+@113
+Well done, all of you!\nSpend your time as you like until the next council.\nDismissed!
+@113.1
+Well done, all of you!\nSpend your time as you like until the next council.\nDismissed!
+@113.2
+Well done, all of you!\nSpend your time as you like until you're next summoned.\nDismissed!
+@113.3
+Well done, all of you!\nSpend your time as you like until you're next summoned.\nDismissed!
+@113.4
+Well done, all of you!\nDismissed!
+@114
+This is no way to fight...\nLet's start over another time.
+@114.1
+Hmm, this is no way to fight...\nWe'll have to start over another time.
+@115
+The provisions have run out...\nWe'll have to start over another time.
+@115.1
+Hmm, the provisions have run out...\nWe'll have to start over another time.
+@116
+Hmm...\nTo go back to {02}{15}e\nwe can't avoid {02}{16}e...
+@116.1
+Hmm...\nTo go back to {02}{15}e\nthere's no way around {02}{16}e...
+@117
+Hmm...\nTo head for {02}{15}e\nthere's no way around {02}{16}e...
+@117.1
+Hmm...\nTo head for {02}{15}e\nthere's no way around {02}{16}e...
+@118
+Hmm...\nTo reach our goal\nthere's no way around {02}{15}e...
+@118.1
+Hmm...\nTo reach our goal\nthere's no way around {02}{15}e...
+@119
+We're in a ceasefire with {02}{0B}e.
+@120
+We have no particular reason\nto attack {02}{0B}e.
+@121
+No choice.\nLet's take it by force!
+@121.1
+Bah, no choice.\nWe'll take it by force!
+@122
+We give up the march and go back!
+@122.1
+Give up the march, then...\nWe go back!
+@123
+No choice...\nThe army disbands here!
+@123.1
+No choice...\nThe army disbands here!
+@125
+No talks are possible in this battle.
+@126
+Reinforcements can't hold talks.
+@127
+Talks are over for today.
+@128
+The proposal for talks was rejected.
+@130
+You can't request reinforcements in this battle.
+@131
+Reinforcements can't request reinforcements.
+@132
+Reinforcement requests are over for today.
+@133
+The proposal to request reinforcements was rejected.
+@134
+No base can be asked for reinforcements.
+@136
+You can't retreat from this battle.
+@137
+There is no base to retreat to.
+@138
+The proposal to retreat was rejected.
+@139
+Request reinforcements...?
+@140
+I believe we should call for reinforcements.
+@141
+Let's call for reinforcements.
+@141.1
+Right, we'll call for reinforcements.
+@142
+No, we needn't call for reinforcements.\nWe'll take it as we are.
+@142.1
+No, no need for reinforcements.\nI'll take it as we are!
+@143
+No, we needn't call for reinforcements.\nWe'll hold out as we are.
+@143.1
+No, no need for reinforcements.\nI'll hold out as we are!
+@144
+There is no base\nto retreat to.
+@145
+Retreat.\nIs that OK?
+@146
+All forces, retreat!
+@146.1
+All forces, retreat!
+@147
+Our army will retreat first!
+@147.1
+Our army will retreat first!
+@148
+Advise a retreat?
+@149
+The battle is going badly\nand few troops are left.\nI believe we should retreat.
+@150
+The battle is going badly.\nI believe we should retreat.
+@151
+I believe we should retreat.
+@152
+It can't be helped.\nLet's retreat.
+@152.1
+It can't be helped.\nWe'll retreat.
+@153
+Time to pull back...\n\n\nAll forces, retreat!
+@153.1
+Time to pull back...\n\n\nAll forces, retreat!
+@154
+Time to pull back...\n\n\nOur army will retreat first!
+@154.1
+Time to pull back...\n\n\nOur army will retreat first!
+@155
+It's not yet time to retreat.\n\n\nKeep up the attack!
+@155.1
+It's not yet time to retreat.\n\n\nKeep up the attack!
+@156
+It's not yet time to retreat.\n\n\nFight to the bitter end!
+@156.1
+It's not yet time to retreat.\n\n\nWe fight to the bitter end!
+@157
+Change which units are delegated?
+@158
+Delegate\n{02}yd. Is that OK?
+@159
+Stop delegating\n{02}yd. Is that OK?
+@160
+All units will be delegated. Is that OK?
+@161
+Even if we keep up the siege,\nwe can't hold {02}{15}n...\n\nNo help for it. We retreat!
+@161.1
+Even if we keep up the siege,\nwe can't hold {02}{15}n...\n\nNo help for it. Retreat!
+@162
+With our troops this depleted,\nwe'd better start over...\n\nNo help for it. We retreat!
+@162.1
+With our troops this depleted,\nwe'd better start over...\n\nNo help for it. Retreat!
+@163
+Rather than go on like this,\nwe'd better start over...\n\nNo help for it. We retreat!
+@163.1
+Rather than go on like this,\nwe'd better start over...\n\nNo help for it. Retreat!
+@164
+With our troops this depleted,\nwe can't fight on...\n\n{01}C1{00},\nour army will retreat first!
+@164.1
+With our troops this depleted,\nwe can't fight on...\n\n{01}C1{00},\nour army will retreat first!
+@164.2
+With our troops this depleted,\nwe can't fight on...\n\n{01}C1{00},\nour army will retreat first!
+@165
+We can't fight on...\n\n\n{01}C1{00},\nour army will retreat first!
+@165.1
+We can't fight on...\n\n\n{01}C1{00},\nour army will retreat first!
+@165.2
+We can't fight on...\n\n\n{01}C1{00},\nour army will retreat first!
+@166
+It can't be helped! We retreat!\nDon't let the enemy notice!
+@166.1
+It can't be helped! Retreat!\nDon't let the enemy notice!
+@167
+The enemy is pulling back...\nHas something happened that forces them to withdraw?
+@167.1
+Hm, the enemy is pulling back...\nHas something happened that forces them to withdraw?
+@168
+It's said {02}{0B}e and {02}{0C}e\nhave formed an alliance.
+@169
+It's said the alliance between\n{02}{0B}e and {02}{0C}e has been broken.
+@170
+Then we can't go on\nwith this battle...\nEveryone, withdraw.
+@170.1
+Then we can't go on\nwith this battle...\nEveryone, withdraw!
+@171
+Put the cursor on a gate to see its info.
+@172
+{02}{01}g has mastered {02}yd.
+@173
+{02}yd has fallen.
+@174
+Unit {02}o{CC} of {02}{01}g's army has been wiped out.
+@175
+The provisions have run out...
+@176
+{02}yd has fallen!
+@177
+{02}yd has fallen!
+@177.1
+{02}yd has fallen!
+@178
+{02}yd has been breached...
+@179
+Good!\nMove on to attack {02}yd!!
+@180
+Hurry, shore up the defence of {02}yd!
+@181
+Ugh...\nWithout provisions, there's nothing to be done...
+@181.1
+To be beaten in a place like this...\nIf only we'd had more provisions...
+@182
+Curses...\nIf only the provisions hadn't run out...
+@183
+Ugh...\nIs this the end of our army...
+@183.1
+It can't be...\nOur army, beaten...
+@183.2
+To be beaten in a place like this...
+@184
+Curses...
+@184.1
+Is this the end of my unit...
+@184.2
+D-damn it...
+@185
+{02}{7B}d of {02}yd{02}zd\nhas been wiped out.
+@186
+Hold a war council?
+@187
+A war council will be held once all units have acted.
+@188
+The war council was cancelled.
+@189
+Choose a command.
+@190
+Choose a unit, then where to move it.
+@191
+Not enough room to deploy at {02}yd.
+@192
+Can't deploy at {02}yd.
+@193
+Now hurry to your posts.\nI expect great results!
+@193.1
+Now hurry to your posts.\nI expect great results!
+@194
+The fighting goes on and the troops\nare growing tired.\n\nPerhaps we should go back\nto {02}{15}n for now...
+@194.1
+The fighting goes on and the troops\nseem to be growing tired.\n\nPerhaps we should go back\nto {02}{15}n for now...
+@195
+{02}{02}g,\nit would be a shame to kill\na talent like {01}C{19}{00} here.\nWill you serve our house?
+@195.1
+{02}{02}g,\nit would be a shame to kill\na talent like {01}C{19}{00} here.\nWhat say you? Will you serve our house?
+@196
+Serve {02}{0B}e?
+@197
+I'm most grateful.
+@198
+A kind offer, but I must decline.
+@198.1
+A kind offer, but I must decline.
+@199
+So you won't serve {01}C{0E}{00}?\nThen I trust you're ready to commit seppuku.
+@199.1
+So you say you won't serve {01}C{0E}{00}?\nThen I trust you're ready to commit seppuku.
+@200
+This is your last chance.\nWill you truly not serve our house?
+@200.1
+This is your last chance.\nWill you truly not serve our house?
+@201
+W-wait, I've changed my mind!\nI'm most grateful.
+@201.1
+W-wait, I've changed my mind!\nI'm most grateful.
+@202
+A kind offer, but\n{01}C{0E}{00} will not serve\ntwo masters.
+@202.1
+A kind offer, but\n{01}C{0E}{00} will not serve two masters.
+@203
+So you will not serve our house...\n\n\nOff with this one's head!
+@203.1
+So you will not serve our house...\n\n\nOff with this one's head!
+@204
+I have a message from the old lord:\n\n\n"Those without a castle have no place\n at the grand council. Come back at once."
+@205
+Make {02}{15}e the new base.
+@206
+{02}{02}g, our {02}{15}e\nis now the head of house's new base.
+@207
+I have a message from the old lord:\n\n\n"You are relieved as {02}yd;\n from now on serve as {02}zd."
+@207.1
+I have a message from the boss:\n\n\n"You are relieved as {02}yd;\n from now on serve as {02}zd."
+@207.2
+I have a message from the chief:\n\n\n"You are relieved as {02}yd;\n from now on serve as {02}zd."
+@208
+{02}{0B}e can now\nbuild ironclads.
+@209
+{02}{0B}e cannot\ntake {02}{15}e.
+@210
+{02}{15}e will go to {02}{0B}e,\nthe daimyo house we support.
+@211
+What shall we do now?
+@211.1
+What shall we do now?
+@211.2
+What shall we do now?
+@212
+Then let's return to base and rest the troops.
+@212.1
+Then it's best we return to base and rest the troops.
+@212.2
+Then let's return to base and rest the troops.
+@213
+Then please choose a target.
+@213.1
+Then, what shall we target?
+@213.2
+Then please choose a target.
+@214
+Is {02}{15}e OK?
+@215
+We have no just cause\nto attack {02}{0B}e.\nTarget {02}{15}e anyway?
+@215.1
+We have no just cause\nto attack {02}{0B}e...\nYou'd still target {02}{15}e?
+@215.2
+We have no just cause\nto attack {02}{0B}e.\nTarget {02}{15}e anyway?
+@216
+We're in a ceasefire\nwith {02}{0B}e.\nTarget {02}{15}e anyway?
+@216.1
+We're in a ceasefire\nwith {02}{0B}e...\nYou'd still target {02}{15}e?
+@216.2
+We're in a ceasefire\nwith {02}{0B}e.\nTarget {02}{15}e anyway?
+@217
+If we take {02}{15}e,\nit will go to {02}{0B}e.\nTarget {02}{15}e anyway?
+@217.1
+If we take {02}{15}e,\nit will go to {02}{0B}e...\nYou'd still target {02}{15}e?
+@217.2
+If we take {02}{15}e,\nit will go to {02}{0B}e.\nTarget {02}{15}e anyway?
+@218
+Even if we take {02}{15}e,\nit won't belong to our {02}{0B}e.\nTarget {02}{15}e anyway?
+@218.1
+Even if we take {02}{15}e,\nit won't belong to our {02}{0B}e...\nYou'd still target {02}{15}e?
+@218.2
+Even if we take {02}{15}e,\nit won't belong to our {02}{0B}e.\nTarget {02}{15}e anyway?
+@219
+Thank you for your efforts, all.\nI expect even more of you from now on.
+@219.1
+Thank you for your efforts, all.\nI expect even more of you from now on.
+@219.2
+Thank you for your efforts, all.\nRest and recover your spirits a while.
+@219.3
+Thank you for your efforts, all.\nRest a while and prepare for the next.
+@220
+Top honours... are they mine?
+@220.1
+Top honours... are they mine?
+@221
+As expected of {01}C1{00}.\nA splendid command.\nI'm deeply impressed.
+@221.1
+As expected of {01}C1{00}.\nA splendid command.\nI'm deeply impressed!
+@221.2
+Top honours this time go to {01}C1{00}.\nI expect great things in the next battle too.
+@221.3
+{01}C1{00}, your work was truly splendid!\nKeep it up.
+@221.4
+Top honours this time go to {01}C1{00}.\nI expect great things in the next battle too.
+@222
+And {01}C1{00},\na splendid command.\nI'm deeply impressed.
+@222.1
+And {01}C1{00},\na splendid command.\nI'm deeply impressed!
+@222.2
+And {01}C1{00} also earns top honours.\nI expect great things in the next battle too.
+@222.3
+And {01}C1{00}, your work was truly splendid!\nKeep it up.
+@222.4
+And {01}C1{00} also earns top honours.\nI expect great things in the next battle too.
+@223
+Leave it to me.\nI won't let you down.
+@223.1
+Ha, leave it to me.\nI won't let you down!
+@223.2
+Yes, sir!\nI'm most grateful!
+@223.3
+As you wish.
+@223.4
+Yes, sir!\nI'll surely live up to your hopes!
+@223.5
+Yes, sir!\nI'm most grateful!
+@224
+Second honours... are they mine?
+@224.1
+Second honours... are they mine?
+@225
+Second honours go to {01}C1{00}.\nI'm counting on you next battle too.
+@225.1
+Second honours go to {01}C1{00}.\nI'm counting on you next battle too!
+@225.2
+Second honours go to {01}C1{00}.\nDon't rest there; strive even harder.
+@225.3
+Second honours go to {01}C1{00}.\nDon't rest there; strive even harder!
+@225.4
+{01}C1{00} earns second honours.\nKeep it up in the next battle.
+@226
+And second honours go to {01}C1{00}.\nI'm counting on you next battle too.
+@226.1
+And second honours go to {01}C1{00}.\nI'm counting on you next battle too!
+@226.2
+And {01}C1{00} also earns second honours.\nDon't rest there; strive even harder.
+@226.3
+And {01}C1{00} also earns second honours.\nDon't rest there; strive even harder!
+@226.4
+And {01}C1{00} also earns second honours.\nKeep it up in the next battle.
+@227
+Leave it to me.\nNext battle I'll take top honours.
+@227.1
+Ha, leave it to me.\nNext battle I'll take top honours!
+@227.2
+Yes, sir!\nI'll strive harder.
+@227.3
+As you wish.
+@227.4
+Yes, sir!\nNext time I'll take top honours!
+@227.5
+Yes, sir!\nI'll strive harder.
+@228
+To lose top honours\nto {01}C1{00}...\nI must strive harder...
+@228.1
+As you wish.
+@228.2
+Yes, sir!\nNext time I'll take top honours!
+@228.3
+Yes, sir!\nI'll strive harder.
+@229
+Third honours... are they mine?
+@229.1
+Third honours... are they mine?
+@230
+Third honours go to {01}C1{00}.
+@230.1
+Third honours go to {01}C1{00}.
+@230.2
+Third honours go to {01}C1{00}.
+@231
+And third honours go to {01}C1{00}.
+@231.1
+And third honours go to {01}C1{00}.
+@231.2
+And third honours go to {01}C1{00}.
+@232
+It seems I didn't do enough.\nNext battle I'll take top honours.
+@232.1
+It seems I didn't do enough.\nNext battle I'll take top honours!
+@232.2
+I didn't do enough, did I...
+@232.3
+I didn't do enough...\nNext time I'll take top honours!
+@232.4
+Hmm, I didn't do enough...
+@232.5
+I still have far to go...
+@233
+To be outdone\nby the likes of {01}C1{00}...\nI'll strive harder.
+@233.1
+I didn't do enough...\nNext time I'll take top honours!
+@233.2
+Hmm, I didn't do enough...
+@233.3
+I still have far to go...
+@234
+Well done, all of you.
+@235.*
+
+@237.*
+
+@238.*
+
+@239.*
+
+@240.*
+
+@242.*
+
+@243.*
+
+@244.*
+
+@245.*
+
+@247.*
+
+@248.*
+
+@249.*
+
+@250.*
+
+@252.*
+
+@253.*
+
+@254.*
+
+@255.*
+
+@256
+We captured {02}o{CB} enemy officers.\nDecide their fate.
+@257
+The rest will be released.\nIs that OK?
+@258
+To be seen in such a state...\nAs a mercy to a warrior,\nlet me take my own life.
+@258.1
+To be seen in such a state...\nAs a mercy to a warrior,\nlet me take my own life.
+@258.2
+To be bound with rope...\nWhat humiliation.\nLet me take my own life.
+@258.3
+To be bound with rope...\nWhat humiliation.\nLet me take my own life.
+@258.4
+I won't live on in shame.\nLet me take my own life.
+@258.5
+I never thought it would come to this...\nSo be it. Let me take my own life.
+@259
+There's no need to rush to your death.\nWon't you serve me?
+@259.1
+Wait, wait, don't rush to your death...\nWhat do you say? Will you serve me?
+@259.2
+There's no need to rush to your death.\nWon't you serve me?
+@260
+What are you saying? Victory and defeat\nare a soldier's lot. Luck simply favoured me.\nMore to the point... won't you work under me?
+@260.1
+Winning and losing are fortune's whim.\nDefeat is no shame.\nWon't you work under me?
+@261
+There's no need to rush to your death.\nWon't you serve me?
+@261.1
+Wait, wait, don't rush to your death...\nWhat do you say? Will you serve me?
+@262
+What!\nYou wish to take me\ninto your service?
+@262.1
+What!\nYou want me as your retainer?
+@263
+(Now, how shall I persuade them...)
+@263.1
+(Now, how shall I persuade them...)
+@264
+The lives of your whole clan\nrest on you.\nI mean you no ill. Serve me.
+@264.1
+The lives of your whole clan\nrest on you, you know.\nI mean you no ill. Serve me.
+@265
+Your work was splendid,\nfoe though you were!\n\nWon't you use that strength for me?\nI'll be sure to give you high office.
+@265.1
+Your work was splendid, foe though you were!\nWon't you use that strength for me?\nI'll be sure to give you high office.
+@266
+I need you.\nWon't you lend me your strength?
+@266.1
+I need you.\nWill you lend me your strength?\nPlease, I ask you.
+@266.2
+It would be a waste to bury your talent.\nWill you serve me?\nPlease, I ask you.
+@268
+Such generous words for the likes of me...\nFrom today I shall call you my lord.
+@268.1
+Understood.\nFrom today I place myself in your hands, my lord.
+@268.2
+Such generous words for the likes of me...\nFrom today I shall call you my lord.
+@269
+Such generous words for the likes of me...\nFrom today I shall serve\nLord {02}{02}f.
+@269.1
+Understood. From today I place myself\nin Lord {02}{02}f's hands.
+@269.2
+Such generous words for the likes of me...\nFrom today I shall serve\nLord {02}{02}f.
+@270
+I'm counting on you.
+@270.1
+Good, I'm counting on you.
+@271
+Regrettably,\nI have no wish to enter service.
+@271.1
+Regrettably,\nI have no wish to enter service.
+@272
+Your mind is made up...\nThen it can't be helped.
+@272.1
+Your mind is made up...\nThen it can't be helped.
+@273
+(Now, what shall I do...)
+@273.1
+(Now, what shall I do...)
+@274
+Somehow I can't bring myself to cut you down.\nFor now, I'll leave your life in your keeping.
+@274.1
+The world would be lonelier\nwithout people like you.\nI'll give you some time to think.
+@274.2
+Somehow I can't bring myself to cut you down.\nFor now, I'll leave your life in your keeping.
+@275
+What are you saying?\nWill dying make anything bloom!?\nCool your head a while!!
+@275.1
+What are you saying?\nWill dying make anything bloom!?\nCool your head a while!!
+@276
+There's no need to rush to your death.\nI'll give you time to think of your future.
+@276.1
+Don't be hasty.\nI won't kill you.\nGo wherever you please.
+@277
+...Very well.\nI permit you seppuku.
+@277.1
+...Very well.\nI permit you seppuku.
+@278
+I thank you.
+@278.1
+I need no second.
+@278.2
+I thank you.
+@278.3
+Then, farewell.
+@279
+Like dew I fell, like dew I vanish;\neven Naniwa's glories are a dream within a dream...
+@280
+So this is my retribution...
+@281
+Once more, I wish I could kick the ball...\nWas I born\ninto the wrong age...
+@282
+If only I had gunpowder,\nmy head would not be put on display...
+@283
+Fifty years of man's life,\nset against the world below heaven,\nare but a dream, an illusion...
+@284
+Matsu... I'm sorry...\nForgive me...
+@285
+No words left behind, I go at last;\nI shall not lose my way, but let it be as it will...
+@286
+Loyal or traitor, no two gates...\nThe Way runs to the heart's source...\n{02}t{CC} years' dream ends; I return to the One.
+@287
+So the five generations of Asakura end here...
+@288
+{02}t{CC} years, one sleeper's dream... a life's glory, one cup of sake.\nKnowing not life, knowing not death,\nthe years were as a dream...
+@289
+Watch closely how a man\nof Satsuma dies!!
+@290
+Life is like climbing a slope\nwith a heavy load on your back...\nWas my load too heavy...
+@291
+Does the great house of Takeda\nend with me...
+@292
+If only I could command\nas I pleased once more...
+@293
+If I may ask it,\nsink my bones in Lake Suwa.
+@294
+So I misread the tide of the times...
+@295
+This too is the work of Heaven's way...
+@296
+Lord,\nI come to Thee...
+@297
+With the clear moon of my heart before me,\nI go lighting the darkness of this floating world...
+@298
+As promised, I will commit seppuku.\nSpare the lives of my troops...
+@299
+I don't go back on my word.\nI'll surely spare them.
+@299.1
+I don't go back on my word.\nI'll surely spare them.
+@300
+{02}{03}g has committed seppuku.
+@301
+Routed soldiers seem to be looting the castle town.
+@302
+There seems to be a disturbance in the castle town.
+@303
+The castle's troops set fire\nto the castle town as they retreated.
+@304
+Order in {02}{15}e has fallen.
+@305
+What will you do now?
+@306
+Then I'll head back.
+@307
+Then please choose the battle target.
+@308
+This time {01}C{0E}{00} will explain\nsiege battles.\n\nIt will take a little while.\nWill you hear about siege battles?
+@309
+Yes, please do.
+@310
+Then let the siege lesson begin.
+@311
+W-wait, I just remembered something urgent!\nI'll hear the explanation another time.
+@312
+Is that so?\nThen come again when you have time.
+@313
+Then first,\nlet me explain the screen at the start of a siege.
+@314
+The current day is shown here.
+@315
+Next, the weather is shown here.\nIn rain or snow, gun units,
+@316
+cannon units
+@317
+and mounted gun units
+@318
+can't shoot or bombard.\nDuring a siege, make a habit\nof checking the weather.\nHowever,\nthis doesn't apply to the defenders.
+@319
+What?\nSo in rain or snow, we attackers\ncan't attack, but the defenders\ncan attack us all they like?
+@320
+Only shooting and bombarding are lost;\nyou can still break gates and use skills.\n\nStill, gun and cannon units certainly\ncan't show their true worth.
+@321
+I see.\n\n\nWhen besieging with gun or cannon units,\nbetter to avoid the rainy seasons,\nis that it?
+@322
+Next, strength is shown here.\nThis is the hero's strength,\nthat is, {01}C1{00}'s.
+@323
+Hm? As the days pass,\nstrength goes down... So I could\nfall ill in the middle of a siege?
+@324
+Exactly.\nIf it looks to be a long fight,\ntake medicine with you when you march.
+@325
+I see, that's very clear!
+@326
+Next, how many days the current\nprovisions will last is shown here.
+@327
+So I can tell how long the provisions\nwill last... And if the provisions\nrun out, what then?
+@328
+The troops will have nothing to eat,\nof course, so morale\nwill likely drop sharply.
+@329
+I see. So when provisions run low,\nit's better to retreat...
+@330
+Retreating is one option,\nbut you can also have\nreinforcements bring provisions.
+@331
+What! Have reinforcements\nbring provisions? Can that be done?
+@332
+It can.\n\n\nHowever,\nI'll explain reinforcements in detail\nlater, so for now just remember\nthat they can bring provisions.
+@333
+Right.\nIf you tell me everything at once,\nI won't remember it all.
+@334
+The place currently shown\nis displayed here.
+@335
+The family crest and total troops\nare shown here.
+@336
+Here the current state of battle\nand a list of the gates are shown.\n\nIn the battle bar, blue is our side\nand red is the enemy's.\n\nRight now... we seem to be losing.\nWiping out enemy units and breaking gates\nwill turn the battle in our favour.
+@337
+You can also switch the place shown\nwith the ⑧ and ⑨ buttons.\nLet me press the ⑨ button.
+@338
+Oh!\nThe view switched to the main gate!
+@339
+The next gate to the right is shown.\nNow I'll keep switching\nuntil the keep is shown.
+@340
+Oh!?\nEnemy units are deployed there.
+@341
+When a siege starts, all attacking units\nare deployed at "Siege" and all\ndefending units at "Keep".\nTo see a unit's info,\npress the ④ button.\nThat gives you a free cursor;\nput it on the unit you want\nto see its info.
+@342
+Oh, I can see the enemy's info!\nHow handy.
+@343
+This unit belongs to the defending\narmy commander. As in field battles,\ndefeating the commander's unit wins.
+@344
+So to take a base, I must defeat\nthe defending army commander's unit...
+@345
+No,\nthat isn't the only way to take a base.
+@346
+Oh?\nWhat other means are there?
+@347
+First, let me explain\nthe durability of gates.
+@348
+This shows a gate's durability.\nAttacks lower its durability, and\nwhen it hits 0, the gate breaks.
+@349
+And when the keep's durability\nreaches 0, our army wins.
+@350
+I see!\nDefeat the defending commander, or\ntake the keep: two ways to take a base.
+@351
+No, those two aren't all.
+@352
+What? There's more?
+@353
+You can also end a siege\nthrough talks.
+@354
+I see... Use talks\nto make them surrender.
+@355
+Yes, exactly.\n\n\nBut talks aren't only for making\nthe enemy surrender...
+@356
+All right, all right.\nThis looks like it'll take a while; enough.\n\nSo there are three ways\nto take a castle: defeat the commander,\ntake the keep, or talks. Right?
+@357
+Yes, that's right.\nI'll explain talks properly\nlater on.
+@358
+(This explanation doesn't look\nlike it'll end any time soon...)
+@359
+Well, that covers the information\non the screen.\nNext I'll explain the commands.
+@360
+Let me start with the\n[Army Orders] command.\nFirst, select it.
+@361
+So there are the [Talks],\n[Request Aid] and [Retreat]\nwe talked about earlier.
+@362
+First, the top one, [Talks].
+@363
+You can offer talks to the\ndefending army commander.\n\nLet me actually press [Talks].
+@364
+The attacker sets\nthe terms to demand.\nLet me press [Set Terms].
+@365
+Terms the attacker can set:\n[Commander Seppuku], [Surrender],\n[Leave Castle], [Vassalage],\n[End Alliance], [Provisions], [Horses],\n[Guns], [Guns], [Cannons], [Valuables]\nand [Ceasefire].
+@366
+Hm?\nThere's no [Vassalage] or [End Alliance].
+@367
+I'll explain them in order,\nso please wait a moment.
+@368
+R-right.\nSorry.
+@369
+First, [Commander Seppuku].
+@370
+With [Commander Seppuku] the defending\ncommander commits seppuku and gives up\nthe castle; the other officers and troops are spared.\nThey'll hardly accept so heavy a demand\nunless the battle is overwhelmingly yours...
+@371
+Next, [Surrender].
+@372
+With [Surrender], the defenders give up\nthe castle and surrender to us.\n\nThey won't accept this either unless\nthe battle is going well for us.
+@373
+When they surrender, do you mean\nthey become my retainers?
+@374
+Just so... If you take a base\nwithout talks, they may flee\nor turn down your offer...\nIf you want few losses and more retainers,\nmaking them surrender is best...\nthough some will hardly agree.
+@375
+I see!\nThat's very clear.
+@376
+Next, [Leave Castle].
+@377
+With [Leave Castle], the defenders give\nup the castle and their officers and\ntroops are spared.\n\nThe better the battle goes for us,\nthe likelier they are to accept.
+@378
+Next, [Vassalage].
+@379
+[Vassalage] can only be demanded if\nthe defending commander heads their power;\nit makes their power subject to ours.\nThe better the battle goes for us,\nthe likelier they are to accept.
+@380
+So by attacking a base where the head is,\nI can make their whole power subject at once!\nThat could be useful.
+@381
+No, it's not that simple.\n\n\nHowever well the battle goes there,\nif their power is bigger than ours,\nbest assume this demand won't pass...
+@382
+What! Even when the battle favours us,\nthey may refuse to submit...\nIt's tricky to use.
+@383
+But if theirs is a small power,\nthey may readily accept our demand...\nThink about when to use it.
+@384
+Understood.\nI'll take it to heart.
+@385
+Next, [End Alliance].
+@386
+[End Alliance] can also only be demanded\nif the defending commander heads\ntheir power...\nIt demands they end an alliance\nthey have with another power.\nUsed well, it could be interesting.
+@387
+Like [Vassalage], this seems\nto depend on the size of our power\nand theirs.
+@388
+Just so.\nI think it succeeds more easily\nthan [Vassalage]...\nbut if their power is bigger than ours,\nbest assume this demand\nwill be hard to pass.
+@389
+This one also looks\ntricky to use.
+@390
+Next, [War Funds],
+@391
+[Provisions],
+@392
+[Horses],
+@393
+[Guns],
+@394
+[Cannons]
+@395
+and [Valuables]:
+@396
+let me explain them.
+@397
+You can demand [War Funds], [Provisions],\n[Horses], [Guns], [Cannons]\nand [Valuables] from them.\nThe more the battle favours us,\nthe more they'll accept\neven bigger demands.
+@398
+Hmm... But after going to the trouble\nof attacking, just taking money and goods\nand leaving isn't much of a gain, is it?
+@399
+True, one can see it that way...\nBut these goods can be demanded together\nwith [Vassalage] or [End Alliance].
+@400
+I see! So I can demand [Vassalage]\nand also 10,000 kan of [War Funds]\nand 10,000 koku of [Provisions]?
+@401
+Exactly.
+@402
+Next, [Ceasefire].
+@403
+[Ceasefire] is an agreement that\nneither side attacks the other for a set time.\n\nYou can demand a ceasefire\nof up to 5 years (60 months).\n\nThis proposal can also be made\ntogether with any other demand.
+@404
+But we're the ones attacking,\nso why would we need a ceasefire?
+@405
+Well...\n\n\nSuppose that now, while we're out at Miki\nCastle, your castle, Imahama Castle,\nwere attacked by another daimyo. What then?
+@406
+Hmm! That would be grave.\nI'd have to rush back and retake it!
+@407
+But if we retreat just like that,\nthe Akamatsu house that rules Miki Castle\nmay attack us in turn.
+@408
+I see! In that case, even if I can't\ntake the castle, a ceasefire makes peace\nso I can go to the rescue without worry!
+@409
+Exactly.\nAlso, this time we're the attackers,\nbut we may also end up defending.\nWhen defending, if you hit an enemy\nwho keeps attacking hard, then sign a\n[Ceasefire], they'll stop coming for a while...\n[Ceasefire] has that use\nas well.\nBy the way, when you're defending,\nyou choose terms to offer\ninstead of terms to demand.
+@410
+Terms to offer?
+@411
+The terms to offer are [Commander Seppuku],\n[Surrender], [Leave Castle], [Vassalage],\n[War Funds], [Provisions], [Horses],\n[Guns], [Cannons], [Valuables]\nand [Ceasefire].
+@412
+Offering [Commander Seppuku] means...\n\n\nI propose to the attacker that I cut\nmy belly and give up the castle\nif they spare my officers and troops...
+@413
+Exactly.\nYou must keep striving every day\nso it never comes to that.
+@414
+Yes, quite so.
+@415
+Next, let me explain\n[Request Aid].
+@416
+For now, let me press\nthe [Request Aid] button.
+@417
+Press it, and only the bases you can ask\nfor reinforcements are shown on the map.\n\nYou can only ask your own power\nand powers allied with you\n(including rule and vassalage).
+@418
+I see.\nIt seems our Oda house can ask the Tsutsui,\nthe Tokugawa and the Koga ninja band.
+@419
+Yes... But mind this: you can request\nat most 3 armies of reinforcements...\nand only 1 army\nfrom any one power.
+@420
+At most 3 armies,\nand 1 army per power?\nThat's rather confusing...
+@421
+For example, right now you could ask\n1 army from the Oda, 1 from the Tsutsui\nand 1 from the Koga ninja, for 3 at most.
+@422
+Hmm, even asking for reinforcements\nis quite complicated.
+@423
+For now, let's choose\nwho to ask for reinforcements.
+@424
+Very well.\nThen I'll ask Lord Niwa Nagahide\nof Sawayama Castle for reinforcements.
+@425
+Oh?\nThere are two commands,\n[Join Battle] and [Send Provisions].\nEarlier, when you explained provisions,\nyou said reinforcements could bring them.\nSo this is what you meant.
+@426
+Just so.\n\n\nWith [Join Battle], they lead an army\nand join the attack; with [Send Provisions]\nthey bring extra provisions.\nWhen our army is defending,\n[Rout Enemy], [Send Provisions] and\n[Attack Base] can be chosen.
+@427
+[Rout Enemy] asks them to attack\nthe army besieging my base.\n\n[Send Provisions] asks them to bring\nprovisions when we run short in a siege...\nAnd what's the other one, [Attack Base]?
+@428
+[Attack Base] has them attack the base\nthe attacking army marched from, as a feint,\nforcing the attackers to retreat indirectly.
+@429
+I see!\nIf the base they left thinly guarded\nis attacked, they'll have to retreat.
+@430
+Exactly.\n\n\nRight now our provisions are plentiful,\nso I think choosing [Join Battle]\nwould be best.
+@431
+Very well.
+@432
+Can I [Request Aid] several times in a row?
+@433
+I forgot to say:\n[Talks] and [Request Aid]\ncan only be done once a day.\nDoing them too often would set\na poor example for the troops...\nYou can't repeat them, so take care.
+@434
+Right, understood.
+@435
+Next, let me explain [Retreat].
+@436
+Pressing the [Retreat] button\nlets you retreat.
+@437
+Hm?\nIs that all there is to it?
+@438
+That's all.\n\n\nWell, if I may add one thing:\nif you retreat with the [Retreat] button,\nthe army returns to its base intact.
+@439
+And if I don't press [Retreat] but\nam forced to retreat by the enemy,\nwhat happens?
+@440
+Then the army is disbanded\nand {01}C1{00} returns alone.
+@441
+I see...\nI'll make sure that doesn't happen.
+@442
+Next, let me explain [Deploy].
+@443
+Now, let me press\nthe [Deploy] button.
+@444
+Oh,\na list has appeared.
+@445
+Now let me move Lord Fukushima's unit\nfrom Siege to the main gate.
+@446
+I see.\nSo now it's moved in front of the main gate.
+@447
+Just so... And to move all units\nto one place at once,\nthe [All Units] button is handy.
+@448
+Oh!\nHow handy.
+@449
+But take note: each gate holds\nup to 20 units,\nexcept the [Rear Gate], which holds 5.\nAlso, only some troop types can go there.
+@450
+20 units...!? That's a lot!\nThough I suppose calling all the reinforcements\nyou can would get you that many.\nBut [Siege] and the [Rear Gate] look\nconnected; why can't I deploy there?
+@451
+The [Rear Gate] is the back of the castle...\na special gate only certain troop\ntypes can attack.\nAt mountain castles, plains castles and\nninja villages, only ninja units\ncan attack the [Rear Gate].\nAt sea castles and pirate forts, only\nship units such as sekibune\nand large ships can attack it.\nWhether a castle is mountain, plains or sea\nis shown in the base info\nunder its location.
+@452
+I see.\nSo when attacking mountain or plains\ncastles or ninja villages, I call ninja\nas reinforcements, and for sea castles\nand pirate forts I call pirates,\nand the battle goes my way?
+@453
+Exactly.\n\n\nMiki Castle, which we're attacking now,\nis a plains castle, so with a ninja band\nas reinforcements, you could attack the rear gate.
+@454
+I see, that's clear.
+@455
+We have no ninja band now,\nso we can only attack from the main gate.
+@456
+Next, [Delegate]. Instead of giving orders\nyourself, my lord, you leave each unit's\nactions to its commander.
+@457
+You can delegate unit by unit.\nLet me try delegating unit 5,\nLord Fukushima Masanori's unit.
+@458
+A delegated unit is marked "Del",\nso you can tell at a glance\nwhich units are delegated.
+@459
+And how do I\nstop delegating?
+@460
+Just do the same\nthing once more.
+@461
+I see...\nSo when I want them to fight freely\nwithout my orders, I delegate.
+@462
+Like [Deploy], [Delegate]\nhas an [All Units] button,\nso you can delegate or undelegate all at once.
+@463
+Next, let me explain\n[Ask Advice].
+@464
+You can ask your subordinates' advice.\nHowever, this command is only\navailable when you're the army commander.\nWhen you're unsure what to do,\nask your subordinates for advice.
+@465
+So when I'm in trouble,\nthey'll give me all kinds of advice,\nas you do now. How kind.
+@466
+Not at all...\nThen lastly, let me explain\n[End Council].
+@467
+It ends the war council and\ncontinues the siege. Press it first.
+@468
+There are two: [Continue Battle]\nand [Quick Battle].\nWhat's the difference?
+@469
+[Continue Battle] goes on with the battle\non this screen; you can give\norders to each unit once a day.\n[Quick Battle], on the other hand,\ndelegates all units, yours included,\nand the siege is fought on the travel screen.\nUse Quick Battle when you're\noverwhelmingly ahead or want\nto move time along faster.
+@470
+I see, that's clear.
+@471
+That covers the information\non screen and the commands.
+@472
+Next, I'd like to give you advice\nas we actually fight the siege.\nWhat do you say?\nShall I continue the siege lesson?
+@473
+True, you've explained a lot, but there's\nmuch I won't understand without trying it.\nPlease do.
+@474
+Then choose [Continue Battle]\nand let the siege begin.
+@475
+From what you've said, I've got\na good idea of what a siege is like.\nThe rest is practice.\nThat's enough explanation... Thank you.
+@476
+Understood.\nThe siege lesson\nends here.
+@477
+Oh!\nThey seem to have used some special skill.
+@478
+Yes, as in field battles, special skills\ncan be used in sieges too.\nLet's use one later when we attack.
+@479
+Good, our turn has come.\nLet's try a special skill right away.
+@480
+Before that, let me go over\nthe commands.\n\nFirst, special skills.
+@481
+Choose one of the special skills\nthe officer has and use it.\n\nNext, Assault.
+@482
+Attack a gate to lower its durability.\n\n\nNext, Shoot.
+@483
+Shoot to attack enemy units.\nCannon and ironclad units bombard\ninstead; cavalry can't shoot.\nYour unit is cavalry, my lord,\nso it can't shoot.\n\nNext, Delegate.
+@484
+Delegate is as I explained\nearlier.\n\nNext, Council.
+@485
+This books a war council for the end\nof the day. To hold talks or request aid,\nbook a war council.
+@486
+I see. Then I want to call a ninja band\nas reinforcements to attack the rear gate,\nso I'll hold a war council.
+@487
+Oh?\n"Council booked" has appeared\nat the top right.
+@488
+While "Council booked" is shown,\na war council is booked.\n\nIf you'd rather not hold the council,\npress it again to cancel the booking.\n\nNext, Move.
+@489
+You can redeploy to another place.\nHowever, that turn the unit only moves\nand can do nothing else.\nNext, [Wait]...
+@490
+The unit waits, doing nothing.\nHowever, waiting restores\na little morale, so units\nwhose morale is very low should\npull back and wait.\nIt also stores 1 skill point,\nso use it when you want to\nbuild up skill points quickly.\nThat's all for the commands.
+@491
+Right, that's clear.\nNow let's try a special skill.
+@492
+Oh!\nThe gate caught fire and its durability fell!
+@493
+Special skills are very powerful,\nbut each skill costs set points.\nUse strong skills one after another\nand you'll soon run out.\nSkill points recover 1 a turn,\nand 1 more if you wait.\nWhether to use many cheap skills\nor costly skills at key moments\ndepends on the situation.
+@494
+Right.\nUse skills well, and we\ncould take bases faster.
+@495
+Oh?\nCannons can bombard gates?
+@496
+Yes.\nCannon and ironclad units can attack\nany enemy unit and gate.
+@497
+What!\nThen can we attack the keep\nstraight away?
+@498
+Yes, you can attack it.\nBut the farther the target,\nthe weaker the attack,\nso attacking the keep from [Siege]\nwill do little good...
+@499
+I see, that's clear.\nBut when we shoot bows or guns, we can\nonly hit the enemy unit right before us,\nwhile the defenders seem to attack us\nat the main gate even from the keep\nand the rear gate...
+@500
+That's right.\nWherever the defenders are deployed,\nthey can attack anywhere,\nand their attacks don't weaken.\nAlso, the higher the defence,\nthe less damage they take when attacked.
+@501
+What!\nThen the defenders have a huge advantage!
+@502
+That can't be helped.\nCastles are built to defend...\nso in sieges the defenders have the edge.\nSo in a siege it's vital to bring many\nable officers, request reinforcements\nand attack with more troops than the enemy.
+@503
+So that's how it is.\nI'll take it to heart.
+@504
+Good, we can hold the war council.\nLet's ask the ninja band for reinforcements.
+@505
+Oh?\nThere seem to be far fewer\nwe can ask for reinforcements...
+@506
+As I said before, you can only ask\neach power for 1 army.\n\n{01}C1{00}, you've already asked our\nLord Niwa Nagahide for reinforcements, so\nyou can't ask our house's castles again.
+@507
+Oh, right, I'd forgotten.\nFrom now on I must keep that in mind\nwhen I request reinforcements.\nThis time I'll ask the Koga band.
+@508
+Enter a thank-you payment?\nWhen I asked Lord Niwa Nagahide\nearlier, I didn't have to enter one...
+@509
+Yes, when you ask your own power\nfor reinforcements, no payment is needed.\n\nBut when you ask any other power\nfor reinforcements,\nyou must pay them first.\nThe bigger the payment, the likelier\nthey are to accept.
+@510
+Is that so...\nAnd roughly how much\nshould I pay?
+@511
+Let me see...\nAbout 10,000 kan is the going rate.\n\nBut a power with high friendship\nmay accept even\na small payment.\nWith powers you're not so friendly with,\nit may be better to pay more.
+@512
+I see, that's clear.\nThis time I'll pay\n10,000 kan as thanks.
+@513
+Good, it looks like they'll come.\nUntil the reinforcements arrive,\nwe resume the siege!
+@514
+Let's look at the situation.\nOur army and Lord Niwa Nagahide's army\nare at the main gate,
+@515
+and the Koga ninja band\nis attacking the rear gate.
+@516
+Lord Hachisuka's unit is cannon\nand can attack from range,\nso it has fallen back to [Siege] to bombard.
+@517
+Our army now has\nnearly 3 times the defenders' troops\nand is overwhelming them.\nEnemy reinforcements would be trouble,\nso let's crush them in one go.
+@518
+Good!\nAll at once!
+@519
+Blast!\nWhen I chose [Quick Battle] earlier,\nall units were delegated, and\nI left them that way!
+@520
+No harm done.\nI'll press the ② button at once!
+@521
+Oh!\nThe commands appeared.
+@522
+This [Council], like the [Council]\ncommand earlier, books a war council\nfor the end of the day.\n[Delegate] below it cancels the current\ndelegation, or delegates\nunits that aren't delegated.
+@523
+Good, all delegation is cancelled.
+@524
+Then let's continue the siege.
+@525
+Good, we've taken the main gate.
+@526
+Congratulations.\nAt this rate, let's take the third bailey,\nthe second bailey and then the keep.
+@527
+Right, I've got the gist of sieges now.\nThat's enough explanation.
+@528
+Is that so?\nThen, though it ran long,\nmy explanation ends here.
+@529
+Right, thank you for your trouble!\nGood, the rest is real battle!
+@530
+Now, which battle lesson will you take?
+@531
+Battle
+@532
+Army Formation
+@533
+Unit Formation
+@534
+Field Battle
+@535
+Siege
+@536
+After Battle
+@537
+When a council decides on [Battle], the army is formed. If the hero is army commander, you can change the formation yourself; as a unit commander, you only check it.\n\n{1B}C1● Check Goods and Officers{1B}C0\nThe army is formed automatically. The right side shows the castle's remaining goods and the officers marching. ⑧/⑨ switch the info.
+@538
+{1B}C1● Goods and Troops{1B}C0\nPick an item with ⑥ and press ① to change goods or troops.\n{1B}C3◆ Provisions{1B}C0\nOn campaign, provisions are used daily by troop count. If they run out, morale drops sharply.\n{1B}C3◆ War Funds{1B}C0\nUsed to request reinforcements from friendly powers during sieges and so on.\n{1B}C3◆ Troops{1B}C0\nThe army's total troops, split among units before battle. * Pirate troops are set by the number of ships.
+@539
+{1B}C3◆ Horses{1B}C0\nNeeded for cavalry: one per soldier. * Ninja and pirates have none.\n{1B}C3◆ Guns{1B}C0\nNeeded for gun units: one per soldier. * Ninja and pirates have none.\n{1B}C3◆ Cannons{1B}C0\nNeeded for cannon units: one per 10 soldiers. * Ninja and pirates have none.
+@540
+{1B}C3◆ Sekibune{1B}C0\nNeeded for sekibune units: 10 troops per ship. * Daimyo houses and ninja have none.\n{1B}C3◆ Large Ships{1B}C0\nNeeded for large ship units: 100 troops per ship. * Daimyo houses and ninja have none.\n{1B}C3◆ Ironclads{1B}C0\nNeeded for ironclad units: 100 troops per ship. * Daimyo houses and ninja have none.
+@541
+{1B}C1● Commanders{1B}C0\nPick [Army Commander] or [Unit Commander] with ⑥ and press ① to change them. Unit commanders must be of the same rank as the army commander or lower.\n\n{1B}C1● March Out!{1B}C0\nWhen the formation is set, choose [OK] and press ①.
+@542
+Before battle, each unit is formed. If the hero is army commander, you can change each unit yourself; as a unit commander, you only check them.\n\n{1B}C1● Check Goods and Officers{1B}C0\nUnits are formed automatically. The right side shows the castle's remaining goods and the officers marching. ⑧/⑨ switch the info.
+@543
+{1B}C1● Change Troops{1B}C0\nPick a unit with ⑥, press ① and choose [Change Troops]. The troops a unit can have depend on its commander's rank; types that need goods are limited by the army's goods.\n{1B}C1● Change Troop Type{1B}C0\nPick a unit with ⑥, press ① and choose [Change Type]. Cavalry, gun and cannon units need enough goods; pirate types need enough ships.
+@544
+{1B}C1● Check Special Skills{1B}C0\nPick a unit with ⑥, press ① and choose [Check Skills] to see its commander's special skills. Some only work with certain troop types, so check them when choosing types.\n\n{1B}C1● To Battle!{1B}C0\nWhen units are set, choose [OK] and press ①.
+@545
+In field battles, each army takes turns (chances to give orders). If the hero is army commander, you control all units; otherwise only your own.\n\n{1B}C1● Victory Terms{1B}C0\nWipe out or rout the enemy commander's unit to win. If your commander's unit is wiped out or retreats, you lose. * If your army is bringing provisions, reaching a square next to the castle wins.
+@546
+{1B}C1● Field Battle Controls{1B}C0\nOn your army's turn, pick units and order moves or attacks.\n{1B}C3◆ Pick a Unit{1B}C0\n⑩/⑪ switch units; ④ picks from a list. Press ① on the unit to act.\n{1B}C3◆ Move{1B}C0\nSquares the unit can reach light up. Pick one and press ① to move there.
+@547
+{1B}C3◆ Attack{1B}C0\nSquares with units you can attack show red. Pick a target and press ①. Adjacent units are attacked directly; distant ones are shot with bows or guns.\n{1B}C3◆ Other Commands{1B}C0\nPress ① on the unit's square before or after moving to open the field commands: use special skills, build fences and so on.
+@548
+{1B}C3◆ Withdraw{1B}C0\nMove a unit to the edge of the field and choose [Withdraw] from the field commands. If the commander's unit withdraws, the battle is lost.\n\n{1B}C1● Use Special Skills!{1B}C0\nChoose [Skill] from the field commands to use a skill the unit commander knows. Each costs skill points by type; points recover 1 a turn. Starting points depend on the commander's Tactics and the skill matching the troop type.
+@549
+{1B}C1● Mind the Terrain!{1B}C0\n{1B}C3◆ Movement Cost{1B}C0\nUnits spend movement points to move; the cost depends on the terrain. Rivers and seas cost less the higher the commander's Navy.\n{1B}C3◆ Terrain Effects{1B}C0\nTerrain changes a unit's abilities; how much depends on its power type (daimyo, ninja, pirate). Press ⑧ to check terrain effects.
+@550
+War Council
+@551
+Combat
+@552
+Talks
+@553
+At a siege war council you give army-wide orders and deploy units. A siege always opens with a council; choose [End Council] to start fighting. After that, one council a day can be held.\n\n{1B}C1● Army Orders{1B}C0\n{1B}C3◆ Talks{1B}C0\nNegotiate with the enemy commander. If talks succeed, the siege ends on those terms. Talks succeed more easily the better the battle goes, and the envoy's Intellect and Speech help.
+@554
+{1B}C3◆ Request Aid{1B}C0\nAsk friendly powers (yours, allies, vassals) for reinforcements: 1 army per power, 3 at most. Other powers must be paid. Once per council. There are 4 kinds: "Join Battle" fights with you, "Send Provisions" brings provisions, "Rout Enemy" attacks the enemy army, "Attack Base" attacks an enemy base.
+@555
+{1B}C3◆ Retreat{1B}C0\nCall off the siege and retreat.\n\n{1B}C1● Deploy{1B}C0\nPlace units at points of attack. Pick a unit, choose a place with ⑧/⑨ and press ①; ④ picks from a list. Attackers can only deploy behind gates they've broken. Only ninja and pirate units can go to the "Rear Gate".
+@556
+{1B}C1● Delegate{1B}C0\nDelegate a unit's actions. Can be changed after combat starts.\n\n{1B}C1● Ask Advice{1B}C0\nHear the unit commanders' views on the battle and how to attack.\n\n{1B}C1● End Council{1B}C0\nEnd the council and start fighting. With [Quick Battle], all units are delegated and you watch the outcome.
+@557
+In siege combat, each unit takes turns (chances to give orders). If the hero is army commander, you control all units; otherwise only your own. Choose commands on your turn.\n\n{1B}C1● Siege Victory Terms{1B}C0\nWipe out or rout the enemy commander's unit to win; attackers also win by breaking the keep's gate. If your commander's unit is wiped out or retreats, you lose. [Talks] at a council can also end a siege.
+@558
+{1B}C1● Siege Commands{1B}C0\nGive each unit a command.\n{1B}C3◆ Skill{1B}C0\nUse a special skill the commander knows. It costs skill points by type and can't be used without enough. Points recover 1 a turn; starting points depend on Tactics and the matching troop skill.\n{1B}C3◆ Assault (attackers only){1B}C0\nAttack a gate directly to lower its durability. At 0 the gate breaks.
+@559
+{1B}C3◆ Hold (defenders only){1B}C0\nGuard the gate. Assaults lower its durability less.\n{1B}C3◆ Shoot (not cavalry, cannon, ironclad){1B}C0\nShoot enemy units at the same gate with bows or guns. Attackers can't use guns in rain or snow.\n{1B}C3◆ Bombard (cannon, ironclad only){1B}C0\nBombard gates or units, even at distant gates. Attackers can't bombard in rain or snow.
+@560
+{1B}C3◆ Delegate{1B}C0\nDelegate the unit's actions. While delegated or enemy units act, press ② and choose [Delegate] to change settings; also possible at councils.\n{1B}C3◆ Council{1B}C0\nHold a council after all units act. While delegated or enemy units act, press ② and choose [Council] to book one.
+@561
+{1B}C3◆ Move{1B}C0\nMove to another point of attack. ⑧/⑨ switch places; ④ picks from a list. Attackers can only deploy behind gates they've broken. Only ninja and pirate units can go to the "Rear Gate".\n{1B}C3◆ Wait{1B}C0\nWait without acting. Morale recovers a little, and 1 skill point.
+@562
+{1B}C1● Watch Morale{1B}C0\nEach attack taken lowers a unit's morale; at 0 it retreats. Move it outside the castle (attackers) or to a gate under no attack (defenders) and wait to recover.\n\n{1B}C1● Settle It by Talks{1B}C0\nAs attacker, making them surrender brings their officers into your power and keeps the town's order from falling after battle. Once you've broken a few gates and lead, hold a council and try [Talks].
+@563
+Negotiate with the enemy commander. If talks succeed, the siege ends on the terms.\n\n{1B}C1● Set Terms{1B}C0\nChoose what to demand.\n{1B}C3◆ Commander Seppuku{1B}C0\nThe lord commits seppuku and the garrison's lives are spared. The lord dies and the other officers are released.\n{1B}C3◆ Surrender ("Surrender" when defending){1B}C0\nThe defenders surrender; all their officers, the lord included, join the attacking power.
+@564
+{1B}C3◆ Leave Castle{1B}C0\nThe defenders give up the castle and withdraw.\n{1B}C3◆ Funds, Provisions, Horses, Guns{1B}C0\nThe defenders hand over goods and the attackers withdraw. Can be combined with a ceasefire.\n{1B}C3◆ Ceasefire{1B}C0\nAgree a ceasefire of up to 60 months; the attackers withdraw. Can be combined with goods. * After choosing goods or a ceasefire, set terms again to add more.
+@565
+{1B}C1● Will Talks Succeed?{1B}C0\nThe "Battle" and "Talks" bars at the top give an idea. If "Battle" is longer than "Talks", success is likely.\n{1B}C3◆ Battle{1B}C0\nThe longer the blue part, the better the battle is going for your army.\n{1B}C3◆ Talks Value{1B}C0\nThe longer the blue part, the bolder your terms.
+@566
+After battle, the unit commanders' merits are announced. First to third place earn honours. Press ② to return to the travel screen.\n\n{1B}C1● Earning Merit{1B}C0\nDamaging enemy units and gates earns merit; wiping out a unit or breaking a gate earns much more. Succeeding as the envoy in siege talks also earns a lot.
+@567
+Merchant Chief Contest
+@568
+About the Contest
+@569
+Improving Tasks
+@570
+Just as daimyo battle to unify the realm, merchant houses fight "Merchant Chief Contests" to rule trade areas.\n\n{1B}C3◆ Trade Areas{1B}C0\nThe land is split by region into 15 trade areas; every town belongs to one.\n{1B}C3◆ Merchant Chief{1B}C0\nIn each trade area one merchant house is named merchant chief: a privileged merchant who can charge fees on trade in the area. The leading daimyo of each area appoints it.
+@571
+{1B}C1● Contest Rules{1B}C0\nThe contest is a race for the merchant chief seat. Only the purveyor with the highest standing with the area's leading daimyo can start one. Each house in the contest takes a town and develops it; the house that develops its town most in a month wins the post.\n{1B}C3◆ Choose Members{1B}C0\nAs head clerk or lower, you join only when the master orders it. As manager or higher, choose 3 subordinates good at Speech, Accounting and so on.
+@572
+{1B}C3◆ Choose a Method{1B}C0\nAs manager or higher, choose how to develop the town before the contest. A method that suits the town makes the work more efficient.\nTemples: best with temples. Schools: best with temples or a Nanban temple. Townhouses: best in big towns. Festival: best with few castles in the province. Tea Gathering: best with a tea master's home or tea fields. Free Market: best with many trade goods.
+@573
+{1B}C3◆ Improving Tasks{1B}C0\nEach member takes one task to develop the town; every task lasts one month. Working develops the town, but improving the task brings bigger results. You may leave town only once to do so, and must be back when the month ends. * For details, see the "Improving Tasks" help.
+@574
+Temple Revival Tasks
+@575
+School Building Tasks
+@576
+Townhouse Building Tasks
+@577
+Festival Tasks
+@578
+Grand Tea Gathering Tasks
+@579
+Free Market Tasks
+@580
+{1B}C1● Benefit Show{1B}C0\nHold an event to raise donations for temples.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nValor; Etiquette, Speech; card "Votive Sumo"\n{1B}C3◆ How to Improve{1B}C0\nVisit homes of officers of the hosting daimyo house and [Invite to Votive Sumo]. Only men with Martial Arts 3 or more.
+@581
+{1B}C1● Sutras and Sermons{1B}C0\nInvite priests to chant sutras and preach.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nIntellect, Charm; Etiquette, Speech; card "Priest Contacts"\n{1B}C3◆ How to Improve{1B}C0\nVisit a temple in town and [Request a Sermon] from a priest.
+@582
+{1B}C1● Temple Repair{1B}C0\nRepair old temple buildings.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nLeadership, Politics; Building, Accounting; card "Trade Contacts"\n{1B}C3◆ How to Improve{1B}C0\nVisit the town's guild and buy the trade good "Lumber".
+@583
+{1B}C1● Buddha Carving{1B}C0\nCommission a sculptor to carve a Buddha.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Etiquette; card "Arts Patron"\n{1B}C3◆ How to Improve{1B}C0\nVisit a craftsman's home in town and get a sculptor via [Commission a Buddha].
+@584
+{1B}C1● Found a Library{1B}C0\nBuild a library.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nPolitics, Intellect; Etiquette; card "Classics Library"\n{1B}C3◆ How to Improve{1B}C0\nVisit a merchant house in town and buy books (valuables).
+@585
+{1B}C1● Invite Scholars{1B}C0\nInvite scholar monks to foster learning.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nIntellect, Charm; Etiquette, Speech; card "Priest Contacts"\n{1B}C3◆ How to Improve{1B}C0\nVisit a temple in town and ask a priest to [Introduce a Scholar].
+@586
+{1B}C1● Invite Missionaries{1B}C0\nInvite missionaries to spread Nanban learning.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Accounting, Speech; cards "Sakai Letter", "Hirado Letter"\n{1B}C3◆ How to Improve{1B}C0\nVisit the Nanban temple in town and ask a missionary to [Introduce a Missionary].
+@587
+{1B}C1● Name Plaque{1B}C0\nHave a calligrapher make a plaque with the school's name.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nPolitics, Charm; Accounting, Speech; card "Arts Patron"\n{1B}C3◆ How to Improve{1B}C0\nVisit a craftsman's home in town and [Request a Plaque].
+@588
+{1B}C1● Sewers{1B}C0\nLay sewers to make the town more livable.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nPolitics, Intellect; Mining; card "Back-Lane Sewers"\n{1B}C3◆ How to Improve{1B}C0\nVisit a tavern in a town in the same trade area and [Hire Workers].
+@589
+{1B}C1● Dig a Canal{1B}C0\nDig a canal to speed up the flow of goods.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nLeadership, Politics; Building; card "Digging"\n{1B}C3◆ How to Improve{1B}C0\nVisit the town's smith and get hoes for the work.
+@590
+{1B}C1● Get Lumber{1B}C0\nGet the lumber needed for townhouses.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nIntellect, Charm; Building, Speech; card "Trade Contacts"\n{1B}C3◆ How to Improve{1B}C0\nVisit the town's guild and buy the trade good "Lumber".
+@591
+{1B}C1● Dig Wells{1B}C0\nDig wells for the town's water.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nLeadership, Valor; Mining; card "Mole Attack"\n{1B}C3◆ How to Improve{1B}C0\nVisit the drill ground of the hosting daimyo's castle and [Hire Workers].
+@592
+{1B}C1● Dance Show{1B}C0\nPut on a dance show at the festival.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Tea; card "Kabuki Dance"\n{1B}C3◆ How to Improve{1B}C0\nMeet Izumo no Okuni and [Request Kabuki Dance].
+@593
+{1B}C1● Dengaku Show{1B}C0\nPut on a dengaku show at the festival.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Farming; card "Dengaku"\n{1B}C3◆ How to Improve{1B}C0\nVisit an inn in a town in the same trade area and [Invite Dengaku Players].
+@594
+{1B}C1● Street Stalls{1B}C0\nSet up stalls at the festival.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nIntellect; Speech, Accounting; card "Hawker's Patter"\n{1B}C3◆ How to Improve{1B}C0\nVisit the town's guild and buy trade goods not sold in the task's town.
+@595
+{1B}C1● Food and Drink{1B}C0\nTreat festival-goers to food and drink.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nLeadership; Accounting\n{1B}C3◆ How to Improve{1B}C0\nBuy sake at the town's tavern.
+@596
+{1B}C1● Tea Ware Appraisal{1B}C0\nHold a tea ware appraisal.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nIntellect; Tea, Etiquette; card "Connoisseur"\n{1B}C3◆ How to Improve{1B}C0\nVisit a tea master's or craftsman's home in town and [Request Appraisal at Gathering].
+@597
+{1B}C1● Spread Tea{1B}C0\nSpread the way of tea among townsfolk.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Tea; card "Outdoor Tea"\n{1B}C3◆ How to Improve{1B}C0\nVisit a merchant house or tea master's home and buy tea ware of value 4 or less.
+@598
+{1B}C1● Invite Tea Masters{1B}C0\nInvite tea masters to the grand gathering.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Etiquette, Speech; card "Virtuous Heart"\n{1B}C3◆ How to Improve{1B}C0\nVisit tea masters' homes or samurai homes and [Invite to the Gathering] people with Tea 3 or more.
+@599
+{1B}C1● Buy Fine Tea{1B}C0\nBuy fine tea for the grand gathering.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nPolitics; Accounting, Tea; tea master title cards\n{1B}C3◆ How to Improve{1B}C0\nVisit the town's guild and buy the trade good "Tea".
+@600
+{1B}C1● Invite Peddlers{1B}C0\nInvite peddlers to trade.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nLeadership; Accounting, Speech; card "Free Markets"\n{1B}C3◆ How to Improve{1B}C0\nVisit an inn in a town in the same trade area and [Invite Peddlers].
+@601
+{1B}C1● Street Stalls{1B}C0\nSet up stalls at the festival.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nIntellect; Speech, Accounting; card "Hawker's Patter"\n{1B}C3◆ How to Improve{1B}C0\nVisit the town's guild and buy trade goods not sold in the task's town.
+@602
+{1B}C1● Patrol{1B}C0\nPatrol the area.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nValor; Martial Arts; swordsman title cards\n{1B}C3◆ How to Improve{1B}C0\nVisit the guild in the task's town and drive off the ruffians.
+@603
+{1B}C1● Publicity{1B}C0\nAdvertise the free market.\n{1B}C3◆ Useful Abilities/Skills{1B}C0\nCharm; Speech; card "Hawker's Patter"\n{1B}C3◆ How to Improve{1B}C0\nVisit a tavern in a town in the same trade area and [Advertise the Market].
+@604
+Career Test
+@605
+What you need to survive the Sengoku era is...
+@606
+To raise your men's morale...
+@607
+If a great enemy army nears your castle...
+@608
+What you most need to rise in the Sengoku world is...
+@609
+Your HQ is wiped out! It's all over...
+@610
+The enemy starts to withdraw. It may be a ruse, but...
+@611
+You want other houses to respect you. The best way is...
+@612
+If the lord you serve is a fool...
+@613
+To make an enemy defect, you need...
+@614
+In martial training, what you most want to work on is...
+@615
+What you should encourage in your retainers is...
+@616
+If you're falsely accused of treason...
+@617
+If you were to build a new castle...
+@618
+After sitting in zazen, what you realized is...
+@619
+The heirloom you'd never part with is...
+@620
+To deepen your learning with books, first read...
+@621
+Entertaining a noble courtier. To please them...
+@622
+The lifestyle that suits a ruler of the realm is...
+@623
+To unite your retainers' hearts, you need...
+@624
+A retainer does great deeds in battle! As a reward, give...
+@625
+If your right-hand man disobeys orders...
+@626
+What you'd use ninja for is...
+@627
+Your finances are failing. The measure to take is...
+@628
+What a samurai must defend to the very end is...
+@629
+To win a battle, what you should do first is...
+@630
+The Ashikaga shogun whose name comes to mind first is...
+@631
+Promoted, you get a new helmet. Its crest will be...
+@632
+Before a battle you can't lose, your charm or omen is...
+@633
+Promoted, you get new armour. The lacing colour is...
+@634
+To make diplomacy succeed, what matters most is...
+@635
+If you fall for someone far above or below your rank...
+@636
+Your lord's house is destroyed. What you should do is...
+@637
+A first-rate swordsman needs swordsmanship and...
+@638
+A rest between wars. If you painted a picture...
+@639
+Before an impregnable castle, the measure to take is...
+@640
+Last question. Living in the Sengoku era means...
+@641
+Last question. Living in the Sengoku era means...
+@642
+Last question. Living in the Sengoku era means...
+@643
+Last question. Living in the Sengoku era means...
+@644
+Last question. Living in the Sengoku era means...
+@645
+Last question. Living in the Sengoku era means...
+@646
+Last question. Living in the Sengoku era means...
+@647
+Last question. Living in the Sengoku era means...
+@648
+Last question. Living in the Sengoku era means...
+@649
+Last question. Living in the Sengoku era means...
+@650
+Last question. Living in the Sengoku era means...
+@651
+Valor
+@652
+Rousing
+@653
+Intercept
+@654
+Ingenuity
+@655
+Charge
+@656
+Pursue
+@657
+Court rank
+@658
+Remonstrate
+@659
+Sincerity
+@660
+Swordplay
+@661
+Martial arts
+@662
+Explain
+@663
+Summit
+@664
+Tea
+@665
+Arms
+@666
+Strategy
+@667
+Tea party
+@668
+Luxury
+@669
+Dignity
+@670
+Commendation
+@671
+Harsh penalty
+@672
+Assassinate
+@673
+Invest
+@674
+Honour
+@675
+Draft
+@676
+Yoshiaki
+@677
+Crescent
+@678
+Heed it
+@679
+Vermilion
+@680
+Intelligence
+@681
+Collusion
+@682
+Revival
+@683
+Nerve
+@684
+Character
+@685
+Bombard
+@686
+Illusion
+@687
+Transience
+@688
+Chance
+@689
+Insight
+@690
+Destroy
+@691
+Self-discipline
+@692
+Training
+@693
+Opportunity
+@694
+Creation
+@695
+Struggle
+@696
+Melancholy
+@697
+Intellect
+@698
+Reward
+@699
+Hold out
+@700
+Action
+@701
+Seppuku
+@702
+Wait
+@703
+Tea party
+@704
+Rebellion
+@705
+Reward
+@706
+Spearplay
+@707
+Learning
+@708
+Seppuku
+@709
+Flatland
+@710
+Good rule
+@711
+Tea ware
+@712
+Histories
+@713
+Poetry party
+@714
+Nobility
+@715
+Stipend
+@716
+Heirloom
+@717
+Reprimand
+@718
+Rumours
+@719
+Reform
+@720
+Loyalty
+@721
+Drill
+@722
+Yoshiteru
+@723
+Wild beast
+@724
+Ignore it
+@725
+Black
+@726
+Gifts
+@727
+Elope
+@728
+Wander
+@729
+Fine sword
+@730
+Animals
+@731
+Encircle
+@732
+Struggle
+@733
+Melancholy
+@734
+Insight
+@735
+Daily life
+@736
+Chaos
+@737
+Patience
+@738
+Endurance
+@739
+Creation
+@740
+Pleasure
+@741
+Success
+@742
+Penance
+@743
+Charm
+@744
+Scolding
+@745
+Schemes
+@746
+Connections
+@747
+Flee
+@748
+Spying
+@749
+Parade
+@750
+Desert
+@751
+Threats
+@752
+Archery
+@753
+Morality
+@754
+Desert
+@755
+Coast
+@756
+Strategy
+@757
+Fine horse
+@758
+Literature
+@759
+Sarugaku
+@760
+Simplicity
+@761
+Generosity
+@762
+Fief
+@763
+Pardon
+@764
+Espionage
+@765
+Battle
+@766
+Family name
+@767
+Espionage
+@768
+Takauji
+@769
+Holy beast
+@770
+Disregard
+@771
+Gold
+@772
+Speech
+@773
+Give up
+@774
+New career
+@775
+Aesthetics
+@776
+Scenery
+@777
+Sabotage
+@778
+Melancholy
+@779
+Penance
+@780
+Turmoil
+@781
+Penance
+@782
+Freedom
+@783
+Wandering
+@784
+Freedom
+@785
+Nothingness
+@786
+Transience
+@787
+Fantasy
+@788
+Chaos
+@789
+Result
+@790
+{1B}C1● Heroic Daimyo{1B}C0\nWalk the path of conquest with your talent.\n{1B}C3◆ Your Role Models{1B}C0\nOda Nobunaga, Takeda Shingen, Uesugi Kenshin, Hojo Ujiyasu, Chosokabe Motochika, Shimazu Yoshihisa
+@791
+{1B}C1● Cunning Daimyo{1B}C0\nBury your foes with schemes and intrigue.\n\n{1B}C3◆ Your Role Models{1B}C0\nMori Motonari, Ukita Naoie, Saito Dosan, Date Masamune, Tsugaru Tamenobu, Ando Chikasue
+@792
+{1B}C1● Weak Daimyo{1B}C0\nEndure, and even you may bloom...\n\n{1B}C3◆ Your Role Models{1B}C0\nMatsumae Yoshihiro, Oda Ujiharu, Yuki Harutomo, Mimura Motochika, Sagara Yoshihi
+@793
+{1B}C1● Noble Daimyo{1B}C0\nRestore the glory of your great house.\n{1B}C3◆ Your Role Models{1B}C0\nAshikaga Yoshiteru, Kitabatake Tomonori, Asakura Yoshikage, Yamana Suketoyo, Ichijo Kanesada, Osaki Yoshitaka
+@794
+{1B}C1● Strategist{1B}C0\nBe your lord's right arm on the path of conquest.\n{1B}C3◆ Your Role Models{1B}C0\nTakenaka Hanbee, Naoe Kanetsugu, Yamamoto Kansuke, Usami Sadamitsu, Tsunokuma Sekiso
+@795
+{1B}C1● Strategist{1B}C0\nSupport your lord with your wisdom.\n{1B}C3◆ Your Role Models{1B}C0\nNabeshima Naoshige, Hosokawa Yusai, Chisaka Kagechika, Otani Yoshitsugu, Itakura Katsushige, Shimotsuma Rairen
+@796
+{1B}C1● Strategist{1B}C0\nScheme and overturn the realm.\n\n{1B}C3◆ Your Role Models{1B}C0\nKuroda Kanbee, Sanada Masayuki, Honda Masanobu, Todo Takatora, Sue Harukata
+@797
+{1B}C1● Fierce General{1B}C0\nWield your spear and make your name.\n{1B}C3◆ Your Role Models{1B}C0\nKakizaki Kageie, Shima Sakon, Honda Tadakatsu, Tachibana Dosetsu, Shimazu Yoshihiro, Shichijo Kanenaka
+@798
+{1B}C1● Able Official{1B}C0\nEnrich the land with careful reckoning.\n{1B}C3◆ Your Role Models{1B}C0\nIshida Mitsunari, Ishikawa Kazumasa, Mashita Nagamori, Ninomiya Naritoki, Matsui Yukan, Ina Tadatsugu
+@799
+{1B}C1● Dullard{1B}C0\nPlod along and make a modest name.\n{1B}C3◆ Your Role Models{1B}C0\nYamauchi Kazutoyo, Ando Morinari, Ono Harunaga, Oda Nobukatsu, Kobayakawa Hideaki
+@800
+{1B}C1● Rear Vassal{1B}C0\nServe loyally and your day may come...\n\n{1B}C3◆ Your Role Models{1B}C0\nMurai Nagayori, Menju Katsuteru, Akechi Hidemitsu, Hori Naomasa, Iida Kakubee
+@801
+{1B}C1● Ronin{1B}C0\nEach day a journey, the journey your home...\n\n{1B}C3◆ Your Role Models{1B}C0\nMaeda Keiji, Mishuku Kanbee, Kuki Hirotaka, Goto Matabee, Ban Naoyuki
+@802
+{1B}C1● Ninja Boss{1B}C0\nLead the ninja and work in the shadows.\n\n{1B}C3◆ Your Role Models{1B}C0\nMomochi Sandayu, Fuma Kotaro, Ideura Morikiyo, Seki Masatoki, Hattori Hanzo
+@803
+{1B}C1● Ninja{1B}C0\nMaster the ninja arts.\n\n{1B}C3◆ Your Role Models{1B}C0\nKirigakure Saizo, Kosaka Jinnai, Sata Hikoshiro, Tsuge Sannojo, Igasaki Dojun
+@804
+{1B}C1● Pirate{1B}C0\nWin at sea and become its master.\n{1B}C3◆ Your Role Models{1B}C0\nKuki Yoshitaka, Murakami Takeyoshi, Wakabayashi Shigeoki, Miyamoto Dendayu, Mori Muraharu
+@805
+{1B}C1● Swordsman{1B}C0\nDevote your life to the way of the sword.\n{1B}C3◆ Your Role Models{1B}C0\nYagyu Sekishusai, Kamiizumi Nobutsuna, Tsukahara Bokuden, Miyamoto Musashi, Ito Ittosai, Yagyu Toshitoshi
+@806
+{1B}C1● Merchant{1B}C0\nBuild a vast fortune with your flair for trade.\n\n{1B}C3◆ Your Role Models{1B}C0\nImai Sokyu, Yodoya Joan, Kamiya Sotan, Yasui Doton, Suminokura Ryoi
+@807
+{1B}C1● Tea Master{1B}C0\nBring calm to a chaotic age with wabi-sabi.\n\n{1B}C3◆ Your Role Models{1B}C0\nSen no Rikyu, Imai Sokyu, Furuta Oribe, Tsuda Sogyu, Oda Urakusai
+@808
+{1B}C1● Physician{1B}C0\nMaster medicine and save the people.\n\n{1B}C3◆ Your Role Models{1B}C0\nManase Dosan, Nagata Tokuhon, Seyakuin Zenso, Otsuki Kagehide
+@809
+{1B}C1● ??{1B}C0\nWalk your own way, answerable to none.\n\n{1B}C3◆ Your Role Models{1B}C0\nKashin Koji, Yasui Doton, Shishido Baiken, Yamada Nagamasa, Ishikawa Goemon
+@810
+{1B}C1● Smith{1B}C0\nMaster your craft and leave your name to posterity.\n\n{1B}C3◆ Your Role Models{1B}C0\nKunitomo Zenbee, Shibatsuji Seiemon, Yaita Kinbee
+@811
+{1B}C1● ??{1B}C0\nWalk your own way, answerable to none.\n\n{1B}C3◆ Your Role Models{1B}C0\nKashin Koji, Yasui Doton, Shishido Baiken, Yamada Nagamasa, Ishikawa Goemon
+@812
+{1B}C1● Taiko{1B}C0\nClimb to the top of the Sengoku world.\n\n{1B}C3◆ Your Role Models{1B}C0\nKinoshita Tokichiro (Toyotomi Hideyoshi)
+@813
+Duel
+@814
+How to Fight
+@815
+Weapon Traits
+@816
+Duels happen in martial training, bouts, bandit attacks and so on.\n\n{1B}C1● Duel Victory Terms{1B}C0\nAs a rule, defeat all foes to win; if you fall you lose, and [Flee] ends in a draw. When attacked while escorting someone, you also lose if they fall. Choose [Victory Terms] from the ④ commands to check the terms for that duel.
+@817
+{1B}C1● Duel Controls{1B}C0\nOnce actions are set, everyone moves at once. After acting, foes that come into range are attacked automatically. Each action adds 1 "spirit", needed for techniques; defending or being hit adds 1 more.\n\n{1B}C3◆ Move{1B}C0\nThe white circle around the hero is the move range. Pick a spot with the left stick or ⑤ and confirm with ①, then choose the facing and confirm with ①.
+@818
+{1B}C3◆ Defend{1B}C0\nChoose [Defend] from the ④ commands. Take a guard stance and build spirit.\n\n{1B}C3◆ Technique{1B}C0\nChoose [Technique] from the ④ commands and pick a technique you know. It costs spirit by technique.\n{1B}C3◆ Flee{1B}C0\nChoose [Flee] from the ④ commands. Success takes you out of the duel; it's easier the farther you are from foes.
+@819
+Duels are fought with the weapon you have equipped. There are 6 kinds: swords, spears, bows, guns, chain sickles and kunai; each has its own range and so on. More valuable weapons hit harder.\n\n{1B}C1● Equipping Weapons and Armour{1B}C0\nIn game, open the info commands with ③ and choose [Hero] - [Valuables]. Pick a weapon or armour, press ①, check the info and press ① to equip. * You can't change equipment during a duel.
+@820
+{1B}C1● Weapon Traits{1B}C0\n{1B}C3◆ Sword{1B}C0\nFor close range only. Join a school to learn many techniques. Martial Arts helps.\n\n{1B}C3◆ Spear{1B}C0\nFor middle range only; can't hit close up. Join a school to learn some techniques. Martial Arts helps.
+@821
+{1B}C3◆ Bow{1B}C0\nFor long range only; can't hit close up, and you're stuck for a moment after shooting. Join a school to learn some techniques. Archery helps.\n\n{1B}C3◆ Matchlock{1B}C0\nFor long range only; can't hit close up, and you're stuck for a moment after shooting. [Study Gunnery] at a smith to learn some techniques. Gunnery helps.
+@822
+{1B}C3◆ Chain Sickle{1B}C0\nFor close to middle range. Train at a ninja village's "Village Training Hall" to learn some techniques. Ninjutsu helps.\n\n{1B}C3◆ Kunai{1B}C0\nFor close to long range. Weaker than other weapons, and misses more with low Ninjutsu. Train at a "Village Training Hall" to learn some techniques. Ninjutsu helps.

@@ -1,0 +1,1644 @@
+0	None
+1	Nothing special
+2	Yes
+3	No
+4	OK
+5	Back
+6	?
+7	Unknown
+8	?
+9	??
+10	???
+11	O
+12	X
+13	-
+14	--
+15	---
+16	-----
+17	Name
+18	Type
+19	Honganji
+20	%s
+21	%s school
+22	%s school
+23	%s band
+24	%s navy
+25	%sya
+26	00 mon
+27	  0 mon
+28	%d00 mon
+29	kan
+30	      
+31	%d kan
+32	%3d kan
+33	%4d kan
+34	%5d kan
+35	koku
+36	0 koku
+37	,000 koku
+38	%d,000 koku
+39	%3d,000 koku
+40	%5d,000 koku
+41	men
+42	%6d men
+43	%3d,000 men
+44	head
+45	0 head
+46	guns
+47	%d guns
+48	cannon
+49	ships
+50	months
+51	days
+52	Infantry
+53	Cavalry
+54	Gunners
+55	Cannon
+56	Mounted Gunners
+57	Mtd Gun
+58	Ninja
+59	Sekibune
+60	Large Ship
+61	Ironclad
+62	unit
+63	%s Army
+64	%s\n(%u-%u)
+65	Army Leader
+66	Unit Leader
+67	Army Leader
+68	2nd Unit
+69	3rd Unit
+70	4th Unit
+71	5th Unit
+72	Main Army
+73	Reinforcements
+74	Defenders
+75	Attackers
+76	Troops
+77	War Funds
+78	Rice
+79	Horses
+80	Guns
+81	Cannon
+82	Sekibune
+83	Large Ships
+84	Ironclads
+85	Morale
+86	Training
+87	Defense
+88	Merit
+89	Honours
+90	Situation
+91	Skill
+92	(Out of rice)
+93	1st in Merit
+94	2nd in Merit
+95	3rd in Merit
+96	LDR
+97	VAL
+98	POL
+99	INT
+100	CHA
+101	Foot
+102	Cav.
+103	Guns
+104	Navy
+105	Bow
+106	Arms
+107	Strat
+108	Ninja
+109	Build
+110	Farm
+111	Math
+112	Rites
+113	Talk
+114	Tea
+115	Medic
+116	Military skills
+117	Daimyo
+118	Merchant House
+119	Daimyo House
+120	Ninja Band
+121	Pirate Band
+122	Other
+123	No
+124	Yes
+125	Mass-producible
+126	Castle
+127	Town
+128	Ninja Village
+129	Pirate Fort
+130	Village
+131	Fort
+132	Small
+133	Medium
+134	Large
+135	Huge
+136	Harbour
+137	Plain
+138	Mountain
+139	Normal
+140	Many
+141	Few
+142	High
+143	Low
+144	Plenty
+145	Poor
+146	Ample
+147	Scarce
+148	Many
+149	Few
+150	High
+151	Cheap
+152	Alliance
+153	Vassal
+154	Backed Daimyo
+155	Rule
+156	Purveyor
+157	Broken
+158	Swords
+159	Arms
+160	Art
+161	Tea Ware
+162	Books
+163	Nanban Goods
+164	Treasure
+165	Sake
+166	Medicine
+167	All
+168	Foodstuffs
+169	Seasonal
+170	Sundries
+171	Crafts
+172	Dyes
+173	Textiles
+174	Luxuries
+175	Ores
+176	Seafood
+177	Ceramics
+178	Vegetables
+179	Fruit
+180	Necessities
+181	Foreign Goods
+182	Processed Goods
+183	People
+184	Titles
+185	Sights
+186	Techniques
+187	Battles
+188	Other
+189	Mountain
+190	Waterfall
+191	Lake
+192	Island
+193	Scenery
+194	Temple
+195	Iron Sand
+196	Herbs
+197	Land Route
+198	Sea Route
+199	Temple Building
+200	Found School
+201	Build Houses
+202	Festival
+203	Grand Tea Party
+204	Free Market
+205	Hire Workers
+206	Promote Market
+207	Book Kabuki Dance
+208	Appraisal at Tea
+209	Invite to Tea Party
+210	Request Sermon
+211	Introduce Scholar
+212	Commission Statue
+213	Commission Plaque
+214	Introduce Missionary
+215	Request Hindrance
+216	Spirit
+217	Techniques
+218	All
+219	Attack
+220	Other
+221	Technique
+222	Description
+223	Defense
+224	Flee
+225	Stay in %s
+226	Become a ronin
+227	Size: Small
+228	Size: Medium
+229	Size: Large
+230	Take it
+231	Return to base
+232	Disband the army
+233	%s Castle
+234	%s Manor
+235	%s
+236	%s Village
+237	%s Fort
+238	%s Temple
+239	%s Castle
+240	%s Manor
+241	%s
+242	%s Village
+243	%s Fort
+244	%s Temple
+245	Schemes
+246	The player can't be an aide
+247	Tried to make <%s> aide of daimyo <%s>
+248	%s
+249	Battle
+250	Arms
+251	Plots
+252	Back Daimyo
+253	Add Routes
+254	Watch Rivals
+255	Trade War
+256	Unify Prov.
+257	Unify Reg.
+258	Unite Realm
+259	To Kyoto
+260	Win Market
+261	Win Markets
+262	Win All Areas
+263	Guard Vill.
+264	Grow Power
+265	Unify Vill.
+266	Guard Forts
+267	Rule Seas
+268	Undecided
+269	Develop
+270	Defend
+271	Take Bases
+272	Win Powers
+273	Unify Prov.
+274	Guard Prov.
+275	Hold Region
+276	Trade Well
+277	Win Market
+278	New Market
+279	Back Daimyo
+280	Guard Vill.
+281	Build Vill.
+282	Take Bands
+283	Guard Forts
+284	Build Forts
+285	The Ten Braves Arrive
+286	Japanese Book
+287	Tea Ware
+288	Sea Castle
+289	Flatland Castle
+290	Mountain Castle
+291	Empty Castle
+292	Mountain
+293	Plain
+294	Port Town
+295	Underground
+296	Merit
+297	Fine
+298	Cloudy
+299	Rain
+300	Snow
+301	Hero
+302	People
+303	Powers
+304	Power Map
+305	Bases
+306	Prices
+307	Cards
+308	Routes
+309	Other
+310	Valuables
+311	Trade Goods
+312	Collected
+313	Rice Prices
+314	Horse Prices
+315	Trade Prices
+316	Save
+317	Load
+318	Settings
+319	Cards
+320	Quit
+321	On
+322	Off
+323	Music
+324	Sound FX
+325	Ninja Reports
+326	Effects
+327	Mini-Game Help
+328	Sabotage
+329	Irrigation
+330	Gold Hunt
+331	Joinery
+332	Quick Count
+333	Face Search
+334	Tea Ware Order
+335	Medicine Mixing
+336	Gun Target
+337	Bow Target
+338	Fill the Sum
+339	Nine Books
+340	Arrow Dodge
+341	Square Breaker
+342	Training Duel
+343	Mock Battle
+344	Order
+345	Supplies
+346	Give alms
+347	Preach
+348	Fight bandits
+349	How much will you give?\n(%d-%d)
+350	Castle
+351	Samurai Home
+352	Dojo
+353	Drill Ground
+354	Rice Shop
+355	Stable
+356	Tavern
+357	Inn
+358	Common Home
+359	Merchant House
+360	Physician
+361	Tea Master
+362	Temple
+363	Smithy
+364	Craftsman
+365	Nanban Temple
+366	Nanban House
+367	Noble's House
+368	Palace
+369	Guild
+370	Ninja House
+371	Training Ground
+372	Exchange
+373	Pirate House
+374	Shipyard
+375	Ninja Home
+376	Pirate Home
+377	Village Drill Ground
+378	Fort Drill Ground
+379	Village Training
+380	Fort Training
+381	At sea
+382	Talk
+383	Return to base
+384	Set destination
+385	Mission base
+386	Assigned base
+387	Job base
+388	Client base
+389	Gather Herbs
+390	Collect Iron Sand
+391	Meditate
+392	Wait
+393	(Undecided)
+394	Hand it over
+395	Persuade with money
+396	Fight yourself
+397	Talk
+398	Gift
+399	Sell belongings
+400	Waylay
+401	Don't enter
+402	Break the siege
+403	Bribe your way past
+404	Give half the money
+405	Turn the tables
+406	How much will you pay?
+407	How many days will you wait?
+408	How much?
+409	How many days will you meditate?
+410	How many days will you gather?
+411	Castle
+412	Lives in
+413	Troops %5d
+414	Rice   %5d
+415	Morale %5d
+416	Stop moving
+417	Stop waiting
+418	Stop meditating
+419	Stop gathering herbs
+420	Stop collecting
+421	To council
+422	Confirm
+423	Max
+424	Min
+425	Reading
+426	Shop Name
+427	Shop
+428	Pirate Band Name
+429	navy
+430	Ninja Band Name
+431	band
+432	School Name
+433	school
+434	Name
+435	Reading
+436	Begin!
+437	Stop!
+438	Wreck Castle
+439	Burn Fort
+440	New Fields
+441	Mine Work
+442	coins
+443	%5d coins
+444	How many coins will you bet?\n(1-%d)
+445	Chinchirorin
+446	Buta
+447	Inketsu
+448	Nitako
+449	Santa
+450	Shini
+451	Goke
+452	Roppo
+453	Naki
+454	Oicho
+455	Kabu
+456	Shippin
+457	Kuppin
+458	Arashi
+459	Once more
+460	Enough
+461	Oicho-Kabu
+462	Pinkoro
+463	pcs
+464	Hire bouncer
+465	Fire bouncer
+466	Work
+467	Drink
+468	Gamble
+469	Go outside?
+470	How much will you pay in?\n(0-%d)
+471	Council
+472	Report
+473	Unite
+474	Defend
+475	Advise on strategy
+476	Martial instruction
+477	Bout
+478	Attack
+479	Gift
+480	Tea
+481	Person Info
+482	Instruct without serving %s
+483	Serve %s as instructor
+484	Request Aide
+485	Present
+486	Leave service
+487	Ask strategy
+488	Urge rebellion
+489	Recommend retainer
+490	Propose strategy
+491	How much will you give?
+492	How much will you invest?\n(1-%d)
+493	Policy
+494	Goal
+495	Diplomacy
+496	Attack
+497	Tea
+498	Bout
+499	Martial instruction
+500	Become instructor
+501	Quit as instructor
+502	Advise on strategy
+503	Defect
+504	Enter service
+505	Gift
+506	Present
+507	Break Alliance
+508	Resign Purveyor
+509	Gift Funds
+510	Demand Surrender
+511	Ask Vassalage
+512	How many will you sell?\n(1-%d)
+513	Buy Tea Ware
+514	Tea Training
+515	Appraise Tea Ware
+516	How much will you donate?
+517	Farming Training
+518	Donate
+519	Now, what to do?
+520	This base's defense\ncan't be lowered any further
+521	This base's loyalty\ncan't be lowered any further
+522	This base's supplies\ncan't be lowered any further
+523	Keep Order
+524	New Fields
+525	Mine Work
+526	Repair Castle
+527	Expand Castle
+528	Sabotage
+529	Rumours
+530	Arson
+531	How much bribe will you give?\n(1-%d)
+532	Name yourself boldly
+533	Give a bribe
+534	Go in the front way
+535	Sneak in
+536	 Negotiate 
+537	 Accept 
+538	Finish them off
+539	Let them have revenge
+540	Reprove them
+541	Your share
+542	Enrol
+543	Grant License
+544	Make instructor
+545	Dismiss instructor
+546	Learn Technique
+547	Give money
+548	Beg for life
+549	Die bravely
+550	Examine
+551	Give medicine
+552	Give tea ware
+553	Refuse
+554	Under floor
+555	In the attic
+556	Near side
+557	Back of room
+558	Far end
+559	In the shadows
+560	In the cupboard
+561	In the jar
+562	%s
+563	How many tens of horses?\n%u kan per 10 (1-%d)
+564	Market Prices
+565	Riding Training
+566	Buy Horses
+567	Last year's results
+568	Declare War
+569	Make Peace
+570	Goodwill
+571	Give view on policy
+572	Give view on strategy
+573	Say nothing
+574	Aim to unite the realm
+575	Aim to unite the region
+576	Guns to sell\n(%d-%d)
+577	Rice to sell\n(%d-%d)
+578	Mission budget\n(%d-%d)
+579	Number to sell\n(%d-%d)
+580	Mission
+581	Troops to send\n(1-%d)
+582	Rice to send\n(1-%d)
+583	Funds to send\n(1-%d)
+584	Horses to send\n(1-%d)
+585	Guns to send\n(1-%d)
+586	Cannon to send\n(1-%d)
+587	Sekibune to send\n(1-%d)
+588	Large ships to send\n(1-%d)
+589	Ironclads to send\n(1-%d)
+590	Shop funds to send\n(1-%d)
+591	Funds
+592	How many nights will you stay?\n(1-%d)
+593	Hand over a gift in silence
+594	Oh no, I have nothing to give...
+595	Never mind
+596	Propose
+597	Nod in silence
+598	Gaze ardently
+599	Scratch your head
+600	Give a gift
+601	How many will you buy?\n(1-%d)
+602	Treatment
+603	Buy medicine
+604	Medical Training
+605	Medical Basics
+606	Recruit
+607	Attack
+608	Gift
+609	Tea
+610	Bout
+611	Talk
+612	Serve
+613	Take leave
+614	Present
+615	Rumours of people
+616	Skill Training
+617	Recruit as vassal
+618	How many you sell?\n(1-%d)
+619	How many cannon?\n%u kan each (1-%d)
+620	Buy Nanban Goods
+621	Sell Goods
+622	Appraise Nanban
+623	Buy Cannon
+624	Alms\n(%d-%d)
+625	Land
+626	Forces
+627	Train
+628	Conscript
+629	Alms
+630	Talk
+631	Land Info
+632	Force Info
+633	Supply Info
+634	Pay money
+635	Persuade
+636	Show off your valour
+637	How much will you give?\n(%d-%d)
+638	Train
+639	Alms
+640	Talk
+641	Land Info
+642	Force Info
+643	Supply Info
+644	How many thousand koku?\n%u kan per 1,000 (1-%d)
+645	How many thousand koku to sell?\n%u kan per 1,000 (1-%d)
+646	Market Prices
+647	Buy Rice
+648	Sell Rice
+649	5,000 koku
+650	7,000 koku
+651	10,000 koku
+652	15,000 koku
+653	20,000 koku
+654	Shop
+655	How many will you buy?\n%u kan each (1-%d)
+656	Buy Goods
+657	Sell Goods
+658	Accounting Training
+659	Buy Guns
+660	Open Route
+661	Request Blockade
+662	Make Purveyor
+663	Drop Purveyor
+664	Serve
+665	How many will you order?\n%u kan each (1-%d)
+666	How many will you order?\n%u kan each (1-%d)
+667	Gunnery Training
+668	Buy Guns
+669	Buy Cannon
+670	Odd Jobs
+671	Smithing Basics
+672	Buy Saltpetre
+673	Buy Sulphur
+674	Buy Charcoal
+675	Help Make Guns
+676	Collect Iron Sand
+677	Help Make Swords
+678	How many days will you help?\n(1-%d)
+679	How many days will you rest?\n(0-%d)
+680	How much will you withdraw?\n(1-%d)
+681	How much will you deposit?\n(1-%d)
+682	Until council
+683	One night
+684	Until next month
+685	Set days
+686	Recover
+687	Withdraw
+688	Deposit
+689	From savings
+690	From war funds
+691	To savings
+692	To war funds
+693	Council Chamber
+694	Rest
+695	Safe
+696	Appraise Items
+697	Tea Party
+698	Move House
+699	Talk to wife
+700	Train Abilities
+701	Go to dojo
+702	Found School
+703	Open Dojo
+704	Open Forge
+705	Go to forge
+706	Open Clinic
+707	Go to clinic
+708	Open Tea Room
+709	Go to tea room
+710	From shop funds
+711	To shop funds
+712	Honours
+713	Promotion
+714	Aides
+715	Court Office
+716	Dispatch
+717	Recall
+718	Take Base
+719	Take Province
+720	Take Power
+721	None
+722	Give Missions
+723	Personnel
+724	Transport
+725	Move Base
+726	Rebellion
+727	Battle
+728	Independence
+729	Open Branch
+730	Close Route
+731	Gather Supplies
+732	Send to front
+733	Set destination
+734	Shop Funds
+735	Aim for merchant chief
+736	band
+737	Banish
+738	Helpers
+739	Return Castle
+740	Results
+741	Ship Flags
+742	Trade Goods
+743	Buy now
+744	Sell now
+745	Fair price
+746	Market Prices
+747	Work
+748	Buy Trade Goods
+749	Sell Trade Goods
+750	Invest
+751	Talk
+752	Key valuables not owned
+753	Valuables
+754	Value
+755	Equip
+756	Drink
+757	Unappraised
+758	Price
+759	Value
+760	Owned
+761	Capacity
+762	Load
+763	Trade Good
+764	Weight
+765	Trade Goods Held
+766	Category
+767	Go
+768	Field Battle
+769	Siege
+770	Type
+771	Spirit Cost
+772	Weapon
+773	Troop Type
+774	Battlefield
+775	No limit
+776	Show
+777	Powers
+778	Bases
+779	Clan
+780	Ninja Band
+781	Pirate Band
+782	Castle
+783	Town
+784	Ninja Village
+785	Pirate Fort
+786	Province
+787	Size
+788	Population
+789	Yield
+790	Mine
+791	Order
+792	Defense
+793	Troops
+794	Morale
+795	Training
+796	War Funds
+797	Rice
+798	Horses
+799	Cannon
+800	Trade Area
+801	Investment
+802	Sekibune
+803	Large Ships
+804	Ironclads
+805	Domestic
+806	Daimyo Seat
+807	Province Seat
+808	Direct Castle
+809	Chief's Home
+810	Chief's Home
+811	Direct
+812	At war
+813	Revolt
+814	Clan
+815	Castle Lord
+816	Holder
+817	Facilities
+818	In Demand
+819	Backed Daimyo
+820	Sekibune
+821	Large Ships
+822	Ironclads
+823	Map
+824	(Main shop)
+825	(Branch)
+826	%s Diplomacy
+827	Diplomacy
+828	Feeling
+829	Relation
+830	Pretext
+831	Truce
+832	%2d months
+833	Clan
+834	Merchant House
+835	Ninja Band
+836	Pirate Band
+837	Head
+838	Power
+839	Trade Area
+840	Villages
+841	Forts
+842	Head
+843	Title
+844	Seat
+845	Court Standing
+846	Funds
+847	Trade Areas
+848	Gun Stock
+849	Villages
+850	Forts
+851	Large Ship Tech
+852	Ironclad Tech
+853	Loans
+854	People
+855	Own Power
+856	Followers
+857	Base
+858	Close
+859	Acquainted
+860	Gifts
+861	Likes
+862	Job
+863	Fame
+864	Infamy
+865	School
+866	Teacher
+867	%s's Home
+868	Own Home
+869	Samurai
+870	Merchant
+871	Ninja
+872	Pirate
+873	Boss
+874	Weapon
+875	Armour
+876	Friendship
+877	Location
+878	School
+879	Head
+880	Dojos
+881	Instructor
+882	Dojo Investment
+883	Pupils
+884	Balance
+885	Buy Price
+886	Sell Price
+887	Kan per 1,000 koku
+888	Kan per 10 head
+889	Court Title
+890	Owner
+891	Daimyo
+892	Rank
+893	Court Titles
+894	Trade Prices
+895	Basic
+896	Foreign
+897	Processed
+898	Province
+899	Region
+900	Routes
+901	Goods Sold
+902	Unit Price
+903	Stock
+904	Collected
+905	Collected Item
+906	Held
+907	Escort
+908	Route
+909	Balance
+910	%s-%s
+911	Escort
+912	Blockaded
+913	Overseer
+914	School Name
+915	Rank
+916	Key Skill
+917	Reward
+918	Details
+919	%s x%u
+920	To %s: %s x%u
+921	To Lord %s: %s x%u
+922	From %s: %u kan
+923	Bouncer
+924	%y days
+925	Info
+926	Functions
+927	%4d/%2d/%2d
+928	%6d kan %3d mon
+929	Job
+930	Deadline
+931	Goal
+932	Results
+933	Site
+934	Expired
+935	Last day
+936	No deadline
+937	%d days left
+938	Rice left
+939	Capital
+940	Impossible
+941	No results
+942	Balance 0 kan
+943	Balance +%d kan
+944	Balance -%d kan
+945	Captured
+946	Capturing (%y castles left)
+947	Allied
+948	Brought under rule
+949	Bought %s
+950	Bought %s x%y
+951	Delivered %s safely
+952	Handed over %s safely
+953	Collected %y kan of debt
+954	Surveyed everything
+955	Surveyed only %s
+956	Surveyed some towns
+957	Seconding failed
+958	Seconding done
+959	Bouncer job done
+960	Ringer job failed
+961	Ringer job done
+962	Bandits wiped out
+963	Beat bandits in %u places
+964	Merchant escort failed
+965	Escorted merchant to town
+966	Vendetta failed
+967	Vendetta done
+968	Collected %y iron sand
+969	Job
+970	Client
+971	Results
+972	%s  x%y
+973	%s  Qty: %y
+974	Ruling Power
+975	Merchant Chief
+976	Leading Daimyo
+977	Stay as you are
+978	Follow %s
+979	Nothing special
+980	No results
+981	army
+982	Enter service
+983	Take leave
+984	Recruit as vassal
+985	Attack
+986	Gift
+987	Tea
+988	Invite to tea room
+989	Bout
+990	Rumours of officers
+991	Skill Training
+992	Martial instruction
+993	Rumours of people
+994	Present
+995	Become a pirate
+996	Become a ninja
+997	Invite to tea party
+998	Invite to sumo
+999	Fight normally
+1000	Talk big
+1001	Martial Training
+1002	Rumours of swordsmen
+1003	Appraise Arms
+1004	Challenge Dojo
+1005	Give lessons
+1006	Take the sign
+1007	Take money
+1008	Break the sign
+1009	Etiquette Training
+1010	Appraise Books
+1011	Offering
+1012	Get a letter
+1013	How much will you offer?
+1014	Commission
+1015	Appraise Items
+1016	Gift
+1017	Tea
+1018	Put in a Word
+1019	Imperial Peace
+1020	Imperial Punishment
+1021	Talk
+1022	Gift
+1023	Waylay
+1024	View on policy
+1025	View on plans
+1026	Say nothing
+1027	Unite Realm
+1028	Unite Region
+1029	Fight battles
+1030	Use plots
+1031	Build arms
+1032	Develop lands
+1033	Give your view
+1034	Out of the question
+1035	Not enough
+1036	Ordinary
+1037	Well done
+1038	Splendid!
+1039	Main Keep
+1040	Second Ward
+1041	Third Ward
+1042	Fourth Ward
+1043	Main Gate
+1044	Rear Gate
+1045	Wait
+1046	Fire
+1047	Hold Fast
+1048	Surround
+1049	Assault
+1050	Make Iron
+1051	Mix Gunpowder
+1052	Make Arms
+1053	Make Guns
+1054	Close Forge
+1055	How many days will you work?\n(1-%d)
+1056	How many days will you mix?\n(1-%d)
+1057	Sword
+1058	Spear
+1059	Chain-Sickle
+1060	Kunai
+1061	Bow
+1062	swords
+1063	spears
+1064	sets
+1065	pcs
+1066	bows
+1067	guns
+1068	Finish normally
+1069	Give it your all
+1070	Name it
+1071	Throw away
+1072	To castle supplies
+1073	To shop gun stock
+1074	Skills
+1075	Skill
+1076	Give lessons
+1077	Expand Dojo
+1078	Close Dojo
+1079	Sex
+1080	Base
+1081	Born
+1082	Lifespan
+1083	Death
+1084	Lineage
+1085	Father
+1086	Arms
+1087	Ambition
+1088	Loyalty
+1089	Likes
+1090	Nerve
+1091	Greed
+1092	Outlook
+1093	Drinking
+1094	Conduct
+1095	Temper
+1096	Career
+1097	Wife's Nature
+1098	Male
+1099	Female
+1100	Battle
+1101	Illness
+1102	Minamoto
+1103	Taira
+1104	Fujiwara
+1105	Other
+1106	Swords
+1107	Spears
+1108	Kunai
+1109	Chain-Sickle
+1110	Matchlocks
+1111	Bows
+1112	Disloyal
+1113	Normal
+1114	Loyal
+1115	Arms
+1116	Art
+1117	Books
+1118	Nanban Goods
+1119	Timid
+1120	Normal
+1121	Bold
+1122	Greedy
+1123	Normal
+1124	Selfless
+1125	Realist
+1126	Normal
+1127	Idealist
+1128	Teetotal
+1129	Normal
+1130	Heavy
+1131	Rash
+1132	Normal
+1133	Careful
+1134	Short
+1135	Normal
+1136	Gentle
+1137	Officers only
+1138	Any career
+1139	Non-officers first
+1140	Not interested
+1141	Ordinary
+1142	Haughty
+1143	Demure
+1144	Tomboy
+1145	Fool
+1146	Strategist
+1147	Fierce General
+1148	Administrator
+1149	Swordsman
+1150	Ninja
+1151	Pirate
+1152	Merchant
+1153	Tea Master
+1154	Smith
+1155	Physician
+1156	%d
+1157	age %d
+1158	Fathers
+1159	
+1160	Enter the year of birth
+1161	age
+1162	Enter the lifespan
+1163	Enter the ambition
+1164	New
+1165	Officer
+1168	Make Herbal Medicine
+1169	Mix Cold Medicine
+1170	Mix Tonic
+1171	Mix Panacea
+1172	Treat Patients
+1173	Close Clinic
+1174	How many days will you open\nthe clinic? (1-%d)
+1175	Runny nose
+1176	Cough
+1177	Fever
+1178	Headache
+1179	Exhaustion
+1180	Chills
+1181	Lethargy
+1182	Fatigue
+1183	Weakness
+1184	Stomach ache
+1185	Diarrhoea
+1186	Numbness
+1187	Boils
+1188	Charge for medicine only
+1189	Overcharge
+1190	Free of charge
+1191	Make Tea Ware
+1192	Smash Tea Ware
+1193	Close Tea Room
+1194	Plans
+1195	Army Orders
+1196	Army Proposals
+1197	Ask Views
+1198	End Council
+1199	Negotiate
+1200	Ask for Help
+1201	Retreat
+1202	Choose Envoy
+1203	Truce
+1204	Lord's Seppuku
+1205	Demand Surrender
+1206	Surrender
+1207	Leave Castle
+1208	Demand Vassalage
+1209	Become Vassal
+1210	Demand Break
+1211	Accept
+1212	Refuse
+1213	Counter-offer
+1214	Demands
+1215	Offers
+1216	Move
+1217	Bombard
+1218	Skill
+1219	Build Fence
+1220	Wait
+1221	Retreat
+1222	Reselect Unit
+1223	All Wait
+1224	Work hard
+1225	Invest
+1226	Hinder
+1227	How much will you invest?\n(1000-%d)
+1228	How many will you provide?\n(0-%d)
+1229	Provide Goods
+1230	Work
+1231	Needed
+1232	Useful Skill
+1233	In Charge
+1234	Choose Person
+1235	Progress
+1236	Rivals
+1237	Reward
+1238	Goal
+1239	%s / %s
+1240	How much will you spend?\n(%d-%d)
+1241	Guns left
+1242	Back off
+1243	Use force
+1244	Plead
+1245	Request Aide
+1246	Foreign Trade
+1247	Hero
+1248	Titles
+1249	Sights
+1250	Techniques
+1251	Battles
+1252	Other
+1253	Dismiss
+1254	Eyes
+1255	Mouth
+1256	Nose
+1257	Head
+1258	Clothes
+1259	Accessory
+1260	Accessory
+1261	  ?-?  \n
+1262	Accept tea
+1263	Show how it's done
+1264	Paradise of Peace
+1265	Soaring
+1266	Dreams of Rising
+1267	Biding Time
+1268	Doing Business?
+1269	Way of the Merchant
+1270	Living in Shadow
+1271	Ninja Code
+1272	Shore Song
+1273	Life on the Sea
+1274	Repose
+1275	Eternal Capital
+1276	Council
+1277	Wabi-Sabi
+1278	Just One Drink
+1279	House of Foreigners
+1280	To Lands Abroad
+1281	Majestic
+1282	The Decisive Battle
+1283	After the Fight
+1284	Life and Death
+1285	All or Nothing
+1286	Pathos
+1287	Hope
+1288	Resolve
+1289	Crisis
+1290	The Enemy Is at Honnoji
+1291	Small Happiness
+1292	Onward
+1293	A Dream Within a Dream
+1294	And On to the Top
+1295	A Life Without Regret
+1296	From the Beginning
+1297	Choose New Officers
+1298	Choose Hero
+1299	Settings
+1300	Event Art
+1301	Music Room
+1302	Oppose reinforcements
+1303	We can hold without help
+1304	The enemy is too strong
+1305	I have a bad feeling
+1306	Mini-Games
+1307	Bring the new officers you made\ninto the game?
+1308	Sell Guns
+1309	Corner Rice
+1310	Bribe
+1311	Lend Money
+1312	Collect Money
+1313	Scout Village
+1314	Scout Fort
+1315	Route Talks
+1316	Cards
+1317	New Officers
+1318	Mouse
+1319	Cat
+1320	Cockroach
+1321	Handsome
+1322	Normal
+1323	Swarthy
+1324	Old
+1325	Normal
+1326	Swarthy
+1327	Slender
+1328	Baby-faced
+1329	Power Info
+1330	Base Info
+1331	Until council
+1332	Council day
+1333	End of council
+1334	How many will you give?\n(1-%d)
+1335	Start
+1336	Explain
+1337	Siege Attack
+1338	Siege Defense
+1339	How much will you give?\n(%d-%d)
+1340	How much will you lend?\n(1-%d)
+1341	Fine, I'll make up the shortfall
+1342	This is business: I politely decline
+1343	, 
+1344	...I'll give you a discount
+1345	No discounts!
+1346	Borrowed Name
+1347	Spare Troops
+1348	Spare Horses
+1349	Spare Guns
+1350	Spare Cannon
+1351	Spare Sekibune
+1352	Spare Large Ships
+1353	Spare Ironclads
+1354	Join as Help
+1355	Beat Enemy
+1356	Carry Rice
+1357	Attack Base
+1358	Rice wanted\n(%u-%u,000 koku)
+1359	Max Troops
+1360	Sell Treasure
+1361	Blast
+1362	Infiltrate
+1363	Assault
+1364	Team Size
+1365	Sword and Zen as One
+1366	/
+1367	Danger
+1368	Land
+1369	Water
+1370	Status
+1371	Normal
+1372	Confused
+1373	Panicked
+1374	Pinned
+1375	Provoked
+1376	Lift Ambush
+1377	Delegate
+1378	Undelegate
+1379	How much for the scheme?\n(%d-%d)
+1380	Samurai
+1381	Merchant
+1382	Ninja
+1383	Pirate
+1384	Ronin
+1385	Share to direct castles
+1386	Share to direct shops
+1387	Share to direct villages
+1388	Share to direct forts
+1389	Go to shop
+1390	Command Room
+1391	Fort Lord's Room
+1392	Pay
+1393	Life
+1394	Great Mission
+1395	Caddy
+1396	Bowl
+1397	Vase
+1398	Scoop
+1399	Nasu
+1400	Katatsuki
+1401	Bunrin
+1402	Red
+1403	Black
+1404	White
+1405	Blue
+1406	Bronze
+1407	Ceramic
+1408	Bamboo
+1409	Ivory
+1410	Wood
+1411	Chojiro
+1412	Sotan
+1413	Hyobu
+1414	Kenmotsu
+1415	Soji
+1416	Jokei
+1417	Kakiemon
+1418	Gorodayu
+1419	Donyu
+1420	Sokei
+1421	Kamon
+1422	Ninsei
+1423	1,000 kan
+1424	Reward\n(%u-%u,000 kan)
+1425	Call deadline
+1426	Cancel tea party
+1427	Ask them to wait
+1428	Go-between
+1429	Request Scheme
+1430	Scout Base
+1431	Sunomata Castle
+1432	Azuchi Castle
+1433	Osaka Castle
+1434	Rivals of Kawanakajima
+1435	Three Arrows
+1436	Meeting at Shotokuji
+1437	Honnoji Incident
+1438	Ten Braves of Sanada
+1439	Oyama Council
+1440	Lady Oichi
+1441	Flooding Takamatsu
+1442	Death of Terumune
+1443	Three-Day Rule
+1444	Nagashino
+1445	Sanada's Charge
+1446	Yoshiaki's Plot
+1447	Nobunaga's Funeral
+1448	Shikanosuke's Vow
+1449	Ironclads Launched
+1450	Dancing Atsumori
+1451	Filling the Moat
+1452	Duel at Ganryu Island
+1453	Empty Castle Ruse
+1454	Seal of Tenka Fubu
+1455	Hokoji Bell
+1456	Goemon Boiled
+1457	Okehazama Raid
+1458	Return from Chugoku
+1459	Skull Cups
+1460	Rescuing Kanbei
+1461	Kitano Tea Party
+1462	Death
+1463	March Out
+1464	Castle Falls
+1465	Siege
+1466	Field Battle
+1467	Sea Battle
+1468	Defeat
+1469	Victory Cry
+1470	Debate
+1471	To Kyoto
+1472	Seppuku
+1473	Beheading
+1474	Assassination
+1475	Banquet
+1476	Wedding
+1477	Daimyo Submits
+1478	Senior First Rank
+1479	Kabuki Troupe
+1480	Burning Temples
+1481	Realm United
+1482	Realm United 2
+1483	Merchant Ending 1
+1484	Merchant Ending 2
+1485	Ninja Ending 1
+1486	Ninja Ending 2
+1487	Swordsman Ending 1
+1488	Swordsman Ending 2
+1489	Pirate Ending 1
+1490	Pirate Ending 2
+1491	Physician Ending
+1492	Smith Ending
+1493	Tea Master Ending
+1494	Farmer Ending
+1495	Aesthete Ending
+1496	Kabuki Ending
+1497	Peaceful Town
+1498	Pandemonium
+1499	Sune'emon Crucified
+1500	Ship Flag Term
+1501	No ship flag
+1502	1 kan per coin
+1503	5 kan per coin
+1504	10 kan per coin
+1505	Continue
+1506	Roll Dice
+1507	Stop
+1508	How many coins will you buy?\n(1-%d)
+1509	Place Units
+1510	Keep Fighting
+1511	Quick Battle
+1512	%s%s / %s Army
+1513	Enemy Unit %y
+1514	Total Troops
+1515	Victory Terms
+1516	Accept the bout
+1517	Turn them away
+1518	Leave it to the instructor
+1519	Defeat Terms
+1520	Do nothing
+1521	Marry Nene
+1522	Main Gate Enemy
+1523	Rear Gate Enemy
+1524	4th Ward Enemy
+1525	3rd Ward Enemy
+1526	2nd Ward Enemy
+1527	Main Keep Enemy
+1528	Besieging Enemy
+1529	War Council
+1530	Army
+1531	Prisoners
+1532	Try to recruit
+1533	Release
+1534	Allow seppuku
+1535	Be overbearing
+1536	Persuade
+1537	Beg
+1538	Cheap hire
+1539	Fair hire
+1540	Strong but costly
+1541	Punish the bandits
+1542	Pay to leave
+1543	Talk your way out
+1544	Use charms
+1545	Repair Village
+1546	Repair Fort
+1547	Expand Village
+1548	Expand Fort
+1549	Straw Hat
+1550	Shaven Head
+1551	Hannya Mask
+1552	Wild Hair
+1553	Cross
+1554	Nanban Clothes
+1555	Bared Shoulder
+1556	Cloak
+1557	Noble
+1558	Abacus
+1559	Hammer
+1560	War Fan
+1561	Club
+1562	Dice
+1563	Cat
+1564	Monkey
+1565	Eye Patch
+1566	Bamboo
+1567	Pipe
+1568	Giant
+1569	Steady
+1570	Expected Profit
+1571	Upkeep
+1572	Expected Funds
+1573	Give water
+1574	Abandon
+1575	Rub their back
+1576	List
+1577	Propose marriage
+1578	Shopkeeper
+1579	Accept the offer
+1580	Decline the offer
+1581	Edits won't be saved.\nCancel anyway?
+1582	Direct Vassal
+1583	Rear Vassal
+1584	Drive off
+1585	%s-%s(%s)
+1586	Appoint Castle Lord
+1587	Appoint Manager
+1588	Appoint Squad Chief
+1589	Appoint Fleet Captain
+1590	Aide
+1591	Ask Other Powers
+1592	Develop Specialty
+1593	Invite Smith
+1594	Close Smithy
+1595	Own House
+1596	Poach
+1597	Request Foreign Trade
+1598	Field Tactics
+1599	Siege Tactics
+1603	Dispose of Arms
+1604	Request Help
+1605	Free
+1606	Sword Dojo
+1607	Spear Dojo
+1608	%s School Dojo
+1609	Make retainer
+1610	Don't make retainer
+1611	Rebel
+1612	Don't rebel
+1613	Defect
+1614	Don't defect
+1615	Overcharge
+1616	Branch Info
+1617	Escort Route
+1618	Edit Officers
+1619	Own Bases
+1620	Tactics 
+1621	Medicine 
+1622	Teacher
+1623	Pay War Levy
+1624	Shops
+1625	Own Army: 
+1626	Enemy: 
+1627	Main: 
+1628	Help: 
+1629	Instructor
+1630	Backed Daimyo
+1631	Attack Base
+1632	Move Base
+1633	Attack Army
+1634	Pursue Army
+1635	Move to Point
+1636	Attack Point
+1637	Return
+1638	Defend Base
+1639	Wait
+1640	Help Wait
+1641	How many days will you work?\n(1-%d)
+1642	 and 
+1643	Capturing (%y villages left)
+1644	Capturing (%y forts left)
+1645	(%d kan to next size)
+1646	Train only
+1647	Money first
+1648	Arms first

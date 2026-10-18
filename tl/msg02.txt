@@ -1,0 +1,1564 @@
+# msg02: merchant guilds (za), trade, jobs for merchants, shops.
+# Variant pairs: polite (listener is a samurai of rank 5-8) / casual.
+@0
+I have received {02}od of {02}Ge.\nPlease give my regards\nto the guild in {02}{15}e.
+@0.1
+Got {02}od of {02}Ge.\nGive my regards\nto the old man at the {02}{15}e guild.
+@1
+You're late!\nThe deadline has passed.
+@1.1
+Oh, it's you!\nYou're late.\nThe agreed day has passed.
+@2
+I'm sorry, but I couldn't\nfinish the job I took on.
+@2.1
+I'm sorry, I couldn't\nfinish the job I took on...
+@3
+If that's how it is, it can't be helped.
+@3.1
+If that's how it is, it can't be helped.
+@4
+You're {02}od short\nof the {02}Ge I gave you.
+@4.1
+You're {02}od short\nof the {02}Ge I gave you.
+@5
+The {02}3g I gave you\nisn't here...\nThis is a problem.
+@5.1
+The {02}3g I gave you isn't here.
+@6
+Then I'll take it from your money:\nthe price of the goods, plus my losses\nfor the failed job.
+@6.1
+Then I'll take it from your money:\nthe price of the goods, plus my losses\nfor the failed job.
+@7
+Then would you return\nthe remaining {02}o{C8}?
+@7.1
+Then hand back\nthe remaining {02}o{C8}.
+@8
+Even with all your money\nyou're still {02}o{C8} short...\nThis is a problem.
+@8.1
+Even with all your money\nyou're still {02}o{C8} short.
+@9
+You'll have to settle this.\nYou'll leave something\nof value behind!\n
+@9.1
+You'll leave something\nof value behind.
+@10
+{02}3g was confiscated!
+@11
+Well, I suppose that will do.\nFrom now on, please take care\nnot to spend the capital.
+@11.1
+Well, that'll do.\nFrom now on, take care\nnot to spend the capital.
+@12
+It's not enough!\nI'll send my men to your home\nto collect the rest!
+@12.1
+It's not enough!\nI'll send my men to your house\nto collect the rest.
+@13
+Paid {02}o{C8}\nfrom savings at home.
+@14
+Honestly...\nI'll have no more of this trouble.\nPlease leave for today.
+@14.1
+What a lot of trouble you've caused.\nPlease leave.
+@15
+It can't be helped, then.\nSensei! Please!
+@15.1
+Then there's no helping it.\nSensei! Please!
+@16
+You big shots are all the same!\nYou'll learn the hard way\nwhat happens if you don't pay up!
+@16.1
+What a joke of a fellow!\nYou'll learn the hard way\nwhat happens if you don't pay up!
+@17
+Honestly...\nI'll have no more of this trouble!\nPlease leave for today!
+@17.1
+What a lot of trouble you've caused!\nGet out!
+@18
+Have you finished the job I asked of you?
+@18.1
+Finished the job I asked for?
+@19
+Then please be quick about it.
+@19.1
+Then get it done quick.
+@20
+Then what are the results?
+@20.1
+Then let's hear the results.
+@21
+I'm sorry, but I could only\nget {02}od of {02}Ge.
+@21.1
+I'm sorry, I could only\nget {02}od of {02}Ge...
+@22
+I got {02}od of {02}Ge,\njust as you asked.
+@22.1
+I got {02}od of {02}Ge,\njust as you asked.
+@23
+I got the {02}3g\nyou asked for.
+@23.1
+I got the {02}3g\nyou asked for.
+@24
+I delivered {02}od of {02}Ge\nsafely to the guild in {02}{15}e.
+@24.1
+I delivered {02}od of {02}Ge\nsafely to the guild in {02}{15}e.
+@25
+I delivered the {02}3g\nsafely to {02}{03}g.
+@25.1
+I delivered the {02}3g\nsafely to {02}{03}g.
+@26
+I'm sorry, but I could only\ncollect {02}o{C8} from {02}{03}g.
+@26.1
+I'm sorry, I could only\ncollect {02}o{C8} from {02}{03}g...
+@27
+I collected the full {02}o{C8}\nfrom {02}{03}g, as you asked.
+@27.1
+I collected the full {02}o{C8}\nfrom {02}{03}g, as you asked.
+@28
+I surveyed every specialty\nof the trade area you named.
+@28.1
+I surveyed every specialty\nof the trade area you named.
+@29
+I'm sorry, but I couldn't\nsurvey every town.
+@29.1
+I'm sorry, I couldn't\nsurvey every town...
+@30
+I had hoped you would do\na little more...\nWell, it can't be helped.
+@30.1
+I'd hoped you'd do a little more...\nCan't be helped.
+@31
+You've got the knack of trade.\nYou'll be needing this soon...\nI'd like you to have it.
+@31.1
+You've got the hang of trade now.\nYou'll be needing this soon...\nIt's yours!
+@32
+This will make travelling the roads easier.\nBusiness will prosper all the more!\nI look forward to working with you.
+@32.1
+This'll make travelling the roads easier.\nBusiness will boom even more!\nKeep it up.
+@33
+Oh, thank you very much!\nYou've been a great help to us.
+@33.1
+Oh! Thanks for the hard work!\nWell done.
+@34
+Here is your reward of {02}o{C8}.\nPlease accept it.
+@34.1
+Here's your reward, {02}o{C8}.\nTake it.
+@35
+It seems the job isn't done.\nIs it too much for you?
+@35.1
+Looks like the job isn't done.\nToo much for you, is it?
+@36
+I see...\nIt seems I asked the wrong person.
+@36.1
+What!\nI shouldn't have asked you in the first place.
+@37
+Well, well,\nwelcome.
+@37.1
+Hey, welcome.
+@38
+What can I do for you?
+@38.1
+What do you need?
+@39
+Hey, making money?
+@40
+Well, well,\nwelcome.
+@40.1
+Welcome.
+@41
+At the request of the guild in {02}{15}e,\nI have come to deliver {02}Ge.
+@41.1
+At the request of the guild in {02}{15}e,\nI have come to deliver {02}Ge.
+@42
+Ah, I've been expecting you.\nLet me check the amount, then.\n...Hm, hm.
+@42.1
+Ah, been waiting for you.\nLet me check the amount.\n...Hm, hm.
+@43
+You're {02}od short of what I asked for.\nI can't accept this.\nPlease come back again.
+@43.1
+You're {02}od short of what I asked for.\nCan't take this.\nCome back again.
+@44
+Haven't you taken on another job?\nI can't ask you until it's done.\nCome back when you've finished it.
+@44.1
+You've taken on another job, haven't you?\nCan't ask you till that's done.\nHurry up and finish it.
+@45
+Right now in {02}{15}e\nthere are these jobs.\nWhich will you take?
+@45.1
+Right now in {02}{15}e\nthere are these jobs.\nWhich will you do?
+@46
+I see.\nPlease come again if you feel like it.
+@46.1
+I see.\nCome again if you feel like it.
+@47
+You're carrying too much money;\nI can't hand you the capital.\nI can't give you this job.
+@47.1
+You're carrying too much money;\nyou can't take the capital.\nCan't give you this job.
+@48
+You have no room for cargo.\nI can't give you this job.
+@48.1
+No room for cargo, it seems.\nCan't give you this job.
+@49
+You have no room to carry goods.\nI can't give you this job.
+@49.1
+No room to carry goods, it seems.\nCan't give you this job.
+@50
+Then I'm counting on you.\nIf you run into trouble, talk to\nthe guild master in a nearby town.
+@50.1
+Then I'm counting on you.\nIf you run into trouble, talk to\nthe guild master in a nearby town.
+@51
+A purchase of trade goods.\nThis time please buy\n{02}od of {02}Ge.
+@51.1
+Buying trade goods.\nThis time buy\n{02}od of {02}Ge.
+@52
+A purchase of treasure.\nThis time please buy\n{02}od of {02}3g.
+@52.1
+Buying treasure.\nThis time buy\n{02}od of {02}3g.
+@53
+Transport of trade goods.\nThis time please carry {02}od of {02}Ge\nto the guild in {02}{15}e.
+@53.1
+Transporting trade goods.\nThis time carry {02}od of {02}Ge\nto the guild in {02}{15}e.
+@54
+Delivery of treasure.\nThis time please deliver {02}od of {02}3g\nto Lord {02}{03}g.\nLord {02}{03}g should be\nin {02}{15}e.
+@54.1
+Delivering treasure.\nThis time deliver {02}od of {02}3g\nto Lord {02}{03}g.\nLord {02}{03}g should be\nin {02}{15}e.
+@55
+Debt collection.\nThis time please collect the debt\nfrom {02}{03}g in {02}{15}e.
+@55.1
+Debt collection.\nThis time collect the debt\nfrom {02}{03}g in {02}{15}e.
+@56
+A survey of specialties.\nThis time please look into\nthe prices in {02}ee.
+@56.1
+A survey of specialties.\nThis time look into\nthe prices in {02}ee.
+@57
+Will you take on {02}yd?
+@57.1
+Will you take on {02}yd?
+@58
+There's no work right now.\nI'll ask you another time.
+@58.1
+There's no work right now.\nSorry, I'll ask you another time.
+@59
+You can't carry any more unless you sell something.
+@59.1
+You can't carry any more unless you sell something.
+@60
+If you buy any more, it'll be too heavy to carry.
+@60.1
+If you buy any more, it'll be too heavy to carry.
+@61
+I'm terribly sorry,\nbut everything is sold out.\nPlease come again next month.
+@61.1
+Sorry, it's all sold out.\nCome again next month.
+@62
+Everything is sold out.
+@62.1
+It's all sold out.
+@63
+Oh, you have a free-market\npermit!\nThen the 20% tax is waived.
+@63.1
+Oh, you've got\na free-market permit.\nThen the 20% tax is waived.
+@64
+If you don't have\na free-market permit,\nthere's a 20% tax.
+@64.1
+If you don't have a free-market permit,\nthere's a 20% tax.
+@65
+There are no specialties\nhere in {02}{15}e.\nWhat would you like to buy?
+@65.1
+There are no specialties here in {02}{15}e.\nWhat will you buy?
+@66
+There are no specialties\nhere in {02}{15}e yet.\nWhat would you like to buy?
+@66.1
+There are no specialties\nhere in {02}{15}e yet.\nWhat will you buy?
+@67
+The specialty of {02}{15}e\nis {02}yd.\nWhat would you like to buy?
+@67.1
+The specialty of {02}{15}e is {02}yd.\nWhat will you buy?
+@68
+{02}yd is {02}o{C8}.\nHow many will you buy?
+@68.1
+{02}yd is {02}o{C8}.\nHow many will you take?
+@69
+{02}od of {02}yd\ncomes to {02}p{C8}.\nWill you buy?
+@69.1
+{02}od of {02}yd comes to {02}p{C8}.\nBuying?
+@70
+In that case,\nhow about {02}o{C8}?
+@70.1
+Then\nhow about {02}o{C8}?
+@71
+Hmm... very well!\nHow about {02}o{C8}?
+@71.1
+Hmm... all right!\nHow about {02}o{C8}?
+@72
+Then how about {02}o{C8}?\nI can't go any lower.
+@72.1
+Then how about {02}o{C8}?\nCan't go any lower.
+@73
+Ugh, I don't have enough money...
+@73.1
+Oh, I don't have enough money...
+@74
+Right, I'll buy!
+@74.1
+Right, I'll buy!
+@76
+I see...\nThen another time.
+@76.1
+I see...\nSee you, then.
+@77
+You won't buy at this price?!\nDon't make a fool of my business.\nPlease leave.
+@77.1
+You won't buy at this price?!\nAre you making a fool of my business?!\nGet out.
+@78
+You seem to be carrying all the money you can.\nYou'd better buy something\nor save it.
+@78.1
+You're full up on money.\nBetter buy something\nor save it, wouldn't you say?
+@79
+You don't seem to have\nanything to sell.
+@79.1
+You don't seem to have\nanything to sell.
+@80
+Which goods will you sell?
+@80.1
+Which goods will you sell?
+@81
+Right now many people in {02}{15}e\nseem to want {02}Ge.\nSo, which goods will you sell?
+@81.1
+Right now lots of people in {02}{15}e\nseem to want {02}Ge.\nSo, which goods will you sell?
+@82
+{02}yd is {02}o{C8}.\nHow many will you sell?
+@82.1
+{02}yd is {02}o{C8}.\nHow many will you sell?
+@83
+{02}od of {02}yd comes to {02}p{C8}.\nWill you sell?
+@83.1
+{02}od of {02}yd comes to {02}p{C8}.\nSelling?
+@84
+Then how about\n{02}o{C8}?
+@84.1
+Then how about {02}o{C8}?
+@85
+Hmm... very well!\nHow about {02}o{C8}?
+@85.1
+Hmm... all right!\nHow about {02}o{C8}?
+@86
+Then how about {02}o{C8}?\nI can't pay any more.
+@86.1
+Then how about {02}o{C8}?\nCan't go any higher.
+@87
+Right, I'll sell!
+@87.1
+Right, I'll sell!
+@89
+I see...\nThen another time.
+@89.1
+I see...\nSee you, then.
+@90
+You won't sell at this price?!\nDon't make a fool of my business.\nPlease leave.
+@90.1
+You won't sell at this price!\nAre you making a fool of my business?!\nGet out.
+@91
+Investments are in units of 1 kan.\nYou don't have enough money.
+@91.1
+{01}CR{08}, investments are\nin units of 1 kan.\nBring more money, will you.
+@92
+Thank you very much.\n{02}{15}e will prosper all the more.\nHow much will you invest?
+@92.1
+That's good to hear.\n{02}{15}e will prosper all the more.\nHow much will you invest?
+@93
+I see... What a pity.\nPlease do it another time.
+@93.1
+I see... Too bad.\nAnother time, then.
+@94
+Then you'll invest {02}od kan\nin {02}{15}e?
+@94.1
+So you'll invest {02}od kan\nin {02}{15}e?
+@95
+Oh! This is most welcome!\nAs expected of {02}{02}g{01}CS{08}!\nI'll use it to develop the town.\nCome again when the month changes.\nIf the town hasn't grown by then...\nplease invest again.
+@95.1
+Oh! Much obliged!\nAs expected of {02}{02}g{01}CS{08}!\nI'll put it to good use.\nCome again when the month changes.\nIf the town hasn't grown by then...\nplease invest again.
+@96
+What can I do for you?\nAh, you're looking into\nthe specialties here.
+@96.1
+What's that?\nAh, looking into the specialties here, are you.
+@97
+I'm afraid there are no specialties\nin {02}{15}e.
+@97.1
+No specialties in {02}{15}e.\nSorry about that.
+@98
+There are no specialties\nin {02}{15}e yet.\nI'd like to make one some day...
+@98.1
+No specialties in {02}{15}e yet.\nSome day I want to make one\nthat beats anywhere else.
+@99
+The specialty of {02}{15}e is {02}yd.\nThe current price is about {02}o{C8},\nso {02}zd.
+@99.1
+The specialty of {02}{15}e is {02}yd.\nThe price is about {02}o{C8} now,\nso {02}zd.
+@100
+now's the time to buy
+@101
+now's the time to sell
+@102
+it's a fair price
+@103
+{02}Ge?\nIt's sold in this town.
+@103.1
+{02}Ge?\nI believe it's sold in {02}{15}e.
+@103.2
+{02}Ge?\nThis town sells it.
+@103.3
+{02}Ge?\nI think {02}{15}e sells it.
+@104
+{02}Ge?\nIt's sold in this town, but...\nit's sold out at the moment.
+@104.1
+{02}Ge?\nIt's sold in this town.
+@104.2
+{02}Ge?\nThis town sells it, but...\nit's sold out right now.
+@104.3
+{02}Ge?\nThis town sells it.
+@105
+{02}Ge...\nIt's sold in {02}$g.
+@105.1
+{02}Ge?\nI believe it's sold in {02}{15}e.
+@106
+{02}Ge...\n{02}$g sells it.
+@106.1
+{02}Ge...\nI think {02}{15}e sells it.
+@107
+{02}Ge?\nI'm sorry, but please ask\nin another town.
+@107.1
+{02}Ge...\nSorry, ask in another town.
+@108
+{02}3g?\nI believe {02}{03}g\nin {02}{15}e has one.
+@108.1
+{02}3g...\nI think {02}{03}g\nin {02}{15}e has one.
+@110
+{02}3g?\nYou can only buy one from a travelling merchant\nor get one from a tavern landlady.
+@110.1
+Travelling merchants go back and forth\naround Odawara-Sakai, Sakai-Hakata\nand Odawara-Hakata.
+@110.2
+To get goods from a tavern landlady\nyou must gamble at the tavern\nand win big.
+@110.3
+Anything you buy must be appraised\nbefore you take it anywhere.
+@111
+{02}3g...\nYou can only buy one from a travelling merchant\nor get one from a tavern landlady.
+@111.1
+Travelling merchants go back and forth\naround Odawara-Sakai, Sakai-Hakata\nand Odawara-Hakata.
+@111.2
+To get goods from a tavern landlady\nyou have to gamble at the tavern and win big.
+@111.3
+Anything you buy has to be appraised\nbefore you take it anywhere.
+@112
+{02}{15}e...\nIt's in this town.
+@112.1
+{02}{15}e...\nIt's a town in\n{02}$e, {02}$g.
+@112.2
+{02}{15}e...\nThat's this town.
+@112.3
+{02}{15}e...\nIt's a town in\n{02}$e, {02}$g.
+@113
+{02}{03}g...\nThe {02}{03}i of {02}{03}{EC}.\nI believe they're in {02}{15}e.
+@113.1
+{02}{03}g...\nThe {02}{03}i of {02}{03}{EC}.\nI think they're in {02}{15}e.
+@114
+{02}{03}g?\nI believe they're in this town.
+@114.1
+{02}{03}g?\nI believe they're in {02}{15}e.
+@114.2
+{02}{03}g...\nI think they're in this town.
+@114.3
+{02}{03}g...\nI think they're in {02}{15}e.
+@115
+{02}{03}g...\nThe {02}{03}i of {02}{03}{EC}.\nI believe they're in {02}{15}e.
+@115.1
+{02}{03}g...\nThe {02}{03}i of {02}{03}{EC}.\nI think they're in {02}{15}e.
+@116
+{02}{03}g?\nI believe they're in this town.
+@116.1
+{02}{03}g?\nI believe they're in {02}{15}e.
+@116.2
+{02}{03}g...\nI think they're in this town.
+@116.3
+{02}{03}g...\nI think they're in {02}{15}e.
+@117
+Actually, guild work has\nsome tasty shortcuts...\n...Well, find them for yourself.
+@117.1
+Actually, guild work has\nsome tasty shortcuts...\n...Well, find them yourself.
+@118
+What can I do for you?\nForgive me, but I'm busy right now\nand have no time for idle chatter.
+@118.1
+Do you know how many days it takes\nto travel this land from Matsumae\nin the north to Kagoshima in the south?\nAbout 30 days.\nSo 60 days is enough\nfor almost any job.
+@118.2
+The basic way to profit from trade goods\nis to buy them where they're cheap\nand sell them where they aren't sold.
+@118.3
+If you want to profit from trade goods,\nfirst train your "Accounting".\nIt makes haggling more effective.
+@118.4
+"Speech" is also an important skill\nfor profiting from trade goods.\nIt makes haggling succeed more often.
+@118.5
+Even a town that seems to have no specialty\nmay produce one\nonce it grows larger.\nThat is why investment matters.
+@118.6
+Even a town with a specialty\nmay produce a more profitable one\nonce it grows larger.\nThat is why investment matters.
+@118.7
+For the same trade goods, the larger the town,\nthe lower the buying price and the higher the selling price.\nOnly by a little, though.
+@118.8
+The selling price of trade goods\nis lower than the buying price.\n\nSo if you sell them in a town\nwhere they cost about the same,\nyou'll only lose money.
+@119
+What do you want?\nSorry, I'm busy right now.\nNo time for idle chatter.
+@119.1
+Know how many days it takes\nto travel this land from Matsumae\nin the north to Kagoshima in the south?\nAbout 30 days.\nSo 60 days should be enough\nfor almost any job.
+@119.2
+The basic way to profit from trade goods\nis to buy them where they're cheap\nand sell them where they aren't sold.
+@119.3
+If you want to profit from trade goods,\nfirst train your "Accounting".\nIt makes haggling more effective.
+@119.4
+"Speech" is also an important skill\nfor profiting from trade goods.\nIt makes haggling succeed more often.
+@119.5
+Even a town that seems to have no specialty\nmay produce one\nonce it grows larger.\nThat's why\ninvestment matters.
+@119.6
+Even a town with a specialty\nmay produce a more profitable one\nonce it grows larger.\nThat's why\ninvestment really matters.
+@119.7
+For the same trade goods, the larger the town,\nthe lower the buying price and the higher the selling price.\nOnly by a little, though.
+@119.8
+The selling price of trade goods\nis lower than the buying price.\n\nSo if you sell them in a town\nwhere they cost about the same,\nyou'll only lose money.
+@120
+Let me get straight to business.\nI've brought {02}3g\nfrom the guild in {02}{15}e.
+@120.1
+Let me get straight to business.\nI've brought {02}3g\nfrom the guild in {02}{15}e.
+@121
+Oh, the goods I asked\nthe guild in {02}{15}e for.\nI've received them.
+@121.1
+Oh, the goods I asked\nthe guild in {02}{15}e for.\nI've received them.
+@122
+Let me get straight to business.\nPlease repay the {02}od kan\nyou owe the guild in {02}{15}e.
+@122.1
+Let me get straight to business.\nPlease repay the {02}od kan\nyou owe the guild in {02}{15}e.
+@123
+Oh! {01}CX{08}\nThen {01}CZ{08}! {02}od kan.
+@123.1
+Oh! {01}CX{08}\nHere you are! {02}od kan.
+@124
+Oh, oh! {01}CX{08}...\nBut I only have {02}od kan on me.\nSorry, the rest next time...
+@124.1
+Oh, my... {01}CX{08}...\nBut I only have {02}od kan on me...\nI'm sorry, the rest next time...
+@125
+What can I do for you?\nAh, you're looking into\nthe prices of specialties and goods here.
+@125.1
+What's that?\nAh, looking into the prices\nof specialties and goods here, are you.
+@126
+Well, here are the details.
+@126.1
+Well, have a look at this.
+@127.*
+
+@128
+Thank you very much
+@128.1
+Thanks
+@129.*
+
+@130
+Sir
+@130.1
+Thanks for the thought, but
+@130.2
+Look
+@131
+\_the Great
+@131.1
+
+@132-135.*
+
+@136.*
+thanks for your trouble
+@138.*
+here you are
+@139
+(I'm in the middle\n of a ninja job right now...\n I must finish that first...)
+@140
+It's a kind offer, but more investment\nwouldn't have any use right now.\n...I'll just accept your good will.
+@140.1
+Thanks, but right now more\ninvestment would have no use.\nSo... I'll just take the thought.
+@141
+Hm? {01}C1{00}...\nOf all places to meet you,\nit had to be here.\nWell, the result is a foregone conclusion,\nbut don't hold {01}C{A8}{01} back.\nI won't stay long. Farewell.
+@141.1
+Oh? {01}C1{00}...\nOf all places to meet you,\nit had to be here.\nWell, the result is a foregone conclusion,\nbut don't hold {01}C{A8}{01} back.\nI won't stay long. Excuse me~
+@142
+{02}{15}e has no specialty yet. If trade\nroutes expand, it could make one, it seems...\n
+@142.1
+{02}{15}e has no specialty yet.\nIf the trade routes expand,\nit could make one, I think.
+@143
+You are a merchant\nof {02}{02}{EC}, aren't you?\nCan't you do something?
+@143.1
+You're a merchant of {02}{02}{EC}, right?\nCan't you do something?
+@144
+{02}yd is our pride.\nIt needs {02}zd and {02}{7B}d.\nThe price now is about {02}o{C8}.
+@145
+Very well.\nI can't win against you.\nHow about {02}o{C8}?
+@145.1
+All right.\nYou wore me down.\nThen how about {02}o{C8}?
+@146
+The specialty of {02}{15}e is {02}yd,\nbut the trade route is cut and it's sold out.\nSo, what will you buy?
+@147
+Right now in {02}{15}e\nthe specialty {02}yd is in stock.\nSo, what will you buy?
+@148
+Very well, I'll give you a discount.\nThen how about {02}o{C8}?
+@148.1
+All right, I'll knock it down.\nThen how about {02}o{C8}?
+@149
+I appreciate the thought, but\nI can't expand any further.\nPlease ask me another time.
+@149.1
+Thanks for the thought, but\nI can't expand any more.\nAnother time, then.
+@150
+Oh, you're from\n{02}{02}{EC}, the merchant chief here.\nI'll take about 10% off.
+@150.1
+Oh, you're\nwith {02}{02}{EC}.\nI'll knock off about 10%.
+@151
+You're from a merchant house.\nIn this town I take\na fee of about 10%.
+@151.1
+You're from a merchant house.\nIn this town I take a 10% fee.
+@152
+You're not from a merchant house.\nI'm sorry, but I take\na fee of about 20%.
+@152.1
+You're not from a merchant house.\nSorry, but I take a 20% fee.
+@153
+In {02}{15}e, {02}Ge\nis selling like hot cakes.\nThe price now is {02}o{C8}.
+@153.1
+In {02}{15}e, {02}Ge\nis selling like hot cakes.\nThe price now is about {02}o{C8}.
+@154
+In {02}{15}e I recommend {02}Ge.\nThe price now is about {02}o{C8}...\nso {02}zd.
+@154.1
+In {02}{15}e I'd go for {02}Ge.\nThe price now is about {02}o{C8},\nso {02}zd.
+@155
+Right now in {02}{15}e, {02}Ge\nis selling like hot cakes.\nSo, what would you like to buy?
+@155.1
+Right now in {02}{15}e, {02}Ge\nis selling like hot cakes.\nSo, what will you buy?
+@156
+Right now in {02}{15}e, {02}Ge\nis a bargain.\nSo, what would you like to buy?
+@156.1
+Right now in {02}{15}e, {02}Ge\nis a bargain.\nSo, what will you buy?
+@157
+Right now in {02}{15}e, for some reason,\neverything has become expensive.\nBut will you buy something anyway?
+@157.1
+Right now in {02}{15}e, for some reason,\neverything's gotten expensive...\nBut will you buy something anyway?
+@158
+You have plenty of {02}Ge.\nYou can't carry any more.
+@158.1
+You've got plenty of {02}Ge.\nYou can't carry any more.
+@159
+Hold on, even if I push the price up,\nI can't carry any more money...\nNo point haggling.
+@159.1
+Hmm, even if I push the price up,\nI can't carry any more money...\nNo point haggling.
+@160
+Hold on, only 100 mon...\nI can't haggle it down any more.
+@160.1
+Oh, only 100 mon...\nI can't haggle it down any more.
+@161
+I can't manage any more trade routes.\nI'll give up on opening new ones...
+@161.1
+I can't manage any more trade routes.\nI'll give up on opening new ones...
+@162
+{02}{0B}e is doing {02}yd in {02}{15}e,\nso goods can't get through...\nOpen the route anyway?
+@162.1
+{02}{0B}e is doing {02}yd in {02}{15}e,\nso goods can't get through now.\nOpen the route anyway?
+@163
+I can't manage any more trade routes.
+@163.1
+I can't manage any more trade routes.
+@164
+Which town shall I open a trade route to?
+@164.1
+Which town shall I open a trade route to?
+@165
+I already have a route\nto {02}{15}e...\nI can't open the same one twice...
+@165.1
+Our house already has a route\nto {02}{15}e...\nI can't open another...
+@165.2
+{02}{03}{EC} already controls\nthe route to {02}{15}e;\nI can't open a new one...
+@165.3
+I already have a route\nto {02}{15}e...\nI can't open the same one twice.
+@165.4
+Our house already has a route\nto {02}{15}e...\nI can't open another.
+@165.5
+{02}{03}{EC} already controls\nthe route to {02}{15}e;\nI can't open a new one...
+@166
+If I open a route between\n{02}{15}f and {02}{16}f, the balance\nwould be about this?
+@166.1
+If I open a route between\n{02}{15}e and {02}{16}e, the balance\nwould be about this?
+@167
+Whoa, with this balance\nthe shop will go bankrupt.
+@167.1
+Oh no...\nWith this balance the shop will go bankrupt.
+@168
+Open a route between\n{02}{15}e and {02}{16}e?
+@168.1
+Open a route between\n{02}{15}e and {02}{16}e?
+@168.2
+Open a route between\n{02}{15}e and {02}{16}e?
+@168.3
+Open a route between\n{02}{15}e and {02}{16}e?
+@169
+Right! From this month\nI'll run a trade route\nbetween {02}{15}f and {02}{16}f.
+@169.1
+Right! From this month\nI'll run a trade route\nbetween {02}{15}f and {02}{16}f.
+@170
+It would be a shame if bandits\nraided the route after all this...\nShould I hire someone to guard it?
+@170.1
+It would be a shame if bandits\nraided the route after all this...\nShould I hire someone to guard it?
+@171
+...Well, there's no need.\nIf it's raided, that's just bad luck,\nand guards aren't cheap...
+@171.1
+...Well, no need, I think.\nIf it's raided, that's just bad luck,\nand guards aren't cheap...
+@172
+If I hire {02}{0B}e as guards,\nthe balance changes a little...
+@172.1
+If I hire {02}{0B}e as guards,\nthe balance changes a little...
+@173
+Hmm, if no money comes in from the route,\nthe upkeep paid to {02}{0B}e alone\nwill bankrupt the shop.
+@173.1
+Hmm, if no money comes in from the route,\nthe upkeep paid to {02}{0B}e alone\nwill bankrupt the shop.
+@174
+Shall I hire {02}{0B}e?
+@174.1
+Shall I hire {02}{0B}e?
+@175
+Right! I'll hire {02}{0B}e\nto guard this\ntrade route.
+@175.1
+Right! I'll hire {02}{0B}e\nto guard this\ntrade route.
+@176
+...It can't be helped.\nPay the rest next time.
+@176.1
+...It can't be helped.\nPlease pay the rest next time.
+@177
+Do you think excuses will work?!\nYou must still have some.\nI'll make you pay by force if I must!
+@177.1
+Excuses won't work on me!\nYou must still have some.\nI'll make you pay by force if I must!
+@178
+What are you doing, {01}C1{00}?\nI've heard nothing about this!
+@178.1
+What are you doing, {01}C1{00}?\nI've heard nothing about this!
+@179
+What is the meaning of this!\nI won't hand money to the likes of you!
+@179.1
+What is the meaning of this!\nI won't hand money to someone like you.
+@180
+A-all right, I give up! Spare me!\nFine, I'll pay the rest right now.\nHere, take the other {02}o{C8}!
+@180.1
+I'm sorry! Please forgive me...\nFine, I'll pay the rest right now!\nHere, the other {02}o{C8}. Satisfied?
+@181
+I know it's unreasonable, but I beg you.\nI can't go back like this.\nWon't you pay? Please, I ask you!
+@181.1
+I know it's unreasonable, but I beg you.\nI can't go back like this.\nWon't you pay? Please, I ask you!
+@182
+Even if you bow your head like that,\nI can't pay what I don't have.\nI'm sorry...
+@182.1
+Even if you bow your head like that,\nI can't pay what I don't have.\nI'm sorry...
+@183
+...Raise your head.\nI can't send you back like this...\nTake the remaining {02}o{C8}.
+@183.1
+...Please raise your head.\nI can't send you back like this.\nPlease take the remaining {02}o{C8}.
+@184
+(No intention of paying, it seems...\n I'll drop some money to distract {01}C1{00}\n and quietly help myself meanwhile.)
+@184.1
+(No intention of paying, it seems...\n I'll drop some money to distract {01}C1{00}\n and quietly help myself meanwhile.)
+@185
+Then I will keep\nthis money safe for you.\n\n...Oops! It slipped from my hand...
+@185.1
+Then I will keep\nthis money safe for you.\n\n...Oh no! It slipped from my hand...
+@186
+Clink!
+@187
+Oh, {01}C1{00},\nyou've dropped your precious money.\nDo be careful.
+@187.1
+Oh, {01}C1{00},\nyou've dropped your precious money.\nDo be careful.
+@188
+(Their eyes are on the money; they're distracted.\n ...Right, now!)
+@188.1
+(Their eyes are on the money; they're distracted.\n ...Right, now!)
+@189
+Swish!
+@190
+Ha ha, stop it,\nthat tickles!\nWhy are you groping my chest?
+@190.1
+Ha ha, stop, stop, that tickles!\nGroping my chest all of a sudden,\nhow naughty...
+@191
+(Blast, they noticed!)
+@191.1
+(Oh no, they noticed!)
+@192
+...I never knew\nyou had tastes like this.
+@192.1
+...I never knew\nyou were that kind of person...\n...blush
+@193
+N-no, nothing of the sort!\n...E-excuse me!
+@193.1
+N-no, nothing of the sort!\n...E-excuse me!
+@194
+Hey, aren't you going to pick up the money?!\nWait, {01}C1{00}!\n\n...Hmm, gone.\nWhat a hasty one {01}C1{00} is...
+@194.1
+Oh, aren't you going to pick up the money?!\nWait, {01}C1{00}!\n\n...Hmm, gone.\nWhat a hasty one {01}C1{00} is...
+@195
+In the rush to escape,\nI dropped another {02}o{C8} of my own.
+@196
+(...Hehe, perfect.\n I lifted {02}o{C8} from their purse.)
+@196.1
+(...Hehe, perfect.\n I lifted {02}o{C8} from their purse.)
+@197
+(...Hehe, perfect.\n I lifted the remaining {02}o{C8}\n from their purse.)
+@197.1
+(...Hehe, perfect.\n I lifted the remaining {02}o{C8}\n from their purse.)
+@198
+(...Hehe, perfect.\n Besides the remaining {02}o{C8},\n I lifted another {02}p{C8} from their purse.)
+@198.1
+(...Hehe, perfect.\n Besides the remaining {02}o{C8},\n I lifted another {02}p{C8} too.)
+@199
+Oops, my apologies.\nI'll take my leave for today.
+@199.1
+Oh, excuse me.\nWell then, that's all for today...
+@200
+Failed to collect the debt.\n
+@201
+Collected the debt.\n
+@202
+You have {02}3g\nequipped.\nI can't accept what you're wearing.
+@202.1
+You have {02}3g\nequipped.\nI can't accept what you're wearing.
+@203
+Then I'll have the goods\nI lent you back.
+@203.1
+Then I'll take back\nthe goods I lent you.
+@204
+Looking for saltpeter?\nThis town deals in it, but...\nI'm afraid it's sold out this month.
+@204.1
+Looking for saltpeter?\nThis town sells it.
+@204.2
+Looking for saltpeter?\nThis town deals in it, but...\nit's sold out this month.
+@204.3
+Looking for saltpeter...\nThis town sells it.
+@205
+Looking for saltpeter?\nI believe you can only buy it\nat a Nanban trading house...
+@205.1
+Looking for saltpeter...\nYou can only buy it\nat a Nanban trading house, I think.
+@206
+You haggle and then don't want to buy?\nI won't have time-wasters.\nPlease leave.
+@206.1
+Hey, hey,\nyou don't want to buy?\nNo time-wasters. Get out.
+@207
+You haggle and then don't want to sell?\nI won't have time-wasters.\nPlease leave.
+@207.1
+Hey, hey,\nyou don't want to sell?\nNo time-wasters. Get out.
+@208
+I've come from {02}{01}{EC} to deliver {02}Ge.
+@208.1
+I've come from {02}{01}{EC} to deliver {02}Ge.
+@209
+Got {02}od of {02}Ge.\nGive my regards to {02}{02}{EC}.
+@210
+Oh, that's {02}o{C8} each.\nI'm sorry, but you can't buy it\nwith the money you have.
+@211
+Welcome.
+@211.1
+Welcome, you've come a long way.
+@211.2
+Welcome.
+@211.3
+Welcome!
+@212
+What can I do for you?
+@212.1
+What brings you today?
+@212.2
+What business brings you today?
+@212.3
+What can I do for you?
+@213
+Business going well, friend?
+@214
+Welcome.
+@215
+You can't carry any more. Sell something first.
+@215.1
+Your load is full, you can't carry more. Sell something to lighten it.
+@215.2
+Your load is full and you can't carry any more. Please sell something to lighten it.
+@215.3
+Oh, you can't carry any more. Go and sell something.
+@216
+If you buy any more,\nit'll be too heavy to carry.
+@216.1
+You can't buy any more.\nThe load is too heavy to carry.
+@216.2
+If you buy any more,\nit will be too heavy to carry.
+@216.3
+Oh, if you buy any more,\nit'll be too heavy to carry.
+@217
+All sold out.\nCome again next month.
+@217.1
+All sold out, nothing left.\nMore comes next month. Next time.
+@217.2
+Everything is sold out.\nPlease come again next month.
+@217.3
+All sold out!\nPlease come again next month.
+@218
+All sold out.
+@218.1
+All sold out.\n
+@218.2
+Everything is sold out.
+@218.3
+All sold out!
+@219
+Oh, you have\na free-market permit.\nThen the 20% purchase tax is waived.
+@220
+You don't have a free-market permit.\nThere's a 20% purchase tax.
+@221
+There are no specialties here in {02}{15}e.\nWhat will you buy?
+@222
+There are no specialties\nhere in {02}{15}e yet.\nWhat will you buy?
+@223
+The specialty of {02}{15}e\nis {02}Ge.\nWhat will you buy?
+@224
+{02}Ge is {02}o{C8}.\nHow many will you buy?
+@224.1
+{02}Ge is {02}o{C8}.\nHow many will you buy?
+@224.2
+{02}Ge is {02}o{C8}.\nHow many would you like?
+@224.3
+{02}Ge is {02}o{C8}!\nHow many will you buy?
+@225
+{02}od of {02}Ge\nis {02}p{C8}. Will you buy?
+@225.1
+{02}od of {02}Ge\nis {02}p{C8}. Buying?
+@226
+Then\nhow about {02}o{C8}?
+@226.1
+Then\nhow about {02}o{C8}?
+@226.2
+Then\nhow would {02}o{C8} be?
+@226.3
+Then\nhow about {02}o{C8}?
+@225.2
+{02}od of {02}Ge\ncomes to {02}p{C8}.\nWould you like to buy?
+@225.3
+{02}od of {02}Ge\ncomes to {02}p{C8}!\nWill you buy?
+@227
+Hmm...\nHow about {02}o{C8}?
+@228
+Then how about {02}o{C8}?\nI can't go any lower.
+@229
+Ugh, I don't have enough money...
+@229.1
+Oh, I don't have enough money...
+@230
+Right, I'll buy!
+@230.1
+Right, I'll buy!
+@231
+Thank you.
+@231.1
+Thank you very much.
+@231.*
+Thank you.
+@232.*
+I see...\nThen come again.
+@233.*
+You won't buy at this price?!\nDon't make a fool of my business.\nPlease leave.
+@234.*
+You're carrying all the money you can.\nYou'd better buy something or save it.
+@235.*
+You don't have anything to sell.
+@236.*
+Which goods will you sell?
+@237.*
+{02}Ge is {02}o{C8}.\nHow many will you sell?
+@238.*
+{02}od of {02}Ge\ncomes to {02}p{C8}.\nWill you sell?
+@239.*
+Then how about {02}o{C8}?
+@240
+Hmm... all right!\nHow about {02}o{C8}?
+@241
+Then how about {02}o{C8}?\nI can't go any higher.
+@242.*
+Right, I'll sell!
+@243.*
+Thank you.
+@244.*
+I see...\nThen come again.
+@245.*
+I see...\nThen come again.
+@246.*
+I can't sell at this price!\nNo time-wasters, please.\nPlease leave.
+@247.*
+You have plenty of {02}Ge.\nYou can't carry any more.
+@248.*
+Investments are in units of 1 kan.\nPlease bring more money.
+@249.*
+Thank you.\n{02}{15}e will prosper all the more.\nHow much will you invest?
+@250.*
+I see... What a pity.\nPlease do it another time.
+@251.*
+Then you will invest\n{02}od kan in {02}{15}e?
+@252.*
+Oh!\nAs expected of {02}{02}g!\nI'll use it well.
+@253.*
+What can I do for you?\nAh, you're looking into\nthe specialties here.
+@254.*
+There are no specialties in {02}{15}e.\nWhat a pity.
+@255.*
+There are no specialties\nin {02}{15}e yet.\nI'd like to make one some day...
+@256.*
+The specialty of {02}{15}e is {02}Ge.\nThe current price is about {02}o{C8},\nso {02}zd.
+@257
+now's the time to buy
+@258
+now's the time to sell
+@259
+it's a fair price
+@260
+{02}Ge?\nIt's sold in this town.
+@260.1
+{02}Ge...\nI believe it's a specialty of {02}{15}e.
+@260.2
+{02}Ge?\nIt's sold in this town.
+@260.3
+{02}Ge...\nI believe it's a specialty of {02}{15}e.
+@260.4
+{02}Ge?\nIt's sold in this town.
+@260.5
+{02}Ge...\nI believe it's a specialty of {02}{15}e.
+@260.6
+{02}Ge?\nIt's sold in this town.
+@260.7
+{02}Ge...\nI believe it's a specialty of {02}{15}e.
+@261.*
+{02}Ge?\nYou can buy it in this town.
+@262.*
+{02}Ge...\nI'm sorry, I don't know.\nTruly...
+@263.*
+{02}3g...\nI believe {02}{03}g\nin {02}{15}e has one.
+@265
+{02}3g...\nYou can only buy one from a travelling merchant\nor get one from a tavern landlady.
+@265.1
+Travelling merchants go back and forth\naround Odawara-Sakai, Sakai-Hakata\nand Odawara-Hakata.
+@265.2
+To get goods from a tavern landlady\nyou must gamble at the tavern and win big.
+@265.3
+Anything you buy must be appraised\nbefore you take it anywhere.
+@266
+{02}3g...\nYou can only buy one from a travelling merchant\nor get one from a tavern landlady.
+@266.1
+Travelling merchants go back and forth\naround Odawara-Sakai, Sakai-Hakata\nand Odawara-Hakata.
+@266.2
+To get goods from a tavern landlady\nyou must gamble at the tavern and win big.
+@266.3
+Anything you buy must be appraised\nbefore you take it anywhere.
+@267
+{02}3g...\nYou can only buy one from a travelling merchant\nor get one from a tavern landlady.
+@267.1
+Travelling merchants go back and forth\naround Odawara-Sakai, Sakai-Hakata\nand Odawara-Hakata.
+@267.2
+To get goods from a tavern landlady\nyou must gamble at the tavern and win big.
+@267.3
+Anything you buy must be appraised\nbefore you take it anywhere.
+@268
+{02}3g...\nYou can only buy one from a travelling merchant\nor get one from a tavern landlady.
+@268.1
+Travelling merchants go back and forth\naround Odawara-Sakai, Sakai-Hakata\nand Odawara-Hakata.
+@268.2
+To get goods from a tavern landlady\nyou must gamble at the tavern and win big.
+@268.3
+Anything you buy must be appraised\nbefore you take it anywhere.
+@269
+{02}{15}e...\nThat's this town.
+@269.1
+{02}{15}e...\nIt's a town in\n{02}$e, {02}$g.
+@269.2
+{02}{15}e...\nThat's this town.
+@269.3
+{02}{15}e...\nIt's a town in\n{02}$e, {02}$g.
+@269.4
+{02}{15}e...\nThat's this town.
+@269.5
+{02}{15}e...\nIt's a town in\n{02}$e, {02}$g.
+@269.6
+{02}{15}e...\nThat's this town.
+@269.7
+{02}{15}e...\nIt's a town in\n{02}$e, {02}$g.
+@270.*
+{02}{03}g...\nThe {02}{03}i of {02}{03}{EC}.\nI believe they're in {02}{15}e.
+@271
+{02}{03}g...\nI believe they live in this town.
+@271.1
+{02}{03}g...\nI believe they live in {02}{15}e.
+@271.2
+{02}{03}g...\nI believe they live in this town.
+@271.3
+{02}{03}g...\nI believe they live in {02}{15}e.
+@271.4
+{02}{03}g...\nI believe they live in this town.
+@271.5
+{02}{03}g...\nI believe they live in {02}{15}e.
+@271.6
+{02}{03}g...\nI believe they live in this town.
+@271.7
+{02}{03}g...\nI believe they live in {02}{15}e.
+@272.*
+{02}{03}g...\nThe {02}{03}i of {02}{03}{EC}.\nI believe they're in {02}{15}e.
+@273
+{02}{03}g...\nI believe they live in this town.
+@273.1
+{02}{03}g...\nI believe they live in {02}{15}e.
+@273.2
+{02}{03}g...\nI believe they live in this town.
+@273.3
+{02}{03}g...\nI believe they live in {02}{15}e.
+@273.4
+{02}{03}g...\nI believe they live in this town.
+@273.5
+{02}{03}g...\nI believe they live in {02}{15}e.
+@273.6
+{02}{03}g...\nI believe they live in this town.
+@273.7
+{02}{03}g...\nI believe they live in {02}{15}e.
+@275
+Between you and me, guild work\nhas some tasty shortcuts...\n...Well, find them for yourself.
+@276
+Between you and me, guild work\nhas some tasty shortcuts...\n...Well, find them for yourself.
+@277
+Between you and me, guild work\nhas some tasty shortcuts...\n...Well, find them for yourself.
+@278
+Between you and me, guild work\nhas some tasty shortcuts...\n...Well, find them for yourself.
+@280
+What is it?\nI'm busy.\nI have no time for idle chatter.
+@280.1
+The basic way to profit from trade goods\nis to buy them where they're cheap\nand sell them where they aren't sold.
+@280.2
+If you want to profit from trade goods,\nfirst train your "Accounting".\nIt makes haggling succeed more often.
+@280.3
+"Speech" is also an important skill\nfor profiting from trade goods.\nIt makes haggling succeed more often.
+@280.4
+Even a town that seems to have no specialty\nmay produce one once it grows larger.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@280.5
+Even a town with a specialty,\nonce it reaches full size,\nmay produce a more profitable one.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@280.6
+For the same trade goods, the larger the town,\nthe lower the buying price and the higher the selling price.\nOnly by a little, though...
+@280.7
+Trade goods sell for\n70% of their buying price.\n\nSo if you sell them in a town\nwhere they cost about the same,\nyou'll lose a lot.
+@280.8
+Some things are sold only here.\nTake them back home\nand you'll make an easy fortune.
+@280.9
+You can never win against a storm.\nNot being too greedy\nmay be the smart move.
+@280.10
+You can't stay the night in this town.\nWhen things are sold out,\njust go back home quietly.
+@281
+What is it?\nI'm busy.\nI have no time for idle chatter.
+@281.1
+The basic way to profit from trade goods\nis to buy them where they're cheap\nand sell them where they aren't sold.
+@281.2
+If you want to profit from trade goods,\nfirst train your "Accounting".\nIt makes haggling succeed more often.
+@281.3
+"Speech" is also an important skill\nfor profiting from trade goods.\nIt makes haggling succeed more often.
+@281.4
+Even a town that seems to have no specialty\nmay produce one once it grows larger.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@281.5
+Even a town with a specialty,\nonce it reaches full size,\nmay produce a more profitable one.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@281.6
+For the same trade goods, the larger the town,\nthe lower the buying price and the higher the selling price.\nOnly by a little, though...
+@281.7
+Trade goods sell for\n70% of their buying price.\n\nSo if you sell them in a town\nwhere they cost about the same,\nyou'll lose a lot.
+@281.8
+Some things are sold only here.\nTake them back home\nand you'll make an easy fortune.
+@281.9
+You can never win against a storm.\nNot being too greedy\nmay be the smart move.
+@281.10
+You can't stay the night in this town.\nWhen things are sold out,\njust go back home quietly.
+@282
+What is it?\nI'm busy.\nI have no time for idle chatter.
+@282.1
+The basic way to profit from trade goods\nis to buy them where they're cheap\nand sell them where they aren't sold.
+@282.2
+If you want to profit from trade goods,\nfirst train your "Accounting".\nIt makes haggling succeed more often.
+@282.3
+"Speech" is also an important skill\nfor profiting from trade goods.\nIt makes haggling succeed more often.
+@282.4
+Even a town that seems to have no specialty\nmay produce one once it grows larger.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@282.5
+Even a town with a specialty,\nonce it reaches full size,\nmay produce a more profitable one.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@282.6
+For the same trade goods, the larger the town,\nthe lower the buying price and the higher the selling price.\nOnly by a little, though...
+@282.7
+Trade goods sell for\n70% of their buying price.\n\nSo if you sell them in a town\nwhere they cost about the same,\nyou'll lose a lot.
+@282.8
+Some things are sold only here.\nTake them back home\nand you'll make an easy fortune.
+@282.9
+You can never win against a storm.\nNot being too greedy\nmay be the smart move.
+@282.10
+You can't stay the night in this town.\nWhen things are sold out,\njust go back home quietly.
+@283
+What is it?\nI'm busy.\nI have no time for idle chatter.
+@283.1
+The basic way to profit from trade goods\nis to buy them where they're cheap\nand sell them where they aren't sold.
+@283.2
+If you want to profit from trade goods,\nfirst train your "Accounting".\nIt makes haggling succeed more often.
+@283.3
+"Speech" is also an important skill\nfor profiting from trade goods.\nIt makes haggling succeed more often.
+@283.4
+Even a town that seems to have no specialty\nmay produce one once it grows larger.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@283.5
+Even a town with a specialty,\nonce it reaches full size,\nmay produce a more profitable one.\nMore income for you and me,\neveryone is happy.\nSo invest, invest!
+@283.6
+For the same trade goods, the larger the town,\nthe lower the buying price and the higher the selling price.\nOnly by a little, though...
+@283.7
+Trade goods sell for\n70% of their buying price.\n\nSo if you sell them in a town\nwhere they cost about the same,\nyou'll lose a lot.
+@283.8
+Some things are sold only here.\nTake them back home\nand you'll make an easy fortune.
+@283.9
+You can never win against a storm.\nNot being too greedy\nmay be the smart move.
+@283.10
+You can't stay the night in this town.\nWhen things are sold out,\njust go back home quietly.
+@283.*
+What is it?\nI'm busy.\nI have no time for idle chatter.
+@284.*
+What is it?\nAh, you're looking into the prices\nof specialties and goods here.
+@285.*
+Have a look at this.
+@286
+{02}{15}e has no specialty yet.\nIf the trade routes expand, it could make one...
+@287
+You're a merchant of {02}{02}{EC}. Do something.
+@288
+{02}yd is our pride.\nIt needs {02}zd and {02}{7B}d.\nThe price now is {02}o{C8}.
+@289.*
+All right.\nYou wore me down.\nThen how about {02}o{C8}?
+@290
+The specialty of {02}{15}e is {02}yd,\nbut the trade route is cut and it's sold out.\nSo, what will you buy?
+@291
+Right now in {02}{15}e\nthe specialty {02}yd is in stock.\nSo, what will you buy?
+@292.*
+All right, I'll give you a discount.\nThen how about {02}o{C8}?
+@293.*
+I'm sorry,\nI can't expand any further.\nPlease invest another time.
+@294.*
+Right now in {02}{15}e, {02}Ge\nis selling like hot cakes.\nSo, what will you buy?
+@295.*
+Right now in {02}{15}e, {02}Ge\nis a bargain.\nSo, what will you buy?
+@296.*
+Right now in {02}{15}e, for some reason,\neverything has become expensive.\nBut will you buy something anyway?
+@297.*
+Right now in {02}{15}e, {02}Ge\nis selling like hot cakes.\nThe price now is {02}o{C8}.
+@298
+Looking for saltpeter...\nThis town deals in it, but\nit's sold out this month.
+@298.1
+Looking for saltpeter...\nThis town deals in it, but\nit's sold out this month.
+@298.2
+Looking for saltpeter...\nThis town deals in it, but\nit's sold out this month.
+@298.3
+Looking for saltpeter...\nThis town deals in it, but\nit's sold out this month.
+@298.4
+Looking for saltpeter...\nThis town sells it.
+@298.5
+Looking for saltpeter...\nThis town sells it.
+@298.6
+Looking for saltpeter...\nThis town sells it.
+@298.7
+Looking for saltpeter...\nThis town sells it.
+@299.*
+Looking for saltpeter...\nYou can only buy it\nat a Nanban trading house, I think.
+@300.*
+No intention of buying?\nNo time-wasters.\nPlease leave.
+@301.*
+No intention of selling?\nNo time-wasters.\nPlease leave.
+@302
+Controls
+@305
+Move
+@307
+Move
+@310
+Help
+@315
+OK
+@322
+Move
+@324
+Move
+@326
+Help
+@331
+OK
+@332
+Back
+@335
+Page
+@338
+Move
+@340
+Move
+@342
+Help
+@343
+Page
+@347
+OK
+@348
+Back
+@351
+Page
+@353
+Move
+@354
+Move
+@355
+Move
+@356
+Move
+@358
+Help
+@359
+Page
+@363
+OK
+@364
+Back
+@370
+Move
+@372
+Move
+@374
+Help
+@379
+OK
+@380
+Back
+@386
+Move
+@388
+Move
+@390
+Help
+@395
+OK
+@396
+Back
+@402
+Move
+@404
+Move
+@406
+Help
+@411
+OK
+@412
+Back
+@417
+Move
+@418
+Move
+@419
+Move
+@420
+Move
+@422
+Help
+@427
+OK
+@428
+Back
+@433
+Part
+@434
+Move
+@435
+Part
+@436
+Move
+@438
+Help
+@443
+OK
+@444
+Back
+@449
+Part
+@450
+Move
+@451
+Part
+@452
+Move
+@454
+Help
+@459
+OK
+@460
+Back
+@466
+Move
+@468
+Move
+@470
+Help
+@475
+OK
+@476
+Back
+@482
+Move
+@484
+Move
+@486
+Help
+@491
+OK
+@492
+Back
+@496
+Type
+@502
+Help
+@504
+Type
+@505
+Value
+@507
+OK
+@508
+Back
+@514
+Move
+@516
+Move
+@518
+Help
+@523
+OK
+@524
+Stop
+@529
+Move
+@530
+Move
+@531
+Move
+@532
+Move
+@534
+Help
+@538
+Sort
+@539
+OK
+@540
+Back
+@545
+Move
+@546
+Move
+@547
+Move
+@548
+Move
+@550
+Help
+@554
+Sort
+@555
+OK
+@556
+Back
+@561
+Commands
+@563
+Commands
+@566
+Help
+@570
+Info
+@571
+OK
+@572
+Look around
+@574
+Functions
+@577
+Commands
+@578
+Move
+@579
+Commands
+@580
+Move
+@586
+Info
+@587
+OK
+@588
+Leave base
+@590
+Functions
+@594
+Talk to
+@596
+Talk to
+@598
+Help
+@602
+Info
+@603
+OK
+@604
+Go out
+@606
+Functions
+@607
+Person
+@609
+Move
+@610
+Move
+@611
+Move
+@612
+Move
+@613
+Move
+@614
+Help
+@615
+Person
+@617
+Duel
+@619
+OK
+@620
+Cancel
+@622
+Functions
+@630
+Help
+@634
+Info
+@635
+OK
+@638
+Functions
+@646
+Help
+@651
+OK
+@662
+Help
+@667
+OK
+@678
+Help
+@683
+OK
+@694
+Help
+@699
+OK
+@710
+Help
+@715
+OK
+@726
+Help
+@731
+OK
+@742
+Help
+@747
+OK

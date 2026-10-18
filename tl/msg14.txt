@@ -1,0 +1,2312 @@
+@1
+Welcome home, dear.
+@1.1
+Oh, dear...\nWelcome home.
+@1.2
+Dear...\nWelcome home.
+@1.3
+Oh, dear,\nwelcome home!
+@1.4
+Phew...\nThere's no place\nlike home...
+@1.5
+Phew...\nIt's so relaxing\nto be home...
+@1.6
+Welcome home.
+@2
+Congratulations, dear.\nI hear you've been promoted to {02}{02}i.\nIt's all thanks to your hard work.
+@2.1
+Promoted to {02}{02}i,\nand no wife to celebrate with...\nTime I settled down.
+@2.2
+Promoted to {02}{02}i,\nthe future looks bright!
+@3
+Welcome home, {02}{02}g.\nI've been waiting for you.
+@4
+Hm? A messenger from our lord?
+@4.1
+Oh, a messenger from our lord?
+@5
+Yes. You, {02}{02}e, are appointed\nprovince lord and entrusted\nwith this castle.
+@6
+Yes. From today,\n{02}{02}e is appointed\nprovince lord.\nHenceforth, castles that {02}{02}e\ntakes on missions will become\n{02}{02}e's own.
+@7
+Understood.\nPlease tell our lord\nI humbly accept.
+@7.1
+Understood.\nPlease tell our lord\nI humbly accept.
+@8
+Yes, sir.
+@9
+(So I'm a province lord at last.\n I must make this room fit my rank,\n so I'm not shamed whoever comes...)\n
+@9.1
+(So I'm a province lord at last.\n I must make this room fit my rank,\n so I'm not shamed whoever comes...)\n
+@10
+Is anyone there?
+@10.1
+Is anyone there?
+@11
+You called?
+@12
+Redo the furnishings of this room.\nMake them fit a province lord.
+@12.1
+Redo the furnishings of this room.\nMake them fit a province lord.
+@13
+Certainly.\nWe'll start at once.\nPlease wait outside.
+@14
+Dear, someone who finished\na mission has come to report.
+@14.1
+Dear, someone who finished\na mission has come to report.
+@14.2
+Dear, someone who finished\na mission has come to report.
+@14.3
+Dear, someone who finished\na mission came to report.
+@14.4
+{01}C{AD}{01}, there's a report\nfrom one who finished a mission.
+@15
+Now, what shall I do?
+@15.1
+Now, what shall I do?
+@15.2
+What will you do?
+@16
+Infantry
+@16.1
+Cavalry
+@16.2
+Gunnery
+@16.3
+Navy
+@16.4
+Archery
+@16.5
+Martial Arts
+@16.6
+Tactics
+@16.7
+Ninjutsu
+@16.8
+Building
+@16.9
+Farming
+@16.10
+Mining
+@16.11
+Accounting
+@16.12
+Etiquette
+@16.13
+Speech
+@16.14
+Tea
+@16.15
+Medicine
+@17
+Failed
+@18
+Impossible
+@20
+Learned {01}C{C0}6
+@20.1
+Learned {01}C{C0}6
+@20.2
+Earned {02}pd kan
+@20.3
+Earned {02}pd kan
+@20.4
+Order +{02}pd
+@20.5
+Yield +{02}pd
+@20.6
+Mining +{02}pd
+@20.7
+Bought {02}pd,000 koku
+@20.8
+Bought {02}pd horses
+@20.9
+Bought {02}pd guns
+@20.10
+Bought {02}pd cannons
+@20.11
+Training +{02}pd
+@20.12
+Troops +{02}pd
+@20.13
+Defense +{02}pd
+@20.14
+Base size +{02}pd
+@20.15
+Partly scouted
+@20.16
+Scouted in detail
+@20.17
+Fully scouted
+@20.18
+Defense -{02}pd
+@20.19
+Order -{02}pd
+@20.20
+Burned a few goods
+@20.21
+Burned some goods
+@20.22
+Burned goods
+@20.23
+Burned many goods
+@20.24
+Alliance agreed
+@20.25
+Alliance ended
+@20.26
+Brought under rule
+@20.27
+Made a vassal
+@20.28
+War declared
+@20.29
+Peace made
+@20.30
+Relations improved
+@20.31
+Court standing +{02}pd
+@20.32
+Recruited
+@20.33
+Attacking
+@20.34
+Base taken
+@20.35
+Attacking
+@20.36
+Province taken
+@20.37
+Attacking
+@20.38
+Power taken
+@20.39
+Attacking
+@20.40
+Region taken
+@20.41
+Learned {01}C{C0}6
+@20.42
+Learned {01}C{C0}6
+@20.43
+Bought {02}pd,000 koku
+@20.44
+Guarded the VIP
+@20.45
+Caught on
+@20.46
+Caught on a bit
+@20.47
+Found it
+@20.48
+Obtained
+@20.49
+Stole {02}pd,000 koku
+@20.50
+Raid succeeded
+@20.51
+Escort succeeded
+@20.52
+Wiped out convoy
+@20.53
+Got a raise
+@20.54
+Killed the rogue
+@20.55
+Training +{02}pd
+@20.56
+Troops +{02}pd
+@20.57
+Defense +{02}pd
+@20.58
+Base size +{02}pd
+@20.59
+Partly scouted
+@20.60
+Scouted in detail
+@20.61
+Fully scouted
+@20.62
+Defense -{02}pd
+@20.63
+Order -{02}pd
+@20.64
+Burned a few goods
+@20.65
+Burned some goods
+@20.66
+Burned goods
+@20.67
+Burned many goods
+@20.68
+Alliance agreed
+@20.69
+Alliance ended
+@20.70
+Made a vassal
+@20.71
+War declared
+@20.72
+Peace made
+@20.73
+Relations improved
+@20.74
+Recruited
+@20.75
+Learned strategy
+@20.76
+Base taken
+@20.77
+Power taken
+@20.78
+Learned {01}C{C0}6
+@20.79
+Learned {01}C{C0}6
+@20.80
+Bought {02}pd,000 koku
+@20.81
+Guarded the VIP
+@20.82
+Obtained
+@20.83
+Escort succeeded
+@20.84
+Wiped out convoy
+@20.85
+Seized {02}pd sekibune
+@20.86
+Blocked the route
+@20.87
+Beat the pirates
+@20.88
+Raided the port
+@20.89
+Got a raise
+@20.90
+Guarded the port
+@20.91
+Training +{02}pd
+@20.92
+Built {02}pd ships
+@20.93
+Built {02}pd ships
+@20.94
+Built {02}pd ships
+@20.95
+Defense +{02}pd
+@20.96
+Base size +{02}pd
+@20.97
+Partly scouted
+@20.98
+Scouted in detail
+@20.99
+Fully scouted
+@20.100
+Defense -{02}pd
+@20.101
+Burned a few goods
+@20.102
+Burned some goods
+@20.103
+Burned goods
+@20.104
+Burned many goods
+@20.105
+Alliance agreed
+@20.106
+Alliance ended
+@20.107
+Made a vassal
+@20.108
+War declared
+@20.109
+Peace made
+@20.110
+Relations improved
+@20.111
+Recruited
+@20.112
+Base taken
+@20.113
+Power taken
+@20.114
+Learned {01}C{C0}6
+@20.115
+Learned {01}C{C0}6
+@20.116
+Earned {02}pd kan
+@20.117
+Bought {02}pd,000 koku
+@20.118
+Bought {02}pd horses
+@20.119
+Bought {02}pd guns
+@20.120
+Earned {02}pd kan
+@20.121
+Bought {02}pd cannons
+@20.122
+Bought {02}pd,000 koku
+@20.123
+Gave war funds
+@20.124
+Defense +{02}pd
+@20.125
+Size +{02}pd
+@20.126
+Invested {02}pd kan
+@20.127
+Good impression
+@20.128
+Great impression
+@20.129
+Declined purveyor
+@20.130
+Lent {02}pd kan
+@20.131
+Collected {02}pd kan
+@20.132
+Checked all towns
+@20.133
+Checked
+@20.134
+Delivered
+@20.135
+Recruited
+@20.136
+{02}pd months of ads
+@20.137
+Sold
+@20.138
+Bought
+@20.139
+Bought
+@20.140
+Sold at list price
+@20.141
+Sold below list
+@20.142
+Sold above list
+@20.143
+Bug ID={02}Qd
+@21
+How long shall I rest?
+@21.1
+How long shall I rest?
+@21.2
+How long will you rest?
+@22
+I'll rest until the council.
+@22.1
+I'll rest a while\nuntil the council starts...
+@22.2
+Then rest well\nuntil the council.
+@23
+Right, I'll rest well today.
+@23.1
+Right, I'll rest well,\nfor today at least.
+@23.2
+Then have a good rest.
+@24
+Right, I'll rest well this month.
+@24.1
+Right, I'll rest well this month\nand work hard from next month.
+@24.2
+Then have a good rest.
+@25
+How many days shall I rest?
+@25.1
+How many days shall I rest?
+@25.2
+How many days will you rest?
+@26
+Will {02}o{CB} days do?
+@26.1
+Will {02}o{CB} days do?
+@26.2
+Will {02}o{CB} days be all right?
+@27
+Well then, time for a rest.
+@27.1
+Well, time for a good rest.
+@27.2
+Have a good rest.
+@28
+Is that so......\nPlease don't overdo it.
+@29
+Oh, dear,\nwhat would you do with even more energy...\n(blush)
+@29.1
+Oh, dear...\nWhat do you mean to do with even more energy?
+@29.2
+Oh, dear...\nW-what would you do with even more energy...\n(blush)
+@29.3
+Oh, dear,\nwith even more energy,\nwhat would you do?\n
+@29.4
+No point getting\nany more energetic.
+@29.5
+No point getting\nany more energetic...
+@30
+Let me see... to get my strength back\nwill take about {02}o{CB} days.
+@30.1
+Hmm...... to get my strength back\nwill take about {02}o{CB} days.
+@30.2
+Hmm...... as I see it,\nfor you to recover, dear,\nwill take about {02}o{CB} days.
+@30.3
+For you to recover, dear,\nwill take {02}o{CB} days.
+@30.4
+Hmm...... as I see it,\nfor you to recover, dear,\nyou must rest {02}o{CB} days...
+@30.5
+For you to recover, dear,\nwill take about {02}o{CB} days.\n
+@31
+Rest about {02}o{CB} days?
+@31.1
+Rest about {02}o{CB} days?
+@31.2
+Will you rest {02}o{CB} days?
+@32
+Oh, I have medicine, come to think of it.\nI'm not feeling well; shall I take some?
+@32.1
+Oh, I have medicine, come to think of it.\nI'm not feeling well; shall I take some?
+@33
+I'll do without medicine.
+@33.1
+Relying on medicine isn't good...
+@34
+What shall I take?
+@34.1
+What shall I take?
+@35
+I'll take {02}3g.
+@35.1
+Let's try {02}3g.
+@36
+Ah, I feel better.\nNow I just need a good sleep.
+@36.1
+I feel much better!\nNow I just need a good sleep.
+@37
+Stop resting?
+@38
+...No, no, I must get up.\nBut I don't feel rested at all...
+@38.1
+...Oops, time to get up already?\nI'd like a little more rest.
+@38.2
+...Mm, not a bad awakening.\nI feel much better.
+@38.3
+...Mmm, a fine morning.\nI'm in perfect shape.
+@39
+Yawn... I have to get up.\nI didn't shake off my tiredness...
+@39.1
+Ugh... time to get up already?\nI want to sleep a bit more...
+@39.2
+Well, time to get up.\nI'll do my best today too!
+@39.3
+Mmm, the sun feels wonderful!\nI'm in top form.
+@40
+Dear, it's time to get up.\nOh my, you look so pale...\nI'm worried about you.
+@40.1
+Dear, it's time to get up.\nOh my, you look so pale...\nI'm worried about you.
+@40.2
+Good morning, dear.\nDid you sleep well?\nHave a good day.
+@40.3
+Good morning, dear.\nYou slept soundly.\nDo good work today.
+@41
+Chacha
+@41.1
+Ichi
+@41.2
+Sena
+@41.3
+I
+@41.4
+I
+@41.5
+Kuni
+@41.6
+Toku
+@41.7
+Kiku
+@41.8
+Fuyu
+@41.9
+Ai
+@41.10
+Yoshi
+@41.11
+Go
+@41.12
+Ei
+@41.13
+I
+@41.14
+I
+@41.15
+I
+@41.16
+I
+@41.17
+I
+@41.18
+I
+@41.19
+I
+@41.20
+I
+@41.21
+I
+@41.22
+I
+@41.23
+I
+@42
+Dear, the council is starting.
+@42.1
+Oops, the council's starting.\nThis is no time to be at home.
+@42.2
+Oh no, the council's about to start.\nThis is no time to be at home.
+@43
+Dear, it's the last day of your summons.\nGet up and go to the ninja manor.
+@43.1
+The last day of my summons already...\nI can't stay in bed.
+@43.2
+Oh no, the last day of my summons?\nI can't stay in bed.
+@44
+What will you do with the money?
+@44.1
+What shall I do with the money?
+@44.2
+What shall I do with the money?
+@45
+Dear, I'm sorry,\nthe safe is empty......
+@45.1
+Oh, come to think of it,\nthe safe is empty.
+@45.2
+Oh, come to think of it,\nthe safe is empty.
+@46
+Dear, there are no {01}C{92}{01}.
+@46.1
+Oh, come to think of it,\nthere are no {01}C{91}{01}.
+@46.2
+Oh, come to think of it,\nthere are no {01}C{91}{01}.
+@47
+The safe is empty right now...
+@47.1
+The safe now holds\n{02}t{C8}.\nHow much shall I take out?
+@47.2
+That's right,\nthe safe is empty right now...
+@47.3
+Oh, the safe is empty...
+@47.4
+The safe now holds\n{02}t{C8}.\nHow much shall I take out?
+@47.5
+The safe now holds\n{02}t{C8}.\nHow much shall I take out?
+@48
+How much will you withdraw?
+@48.1
+How much shall I withdraw?
+@48.2
+How much shall I withdraw?
+@49
+Here you are, dear.\nDon't waste it.
+@50
+Dear, this money\nbelongs to everyone.\nPlease don't waste it.
+@51
+Dear, you have no money to deposit.
+@51.1
+Oh, come to think of it,\nI have no money to deposit.
+@51.2
+Oh, come to think of it,\nI have no money to deposit.
+@52
+Dear, you have no money to deposit.
+@52.1
+Oh, come to think of it,\nI have no money to deposit.
+@52.2
+Oh, come to think of it,\nI have no money to deposit.
+@53
+How much will you deposit?
+@53.1
+How much shall I deposit?
+@53.2
+How much shall I deposit?
+@54
+The safe is empty right now.\nHow much shall I keep for you?
+@54.1
+The safe now holds\n{02}{83}e{03}/%10 kan.\nHow much shall I keep for you?
+@54.2
+The safe is empty right now.\nHow much shall I put in?
+@54.3
+The safe is empty right now.\nHow much shall I put in?
+@54.4
+The safe holds\n{02}{83}e{03}/%10 kan now.\nHow much shall I put in?
+@54.5
+The safe holds\n{02}{83}e{03}/%10 kan now.\nHow much shall I put in?
+@55
+Yes, dear.\nI'll keep it safe.
+@56
+Yes, dear.\nI'll keep it safe as {01}C{92}{01}.
+@57
+Oh, I don't have anything\nunappraised.
+@57.1
+Oh, I don't have anything\nunappraised.
+@58
+Which shall I appraise?
+@58.1
+Which shall I appraise?
+@59
+Hm, this is {02}3g.
+@59.1
+Let's see...\nThis is {02}3g.
+@60
+Dear, everyone\nhas gone out.
+@60.1
+......It seems no one is here.
+@60.2
+......It seems no one is here.
+@61
+Dear, you've already served tea\nto everyone at home this month.
+@61.1
+......I've already served tea\nto everyone at home this month.
+@61.2
+......I've already served tea\nto everyone at home this month.
+@62
+Dear, you've already given gifts\nto everyone at home this month.
+@62.1
+......I've already given gifts\nto everyone at home this month.
+@62.2
+......I've already given gifts\nto everyone at home this month.
+@63
+Right, a tea gathering.\nI'll gather everyone at once.
+@63.1
+Right, a tea gathering. That decided,\nI'll call them over at once...
+@63.2
+A tea gathering, then.\nEveryone will be pleased.
+@63.3
+A tea gathering, then.\nThey'll surely be pleased.
+@63.4
+You'll hold a tea gathering?\nThen I'll call all your retainers.\nPlease wait.
+@63.5
+You'll hold a tea gathering?\nThen I'll call them at once.\nPlease wait.
+@64
+{01}C1{00}, all of us {01}C{AA}{01}s\nare deeply honoured to be\ninvited to your tea gathering.
+@64.1
+{01}C1{00}, thank you\nfor inviting me\nto your tea gathering.
+@65
+{01}C1{00}, on behalf of\nthe {01}C{AA}{01}s, thank you\nfor inviting us to your tea gathering.
+@65.1
+{01}C1{00}, thank you\nfor inviting me\nto your tea gathering.
+@66
+(They're my own subordinates,\n and given their rank,\n any tea ware should do.)
+@66.1
+(It's my own subordinate,\n and given their rank,\n any tea ware should do.)
+@66.2
+(They're my subordinates, but given\n their rank, anything less than\n value {02}od tea ware would be rude.)
+@66.3
+(Given the guest's rank, even for\n my subordinate, anything less than\n value {02}od tea ware would be rude.)
+@67
+(They're my {01}C{AA}{01}s...\n and given everyone's rank,\n any tea ware should do.)
+@67.1
+(It's my {01}C{AA}{01}...\n and given the guest's rank,\n any tea ware should do.)
+@67.2
+(Given my guests' rank,\n anything less than value {02}od\n tea ware would be rude...)
+@67.3
+(Given my guest's rank,\n anything less than value {02}od\n tea ware would be rude...)
+@68
+(Given their rank,\n anything less than value {02}od\n tea ware would be rude.)
+@68.1
+(Given their rank,\n anything less than value {02}od\n tea ware would be rude.)
+@69
+(The more valuable the better.\n I'll use {02}3g.)
+@69.1
+(Blast, I only have {02}3g,\n worth {02}3j......\n No choice; rude or not, I'll use it.)
+@70
+(I'll use something valuable.\n {02}3g should do.)
+@70.1
+(Oh no, I only have {02}3g,\n worth {02}3j...\n No choice; rude as it is, I'll use it.)
+@71
+My, what a fine tea.
+@71.1
+Thank you for the tea.\n......A fine tea.
+@72
+That was a fine tea.
+@72.1
+Thank you for the tea.\n...That was a fine tea.
+@73
+(It seems everyone\n was satisfied.)
+@73.1
+(Mm, by the look of it,\n they seem to be satisfied.)
+@73.2
+(...Hmm, as I feared,\n they weren't really satisfied.\n That was a failure.)
+@74
+(Good,\n everyone seems satisfied.)
+@74.1
+(Good...\n by the look of it, they're satisfied.)
+@74.2
+(...Hmm,\n they weren't really satisfied.\n That was a failure...)
+@75
+Dear,\nyou look rather fierce today...
+@75.1
+Dear,\nyou look a little gaunt...
+@75.2
+I'll follow you\nanywhere, dear.
+@75.3
+Please don't push\nyourself too hard.
+@75.4
+Dear,\nplease don't do anything\nthat would make me sad.
+@75.5
+Dear...\nNo, it's nothing.
+@75.6
+......Dear,\nif you stare at me like that...\n(blush)
+@76
+Dear,\ntonight it's salt-grilled saury.
+@76.1
+Dear,\ntonight it's chestnut rice.
+@76.2
+Dear,\ntonight it's matsutake rice.
+@77
+Dear,\ntonight it's simmered\n{01}C{FE}6 and {01}C{FF}6.
+@78
+taro
+@78.1
+kelp
+@78.2
+burdock
+@78.3
+leek
+@78.4
+hijiki
+@78.5
+beans
+@79
+daikon
+@79.1
+lotus root
+@79.2
+carrot
+@79.3
+butterbur
+@81
+Dear,\nI hope this will be a good year too.
+@81.1
+It's cold enough to snow.
+@81.2
+This morning I slipped on the ice\nin front of the house.
+@81.3
+Dear,\nthe well froze, and drawing water\nis such a chore.
+@81.4
+Dear,\nI can hardly wait for spring.
+@81.5
+Dear,\nthe plum blossoms out back are lovely.
+@82
+Dear,\nI heard a bush warbler just now.
+@82.1
+Dear,\nit's starting to feel like spring.
+@82.2
+Will the cherry blossoms be out soon...
+@83
+Dear,\nwhat a warm, sunny day\nit is today.
+@83.1
+Next year too, I'd like to see\nthe cherry blossoms with you, dear...
+@83.2
+Dear,\nthe trees and grass are budding.
+@84
+It's warm enough to make you\ndrift off to sleep.
+@84.1
+Dear, it's the season when the breeze\nthrough the new leaves is so fresh.
+@84.2
+Dear,\nit's rice-planting season.\nI hope for a good harvest again.
+@85
+This season is so damp\nand unpleasant...
+@85.1
+Dear,\nthe hydrangeas are at their best.
+@85.2
+It'll soon be time for the first bonito.
+@85.3
+Dear,\nthe wisteria outside is splendid.
+@86
+Dear,\nit'll soon be time for the new tea.
+@86.1
+Dear,\nthe frogs were singing in chorus last night.
+@86.2
+Dear,\nthe water lilies in the pond were in full bloom.
+@87
+Dear, take care\nnot to wilt in this heat.
+@87.1
+When it's this hot,\nI'd like a cool bath.
+@87.2
+Dear,\nthe cicadas are so lively.
+@87.3
+Dear,\nthe crape myrtle is blooming in the garden.\nIt looks like the heat will go on a while.
+@88
+Dear,\nit's starting to feel like autumn.
+@88.1
+Dear,\nthe sky has grown so high.
+@88.2
+Dear,\nit's become a pleasant season.
+@88.3
+Dear,\nthe rice ears are bowing their heads.\nI hope for a good harvest again.
+@88.4
+Dear,\nit's typhoon season.\nI'm worried about leaks.
+@88.5
+Dear,\nthe red spider lilies outside are splendid.
+@89
+Dear,\nit's the season when food tastes best.
+@89.1
+Dear,\nthis year's new rice is so fresh.
+@89.2
+Dear,\nthe leaves are turning red.
+@89.3
+Dear,\nthe insects' songs this season\nare so pleasant to hear.
+@90
+The end of the year\nis always so busy......
+@90.1
+Dear,\nwe must get ready\nto welcome the new year.
+@90.2
+Why does a year\ngo by so fast......
+@90.3
+Dear,\nthe days are getting shorter.\nA day is over in no time...
+@91
+Dear,\nyou can learn Infantry\nfrom someone better at it{01}C{0C}7
+@91.1
+Dear,\nyou can learn Cavalry\nat a stable{01}C{0C}7
+@91.2
+Dear,\nyou can learn Gunnery\nat a smith{01}C{0C}7
+@91.3
+Dear,\nyou can learn Navy\nat a fort training hall{01}C{0C}7
+@91.4
+Dear,\nyou can learn Archery\nfrom an expert in it{01}C{0C}7
+@91.5
+Dear,\nyou can learn Martial Arts\nat a dojo{01}C{0C}7
+@91.6
+Dear,\nyou can learn Tactics\nfrom someone better at it{01}C{0C}7
+@91.7
+Dear,\nyou can learn Ninjutsu\nat a village training hall{01}C{0C}7
+@91.8
+Dear,\nyou can learn Building\nfrom someone better at it{01}C{0C}7
+@91.9
+Dear,\nyou can learn Farming\nat a Nanban temple{01}C{0C}7
+@91.10
+Dear,\nyou can learn Mining\nfrom someone better at it{01}C{0C}7
+@91.11
+Dear,\nyou can learn Accounting\nat a merchant house{01}C{0C}7
+@91.12
+Dear,\nyou can learn Etiquette\nat a temple{01}C{0C}7
+@91.13
+Dear,\nyou can learn Speech\nfrom someone better at it{01}C{0C}7
+@91.14
+Dear,\nyou can learn Tea\nat a tea master's home{01}C{0C}7
+@91.15
+Dear,\nyou can learn Medicine\nat a doctor's home{01}C{0C}7
+@92
+.
+@92.1
+, I hear.
+@92.2
+.
+@92.3
+.
+@93
+Dear, where shall we move?
+@93.1
+Now, where shall I move?
+@93.2
+Now, where shall I move?
+@94
+Shall we move to {02}{15}e?
+@94.1
+Shall I move to {02}{15}e?
+@94.2
+Shall I move to {02}{15}e?
+@95
+Very well, then\nI'll start packing at once.
+@95.1
+Right, that's decided.\nI must start packing at once......
+@95.2
+That's decided, then.\nI must start packing...
+@96
+No, on second thought,\nI won't move.
+@96.1
+Actually, never mind.
+@97
+Dear, training in your condition\nis out of the question!\nWhen you're ill, rest comes first.
+@97.1
+In your condition\nyou can't train properly.\nPlease rest.
+@98
+Dear, training your abilities\ncosts {02}o{C8}.\n...You don't have enough money.
+@98.1
+Training your abilities costs {02}o{C8}.\n...You don't have enough money.
+@99
+Dear, you already have\nample ability.\nThere's no need to train more.
+@99.1
+My lord, you already have\nample ability.\nThere's no need to train more.
+@100
+You'll train your abilities?\nIt costs {02}o{C8} and takes {02}pd days.\nIs that all right?
+@101
+Then which ability will you train?
+@102
+You'll train {02}yd?
+@103
+Then I'll ask\nthe teacher to come at once.
+@104
+Splendid, dear.\nThe teacher praised you too.
+@104.1
+Splendid.\nThe teacher praised you too.
+@105
+Well done, dear.\nIt didn't go well this time,\nbut it'll help next time.
+@105.1
+Well done.\nIt didn't go well this time,\nbut learn from it for next time.
+@108
+(Shall I open a forge...)
+@108.1
+(Shall I open a forge...)
+@109
+Dear,\nwill you open a forge?
+@110
+Dear,\nyou'll open a forge?
+@111
+Dear...\nwill you open a forge?
+@112
+Dear,\nare you opening a forge?
+@115
+Until I close the forge,\nI can't build another workplace.\nSpend {02}o{C8} and really open it?
+@115.1
+Until I close the forge,\nI can't build another workplace.\nSpend {02}o{C8} and really open it?
+@116
+Until you close the forge,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@117
+Until you close the forge,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@118
+Until you close the forge,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@119
+Until you close the forge,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@122
+(Now isn't the time, perhaps...)
+@122.1
+(Let me think a little more...)
+@123
+You'll hold off...
+@124
+You'll hold off...
+@125
+You'll hold off...
+@126
+You'll hold off...
+@127
+Used a card
+@130
+Good!\nMy forge is finished.
+@130.1
+Good!\nMy forge is finished!
+@131
+Dear,\nthe forge is ready... Congratulations.
+@132
+Dear,\nthe forge is ready.\nCongratulations.
+@133
+Dear,\nthe forge is ready.\nYour wish has come true.
+@134
+Dear,\nthe forge is ready.\nDo your best.
+@137
+Oh, {01}C1{00},\nwhat a fine forge you've built.\nA small gift to celebrate.
+@137.1
+Oh, {01}C1{00},\nwhat a fine forge you've built.\nA small gift to celebrate.
+@137.2
+My, {01}C1{00},\nwhat a fine forge you've built.\nA small gift to celebrate.
+@138
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@139
+Oh, dear,\nnot bad for an amateur.\nUfufu, a gift from me.
+@140
+Dear...\none of your dreams has come true.\nA small gift to celebrate.
+@141
+Ufufu, dear,\nnow one of your dreams has come true.\nHere, a gift from me.
+@142
+Received {02}od of {02}Ge.
+@143
+Received {02}od of {02}3g.
+@144
+Received {02}o{C8}.
+@145
+Was served tea.
+@146
+Oh, thank you...\nI'm grateful.
+@146.1
+This is very kind...\nYou're too thoughtful.
+@146.2
+Oh, how lovely...\nSorry to put you to trouble.
+@147
+Hmph, {02}{02}f,\nbuilding a forge of all things...\nThe noise is unbearable.
+@147.1
+Oh, {02}{02}f,\nopening a forge...\nThe noise is unbearable.
+@148
+Hmph, {02}{02}f,\nbuilding another forge, never learning...\nI'm lost for words.
+@148.1
+Oh, {02}{02}f,\nbuilding another forge, never learning...\nI'm lost for words.
+@149
+Why, Lord {02}{02}e,\nthank you for your kind\nwords of congratulation.
+@149.1
+Why, Lord {02}{02}e,\ncoming all this way to say that\nwhen you're so busy; how kind.
+@149.2
+Thank you, Lord {02}{02}e.\nTo worry so much\nabout my husband...
+@149.3
+Sorry, Lord {02}{02}e,\nit'll get much noisier from now on.\nBe prepared, ufufu.
+@150
+Ugh... against {01}Ci7\neven I am no match.\n{02}{02}f, I'll retreat for today.
+@150.1
+Oh my... against {01}Ci7\neven I am no match.\n{02}{02}f, I'll retreat for today.
+@153
+(Shall I open a clinic...)
+@153.1
+(Shall I open a clinic...)
+@154
+Dear,\nwill you open a clinic?
+@155
+Oh, dear,\nyou mean to open a clinic?
+@156
+Ah... dear...\nwill you open a clinic?
+@157
+Ufufu, dear,\nyou'd like to open a clinic?
+@160
+Until I close the clinic,\nI can't build another workplace.\nSpend {02}o{C8} and really open it?
+@160.1
+Until I close the clinic,\nI can't build another workplace.\nSpend {02}o{C8} and really open it?
+@161
+Until you close the clinic,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@162
+Until you close the clinic,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@163
+Until you close the clinic,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@164
+Until you close the clinic,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@165
+Used {02}=e
+@168
+Good, the clinic is open.
+@168.1
+The clinic is open!
+@169
+Dear, the clinic is open.
+@170
+Dear, the clinic is open.
+@171
+Dear, the clinic is open.
+@172
+Dear, the clinic is open!
+@175
+Oh, {01}C1{00},\nwhat a fine clinic you've built.\nA small gift to celebrate.
+@175.1
+Oh, {01}C1{00},\nwhat a fine clinic you've built.\nA small gift to celebrate.
+@175.2
+My, {01}C1{00},\nwhat a fine clinic you've built.\nA small gift to celebrate.
+@176
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@177
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@178
+Dear,\nI'm so glad you have a fine clinic.\nA small gift to celebrate...
+@179
+Ufufu, dear,\nnow one of your dreams has come true.\nA small gift to celebrate.
+@180
+Hmph, {01}C1{00},\nbuilding a clinic of all things...\nWhat a headache.
+@180.1
+Oh, {01}C1{00},\nbuilding a clinic...\nWhat a headache.
+@181
+Hmph, {01}C1{00},\nplaying doctor again? Laughable.
+@181.1
+Oh, {01}C1{00},\nplaying doctor again? How laughable.
+@182
+Oh dear!\nLord {02}{02}e, for the pain\nthis medicine is best.
+@182.1
+Oh dear!\nLord {02}{02}e, do you have a fever?\nLet me feel your forehead, there...
+@182.2
+Oh dear, what shall I do...\nI know, Lord {02}{02}e,\nplease take this medicine.
+@182.3
+Oh dear!\nLord {02}{02}e, you may have a fever...\nLet me feel your forehead, there...
+@183
+{02}{01}f gave them medicine.
+@183.1
+*Bonk!*
+@183.2
+{02}{01}f gave them medicine.
+@183.3
+*Bonk!*
+@184
+Hahaha, no match for {01}Ci7.\nTruly, too good a wife\nfor {01}C1{00}.
+@184.1
+Hee hee...\nNo match for {01}Ci7.\nToo good a wife for {01}C1{00}.
+@184.2
+Wh-wh-what, {01}Ci7!\nWhat are you doing... stop it.\nI-I'll retreat for {02}{03}f's sake.
+@184.3
+W-wait... {01}Ci7!\nWhat are you... please stop.\nI'll retreat for {02}{03}f's sake.
+@184.4
+Hahaha, no match for {01}Ci7.\nTruly, too good a wife\nfor {01}C1{00}.
+@184.5
+Hee hee...\nNo match for {01}Ci7.\nToo good a wife for {01}C1{00}.
+@184.6
+Wh-wh-what, {01}Ci7!\nWhat are you doing... stop it.\nI-I'll retreat for {02}{03}f's sake.
+@184.7
+W-wait... {01}Ci7!\nWhat are you... please stop.\nI'll retreat for {02}{03}f's sake.
+@185
+Lady Yodo
+@185.1
+Lady Tsukiyama
+@185.2
+Lady Nohime
+@185.3
+Lady Hayakawa
+@185.4
+Lady {02}{03}f
+@185.5
+Mrs {02}{03}f
+@188
+(Now, off to the forge.)
+@188.1
+(Now, off to the forge.)
+@189
+Off to the forge?\nDo your best,\ndear.
+@190
+Off to the forge?\nWork hard,\ndear.
+@191
+Off to the forge?\nDon't overdo it,\ndear.
+@192
+Going to work at the forge?\nDo your best,\ndear.
+@195
+(Now, off to the clinic.)
+@195.1
+(Now, off to the clinic.)
+@196
+Off to the clinic?\nDo your best,\ndear.
+@197
+Off to the clinic?\nWork hard,\ndear.
+@198
+Off to the clinic?\nDon't overdo it,\ndear.
+@199
+Going to work at the clinic?\nDo your best,\ndear.
+@202
+Oh, my purse is full...
+@202.1
+Oh, my purse is full...
+@203
+Dear,\nyour purse is full.
+@204
+Dear,\nyour purse is full.\nCarry any more and you won't be able to move.
+@205
+Dear, what shall we do...\nyour purse is full...\nYou can't carry more.
+@206
+Oh, dear...\nyour purse is full.
+@209
+Oops, the safe is full...\nIt won't hold any more.
+@209.1
+Oh, the safe is full...\nIt won't hold any more.
+@210
+Dear, the safe is full.\nIt won't hold any more...
+@211
+That won't do, dear.\nThe safe is full;\nit won't hold any more.
+@212
+Dear, what shall we do...\nthe safe is full...\nIt won't hold that.
+@213
+Oh, dear...\nthe safe is full.\nIt won't hold any more.
+@216
+Oops, the {01}C{91}{01} are full...\nI can't deposit any more.
+@216.1
+Oops, the {01}C{91}{01} are full...\nI can't deposit any more.
+@217
+Dear,\nthe {01}C{92}{01} are full.\nI can't keep any more.
+@218
+Dear,\nthe {01}C{92}{01} are full.\nI can't keep any more.
+@219
+Dear,\nthe {01}C{92}{01} are full.\nI can't keep any more.
+@220
+Dear,\nthe {01}C{92}{01} are full.\nI can't keep any more.
+@223
+My purse and safe are both full...\nInstead of just saving, maybe I'll spend some.
+@223.1
+My purse and safe are both full...\nInstead of just saving,\nmaybe I'll spend a little.
+@224
+Dear, your purse and safe are both full.\nThey won't hold any more...\nLet's spend it on something for once.
+@225
+Dear, your purse and safe are both full;\nthey won't hold any more.\nBuy me something for once.
+@226
+Dear, what shall we do...\nyour purse and safe are both full...\nPlease spend some for once...
+@227
+Oh, dear...\nyour purse and safe are both full.\nLet's spend it on something for once.
+@228
+Oh, {01}C1{00},\nwhat a fine forge you've built.\nIt's small, but let me celebrate.
+@229
+Oh, {01}C1{00},\nyou've opened a fine forge.\nDo give our shop your custom!
+@230
+Oh, {01}C1{00},\nwhat a fine clinic you've opened.\nIt's small, but let me celebrate.
+@230.1
+Oh, {01}C1{00},\nyou've opened a fine clinic.\nA small gift to celebrate.
+@230.2
+My, {01}C1{00},\nwhat a fine clinic you've built!\nCongratulations.
+@231
+{01}C1{00}, what a fine clinic...\nThis is a gift from all of us.\nWe'll count on you when we're ill.
+@234
+(Shall I open a tea room...)
+@234.1
+(Shall I open a tea room...)
+@235
+Dear,\nwill you open a tea room?
+@236
+Dear,\nwill you open a tea room?
+@237
+Dear,\nwill you open a tea room?
+@238
+Dear,\nwill you open a tea room?
+@241
+Until I close the tea room,\nI can't build another workplace.\nSpend {02}o{C8} and really open it?
+@241.1
+Until I close the tea room,\nI can't build another workplace.\nSpend {02}o{C8} and really open it?
+@242
+Until you close the tea room,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@243
+Until you close the tea room,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@244
+Until you close the tea room,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@245
+Until you close the tea room,\nyou can't build another workplace.\nSpend {02}o{C8} and really open it?
+@248
+Good, the tea room is open.
+@248.1
+The tea room is open!
+@249
+Dear, the tea room is open.
+@250
+Dear, the tea room is open.
+@251
+Dear, the tea room is open.
+@252
+Dear, the tea room is open.
+@255
+Oh, {01}C1{00},\nwhat a fine tea room you've built.\nA small gift to celebrate.
+@255.1
+Oh, {01}C1{00},\nwhat a fine tea room you've built.\nA small gift to celebrate.
+@255.2
+My, {01}C1{00},\nwhat a fine tea room you've built.\nA small gift to celebrate.
+@256
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@257
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@258
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@259
+Dear,\none of your dreams has come true.\nA small gift to celebrate.
+@260
+Oh, {01}C1{00},\nwhat a fine tea room you've built.\nIt's small, but here's a gift.
+@260.1
+Oh, {01}C1{00},\nwhat a fine tea room you've built.\nThis is a gift to celebrate.
+@260.2
+My, {01}C1{00},\nwhat a lovely tea room you've built!\nHere, a gift to celebrate.
+@261
+Oh, {01}C1{00},\nyou've opened a fine tea room.\nThis is a gift to celebrate.
+@262
+Hmph, {02}{02}f,\nbuilding a tea room of all things...\nDon't overdo the tea-sipping.
+@262.1
+Oh, {02}{02}f,\nbuilding a tea room like this...\nDon't overdo the tea-sipping.
+@263
+Hmph, {02}{02}f,\nbuilding another tea room, never learning...\nDon't overdo the tea-sipping.
+@263.1
+Oh, {02}{02}f,\nanother tea room, never learning...\nDon't overdo the tea-sipping.
+@264
+Why, Lord {02}{02}e,\nif you love sipping tea so,\ncome and visit any time.
+@265
+Ugh... against {01}Ci7\neven I am a mere tea servant...\n{02}{02}f, I'll retreat for today.
+@265.1
+Oh my... {01}Ci7\ntreats even me like a child...\n{02}{02}f, I'll retreat for today.
+@268
+(Now, off to the tea room.)
+@268.1
+(Now, off to the tea room.)
+@269
+Off to the tea room?\nDo your best,\ndear.
+@270
+Off to the tea room?\nDo your best,\ndear.
+@271
+Off to the tea room?\nDo your best,\ndear.
+@272
+Off to the tea room?\nDo your best,\ndear.
+@273
+(Oh? Someone's come.)
+@273.1
+(Oh? Someone's come.)
+@274
+{01}C1{00}...\nI heard you were unwell.\nHere, take this medicine.
+@274.1
+{01}C1{00}...\nI heard you were unwell...\nPlease take this medicine.
+@274.2
+{01}C1{00}...\nI heard you were unwell.\nPlease take this medicine.
+@275
+*cough cough*...\n...Oh, {02}3g?\nI'll take it at once.
+@275.1
+*cough cough*...\n...Oh, {02}3g?\nI'll take it at once.
+@275.2
+*cough cough*...\n...Oh, is that {02}3g?\nI'll take it at once.
+@276
+Mm, I feel better.\n{01}C1{00}, I'm grateful.
+@276.1
+Oh, I feel better.\n{01}C1{00}, you're too kind.
+@276.2
+Oh, I'm feeling better.\n{01}C1{00}, thank you.
+@277
+Then take care...
+@277.1
+Then take care...
+@277.2
+Then take care...
+@278
+{01}C1{00}...\nAre you all right?
+@279
+*cough cough*...\n{01}C{EE}7!?\nWhat are you doing here?
+@280
+I heard {01}C1{00} had fallen ill,\nso I begged them to let me in.\n\nI made rice porridge\nso you'll get well soon.\nCome, before it gets cold...
+@281
+You came all this way just for that...\nI'll have some right away.
+@282
+*munch munch*............ Mmm!\nOh, I feel my strength returning.\n{01}C{EE}7, I'm grateful...
+@283
+Well then, I have business in a nearby town.\n{01}C1{00}, please rest.\nTake care...
+@284
+Ah, {01}C{EE}7!\n......She's gone.
+@285
+Ah, {01}C{EE}7!...... Please wait!
+@286
+Oh? {01}C1{00},\nwhat is it?
+@287
+......?\nWell then, {01}C1{00},\nplease rest properly.
+@288
+......{01}C{EE}7! Will you...\nwill you marry me?
+@289
+Um... f-forgive me if this is rude,\nbut do you mean it?
+@289.1
+......My, {01}C1{00},\nthat's not something to say\nat a time like this.\nUfufu, come again properly\nwhen you're sober.\nI'll take my leave for today.
+@289.2
+Wh-what... {01}C1{00}!?\n...S-saying that so suddenly...\n{02}{01}e needs time to prepare...\nI'll take my leave for today.\n...How embarrassing.
+@289.3
+Heh heh, oh, {01}C1{00},\nyou do love your jokes...\nStop teasing me!
+@290
+...Oh, you're mean!\nIf you do things like this,\nI won't come any more!
+@291
+{01}C1{00},\nwhen you look at me so earnestly...\n...(blush)
+@292
+I-if someone like me will do,\nI'd be honoured, my husband.\n{01}C{D5}7
+@293
+I'm... I'm so happy.
+@293.1
+...I've dreamed of this day all along.
+@293.2
+*sniff*... I'm not sad, so why the tears...
+@293.3
+This isn't a lie, is it? It isn't, is it!?
+@293.4
+Ah, if this is a dream, let me never wake...
+@294
+I am {02}{01}g.\nI've rushed here to meet\nthe famous {01}C1{00}.\nI'm glad to know you.
+@294.1
+I am {02}{01}g.\nI've rushed here hoping to meet\nthe famous {01}C1{00}.\nI'm glad to know you.
+@294.2
+I am {02}{01}g.\nI've rushed here hoping to meet\nthe famous {01}C1{00}.\nI'm glad to know you.
+@295
+So you're {01}C1{00}.\nThe pleasure is mine.
+@295.1
+So you're {01}C1{00}.\nThe pleasure is mine.
+@295.2
+So you're {01}C1{00}.\nThe pleasure is mine.
+@296
+Then I'll take my leave.
+@296.1
+Then I'll take my leave.
+@296.2
+Then I'll take my leave.
+@297
+{01}C1{00}...\nI've brought good news today.\n\nIn our {02}{01}{EC},\nyou're all the talk.\nThey say you're a master of {02}yd...
+@297.1
+{01}C1{00}...\nI've brought good news today.\n\nIn our {02}{01}{EC},\nthe talk of you never ends.\nThey say you're a master of {02}yd...
+@297.2
+{01}C1{00}...\nI've brought good news today.\n\nIn our {02}{01}{EC},\nthe talk of you never ends.\nThey say you're a master of {02}yd...
+@298
+We'd like to welcome you\nto {01}C{A7}{01} as {02}yd.\nWhat do you say?
+@298.1
+We'd like to welcome you\nto {01}C{A7}{01} as {02}yd.\nWhat do you say?
+@298.2
+We'd love to welcome you\nto {01}C{A7}{01} as {02}yd.\nWhat do you say?
+@299
+It's a kind offer, but\nI'm not interested right now...\nWould you leave, please?
+@299.1
+I'm sorry you came all this way, but\nI'm not interested right now.\nPlease leave.
+@299.2
+I'm sorry you came all this way, but\nI'm not interested right now.\nPlease leave.
+@300
+...Hmm, a pity.\nThen I'll take my leave.
+@300.1
+...Hmm, a pity.\nThen I'll take my leave.
+@300.2
+...Oh, what a pity.\nThen I'll take my leave.
+@301
+What, that's more than I could hope for!\nPlease let me join\n{02}{02}{EC}.
+@301.1
+What, that's more than I could hope for!\nPlease let me take\nthe lowest seat in {02}{02}{EC}.
+@301.2
+Oh! That's more than I could hope for...\nPlease let me take\nthe lowest seat in {02}{02}{EC}.
+@302
+Splendid.\nThen please come\nto {02}{15}e at once.
+@302.1
+Splendid.\nThen please come\nto {02}{15}e at once.
+@302.2
+How wonderful.\nThen please come\nto {02}{15}e at once.
+@303
+{01}C1{00}...\nI hear you're a villain\nof real promise.
+@303.1
+{01}C1{00}...\nI hear you're a villain\nof real promise.
+@303.2
+{01}C1{00}...\nI hear you're a villain\nof real promise.
+@304
+Our {02}{01}{EC} would like\nto welcome {01}C1{00} as {02}yd.\nWhat do you say?
+@304.1
+Our {02}{01}{EC} would like\nto welcome {01}C1{00} as {02}yd.\nWhat do you say?
+@304.2
+Our {02}{01}{EC} would love\nto welcome {01}C1{00} as {02}yd.\nWhat do you say?
+@305
+Sorry, but I won't sink that low.\nNow, go home.
+@305.1
+I'm sorry, but\nI won't sink that low.\nPlease leave.
+@305.2
+I'm sorry, but\nI won't sink that low.\nPlease leave.
+@306
+A pity...\nFew suit the darkness\nas well as {01}C1{00}...
+@306.1
+A pity...\nFew suit the darkness\nas well as {01}C1{00}...
+@306.2
+Oh, what a pity...\nFew suit the darkness\nas well as {01}C1{00}...
+@307
+What, that's more than I could hope for!\nPlease let me join\n{02}{02}{EC}.
+@307.1
+What, that's more than I could hope for!\nPlease let me take\nthe lowest seat in {02}{02}{EC}.
+@307.2
+Oh? That's more than I could hope for...\nPlease let me take\nthe lowest seat in {02}{02}{EC}.
+@308
+Understood.\nThen please come\nto {02}{15}e at once.
+@308.1
+Oh, thank you.\nThen please come\nto {02}{15}e at once.
+@308.2
+Understood.\nThen please come\nto {02}{15}e at once.
+@309
+Today I thought I'd serve\n{01}C1{00} some tea.\nWhat do you say?
+@309.1
+Today I thought I'd serve\n{01}C1{00} some tea...\nWhat do you say?
+@309.2
+Today I thought I'd serve\n{01}C1{00} some tea.\nWhat do you say?
+@310
+Sorry, I'm busy right now.\nCould we make it another time?
+@310.1
+I'm terribly sorry,\nbut I'm busy right now.\nPlease let it be another time.
+@310.2
+I'm sorry,\nbut I'm busy right now.\nPlease let it be another time.
+@311
+That's a pity.\nAnother time, then.
+@311.1
+A pity.\nAnother time, then.
+@311.2
+What a pity.\nAnother time, then.
+@312
+Heh, if {01}C1{00} invites me,\nI can hardly refuse.\nI'd be glad to.
+@312.1
+Oh, if {01}C1{00} invites me,\nI can hardly refuse.\nI'd be glad to.
+@312.2
+My, if {01}C1{00} invites me,\nI can hardly refuse.\nI'd be glad to.
+@313
+Heh heh, I thought you'd say that,\nso today I brought\nmy finest tea ware.
+@313.1
+I thought you'd say yes,\nso today I brought\nmy finest tea ware.
+@313.2
+Heh heh, I thought you'd say that,\nso today I brought\nmy finest tea ware.
+@314
+They brought {02}3g.
+@315
+Oh, so this is the famed\n{02}3g.
+@315.1
+Oh, so this is the famed\n{02}3g.
+@315.2
+{02}3g, is it...
+@315.3
+Is that {02}3g...
+@315.4
+Oh, so this is the famed\n{02}3g!
+@315.5
+That's {02}3g...
+@316
+Oh, isn't this the {02}3g\nI made...\nI thank you for the thought.
+@316.1
+Oh, isn't this the {02}3g\nI made...\nI'm deeply honoured.
+@316.2
+Oh my, isn't this the {02}3g\nI made...\nI'm deeply honoured.
+@317
+Mm, a fine tea.
+@317.1
+That was a fine tea.
+@317.2
+That was a fine tea.
+@318
+Lord {02}{02}g
+@318.1
+{02}{02}g
+@318.2
+{02}{02}g
+@318.3
+{02}{02}g
+@318.4
+{02}{02}g
+@318.5
+little {02}{02}g
+@318.6
+{02}{02}g
+@318.7
+Lord {02}{02}g
+@318.8
+{02}{02}g
+@318.9
+little {02}{02}g
+@318.10
+{01}C,{00}
+@318.11
+Lord {01}C,{00}
+@318.12
+{01}C,{00}
+@318.13
+little {01}C,{00}
+@319
+Today I'd like {01}C1{00}\nto teach me the secret of {02}yd...\nWould you show me how it's done?
+@319.1
+Today I hoped {01}C1{00} would teach me\nthe secret of {02}yd...\nWould you show me how it's done?
+@319.2
+Today I'd like {01}C1{00}\nto show me the secret of {02}yd...\nWould you show me how it's done?
+@320
+Sorry, I'm not confident enough\nin {02}yd to teach others...\nAnother time.
+@320.1
+I'm very sorry, but I'm not confident\nenough in {02}yd to teach others.\nPlease let it be another time.
+@320.2
+I'm sorry,\nI'm not confident enough in {02}yd...\nPlease let it be another time.
+@321
+Hmm, a pity.\nAnother time, then.
+@321.1
+Hmm, a pity.\nAnother time, then.
+@321.2
+Oh, what a pity...\nAnother time, then.
+@322
+This requires using {02}yd.\nReally show them how?
+@323
+Very well.\nIf {01}C1{00} asks,\nI can hardly refuse.
+@323.1
+Very well.\nIf {01}C1{00} asks,\nI can hardly refuse.
+@323.2
+Very well.\nIf {01}C1{00} asks,\nI can hardly refuse.
+@324
+Is this all a master like\n{01}C1{00} can do...\nThat's no help at all. I'll take my leave.
+@324.1
+Is this all a master like\n{01}C1{00} can do...\nThat's no help at all. I'll take my leave.
+@324.2
+Is this all a master like\n{01}C1{00} can do...\nThat's no help at all. I'll take my leave.
+@325
+Splendid!\nI've seen the secret of {02}yd.\nThen I'll take my leave for today.
+@325.1
+Splendid!\nI've been privileged to see\nthe secret of {02}yd.\nThen I'll take my leave for today.
+@325.2
+Splendid!\nI've been privileged to see\nthe secret of {02}yd.\nThen I'll take my leave for today.
+@326
+As expected!\nThat was very instructive.\nThen I'll take my leave for today.
+@326.1
+As expected!\nThat was very instructive.\nThen I'll take my leave for today.
+@326.2
+As expected!\nI've learned a lot.\nThen I'll take my leave for today.
+@329
+Hmm, not enough money...\nA proper tea room would cost\nabout {02}o{C8}.
+@329.1
+Not enough money...\nA proper tea room would cost\nabout {02}o{C8}...
+@330
+Dear, there isn't enough money.\nA proper tea room would cost\nabout {02}o{C8}.
+@331
+Dear, there isn't enough money.\nA proper tea room would cost\nabout {02}o{C8}.
+@332
+Dear, there isn't enough money.\nA proper tea room would cost\nabout {02}o{C8}.
+@333
+Dear, there isn't enough money.\nA proper tea room would cost\nabout {02}o{C8}.
+@336
+Not enough money...\nA proper forge would cost\nabout {02}o{C8}...
+@336.1
+Not enough money...\nA proper forge would cost\nabout {02}o{C8}...
+@337
+Dear, there isn't enough money.\nA proper forge would cost\nabout {02}o{C8}.
+@338
+Dear, there isn't enough money.\nA proper forge would cost\nabout {02}o{C8}.
+@339
+Dear, there isn't enough money.\nA proper forge would cost\nabout {02}o{C8}.
+@340
+Dear, there isn't enough money.\nA proper forge would cost\nabout {02}o{C8}.
+@343
+Not enough money...\nA proper clinic would cost\nabout {02}o{C8}...
+@343.1
+Not enough money...\nA proper clinic would cost\nabout {02}o{C8}...
+@344
+Dear, there isn't enough money.\nA proper clinic would cost\nabout {02}o{C8}.
+@345
+Dear, there isn't enough money.\nA proper clinic would cost\nabout {02}o{C8}.
+@346
+Dear, there isn't enough money.\nA proper clinic would cost\nabout {02}o{C8}.
+@347
+Dear, there isn't enough money.\nA proper clinic would cost\nabout {02}o{C8}.
+@350
+Not enough money...\nMoving all our things\nwould cost about {02}o{C8}.
+@350.1
+Not enough money...\nMoving all our things\nwould cost about {02}o{C8}...
+@351
+Dear, there isn't enough money.\nMoving all our things\nwould cost {02}o{C8}.
+@352
+Dear, there isn't enough money.\nMoving all our things\nwould cost {02}o{C8}.
+@353
+Dear, there isn't enough money.\nMoving all our things\nwould cost {02}o{C8}.
+@354
+Dear, there isn't enough money.\nMoving all our things\nwould cost {02}o{C8}.
+@357
+Shall I leave here and move elsewhere...\nMoving all our things would cost\n{02}o{C8}... Shall I move?
+@357.1
+To leave here and move elsewhere,\nI'd have to move all our things;\nit'll cost {02}o{C8}... Shall I move?
+@358
+Dear, moving to another town\nmeans moving all our things.\nIt'll cost about {02}o{C8}. Is that all right?
+@359
+Dear, moving to another town\nmeans moving all our things.\nIt'll cost about {02}o{C8}. Is that all right?
+@360
+Dear, moving to another town\nmeans moving all our things.\nIt'll cost about {02}o{C8}. Is that all right?
+@361
+Dear, moving to another town\nmeans moving all our things.\nIt'll cost about {02}o{C8}. Is that all right?
+@362
+{02}{01}g\nmoved to {02}{15}e.\n{02}{15}e is now home base.
+@365
+Mm, it was the home I knew well...\nBut I'll make a fresh start\nand work hard in {02}{15}e!
+@365.1
+Mm, it was the home I knew well...\nBut I'll make a fresh start\nand work hard in {02}{15}e!
+@366
+Dear, this is our last look at this house...\nI'll miss it, but let's make a fresh start\nand work hard in {02}{15}e.
+@367
+Dear, this is our last look at this house...\nNo time to be sad; let's make a fresh start\nand begin again in {02}{15}e.
+@368
+Dear, this is our last look at this house...\nI'll miss it, but let's make a fresh start\nand do our best in {02}{15}e.
+@369
+Dear, this is our last look at this house...\nI'll miss it, but with fresh hearts\nlet's work hard in {02}{15}e.
+@370
+Master, {02}{03}g has come\nas an envoy from\n{02}{03}{EC}.
+@371
+What, from {02}{03}{EC}?\nShow them in at once.
+@371.1
+Eh? From {02}{03}{EC}?\nShow them in at once.
+@372
+I, {02}{01}g, have come today\nfor {02}{01}{EC} with a request\nfor {02}{02}{EC}.
+@373
+It concerns the trade route we guard\nbetween {02}{15}e\nand {02}{16}e.
+@374
+I hear this route makes\na good profit... But it's also\ndangerous and hard to guard,\nand it costs us dearly too.\nSo... I have a proposal...\nWhat do you say...\nwould you consider raising\nthe guard fee we receive each month?
+@375
+The route's guard fee?\nHmm...
+@376
+(The route between {02}{15}e and {02}{16}e...\n Last month it earned {02}o{C8},\n and the guard fee was {02}p{C8}...)
+@377
+I'm sorry, but this route is\nan important earner for our {02}{01}{EC}...\nI can't give way so easily.
+@378
+...Is that so... A pity.\nThen we can't fully guarantee\nthe safety of the road... Farewell!
+@379
+Understood...\nThank you for your trouble.
+@380
+Oh, I'm grateful.\nNow I can save face... Thank you.\nFarewell!
+@380.1
+Oh, thank you for agreeing.\nNow I can save face... Farewell!
+@380.2
+Thank you for agreeing.\nI've saved face too... I'll take my leave.
+@381
+The guard fee for the route\n{02}{16}e-{02}{16}e is now {02}o{C8}.
+@382
+Understood...\nGuarding the route must be hard...\nI'll add about 20% to the guard fee.
+@383
+Oh, truly grateful.\nWe of {02}{01}{EC} will guard it\nbetter than ever... Farewell!
+@383.1
+Oh, truly, thank you!\nWe of {02}{01}{EC} will guard it\nbetter than ever... Farewell!
+@383.2
+Thank you so much for agreeing.\nWe of {02}{01}{EC} will guard it\nbetter than ever... Farewell!
+@384
+{01}C1{00}, a request for {02}Qe\nhas come from {02}{0B}e.\n\nThey want us to buy {01}C18\nwith 4000 kan of funds.\nWhat will you do?
+@384.1
+{01}C1{00}, a request for {02}Qe\nhas come from {02}{0B}e.\n\nThey want us to buy {01}C18\nwith 4000 kan of funds.
+@385
+{02}Qo,000+ koku of provisions
+@385.1
+{02}Qo+ horses
+@385.2
+{02}Qo+ guns
+@385.3
+{02}Qo+ cannons
+@385.4
+one bug
+@386
+Whom will you entrust this request to?
+@386.1
+Whom shall I entrust this request to?
+@387
+I ask {01}C1{00} to take this mission.\nTake our 1000 kan profit out, use\nthe other 3000 kan to buy {01}C18\nand deliver them to {02}{0B}e.
+@387.1
+I entrust this mission to {01}C1{00}.\nTake our 1000 kan profit out, use\nthe other 3000 kan to buy {01}C18\nand deliver them to {02}{0B}e.
+@388
+Leave it to me.
+@388.1
+Right, leave it to me.
+@388.2
+Leave it to me.
+@389
+Understood.\nI'll decline politely.
+@389.1
+Right, I'll decline politely.
+@389.2
+Understood.\nI'll decline politely.
+@390
+This requires using {02}yd.\nReally train?\n
+@391
+Let's begin training in {02}yd.\nNow we'll do {02}zd.
+@392
+Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a wandering ronin now, but\nI've come from {02}{15}e\nwishing to serve the famed {01}C1{00}.\nI'm confident in my {01}C98.\nWould you take me on as {02}yd?
+@392.1
+Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a ronin now, but\nI've come from {02}{15}e\nwishing to serve the famed {01}C1{00}.\nI'm confident in my {01}C98.\nWould you take me on\nas {02}yd?
+@392.2
+Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a ronin now, but\nI've come from {02}{15}e\nwishing to serve the famed {01}C1{00}.\nI'm confident in my {01}C98.\nWould you take me on\nas {02}yd?
+@393
+kemari skill
+@393.1
+infantry command
+@393.2
+cavalry command
+@393.3
+gun command
+@393.4
+sea fighting
+@393.5
+archery
+@393.6
+martial arts
+@393.7
+knowledge of tactics
+@393.8
+ninja arts
+@393.9
+building skill
+@393.10
+land clearing
+@393.11
+mine development
+@393.12
+accounting
+@393.13
+etiquette
+@393.14
+speech
+@393.15
+tea ceremony
+@393.16
+medicine
+@394
+...I see, what a pity.\nThen I'll take my leave.
+@394.1
+...Is that so.\nWhat a pity......\nThen I'll take my leave.
+@394.2
+...Is that so.\nWhat a great pity.\nThen I'll take my leave.
+@395
+Oh, I was hoping to hire\nsomeone skilled in {02}yd!\nDo join my followers!
+@395.1
+Oh, I was hoping to hire\nsomeone skilled in {02}yd.\nPlease become my follower!
+@395.2
+Oh, I wanted someone\nskilled in {02}yd.\nPlease work for me.
+@396
+Oh! {02}{01}e is deeply honoured...\nFrom now on I'll serve\n{02}{02}{EC} faithfully.
+@396.1
+Oh, I, {02}{01}e, am deeply honoured...\nFrom now on I'll serve\n{02}{02}{EC} faithfully.
+@396.2
+Thank you, my dream has come true...\nFrom now on I'll serve\n{02}{02}{EC} faithfully.
+@397
+*Clatter*
+@397.1
+*Creak*
+@397.2
+*Tap*
+@397.3
+*Squeak*
+@397.4
+*Squish*
+@398
+Hm, a noise in the ceiling...\nIs it {02}yd?
+@398.1
+Oh, a noise in the ceiling!\nCould it be {02}yd?
+@399
+*Clatter clatter*
+@400
+......Squeak squeak.
+@401
+......Mrow.
+@401.1
+......Purr... meow.
+@402
+{02}yd that cries\nso unnaturally!?\nWho goes there!
+@402.1
+A {02}yd that cries\nso unnaturally? Never!\nWho is it!
+@403
+As expected of {01}C1{00}, you saw through me.\nIn that case...\n\n{01}C1{00}, your life is mine!
+@403.1
+As expected of {01}C1{00}, you saw through me.\nIn that case...\n\n{01}C1{00}, your life is mine!
+@404
+{01}C1{00},\nleave this to me!
+@404.1
+{01}C1{00},\nleave this to me!
+@404.2
+{01}C1{00},\nleave this to me!
+@404.3
+{01}C1{00},\nleave this to me!
+@404.4
+{01}C1{00},\nplease leave this to me!
+@404.5
+{01}C1{00},\nplease leave this to me!
+@405
+I don't know who you are, but thanks.\nI'm counting on you.
+@405.1
+Oh, {01}C1{00}!\nI'm counting on you.
+@405.2
+Oh, {01}C1{00}!\nI'm counting on you.
+@405.3
+I don't know who you are,\nbut I'm counting on you.
+@405.4
+Ah, {01}C1{00}, I'm counting on you!
+@406
+Hmph, one of {02}{02}{EC}!?\nA worthy foe; come on!
+@406.1
+...One of {02}{02}{EC}!?\nA worthy foe; come on!
+@407
+The outcome of the fight...
+@408
+{02}{01}g won.
+@409
+Damn!\nYou'll pay for this!
+@409.1
+Grr!\nYou'll pay for this!
+@410
+{01}C1{00}, are you safe?\nI, {02}{01}g, drove the intruder off.\nFarewell, then!
+@410.1
+{01}C1{00}, are you unharmed?\nI, {02}{01}g, drove the intruder off.\nI'll take my leave!
+@410.2
+{01}C1{00}, are you safe?\nI, {02}{01}g, drove the intruder off.\nFarewell, then!
+@410.3
+{01}C1{00}, are you unharmed?\nThe intruder is gone. I'll take my leave!
+@410.4
+{01}C1{00}, are you unharmed?\nI, {02}{01}g, drove the intruder off.\nI'll take my leave!
+@410.5
+{01}C1{00}, are you unharmed?\nThe intruder is gone. I'll take my leave.
+@411
+{01}C1{00}..., I'm grateful.\n......But that wretch of {02}{03}{EC}...\nIs {02}{0B}e pulling the strings?
+@411.1
+{01}C1{00}..., I won't forget this.\n......But that wretch of {02}{03}{EC}...\nIs {02}{0B}e pulling the strings?
+@411.2
+I'm grateful, you saved me.\n......But that wretch of {02}{03}{EC}...\nIs {02}{0B}e pulling the strings?
+@411.3
+Right, you saved me.\n......But that wretch of {02}{03}{EC}...\nIs {02}{0B}e pulling the strings?
+@411.4
+{01}C1{00}..., I won't forget this.\n......But that wretch of {02}{03}{EC}...\nIs {02}{0B}e pulling the strings?
+@411.5
+You saved me.\n...But for {02}{03}{EC} to do this...\nIs {02}{0B}e pulling the strings?
+@412
+Why, {01}C1{00},\nwhat's the matter?
+@413
+It's nothing.\nJust a rather big {02}yd\nthat strayed in, hahaha.
+@413.1
+It's nothing.\nJust a rather big {02}yd\nthat strayed in, ufufu.
+@414
+If you hadn't seen through my brilliant mimicry,\nyou wouldn't have lost your life...\nYour sharp wits did you in. Die!
+@414.1
+If you hadn't seen through my brilliant mimicry,\nyou wouldn't have lost your life...\nYour sharp wits did you in. Die!
+@415
+T-to think this would happen in my own castle...\nNo... I won't accept it...\n*cough*!
+@415.1
+Ugh, and in my own castle...\nNo, this can't be true...\n*cough*!
+@416
+Remember this!\nNo one I target\nlives long!
+@416.1
+Remember this!\nNo one I target\nlives long!
+@417
+Damn, quick to run, that one.\n......But that wretch of {02}{03}{EC}...\nIs {02}{0B}e pulling the strings?
+@417.1
+You saved me.\n...But for {02}{03}{EC} to do this...\nIs {02}{0B}e pulling the strings?
+@418
+{01}C1{00}, I need to talk to you.
+@418.1
+{01}C1{00}, I have something to discuss.
+@418.2
+{01}C1{00}, I have something to discuss.
+@419
+Why, {01}C1{00}..., what is it?\nYou seem strange.
+@419.1
+Why, {01}C1{00}...\nwhat is it?\nYou seem strange.
+@419.2
+Why, {01}C1{00}..., what is it?\nYou seem strange.
+@420
+Lately it seems to me that {01}C{AE}{01}\nhas been neglecting you.
+@420.1
+Lately it seems to me that {01}C{AE}{01}\nhas been neglecting you.
+@420.2
+Lately it seems to me that {01}C{AE}{01}\nhas been neglecting you.
+@421
+But you're not one to end\nyour days serving\nthe likes of {01}C{AE}{01}!
+@421.1
+But you're not one to end\nyour days serving\n{01}C{AE}{01}!
+@421.2
+But you're not one to end\nyour days serving\n{01}C{AE}{01}!
+@422
+{01}C1{00}..., what are you getting at?
+@422.1
+{01}C1{00}..., what do you mean?
+@422.2
+{01}C1{00}...\nwhat are you trying to say?
+@423
+I'll say it at the risk of my life! Rebel here,\nbecome a daimyo and unify the realm yourself!
+@423.1
+I'll say it at the risk of my life! Rebel here,\nbecome a daimyo and aim to unify the realm!
+@423.2
+I'll say it at the risk of my life! Rebel here,\nbecome a daimyo and aim to unify the realm!
+@424
+I owe {01}C{AE}{01} a debt of gratitude.\nHowever unjustly I'm treated,\nthat feeling will never waver.
+@424.1
+I owe {01}C{AE}{01} a debt of gratitude.\nHowever unjustly I'm treated,\nthat feeling will never waver.
+@424.2
+I owe {01}C{AE}{01} a debt of gratitude.\nHowever unjustly I'm treated,\nthat feeling will never waver.
+@425
+But, {01}C1{00}!\n{01}C{AE}{01} cares nothing for you...
+@425.1
+But, {01}C1{00}!\n{01}C{AE}{01} thinks of you...
+@425.2
+But, {01}C1{00}!\n{01}C{AE}{01} cares nothing for you...
+@426
+Enough! Enough, I say!\nI'll overlook this.\nThat's all... go home for today.
+@426.1
+Say no more, please.\nI'll pretend I never heard this.\nPlease leave.
+@426.2
+Enough!\nI'll overlook this. Withdraw.
+@427
+I understand...\nForgive me for overstepping.
+@427.1
+Yes, sir.\nI overstepped myself.
+@427.2
+I'm sorry!\nI overstepped myself.
+@428
+(So that's how my subordinates\n see me now...)
+@428.1
+(So that's how my subordinates\n see me now...)
+@429
+(...I mustn't be talked into it so easily!\n This isn't something to do lightly.\n Will I really rebel?)
+@429.1
+(...I mustn't be talked into it so easily!\n This isn't something to do lightly.\n Should I really rebel?)
+@430
+(...Right, I won't.\n Now isn't the time.\n It's unwise to jump at the idea.)
+@430.1
+(...Right, I won't.\n Now isn't the time to act.\n I won't jump at the idea.)
+@431
+{01}C1{00}, I've been waiting.
+@431.1
+{01}C1{00}, I've been expecting you.
+@431.2
+{01}C1{00}, I've been expecting you.
+@432
+What, {01}C1{00}!\nComing alone into enemy land...\nWhat do you intend?
+@432.1
+Why, {01}C1{00}...\ncoming alone into enemy land...\nwhat do you intend?
+@432.2
+Oh, {01}C1{00}...\ncoming alone into enemy land...\nwhat are you thinking?
+@433
+{01}C1{00}, I've been waiting.\nI am {02}{01}g\nof {02}{01}{EC}.
+@433.1
+{01}C1{00}, I've been expecting you.\nI am {02}{01}g\nof {02}{01}{EC}.
+@433.2
+{01}C1{00}, I've been expecting you.\nI'm {02}{01}g\nof {02}{01}{EC}.
+@434
+What, one of {02}{02}{EC}\ncoming alone into enemy land...\nWhat do you intend?
+@434.1
+Why, one of {02}{02}{EC}\ncoming alone into enemy land...\nwhat do you intend?
+@434.2
+What, one of {02}{02}{EC}\ncoming alone into enemy land...\nwhat are you thinking?
+@435
+I won't say much.\nI've prepared {02}o{C8} here.\nSay nothing and join us!
+@435.1
+I won't say much.\nI've prepared {02}o{C8} here.\nPlease, say nothing and join us!
+@435.2
+I won't say much.\nI've prepared {02}o{C8} here.\nPlease, say nothing and join us!
+@436
+Don't underestimate me!\nThat pittance won't move me.\nIs that all I'm worth?
+@436.1
+Please don't underestimate me.\nThat pittance won't move me.\nIs that all you think I'm worth?
+@436.2
+Don't underestimate me.\nThat pittance won't move me.\nIs that all I'm worth?
+@437
+Grr, shameless conceit...\nIt's not you we want,\njust the castle you hold.\nThere's nothing more to say...\nForget this conversation.\nFarewell, then.
+@437.1
+Grr, such conceit...\nIt's not you we want,\njust the castle you hold.\nThere's nothing more to say.\nLet's forget this conversation.\nI'll take my leave.
+@437.2
+Ugh, what a conceited one...\nIt's not you we want,\njust the castle you hold.\nNot worth talking further.\nI'll forget this conversation.\n...Goodbye.
+@438
+(Hmm, did I throw that away...)
+@438.1
+(Hmm, was that a waste...)
+@439
+Grr, our house really\nneeds your strength...\n\nI'll offer {02}o{C8}.\nThat's all I can manage now!\nPlease, come to our house.
+@439.1
+Grr, our house truly\nneeds your strength...\n\nI'll offer {02}o{C8}.\nThat's all I can manage now!\nPlease, join our house.
+@439.2
+Oh no... our house really\nneeds your strength...\nVery well,\nI'll offer {02}o{C8}.\nThat's all I can manage now!\nPlease, join our house.
+@440
+However much you pile up, it's the same.\nBuying hearts with money\nis unworthy of a samurai. Be gone!
+@440.1
+However much you pile up, it's the same.\nBuying hearts with money\nis unworthy of a samurai. Please leave!
+@440.2
+However much you pile up, it's the same.\nBuying hearts with money\nis unworthy of a samurai. Leave.
+@441
+...Hmph, you'll regret it.\nFarewell.
+@441.1
+...You'll regret it.\nI'll take my leave.
+@441.2
+...You'll regret it.\nI'll take my leave!
+@442
+To refuse after all that\nwould shame a samurai...\nVery well, I'll join {02}{02}{EC}.
+@442.1
+To refuse after all that\nwould shame a samurai...\nVery well, I'll join {02}{02}{EC}.
+@442.2
+To refuse after all that\nwould shame a samurai...\nVery well, I'll join {02}{02}{EC}.
+@443
+Oh, I believed you'd say so.\nWith you, we're a hundred strong.\nHelp {02}{01}{EC} prosper.
+@443.1
+Oh, I'm most grateful.\nWith you, we're a hundred strong.\nPlease help {02}{01}{EC} prosper.
+@443.2
+Oh, I'm so grateful.\nWith you, we're a hundred strong.\nPlease help {02}{01}{EC} prosper.
+@447
+(Come to think of it, I've fought\n battles to be proud of\n as a martial artist.)
+@448
+(Come to think of it, I've fought\n battles to be proud of\n as a martial artist.)
+@449
+Oh my, you'll found a school?\nJust like you, dear, who fought battles\nto be proud of as a martial artist.
+@450
+Oh my, you'll found a school?\nJust like you, dear, who fought battles\nto be proud of as a martial artist.
+@451
+Oh my, you'll found a school?\nJust like you, dear, who fought battles\nto be proud of as a martial artist.
+@452
+Oh my, you'll found a school?\nJust like you, dear, who fought battles\nto be proud of as a martial artist.
+@456
+(Is it time to found a new school?)
+@457
+(Is it time to found a new school?)
+@458
+Dear,\nwill you really found a new school?
+@459
+Dear,\nwill you really found a new school?
+@460
+Dear,\nwill you really found a new school?
+@461
+Dear,\nwill you really found a new school?
+@465
+(Shall I leave my dojo and school\n and found a new school myself?)
+@466
+(I'll leave my dojo and school\n and found my own new school?)
+@467
+Oh my, you'll leave your dojo and school\nand found your own new school?\nJust like you, dear.
+@468
+Oh my, you'll leave your dojo and school\nand found your own new school?\nJust like you, dear.
+@469
+Oh my, you'll leave your dojo and school\nand found your own new school?\nJust like you, dear.
+@470
+Oh my, you'll leave your dojo and school\nand found your own new school?\nJust like you, dear.
+@474
+(I'll hold off for now...)
+@475
+(I'll hold off for now...)
+@476
+You'll stop?\nWhat a waste.
+@477
+You'll stop?\nWhat a waste.
+@478
+You'll stop?\nWhat a waste.
+@479
+You'll stop?\nWhat a waste.
+@483
+(Founding a school,\n I'll need to think of a name.)
+@484
+(Founding a school,\n I'll need a name...)
+@485
+Founding a school,\nyou'll need a name.
+@486
+Founding a school,\nyou'll need a name.
+@487
+Founding a school,\nyou'll need a name.
+@488
+Founding a school,\nyou'll need a name.
+@491
+That school name can't be used.\nPlease choose another.
+@492
+That reading can't be used.\nPlease choose another.
+@494
+(Shall I call it the {02}yd school...)
+@495
+(Shall I call it the {02}yd school...)
+@496
+The {02}yd school,\nis that right?
+@497
+The {02}yd school,\nis that right?
+@498
+The {02}yd school,\nis that right?
+@499
+The {02}yd school,\nis that right?
+@503
+Good, from now on\nI'll go by {02}yd!
+@504
+{02}yd...\n{01}C{A9}8\nI'll live up to the name!
+@505
+A splendid name, if I say so myself.
+@505.1
+Such a beautiful ring to it, if I say so myself.
+@505.2
+Heh heh, a name fit for the best in the land.
+@505.3
+Is it a bit too grand...
+@506
+{02}yd...\nAs expected of you, dear. {01}C{AE}8\nPlease live up to this name.
+@507
+{02}yd...\nAs expected of you, dear. {01}C{AE}8\nPlease live up to this name.
+@508
+{02}yd...\nAs expected of you, dear. {01}C{AE}8\nPlease live up to this name.
+@509
+{02}yd...\nAs expected of you, dear. {01}C{AE}8\nPlease live up to this name.
+@510
+What a splendid name...
+@510.1
+What a beautiful ring to it...
+@510.2
+A name fit for the best in the land...
+@510.3
+What a fine name...
+@513
+(Shall I open a dojo...)
+@513.1
+(Shall I open a dojo...)
+@514
+Dear, you want\nto open a dojo?
+@515
+Dear, you want\nto open a dojo?
+@516
+Dear, you want\nto open a dojo?
+@517
+Dear, you want\nto open a dojo?
+@520
+(Until I close the dojo, I can't open\n another workplace, move or enter service.\n Should I really open a dojo?)
+@520.1
+(Until I close the dojo, I can't open\n another workplace, move or enter service...\n Should I really open a dojo?)
+@521
+Until you close the dojo, you can't open\nanother workplace, move or enter service.\nWill you really open a dojo?
+@522
+Until you close the dojo, you can't open\nanother workplace, move or enter service.\nWill you really open a dojo?
+@523
+Until you close the dojo, you can't open\nanother workplace, move or enter service.\nWill you really open a dojo?
+@524
+Until you close the dojo, you can't open\nanother workplace, move or enter service.\nWill you really open a dojo?
+@525
+Spend {02}o{C8} to open a dojo?
+@528
+(Maybe not now...)
+@528.1
+(I'll hold off for now...)
+@529
+You'll stop...
+@530
+You'll stop...
+@531
+You'll stop...
+@532
+You'll stop...
+@535
+(Which school's dojo shall I open?)
+@535.1
+(Which school's dojo shall I open?)
+@536
+Which school's dojo will it be?
+@537
+Which school's dojo will it be?
+@538
+Which school's dojo will it be?
+@539
+Which school's dojo will it be?
+@542
+Shall I make it a {02}yd dojo?
+@542.1
+Shall I make it a {02}yd dojo?
+@543
+A {02}yd dojo,\nis that right?
+@544
+A {02}yd dojo,\nis that right?
+@545
+A {02}yd dojo,\nis that right?
+@546
+A {02}yd dojo,\nis that right?
+@549
+(Shall I make it a dojo of my {02}yd?)
+@549.1
+(Shall I make it a dojo of my {02}yd?)
+@550
+Will it be a dojo of {02}yd,\nyour own school?
+@551
+Will it be a dojo of {02}yd,\nyour own school?
+@552
+Will it be a dojo of {02}yd,\nyour own school?
+@553
+Will it be a dojo of {02}yd,\nyour own school?
+@554
+Opened a {02}zd dojo in {02}yd.
+@557
+Good, I'll spread {02}yd in this town.
+@557.1
+I'll spread {02}yd in this town!
+@558
+Come, dear!\nLet's spread {02}yd\nin this town!
+@559
+Come, dear!\nLet's spread {02}yd\nin this town!
+@560
+Come, dear!\nLet's spread {02}yd\nin this town!
+@561
+Come, dear!\nLet's spread {02}yd\nin this town!
+@564
+(Hmm, the dojo's books look shaky this month.\n It's good to show my face at the dojo,\n but I must earn at least the instructor's pay...)
+@564.1
+(Oh, the dojo's books look shaky this month.\n It's good to show my face at the dojo,\n but I must earn at least the instructor's pay...)
+@565
+The dojo's books are getting shaky.\nShowing your face there is fine, but\nplease earn at least the instructor's pay.
+@566
+The dojo's books are getting shaky.\nShowing your face there is fine, but\nplease earn at least the instructor's pay.
+@567
+The dojo's books are getting shaky.\nShowing your face there is fine, but\nplease earn at least the instructor's pay.
+@568
+The dojo's books are getting shaky.\nShowing your face there is fine, but\nplease earn at least the instructor's pay.
+@571
+(Now, shall I show my face at the dojo?)
+@571.1
+(Now, shall I drop by the dojo?)
+@572
+Off to the dojo?\nDo your best.
+@573
+Off to the dojo?\nDo your best.
+@574
+Off to the dojo?\nDo your best.
+@575
+Off to the dojo?\nDo your best.
+@578
+(Hmm, not enough money...\n To build a dojo that's the face of the school\n I'll need {02}o{C8}...)
+@578.1
+(Oh, not enough money...\n To build a dojo that's the face of the school\n I'll need {02}o{C8}...)
+@579
+Dear, there isn't enough money.\nA dojo that's the face of the school\nneeds {02}o{C8}.
+@580
+Dear, there isn't enough money.\nA dojo that's the face of the school\nneeds {02}o{C8}.
+@581
+Dear, there isn't enough money.\nA dojo that's the face of the school\nneeds {02}o{C8}.
+@582
+Dear, there isn't enough money.\nA dojo that's the face of the school\nneeds {02}o{C8}.

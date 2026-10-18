@@ -1,0 +1,55 @@
+0	Seamanship
+1	Sea Legs
+2	Sailing Secrets
+3	Captain's Art
+4	Wabi-Sabi Heart
+5	Selfless Heart
+6	Virtuous Heart
+7	Treatment
+8	Gather Herbs
+9	Herbal Medicine
+10	Cold Medicine
+11	Tonic
+12	Panacea
+13	Silent Step
+14	Swift Run
+15	Iron Washing
+16	Disguise
+17	Suggestion
+18	Stone Pull
+19	Fire Setting
+20	Debt Amnesty
+21	Split Works
+22	Court Speech
+23	Sword Hunt
+24	Nanban Refining
+25	Trade Network
+26	Connoisseur
+27	Bamboo Sword
+28	Armour
+29	Collect Iron Sand
+30	Gunpowder
+31	Tatara Smelting
+32	Soshu Tradition
+33	Mino Tradition
+34	Bizen Tradition
+35	Yamato Tradition
+36	Yamashiro Tradition
+37	Better Tools
+38	Gunsmithing
+39	Decoration
+40	Hirado Letter
+41	Sakai Letter
+42	Free Markets
+43	Hawker's Patter
+44	Back Drains
+45	Japanese and Chinese Books
+46	Priest Network
+47	Open Levee
+48	Canals
+49	Kabuki Dance
+50	Dengaku Noh
+51	Shrine Sumo
+52	Outdoor Tea
+53	Saisho
+54	Sixth Sense

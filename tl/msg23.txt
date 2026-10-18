@@ -1,0 +1,1128 @@
+@0
+Attacks one enemy
+@1
+Attacks one enemy
+@2
+Attacks one enemy
+@3
+Attacks enemies on three sides
+@4
+Attacks all enemies in a circle
+@5
+Attacks one enemy. Poison saps stamina
+@6
+Attacks enemies on three sides
+@7
+Attacks one enemy. Stuns for a while
+@8
+Attacks one enemy. Stuns for a while
+@9
+Hits one enemy. Undodgeable
+@10
+Attacks all enemies
+@11
+Attacks one enemy. Stuns for a while
+@12
+Attacks one enemy
+@13
+Attacks all enemies in a circle
+@14
+Attacks one enemy. Stuns for a while
+@15
+Attacks one enemy
+@16
+Attacks enemies on three sides
+@17
+Attacks one enemy
+@18
+Attacks one enemy. Stuns for a while
+@19
+Attacks one enemy
+@20
+Attacks one enemy
+@21
+Attacks one enemy. Stuns for a while
+@22
+Attacks one enemy. Stuns for a while
+@23
+Attacks one enemy
+@24
+Attacks one enemy
+@25
+Attacks one enemy. Poison saps stamina
+@26
+Attacks one enemy. Poison saps stamina
+@27
+Attacks all enemies in a circle
+@28
+Attacks all enemies in a circle
+@29
+Attacks all enemies in a circle
+@30
+Attacks all enemies in a line
+@31
+Attacks all enemies in a line
+@32
+Attacks all enemies in a line
+@33
+Attacks all enemies in a line
+@34
+Attacks all enemies in a line
+@35
+Attacks random enemies. Hits up to luck
+@36
+Attacks enemies on four sides
+@37
+Attacks random enemies. Hits up to luck
+@38
+Attacks random enemies. Hits up to luck
+@39
+Dodges and teleports elsewhere
+@40
+Nullifies enemy attacks
+@41
+Nullifies enemy attacks
+@42
+Nullifies enemy attacks
+@43
+Counters enemies in sword range
+@44
+Counters enemies in sword range
+@45
+Counters enemies in sword range
+@46
+Counters enemies in sword range
+@47
+Counters enemies in sword range
+@48
+Counters enemies in spear range
+@49
+Raises attack a little
+@50
+Raises attack a lot
+@51
+Raises attack hugely
+@52
+Raises defense a little
+@53
+Raises defense a lot
+@54
+Raises hit chance a little
+@55
+Move farther in one go
+@56
+Creates 2 doubles
+@57
+Creates 3 doubles
+@58
+Ninja dog hits the target's row
+@59
+Teleports to a chosen spot
+@60
+Heals self or an ally next to you a little
+@61
+Heals self or an ally next to you a lot
+@62
+Freezes one enemy briefly
+@63
+Freezes one enemy for long
+@64
+Sure escape. Not always usable
+@65
+Throws 1 kan of coins to lure enemies
+@66
+Enrages one enemy into chasing you
+@67
+Pays 10 kan to turn an enemy
+@68
+Controls one enemy as an ally
+@69
+Cancels all enemy boosts
+@70
+Erases all enemy doubles
+@71
+Spends stamina to max out spirit
+@72
+Lowers one enemy's spirit
+@73
+Throws 5 kan of coins to lure enemies
+@74
+Attacks enemies on two sides
+@75
+Attacks enemies on two sides
+@76
+Attacks all enemies in a line
+@77
+Hits one enemy. Undodgeable
+@78
+Attacks one enemy
+@79
+Hits one enemy. Undodgeable
+@80
+Attacks one enemy. Poison saps stamina
+@81
+Raises hit chance a lot
+@82
+Immune to enemy status techniques
+@83
+Hides an ally until the fight ends
+@84
+Sword title.\nGiven only to the ultimate swordsman, one with heaven and earth, whose blade flows like clear water.\nLets you open a dojo.
+@85
+Sword title.\nGiven to a swordsman who can fight the land's best as an equal or better.\nLets you open a dojo.
+@86
+Sword title.\nGiven to a swordsman good enough to live by the sword.
+@87
+Sword title.\nGiven to a warrior who has studied the sword and is better than most.
+@88
+Spear title.\nGiven only to one whose spear weaves a barrier around him, whose spearwork has reached the divine.\nLets you open a dojo.
+@89
+Spear title.\nGiven only to a strong spearman a match for any warrior on the martial path.\nLets you open a dojo.
+@90
+Spear title.\nGiven to one good enough at the spear to travel the land in training.
+@91
+Spear title.\nGiven to one who has learned the basics of the spear.
+@92
+Kunai title.\nGiven only to one who can bring down a bird flying through a raging storm in one throw.
+@93
+Kunai title.\nGiven to a master who can match the land's best blow for blow.
+@94
+Kunai title.\nGiven to one used to fighting with kunai who means to master them.
+@95
+Kunai title.\nGiven to one who can hit their prey at close range.
+@96
+Chain-sickle title.\nGiven only to one who wields the chain-sickle like a great serpent with fierce fangs and a mighty body.
+@97
+Chain-sickle title.\nGiven to one who wields the chain-sickle like their own hands and feet.
+@98
+Chain-sickle title.\nGiven to one who fights using its strengths, learned in real battle.
+@99
+Chain-sickle title.\nGiven to one who knows its traits and uses it well.
+@100
+Gun title.\nGiven only to one whose aim can thread a needle and who knows gun tactics in war.
+@101
+Gun title.\nGiven to a skilled shot who can direct their side's gunners in battle.
+@102
+Gun title.\nGiven to one who has learned quick firing and sniping.
+@103
+Gun title.\nGiven to one who knows guns and has trained in firing.
+@104
+Archery title.\nGiven only to one who, like the Kamakura master Nasu no Yoichi, can hit even a moving target.
+@105
+Archery title.\nGiven to one who reads the wind and always shoots with a calm heart.
+@106
+Archery title.\nGiven to one skilled at fighting to the bow's strengths.
+@107
+Archery title.\nGiven to one who knows the basics of archery and can fight with bow and arrow.
+@108
+Battle title.\nThe ultimate title, given only to a fierce general whose feats in battle are said to be "matchless".
+@109
+Battle title.\nGiven to a general who did extraordinary deeds in battle.
+@110
+Battle title.\nGiven to one who can coolly read a battle and lead their side to victory.
+@111
+Battle title.\nGiven to a general whose fine judgement in battle helps win it.
+@112
+Tea title.\nThe ultimate title, given only to a person of taste who grasps the heart of tea and has reached wabi and sabi.\nLets you open a tea room.
+@113
+Tea title.\nGiven to one like Hechikan, a tea master steeped in wabi tea and Zen.\nLets you open a tea room.
+@114
+Tea title.\nGiven to one versed in tea with the skill of a tea master who ran a daimyo's tea.
+@115
+Tea title.\nGiven to one who loves refinement, tea and learning.
+@116
+Speech title.\nGiven only to one with the skill and charm of Su Qin and Zhang Yi, masters of diplomacy in ancient China.
+@117
+Speech title.\nGiven to one whose speech is skilled and smooth as a river down a steep slope.
+@118
+Speech title.\nGiven to one with the skill of a wandering orator who travels the land on the strength of his tongue.
+@119
+Speech title.\nGiven only to one with the talent to make their way by speech.
+@120
+Government title.\nGiven only to the ideal ruler, who knows the way of heaven and earth, gives the people peace and builds a realm of calm.
+@121
+Government title.\nGiven to one who has read "Jogan Seiyo", on the rule of the sage emperor Taizong of Tang, and governs well.
+@122
+Government title.\nGiven to one with outstanding skill in government who thinks of the people's welfare.
+@123
+Government title.\nGiven to one like a practical official who listens well to the people.
+@124
+Given only to one with the skill and feel to create the ultimate arms and guns, of lasting strength and brilliance.
+@125
+Given to one who can make first-class arms and armour to satisfy the land's best. Cargo space up a lot (not merchants).
+@126
+Given to one who knows how arms and guns work and can make most of them. Cargo space up (not merchants).
+@127
+Given to one who has studied armsmaking and knows more than most. Cargo space up a little (not merchants).
+@128
+Given only to a healer who treats all the sick equally and has mastered medicine against every ill.\nYou rarely fall ill.
+@129
+Given to one who furthers medicine and can mix many good remedies.\nYou fall ill less.
+@130
+Given to one with the knowledge and skill to support people's lives with medicine.\nYou fall ill a little less.
+@131
+Given to one who aims at medicine and knows more than most.
+@132
+Dark title.\nGiven to one who drove a former lord to whom they owed much to death with their own hands.
+@133
+Dark title.\nGiven to one who, heartless, cut down many officers without mercy.
+@134
+Dark title.\nGiven to one who urged every lord they served to rebel and threw the land into chaos.
+@135
+Dark title.\nGiven only to a heartless general who rebelled, broke away and destroyed their former lord.
+@136
+Dark title.\nGiven to one who betrayed again and again, throwing lord and allies into chaos.
+@137
+The ultimate dark title.\nGiven to a villain who has done every evil there is.
+@138
+Given only to the ultimate ninja, master of every ninjutsu, at one with all creation.\nNo stamina loss on the map.
+@139
+Gambling title.\nGiven only to one with a rare gift for gambling who can make heaven's luck their ally.
+@140
+Given only to one undefeated in countless bouts who has mastered all the martial arts.
+@141
+Given only to one who knows all of the sea, weather and stars, and has conquered many oceans.
+@142
+Given only to a master traveller who has visited every famous site and hidden land.
+@143
+Given to a great judge of talent who found and raised many hidden people for the good of the realm.
+@144
+Given to a lover of art who supported many artists in making fine works.
+@145
+Given to the ultimate trader, versed in every market, product and guild, who can trade across the land alone.
+@146
+Given only to a master who knows arms and art well and can tell true from fake.\nYou can roughly judge the worth of what peddlers sell.
+@147
+Given to one who has mastered the Infantry skill.
+@148
+Given to one who has mastered the Cavalry skill.
+@149
+Given to one who has mastered the Gunnery skill.
+@150
+Given to one who has mastered the Navy skill.
+@151
+Given to one who has mastered the Archery skill.
+@152
+Given to one who has mastered the Martial Arts skill.
+@153
+Given to one who has mastered the Tactics skill.
+@154
+Given to one who has mastered the Ninjutsu skill.
+@155
+Given to one who has mastered the Building skill.
+@156
+Given to one who has mastered the Farming skill.
+@157
+Given to one who has mastered the Mining skill.
+@158
+Given to one who has mastered the Accounting skill.
+@159
+Given to one who has mastered the Etiquette skill.
+@160
+Given to one who has mastered the Speech skill.
+@161
+Given to one who has mastered the Tea skill.
+@162
+Given to one who has mastered the Medicine skill.
+@163
+School title.\nProof of a license in the Itto school.
+@164
+School title.\nProof of a license in the Shinkage school.
+@165
+School title.\nProof of a license in the Shinto school.
+@166
+School title.\nProof of a license in the Chujo school.
+@167
+School title.\nProof of a license in the Yoshioka school.
+@168
+School title.\nProof of a license in the Tsuda school.
+@169
+School title.\nProof of a license in the Hayashizaki Muso school.
+@170
+School title.\nProof of a license in the Ippa school.
+@171
+School title.\nProof of a license in the Ono-ha Itto school.
+@172
+School title.\nProof of a license in the Ten school.
+@173
+School title.\nProof of a license in the Ganryu school.
+@174
+School title.\nProof of a license in the Saburi school.
+@175
+School title.\nProof of a license in the Jigen school.
+@176
+School title.\nProof of a license in the Hozoin school.
+@177
+School title.\nProof of a license in the Niten Ichi school.
+@178
+School title.\nProof of a license in the Mijin school.
+@179
+School title.\nProof of a license in the Yagyu Shinkage school.
+@180
+School title.\nProof of a license in the Taisha school.
+@181
+School title.\nProof of a license in the Kasumi school.
+@182
+School title.\nProof of a license in the Inatomi school.
+@183
+School title.\nProof of a license in the Heki school.
+@184
+School title.\nProof of a license in the Kanemaki school.
+@185
+School title.\nProof of a license in the Zuihasai school.
+@186
+School title.\nProof of a license in the Takada school.
+@187
+School title.\nProof of founding your own school.
+@188
+A title given to one who has done many jobs at taverns.
+@189
+One of the Three Views of Japan. Over 260 islands in a blue sea with pine-clad shores: the finest of the three.
+@190
+One of the Three Great Falls. Water from Lake Chuzenji drops down a lava cliff from Mt. Nantai: a famed fall that feels cool and solemn even in summer.
+@191
+Japan's greatest peak, its beauty changing with the seasons. Revered as sacred since before history, a symbol of Japan.
+@192
+Japan's largest lake, the world's third oldest, called "Omi" in ancient times. It gives drinking water, shipping and much more.
+@193
+One of the Three Views of Japan: a 3 km sandbar splitting Miyazu Bay. Green pines on white sand have charmed poets like Izumi Shikibu.
+@194
+One of the Three Great Falls, the sacred body of Hiro Shrine of Kumano Nachi Taisha, long held in awe. Also famed for ascetic training.
+@195
+One of the Three Views of Japan. The great red torii and Itsukushima Shrine floating on the sea are a lovely sight. Shrine of the Taira, visited by Kiyomori.
+@196
+Tosa Bay, held between Capes Ashizuri and Muroto, has long known whaling. Warm and touched by the Kuroshio, a rich sea with a southern air.
+@197
+An active volcano of the outer rim and the Five Peaks of Aso; its caldera is the world's largest. Symbol of Kyushu, land of fire, since the age of myth.
+@198
+A cone volcano in Kagoshima. Its complex peaks, made by several great eruptions, are grand as a work of art.
+@199
+One of the Three Great Falls. Praised by the poet-monk Saigyo, its scenery changes completely each season. Also called the Four-Times Falls.
+@200
+A hall gilded inside and out, holding the remains of three generations of the Oshu Fujiwara and an Amida triad. Solemn and dazzling.
+@201
+A lagoon formed as silt from the Yoneshiro and Omono rivers linked the Oga peninsula. Brackish, it was the largest lake after Lake Biwa.
+@202
+With Koya and Hiei, one of Japan's three great holy sites. Revered since the Heian era, home to many mediums called itako.
+@203
+A cliff coast on the Etchu-Echigo border. So perilous that parent and child have no time to look out for each other, hence the name.
+@204
+Columnar cliffs facing the Sea of Japan, pounded by wild waves. Legend says the wicked monk Tojinbo of Heisenji was pushed off here.
+@205
+Mountain name Jogakusan. Founded in the Asuka era, an ancient temple of no single sect, revered widely. Its icon is shown once every seven years.
+@206
+Japan's largest dunes, heaped by wind and waves from sand of the Sendai river and coastal currents. The Sea of Japan from the dunes is grand.
+@207
+A limestone cave in Akiyoshidai, one of Japan's largest karst plateaus. The biggest in the East, a work of art of water and stone.
+@208
+Shrine of Omononushi and Emperor Sutoku, famous for its 1,368 steps to the inner shrine. Loved as "Konpira-san" from the Muromachi era; pilgrimages were the fashion.
+@209
+Where many yamabushi gather to train. The Three Mountains of Dewa, Gassan, Yudono and Haguro, are Japan's greatest sacred peaks.
+@210
+One of Japan's seven sacred peaks and western Japan's highest, revered as opened by En no Gyoja, 7th-century founder of Shugendo.
+@211
+In the Nara era Gyoki built the hot-spring temple Manmyoji here, a centre of mountain Buddhism. Its great eruption of 1792 killed some 15,000.
+@212
+One of Japan's three great hidden lands, dangerous "in big strides or small". Schist worn by the Yoshino river makes strange rocks all along.
+@213
+Said to be founded in 660 BC, one of the three shrines of the east, for Takemikazuchi. It has a splendid red gate.
+@214
+Shrine of Amaterasu and Toyouke, visited by pilgrims from all over Japan. It holds the Yata mirror, one of the Three Sacred Treasures.
+@215
+Home of the Izumo myths, shrine of Okuninushi, where the gods of all Japan gather in the 10th month: called the godless month elsewhere, the gods' month in Izumo.
+@216
+Shrine of Oyamatsumi, god of sea and warriors. Revered by court and generals, its many arms and armour, offered when prayers were answered, are national treasures.
+@217
+Where Minamoto no Yoritomo prayed to restore the Genji when he rose; revered by warriors from the Kamakura era. It holds treasures tied to Hojo Masako.
+@218
+Seven peaks around Kurobi, the highest. With Myogi and Haruna, one of the Three Mountains of Kozuke. Many martial artists trained here.
+@219
+Chugoku's highest peak, called "Hoki Fuji" for its winter look like Mt. Fuji. Tengu legends have long been told of it.
+@220
+Where Kukai, founder of Shingon, opened Kongobuji. With Mt. Hiei's Enryakuji to the north, a centre of mountain Buddhism, deeply revered.
+@221
+A sword technique that attacks one enemy.\nA common technique, learned by Martial Training at a dojo.
+@222
+A sword technique that attacks one enemy, stronger than Assault.\nA common technique, learned by Martial Training at a dojo.
+@223
+A sword technique that attacks one enemy, stronger than Flurry.\nTaught in schools from the Chujo line, like Kanemaki and Itto.
+@224
+A sword technique that attacks enemies on three sides.\nTaught in schools from the Chujo line, like Kanemaki and Itto.
+@225
+A sword technique that attacks all enemies in a circle. Devised by Ito Ittosai; also taught in the Ono-ha Itto school, an Itto offshoot.
+@226
+A sword technique that attacks one enemy. Poison slowly saps stamina.\nFavoured by bandits and pirates.
+@227
+A sword technique that attacks enemies on three sides. Reaches enemies a normal attack can't.\nTaught in schools from the Shinkage line, like Yagyu Shinkage and Taisha.
+@228
+A sword technique that attacks one enemy. The enemy hit can't move for a while.\nTaught in schools from the Shinkage line, like Yagyu Shinkage and Taisha.
+@229
+A sword technique that attacks one enemy. The enemy hit can't move for a while.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@230
+The ultimate sword secret against one enemy: even No-Sword Seize or Pull Down can't avoid it.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@231
+The ultimate sword secret: cuts down every enemy in an instant. Devised by the sword saint Kamiizumi Nobutsuna; also a word for the Shinkage school's root idea.
+@232
+A sword technique that attacks one enemy. The enemy hit can't move for a while.\nUnleashed with a cry of "Chesto!". Taught in the Jigen school.
+@233
+A sword technique that attacks one enemy, stronger than Flurry.\nTaught in the Hayashizaki Muso school.
+@234
+A sword technique that attacks all enemies in a circle.\nTaught in the Hayashizaki Muso school.
+@235
+A sword technique that attacks one enemy. The enemy hit can't move for a while.\nTaught in the Yoshioka school.
+@236
+A sword technique that attacks one enemy: a special attack with two swords. Devised by Miyamoto Musashi.
+@237
+A sword technique that attacks enemies on three sides. Reaches enemies a normal attack can't.\nDevised by Miyamoto Musashi.
+@238
+A spear technique that attacks one enemy.\nA common technique, learned by Martial Training at a dojo.
+@239
+A spear technique that attacks one enemy. The enemy hit can't move for a while.\nTaught in the Hozoin and Saburi schools.
+@240
+A kunai technique that attacks one enemy.\nTaught at every ninja village.
+@241
+A chain-sickle technique that attacks one enemy.\nTaught at every ninja village.
+@242
+A chain-sickle technique that attacks one enemy and stuns them a while. A ninjutsu of Hachiya village.
+@243
+A matchlock technique that attacks one enemy and stuns them a while.\nTaught in the Tsuda and Inatomi schools.
+@244
+A matchlock technique that attacks one enemy.\nTaught in the Tsuda and Inatomi schools.
+@245
+A bow technique that attacks one enemy.\nA common technique, learned by archery training.
+@246
+A kunai technique that attacks one enemy. Poison slowly saps stamina.\nA ninjutsu of Fuma village.
+@247
+A kunai technique that attacks one enemy. Poison slowly saps stamina. The poison lasts long.\nA ninjutsu of Negoro village.
+@248
+A spear technique that attacks all enemies in a circle.\nTaught in the Hozoin and Saburi schools.
+@249
+A spear technique that attacks all enemies in a circle, stronger than Spear Whirl.\nTaught in the Hozoin and Saburi schools.
+@250
+A chain-sickle technique that attacks all enemies in a circle.\nA ninjutsu of Togakushi village.
+@251
+A sword technique that attacks all enemies in a line.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@252
+A sword technique that attacks all enemies in a line.\nTaught in schools from the Shinkage line, like Yagyu Shinkage and Taisha.
+@253
+A sword technique that attacks all enemies in a line.\nTaught in schools from the Chujo line, like Kanemaki and Itto.
+@254
+A bow technique that attacks all enemies in a line.\nTaught in the Heki and Zuihasai schools.
+@255
+A matchlock technique that attacks all enemies in a line.\nTaught in the Tsuda and Inatomi schools.
+@256
+A bow technique that attacks enemies in every direction at once.\nTaught in the Heki and Zuihasai schools.
+@257
+A kunai technique that attacks enemies on four sides.\nA ninjutsu of Haguro village.
+@258
+A kunai technique that attacks enemies in every direction at once. Who it hits is up to luck.\nA ninjutsu of Togiki village.
+@259
+A matchlock technique that attacks enemies in every direction at once. Who it hits is up to luck.\nTaught in the Tsuda and Inatomi schools.
+@260
+Teleport elsewhere unhurt when attacked.\nA ninjutsu of Iga village.
+@261
+A spear technique that nullifies enemy attacks.\nTaught in the Hozoin and Saburi schools.
+@262
+Nullifies enemy attacks, whatever weapon you carry.\nA ninjutsu of Suppa village.
+@263
+A sword technique that nullifies enemy attacks. Devised by Yagyu Munetoshi; taught in the Yagyu Shinkage school.
+@264
+Counters when attacked by an enemy in sword range.\nA common technique, learned by Martial Training at a dojo.
+@265
+Counters when attacked by an enemy in sword range.\nTaught in schools from the Shinkage line, like Yagyu Shinkage and Taisha.
+@266
+Counters when attacked by an enemy in sword range.\nDevised by Sasaki Kojiro.
+@267
+Counters when attacked by an enemy in sword range.\nTaught in the Hayashizaki Muso school.
+@268
+Counters when attacked by an enemy in sword range.\nDevised by Ito Ittosai; also taught in the Ono-ha Itto school, an Itto offshoot.
+@269
+Counters when attacked by an enemy in spear range.\nTaught in the Hozoin and Saburi schools.
+@270
+Raises attack a little.\nA common technique, learned by Martial Training at a dojo.
+@271
+Raises attack a lot.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@272
+Raises attack hugely.\nTaught in schools from the Chujo line, like Kanemaki and Itto.
+@273
+Raises defense a little.\nA common technique, learned by Martial Training at a dojo.
+@274
+Raises defense a lot.\nTaught in schools from the Shinkage line, like Yagyu Shinkage and Taisha.
+@275
+Raises your hit chance, and your chance to dodge. Taught in the Heki and Zuihasai archery schools and the Tsuda and Inatomi gun schools.
+@276
+Move farther in one go.\nA ninjutsu of Kurohabaki village.
+@277
+Creates 2 doubles. Doubles vanish when attacked.\nA ninjutsu of Iga village.
+@278
+Creates 3 doubles. Doubles vanish when attacked.\nA ninjutsu of Koga village.
+@279
+Calls a ninja dog to attack the target's whole row.\nA ninjutsu of Suppa village.
+@280
+Teleport to a chosen spot.\nA ninjutsu of Yamakuguri village.
+@281
+Heals you or a nearby ally a little.\nLearned by medical training.
+@282
+Heals you or a nearby ally a lot.\nLearned by medical training.
+@283
+Freezes one enemy briefly.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@284
+Freezes one enemy for a long time; an attack frees them.\nA ninjutsu of Fuma village.
+@285
+Flee and end the fight. Not always usable.\nA ninjutsu of Togiki village.
+@286
+Throws 1 kan of coins at a spot. Enemies dazzled by money head for it; the greedy most of all.\nUsable after Accounting training.
+@287
+Enrages one enemy, who then chases the user and can't use techniques or flee. Short-tempered people are hit hardest.
+@288
+Pays 10 kan to turn one enemy to your side. Loyal people resist.\nUsable after Accounting training.
+@289
+Controls one enemy as an ally. Loyal people resist.\nA ninjutsu of Nokizaru village.
+@290
+Cancels every boost on all enemies.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@291
+Erases all doubles.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@292
+Spends your stamina to max out your spirit.\nTaught in schools from the Shinto line, like Ippa and Jigen.
+@293
+Lowers one enemy's spirit.\nTaught in the Yoshioka school.
+@294
+Throws 5 kan of coins at a spot. Enemies dazzled by money head for it. Works more often than Coin Toss.\nUsable after Accounting training.
+@295
+A sword technique that attacks enemies on two sides. Reaches enemies a normal attack can't.\nTaught in the Yoshioka school.
+@296
+A sword technique that attacks enemies on two sides.\nDiscovered by meditation.
+@297
+A spear technique that attacks all enemies in a line.\nDiscovered by meditation.
+@298
+A kunai technique against one enemy. Even techniques that nullify attacks, like No-Sword Seize or Pull Down, can't avoid it.\nDiscovered by meditation.
+@299
+A chain-sickle technique that attacks one enemy.\nDiscovered by meditation.
+@300
+A matchlock technique against one enemy. Even techniques that nullify attacks, like No-Sword Seize or Pull Down, can't avoid it.\nDiscovered by meditation.
+@301
+A bow technique that attacks one enemy. Poison slowly saps stamina.\nDiscovered by meditation.
+@302
+Raises your hit chance, and your chance to dodge.\nDiscovered by meditation.
+@303
+Makes you immune to every status technique, like Coin Toss, Insult, Puppet Art and Shadow Pin.\nDiscovered by meditation.
+@304
+Hides an ally out of the fight until it ends.\nDiscovered by meditation.
+@305
+Charge and break through the enemy. Very destructive, but can't be used if your unit or the enemy's is on water.
+@306
+Three attacks in a row, breaking through the enemy unit. More destructive than Cavalry Charge, but can't be used if your unit or the enemy's is on water.
+@307
+Gunfire, then two cavalry attacks in a row, breaking through the enemy. Hugely destructive, but not usable in rain or snow, or if your unit or the enemy's is on water.
+@308
+A unit that can fire or shell fires or shells twice in a row. In rain or snow, guns, cannon and mounted gunners can't, but large ships and ironclads can.
+@309
+Range grows for a while. Usable by guns, cannon and mounted gunners when it isn't raining or snowing. The higher the commander's Tactics skill, the longer it lasts.
+@310
+A unit that can fire or shell fires or shells three times in a row.
+@311
+Snipes the enemy unit commander to wound him. A wounded commander fights at half strength, but it can fail.
+@312
+A unit that can fire or shell attacks every enemy in range at once. Powerful, but not usable in rain or snow.
+@313
+A unit that can fire or shell attacks four times in a row. In rain or snow, guns, cannon and mounted gunners can't, but large ships and ironclads can.
+@314
+Movement +1 for a while. The higher the commander's Tactics skill, the longer it lasts.
+@315
+Every unit of your army with the target in range fires or shells it. In rain or snow, not usable by guns, cannon or mounted gunners.
+@316
+Army commander only. Raises the attack, defense and movement of all units in the army for a while. The higher the commander's Tactics skill, the longer it lasts.
+@317
+Sabotage an enemy on water to pin it for a while. Likelier the higher the user's Navy, Leadership and Intellect and the lower the target commander's.
+@318
+Fire or shell, then charge and break through the enemy. Very destructive, but only usable if both units are on water.
+@319
+Floods an adjacent enemy on water. The fear of sinking lowers morale more than the damage itself.
+@320
+An attack with mixed gunpowder at 2.5 times normal power. Not usable in rain or snow.
+@321
+Digs a pitfall. It has no effect at once, but hurts the enemy when they cross the trapped ground.
+@322
+Reveals hidden enemy units and places trapped with Pitfall or Abyss Art in an area.
+@323
+Spreads false news to make an enemy unit's troops retreat. Likelier the higher the user's Ninjutsu and Intellect.
+@324
+Lays a pitfall like Pitfall, with extra devices inside to deal more damage. Stronger than Pitfall.
+@325
+Nullifies enemy techniques: useful when enemy units are boosted, or your units are hampered, such as pinned, by enemy techniques.
+@326
+Throws one enemy unit into chaos. Likelier the higher the user's Ninjutsu, Leadership and Intellect and the lower the target commander's.
+@327
+An art that hides you from the enemy, with movement +1 while it lasts. It ends if you attack or stand next to an enemy unit, or use a technique.
+@328
+Sends spies to make enemies fight each other. Likelier the higher the user's Ninjutsu and Intellect and the lower those of the two target commanders.
+@329
+Sends a spy to plant a bomb in the target unit, also hurting enemies around it. Not usable in rain or snow.
+@330
+Movement +3 for a while. The higher the commander's Tactics skill, the longer it lasts.
+@331
+Lowers one enemy unit's morale: the strongest technique for it. Bigger the higher the user's Speech and the lower the target commander's.
+@332
+Sets fire to every enemy unit in a straight line in the attack direction. Not usable in rain or snow, or on rivers or the sea.
+@333
+Throws the target and enemies around it into chaos. Works the higher the user's Leadership, Intellect and Ninjutsu and the lower those of each target commander.
+@334
+Sends an assassin to wound the enemy unit commander. A wounded commander fights at half strength, but it can fail.
+@335
+Plants a bomb at the castle gate to destroy it. The higher Ninjutsu and Intellect, the more damage. Not usable in rain or snow.
+@336
+Army commander only. Raises the morale of every unit in your army. Bigger the higher the user's Speech, Charm and Leadership. Costs 300 kan of war funds.
+@337
+Buys over an adjacent enemy of the same troop type into your unit. Works the higher the user's Accounting, Speech and fame and the lower their infamy, and the reverse for the target commander.
+@338
+Raises defense for a while. The higher the commander's Tactics skill, the longer it lasts.
+@339
+Raises attack for a while. The higher the commander's Tactics skill, the longer it lasts.
+@340
+Attacks an enemy together with an adjacent ally. The target must be adjacent to both.
+@341
+Three attacks at above-normal power, breaking through the enemy. Navies only when both are on water; daimyo and ninja units only when both are on land.
+@342
+Every unit of your army adjacent to the target attacks it at once.
+@343
+Hides you from the enemy. It ends if you attack or stand next to an enemy unit, or use a technique.
+@344
+Restores units that are in chaos or confusion, pinned on water, or provoked.
+@345
+Movement +2 for a while. The higher the commander's Tactics skill, the longer it lasts.
+@346
+When an adjacent ally faces an enemy, swap places with it and attack. A surprise attack: you take no damage and strike at 2.5 times normal.
+@347
+Army commander only. Raises the attack, defense and movement of all units in the army for a while. The higher the commander's Tactics skill, the longer it lasts.
+@348
+For a while, the chosen unit's commander gets the army commander's stats and skills. Army commander only; the higher his Tactics skill, the longer it lasts.
+@349
+Attack, then pull back to lure the enemy into the spot you held. Not usable if you can't retreat, e.g. impassable ground behind.
+@350
+A bow attack with fire arrows, 50% stronger than a normal one. Not usable in rain or snow.
+@351
+A bow attack with a strong bow, twice as strong as a normal one.
+@352
+A unit that can shoot shoots three times in a row.
+@353
+A unit that can shoot shoots every enemy in range at once. In sieges it fires four volleys.
+@354
+Showers an adjacent enemy unit with insults to lower morale. Bigger the higher the user's Speech and the lower the target commander's.
+@355
+Provokes one enemy unit into chasing you; used well, it draws them away from the rest. In sieges it lowers one enemy unit's morale.
+@356
+Rouses your own unit to raise morale. Bigger the higher the commander's Tactics, Speech and Leadership.
+@357
+Hurls threats at an adjacent enemy unit to lower morale. Bigger the higher the user's Speech and the lower the target commander's.
+@358
+Lowers the morale of the target and every enemy unit next to it. Bigger the higher the user's Speech and the lower each enemy commander's.
+@359
+Army commander only. Raises the morale of every unit in your army. Bigger the higher the user's Tactics, Speech and Leadership.
+@360
+A forceful assault on a gate, more damaging than a normal assault. Attackers only.
+@361
+Sets fire to a gate to lower its durability. Not usable in rain or snow. Attackers only.
+@362
+Tunnels under to open the gate from behind, dealing it heavy damage. Attackers only.
+@363
+Pours boiling water from the walls on attackers, hurting enemy units in the same spot. Defenders only.
+@364
+Drops rocks from the walls on attackers, badly hurting enemy units in the same spot. Defenders only.
+@365
+Patches a broken gate to restore its durability; better the higher Building and Intellect. Defenders only.
+@366
+Army commander only. Raises the attack of all units in the army for a while, and their morale at once. The higher the commander's Tactics skill, the longer it lasts.
+@367
+Lets guns, cannon and mounted gunners fire even in rain or snow. The higher Tactics, the longer it lasts.
+@368
+Refills a unit if there are troops not yet assigned. Not possible if supplies for the troop type run short.
+@369
+You move by sea as fast as the normal speed on a highway.
+@370
+Stops your defense dropping in duels on board ship.
+@371
+You move by sea twice as fast as normal.
+@372
+You can sail freely off the set sea routes too.
+@373
+You can build close friendships with others over tea.
+@374
+Free of greed, you persuade with sincerity. Success in diplomacy and the like rises greatly.
+@375
+A heart full of mercy that treats everyone alike. Raises the success of [Recruit].
+@376
+The basics of medicine. You can treat people suffering from illness.
+@377
+Knowledge of herbs. You can tell the herbs that grow wild in hills and fields.
+@378
+Basic knowledge of mixing medicine. You can make remedies from the herbs you gather.
+@379
+Intermediate knowledge of mixing medicine. You can mix remedies into cold medicine.
+@380
+Intermediate knowledge of mixing medicine. You can mix remedies into a tonic.
+@381
+Advanced knowledge of mixing medicine. You can mix a cure-all that works on any illness or wound.
+@382
+You can move without a sound; covert work is harder to spot.
+@383
+You move better on mountain paths and travel faster.
+@384
+A new way to gather iron sand that raises your yield. Named for the holes left after the iron is taken.
+@385
+The art of disguise. Raises the success and effect of "Rumours".
+@386
+Bending others' hearts to your will raises the success of "Recruit Officer" and "Rebellion".
+@387
+The art of pulling out a castle's stone walls. Raises the success and effect of "Wreck Castle".
+@388
+Better at handling gunpowder: raises the success and effect of "Arson".
+@389
+A decree cancelling debts that can't be repaid. It improves public order.
+@390
+Having workers compete when repairing castles raises the mission's results.
+@391
+You can speak the language of Kyoto's nobles. Raises the effect of "Put in a Word" at a noble's house.
+@392
+Taking swords and arms from peasants splits farmers from soldiers. Raises the effect of "Conscript".
+@393
+A Nanban method of refining silver with lead. Raises the results of "Mine Work" in missions and domestic rule.
+@394
+You can build a wide network of merchants, craftsmen and the like. Raises the effect of "Expand".
+@395
+An eye for art and swords: you can appraise at home. Also raises the effect of the Grand Tea Party in merchant wars.
+@396
+Bamboo practice swords instead of wooden ones make dojo training safer. Your dojo's name rises and followers grow faster.
+@397
+Armour makes dojo training safer. Your dojo's name rises and followers grow faster.
+@398
+You can gather iron sand on the map. The daily amount depends on the place.
+@399
+You can mix gunpowder from saltpetre, sulphur and charcoal at your own forge.
+@400
+A way to refine iron sand into iron. You can make iron from charcoal and iron sand.
+@401
+One of the Five Traditions, secret methods of armsmaking, handed down by the smiths of Sagami.\nYou can make arms other than guns at your own forge.
+@402
+One of the Five Traditions, secret methods of armsmaking, handed down by the smiths of Mino.\nYou can make arms other than guns at your own forge.
+@403
+One of the Five Traditions, secret methods of armsmaking, handed down by the smiths of Bizen.\nYou can make arms other than guns at your own forge.
+@404
+One of the Five Traditions, secret methods of armsmaking.\nYou can make arms other than guns at your own forge.
+@405
+One of the Five Traditions, secret methods of armsmaking.\nYou can make arms other than matchlocks at your own forge.
+@406
+Developing and spreading efficient farm tools raises the effect of "New Fields".
+@407
+Basic gunmaking. You understand how guns work and can make them at your own forge.
+@408
+Advanced gunmaking. You can improve and decorate guns to make fine ones.
+@409
+A letter of introduction from the Nanban missionary Almeida. You can "Buy Cannon" at the Nanban trading house in Hirado.
+@410
+A letter of introduction from the Nanban missionary Frois. You can "Buy Cannon" at the Nanban trading house in Sakai.
+@411
+The right to trade without fees: no fees to the merchant chief on your routes. Also useful in developing towns in merchant wars.
+@412
+Patter that makes customers want to buy at a street stall. Useful when you run stalls to develop a town.
+@413
+Hideyoshi worked hard on Osaka's sewers. "Back-split drains" were dug between the backs of buildings, hence the name. Useful in developing towns.
+@414
+Proof of owning many Chinese and Japanese classics. Useful when building schools to develop a town in merchant wars.
+@415
+Ties with famous scholar-monks and high priests. Useful in Temple Building, school building and such to develop a town in merchant wars.
+@416
+A flood-control method: an outlet dug facing upstream gives rising water a way out. Useful in farming work.
+@417
+Canals through a town. In big cities, canal shipping by flat boats was vital to a town's growth.
+@418
+A dance said to be devised by Izumo no Okuni late in the Sengoku era. Women's kabuki was banned in the Edo era, giving today's all-male kabuki.
+@419
+A folk art of farm villages since the Heian era, said to begin as worship of the rice-field god with flutes and drums at planting. Useful at festivals.
+@420
+Know-how for staging sacred sumo. In medieval times sumo thrived as rite, training and show; in the Edo era daimyo kept their own wrestlers. Useful in Temple Building.
+@421
+A style of tea gathering enjoyed outdoors. Useful when holding a Grand Tea Party to develop a town in merchant wars.
+@422
+Touring famous sites and ruins. You can tell where famous sites are on the map.\n(The cursor changes shape.)
+@423
+A sharp sixth sense beyond taste, sight, smell, touch and hearing. Inspiration may strike when you're stuck (watch for the cursor blinking...).
+@424
+????-1579\nHead of the Yamanouchi Uesugi. Kanto deputy. Allied with the Imagawa and Ogigayatsu Uesugi against the Hojo of Kanto. At Kawagoe he attacked the Hojo with a huge army, but was crushed by Hojo Ujiyasu's surprise attack. His castle then fell too and he fled to Echigo, where he gave the Uesugi name and the Kanto deputyship to Nagao Kagetora (Uesugi Kenshin).
+@425
+1494-1574\nHead of the Takeda. Governor of Kai. Destroyed his rivals in the house and united Kai. He made Tsutsujigasaki his seat and stood against the Imagawa and Hojo. But his harsh rule set him against his heir Harunobu (Shingen), who schemed to banish him to Suruga. He lived under Imagawa Yoshimoto's protection, and wandered after Yoshimoto died.
+@426
+1507-1551\n31st Ouchi head. Governor of seven provinces including Suo, Nagato and Aki, he subdued Chikuzen and Hizen and ruled northern Kyushu. He drove off Amago Haruhisa's invasion of Aki and marched into Izumo, but failed to take Gassan-Toda Castle and lost his heir Harumochi. He then turned to culture, until his senior retainer Sue Harukata rebelled and he killed himself.
+@427
+1510-1551\nHead of the Oda. Father of Nobunaga. A fierce general called "the Tiger of Owari". Born to a house of mere rear vassals of the Owari governors, he outgrew even them and became a Sengoku daimyo. Seeking to unite Owari, he fought clans at home and neighbours like the Imagawa and Saito without rest, but died suddenly of an epidemic with his goal unmet.
+@428
+1526-1549\nHead of the Matsudaira. Father of Ieyasu. Inherited when his father Kiyoyasu died violently in camp in Owari. Driven from Okazaki Castle for a time, he wandered, then regained his lands under Imagawa Yoshimoto. When Oda Nobuhide invaded Mikawa he could not resist alone and submitted to the Imagawa. His house split into Imagawa and Oda factions, and pro-Oda attendants murdered him.
+@429
+1492-1553\nOda vassal. Second elder. Tutor to Nobuhide's heir Nobunaga from his birth. Active in diplomacy, he arranged Nobunaga's marriage to Kicho, Saito Dosan's daughter. He often reproved the young Nobunaga's wild ways in vain, and at last killed himself to take a tutor's blame. Nobunaga mourned him and built a temple in his memory.
+@430
+????-1560\n6th Kuki head. Held a navy based in Shima. When the Seven Island lords of Shima attacked with the help of the Kitabatake governors of Ise, he and his brother Yoshitaka held out bravely, but he died in the fighting at the castle. Yoshitaka, driven from Shima, fled to Owari, served Oda Nobunaga and came to lead the Oda navy.
+@431
+????-1573\nHead of the Kawachi Hatakeyama. Lord of Takaya Castle. Son of Masakuni. When his brother Takamasa, the head, was banished to Kii after clashing with the senior retainers Yusa Nobunori and Yasumi Naomasa, Nobunori and the others set him up as head. Like his brother he later fell out with Nobunori and plotted to kill him, but was assassinated himself.
+@432
+1513-????\nHead of the Akamatsu. Governor of Harima. Set up as a puppet after his father Yoshimura was killed by the senior retainer Uragami Muramune. To take back power he allied with Hosokawa Harumoto and killed Muramune at the Daimotsu rout. But Amago Haruhisa invaded soon after and he fled to Sakai. He returned to Harima through the shogunate, but fell out with his heir Yoshisuke and was banished.
+@433
+1527-1559\n17th Shoni head. Resisted Ouchi Yoshitaka's invasion of Hizen. When his vassal Ryuzoji Iekane rose, he murdered Iekane's kin and banished him to Chikugo. Iekane fought back with Nabeshima Kiyohisa, and Iekane's heir Takanobu brought Fuyuhisa down. He tried to rise again with the lords of eastern Hizen, but Takanobu attacked and he killed himself.
+@434
+1521-1576\nLord of Shimabara, Hizen. A companion of shogun Ashikaga Yoshiharu. After inheriting he encouraged Nanban trade and ruled well. He fought the fast-rising Ryuzoji Takanobu again and again, but kept losing and finally lost most of his lands. In old age he devoted himself to supporting Christianity and to poetry, they say.
+@435
+1502-1550\n20th Otomo head. Fought the Ouchi and other neighbours and expanded, blessed with fine retainers, ruling Bungo, Chikugo and Higo. But his plot to disinherit his heir Yoshishige split the house. In the "Nikai Kuzure" incident he was cut down by retainers; badly wounded, he died leaving word that Yoshishige should inherit.
+@436
+1516-1554\n10th Honganji abbot. When Nichiren believers and Rokkaku Sadayori burned Yamashina Honganji, he fled to Osaka and rebuilt Ishiyama Honganji as head temple. He printed the letters of the 8th abbot Rennyo, restorer of the sect, and spread them to branch temples and the faithful, doing much to make the sect grow.
+@437
+????-1581\nDewa clan chief. Born a Muto. Took over from his cousin Harutoki as lord of Oura Castle. Endless fights with the Sagoshi branch wore out his lands, but joining Uesugi Kenshin calmed the feud. He sided briefly with Honjo Shigenaga's revolt against the Uesugi, but soon made peace, giving his heir Michiyo (Yoshiuji) as hostage.
+@438
+????-1554\nHead of the Shiba. Governor of Owari. Set up in Kiyosu Castle by the deputy Oda Nobutomo, he had no real power as governor and was Nobutomo's puppet. When Nobutomo plotted to kill Nobunaga of the rising Oda branch line, he secretly warned Nobunaga. Because of this Nobutomo attacked his mansion and drove him to suicide.
+@439
+????-1555\nShiba vassal of Owari. Deputy governor. Lord of Kiyosu Castle. With the under-deputy Sakai Daizen he set up Shiba Yoshimune as a puppet and wielded power. When Yoshimune sided with Nobunaga of the Oda branch line, he stormed his mansion and killed him. Taking this chance, Nobunaga's uncle Nobumitsu attacked Kiyosu on Nobunaga's orders; beaten, he killed himself.
+@440
+????-1563\nThe last Muromachi deputy shogun. Allied with Hatakeyama Masakuni and Yusa Naganori against Hosokawa Harumoto and Miyoshi Nagayoshi. When Nagayoshi switched to him, he drove Harumoto to Omi and entered Kyoto as deputy. But Nagayoshi held the power, leaving him a puppet; moved to Yodo Castle, he died there.
+@441
+1495-1552\nHead of the Sasaki Rokkaku. Governor of half of Omi. Attended the 10th shogun Ashikaga Yoshitane and aided the shogunate. He later set up Ashikaga Yoshiharu with Hosokawa Takakuni. Deeply trusted by Yoshiharu, he was treated next to the deputy and given Junior Fourth Rank, Lower. He crowned Ashikaga Yoshiteru as shogun, and worked to get him back to Kyoto when he fled to Omi.
+@442
+1503-1573\n14th Shimazu head. Third son of Tadamasa, he became governor when his brother Tadataka died young. Pressed by the regent Shimazu Sanehisa to yield the post, he refused and left rule to Tadayoshi and Takahisa of the Soshu Shimazu. But he tried to return to power backed by Sanehisa and clashed with Takahisa. Later he broke with Sanehisa too and was driven from Kagoshima.
+@443
+1523-1550\nYamato lord. Father of Junkei. Grew strong allied with Hatakeyama Tanenaga, but fell ill on the verge of uniting Yamato. He left the house to the young Junkei, asking that a double stand in for him for a year after his death. Mokuami, a monk of like age and looks, played the double, then went back to being a monk after the first memorial. This is said to be the source of the saying "back to Mokuami".
+@444
+????-1581\n18th Nikaido head. First fought Ashina Moriuji, then surrendered, giving his son Moritaka as hostage. When Moritaka was later adopted and became Ashina head, the Nikaido revived for a time with his help. But when Ashina retainers murdered Moritaka, he lost his backer, lost to Date Masamune's invasion, and the Nikaido fell.
+@445
+????-????\nImagawa vassal. Of unknown origin, a master archer who founded his own school. Wandering in Kyoto, he was spotted and hired by shogun Ashikaga Yoshiteru. After Yoshiteru's violent death he went to Suruga and joined Imagawa Ujizane's companions. When Takeda Shingen invaded Suruga he joined the Imagawa force that met him, and is said to have died in the defeat.
+@446
+1483-1566\nLord of Shimabara, Hizen. First named Katasumi, he became Harusumi with a character from shogun Ashikaga Yoshiharu. He spread his power over five districts of Hizen, and set up family rule of Hizen by placing his second son Sumitada in the Omura and the like, bringing the Arima to their peak. After handing over to his heir Yoshisada he retired and lived to 84.
+@447
+1513-1555\nHead of the Higo Sagara. Son of Uemura Yorioki, adopted by Sagara Yoshishige to inherit. Allied with Ouchi Yoshitaka against Otomo invasions. In ruling his lands he built the trade ship "Ichikimaru" and sent it to Ming, and added twenty articles to the Sagara house law, working hard to strengthen his rule.
+@448
+????-????\nHead of the Innoshima Murakami. A brave commander of the Murakami navy that ruled the Inland Sea; with the Noshima main line and the Kurushima line, they were the Three Islands Murakami. Won over by Kobayakawa Takakage, he came under the Mori, aided the Itsukushima battle and formed part of the Kobayakawa navy. His wife was the sister of Nomi Munekatsu, a Kobayakawa naval commander.
+@449
+????-????\nSwordsman. Student of Morooka Ippa. Nursed his master to the end when he fell ill. By the time Ippa died, his fellow student Negishi Tokaku, who had left the dojo long before, had made his name with a dojo in Edo. Enraged, Koguma went to Edo and dueled Tokaku. He won and took over Tokaku's dojo, but was killed by Tokaku's students.
+@450
+????-????\nSatake vassal. Lord of Oda Castle. Second son of Ota Sukemasa. He served the Ogigayatsu Uesugi, but he and his father were driven out by his brother Ujisuke and turned to the Satake. He fought well against the Oda, known for routing Oda Ujiharu from Kidayu Castle to Tsuchiura in the 7th month of 1578. He later left the Satake, served Yuki Hideyasu and fought at Osaka.
+@451
+????-????\nMiyoshi vassal. Brother of Hisahide. Married the daughter of Naito Kunisada, deputy governor of Tanba, and took the Naito name. Serving Miyoshi Nagayoshi against Hosokawa Harumoto, he attacked Yakami Castle, held by Harumoto's man Hatano Harumichi. When Kunisada fell in that fight, he took the name Naito Munekatsu and inherited the deputyship. He later died fighting Akai Naomasa.
+@452
+1579-1650\nMori kinsman. Son of Hoida Motokiyo, Motonari's fourth son. Adopted by Terumoto, he led the Mori as commander in Terumoto's place in the Korean campaigns, winning merit relieving Ulsan Castle. When Terumoto had a son, Hidenari, he founded a branch with lands in Suo and Nagato. At Sekigahara too he led the Mori army for Terumoto.
+@453
+1521-1578\nYamanouchi Uesugi vassal. After his house fell he turned to Yura Narishige, who invited him to Tatebayashi Castle. Known for reclaiming wasteland, planting forests and building irrigation, he did much to improve farming in Kozuke. He is still counted among Gunma's great figures, and in 1916 was granted Junior Fifth Rank posthumously.
+@454
+????-1572\nHatakeyama vassal. Deputy governor of Kawachi. Son of Yusa Naganori. The Yusa were stewards to the Hatakeyama deputies from the early Nanbokucho era, until they outgrew their lords. Nobunori banished his lord Takamasa and set up his brother Akitaka. Later he fell out with Akitaka too and killed him, but was attacked by Oda Nobunaga and killed.
+@455
+????-1580\nOtomo branch line. Son of Akinari. Named Akishige. Adopted his brother Shigechika. He fought well against Ohara Akimoto's revolt and won merit against the Mori, mainly in Buzen. But when Shigechika fell at Mimigawa, feeling against the Otomo main line rose in his house. Slandered as a traitor too, he finally rose, lost and was killed.
+@456
+1513?-1551\nOuchi vassal. Often reproved Yoshitaka as he sank into pleasures. He also warned that Sue Harukata was dangerous and urged that he be killed, in vain. Even so, when Harukata rebelled he fought hard to protect Yoshitaka, acted as his second when he killed himself, and died in rage himself. A fine poet, they say.
+@457
+????-1551\nOuchi vassal. Versed in court customs, he won Ouchi Yoshitaka's trust. But he came to clash with the senior retainer Sue Harukata. Taketo planned to flee, but was held in Chikuzen by Sugi Okikazu, and killed at Hanao Castle when Harukata rebelled. Before dying he wrote "Sagara Taketo's Statement" to explain himself.
+@458
+????-????\nOuchi vassal. Served from Yoshioki's time and went with him to Kyoto when he set up the former shogun Ashikaga Yoshitane. Under Yoshitaka he fought in northern Kyushu. But when Sue Harukata rebelled he joined him and served Ouchi Yoshinaga, whom Harukata set up. Said to be versed in the customs of archery and riding.
+@459
+1513-1586\nMori vassal. Son of Motozane. Recommended by his brother Naritada, Motonari's aide, he was valued by Motonari. He led the Kawanouchi band, the Mori's own navy, and was made keeper of Kusatsu Castle, key to Hiroshima Bay. He then fought at sea across northern Kyushu and San'in. His son Narihide is known for beating Nobunaga's navy at Kizugawaguchi.
+@460
+????-????\nOuchi vassal. First a naval commander under the Takeda governors of Aki, he switched to the Ouchi under Yoshioki and became part of the Ouchi navy. But Katatane joined Sue Harukata's revolt and fought for Sue at Itsukushima. After Harukata fell he served Ouchi Yoshinaga, but later surrendered to Kobayakawa Takakage.
+@461
+????-1555\nBrother of Nobuhide, uncle of Nobunaga. Led the rearguard of the routed army at Azukizaka, one of its Seven Spears. After Nobuhide died he backed Nobunaga, helped take Kiyosu Castle and gave it to him, moving to Nagoya Castle. Soon after he was killed by his retainer Sakai Magohachiro; some whispered Nobunaga was behind it.
+@462
+????-1552\nTakeda vassal. Father of Nobushige. The Oyamada were a clan of Tsuru in Kai. Even under the Takeda they kept their independence, and he ruled his lands well, they say. He joined the attack on Murakami Yoshikiyo at Toishi Castle in Shinano, but the Takeda failed to take it and were crushed by a Murakami counterattack. Nobuari died in that battle.
+@463
+????-1554\nAmago kinsman. Son of Tsunehisa. His clan, the Shingu band, were famed for strength and upheld the Amago under Tsunehisa and Haruhisa. But their violent ways set Haruhisa and the house against them. Mori Motonari exploited this, and Haruhisa, taken in by his divisive scheme, killed him. This began the Amago decline.
+@464
+????-1554\nAmago kinsman. Son of Kunihisa. A brave Shingu band general. But he boasted of his clan's feats and beat retainers, and his violence made him hated. In the end his lord Haruhisa, taken in by Mori Motonari's scheme, sent assassins to kill him. His father Kunihisa and brother Takahisa were killed too, and the Shingu band was wiped out.
+@465
+????-????\nOld retainer of the deputy governor Oda Yamato-no-kami. After Oda Nobuhide died he opposed Nobunaga's bid to unite Owari. He and Sakai Jinsuke tried to kill Nobunaga, but failed. Later, on his lord Oda Nobutomo's orders, he killed the governor Shiba Yoshimune, giving Nobunaga a pretext to attack Kiyosu. Driven from Kiyosu, he fled to Suruga and the Imagawa.
+@466
+1502-1563\nSon of Norisada. Also Muraharu. With Yanagimoto Kataharu's help he fought the Ito, whom Uragami Muramune backed. Muramune's scheme got Kataharu assassinated, and Naruharu even had to flee his Miki Castle for a time. He later won it back. For siding with the Amago when they invaded Harima, Miyoshi Nagayoshi attacked, but he held Miki Castle.
+@467
+1467-1557\nMori vassal. Son of Motoyoshi, brother of Kuchiba Michiyoshi. Regent from the time of Motonari's brother Okimoto. Deeply trusted, he had the 17-year-old Motonari say, "If I overreach in my youth, Hiroyoshi, tell me." In the succession question after Komatsumaru died he strongly backed Motonari and made him Mori head.
+@468
+????-????\nSecond son of Kiyohisa, father of Naoshige. When Ouchi Yoshitaka's army came to destroy the Shoni, Ryuzoji Iekane and others met it at Tadenawate on orders. Kiyofusa and his father led the red-bear troop in a surprise attack on the Ouchi and helped win. For this he married Ryuzoji Iekane's granddaughter and became guardian of the head Takanobu.
+@469
+????-????\n5th head of the Kamiya, great merchants of Hakata. The 2nd head, Kazue, was captain of the Ouchi tally ships to Ming, and the 4th, Jutei, opened the Iwami silver mine: generations built the family's capital. But Hakata was ever at war, with the Otomo and Mori fighting and the Ryuzoji invading, and Shosaku fled to Karatsu with his son Sotan.
+@470
+????-1554\nOuchi vassal. Deputy governor of Nagato. Went to Kyoto with Ouchi Yoshioki and often fought the Amago and others. He joined Sue Harukata's revolt, but did little. His grandson Takayo, though, acted for Harukata, splitting the house. Also a man of letters held in high esteem, they say.
+@471
+1510-????\nSatsu-shu Shimazu. Son of Tadaoki. Grew strong helping Katsuhisa, 14th head of the main Shimazu line, but fell out with him when Katsuhisa refused to make him heir. He drove Katsuhisa to Bungo and fought fiercely with Tadayoshi and Takahisa, who aided Katsuhisa. After defeat upon defeat he finally surrendered in 1539 and retired to Izumi, they say.
+@472
+????-1550\nMori vassal. Son of Mitsukane. The Inoue had long been powerful in the Mori house, and Motokane's great part in Motonari's succession made his power huge. But he came to slight Motonari's authority, and Motonari, fearing an overthrow, chose a purge. Over thirty of his clan were put to death.
+@473
+1504-1566\nHead of the Tennojiya, great merchants of Sakai. Father of Sokyu. Learned tea from Takeno Joo, knew the Shimotsuma and Miyoshi, and owned much tea ware. As one of the 36 he helped govern Sakai, and was purveyor to the Miyoshi. The "Tennojiya Records", kept for three generations from Sotatsu, are a valuable source.
+@474
+1493-1559\nAso high priest. Lord of Iwao Castle. Took the high priesthood from his brother Korenaga and grew strong from Hamanoyakata. When Korenaga came home and drove him from Yabe, he won it back with help from Kai Chikanori (Soun's father), the great general of Kuraoka in Hyuga. He gave ten thousand hiki for palace repairs, rose to Junior Second Rank and received an imperial envoy.
+@475
+1500-1568\nKenmotsu. Founder of the Tsuda school of gunnery. Also Suginobo. Went to Tanegashima, bought a gun from Tanegashima Tokitaka and learned to shoot. He had the smith Shibatsuji Seiemon copy the gun he brought home, making it at home and in bulk. Kazunaga formed the Negoro gunners and fought on many fronts, but lost his lands to Hideyoshi's Kii campaign and served Hidenaga and others.
+@476
+????-1551\nOuchi vassal. Deputy governor of Bungo. Cousin of Ouchi Yoshitaka. First opposed Sue Harukata and urged Yoshitaka to remove him, in vain. To save himself he came to side with Harukata, but after Harukata killed Yoshitaka they fell out again; attacked, he killed himself in Nagato. This was the start of the collapse of Harukata's power.
+@477
+????-????\nSon of Masafusa. The Kii were a branch of the Utsunomiya of Shimotsuke, a noble line that led Kyushu warriors in the Kamakura era. They long served the Ouchi; Nagafusa's father Masafusa won merit under Ouchi Yoshioki and Yoshitaka, then joined the Otomo when the Ouchi fell. Nagafusa left the domain to his son Shigefusa and worked to settle the main house's turmoil.
+@478
+1497-1555\n15th head of the Oshu Kasai. Moriyoshi, heir of the previous head Harushige, died before inheriting, and his son Harukiyo died young too, so Moriyoshi's brother Harutane succeeded. Date records call Harutane the sixth son of Date Tanemune, but many hold that it was Harukiyo, who died young, who was Tanemune's son.
+@479
+????-????\nOf Murakami descent. Son of Murakami Okitane. Took the name Egami on moving to Chikugo. In 1558 he backed Shoni Fuyuhisa and fought Oda Masamitsu of the Ryuzoji side, who died in the battle. He later yielded to the Ryuzoji and was treated well, marrying Ryuzoji Tanehisa's daughter and adopting Takanobu's second son Ietane. One of the Nineteen Castle Lords of eastern Hizen.
+@480
+????-1578\nOtomo vassal. When Otomo Yoshiaki tried to disinherit his heir Yoshishige (Sorin) in the Nikai Kuzure incident, he backed Yoshishige and seized Funai. He once fell out with Yoshishige and served the Saionji of Iyo, but later returned and attacked the Saionji on his orders. He fought in the decisive Otomo-Shimazu battle at Taka Castle in Hyuga and died.
+@481
+1548-1612\nFirst lord of Fukue domain, Hizen. Of a branch of the Matsura band. Uncle of the previous head Uku Sumiharu, he inherited when Sumiharu died young of smallpox. Under Sumiharu the house had submitted to Hideyoshi and taken the Goto name, laying the base for an early-modern daimyo. He went to Korea on Hideyoshi's orders too, receiving the Toyotomi name and court rank and office.
+@482
+????-????\nOgasawara vassal. At the battle of Shiojiri pass between Ogasawara Nagatoki and Takeda Shingen, he fought under Nagatoki but switched to the Takeda at the climax, causing Nagatoki's defeat. But afterwards he went back to Nagatoki and served him loyally, and was allowed the Futatsugi name. After Nagatoki fled to Echigo he served Shingen.
+@483
+1589-1671\nFounder of the Takada spear school. Born in Iga, gifted at arms from childhood, he learned the spear from Hozoin In'ei. He fought hard for the Toyotomi at Osaka, then became a ronin and opened a dojo in Edo. Later he entered Ogasawara service and went to Kokura in Buzen, fighting in the Shimabara rebellion too. So famed was his skill that he showed it before the shogun Iemitsu.
+@484
+????-????\nOrigin unknown.\nA mysterious adventurer who appeared in the age of war, with no backing, relying on wits alone. Does glory lie ahead, or ruin? Only history knows...
+@485
+????-????\n{02}{01}i of {02}{10}e.
+@485.1
+????-????\n{02}{01}{81}, {02}{01}i of {02}{10}e.
+@486
+1539-1606\nPainter. Tea master. Said to be a Kyoto townsman, he served Oda Nobunaga as a deputy. When Honnoji struck he was quick to send a runner to warn Hashiba Hideyoshi, they say. He later served Hideyoshi and Ieyasu, becoming a daimyo of 10,000 koku. As a painter he was given the rank of Hogen.
+@487
+1539-1610\nPainter. Founder of the Hasegawa school. Also Nobuharu; born in Noto. He learned from Toshun of the Sesshu line, then the Kano school in Kyoto, calling himself Sesshu's 5th heir. Works include "Pine Trees" and the "Maples" doors.
+@488
+1543-1590\nPainter who perfected the Kano school. On Nobunaga's orders he painted the walls of Azuchi Castle's keep. Then, in Hideyoshi's service, he painted Osaka Castle and more, becoming the leading painter of his day. His masterpieces include "Scenes in and around Kyoto" and "Chinese Lions".
+@489
+1558-1637\nKyoto artist, known mainly as a calligrapher. Brimming with talent, he worked in pottery, maki-e, calligraphy, painting and tea; his calligraphy ranked him one of the "Three Brushes". On land given by Ieyasu he later built a town with friends and craftsmen, running an artists' village.
+@490
+????-1577\nMonk of the Hokke sect. From Izumo. He petitioned the emperor to raise funds to repair the ruined palace and was given the title Shonin. Later valued by Nobunaga, he was put in charge of palace building and diplomacy. Scheming to drive out the Jesuit missionaries, he even had a religious debate with Frois before Nobunaga.
+@491
+????-1582\nMonk of the Rinzai sect. At Sofukuji in Mino he fell out with Saito Yoshitatsu, then was invited by Takeda Shingen to Erinji, where he helped in diplomacy. After the Takeda fell Nobunaga set fire to the temple, and he died in the flames.
+@492
+1518-1596\nHead of the Tamon-in, a sub-temple of Kofukuji in Nara. One of the authors of the "Tamon-in Diary", kept by its heads in turn. Rich in the politics and rumours of the age of Nobunaga's and Hideyoshi's rise, it is a precious source on the society of the time.
+@493
+1573-1645\nRinzai monk. National Master Fuko. Trained in Zen at Daitokuji in Kyoto. He learned poetry from Hosokawa Yusai and was versed in calligraphy, painting and tea. Exiled for protesting the shogunate's punishment of Daitokuji monks, he was pardoned and won the devotion of Yagyu Munenori and Iemitsu.
+@494
+1532?-1597\nJesuit missionary from Portugal. After preaching in Kyushu he worked to spread the faith in the Kinai. He met Nobunaga in Kyoto and was allowed to preach at the Nanban temple. Back in Kyushu he worked on his "History of Japan". When Hideyoshi expelled the missionaries he moved from place to place and died in Nagasaki.
+@495
+1525-1583\nPortuguese Jesuit missionary. Came to Japan to trade and preached alongside his business. Versed in medicine, he opened a hospital with Otomo Sorin's help, also serving in medicine. He later devoted himself to preaching in Kyushu.
+@496
+????-????\nDutch merchant. Dreaming of a fortune, he founded the Argot company in Amsterdam. After building capital in the North Sea trade he went out into the world. A gifted naval commander too, he fought pirates and more. A character from "Uncharted Waters: New Horizons".
+@497
+????-????\nPortuguese merchant. Born in the port of Lisbon, he grew up longing to follow the pioneers of the Age of Discovery. With friends' help he founded the Castor company and spread its trade from nearby seas to the whole world. A character from "Uncharted Waters: New Horizons".
+@498
+1539-1617\nCourt noble of the Imadegawa. Liaison for the Oda. After Nobunaga died he drew close to Hideyoshi and urged the court to make him regent. His daughter married Hidetsugu, but he was exiled in the Hidetsugu affair.
+@499
+????-1579\n
+@500
+1517-1593\nEmperor. Ascended amid the age of war, so poor the enthronement needed Mori Motonari's help. When Nobunaga backed palace repairs and rites, the emperor relied on him and commanded him to "pacify the realm".
+@501
+1580-1605\nOda main line. Heir of Nobutada. Later Hidenobu. After his father died at Honnoji, Hashiba Hideyoshi made him Oda heir at just 3 at the Kiyosu conference. He grew up with Hideyoshi holding real power, ending as lord of Gifu Castle. He joined the West at Sekigahara, lost, and became a monk on Mt. Koya.
+@502
+????-1615\nConcubine of Hideyoshi. Named Chacha. Eldest daughter of Azai Nagamasa and Oichi. When Hideyoshi destroyed Shibata Katsuie, Oichi's husband, she became his concubine and bore Tsurumatsu and Hideyori. As Hideyori's guardian she resisted Ieyasu, bringing the Toyotomi to ruin.
+@503
+1548-1624\nWife of Hideyoshi. Kita-no-Mandokoro. Married Hideyoshi when he had just joined the Oda and backed his rise. Despite his many concubines he always put Nene first and heeded her views, they say. After his death she lived quietly, not clinging to Toyotomi rule.
+@504
+1513-1592\nMother of Toyotomi Hideyoshi. Later O-Mandokoro, Tenzui-in. From Owari, she married Kinoshita Yaemon and bore Hideyoshi. After Yaemon died she remarried Chikuami and bore Hidenaga and Asahihime. With Hideyoshi's rise she became mother of the realm's ruler, called O-Mandokoro.
+@505
+1547-1583\nWife of Azai Nagamasa. Sister of Oda Nobunaga. Hailed as a peerless beauty. Married to Azai Nagamasa of Omi for her brother's politics, she bore three daughters and a son, but Nobunaga attacked and Nagamasa died. After Honnoji she remarried Shibata Katsuie and moved to Kitanosho, but Hashiba Hideyoshi soon attacked and she died with Katsuie.
+@506
+1546-1617\nWife of Maeda Toshiie. Later Hoshun-in. Bright and learned, even trained in arms: a woman of both talent and beauty. As her husband's best ally she upheld the Maeda. After her son Toshinaga inherited and Toshiie died, she went to Edo as a hostage to save the house. An old friend of Nene, Hideyoshi's wife.
+@507
+1558-1604\nWife of Uesugi Kagekatsu. Fourth daughter of Takeda Shingen. Married Kagekatsu when her half-brother Takeda Katsuyori allied with him. Welcomed with a grand wedding, she was loved and respected in the Uesugi house as Lady Koshu, famed as a wise wife who urged thrift. She stayed with the Uesugi after the Takeda fell and moved to their Fushimi mansion.
+@508
+????-1613\nWife of Imagawa Ujizane. Daughter of Hojo Ujiyasu. Married Ujizane as part of the triple alliance of the Hojo, Imagawa and Takeda. After Okehazama, as Takeda and Tokugawa invasions wrecked the Imagawa, she and Ujizane relied on her family the Hojo and on the Tokugawa. She later moved from Kyoto to Edo and died there.
+@509
+1564-1582\nWife of Takeda Katsuyori. Daughter of Hojo Ujiyasu. She married into the declining Takeda at 14. At Tenmokuzan Katsuyori urged her to go home to the Hojo, but she chose to share the Takeda's fate and killed herself, likening herself in her death poem to vanishing dew. She was 19.
+@510
+1579-1643\nLady Kasuga. Daughter of Saito Toshimitsu. After Honnoji she wandered, then married Inaba Masanari, but left him. After Sekigahara Ieyasu brought her into the inner palace; as wet nurse she worked for Iemitsu's succession and held great power there.
+@511
+1561?-1641\nWife of Gamo Ujisato. Second daughter of Oda Nobunaga. Married Ujisato at 12 and bore his heir Hideyuki. After Honnoji Ujisato's lands grew under the Toyotomi, but were cut after his death. One story says Hideyoshi, taken with Fuyuhime, sought her; she refused and became a nun, and the spiteful Hideyoshi cut their lands.
+@512
+1543-1569\nWife of Hojo Ujimasa. Eldest daughter of Takeda Shingen. Married Ujimasa, heir of Hojo Ujiyasu, as part of the triple alliance. When Shingen broke the alliance and attacked Imagawa Ujizane, the furious Ujiyasu sent her back to Kai. She became a nun called Obai-in, but soon died.
+@513
+1569-1602\nWife of Tachibana Muneshige. Daughter of Tachibana Dosetsu. Her sonless father made her lady of Tachibana Castle. She took Muneshige as husband and heir and they upheld the house together. At Sekigahara she armed herself to guard the roads, they say. After the Tachibana lost their lands she retired to Higo.
+@514
+1568-1653\nWife of Date Masamune. Daughter of Tamura Kiyoaki. Married Masamune at 11 and supported his conquest of Oshu. Beautiful and skilled at poetry and calligraphy, they say. After the Odawara campaign she went to Fushimi in Kyoto as hostage, then to Edo after Sekigahara. She bore three sons including the heir Tadamune and a daughter, and lived to 86.
+@515
+1548-1623\nWife of Date Terumune. Sister of Mogami Yoshiaki. Called "the Demon Princess of Dewa". Doting on her second son Jikumaru, she plotted to poison Masamune. Found out, Jikumaru was put to death and she was sent home. Later reconciled, she returned to Sendai and died there.
+@516
+1574-1634\nWife of Ukita Hideie. Fourth daughter of Maeda Toshiie; mother Matsu. Raised by Hideyoshi and Kita-no-Mandokoro (Nene), close friends of her parents. She married Hideie, also treated as Hideyoshi's adopted son, and bore two sons and a daughter. After Sekigahara Hideie, who sided with the West, was exiled to Hachijojima, and Gohime returned to her family in Kanazawa.
+@517
+1563-1600\nWife of Hosokawa Tadaoki. Daughter of Akechi Mitsuhide. Confined for a time after her father's Honnoji revolt, she was later taken back. She became a Christian, baptised Gracia. Before Sekigahara Ishida Mitsunari demanded she enter Osaka Castle as hostage; she refused and ended her life by a retainer's hand.
+@518
+1535-????\nWife of Oda Nobunaga. Daughter of Saito Dosan. Married Nobunaga at 14: "Nohime", princess of Mino. Before the wedding Dosan gave her a dagger: "If Nobunaga really is a fool, kill him with this." She answered, "It may yet be the blade that kills you, Father."
+@519
+1542-1579\nWife of Tokugawa Ieyasu. Lady Tsukiyama, of the Imagawa. Her son Nobuyasu quarrelled with his wife Tokuhime, Nobunaga's daughter, who told Nobunaga they were dealing with the Takeda. Sena pleaded innocence, unheard, and was killed; Nobuyasu killed himself.
+@520
+1559-1636\nWife of Nobuyasu. Daughter of Nobunaga. Married Ieyasu's heir Nobuyasu as the Oda-Tokugawa alliance grew. Feuding with his mother Lady Tsukiyama, she told Nobunaga the two were in league with the Takeda. Nobunaga ordered Ieyasu to act: Lady Tsukiyama was killed, and Nobuyasu killed himself.
+@521
+1557-1617\nWife of Yamauchi Kazutoyo. Her support raised her husband to daimyo. Her Kazutoyo rode a scrawny horse, so for Nobunaga's horse parade she brought out hidden gold to buy him a fine one to stand out, giving him his start, they say. They had no children, yet Kazutoyo never took a concubine.
+@522
+1573-1620\nWife of Sanada Nobuyuki. Daughter of Honda Tadakatsu. Married Nobuyuki as Ieyasu's adopted daughter. Before Sekigahara, with her husband away, Masayuki and Yukimura, on the enemy side, came to Numata Castle; she refused them: "I cannot open the gates without the lord's leave."
+@523
+????-1649\nWife of Sanada Yukimura. Daughter of Otani Yoshitsugu. Married Yukimura when he served in Osaka and bore two sons and three daughters. After Sekigahara she lived with him in exile at Kudoyama in Kii. After the fall of Osaka she was caught by Asano men but not charged, and lived out her days quietly with her daughter and son-in-law in Kyoto, they say.
+@524
+1521?-1570\nWife of Takeda Shingen. Daughter of the Minister of the Left Sanjo Kin'yori. Bore three sons and two daughters, including the heir Yoshinobu. But Yoshinobu was confined on suspicion of treason and later killed himself, and the house went to Katsuyori, son of a concubine. One son died young and her daughter Obai-in was sent back by the Hojo: as a mother her days were full of grief.
+@525
+1570?-1633\nWife of Kyogoku Takatsugu. Sister of Lady Yodo. Married her cousin Takatsugu through Hideyoshi and upheld the Kyogoku. Widowed, she became the nun Jokoin, a bridge between the Toyotomi of her sister Yodo and the Tokugawa of her sister Go, and an envoy in the Osaka peace talks.
+@526
+1573-1626\nWife of Tokugawa Hidetada. Sister of Lady Yodo. Married first her cousin Saji Kazunari, then parted on Hideyoshi's order; then Hashiba Hidekatsu, bearing a daughter. After his death she married Hidetada as Hideyoshi's adopted daughter, bearing Princess Sen, Iemitsu and more.
+@527
+????-1618\nWife of Nabeshima Naoshige. Daughter of Ishii Tadatsune. Widowed and back home, she was working in the kitchen when Naoshige saw and fell for her. He secretly courted her, then formally proposed. Bright, lively and warm, she aided him well and protected the Nabeshima.
+@528
+1574-1623\nWife of Maeda Toshinaga. Fourth daughter of Oda Nobunaga. Just before Honnoji she married the 20-year-old Toshinaga at only 8. They lived together until he retired and died, but had no children, and adopted his brother Toshitsune as heir. After Toshinaga's death she became a nun to pray for him, living below Kanazawa Castle as Gyokusen-in.
+@529
+????-????\nWife of Akechi Mitsuhide. Mother of Tama (Gracia). After her marriage to Mitsuhide was arranged, illness scarred her face, but Mitsuhide married her anyway, they say. Before he served the Asakura he wandered in poverty, and she supported him and helped him find service. After Honnoji, learning of his death, she killed herself.
+@530
+1552-1627\nWife of Kuroda Kanbee. Mother of Nagamasa. Niece of Kodera Masamoto, she married Kanbee at 16 and bore Nagamasa the next year. When the West demanded she enter Osaka Castle as hostage at Sekigahara, she slipped out of Osaka and escaped. In old age she lived quietly with her husband.
+@531
+????-1615\nWife of Yagyu Sekishusai. Daughter of Okuhara Suketoyo of Yamato, she bore five sons, including Munenori, and six daughters. She supported her husband from behind and was loved by the Yagyu. Outliving him and some sons, she died at Yagyu after hearing of Munenori's feats at Osaka.
+@532
+????-????\nClaimed to be a shrine maiden of Izumo Taisha. Founder of kabuki dance. To raise funds to repair the main hall of Izumo Taisha she toured the land with other maidens, winning fame with nenbutsu dances in Kyoto. Later, at Shijo riverbank in Kyoto, her bold shows dancing dressed as a man made her name known throughout the realm.
+@533
+????-????\nA woman.\nA flower living in an age of war.
+@534
+????-????\nA woman.\nA flower living in an age of war.
+@535
+????-????\nA woman.\nA flower living in an age of war.
+@536
+????-????\nA woman.\nA flower living in an age of war.
+@537
+????-????\nA woman.\nA flower living in an age of war.
+@538
+????-????\nA woman.\nA flower living in an age of war.
+@539
+????-????\nA woman.\nA flower living in an age of war.
+@540
+????-????\nA woman.\nA flower living in an age of war.
+@541
+????-????\nA woman.\nA flower living in an age of war.
+@542
+????-????\nA woman.\nA flower living in an age of war.
+@543
+????-????\nA woman.\nA flower living in an age of war.
+@544
+????-????\nA woman.\nA flower living in an age of war.
+@545
+????-????\nA woman.\nA flower living in an age of war.
+@546
+1437-????\nReal name Kanamari Daisuke. A man over a hundred. Said to have been a monk in Boso, tied to the Satomi legends; nothing more is known. He is searching for eight people who carry beads inscribed with strange characters.
+@547
+\nThis message is a dummy.
+@548
+\nThis message is a dummy.
+@549
+1536-1643\nTendai monk. Studied doctrine on Mt. Hiei and won Ieyasu's devotion. As Ieyasu's aide he helped in government and was involved in the Hokoji bell inscription affair. After Ieyasu's death he served four shoguns, Hidetada, Iemitsu and Ietsuna, and was called "the Black-Robed Prime Minister". Legend even says he was Akechi Mitsuhide. He was posthumously titled Jigen Daishi.
+@550
+1530-1611\n6th head priest of Rinsenji, Echigo. Raised Uesugi Kenshin when he was placed at Rinsenji as a child. His noble character deeply shaped Kenshin, who trusted him greatly. When Kenshin, sick of ruling, left in 1556, he is said to have sent Tenshitsu a letter giving his reasons and asked him to explain to the retainers.
+@551
+1470-1563\nRinzai monk. From Mino, he studied under Kaisen Joki and was head student of his school. Later invited by Date Terumune, he became head priest of Shifukuji: this was to make Kosai the teacher of Terumune's heir Masamune. Masamune revered Kosai and was shaped by him. In later years he founded Kakuhanji for Terumune, who died a violent death.
+@552
+1533-1615\nPainter. Founder of the Kaiho school. Son of the Azai vassal Kaiho Tsunachika, he was in Kyoto when the Azai fell and escaped. He learned painting from Kano Motonobu. A friend of the Akechi vassal Saito Toshimitsu, when Toshimitsu's head was displayed after Yamazaki, he attacked the guards, took the head and buried it, they say. His samurai birth and spirit made his painting unique.
+@553
+????-????\nReishoin. Daughter of Imagawa Yoshimoto. When Joke-in, Shingen's sister married to Yoshimoto, died young, she was married to the Takeda heir Yoshinobu to strengthen the Takeda-Imagawa alliance. But Yoshinobu opposed Shingen's plan to attack the Imagawa, and they fell out; Yoshinobu was confined and killed himself, and Reishoin was sent back to Suruga.
+@554
+????-????\nDaughter of Ando Morinari. Married Takenaka Hanbee and bore Shigekado. Hanbee is famous for seizing Inabayama Castle, and his father-in-law Ando Morinari took part. There was every risk of being punished for rebellion; that he still lent a hand must be because Morinari thought so highly of his son-in-law.
+@555
+????-????\nDaughter of Saito Dosan. Elder sister of Kicho, Oda Nobunaga's wife. She married Anegakoji Yoritsuna. The Anegakoji were first called Mitsuki, until his father Yoriyori took over the extinct Furukawa Anegakoji name. Yoritsuna destroyed the Ema in 1582 and held all Hida, but lost to Kanamori Nagachika of Hideyoshi's army and surrendered.
+@556
+????-????\nDaughter of Ishigai Mitsumasa, sister-in-law of Saito Toshimitsu. Became the wife of Chosokabe Motochika. Through her, Motochika drew close to Nobunaga via Akechi Mitsuhide, so Mitsuhide was seen as the Oda's go-between with the Chosokabe. But Nobunaga ignored Mitsuhide and planned to invade Shikoku, shaming him; this too is called a cause of Mitsuhide's revolt.
+@557
+????-1606\nLady Shinjo. Daughter of Kumagai Nobunao. Wife of Kikkawa Motoharu and mother of Motonaga, married at Motoharu's own wish. She was known to be plain, and when those around him, amazed, asked why, Motoharu said it was to win Nobunao's loyalty. Indeed Nobunao was moved, and served Motoharu and the Mori faithfully, they say.
+@558
+????-1613\nWife of Sanada Masayuki. Said to be a daughter of Uda Yoritada and sister of Ishida Mitsunari's wife, but there are other theories: daughter of Kikutei Harusue, of Ogimachi Sanehiko, or of the Takeda vassal Toyama; the truth is unknown. Mother of Nobuyuki and Yukimura. When Masayuki was confined at Kudoyama after Sekigahara, she became a nun called Kanshoin.
+@559
+????-1571\nZuikei-in. Daughter of Imagawa Ujichika, sister of Yoshimoto. Through the Imagawa-Hojo alliance she became the wife of Hojo Ujiyasu. Of Ujiyasu's fifteen children she bore twelve, including Ujimasa and Ujiteru. Born of one mother, the siblings got along well, and the daughters married key generals, binding alliances that upheld Hojo power.
+@560
+1518-1550\nJoke-in. Daughter of Takeda Nobutora, sister of Shingen. In the "Hanakura revolt", the succession war after Imagawa Ujiteru's death, Nobutora backed Yoshimoto, and the Takeda and Imagawa allied. So Joke-in went to Suruga as Yoshimoto's wife. She bore Ujizane and Reishoin (Takeda Yoshinobu's wife), but died young at 33.
+@561
+????-????\nA woman. A flower living in an age of war.\nWife of {02}{01}g.
+@562
+????-????\nSpanish merchant. An adventurous merchant who came all the long way to Zipangu, the land of gold, seeking riches.

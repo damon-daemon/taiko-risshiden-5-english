@@ -1,0 +1,1876 @@
+@0
+The master here, {02}{03}g,\nis out at the moment...\nI'm sorry, but please come back later.
+@1
+Oh, who might you be?
+@1.1
+Oh, who might you be?
+@2
+A pleasure to meet you.\nI am {02}{01}g.
+@2.1
+A pleasure to meet you.\nI am {02}{01}g.
+@3
+A ronin, are you?\nAnyway, I look forward to knowing you.
+@3.1
+Oho, so you're...\nI look forward to knowing you.
+@3.2
+Oh, you're with {02}{0B}e?\nWell, well, a pleasure.
+@4
+A ronin?\nI look forward to knowing you.
+@4.1
+Oh, so you're...\nI look forward to knowing you.
+@4.2
+My, you're with {02}{0B}e...\nWell, well, a pleasure.
+@5
+Good of you to come to my dojo.
+@5.1
+Good of you to come to my dojo.
+@5.2
+Welcome to {01}C{0E}{00}'s dojo.
+@6
+Welcome to my dojo.
+@6.1
+Welcome to {01}C{0E}{00}'s dojo.
+@7
+What brings you today?
+@7.1
+What is your business?
+@7.2
+What can I do for you?
+@8
+...You look very tired.\nYou can't train with so little strength.\nGet some proper rest.
+@8.1
+...You look very tired.\nYou can't train with so little strength.\nGet some proper rest.
+@8.2
+...You look very tired.\nYou mustn't push yourself like that.\nPlease get some proper rest.
+@9
+...Sorry, but your fatigue shows.\nYou can't train with that strength...
+@9.1
+...Forgive me,\nbut you look rather tired.\nYou can't train like that, I think...
+@9.2
+...Forgive me,\nbut you look rather tired.\nTraining in that state is unwise, no?
+@10
+You don't seem to have\nany unappraised arms...
+@10.1
+You don't seem to have\nany unappraised arms...
+@10.2
+You don't seem to have\nany unappraised arms...
+@11
+Appraisal costs {02}o{C8},\nbut you seem short of money...
+@11.1
+Appraisal costs {02}o{C8},\nbut you seem short of money...
+@11.2
+Appraisal costs {02}o{C8},\nbut you seem short of money...
+@12
+An appraisal? Very well.\nBetween {01}C{19}{00} and me...\nI'll do it for free.
+@12.1
+An appraisal? Very well.\nGiven our relationship...\nI'll appraise it for free.
+@12.2
+Appraising arms, is it?\nGiven how close we are,\nI'll do it for free.
+@13
+An appraisal?\nIt's {02}o{C8} apiece.\nAll right?
+@13.1
+An appraisal?\nIt's {02}o{C8} apiece.\nIs that all right?
+@13.2
+Appraising arms, is it?\nIt's {02}o{C8} apiece.\nIs that all right?
+@14
+Which shall I appraise?
+@14.1
+Which shall I appraise?
+@14.2
+Which shall I appraise?
+@16
+Ohh... this looks to be {02}3g.\nA superb piece!\nYou've found a fine thing indeed.
+@16.1
+Oh, this looks to be {02}3g.\nQuite a fine piece!\nYou've found a good thing.
+@16.2
+Hm, I'd say this is {02}3g...
+@16.3
+Hmm, this is {02}3g...\nIt seems you've been had...\nOops, I misspoke...
+@17
+Ohh... this looks to be {02}3g.\nA superb piece!\nYou've found a fine thing indeed.
+@17.1
+Oh, this must be {02}3g.\nQuite a fine piece!\nYou've found a good thing.
+@17.2
+Hm, this is {02}3g...
+@17.3
+Hmm, this is {02}3g...\nSomeone's fooled you...\nOops, sorry, a slip of the tongue.
+@18
+Th-this is {02}3g!\nA superb piece.\nThank you for letting me see it...
+@18.1
+This must be... {02}3g.\nYou've found a fine thing.
+@18.2
+This is {02}3g, I'd say.
+@18.3
+Ufufu...\nThis is {02}3g.\nSomeone's fooled you, I'm afraid.
+@19
+Oh, if it isn't my lord.\nTo come all the way here...\nI'm deeply honored.
+@19.1
+Oh, if it isn't the chief.\nTo come all the way here...\nI'm deeply honored.
+@19.2
+Oh, if it isn't the boss.\nTo come all the way here...\nI'm deeply honored.
+@19.3
+Ah, Lord {02}{02}e.\nTo come all the way here...\nI'm deeply honored.
+@19.4
+Ah, Lord {02}{02}e.\nThank you for your trouble.
+@20
+What is your business?
+@21
+You'll do {02}yd?\nIt will take about 20 days to see results.\nIs that all right?
+@22
+Training rose by {02}od.\nThank you for your trouble.
+@23
+You don't seem to have enough money\nto pay for training...
+@24
+This castle's troops are the strongest.\nThey need no more training.
+@24.1
+This village's troops are the strongest.\nThey need no more training.
+@24.2
+This fort's troops are the strongest.\nThey need no more training.
+@25
+{02}od new soldiers joined.\nThank you for your trouble.
+@26
+As for our forces,\nI think we lack soldiers.
+@26.1
+As for our forces,\nI think training is lacking.
+@26.2
+As for our forces,\nI think we lack provisions.
+@26.3
+As for our forces,\nI think we lack war funds.
+@26.4
+As for our forces,\nI think we lack guns.
+@26.5
+As for our forces,\nI think we lack warhorses.
+@26.6
+For now there are no particular\nproblems with our forces, I think.
+@26.7
+As for our forces,\nI think we lack soldiers.
+@26.8
+As for our forces,\nI think training is lacking.
+@26.9
+As for our forces,\nI think we lack provisions.
+@26.10
+As for our forces,\nI think we lack war funds.
+@26.11
+For now there are no particular\nproblems with our forces, I think.
+@26.12
+As for our forces,\nI think we lack ships.
+@26.13
+As for our forces,\nI think training is lacking.
+@26.14
+As for our forces,\nI think we lack provisions.
+@26.15
+As for our forces,\nI think we lack war funds.
+@26.16
+For now there are no particular\nproblems with our forces, I think.
+@27
+(This base of {02}{0B}e is one\n our shop serves as purveyor...\n No point staying here.)
+@27.1
+(This base of {02}{0B}e is one\n our shop serves as purveyor...\n No point staying here.)
+@27.2
+(This is a base of {02}{0B}e,\n our ally...\n No point staying here.)
+@27.3
+(This is a base of {02}{0B}e,\n our ally...\n No point staying here.)
+@28
+(Now, to sneak in.)
+@28.1
+(Now then, let's sneak in.)
+@29
+Hm, who's there?!\n...Huh, no one.\nMust be my imagination...
+@30
+(Good, I got in.)
+@30.1
+(Good, I got in.)
+@31
+Hm, who's there?!\nEveryone, an intruder!\nSeize them!!
+@32
+(Damn, I've been spotted.\n Time to withdraw.)
+@32.1
+(Oh no, I've been spotted.\n Time to withdraw.)
+@33
+(What shall I investigate?)
+@33.1
+(What shall I investigate?)
+@34
+(Then I'll look for {02}yd information.)
+@34.1
+(Right, let's look for {02}yd information.)
+@35
+(Hm, so this is the land\n information for {02}{15}e.)
+@35.1
+(I see, so this is the land\n information for {02}{15}e.)
+@36
+(Hm, so this is the military\n information for {02}{15}e.)
+@36.1
+(I see, so this is the military\n information for {02}{15}e.)
+@37
+(Hm, so this is the supply\n information for {02}{15}e.)
+@37.1
+(I see, so this is the supply\n information for {02}{15}e.)
+@38
+(...Hmm,\n I can't find anything useful.)
+@38.1
+(...No good,\n I can't find anything useful.)
+@39
+(Good, I have all the information\n on this base.\n No reason to stay; time to leave.)
+@39.1
+(Good, I have all the information\n on this base.\n No reason to stay; let's go...)
+@40
+Who's there! An intruder?!
+@40.1
+Who's there! An intruder?!
+@40.2
+Who's there?!\nIntruder!
+@41
+(Damn, I've been spotted.\n I'll run for now.)
+@41.1
+(Oh no, I've been spotted.\n I'll run for now...)
+@42
+I'm grateful for the thought,\nbut sadly this castle has\nnot a single soldier right now.
+@42.1
+I'm grateful for the thought,\nbut sadly this village has\nnot a single soldier right now.
+@42.2
+I'm grateful for the thought,\nbut sadly this fort has\nnot a single soldier right now.
+@43
+I'm grateful for the thought,\nbut forgive me, the money you have\nwould have no effect.
+@44
+I'm grateful for the thought, but\nthis castle's troops are in high spirits.
+@44.1
+I'm grateful for the thought, but\nthis village's troops are in high spirits.
+@44.2
+I'm grateful for the thought, but\nthis fort's troops are in high spirits.
+@45
+Oh, you'll give them a gift?\nEveryone will be glad.\nSo, how much?
+@46
+Oh, thank you.\nI'll hand it out to everyone at once.
+@47
+{02}{15}e's morale rose by {02}od.
+@48
+Hold a draft here?
+@49
+It will take about 20 days to see results.\nIs that all right?
+@50
+Now, how many laborers will gather?
+@51
+Hey, hey, did you hear?\nThis call-up pays a fortune!
+@51.1
+Hey, hey, did you hear?\nThis call-up pays pretty well!
+@51.2
+Hey, hey, did you hear?\nThis call-up is paying\nrather poorly, it seems.
+@51.3
+Heh, did you hear?\nThis call-up is nearly free labor.
+@52
+The contractor is the great {02}{02}g, right?\nThat settles it.\nI'll follow them to the ends of the earth!
+@52.1
+The contractor is {02}{02}g?\nI've heard of them.\nFollowing them might change my luck.
+@52.2
+The contractor is {02}{02}g?\nI may have heard of them, or not...\nI'm a bit uneasy.
+@52.3
+The contractor is... who's {02}{02}g?\nI'm not trusting my life to someone like that.
+@53
+Not a single soldier gathered.\nThe stability of {02}{15}e's people\ndid not change.
+@53.1
+Not a single soldier gathered.\nThe stability of {02}{15}e's people fell by {02}pd.
+@53.2
+{02}od soldiers gathered.\nThe stability of {02}{15}e's people\ndid not change.
+@53.3
+{02}od soldiers gathered.\nThe stability of {02}{15}e's people fell by {02}pd.
+@54
+Hm, quite a good result.
+@54.1
+Hmm...\nI can't call that a good result...
+@54.2
+Yes, quite a good result.
+@54.3
+Hmm...\nI can't call that a good result...
+@55
+Good, it's up to the maximum.
+@55.1
+Yes, it's up to the maximum.
+@56
+Good, a splendid result.
+@56.1
+Good, this will please our lord.
+@57
+Hm, about what I expected.
+@57.1
+Good, I'll report to our lord at once.
+@58
+Yes, a splendid result.
+@58.1
+Yes, this will please our lord.
+@59
+Yes, that's not bad, is it?
+@59.1
+Yes, I'll report to our lord at once.
+@60
+Ahem.\nListen, everyone.\nI bring an offer of service with {02}{01}{EC}.
+@60.1
+Ahem.\nEveryone, please listen.\nI bring an offer of service with {02}{01}{EC}.
+@61
+What's this, what's this?
+@62
+...And that's how it is!\nNow is the time to put your strength\nto use for {02}{01}{EC}.
+@62.1
+...And that's how it is!\nNow is the time to put your strength\nto use for {02}{01}{EC}.
+@62.2
+...And that's how it is.\nW-would you put your strength\nto use for {02}{01}{EC}...?
+@62.3
+...And that's how it is.\nW-would you put your strength\nto use for {02}{01}{EC}...?
+@63
+I see!\nEverything the general says is right.\nWe'll follow the general!
+@63.1
+Hmm...\nI kind of get it and kind of don't.\nSorry, but I'll pass this time.
+@64
+Hey, hey, everybody gather round!\nThe one making a speech over there\nis the great {02}{01}g, they say!
+@64.1
+Hey, come and see!\nThe one making a speech over there\nis the great {02}{01}g, they say!
+@64.2
+The one making a speech over there...\n{02}{01}g?\nHmm, let's go and listen.
+@64.3
+The one making a speech over there...\n{02}{01}g? Never heard of them.\nForget it, leave them be.
+@65
+I see!\nEverything the general says is right!
+@65.1
+I see.\nThe general makes sense.
+@65.2
+Hmm...\nI kind of get it and kind of don't.
+@65.3
+An unschooled lot like us\ncan't make head or tail of it...
+@66
+I bring an offer of service with {02}{01}{EC}.\nWill anyone step forward?
+@66.1
+I bring an offer of service with {02}{01}{EC}.\nWill anyone step forward?
+@67
+We too have some skill at arms.\nWould you show us\nLord {02}{02}g's swordsmanship?
+@68
+Very well.\nCome at me.
+@68.1
+Very well.\nCome at me.
+@69
+W-we yield.\nWe'll follow you.
+@70
+Hmm, only this much?\nI'm a bit worried about\nentrusting myself to you.
+@71
+You'll do training?\nIt will take about 20 days to see results.\nIs that all right?
+@72
+{01}C{A1}{1B}\n{01}C{A2}{1B}\nHold a draft in this town?
+@73
+The town is huge, so I think\nmany people can be drafted.\n
+@73.1
+The town is large, so I think\nmany people can be drafted.\n
+@73.2
+The town is mid-sized, so I think\na fair number can be drafted.\n
+@73.3
+The town is small, so I think\nfew people can be drafted.\n
+@74
+The troops of this province are excellent,\nso many should have ninja aptitude.\n
+@74.1
+The troops of this province are good,\nso many should have ninja aptitude.\n
+@74.2
+The troops of this province are average,\nso some should have ninja aptitude.\n
+@74.3
+The troops of this province are poor,\nso few should have ninja aptitude.\n
+@75
+It will take about 20 days to see results.\nIs that all right?
+@76
+First we gather people,\nthen we weed them out.
+@76.1
+First we must gather people,\nthen we'll weed them out.
+@77
+Yes, sir.
+@78
+{02}od people can be drafted from this town.
+@79
+Of them, those with ninja aptitude...\nnumber about {02}od.\n{01}C{A8}{1B}Right, lead them all to {02}{15}e.\nThat ends the mission.
+@79.1
+Of them, those with ninja aptitude...\nnumber about {02}od.\n{01}C{A8}{1B}Right, let's lead them all to {02}{15}e.\nThat ends the mission.
+@80
+Good, the best possible result.\n
+@80.1
+Good, quite a good result.\n
+@80.2
+Hmm, I can't call that a good result.\n
+@80.3
+Hm, about what I expected.\n
+@80.4
+Yes, the best possible result.\n
+@80.5
+Yes, quite a good result.\n
+@80.6
+Hmm, I can't call that a good result.\n
+@80.7
+Well, about what I expected.\n
+@81
+{02}{15}e's troops did not increase at all.
+@81.1
+{02}{15}e's troops increased by {02}od.
+@82
+A draft needs 3000 kan.\nYou can't hold one.
+@83
+This castle's troops are already at maximum.\nNo more can be drafted.
+@85
+I won't let {01}C{19}{00} cross\nthe threshold of {02}yd.\nGet out!
+@85.1
+I won't let an ill-mannered lout cross\nthe threshold of {02}yd.\nPlease leave!
+@86
+I won't let {01}C{19}{00} cross\nthe threshold of {02}yd.\nGet out!
+@88
+Well, well, Master.\nWelcome.
+@89
+Ah, {01}C1{00}.\nI'm glad you came by.
+@89.1
+Well, well, Master.\nWelcome.
+@90
+Oh, Master.\nWelcome.
+@92
+Master,\nwhat brings you today?
+@93
+Ah, {01}C1{00}...\nWhat brings the master here in person?
+@93.1
+Master, what brings you today?
+@94
+Master,\nwhat brings you today?
+@96
+Did you know?\nThe {01}C>{00} of {02}yd\nis in {02}{15}e, I hear.
+@96.1
+The {01}C>{00} of {02}yd\nis in {02}{15}e, they say.
+@97
+The {01}C>{00} of {02}yd\nis in {02}{15}e, they say.
+@99
+Did you know?\n{01}C>{00}\nuses a technique called {02}yd, I hear.
+@99.1
+{01}C>{00}\nuses a technique called {02}yd, they say.
+@100
+{01}C>{00}\nuses a technique called {02}yd, they say.
+@102
+Did you know?\n{01}C>{00}\nis a master of {02}yd, I hear.
+@102.1
+{01}C>{00}\nis a master of {02}yd, I hear.
+@103
+{01}C>{00}\nis a master of {02}yd, I hear.
+@105
+Did you know? {01}C>{00}\nowns a gem called {02}3g, I hear.\nI'd like to see it someday.
+@105.1
+{01}C>{00}\nowns a gem called {02}3g, they say.\nI'd love to see it someday.
+@106
+{01}C>{00}\nowns a gem called {02}3g, they say.\nI'd like to see it someday.
+@109
+Have you been to {02}=e?\nIt's ideal for a mountain retreat.
+@109.1
+Meditating in the sacred mountains,\nthey say, one may learn the arts of\nlate sword masters, or new ones.
+@109.2
+Lately in {02}=e, night after night,\na monster that looks just like you appears...\nHaha... perhaps a {01}C{C8}{1B} in disguise.
+@110
+Have you been to {02}=e?\nIt's ideal for a mountain retreat.
+@110.1
+Meditating in the sacred mountains,\none may learn the arts of\nlate sword masters, or new ones.
+@110.2
+Lately in {02}=e, night after night,\na spirit that looks just like you appears...\nHeh... perhaps a {01}C{C8}{1B} in disguise.
+@111
+Have you been to {02}=e?\nThey say it's ideal for a mountain retreat.
+@111.1
+Meditating in the sacred mountains,\nthey say, one may learn the arts of\nlate sword masters, or new ones.
+@111.2
+Lately in {02}=e, night after night,\na monster that looks just like you appears...\nUfufu... is a {01}C{C8}{1B} in disguise?
+@112
+fox
+@112.1
+tanuki
+@112.2
+badger
+@112.3
+weasel
+@115
+Hone your skill with guns and bows,\nand they'll serve you in battle too.
+@115.1
+To hone your skill with kusarigama and kunai,\ngo to a ninja village.
+@115.2
+Guns are powerful weapons,\nbut they can't fire rapidly...\nA secret art can make up for that, though...
+@115.3
+Between you and me,\nsome people coat their weapons in poison...\nBe careful.
+@116
+Hone your skill with guns and bows,\nand they'll serve you in battle too.
+@116.1
+To hone your skill with kusarigama and kunai,\nI'd suggest a ninja village.
+@116.2
+Guns are powerful weapons,\nbut they can't fire rapidly...\nA secret art can make up for that...
+@116.3
+Between you and me,\nI hear some coat their weapons in poison...\nPlease be careful.
+@117
+Hone your skill with guns and bows,\nand they'll serve you in battle too.
+@117.1
+If you want to hone kusarigama and kunai,\ntry going to a ninja village.
+@117.2
+Guns are powerful weapons,\nbut they can't fire rapidly.\nBut with a secret art...
+@117.3
+Just between us,\nsome people coat their weapons in poison...\nDo be careful.
+@120
+When you get a new weapon,\ndon't forget to [Equip] it.\nJust carrying it won't let you use it.
+@121
+When you get a new weapon,\ndon't forget to [Equip] it.\nJust carrying it won't let you use it.
+@122
+When you get a new weapon,\ndon't forget to [Equip] it.\nJust carrying it won't let you use it.
+@124
+Master the smith's craft, and you\nmight make weapons better\nthan ready-made ones.
+@124.1
+Master the smith's craft, and you\nmight make weapons better\nthan ready-made ones.
+@125
+Master the smith's craft, and you\nmight make weapons better\nthan ready-made ones.
+@128
+Sometimes a technique that hinders\nthe enemy beats a killing blow.\nUse them wisely.
+@129
+Sometimes a technique that hinders\nthe enemy beats a killing blow.\nUse them wisely.
+@130
+Sometimes a technique that hinders\nthe enemy beats a killing blow.\nPlease use them wisely.
+@133
+Even a hired bodyguard may be gone\nin a few days.\n\nIf they seem unmotivated,\nhire another in a nearby town.
+@133.1
+A bodyguard only protects you\nwhen you're out walking.\nThey won't follow you into towns or castles.
+@133.2
+They say the bigger the town, the stronger\nthe bodyguards... but the fee goes up too.
+@133.3
+If your bodyguard is too weak, don't hesitate to dismiss them and hire another. The fee you paid won't come back, but if something happens you'll lose far more... Safety bought with money is cheap.
+@133.4
+If your bodyguard seems unreliable, just dismiss them and hire someone else. The fee you paid is a waste, but if you die to save a little, you lose everything. Money can't buy life...
+@134
+Even a hired bodyguard may be gone\nin a few days.\n\nIf they seem unmotivated,\nbetter hire another in a nearby town.
+@134.1
+A bodyguard only protects you\nwhen you're out walking.\nThey won't follow you into towns or castles.
+@134.2
+The bigger the town, the stronger\nthe bodyguards you can hire...\nbut the fee goes up too.
+@134.3
+If your bodyguard is too weak, don't hesitate to dismiss them and hire another. The fee won't come back, but if something happens you're sure to lose far more... Safety bought with money is cheap.
+@134.4
+If your bodyguard seems unreliable, just dismiss them and hire someone else. The fee you paid is a waste, but if you die to save a little, you lose everything. Life can't be bought with money...
+@135
+Even a hired bodyguard may be gone\nin a few days.\n\nIf they seem unmotivated,\nI'd hire another in a nearby town.
+@135.1
+A bodyguard only protects you\nwhen you're out walking...\nThey won't follow you into towns or castles.
+@135.2
+I hear the bigger the town, the stronger\nthe bodyguards... but the fee goes up too.
+@135.3
+If your bodyguard is too weak, don't hesitate to dismiss them and hire another. The fee won't come back, but if something happens you're sure to lose more... Safety bought with money is cheap, I think.
+@135.4
+If your bodyguard seems unreliable, just dismiss them and hire someone else. The fee is a waste, but die to save a little and you lose everything... Life can't be bought with money.
+@138
+Gather instructors skilled in arms\nand you'll get more students.\nCollect people with real skill.
+@138.1
+An instructor's pay is fixed,\nso it pays to hire the strongest you can.
+@138.2
+Take a daimyo as a student and you might\nbecome his military instructor.\nMaking a name with the sword is one way to a post...
+@139
+Gather instructors skilled in arms\nand you'll get more students.\nPlease collect people with real skill.
+@139.1
+An instructor's pay is fixed,\nso it pays to hire the strongest.
+@139.2
+Take a daimyo as a student and you might\nbecome his military instructor.\nMaking a name with the sword is one way to a post...
+@140
+Gather instructors skilled in arms\nand you'll get more students.\nCollect people with real skill.
+@140.1
+An instructor's pay is fixed,\nso it pays to hire the strongest.
+@140.2
+Take a daimyo as a student and you might\nbecome his military instructor.\nMaking a name with the sword is one way to a post...
+@143
+This dojo is getting cramped.\nIt's about time to [Expand].
+@143.1
+Even if you [Expand] the dojo,\nit can't be done in a day.\nIt takes time to finish.
+@143.2
+If you don't [Expand] the dojo,\nyou can't take more students.\nNot when the dojo itself is cramped...
+@144
+This dojo is getting cramped.\nIt's about time to [Expand].
+@144.1
+Even if you [Expand] the dojo,\nit can't be done in a day.\nIt takes time to finish.
+@144.2
+If you don't [Expand] the dojo,\nyou can't take more students.\nNot when the dojo itself is cramped...
+@145
+This dojo is getting cramped.\nIt's about time to [Expand], I think...
+@145.1
+Even if you [Expand] the dojo,\nit can't be done in a day.\nIt takes time to finish.
+@145.2
+If you don't [Expand] the dojo, students\nonly increase so far, they say.\nMore people, but a cramped dojo...
+@148
+Taking students costs no money.\nYou lose nothing by taking more.
+@148.1
+Turn down an applicant and they may\nnever apply again.\nRefusing coldly is your loss.
+@149
+Taking students costs no money.\nYou lose nothing by taking more.
+@149.1
+Turn down an applicant and they may\nnever apply again.\nRefusing coldly is your loss.
+@150
+Taking students costs no money.\nYou lose nothing by taking more.
+@150.1
+Turn down an applicant and they may\nnever apply again.\nRefusing coldly is your loss.
+@152
+As a ronin, you can build\na dojo with 1000 kan.
+@152.1
+As a ronin, you can build\na dojo with 1000 kan.
+@153
+As a ronin, you can build\na dojo with 1000 kan.
+@155
+If you hold a license,\nwhy not take students?\nTry a [Bout] with promising people.
+@155.1
+If you hold a license,\nwhy not take students?\nTry a [Bout] with promising people.
+@156
+If you hold a license,\nwhy not take students?\nTry a [Bout] with promising people.
+@158
+If you succeed at challenging a dojo,\nthat school's dojos will be\nclosed to you for a while.
+@158.1
+If you succeed at challenging a dojo,\nthat school's dojos will be\nclosed to you for a while.
+@159
+If you succeed at challenging a dojo,\nthat school's dojos will be\nclosed to you for a while.
+@161
+You can learn techniques from students.\nTaking students to learn\nmight be good.
+@161.1
+You can learn techniques from students.\nTaking students to learn\nmight be good.
+@162
+You can learn techniques from students.\nTaking students to learn\nmight be good.
+@165
+{01}C{19}{00} has no students yet, it seems.\nOnce licensed,\nyou should have at least one...
+@165.1
+{01}C{19}{00} has {02}od students now.
+@165.2
+{01}C{19}{00} has {02}od students now.\nQuite something... I'm impressed.
+@165.3
+{01}C{19}{00} has {02}od students now.\nFew have so many students...\nI'm proud of you.
+@166
+{01}C{19}{00} has no students yet?\nOnce licensed,\nyou should have at least one...
+@166.1
+{01}C{19}{00} has {02}od students now.
+@166.2
+{01}C{19}{00} has {02}od students now.\nQuite something.
+@166.3
+{01}C{19}{00} has {02}od students now.\nFew have so many students.
+@167
+{01}C{19}{00} has no students yet?\nOnce licensed,\nyou should have at least one...
+@167.1
+{01}C{19}{00} has {02}od students now.
+@167.2
+{01}C{19}{00} has {02}od students now.\nQuite something.
+@167.3
+{01}C{19}{00} has {02}od students now.\nFew people have so many students.
+@169
+{01}C{19}{00} is a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
+@169.1
+{01}C{19}{00} is a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
+@170
+{01}C{19}{00} seems to have become a master\nbeyond the bounds of {02}yd...\nWon't you found a new school?
+@172
+{01}C{19}{00}'s teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
+@172.1
+{01}C{19}{00}'s teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
+@173
+{01}C{19}{00}'s teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
+@175
+{01}C{19}{00} doesn't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
+@175.1
+{01}C{19}{00} doesn't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
+@176
+{01}C{19}{00} doesn't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
+@178
+{01}C{19}{00} seems to have mastered every art...\nThere's nothing left to learn from others.\n\nIf you want more, why not shut\nyourself away in the mountains to train?
+@178.1
+{01}C{19}{00} seems to have mastered every art.\nThere's nothing left to learn from others.\nIf you want more, why not shut\nyourself away in the mountains to train?
+@179
+{01}C{19}{00} seems to have mastered every art.\nThere's nothing left to learn from others.\nIf you want more, why not shut\nyourself away in the mountains to train?
+@181
+I sparred with {01}C>{00} the other day\nand she scored a point on me...\nDon't underestimate her for a woman.
+@181.1
+I sparred with {01}C>{00} the other day...\nTheir martial skill isn't much, it seems.
+@181.2
+I sparred with {01}C>{00} the other day\nand she scored a point on me...\nQuite a fighter, for a woman.
+@181.3
+I sparred with {01}C>{00} the other day...\nTheir martial skill isn't much, it seems.
+@182
+{01}C>{00} is quite a fighter.\nAs a fellow woman, I find her reassuring.
+@184
+I challenge you!!\nI bear {02}yd no grudge,\nbut I've come for your sign.
+@184.1
+I challenge you!!\nI bear {02}yd no grudge,\nbut I've come for your sign.
+@185
+I challenge you!!\nI bear {02}yd no grudge,\nbut I've come for your sign.
+@187
+Cough, cough... I'd love a bout,\nbut I'm not feeling well...\nPlease go for today.
+@187.1
+Cough, cough... I'd love to face you,\nbut I'm not feeling well...\nWould you leave for today?
+@188
+Cough... I'd love to face you,\nbut I'm not feeling well.\nPlease leave for today...
+@190
+Ridiculous! In that state you can't\nchallenge a dojo.\nCome back in top form!
+@190.1
+Ridiculous! In that state, challenging\na dojo is beyond you.\nCome back in top form.
+@191
+Ridiculous! In that state you can't\npossibly challenge a dojo.\nCome back in top form.
+@193
+Don't jest!\nI'll let it pass as a joke for now...\n...Surely you're not serious?
+@193.1
+What nonsense.\nI'll let it pass as a joke for now...\n...Surely you're not serious?
+@194
+You're joking, aren't you?\nI'll let it pass for now...\n...Surely you're not serious?
+@196
+Phew...\nStop such dangerous jokes.\nYou took years off my life.
+@196.1
+Phew...\nPlease stop such dangerous jokes.
+@197
+Phew...\nPlease don't make such dangerous jokes.
+@199
+...What folly.\nA reckless fool...\nIf it's a match, state your name properly.
+@199.1
+...What folly.\nA reckless one indeed.\nState your name properly.
+@200
+...Heh.\nA reckless one, aren't you?\nIf you want a match, state your name properly.
+@202
+......{02}yd, {02}{01}g!
+@202.1
+......{02}yd, {02}{01}g...
+@203
+......{02}yd, {02}{01}g...
+@205
+{02}yd, {02}{01}g!\nOn the honor of my school, have at you!
+@205.1
+{02}yd, {02}{01}g!\nOn the honor of my school, I'll face you.
+@206
+{02}yd, {02}{01}g!\nOn the honor of my school, I'll face you.
+@208
+...Hmph, no need for names!
+@208.1
+......There's no need for names.
+@209
+......There's no need for names.
+@211
+How dare you talk like that...\nI'll strike you down!
+@211.1
+Impudent...\nI'll strike you down!
+@212
+Impudent...\nI'll strike you down!
+@214
+I'll let this pass as a bout between schools.\nLearn your lesson, and never cross\nthe threshold of {02}yd again!
+@214.1
+I'll let this pass as a bout between schools.\nLearn your lesson, and never cross\nthe threshold of {02}yd again!
+@215
+I'll let this pass as a bout between schools.\nLearn your lesson; you'll never cross\nthe threshold of {02}yd again!
+@217
+Im... impressive...\nFearsome {02}yd!\nFearsome {02}{02}g!!
+@217.1
+As... expected...\nFearsome {02}yd!\nFearsome {02}{02}g!!
+@218
+Ugh...\nIt seems I underestimated {02}yd...
+@220
+Then I'll take the sign!
+@220.1
+Then I'll take the sign.
+@221
+Then I'll take the sign.
+@223
+N-not that, please!\nI know, would {02}o{C8}\npersuade you to let it go?
+@223.1
+N-not that, please...\nI know, would {02}o{C8}\npersuade you to let it go?
+@224
+N-not that, please.\nWould you let it go for {02}o{C8}?
+@226
+...Hmph, {01}C;{1C}!\nAs agreed, I'll take the sign!
+@226.1
+{01}C;{1C}.\nAs agreed, I'll take the sign!
+@227
+No arguments
+@227.1
+I won't hear it
+@228
+I won't hear it.\nAs agreed, I'll take the sign.
+@228.1
+No arguments.\nAs agreed, I'll take the sign.
+@230
+Ugh... {01}C{0E}{00} am a swordsman too.\nHere, take it!
+@230.1
+Ugh... {01}C{0E}{00} am a swordsman too...\nIt can't be helped, take it!
+@231
+Ugh... {01}C{0E}{00} am a swordsman too.\nIt can't be helped, take it!
+@233
+Hmph, very well.\nBut you expect me to settle\nfor this pittance...?
+@233.1
+Very well.\nBut this isn't enough...
+@234
+All right.\nBut this isn't enough...
+@236
+Ugh... taking advantage of my weakness...\nHere, take it!
+@236.1
+Ugh... taking advantage of my weakness...\nFine, take it!
+@237
+Ugh... taking advantage of my weakness...\nAll right, take it!
+@238
+Obtained {02}o{C8}.
+@240
+......I care nothing for pride\nmoney can buy!!\nThis is what I think of your sign!
+@240.1
+......I care nothing for pride\nmoney can buy.\nThis is what I think of your sign!
+@241
+......I care nothing for pride money can buy.\nThis is what I'll do with your sign!
+@242
+The {02}yd sign was split in two.
+@244
+Such an insult to my dojo's pride...\nHave {01}C{19}{00} no mercy?!
+@244.1
+How cruel... the dojo's pride...\nDoes {01}C{19}{00} have\nno mercy at all?!
+@245
+How cruel... the dojo's pride...\nDoes {01}C{19}{00} have no mercy?!
+@246
+Defeated {02}yd!
+@248
+...Are you satisfied now?\nNever cross the threshold\nof our school's dojos again!
+@248.1
+...Surely you're satisfied now.\nPlease never cross the threshold\nof our school's dojos again.
+@249
+...Surely you're satisfied now.\nPlease never cross the threshold\nof our school's dojos again.
+@251
+You'll train with me?\nI'm glad of the thought,\nbut you can't train in that state.
+@251.1
+You'll train with me?\nI'm glad of the thought, but\nyou can't train in that state.
+@252
+You'll train with me?\nI'm glad of the thought, but\nyou can't train in that condition, surely?
+@253
+I'll train you for a few days.
+@253.1
+I'll train you for a few days.
+@253.2
+I'll train you for a few days.
+@254
+{01}C{0E}{00}, head of the {02}yd school,\nwill train you.\nHow about it?
+@254.1
+{01}C{0E}{00}, head of the {02}yd school,\nwill train you.\nHow about it?
+@254.2
+{01}C{0E}{00}, head of the {02}yd school,\nwill train you.\nHow about it?
+@254.3
+{01}C{0E}{00}, licensed in {02}yd,\nwill train you.\nHow about it?
+@254.4
+{01}C{0E}{00}, licensed in {02}yd,\nwill train you.\nHow about it?
+@254.5
+{01}C{0E}{00}, licensed in {02}yd,\nwill train you.\nHow about it?
+@256
+I see...\nAnother time, then.
+@256.1
+I see...\nAnother time, then.
+@257
+I see...\nAnother time, then.
+@259
+Thanks...\nThen I'll take you on.
+@259.1
+Thank you.\nThen I'll be in your hands.
+@260
+Thank you!\nI'll be in your hands.
+@262
+Hey now... don't go easy.\nIf the master looks like this,\nthe dojo's reputation will plummet.
+@262.1
+Oh dear... what happened?\nIf the master looks like this,\nthe dojo's reputation will plummet.
+@263
+Oh my... what happened?\nIf the master is in such a state,\nthe dojo's reputation will fall.
+@265
+Hey now, what's wrong today?\nThis isn't training at all.\nSorry, but I won't pay the fee.
+@265.1
+Haha, what happened today?\nThis isn't training at all.\nSorry, but I can't pay the fee.
+@266
+Ufufu, what happened today?\nThis isn't training at all.\nSorry, but I can't pay the fee either.
+@268
+Oh, splendid skill, as expected of a master.\nThe dojo's reputation will rise even more.
+@268.1
+Master, that was splendid.\nThe dojo's reputation will rise even more.
+@269
+Master, that was splendid.\nThe dojo's reputation will rise even more.
+@271
+Oh, that was splendid skill.\nHere's the {02}o{C8} training fee.\nIt's a trifle, but take it.
+@271.1
+Splendid!\nHere's the {02}o{C8} training fee.\nIt's a trifle, but please accept it.
+@272
+That was splendid.\nThen, the {02}o{C8} training fee...\nIt's a trifle, but please accept it.
+@274
+I look forward to next time.
+@274.1
+I look forward to next time.
+@275
+I look forward to next time.
+@277
+{01}C1{00}, expanding needs\n1000 kan or more.\nHow much will you expand?
+@277.1
+Master, expanding needs 1000 kan or more.\nHow much shall we expand?
+@278
+Master, expanding needs\n1000 kan or more.\nHow much shall we expand?
+@279
+Spend {02}o{C8}?
+@281
+Hm, you'll stop?
+@281.1
+You'll stop?
+@282
+You'll stop?
+@284
+I'll arrange it at once.\nIt will take a while to finish.
+@284.1
+I'll arrange it at once.\nIt will take a while to finish.
+@285
+I'll arrange it at once.\nIt will take a while to finish.
+@287
+Really close the dojo?\nThe students and instructors will leave.\nIs that all right?
+@287.1
+Really close the dojo?\nThe students and instructors will leave.\nIs that all right?
+@288
+Really close the dojo?\nThe students and instructors will leave.\nIs that all right?
+@290
+...That's a wise decision.
+@290.1
+...A wise decision, I believe.
+@291
+...A wise decision, I think.
+@293
+Understood.\nIt's a shame, but\nit's {01}C{19}{00}'s decision as master...
+@293.1
+Understood.\nIt's a shame, but\nthe master must have reasons...
+@294
+Understood.\nIt's a shame, but\nthe master must have reasons...
+@295
+Closed the dojo in {02}{15}e.
+@297
+The students are gone, but now it's\nthe easy ronin life again... you can\n[Move] and [Serve] as well.\nCall me if you ever open a dojo again.
+@297.1
+The students are gone, but now it's\nthe easy ronin life again... you can\n[Move] and [Serve] freely.\nCall me if you ever open a dojo again.
+@298
+The students are gone, but now it's\nthe easy ronin life again... you can\n[Move] and [Serve] as well.\nPlease call me if you open a dojo again.
+@299
+Ah, we've been waiting. Our dojo has\nlost four straight, up to the vice-captain...\n{01}C{19}{00} is our last hope.
+@300
+I beg you!\nAt least strike one blow for us!
+@301
+Phew... we avoided five straight losses.\nNext is the second bout.
+@302
+Oh, two in a row!\nIt's only getting started.\nNext is the middle bout.
+@303
+What, three in a row! Well done!\nNow to show your skill... next is the vice-captain bout.
+@304
+Four in a row, splendid!\nAt last, the captain's bout.\nThe very last one!
+@305
+I'm glad I asked {01}C{19}{00}.\nTo beat five people alone...\nGet your reward from the tavern mistress.
+@306
+What, not a single win?\nYour training is clearly lacking.
+@307
+Too bad...\nWell, one win is something, I suppose.\nGet your reward from the tavern mistress.
+@308
+So this is as far as you go...\nYou fought well.\nGet your reward from the tavern mistress.
+@309
+So close!\nJust one step from the captain's bout...\nGet your reward from the tavern mistress.
+@310
+Too bad!! Just one step short...\nBut getting this far, there's no regret.\nGet your reward from the tavern mistress.
+@311
+A fight with no lives at stake is child's play.\nFive bouts one at a time is a bother.\nI'll take on all five at once.
+@311.1
+A fight with no lives at stake is child's play...\nFive bouts one at a time is a bother.\nI'll take on all five at once.
+@312
+A-are you mad?\nThat's reckless!
+@313
+So it came to this after all...\nThanks to you, we're a laughingstock.\nKnow your limits...
+@314
+...Am I dreaming? To beat five\nall alone, like a {01}C{93}{1C}...\nGet your reward from the tavern mistress.
+@315
+war god
+@315.1
+asura
+@315.2
+rakshasa
+@315.3
+demon
+@315.4
+demon yaksha
+@316
+What, wandering around\na place like this...\n\nThis is a dojo for learning arms.\nIf you want to learn to use a blade,\ngo learn the kitchen knife in the kitchen.\nOops, no reason to stay. Farewell.
+@316.1
+My my, what are you doing\nin a place like this?\n\nThis is a dojo for learning arms.\nIf you want to learn to use a blade,\nwhy not learn the kitchen knife in the kitchen?\nWell, no reason to stay. Bye now~
+@318
+What! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
+@318.1
+What! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
+@319
+What?! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
+@321
+...Very well.\nAs of now, {01}C{19}{00} is\nexpelled from our {02}yd.\n...Now I have no reason\nto refuse {01}C{19}{00}'s challenge.\nIf it's a match, state your name properly!
+@321.1
+...Understood.\nAs of now, {01}C{19}{00} is\nexpelled from our {02}yd.\n...Now there's no reason\nto refuse {01}C{19}{00}'s challenge.\nIf it's a match, state your name properly!
+@322
+...Understood.\nAs of this moment, {01}C{19}{00} is\nexpelled from our {02}yd.\n...Now there's no reason\nto refuse {01}C{19}{00}'s challenge.\nIf you want a match, state your name properly!
+@324
+I'm grateful for the offer, but\n{01}C{19}{00} seems to have a council.\nBetter hold off this time.
+@324.1
+I'm glad of the offer, but\n{01}C{19}{00} seems to have a council.\nI'll ask another time.
+@325
+I'm grateful for the offer, but\nhaven't you been called up?\nBetter hold off this time.
+@325.1
+I'm glad of the offer, but\nhaven't you been called up?\nI'll ask another time.
+@326
+I'm glad of the offer, but\nhaven't you been called up?\nI'll ask another time.
+@326.1
+I'm glad of the offer, but\n{01}C{19}{00} seems to have a council.\nI'll ask another time.
+@328
+Oh, the students will be glad.\nI'd like you to look after them\nfor {02}od days. All right?
+@328.1
+Oh! The students will be glad.\nI'd ask you for {02}od days.\nIs that all right?
+@329
+Oh! The students will be glad.\nI'd ask you for {02}od days.\nIs that all right?
+@330
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}yd.\nI seek a lesson from this dojo's master.\nFace me in a fair match!
+@330.1
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}yd.\nI want a match with this dojo's master.\nFace me in a fair match!
+@330.2
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}yd.\nI seek a lesson from this dojo's master.\nA fair match, a match!
+@331
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof the {02}{01}e house.\nI seek a lesson from this dojo's master.\nFace me in a fair match!
+@331.1
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof the {02}{01}e house.\nI want a match with this dojo's master.\nFace me in a fair match!
+@331.2
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof the {02}{01}e house.\nI seek a lesson from this dojo's master.\nA fair match, a match!
+@331.3
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI seek a lesson from this dojo's master.\nFace me in a fair match!
+@331.4
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI want a match with this dojo's master.\nFace me in a fair match!
+@331.5
+I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI seek a lesson from this dojo's master.\nA fair match, a match!
+@332
+I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from {01}C{0E}{00}.\nFace me in a fair match!
+@332.1
+I've waited long enough, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to settle the score.\nI want a match with {01}C{0E}{00}.\nFace me in a fair match!
+@332.2
+I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from {01}C{0E}{00}.\nA fair match, a match!
+@333
+I'm sorry,\nI can't accept challenges now.\nPlease leave.
+@333.1
+Sorry, I can't accept challenges now.\nGo home.
+@333.2
+I'm sorry,\nbut I'm not accepting challenges now.\nPlease leave.
+@334
+Giving up before you start...\n{02}yd is all cowards...\nNot living up to its name, is it?
+@334.1
+Giving up before you start...\n{02}yd is a pack of cowards.\nI'll spread word it's all reputation, haha.
+@334.2
+Giving up before you start...\nis {02}yd a pack of cowards?\nNot living up to its name, is it?
+@335
+The reputation of {02}yd fell.
+@336
+For the name of {02}yd,\nI cannot back down.\nI accept your challenge.
+@336.1
+For the name of {02}yd,\nI can't back down.\nI accept your challenge.
+@336.2
+For the name of {02}yd,\nI cannot back down.\nI accept your challenge.
+@337
+...You don't look well.\nBut in a match, there's no holding back.\nHave at you!
+@337.1
+...You don't look well.\nBut that's no excuse for losing.\nI won't hold back!
+@337.2
+...You don't look well.\nBut in a match, there's no holding back.\nHave at you!
+@338
+The fame of {02}yd ends today...\nHere I come!
+@338.1
+Today is the last day\n{02}yd lords it over anyone. Here I come!
+@338.2
+The fame of {02}yd ends today...\nHere I come!
+@339
+There's no need for {01}C{0E}{00} to face you.\nOne of my students will take you on.
+@339.1
+There's no need for {01}C{0E}{00} to face you.\nI'll have a student take you on.
+@339.2
+There's no need for {01}C{0E}{00} to face you.\nOne of my students will take you on.
+@340
+There's no one here worth fighting.\nI have no interest in small fry.\n\nI won't discuss this further.\nNow, {01}C1{00},\nface me in a fair match!
+@340.1
+There's no one here worth fighting.\nI have no interest in small fry.\n\nThere's no use talking further.\nNow, {01}C1{00},\nface me in a fair match!
+@340.2
+There's no one here worth fighting.\nI have no interest in small fry.\n\nI won't discuss this further.\nNow, {01}C1{00},\nface me in a fair match!
+@341
+{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to {01}C{0E}{00}.
+@341.1
+{01}C{19}{00} is ill.\nNo need to trouble yourself.\nLeave this to {01}C{0E}{00}.
+@341.2
+{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to {01}C{0E}{00}.
+@342
+Sending someone of lower rank...\nyou underestimate me. Here I come!
+@342.1
+Sending someone of lower rank...\nyou underestimate me. Here I come!
+@342.2
+Sending someone of lower rank...\nyou underestimate me. Here I come!
+@343
+{01}C1{00},\nplease leave this to {01}C{0E}{00}.
+@343.1
+{01}C1{00},\nleave this to {01}C{0E}{00}.
+@343.2
+{01}C1{00},\nplease leave this to {01}C{0E}{00}.
+@344
+The result of the bout...
+@345
+{02}{01}g won.
+@346
+I yield! Such strength in an instructor...\nThe strength of {02}yd is real.\nI apologize for my rudeness.
+@346.1
+I yield! Such strength in an instructor...\n{02}yd is fearsome.\nSorry for my rudeness.
+@346.2
+I yield! Such strength in an instructor...\n{02}yd is beyond measure.\nI apologize for my rudeness.
+@347
+Splendidly repelled {02}{01}g.
+@348
+{02}{01}g lost.
+@349
+If the instructor is this weak...\nso much for {02}yd.\nWord will spread it's all reputation.
+@349.1
+If the instructor is this weak...\nso much for {02}yd.\nI'll spread word it's all reputation, haha!
+@349.2
+If the instructor is this weak...\nso much for {02}yd.\nWord will spread it's all reputation.
+@350
+Say what you like...\nIf {01}C{AE}{01} got serious,\n{01}C{19}{00} would be nothing.
+@350.1
+Hmm, say what you like...\nIf {01}C{AE}{01} got serious,\n{01}C{19}{00} would be nothing.
+@350.2
+Hmm, say what you like...\nIf {01}C{AE}{01} got serious,\n{01}C{19}{00} would be nothing...
+@351
+Ufufu, then next time\nI must have a match with you, {01}C1{00}.
+@351.1
+Hmph, then next time\nface me yourself, {01}C1{00}.
+@351.2
+Heh, then next time\nI must have a match with you, {01}C1{00}.
+@352
+The reputation of {02}yd fell.
+@353
+I yield!\nThe strength of {02}yd is real.\nI apologize for my rudeness.
+@353.1
+I yield!\n{02}yd is fearsome.\nSorry for my rudeness.
+@353.2
+I yield!\n{02}yd is beyond measure.\nI apologize for my rudeness.
+@354
+So {02}yd was only this...\nWord will spread it's all reputation.
+@354.1
+Is this all {02}yd is?\nI'll spread word it's all reputation, haha!
+@354.2
+So {02}yd was only this...\nWord will spread it's all reputation.
+@355
+Oh, the military instructor of {02}{83}{B5}!\nI look forward to knowing you.
+@355.1
+Oh, the military instructor of {02}{83}{B5}!\nGood of you to come.
+@355.2
+Oh, the military instructor of {02}{83}{B5}!\nI look forward to knowing you.
+@356
+Oh, {01}C1{00} of {02}yd.\nI look forward to knowing you.
+@356.1
+Oh, {01}C1{00} of {02}yd!\nGood of you to come.
+@356.2
+Oh, {01}C1{00} of {02}yd!\nI look forward to knowing you.
+@357
+Oh, {01}C1{00} of {02}yd.\nWelcome to my dojo.
+@357.1
+Oh, {01}C1{00} of {02}yd!\nWelcome to my dojo.
+@357.2
+Oh, {01}C1{00} of {02}yd!\nWelcome to {01}C{0E}{00}'s dojo.
+@359
+I'm ashamed before my student, but I'm unwell...\nCough, cough.\nI'll face you once I'm better.
+@359.1
+Cough, cough, I've fallen ill...\nI'm ashamed before my student {01}C{19}{00}.\nI'll face you once I'm better.
+@359.2
+I'm sorry, I'm not feeling well...\nCough, cough.\nI'll face you once I'm better.
+@361
+Cough, cough.\nSorry to my teacher {01}C{19}{00},\nbut I'm unwell; another time, please.
+@361.1
+Cough, cough.\nMaster, I'm unwell right now.\nPlease face me once I'm better.
+@361.2
+Cough, cough.\nMaster, I'm unwell right now.\nPlease face me once I'm better.
+@363
+Sorry to my fellow student {01}C{19}{00},\nbut I'm unwell... cough, cough.\nI'll face you once I'm better.
+@363.1
+I apologize to my fellow student {01}C{19}{00},\nbut I'm unwell... cough, cough.\nI'll face you once I'm better.
+@363.2
+I'm sorry, fellow student,\nbut right now I'm...... cough, cough.\nI'll face you another day.
+@365
+Sorry, I'm unwell.\nCough, cough.\nI'll face you once I'm better.
+@365.1
+I'm sorry, I've fallen ill...\nCough, cough.\nWe'll have our match once I'm better.
+@365.2
+I'm sorry, I've been unwell lately...\nCough, cough.\nWe'll have our match once I'm better.
+@367
+You look quite unwell...\nDon't push yourself.\nA student's health is my health too.
+@367.1
+You look quite unwell...\nYou mustn't push yourself.\nA student's health is my own health too.
+@367.2
+You look quite unwell...\nDon't push yourself.\nA student's health is my health too.
+@369
+You look quite unwell...\n{01}C{19}{00} is my one and only teacher.\nTeach me again when you're well.
+@369.1
+Master, you look quite unwell...\nYou must take care of yourself...\nPlease teach me again when you're well.
+@369.2
+Master, aren't you unwell?\nYou must take care of yourself...\nPlease teach me again when you're well.
+@371
+You look quite unwell...\nIt'd be bad if anything happened.\nTeach me another time, when you're well.
+@371.1
+You look quite unwell...\nIt would be bad if anything happened.\nPlease teach me when you're well.
+@371.2
+You look quite unwell...\nIt would be bad if anything happened.\nPlease teach me when you're well.
+@373
+You look quite unwell...\nIt'd be bad if anything happened.\nTeach me another time, when you're well.
+@373.1
+You look quite unwell...\nIt would be bad if anything happened.\nPlease teach me when you're well.
+@373.2
+You look quite unwell...\nIt would be bad if anything happened.\nPlease teach me when you're well.
+@375
+You look quite unwell...\nIt'd be bad if anything happened.\nTeach me another time, when you're well.
+@375.1
+You look quite unwell...\nIt would be bad if anything happened.\nPlease teach me when you're well.
+@375.2
+You look quite unwell...\nIt would be bad if anything happened.\nPlease teach me when you're well.
+@377
+You don't seem to be in top form...\nEven for a bout, the body comes first.\nKeeping healthy is the secret of {02}yd.
+@377.1
+You don't seem to be in top form...\nEven for a bout, the body comes first.\nThat too is a secret of {02}yd.
+@377.2
+You don't seem to be in top form...\nEven for a bout, the body comes first.\nKeeping healthy is the secret of {02}yd.
+@379
+Master, it's bad for your health.\nEven for a bout, the body comes first.\nGet well first.
+@379.1
+Master, it's bad for your health.\nEven for a bout, the body comes first.\nPlease get well.
+@379.2
+Master, it's bad for your health.\nEven for a bout, the body comes first.\nPlease get well.
+@381
+Don't push yourself.\nKeeping healthy is a teaching of {02}yd.\nGet well first.
+@381.1
+You mustn't push yourself.\nKeeping healthy is a teaching of {02}yd.\nPlease get well first.
+@381.2
+You mustn't push yourself.\nKeeping healthy is a teaching of {02}yd.\nPlease get well.
+@383
+You look quite unwell...\nEven for a bout, the body comes first.\nBetter get well first.
+@383.1
+You look quite unwell...\nEven for a bout, the body comes first.\nYou'd better get well first.
+@383.2
+You look quite unwell...\nEven for a bout, the body comes first.\nYou'd better get well first.
+@385
+Oh, my student {01}C{19}{00} wants\nto teach our {02}yd?
+@385.1
+Oh, my student {01}C{19}{00} will\nteach our {02}yd?
+@385.2
+My, my student wants\nto teach my {02}yd?
+@387
+Oh, my teacher {01}C{19}{00}\nwill personally teach me {02}yd?
+@387.1
+Oh, my master will personally\nteach me {02}yd?
+@387.2
+My, my master will personally\nteach me {02}yd?
+@389
+Oh, my fellow student {01}C{19}{00}\nwants to teach {02}yd?
+@389.1
+Oh, my fellow student {01}C{19}{00}\nwill teach {02}yd?
+@389.2
+My, my fellow student\nwants to teach {02}yd?
+@391
+Oh, you'll personally\nteach me {02}yd?
+@391.1
+Oh, you'll personally\nteach me {02}yd?
+@391.2
+My, you'll personally\nteach me {02}yd?
+@393
+You want to challenge\nyour teacher {01}C{0E}{00} to a bout?
+@393.1
+You wish a bout\nwith your teacher {01}C{0E}{00}?
+@393.2
+You want to challenge\nyour teacher to a bout?
+@395
+You want a bout\nwith your student {01}C{0E}{00}?
+@395.1
+Master, you wish\na bout?
+@395.2
+Master, you wish\na bout?
+@397
+You want to challenge\nyour fellow student {01}C{0E}{00}?
+@397.1
+You wish a bout with\nyour fellow student {01}C{0E}{00}?
+@397.2
+You want to challenge\nyour fellow student?
+@399
+Oho, a bout?\nI don't mind...\nShall we, then?
+@399.1
+Oho, a bout?\nI don't mind...\nShall we, then?
+@399.2
+My, a bout?\nI don't mind...\nShall we, then?
+@401
+I see......\nA pity.
+@401.1
+I see.\nA pity......
+@401.2
+What a pity...
+@403
+I see... if you get the chance, train\nyour student {01}C{0E}{00} again.
+@403.1
+I see... if you get the chance,\nplease train this student again.
+@403.2
+I see... if you get the chance,\nplease train this student again.
+@405
+You'll stop...\n{01}C{19}{00} is the pride of our school.\nNext time, I hope.
+@405.1
+You'll stop?\n{01}C{19}{00} is the pride of our school.\nNext time, I hope.
+@405.2
+You'll stop?\n{01}C{19}{00} is the pride of our school.\nNext time, I hope.
+@407
+You'll stop...\nNext time, please do teach me.
+@407.1
+You'll stop?\nNext time, please do teach me.
+@407.2
+You'll stop?\nNext time, please do teach me.
+@409
+Just because I'm your teacher,\nthere's no need to hold back...
+@409.1
+Just because I'm your teacher,\nthere's no need to hold back...
+@409.2
+My, just because I'm your teacher,\nthere's no need to hold back, you know?
+@411
+I see...\nI wanted a bout\nwith my teacher {01}C{19}{00}...
+@411.1
+I see...\nI wanted a bout\nwith my master...
+@411.2
+I see...\nI wanted a bout\nwith my master...
+@413
+I see... next time, then.
+@413.1
+I see...\nNext time, then.
+@413.2
+Then next time,\nplease.
+@415
+You'll stop?
+@415.1
+You'll stop?
+@415.2
+You'll stop?
+@417
+Heh, that could be fun...\nEven against my student {01}C{19}{00},\nI'll want a real lesson.
+@417.1
+That could be fun...\nEven against my student {01}C{19}{00},\nI'll want a real lesson.
+@417.2
+Ufufu, that could be fun...\nThen give me a real lesson.
+@419
+Master, I'm in your hands.
+@419.1
+Master, I'm in your hands.
+@419.2
+Master, I'm in your hands.
+@421
+I'll strive to come closer\nto my instructor {01}C{19}{00}.
+@421.1
+I'll strive to come closer\nto my instructor {01}C{19}{00}.
+@421.2
+I'll strive to come closer\nto my instructor {01}C{19}{00}.
+@423
+I'll watch closely the skill of\n{02}{01}{EC}'s military instructor.
+@423.1
+I'll watch closely the skill of\n{02}{01}{EC}'s military instructor.
+@423.2
+I'll watch closely the skill of\n{02}{01}{EC}'s military instructor.
+@425
+Good, very well.\nCome at me any time.
+@425.1
+Very well.\nCome at me any time.
+@425.2
+Please,\ncome at me any time.
+@427
+Very well,\nif my teacher {01}C{19}{00} asks.
+@427.1
+Very well,\nif my master asks.
+@427.2
+Very well,\nif my master asks...
+@429
+Good.\nLet's see my fellow student's skill.
+@429.1
+Very well.\nLet me see my fellow student's skill.
+@429.2
+All right.
+@431
+Very well...\nBut I won't hold back.
+@431.1
+Understood...\nBut I won't hold back.
+@431.2
+Understood.\nBut I won't hold back.
+@433
+Sorry, I'm busy.\nCould we make it another day?
+@433.1
+I'm sorry,\nbut I'm busy.\nPlease come another day.
+@433.2
+Sorry, I'm busy too...\nCould we make it another day?
+@435
+Splendid!\nTo be taught by my student...\nThis path is deep. Thank you.
+@435.1
+Splendid!\nTo be taught by my student...\nThis path is deep. Thank you.
+@435.2
+Splendid!\nTo be taught by my student...\nI must thank you.
+@437
+As expected of my master, splendid!\nThank you for the lesson.
+@437.1
+Master, that was splendid.\nThank you for the lesson.
+@437.2
+Master, that was splendid.\nThank you for the lesson.
+@439
+Splendid!\nAs a fellow {02}yd student, I'm impressed.\nThank you for the lesson.
+@439.1
+Splendid!\nAs a fellow {02}yd student, I'm impressed.\nThank you for the lesson.
+@439.2
+Splendid!\nAs a fellow {02}yd student, I'm impressed.\nThank you for the lesson.
+@441
+Splendid!\nThank you for the lesson.
+@441.1
+Splendid!\nThank you for the lesson.
+@441.2
+That was splendid!\nThank you for the lesson.
+@443
+Splendid!\nTo fall behind my student...\nI can't let my guard down.
+@443.1
+Splendid!\nTo fall behind my student...\nI can't let my guard down.
+@443.2
+Splendid!\nTo fall behind my student...\nI can't let my guard down...
+@445
+Splendid!\nI'm no match for my teacher {01}C{19}{00}.
+@445.1
+Splendid!\nI'm no match for my master.
+@445.2
+Splendid!\nI'm no match for my master\nafter all...
+@447
+Splendid!\nYour skill is all the rumors say.
+@447.1
+Splendid!\nYour skill is all the rumors say.
+@447.2
+Splendid!\nYour skill is all the rumors say.
+@449
+Hmm, splendid!\nI'll face you again any time.
+@449.1
+Hmm, splendid!\nI'll face you again any time.
+@449.2
+...That was splendid.\nI'll face you again any time.
+@451
+How exhilarating!\nI scored on the military instructor!\nIs this too the fruit of your teaching?
+@451.1
+How exhilarating!\nTo score on the military instructor...\nThis too is the fruit of your teaching.
+@451.2
+I did it!\nI scored on the military instructor!\nThis too is the fruit of your teaching...
+@453
+Not yet good enough.\nI'll face you again any time.
+@453.1
+Not yet good enough, it seems.\nI'll face you again any time.
+@453.2
+Not yet good enough, it seems.\nI'll face you again any time.
+@455
+Well, I'll take my leave for today.
+@455.1
+Well, I'll take my leave for today.
+@455.2
+Well, I'll be off for today...
+@457
+{01}C1{00},\nas a token of respect and thanks,\nplease accept this {02}3g.
+@457.1
+Master, as a token of respect\nand thanks, please accept this {02}3g.
+@457.2
+Master, as a token of respect\nand thanks, please accept this {02}3g.
+@459
+Oh, thank you.
+@459.1
+Oh, I'm most grateful.
+@459.2
+Oh, how lovely!
+@461
+Received {02}3g.
+@463
+Today I, {02}{01}f, am deeply impressed.\nWill you make {01}C{0E}{00}\n{01}C1{00}'s student?
+@463.1
+I, {02}{01}f, am deeply impressed today.\nWould you make me {01}C1{00}'s student?
+@463.2
+I was deeply impressed today.\nWould you make me\n{01}C1{00}'s student?
+@465
+Very well.\nFrom today I accept you as my student.
+@465.1
+Very well.\nFrom today I accept you as my student.
+@465.2
+All right.\nFrom today I accept you as my student.
+@467
+Thank you.\nFrom now on I'll call you master.
+@467.1
+Thank you.\nFrom now on I'll call you master.
+@467.2
+Thank you!\nFrom now on I'll call you\nmaster.
+@469
+For one like {01}C{19}{00} to become\nmy student...\nYou're most welcome.
+@469.1
+For one like {01}C{19}{00} to become\nmy student...\nYou're most welcome.
+@469.2
+For someone like {01}C{19}{00}\nto become my student...\nOf course, you're very welcome!
+@471
+Thank you.\nFrom now on I'll call you master.
+@471.1
+Thank you.\nFrom now on I'll call you\nmaster.
+@471.2
+Thank you.\nFrom now on I'll call you\nmaster.
+@473
+Sorry, but with {01}C{19}{00}'s current skill\nI can't accept you as a student.
+@473.1
+I'm sorry.\nWith {01}C{19}{00}'s current skill\nI can't accept you as a student.
+@473.2
+I'm sorry, with {01}C{19}{00}'s current skill\nI can't accept you as a student.
+@475
+I see...\nI'll come again once I'm skilled\nenough to be your student.
+@475.1
+I see...\nI'll come again once I'm skilled\nenough to be your student.
+@475.2
+It can't be helped...\nThen I'll come again\nonce I've improved.
+@477
+Sorry, but taking a master like\n{01}C{19}{00} as a student is too much for me.\nI must decline.
+@477.1
+I'm sorry.\nTaking a master like {01}C{19}{00}\nas my student is too great an honor.
+@477.2
+I'm sorry, taking a master like {01}C{19}{00}\nas my student is too great an honor...
+@479
+So modest...\nI'll withdraw for today, but\nI, {02}{01}f, will never give up.
+@479.1
+So modest...\nI'll withdraw for today, but\nI, {02}{01}f, will never give up.
+@479.2
+So modest...\nI'll withdraw for today, but\nI, {02}{01}f, will never give up!
+@481
+Then let's stop here for today.\nI'll take my leave.
+@481.1
+Then let's stop here for today.\nI shall take my leave.
+@481.2
+Then let's stop here for today.\nI'll be going.
+@482
+Talking with {01}C1{00}, I almost\nforget we live in different worlds.
+@482.1
+Talking with {01}C1{00}, I almost\nforget we live in different worlds...
+@482.2
+Talking with {01}C1{00}, I almost\nforget we live in different worlds.
+@483
+If only we walked the same path...
+@483.1
+When I think we might have\nwalked the same path...
+@483.2
+If only we walked the same path...
+@484
+Someday you'll surpass me...\nHeh, I can't help feeling that.
+@484.1
+Someday I'll truly understand\nsomeone like you...\nHeh, I can't help feeling that.
+@484.2
+Someday {01}C1{00} and I will\ntruly understand each other...\nI can't help feeling that.
+@484.3
+Someday {01}C1{00} and I will\ntruly understand each other...\nI can't help feeling that.
+@484.4
+Someday {01}C1{00} and I will\ntruly understand each other...\nI can't help feeling that.
+@485
+You're famous as {02}=e now,\nand I'm proud of you.\nThis is a token of respect and thanks. Take it.
+@485.1
+Meeting you, famed as {02}=e,\nmade my work more worthwhile.\nThis is a token of respect and thanks. Take it.
+@485.2
+Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of {01}C{0E}{00}'s life.\nAccept this token of respect and thanks.
+@485.3
+Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of {01}C{0E}{00}'s life...\nAccept this token of respect and thanks.
+@485.4
+Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of {01}C{0E}{00}'s life.\nAccept this token of respect and thanks.
+@486
+Whoa, you made this?!\nAmazing, that's something...\nThis is from me. Take it.
+@486.1
+Whoa, you made this?!\nTo make a thing like this, amazing...\nThis is from me. Take it.
+@486.2
+What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept {01}C{0E}{00}'s thanks.
+@486.3
+What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept {01}C{0E}{00}'s thanks.
+@486.4
+My, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept {01}C{0E}{00}'s thanks.
+@487
+Say, you sure know a lot.\nIt's like there's nothing\nyou don't know.\nTell you what, let me test\nyour learning a bit......
+@487.1
+Say, you sure know a lot.\nIt's like there's nothing\nyou don't know.\nTell you what, let me test\nyour learning......
+@487.2
+{01}C1{00}'s talk is fascinating...\nAs if there were nothing\n{01}C{19}{00} doesn't know.\nMay I test {01}C{19}{00}'s\nlearning a little?
+@487.3
+{01}C1{00}'s talk is a pleasure...\nIt's as if there were nothing\n{01}C{19}{00} doesn't know.\nMay I test {01}C{19}{00}'s\nlearning a little?
+@487.4
+{01}C1{00}'s talk is a pleasure...\nIt's as if there were nothing\n{01}C{19}{00} doesn't know.\nMay I test {01}C{19}{00}'s\nlearning a little?
+@488
+Which of these daimyo houses has\nthe second-highest power now?
+@489
+Who is the lord of {02}{15}e\nat present?
+@490
+Where is {02}=e?
+@491
+What does "{02}{03}g" like?
+@492
+Which daimyo house does\nour {02}{01}{EC} serve now?
+@493
+Which power is our {02}{01}{EC}\nat war with now?
+@494
+What kind of castle is {02}{15}e?
+@495
+Where is {02}{15}e?
+@496
+Which province is {02}{15}e in?
+@497
+Which province is {02}{15}e in?
+@498
+In which of these towns\nis {02}Ge produced?
+@499
+Where does "{02}{03}g" live?
+@500
+Who is the head of {02}{0B}e?
+@501
+At which village can {02}=e\nbe learned?
+@502
+At which fort can {02}=e\nbe learned?
+@503
+Who among these has\nthe highest rank?
+@504
+Which of these is not\nnext to {02}{15}e?
+@505
+Who currently holds\nthe post of {02}{03}{E9}?
+@506
+Who among these is the oldest?
+@507
+Which of these towns\nis the largest right now?
+@508
+Who is the blood sibling\nof "{02}{03}g"?
+@509
+How is {02}yd read?
+@510
+Yep, that's right!\nYou really are amazing!\nThis is from me. Take it.
+@510.1
+Yep, that's right!\nYou really are amazing!\nThis is from me. Take it.
+@510.2
+Correct!\nAs expected of {01}C1{00}, truly admirable!\nAccept this token of respect and thanks.
+@510.3
+Correct!\nAs expected of {01}C1{00}, truly admirable!\nAccept this token of respect and thanks.
+@510.4
+Correct!\nAs expected of {01}C1{00}, truly amazing!\nAccept this token of respect and thanks.
+@511
+Whoops, sorry, that's wrong...\nSo even you\ndon't know everything......
+@511.1
+Whoops, sorry, that's wrong...\nSo even you\ndon't know everything......
+@511.2
+Sadly, that's wrong...\nTo think even {01}C{19}{00}\ndoesn't know everything......
+@511.3
+Sadly, that's wrong...\nTo think even {01}C{19}{00}\ndoesn't know everything......
+@511.4
+Sadly, that's wrong...\nTo think even {01}C{19}{00}\ndoesn't know everything......
+@512
+But for someone like you\nnot to know even yourself...\nI guess I overrated you a bit.
+@512.1
+But for someone like you\nnot to know even yourself...\nI guess I overrated you a bit.
+@512.2
+But for {01}C{19}{00}\nnot to know even yourself...\nI seem to have overrated you.
+@512.3
+But for {01}C{19}{00}\nnot to know even yourself...\nPerhaps I overrated you...
+@512.4
+But for {01}C{19}{00}\nnot to know even yourself...\nI seem to have overrated you.
+@513
+But for someone like you\nnot to know {02}{02}{EC}...\nI guess I overrated you a bit.
+@513.1
+But for someone like you\nnot to know {02}{02}{EC}...\nI guess I overrated you a bit.
+@513.2
+But for {01}C{19}{00}\nnot to know {02}{02}{EC}...\nI seem to have overrated you.
+@513.3
+But for {01}C{19}{00}\nnot to know {02}{02}{EC}...\nPerhaps I overrated you...
+@513.4
+But for {01}C{19}{00}\nnot to know {02}{02}{EC}...\nPerhaps I overrated you.
+@514
+But you don't even know me...\nIs that all our bond is worth...?\nThat's kind of sad.
+@514.1
+But you don't even know me...\nIs that all our bond is worth...
+@514.2
+But not to know {01}C{0E}{00}...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+@514.3
+But not to know {01}C{0E}{00}...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+@514.4
+But not to know {01}C{0E}{00}...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+@515
+But you don't know\nabout our {02}{01}{EC}...\nIs that all our bond is worth...?
+@515.1
+But you don't know\nabout our {02}{01}{EC}...\nIs that all our bond is worth...?
+@515.2
+But not to know\nabout our {02}{01}{EC}...\nIs that all the bond between us is worth...
+@515.3
+But not to know\nabout our {02}{01}{EC}......\nThat our bond is worth so little...
+@515.4
+But not to know\nabout our {02}{01}{EC}...\nSo that's all our bond is worth...
+@516
+{02}yd is complete!
+@517
+Same-name bonus! {02}{02}g, who shares\na name with Takeda Shingen (Harunobu),\ncan now be chosen as a hero!
+@517.1
+Same-name bonus! Takeda Shingen (Harunobu),\nwho shares the name Harunobu,\ncan now be chosen as a hero!
+@517.2
+Same-name bonus! {02}{02}g, who shares\na name with Ashina Morishige (Satake Yoshihiro),\ncan now be chosen as a hero!
+@517.3
+Same-name bonus! Ashina Morishige (Satake\nYoshihiro), who shares the name Morishige,\ncan now be chosen as a hero!
+@517.4
+Same-name bonus! {02}{02}g, who shares\na name with Sanada Nobushige (Yukimura),\ncan now be chosen as a hero!
+@517.5
+Same-name bonus! Sanada Nobushige (Yukimura),\nwho shares the name Nobushige,\ncan now be chosen as a hero!
+@517.6
+Same-name bonus! {02}{02}g, who shares\na name with Saika Magoichi (Suzuki Shigehide),\ncan now be chosen as a hero!
+@517.7
+Same-name bonus! Suzuki Shigehide (Saika\nMagoichi), who shares the name Shigehide,\ncan now be chosen as a hero!
+@517.8
+Same-name bonus! {02}{02}g, who shares\na name with Kamiizumi Nobutsuna (Hidetsuna),\ncan now be chosen as a hero!
+@517.9
+Same-name bonus! Kamiizumi Nobutsuna (Hidetsuna),\nwho shares the name {02}{01}f,\ncan now be chosen as a hero!
+@517.10
+Same-name bonus! {02}{02}g, who shares\na name with Asano Nagamasa (Nagayoshi),\ncan now be chosen as a hero!
+@517.11
+Same-name bonus! Asano Nagamasa (Nagayoshi),\nwho shares the name Nagamasa,\ncan now be chosen as a hero!
+@517.12
+Same-name bonus! {02}{02}g, who shares\na name with Hayashizaki Jinsuke (Shigenobu),\ncan now be chosen as a hero!
+@517.13
+Same-name bonus! Hayashizaki Jinsuke (Shigenobu),\nwho shares the name Shigenobu,\ncan now be chosen as a hero!
+@517.14
+Same-name bonus! {02}{02}g, who shares\na name with Miyoshi Masakatsu (Isa),\ncan now be chosen as a hero!
+@517.15
+Same-name bonus! Miyoshi Masakatsu (Isa),\nwho shares the name Masakatsu,\ncan now be chosen as a hero!
+@517.16
+Same-name bonus! Rokkaku Jotei (Yoshikata),\nwho shares a name with Miyoshi Jikkyu (Yoshikata),\ncan now be chosen as a hero!
+@517.17
+Same-name bonus! Miyoshi Jikkyu (Yoshikata),\nwho shares a name with Rokkaku Jotei (Yoshikata),\ncan now be chosen as a hero!
+@517.18
+Same-name bonus! {02}{02}g,\nwho shares the name {02}{01}f,\ncan now be chosen as a hero!
+@518
+...{01}C1{00} is always so helpful to me.\nI'd like to repay you somehow...
+@518.1
+...{01}C1{00} is always\nso helpful to me.\nI'd like to repay you somehow...
+@518.2
+...{01}C1{00} is\nalways so helpful to me.\nI'd like to repay you somehow...
+@519
+I know!\nI'll make {02}{02}{EC} a purveyor\nto our {02}{01}{EC}. How about it?
+@519.1
+I know!\nShall I make {02}{02}{EC} a purveyor\nto our {02}{01}{EC}?
+@519.2
+Let's see...\nHow about making {02}{02}{EC}\na purveyor to our {02}{01}{EC}?
+@519.3
+I know, on {01}C{0E}{00}'s word I'll\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}. How about it?
+@519.4
+I know, on {01}C{0E}{00}'s word shall I\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}?
+@519.5
+I know, on {01}C{0E}{00}'s word I'll\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}. What do you say?
+@520
+What, you don't want to be a purveyor?! ...Unbelievable.
+@520.1
+What, you don't want to be a purveyor? ...Unbelievable.
+@520.2
+Eh, you won't be a purveyor? ...Do you really mean it?
+@520.3
+What, you don't need my recommendation?! ...Unbelievable.
+@520.4
+What, you don't need my recommendation! ...Unbelievable.
+@520.5
+Eh, you don't want my recommendation?! ...I can't believe it.
+@521
+...{01}C1{00}, I misjudged you.\nThose who spurn kindness\ncan see themselves out.
+@521.1
+...{01}C1{00}, I misjudged you.\nThose who spurn kindness\ncan see themselves out.
+@521.2
+...{01}C1{00}, I misjudged you.\nPeople who spurn kindness\ncan go home.
+@522
+...You'll accept.\nI believed you'd say so.
+@522.1
+...You'll accept.\nI believed you'd say so.
+@522.2
+...You'll accept.\nUfufu, I believed you'd say so.
+@523
+To become a purveyor, you'll pay\na {02}o{C8} dowry to {01}C{AE}{01}.\nAll right?
+@523.1
+To become a purveyor, you'll pay\na {02}o{C8} dowry to {01}C{AE}{01}.\nIs that all right?
+@523.2
+To become a purveyor, please pay\na {02}o{C8} dowry to {01}C{AE}{01}.\nIs that all right?
+@523.3
+For the recommendation, you'll pay\na {02}o{C8} dowry to {01}C{AE}{01}.\nAll right?
+@523.4
+For the recommendation, you'll pay\na {02}o{C8} dowry to {01}C{AE}{01}.\nIs that all right?
+@523.5
+For the recommendation, please pay\na {02}o{C8} dowry to {01}C{AE}{01}.\nIs that all right?
+@524
+...I see, a pity.\nIf you miss this chance,\nwho knows if there'll be another...
+@524.1
+...I see...\nIf you miss this chance,\nwho knows if there'll be another...
+@524.2
+...I see, a pity.\nIf you miss this chance,\nwho knows if there'll be another...
+@525
+Hm? You don't have the money!\nThere's a limit to making a fool of me!\nGet out.
+@525.1
+Hm? You don't have the money!\nThere's a limit to making fools of us!\nPlease leave...
+@525.2
+Oh? You don't have the money!\nThere's a limit to making fools of us!\nPlease go home for today.
+@526
+Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
+@526.1
+Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
+@526.2
+Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
+@526.3
+Received.\nLeave the rest to {01}C{0E}{00}.
+@526.4
+Received.\nPlease leave the rest to {01}C{0E}{00}.
+@526.5
+Received.\nPlease leave the rest to {01}C{0E}{00}.
+@527
+{02}{02}{EC} became a purveyor\nto {02}{01}{EC}.
+@528
+From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I'm counting on you.
+@528.1
+From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I'm counting on you.
+@528.2
+From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I'm counting on you.
+@529
+Oh yes, I'll grant you this permit.
+@529.1
+Oh yes, I'll grant you this permit.
+@529.2
+Oh yes, I'll grant you this permit.
+@530
+Well, well... thank you.\nThen I'll take my leave.
+@530.1
+Thank you very much!\nThen I'll take my leave.
+@530.2
+Thank you very much!\nThen I'll take my leave.
+@531
+...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to {01}C{19}{00}...\n...or so I thought, but I've forgotten who...\nHmm... with some cue,\nI might remember...
+@531.1
+...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to {01}C{19}{00}...\n...or so I thought, but I've forgotten who...\nHmm... with some cue,\nI might remember...
+@531.2
+...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to {01}C{19}{00}...\n...or so I thought, but I've forgotten who...\nUm... with some cue,\nI might remember someone to introduce.
+@532
+...{01}C{19}{00} is always so helpful.\nI'd like to repay you somehow...\n\nI know, I'll do my part too.\n
+@532.1
+...{01}C{19}{00} is always\nso helpful.\nI'd like to repay you somehow...\nI know, I'll do my part too.\n
+@532.2
+...{01}C{19}{00} is always so helpful.\nI'd like to repay you somehow...\n\nI know, I've had a good idea.\n
+@533
+"The Nishi-Mino Triumvirate" is complete.\n"Saito Yoshitatsu" is now available.
+@534
+"The Four Takeda Retainers" is complete.\n"Takeda Shingen" is now available.
+@535
+"The Miyoshi Triumvirate" is complete.\n"Miyoshi Nagayoshi" is now available.
+@536
+"The Three Ukita Elders" is complete.\n"Ukita Naoie" is now available.
+@537
+"The Three Hojo Elders" is complete.\n"Hojo Ujimasa" is now available.
+@538
+"The Five Toyotomi Commissioners" is complete.\n"Toyotomi Hidenaga" is now available.
+@539
+"The Five Toyotomi Regents" is complete.\n"Toyotomi Hideyori" is now available.
+@540
+"The Three Toyotomi Middle Elders" is complete.\n"Toyotomi Hidetsugu" is now available.
+@541
+"The Seven Spears of Shizugatake" is complete.\n"Shibata Katsuie" is now available.
+@542
+"The Four Ryuzoji Guardians" is complete.\n"Ryuzoji Takanobu" is now available.
+@543
+"The Three Otomo Elders" is complete.\n"Otomo Sorin" is now available.
+@544
+"The Three Generals Kai, Akao, Amenomori"\nis complete.\n"Azai Nagamasa" is now available.
+@545
+"The Three Okazaki Commissioners" is complete.\n"Tokugawa Nobuyasu" is now available.
+@546
+"The Three Date Heroes" is complete.\n"Date Masamune" is now available.
+@547
+"The Three Danjo of the Sengoku" is complete.\n"Takeda Yoshinobu" is now available.
+@548
+"The Three Arrows of Mori" is complete.\n"Mori Motonari" is now available.
+@549
+"The Red Regiment Tradition" is complete.\n"Sanada Yukimura", famed for his\nall-red armor, is now available.
+@550
+"The Fuchu Triumvirate" is complete.\n"Sakuma Morimasa" is now available.
+@551
+"The Three Kunishi" is complete.\n"Kunishi Motosuke", of the Kunishi\nfamily, is now available.
+@552
+"The Four Tokugawa Guardians" is complete.\n"Tokugawa Ieyasu" is now available.
