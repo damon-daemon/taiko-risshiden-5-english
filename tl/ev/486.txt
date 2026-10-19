@@ -1,0 +1,306 @@
+@0.4
+So he's coming out to \51E8... Can I win on my own...?
+@0.5
+\#0877 is no ordinary general. Should you not ask \%040C3 for reinforcements...?
+@0.7
+The message says: "Hold off the \#0077 army until \#0205's reinforcements arrive."
+@0.8
+Oh! Just like \%040C3! He's sent reinforcements before I even asked!
+@0.9
+Tell him: "\#0FFE understands everything!"
+@1.0
+My lord, you have returned. And the battle with the Uesugi?
+@1.2
+Is that so... Well, your safe return matters above all.
+@2.0
+That damned Monkey...! Getting ahead of me... I won't forgive him!
+@2.4
+\%04205's voice will likely carry more weight from now on.
+@3.0
+Lord \#07FE! Remnants of the \#1317 clan have stirred up the Ikko rebels and are closing on this castle!
+@3.1
+What?! Damn you... \#1317!
+@3.2
+In any case, prepare for battle! Send word to the commanders in the castle town!
+@5.2
+Have the reinforcements still not arrived?! What is \%04205 doing?! Send a messenger and tell him to hurry!
+@5.5
+Call off the interception! We're going back!
+@7.33
+Intercept \#17F2
+@7.34
+Avenge him at once
+@7.36
+\#07F3, are you there?
+@7.38
+Go back to \41E2 at once and prepare the battle of vengeance! We'll return as soon as we've crushed \#17F2!
+@7.39
+Until then, find out what \#000E is up to.
+@7.41
+The rest of you, we intercept \#17F2!
+@7.47
+No, we'll split the army in two! \%03!
+@7.49
+You will stay here and hold up the \#17F2 army! But if you see you can't win, withdraw.
+@7.50
+\%03! Take me with you to avenge the old lord!
+@7.51
+I can't... If no one holds them up, all of us will be in danger... Bear with it.
+@7.53
+The rest of you, get ready quickly and head for the capital. Don't fall behind!
+@7.55
+Our goal is the head of our sworn enemy, \#000E!
+@8.0
+Ah! \%03!
+@8.1
+\%03! Where is \#000E? We must avenge the old lord without a moment's delay.
+@9.0
+Now then, \#080E... You never thought I'd be back this soon.
+@9.1
+Report! \#000E's forces are struggling everywhere!
+@9.2
+Of the former \#10C3 retainers, only a few followed the \#100E. Most are fighting the \#100E army.
+@9.3
+Naturally... No general of our \#10C3 house would side with a traitor. And where is \#080E's main force?
+@9.4
+He is in the capital now, giving orders to his men.
+@9.5
+\#080E should already hold Tanba and Omi...
+@9.6
+Shall we attack around Sakamoto Castle and lure \#080E out...?
+@9.7
+Report! An envoy has come from Lord \#0205!
+@9.8
+What? An envoy from the Monkey?
+@9.9
+I am \#07F3, sent here on the orders of my master, \#0205.
+@9.10
+What does the Monkey want with me?
+@9.11
+\%03, you know, of course, that the old lord was slain by \#000E at Honnoji.
+@9.12
+Of course. That is why I hurried back from the Hokuriku road, to avenge him.
+@9.13
+Our \#1205 army also heard the news and rushed back from the Chugoku road. We are now in Settsu.
+@9.14
+What, the Monkey has come back too...?!
+@9.15
+My master is now in contact with the senior retainers of the former \#10C3 house, seeking to strike down \#080E.
+@9.16
+And so my master, \#0205, asks that Lord \#117B also join our army...
+@9.17
+Don't talk nonsense! Who do you think I am?!
+@9.19
+I am the foremost of the \#10C3 senior retainers! The Monkey should bow his head and follow me! Has he lost his mind, trying to use me?!
+@9.20
+No, nothing of the kind... We just heard you had marched west, Lord \#117B, and if we struck from east and west, \#080E would...
+@9.21
+Silence! Go back and tell the Monkey this: the one who avenges the old lord is me, the foremost senior retainer!
+@9.23
+The Monkey plans to strike down \#080E and claim the glory for himself again, but as long as I'm here, I won't allow it!
+@9.24
+...Then, no matter what?
+@9.25
+Enough!! Go home!
+@9.26
+...Understood. I hope you will not regret it.
+@9.27
+Hmph!
+@9.28
+My lord, was that wise?
+@9.29
+It doesn't matter... Let the Monkey gather allies; it has nothing to do with me... I am the one who will avenge the old lord!
+@9.31
+I won't let the Monkey steal a march on me...!! Somehow we must lure \#080E east!
+@9.33
+\#017B's army spread false rumours of its movements to the \#000E army in the capital...
+@9.34
+The rumour was that the \#117B army meant to seize Sakamoto and Azuchi.
+@9.35
+Sure enough, alarmed about the east, \#000E decided to march toward Omi...
+@9.36
+\#080E's army has left the capital and is heading north along the west shore of Lake Biwa.
+@9.37
+Good! We go south and strike him at once!
+@9.38
+The decisive battle will be somewhere between Nakasho and Imazu.
+@9.39
+Now is the time to strike the traitor \#000E! Everyone, steel yourselves!
+@10.0
+\%03, the \#1077 army is right in front of us.
+@10.1
+Bah, don't flinch! We'll scatter \#0877 even on our own!
+@11.0
+Allied with the traitor \#000E, trying to attack us amid the chaos... A cowardly Uesugi army is nothing to fear!
+@11.1
+Come on, at them!
+@12.0
+\#000E, are you there?! Treacherous villain, I'll cut you down myself!
+@12.1
+Silence, \#097B! The whole realm knows the wickedness of \#00C3 and his son!
+@12.2
+I merely did justice in Heaven's place!! You are the fool for opposing my justice!
+@12.3
+I've no intention of arguing with you. I'll settle it by force! Come on!
+@13.1
+Yes! Well done!! Ha ha ha, we've beaten \#0877!
+@13.2
+\%0417B! Our army has been destroyed!
+@13.3
+Damn! Fall back for now!
+@13.4
+\%0417B! We somehow held our ground.
+@13.5
+Good! A draw is enough! We'll fall back for now!
+@15.2
+Yes! You may all be tired, but now is the time to endure! We turn back at once and strike down \#080E!
+@16.0
+Wh-why... Why would I lose to the likes of \#080E...
+@16.1
+My lord, flee quickly!
+@16.3
+No, I won't run or hide... Far from avenging the old lord, I lost to \#080E. How could I face him?
+@16.4
+While you live, there will be another chance. Please, just flee!
+@16.6
+My lord!!
+@16.8
+Ugh...!?
+@16.9
+I have slain \#017B!!
+@16.10
+My lord! You bastard! How dare you...! Hyah!
+@16.12
+Gyaaah!!
+@16.13
+My lord! Are you all right? Hold on!
+@16.14
+T-to be slain by a nameless foot soldier... Is this... my end?
+@16.15
+Hold on!
+@16.16
+Old lord... forgive Gonroku. I could not repay your kindness... ending up... like this... urgh!
+@16.18
+\#017B, who served both Oda Nobuhide and \#08C3 and stood foremost among their retainers...
+@16.19
+...lost the battle with \#000E, slayer of his lord, and left this world in misfortune, aged \1009...
+@16.20
+\#000E is nothing! Justice wins after all!
+@16.21
+A great victory for our side!
+@16.22
+No, not yet...! Not until we have \#080E's head! Where did he run to... Find him!
+@16.23
+Yes! With all our strength!
+@16.24
+But of the enemy commander, \#000E, there was no trace at all...
+@16.25
+Find him! Not yet?!
+@16.26
+Well... where on earth did he flee?
+@16.27
+He must have fled back to his base! Did you search the road to Tanba?
+@16.28
+Yes! Already...!
+@16.29
+Winning the battle means nothing if \#080E got away... What if he rebuilds his army and comes back?!
+@16.30
+Meanwhile, \#000E was fleeing near Ogurusu village in Yamashiro, trying to get back to the capital...
+@16.35
+Urgh...!!
+@16.36
+Well done!! Now the glory belongs to our unit!
+@16.38
+The traitor \#000E has been slain by the \#07F3 unit under \#0205!
+@16.39
+And so \#000E, whose name would live on as an infamous traitor, died in despair...
+@16.41
+Report! \#000E has been slain!
+@16.42
+What?! Splendid! And who slew him?
+@16.43
+They say a foot soldier of the \#07F3 unit, under Lord \#0205, killed him!
+@16.44
+What?! The Monkey's men?! How can that be?!
+@16.45
+Yes... It seems the \#1205 army had laid a net around the \#100E in step with our movements...
+@16.46
+They happened to catch \#000E passing Ogurusu village as he fled, and slew him...
+@16.47
+Damn it! It's all meaningless! Once again the Monkey walks off with the greatest glory!
+@16.48
+But at least the old lord's grievance is now...
+@16.49
+I won't hear it!! We return to camp! Gather the troops!
+@16.51
+\#017B had defeated \#080E at Imazu, but the crucial glory was snatched by \#0A05.
+@16.52
+In \#097B's heart grew resentment at failing to avenge his lord, and a grudge against \#0A05...
+@17.0
+The likes of \#07F2 are no match for us! No need to trouble the old lord; we'll scatter them easily!
+@17.1
+\&03! Something terrible has happened!
+@17.2
+What is it?! Don't panic!
+@17.3
+The water supply of \41DF has been cut!
+@17.4
+What?! The water supply?!
+@17.5
+Without water we cannot fight properly... It would hurt morale. Let us keep it from the men.
+@17.6
+...No, that won't do! Bring me every jar of drinking water!
+@17.7
+Wh-what do you intend to do?
+@17.8
+Quiet! Bring them now!
+@17.10
+Phew... Here they are!
+@17.11
+Good! Everyone in the castle, listen well! The enemy has cut off our castle's water!
+@17.13
+But we needn't trouble the old lord over such rotten foes! We'll drive them off with our own strength!
+@17.14
+Here is the last of our drinking water! But don't count on this water...! This is what I'll do with it!!
+@17.15
+Ah!!
+@17.16
+Crash!
+@17.17
+Splash!
+@17.18
+Ahhh... our precious water...! It's all... spilled out.
+@17.19
+Listen! If you think there's water, you won't put your hearts into the fight, and you'll get careless!
+@17.20
+I, \#0FFE, have just smashed the jars!
+@17.21
+Everyone, if you want water, fight and win! Win, take back our water fair and square, then drink your fill!
+@17.23
+Where's your answer?!
+@17.24
+Y-yes, sir!
+@17.25
+Now there's no way for us to live but to fight like mad!
+@17.26
+My lord! We'll win and take back the water, whatever it takes!
+@17.27
+The castle troops' morale has risen.
+@17.28
+Good! Now, let's scatter the enemy!
+@18.0
+Ha ha ha! ...\#10C3! Now do you know the strength of the \#17F1?!
+@18.1
+Grr...! I even smashed the water jars to rouse the men, and it wasn't enough... How bitter.
+@18.2
+Grr! You'll pay for this!
+@18.3
+Lord \#07FE, the enemy seems to have retreated!
+@18.4
+Good! Everyone, you fought well!
+@18.5
+Now, the battle is over! Go and draw as much water as you like!
+@18.7
+And so \#07FE repelled the invasion of \#07F1 and held the castle...
+@18.8
+The tale of how he smashed the water jars to rouse his men would be handed down as "Jar-Smashing Shibata"...

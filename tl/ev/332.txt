@@ -1,0 +1,54 @@
+@0.0
+Lord \#0FFE, Lord \#0098 has already arrived from Bungo and is in the castle.
+@0.1
+Mm, I'll go at once.
+@0.2
+Is everyone here? I am \#0098... from now on, Ouchi Haruhide. From today I will govern the Ouchi house.
+@1.0
+It seems Lord \#0B22 has left the castle!
+@1.1
+Hmm, by the look of it he was trying to flee somewhere. But we can't let him escape.
+@1.2
+Listen, everyone! This battle is not fought to usurp.
+@1.3
+We fight to rid the \#1322 house of its decadence and softness and restore the warrior spirit! Let's go!
+@1.4
+Ohhhh!!
+@2.0
+Victory is ours!
+@2.1
+What of Lord \#0B22?
+@2.2
+It seems he escaped from here.
+@2.3
+Right, after him. When we find where he is, surround him tightly and then...
+@2.4
+And then...
+@2.5
+...urge him to take his own life. Understood?
+@2.8
+They say Lord \#0B22 took his own life at Taineiji.
+@2.10
+Fleeing \#0199's uprising, \#0322 and his party headed for Taineiji.
+@2.14
+Right. We enter \41DE and, as planned, bring Lord \#0098 from Bungo.
+@2.18
+The enemy is closing in! What will you do?
+@2.19
+It has come to this, so there is no help for it. Let us take our lives with dignity.
+@2.20
+How bitter.
+@2.21
+No, not at all.
+@2.22
+Why do you say that?
+@2.23
+Our lord defeated me, a battle-hardened general, and showed he is no weakling after all... Having seen that, I have no regrets.
+@2.24
+Lord \#0999...
+@2.25
+Right, there's no time to dawdle. Let's go!
+@2.27
+And so \#0199's rebellion was crushed, and \#0999 took his own life... aged \1007.
+@2.28
+And so \#0199's rebellion was crushed, and \#07FE took his own life together with \#0999... aged \1007.

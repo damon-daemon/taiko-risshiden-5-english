@@ -1,0 +1,174 @@
+@0.0
+My lord, an urgent summons has come from the old lord at \41DF.
+@0.1
+What, an urgent summons for me?
+@0.2
+He strictly ordered that you bring Lord \#0B48 as well.
+@0.3
+Father, what shall we do?
+@0.4
+I have a bad feeling... \#082D has long found us of the Shingu Clique a nuisance. Does he mean to interrogate us?
+@0.5
+We have nothing to be ashamed of. If there is to be an interrogation, let us proudly prove our innocence.
+@0.6
+If it is only an interrogation, fine... but surely he isn't plotting to do away with father and son at a stroke?
+@0.7
+Surely not... not that far. We are of the same blood.
+@0.8
+In any case... if we don't go, it will only deepen \#082D's suspicion.
+@0.9
+We have no choice but to go...
+@0.10
+Whatever happens, I will protect you, Father!
+@1.0
+It seems some troubling rumours are going around lately...
+@1.2
+That Lord \#0B47 and Lord \#0B48, father and son, treat Lord \#082D with contempt...
+@1.3
+Nonsense...! I have never treated \%0402D with contempt!
+@1.4
+No doubt those who envy the Shingu Clique's power are spreading false rumours.
+@1.5
+We of the Shingu Clique care above all for the \#102D house. Why can't they understand that...
+@1.6
+In the house there are those who never stop saying the Shingu Clique is getting above itself, and that we two are violent men.
+@1.7
+I only hope the old lord does not believe such groundless rumours...
+@1.8
+He won't believe such rumours... \#082D and I are uncle and nephew. Blood is thicker than water.
+@1.9
+But... I also hear that lately the old lord has been trying to keep the Shingu Clique at a distance.
+@1.10
+...The Shingu Clique is the finest force of the \#102D house, entrusted to me by my father, Amago Tsunehisa... \#082D, son of my brother Masahisa, must know that.
+@1.11
+Lord \#0B47, you bring up Lord Tsunehisa at every turn and boast of being closer to him than the old lord is. That has offended him...
+@1.12
+What are you saying! The \#102D stands here as master of the San'in all thanks to my father, Tsunehisa!
+@1.14
+Tell \#082D... if he treats us coldly, the Shingu Clique will act on its own!
+@1.15
+B-but that would mean openly rebelling against the old lord...
+@1.16
+The root of such rumours is that \#082D has forgotten our deeds and finds us a nuisance!
+@1.17
+N-now, now... Rumours are only rumours. Please, let us keep things calm...
+@1.19
+(Or perhaps some spy is spreading\n strange rumours to drive a wedge\n between \#082D and me...)
+@1.20
+(Either way, if \#082D believes such\n rumours so easily, his trust\n in us must be thin...)
+@1.21
+The rift between \#0347's Shingu Clique and the head of the house, \#082D, grew ever deeper...
+@2.0
+Well then... let us go to the castle at once.
+@2.3
+F-Father?! Y-you bastard! How dare you!!
+@2.5
+Gyaah!!
+@2.6
+Urgh... S-so... \#082D was after our lives after all...
+@2.7
+Don't let them escape!!
+@2.8
+Kill them, whatever it takes!!
+@2.9
+Grr... We're surrounded. Father, we must escape somehow!
+@2.10
+Y-yes!
+@2.11
+Gu... urgh! How bitter...
+@2.12
+Gah... F-Father! I couldn't protect you... f-forgive me!
+@2.14
+\#0B48...!
+@2.15
+How bitter... To be done in by the likes of \#082D...
+@2.16
+Father... forgive me. I could not carry on the dream of making the Amago masters of the Chugoku... urgh.
+@2.17
+Finish them!
+@2.21
+In truth, the decline of the \#102D house began with this purge of the Shingu Clique...
+@2.22
+F-Father! Are you hurt?
+@2.23
+I'm all right... But \#082D! Trying to take the lives of father and son... has he lost his mind?!
+@2.24
+What will you do now?
+@2.25
+We no longer owe any loyalty to the main \#102D house! The Shingu Clique will become independent at \41DF!
+@2.26
+Assassins may still be hiding. Let us slip out of this castle carefully and return to \41DF...
+@3.0
+Well, well, that was a nasty experience.
+@3.1
+But \#082D... I won't forgive him! He's no longer my cousin!
+@3.2
+We break away at once and call ourselves the true head of the Amago!
+@3.3
+Yes! We of the Shingu Clique are the ones fit to carry on Lord Amago Tsunehisa's great work!
+@3.4
+My lord! Someone from the \#12D2 clan has come as an envoy.
+@3.5
+What? An envoy from the \#12D2?
+@3.7
+...Very well, I'll see him. Now that \#082D is our enemy, I don't want trouble with the \#12D2.
+@3.8
+I am \#07F1. I have come on behalf of my master, \#02D2.
+@3.9
+And what brings you here? We are busy just now breaking away from the main house.
+@3.10
+Oh, then... you are thinking of breaking away from \#002D?
+@3.11
+I am.
+@3.12
+In truth, our house heard early of the assassins' attack on Lord \#0B47, and I hurried here to see how you were.
+@3.13
+What! How did you know of that...
+@3.14
+We have long been keeping a close eye on \#082D's movements...
+@3.16
+And so... what I wish to say is this: as fellow enemies of \#002D... will you not ally with us?
+@3.17
+What! An alliance! That's impossible!
+@3.18
+Why is that?
+@3.19
+\#0AD2 once served my father, Tsunehisa, then went over to the \#1322 and made us drink a bitter cup!
+@3.20
+That is ancient history... It happens often in this warring age. But please consider the present situation.
+@3.22
+Having suddenly broken from the main \#102D house, do you think the Shingu Clique can manage on its own?
+@3.23
+......It is certainly a difficult position.
+@3.24
+Alliances are made by the weak in the face of a mighty foe... This is no time for hesitation.
+@3.25
+That is certainly true, but...
+@3.26
+Then, with us...
+@3.27
+Wait, let me ask one thing... I hear \#02D2 is a deep schemer, and has a reputation as a man not to be trusted... This quarrel between our Shingu Clique and the main house... surely it is not Lord \#0AD2's plot?
+@3.28
+...Your doubt is understandable, but my master does nothing so cowardly. And it is a fact that \#082D always resented the Shingu Clique.
+@3.30
+For now, you can only trust us.
+@3.31
+...Very well. Then let us make an alliance.
+@3.32
+Gracious words... I can report proudly to my master. Then... farewell!
+@3.33
+Father... Was that really wise?
+@3.35
+Surely this whole affair was \#0AD2's doing...
+@3.36
+Don't say it! In our position, there is no way to survive but to ally with the \#12D2.
+@3.38
+I cannot bow my head to \#082D now. Having broken from the main house, we need a backer.
+@3.40
+(Still, that \#02D2...\n truly a man not to be trusted...)
+@3.41
+\#0347 formally declared independence at \51E6 and joined hands with \#02D2.
+@3.42
+Hearing this, \#002D, who had long distrusted the Shingu Clique, flew into a rage and ordered \#0B47 hunted down.
+@3.43
+And so the Amago, who had reigned as masters of the San'in, were split completely...

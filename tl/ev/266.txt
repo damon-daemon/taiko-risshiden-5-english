@@ -1,0 +1,22 @@
+@3.4
+In \M001, \#0020 defeated \#01D2 in a field battle.
+@3.8
+Hey, everyone! That must be \#0020 there!
+@3.9
+You must be Lord \#0020. Your head is mine!
+@3.11
+In \M001, \#0020 was defeated by \#01D2 in a field battle.
+@3.12
+\#0020 was slain, and the \#1020 clan perished. \#0020 was \1009...
+@3.19
+\#0020 was slain, and \#07FE shared his lord's fate. \#07FE was \1009...
+@3.20
+So the \#1020 clan perished, and the name of the One-Eyed Dragon, \#09D2, spread throughout the realm...
+@6.9
+Against this, the \#115B army rushed to help alongside the \#1020 forces, and they clashed with the \#11D2 army on the west bank of the Abukuma River.
+@6.10
+The \#1020-\#115B allies, superior in numbers, gained the upper hand, and \#09D2 himself was in danger.
+@6.13
+This forced the \#1020 army to retreat too, and they failed to destroy the \#11D2 army.
+@6.20
+What shall we do, \%04020?

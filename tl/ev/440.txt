@@ -1,0 +1,140 @@
+@0.0
+I beg to report. An envoy has come from the \#101F Shogunate.
+@0.1
+I see. Show him in with all courtesy!
+@0.3
+By order of the Shogun!!
+@0.5
+His Highness is greatly pleased that Lord \#0877 has become Kanto deputy, and with his deeds in the Kanto.
+@0.6
+Yes, sir! Words far beyond my worth.
+@0.7
+Therefore His Highness grants Lord \#0877 the character "Teru" from his own name, and bids him henceforth call himself "Terutora".
+@0.8
+I am deeply honoured! I, \#0877, shall strive all the harder for His Highness's sake.
+@0.9
+Good! We are counting on you, Lord \#0877... no, Lord Terutora!
+@0.11
+And so \#0077 received a character from the Shogun \#001F and changed his name to Uesugi Terutora.
+@0.16
+So as not to shame the name \#0877, I must work all the harder to restore the \#101F Shogunate.
+@1.1
+My lord, there is something I must tell you.
+@1.3
+There is a rumour that someone in our clan is secretly plotting rebellion.
+@1.4
+What! Who?!
+@1.5
+I do not know that much... but they say it is a senior retainer.
+@1.7
+Lately there seems to be friction among the retainers...
+@1.8
+Why... Why won't they all unite under me with one heart?
+@1.9
+My lord...?
+@1.10
+I have decided... I will renounce the world. I will shut myself away on Mt. Koya, forget the world, and devote myself to the Buddha's path!
+@1.11
+My lord... surely you jest.
+@1.12
+I do not jest... Let the senior retainers decide the \#1077 clan's affairs among themselves. No one listens to me anyway!
+@1.13
+My lord, do not be rash.
+@1.14
+Enough, let go! I have decided!
+@1.15
+My lord!
+@1.16
+Why do they all ignore me and quarrel? I can bear it no longer... I will take the tonsure!
+@1.17
+Yes... Zen master \#0464, who taught me as a boy, may understand how I feel.
+@2.0
+When I knocked at the gate of Rinsenji as a child, I meant to give my life to the Buddha, yet what a strange life I have led...
+@2.1
+They say a man's life is fifty years, and I am already past forty...
+@2.2
+Until now I have worn myself out in worldly strife, but now I wish to be properly ordained and seek the Way as a disciple of the Buddha.
+@2.3
+And so \#0077 took holy orders, received a character from Ekio Soken, seventh abbot of Rinsenji, and the Buddhist name "Fushikiinden Shinko Kenshin".
+@2.8
+I must not rely on surface knowledge, but humbly trust true wisdom, and live nobly, worthy of the name "Kenshin".
+@3.1
+That cannot be.
+@3.2
+They say there are senior retainers at odds with each other in the clan.
+@3.8
+Hmm... But won't time settle that too?
+@4.1
+Oh, my lord. What brings you here?
+@4.2
+In truth... I have resolved to renounce the world and go to Mt. Koya, and I have come to bid you farewell, master.
+@4.3
+What! Throw away your seat as daimyo and become a monk?! Why? What will become of your retainers and your people?
+@4.4
+In truth... I am fed up with those retainers. No, perhaps it is they who are fed up with me...
+@4.5
+What do you mean?
+@4.6
+...I see. And so you would abandon your castle and your rank as daimyo and live as a recluse.
+@4.7
+I have no regrets now. I will spend the rest of my days watching the \#1077 house from outside.
+@4.8
+Katsu!
+@4.9
+Reverend?!
+@4.10
+Torachiyo! Are you truly the son of Nagao Tamekage?!
+@4.12
+If your retainers do not listen, it is because your own strength falls short... To leave that be and run away is not the way of a samurai.
+@4.14
+The late Lord Tamekage asked me to raise you, and I do not recall raising such a spineless lord.
+@4.15
+...............But I am worn out.
+@4.22
+See... Your selfish behaviour has thrown your retainers into turmoil.
+@4.23
+...Even \#089E, who served me so many years, betrayed me... I truly have nothing left to hold me.
+@4.24
+My lord...
+@4.25
+And so... I wish to go to Koya as soon as I can.
+@4.26
+I understand... If you are that set on it, this foolish monk will not stop you. However...
+@4.27
+However?
+@4.28
+You can hardly go straight to Mt. Koya. First go and pray in seclusion at the Sekiyama Gongen shrine, and calm yourself a while in meditation.
+@4.29
+At the Sekiyama Gongen...?!
+@4.30
+This is my last advice to you as your master.
+@4.31
+I understand. Then I will do so.
+@4.32
+Yes... meditate with a quiet heart. While you are there, a way out is sure to open.
+@4.33
+Eh??
+@4.34
+...W-well, that's my business. Go at once.
+@4.35
+Then by your leave.
+@4.36
+...Is the Reverend plotting something? Does he mean to pull strings within the clan...?
+@4.37
+No, no, it is wrong to doubt my master. I will do as the Zen master says and meditate with a quiet heart.
+@4.38
+The Sekiyama Gongen... It is near \41DF, as I recall.
+@5.4
+Reverend \#1464 told me to meditate and look at myself again, but I no longer have any idea what to do.
+@5.5
+What kind of man am I...
+@5.6
+Born the son of Nagao Tamekage, deputy governor of Echigo... set up as heir by the Echigo lords because my brother Harukage was found wanting...
+@5.7
+I believed I fought for our masters, the Yamanouchi Uesugi, and for the Nagao house...
+@5.8
+Did I never think of my retainers at all...?
+@5.16
+You too, as a commander of the Ueda Nagao, once resisted me to the very end. You must bear me a grudge.
+@5.17
+Not at all!

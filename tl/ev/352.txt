@@ -1,0 +1,1332 @@
+@0.0
+Can a clash with the \#11FA clan no longer be avoided...?
+@0.1
+\#0A06! Why are you so faint-hearted? \#11FA is by rights a vassal of the \#1206! Carry yourself proudly, as a lord should!
+@0.3
+In that case, we must build up our forces for war.
+@0.4
+Counting the daimyo who serve them, the might of the \#11FA clan... is no small thing.
+@0.5
+For our part, I believe we should first take into service the ronin of every province who lost their places in the last war.
+@0.6
+Yes, just so! See to it well.
+@0.9
+They say Lord \#0A06 has begun taking ronin from every province into his service.
+@0.10
+Then war is bound to come sooner or later... We must prepare as well.
+@0.11
+Then war is bound to come sooner or later... We'd better prepare too.
+@0.12
+And so ronin from every province flocked to \#0A06 one after another.
+@0.13
+Some hoped to restore the \#1206 clan... others wanted rewards...
+@0.14
+The ronin had differing motives, yet all were of one mind: to bring down \#11FA.
+@1.0
+My lord! The \#11FA forces appear to be marching on \51E5 Castle!
+@1.2
+Please come to the castle at once.
+@1.3
+Very well, let us hurry.
+@1.6
+I will come at once.
+@1.7
+At word of the \#11FA army's approach, the \#1206 side summoned its retainers.
+@1.8
+They debated holding the castle or sallying forth; most veteran generals argued for a field battle, but...
+@1.9
+in deference to \#0434's wishes, they chose to hold out, trusting in \51E5 Castle's defences and stores.
+@1.10
+Then, gentlemen, we shall hold the castle. Guard your posts firmly, each of you.
+@1.11
+I have a proposal.
+@1.12
+What is it?
+@1.13
+This castle is guarded on three sides by natural defences, but only its southern face is weak.
+@1.14
+Hmm... true enough.
+@1.15
+So I wish to build an outwork on that southern face.
+@1.16
+An outwork...
+@1.17
+Yes. I wish to man it myself and hold off the enemy there.
+@1.18
+I support Lord \#0969's proposal.
+@1.19
+I see... What do you think, my lord?
+@1.20
+Yes, see to it.
+@1.21
+Then let it be so.
+@1.23
+At your command.
+@1.24
+Everyone, protect \#0A06 well.
+@1.25
+Yes, my lady! We will without fail.
+@1.27
+The \#11FA, \#11D2, \#1074 armies and more are taking up positions outside \51E5 Castle one after another!
+@1.28
+The \#11FA army and those of other clans are taking up positions outside \51E5 Castle one after another!
+@1.29
+Good. Gentlemen, stand ready until they make their next move.
+@1.30
+The \#11FA side has surrounded \51E5 Castle with the daimyo in tow!
+@1.31
+What?! So they have finally moved! If only we can drive off the \#11FA army...
+@1.32
+A report! The \#11FA side's new cannon has destroyed part of \51E5 Castle's keep!
+@1.33
+What?! Is Lord \#0A06 safe?
+@1.34
+Lord \#0A06 is unhurt, but several maids and others were killed or wounded. The castle is in uproar.
+@1.35
+I see... If Lord \#0A06 is put in danger, Lady Yodo will not keep quiet...
+@1.36
+What?! So they've finally moved? If only we can drive them off...
+@1.38
+Oh! Is Lord \#0A06 safe?
+@1.40
+I see... If Lord \#0A06 is put in danger, Lady Yodo won't keep quiet...
+@1.46
+That the outer moat of \51E5 Castle's ring defences be filled in, and its towers and such pulled down by the \#11FA side.
+@2.0
+Lord \#0A06, the \#11FA army has arrived!
+@2.1
+Very well, gather everyone.
+@2.3
+Lord \#0FFE, the \#11FA army has arrived! Please come to the Council Chamber.
+@2.4
+I will come at once.
+@2.5
+It seems everyone is here. How do things stand?
+@2.22
+\#0A06! Will you not listen to your mother?
+@2.23
+The castle is no longer a safe place.
+@2.24
+Surely you have not forgotten that cannon in the last war, Mother.
+@2.26
+I will settle this battle outside the castle. I will never again let them fire cannon into this castle.
+@2.30
+A proposal, Lord \#0A06. Besides your main force, I would like to prepare a separate detachment.
+@2.31
+If the detachment charges into the enemy camp and throws it into disorder, their great numbers will work against them and they will fall into chaos.
+@2.32
+Then your main force, Lord \#0A06, pushes forward.
+@2.33
+I too agree with that plan.
+@2.34
+Good. Then I entrust that task to \#0FF4.
+@2.36
+Hmm, dividing our forces is dangerous. We will fight with our army alone.
+@2.39
+Lord Taiko... Please protect \#0A06...
+@2.41
+\#0A06! Will you not listen to your mother?
+@2.46
+\#0FF4, is it?
+@2.52
+...Very well. You shall lead the vanguard.
+@3.5
+What?! Is that true?!
+@3.9
+And who is the heir?
+@3.10
+The heir is Lord \#07F4.
+@3.12
+I see... We still can't let our guard down...
+@3.33
+Now I can rest easy. I have no more regrets...
+@3.34
+Mother...?!
+@3.35
+I shall shave my head... and spend the rest of my life mourning the late Lord Taiko and praying for his soul...
+@3.36
+Then you mean to take vows...? You must not! \#0A06 still needs you, Mother!
+@3.37
+\#0A06... Your mother is truly glad to hear you say so. But it is time you stood on your own.
+@3.39
+Come now, be strong! You are the heir of Lord Taiko!
+@3.41
+Even in the temple, your mother will always be watching over you...
+@3.42
+Mother... I will become a fine warrior who lives up to your hopes...!!
+@3.43
+\#0A06...
+@3.44
+Afterwards \#0434 made the rebuilt Hokoji her retreat, took the name Hokoin, and lived quietly, praying for Hideyoshi's soul...
+@3.45
+But freed from the struggle with \#09FA, perhaps the strain left her; not long after, she suddenly passed away...
+@3.46
+Yet it is said her face in death was peaceful, content with how strong her son had grown...
+@3.47
+Mother... I will always be proud that I was your son. Rest in peace...
+@4.0
+the Naifu
+@4.1
+\#09FA
+@4.2
+\%03, our lord is calling for you.
+@4.3
+Our lord? What could he want?
+@4.4
+You called for me, my lord?
+@4.5
+Yes. First, let me introduce you. This is \%2020E of the \#1074 clan.
+@4.6
+No, no, \%03, there is no need for introductions. I have already met \%047FE.
+@4.7
+What, you already know each other?
+@4.8
+I am \#020E.
+@4.9
+I am \#07FE.
+@4.10
+Now, the reason I called you here is none other than \#01FA.
+@4.11
+\Z003 has been arranging marriages between daimyo houses on his own authority.
+@4.12
+To prevent factions, Lord Taiko decreed that marriages between daimyo must be reported in advance and approved...
+@4.13
+Exactly! And \#09FA has trampled on that pact!
+@4.14
+And that is not all! In the name of rewards, the wretch is handing out Lord \#0A06's lands to the daimyo at will.
+@4.15
+This is nothing but \#09FA's plot to steal the realm!
+@4.16
+I have decided to raise troops to bring down \#09FA!
+@4.17
+\%03! Forgive me, but \#09FA holds the eight Kanto provinces, 2.5 million koku, while you, \%03, hold Sawayama, 190,000 koku.
+@4.18
+He is not an enemy we can beat in a fair fight!
+@4.19
+Yes, if I raised troops alone I would stand no chance... but \%0420E will help me.
+@4.20
+Just so. I will now return to our domain and urge Lord \#0074 to ready his forces.
+@4.21
+\Z003, who seeks to seize the realm, is sure to find some pretext to bring the \#1074 clan to its knees...
+@4.22
+But our \#1074 clan has honoured arms since Lord \#0877's day. We will pay no heed to \Z003's pretexts.
+@4.23
+Then \Z003 will surely send an army against you to punish you...
+@4.24
+And then you rise, my lord, and catch \Z003 between you... Is that the plan?
+@4.25
+Well spotted! As expected of you, \%03!
+@4.26
+That would indeed give us a chance of victory. Some daimyo would rise and join us too.
+@4.27
+Yes! Now is the time to raise a righteous army and punish \Z003's arrogance!
+@4.28
+\%03, we shall defend the \#1206 realm and strike down \Z003 without fail!
+@4.29
+\%03, let us both give it our all!
+@4.30
+Then I shall take my leave.
+@4.31
+Bringing down \#09FA, huh... This is the great task of a lifetime.
+@5.1
+They say Lord \#01FA has sent an envoy to ask whether it is true.
+@5.2
+(So \%0420E is acting according to plan...)
+@5.3
+(So \%0420E is acting according to plan.)
+@5.4
+My lord, Lord \#01FA has issued an order to all provinces to punish \#0074!
+@5.5
+What is the meaning of this?! Affairs of the realm are for me, \#0A06, to decide...
+@5.6
+Who is \#11FA to go over \#0A06's head and issue such an order on his own?!
+@5.7
+What is the meaning of this?! Affairs of the realm are for Lord \#0A06 to decide...
+@5.8
+Who is \#11FA to go over Lord \#0A06's head and issue such an order on his own?!
+@5.9
+But they say Lord \#11FA's army has already set out for \41DF...
+@5.10
+Outrageous! My lord, I believe our house would do best to stay out of this entirely!
+@5.11
+Yes, this is a private quarrel between \#11FA and \#1074.
+@5.12
+Listen, \#0A06... You are lord of the realm... You must not act rashly.
+@5.13
+I understand... Mother.
+@6.1
+The envoy Lord \#01FA sent to Lord \#0074 has returned, but...
+@6.5
+Declaring \#0074's treason beyond doubt, he issued an order across the land to punish the \#1074.
+@6.8
+(So it begins...)
+@6.9
+(So it begins...)
+@7.0
+Gyobu
+@7.1
+Lord \#08A5
+@7.2
+Jibu
+@7.3
+Lord \#084B
+@7.6
+Oh, if it isn't \%03.
+@7.7
+\%03, what brings you here in person?
+@7.8
+Hm, could you be \#07FE?
+@7.9
+Yes, I am \#07FE.
+@7.10
+I thought as much. I am \#00A5.
+@7.11
+So you are \%03. I have heard much of you... And what business brings you to this castle today?
+@7.12
+Yes, I wished to consult \Z002 about the \#1074 clan, so I stopped by in the middle of my march.
+@7.13
+I see. Then, this way...
+@7.14
+\Z001, thank you for coming.
+@7.15
+\%03, you may sit with us. Stay here.
+@7.17
+I was passing nearby, so I dropped in.
+@7.18
+About the \#1074 clan: I mean to go with \Z003 and somehow bring about a peace.
+@7.19
+If possible, I would like your help as well.
+@7.20
+No... I cannot do that.
+@7.21
+Wh-what?!
+@7.22
+I will use this chance to raise troops and strike down \#09FA!
+@7.23
+D-don't talk nonsense, \Z002!
+@7.24
+The \#1074 and \#11FA clans are about to fight as it is. Why add to the chaos?
+@7.25
+I too am boiling with rage at \Z003's tyranny, to be honest.
+@7.26
+But \Z003 is the man even Lord Taiko could not defeat at Komaki.
+@7.27
+He is even stronger now than then. You have no chance of winning.
+@7.28
+Lord \#0A06 is still young. What matters now is not to stir up war.
+@7.29
+Will you not come with me? Together, the two of us could make peace between \#11FA and \#1074.
+@7.30
+That I cannot... I cannot...
+@7.31
+Cannot, you say...? ......Surely, you didn't!
+@7.32
+Yes. It was I who, with \%2020E of the \#1074 clan, wrote the plot for \Z003 to march against the \#1074.
+@7.33
+So how could I mediate a peace?
+@7.34
+Why, why did you keep this from me?! This is beyond reckless!!
+@7.35
+Because I knew you would oppose it if I told you. You oppose it even now, don't you?
+@7.36
+Of course I do!
+@7.37
+But things are already in motion. There is no turning back for me now.
+@7.38
+\Z001, will you not help me?
+@7.39
+No matter what... your mind will not change?
+@7.42
+I suffer from an incurable illness. I have not long left... but I give what time remains to you!
+@7.43
+Then...
+@7.44
+Yes, I will go with you to the depths of the underworld!
+@7.45
+\Z001, forgive me...
+@7.46
+But our two armies alone could never stand against \Z003. We need allies.
+@7.47
+Yes. In fact, through Lord \#0036 I have asked Lord \#02D1 for help.
+@7.48
+Of the remaining regents, Lord \#007D is all but Lord Taiko's adopted son. He will surely side with us.
+@7.49
+Then we secure the hostages in \41DF and send letters to the daimyo indebted to the Toyotomi, calling on them to join our righteous cause.
+@7.50
+We lead the gathered forces east and strike \Z003 from behind while he fights \%04074.
+@7.51
+Hmm... Then we may have a chance.
+@7.52
+But our foe is the wily \Z003. We must not let our guard down.
+@7.53
+No, right is on our side! How could a righteous army lose to an unrighteous one?!
+@7.55
+......Phew.
+@7.56
+\41DF is a wedge \Z003 has driven in. Left alone, it will be a source of trouble.
+@7.57
+We take it now and remove all worry from our rear!
+@7.58
+I will go to \41E0 to gather allies. I await good news.
+@7.59
+\%03, Lord \#004B has raised troops against \#11FA!
+@7.60
+What?! Gather everyone in the Council Chamber!
+@7.61
+What?! Gather everyone in the Council Chamber!
+@7.63
+What?!
+@7.64
+Our lord says he wishes to hear everyone's views on this matter.
+@7.65
+Understood. I will come at once.
+@7.69
+What is the meaning of this?! First \#11FA, and now even \#084B acts on his own!
+@7.70
+What is the meaning of this?! First \#11FA, and now even \%0404B acts as he pleases!
+@7.71
+Lord \#104B's army has already taken \41DF, they say. We should decide how our house will respond...
+@7.72
+My lord, I believe our house would do best to stay out of this entirely!
+@7.73
+Yes, this is a private quarrel between \#09FA and \#084B.
+@8.6
+\Z002! I hear you took Nijo Castle!
+@8.7
+Yes. How did it go on your side, \Z001?
+@8.8
+Well... it has become troublesome.
+@8.9
+I meant to gather the hostages in \41DE, but \37F1, our envoy to the \#127C clan, botched it!
+@8.10
+\%0427C's wife, Lady \#0443, flatly refused to move into the castle...
+@8.11
+Angered, \37F1 led troops and broke into the mansion.
+@8.12
+Lady \#0443 set the mansion on fire and had her guardian \#00AE run her through with a spear.
+@8.13
+Lady \#0443 set the mansion on fire and chose to die at her guardian's hand...
+@8.14
+What... That fool \37F1! At this rate a second and a third \#127C clan will appear!
+@8.15
+If hostages die, we only lose people's hearts. We gain nothing...
+@8.16
+It cannot be helped. We give up gathering the hostages in \41DE and simply watch them so they cannot flee.
+@8.17
+Also, I had the daimyo who sided with us gather their armies here in \41DF.
+@8.19
+I had the daimyo who sided with us assemble their armies here in \41DF.
+@8.20
+\%03, I too was seething at \Z003's tyranny. Joining this righteous cause does my heart good.
+@8.21
+\Z003 plainly has designs on the realm. For Lord \#0A06's sake, he must be brought down at all costs.
+@8.22
+I'll show \#09FA how the warriors of Satsuma fight!
+@8.23
+May Deus protect us... Amen.
+@8.24
+I owe a debt to the late Lord Taiko. Now is the time to repay it!
+@8.26
+I, \#084B, feel as if I had gained a million reinforcements! We march east at once...
+@8.27
+A report!
+@8.28
+The \#11FA army left \#09FA's second son \#0AFC with 18,000 men at Utsunomiya in Shimotsuke and turned back!
+@8.29
+\#09FA is leading \#0267 and others west along the Tokaido and has already come back as far as Mino.
+@8.30
+What?! Do you mean he foresaw our lord's uprising?!
+@8.31
+\Z002! We cannot stay here!
+@8.32
+Yes, we march!
+@9.0
+The Western daimyo, victorious at Sekigahara, stripped the daimyo who sided with the East of their domains and built a new Toyotomi government...
+@9.13
+And they ordered the \#11FA clan, which caused this great upheaval, to have \#09FA and \#09FC commit seppuku, and cut its lands drastically...
+@10.0
+It was at Sekigahara in Mino that the Western Army under \#004B and the Eastern Army under \#01FA opened battle...
+@10.1
+At first neither side had the upper hand, and the stalemate lasted for several hours, but...
+@10.2
+the betrayal of the Western \#013B unit turned the tide, and Sekigahara ended in a crushing Eastern victory.
+@10.3
+With Western commander \#004B captured and the senior \#02D1 withdrawing to his domain, the Western daimyo were all but wiped out...
+@10.14
+Still praying for the \#1206 clan, \#004B was executed on the Rokujo riverbed in Kyoto, aged \1006...
+@10.27
+Yet \#09FA did not lay a hand on the \#1206 clan. Or rather, it would be truer to say he could not.
+@10.28
+For the \#1206 clan treated the battle strictly as a private quarrel of \#004B's...
+@10.29
+In form, \#09FA was a vassal of the \#1206 clan, and faced with this he could do nothing...
+@10.30
+But \#09FA honoured the \#1206 clan in form only...
+@10.31
+That \#09FA outstripped the \#1206 clan in both land and strength was plain for all to see...
+@10.32
+Bah, even \#084B was useless...! Is there no one who can hold back \#11FA...!
+@11.8
+\%03! Well done striking down \#09FA!
+@11.9
+\%0407D, I am honoured that you came in person.
+@11.10
+As for the \#11FA clan, it has been decided, after all, to abolish it.
+@11.12
+Had he quietly cut his belly, his house at least would have survived... Foolish man.
+@11.13
+By decision of the new Five Regents, the \#11FA clan was stripped of its domains.
+@11.14
+As for the \#11FA clan, it has been decided to let \37F1 succeed and allow the house to survive.
+@11.16
+In the end it is much the same as the orders we sent \#09FA before, but...
+@11.17
+Lord \#0A06 was set on crushing the old man of Edo's house, so it could not be helped...
+@11.18
+By decision of the new Five Regents, the \#11FA clan was allowed to survive but lost much of its land.
+@11.19
+And so the \#11FA rebellion that had shaken the realm came to an end.
+@12.0
+We now enter \41DE! From now on, know that we serve under Lord \#0A06's command!
+@13.6
+\Z002! You came!
+@13.7
+What is \#09FA doing?
+@13.8
+\#09FA has crossed Hakone and sent out his armies! Quite unlike the Odawara campaign!
+@13.9
+So \#09FA is not as soft a man as \#0275...
+@13.10
+He may have been beaten at Sekigahara, but he is a seasoned veteran. Drop our guard and it will be our heads that roll.
+@13.11
+Hmm... \#01FA is besieging \41DF. If we advance now, we might catch him between us.
+@13.12
+So now is our chance... Very well, we advance!
+@14.0
+Hm, \#07F1's army first. Unless we crush it, we cannot reach \#09FA's main force. Everyone, forward!
+@14.1
+Ohhh!
+@15.0
+What a sight! Never before have such great armies clashed...
+@15.1
+This battle will decide the realm... I will stake everything on it!
+@15.2
+The enemy is moving!
+@15.3
+That wisteria crest banner... The \#1125 force is coming at us!
+@15.4
+Good, show them our full strength!
+@15.6
+\#0125 is nothing to fear! Everyone, charge! Charge!
+@17.0
+We have the upper hand! The enemy is falling back!
+@17.1
+Good, we've broken through their first line.
+@17.2
+It seems the detachment's work has thrown the enemy's command into disarray.
+@17.3
+Good, we strike with the detachment! Our only goal is \#09FA's head! Forward!
+@17.5
+It seems the golden gourd standard has thrown the enemy's command into disarray.
+@17.6
+Good, our only goal is \#09FA's head! Forward!
+@17.8
+Hm, that conch shell just now?
+@17.9
+Look to the castle! The golden gourd standard has been raised!
+@17.10
+Oh, that is it indeed! Lord \#0A06 has taken the field!
+@17.11
+The sight of that standard seems to be spreading unrest through the enemy lines.
+@17.12
+Good, we strike together with Lord \#0A06! Our only goal is \#09FA's head! Forward!
+@17.15
+Alas, we were not strong enough...
+@17.16
+\#07FE gathered what troops remained for a last stand, but the outcome was already clear.
+@17.17
+As they fell back near the inner citadel, fire set by traitors within rose from the main keep.
+@17.18
+Ah, fire in the castle! Mother... where is Mother?
+@17.19
+Lord \#0A06!
+@17.20
+Oh, it's you. Mother... what has happened to Mother?
+@17.21
+Forgive me... The fire around Lady Yodo's rooms is so fierce no one can get near...
+@17.22
+Mother, \#0A06 is coming to save you!
+@17.23
+L-Lord \#0A06, please stop!!
+@17.24
+\#0A06, who went back into the keep, was swallowed by the raging flames along with \#0434.
+@17.25
+The castle built by the great \#0205 collapsed into the flames, holding his heir to its breast...
+@17.26
+And so the \#1206 clan, which had risen to fame in an age of war, perished. \#0A06 was aged \1006...
+@17.28
+Ugh, we were not strong enough... Has the golden gourd standard been raised at the castle?
+@17.29
+No, I see nothing.
+@17.30
+So he never took the field... There's no help for it. We charge the enemy with what troops remain and fall gloriously!
+@17.31
+\#07FE gathered the remaining troops and charged into the enemy host.
+@17.32
+Before long the enemy closed on the castle, and fire set by traitors within rose from the main keep.
+@17.33
+The castle built by the great \#0205 vanished into the flames together with his heir \#0A06...
+@17.34
+But \#07FE never saw that end, falling in the midst of the enemy, aged \1006...
+@18.0
+Victory is ours!
+@18.1
+Yes! Lord Taiko lent his strength to this golden gourd standard!
+@18.2
+Look! Seeing us winning, the \#11FA side's generals are coming over to us!
+@18.4
+Ah, there is \#09FA's standard!
+@18.5
+\#09FA is over there! After him! Don't let him escape!
+@18.6
+Ugh... You there, can't you run any faster?!
+@18.7
+Whoosh, whoosh!
+@18.9
+Lord \#09FA!
+@18.10
+Bah, this is nothing!
+@18.11
+With the daimyo deserting, the \#11FA army collapsed completely.
+@18.12
+\#01FA, wounded by an arrow himself, barely escaped, and the battle was a great victory for the \#1206 side.
+@18.13
+The daimyo who left the \#11FA clan swore loyalty to the \#1206, and the world was thrown into turmoil once more.
+@18.15
+Alas, we fell just short...
+@18.16
+The enemy is about to reach the inner citadel.
+@18.17
+No! I must protect Mother.
+@18.18
+\#0206 turned back into the castle, and was soon captured along with \#0434 by \#11FA soldiers who stormed in.
+@18.19
+\#0A06 and \#0434 were dragged before \#09FA.
+@18.20
+Lord \#0A06, and the lady mother. It has been a long time. Lord \#0A06, how fine you have grown.
+@18.21
+Though I never thought we would meet again like this.
+@18.22
+Enough of your glib talk! You are a vassal of the \#1206! How dare you!
+@18.23
+You are a trial, my lady. Is there a daimyo house left in this world that bows to the \#1206 as its vassal?
+@18.25
+Once you stepped down from ruling the realm, had you bowed your head and stayed quiet, it would not have come to this...
+@18.26
+What?! It was you who played the cowardly tricks, you wretch!
+@18.27
+...Well then, have you had your say?
+@18.28
+Lord \#11FA.
+@18.30
+I am ready for my fate. But I have one request.
+@18.31
+...If you wish me to spare the lady mother, I am afraid I cannot grant it.
+@18.32
+...Is there no way?
+@18.33
+\#0A06, it is enough. Let us go to Lord Taiko together.
+@18.34
+Mother... Forgive me for failing to protect you.
+@18.35
+No, you fought bravely. Lord Taiko will be pleased.
+@18.37
+...You there, take them away.
+@18.39
+\#0206 and \#0434 took their own lives on \#01FA's orders.
+@18.42
+Ugh, we were so close...
+@18.43
+Ah, fire from the castle's main keep!
+@18.44
+So this is the end... There's no help for it. We charge the enemy with what troops remain and fall gloriously!
+@18.46
+Before long the enemy closed on the castle, and fire set by traitors within spread as if licking it.
+@18.47
+The castle built by the great \#0205 vanished into the flames...
+@19.0
+Good, the \#1125 force has broken! How are the other units doing?!
+@19.1
+\#107D is overwhelming \#1267, \#10A5 is evenly matched with \#11F3 and \#1110, and \#1138 seems to be faring somewhat badly.
+@19.2
+What of \#113B and \#12D1?!
+@19.3
+We've raised the signal smoke to attack, but they still haven't moved!
+@19.4
+Bah, fence-sitters! But we can't miss this chance. \#0982, pursue!
+@19.5
+Yes! Leave not a single enemy alive! Charge! Charge!
+@19.6
+\#0182's pursuit was fierce. Driven on by \#0982's hoarse roar, the troops hunted down the \#1125 force without mercy.
+@19.7
+It is said that those who served in the \#1125 force that day woke for years after from nightmares of \#0982 chasing them...
+@19.8
+Meanwhile, in \#0125's camp...
+@19.9
+Curse that \#0182... Unless he is stopped, my own head is in danger.
+@19.10
+Gunners! Go around and attack the \#1182 unit from the flank! Mind you, aim for \#0982!
+@19.11
+If not for \#0982, \#084B would be nothing to fear!
+@19.13
+Charge! Charge!
+@19.15
+Argh! Ca-careless......
+@19.16
+Ahh! \#0982!!
+@19.17
+\%03, you must not lose your head... This is the battlefield... Everyone gets hurt, everyone dies...
+@19.18
+Y-yes, no, but, still... You can no longer fight with that wound. I'll send you back. Get it treated!
+@19.19
+Thank you, but though I can neither swing a sword nor walk, I can command as long as I have a voice...
+@19.20
+The battle is just beginning... If we win and win and keep winning, \#113B and \#12D1 will move too...
+@19.22
+We attack the \#11FA force! Take \#09FA's head and victory is ours! Forward!!
+@19.24
+Bah, how can this be? A righteous army losing... losing to an unrighteous one...
+@19.25
+My lord! The \#113B unit is...!
+@19.26
+Bah, \#093B!! It's too late to move now!!
+@19.27
+No! The \#113B unit is heading for the \#10A5 unit! \#013B has betrayed us!!
+@19.28
+Damn him!! So \#013B was the worm in the lion's belly!!
+@19.29
+\%03, this is the end.
+@19.30
+No, I won't give up yet! I'll rise again as many times as it takes and bring down \#09FA!
+@19.31
+Very well, we will buy time! Escape while you can!
+@19.32
+Forgive me, \%03. Farewell!
+@19.33
+Farewell.
+@19.34
+I am \#07FE! Whoever seeks fame by taking my head, come at me!
+@19.35
+To buy time for \#004B's escape, \#07FE charged into the \#0125 unit and died a glorious death, aged \1006...
+@20.6
+Good, we've beaten \Z003! Raise a victory cry!
+@20.8
+My lord, I am sorry... \Z003 escaped us...
+@20.9
+\%03! Don't push yourself, you're wounded!
+@20.10
+Never mind the pursuit. Fall back and get your wound treated!
+@20.12
+\Z002!
+@20.13
+Oh, \Z001! What are our gains?
+@20.14
+We've taken the heads of several generals... A great victory!
+@20.15
+But \Z003 got away...
+@20.16
+\Z003 did... That's bad...
+@20.17
+Yes. I'd like to pursue at once, but our losses are not small either.
+@20.18
+I think we should pull back and regroup. What say you?
+@20.19
+Yes, that would be best.
+@20.20
+Good, we withdraw!
+@20.32
+To buy time for \#004B's escape, \#07FE charged into the \#01FA unit and died a glorious death, aged \1006...
+@21.0
+After all the trouble of shaking off the \#006E hostages, we have finally come this far...
+@21.1
+We were one step from the realm... How bitter!!
+@21.3
+\#01FA has killed himself, and \#09FC was beheaded by straggler hunters!
+@21.4
+Yes, well done! Now the \#1206 realm is safe!!
+@21.5
+Before the deeds of \#07FE and the rest, \#01FA, who had half the realm in his grasp, finally fell, aged \1006...
+@21.6
+Having lost both \#09FA and \#09FC, the \#11FA clan swiftly declined...
+@21.7
+Ugh, so close...
+@21.8
+Did you think I would lose a field battle so many times?!
+@21.10
+Gahh... H-how bitter...
+@21.11
+\#07FE and the rest staked all on a decisive battle to slay \#01FA in one blow, but fell easily before \#09FA's counterattack.
+@21.12
+\#07FE fought bravely but in vain, and fell at \#09FA's hands, aged \1006...
+@22.0
+\41DF keep
+@22.1
+How many men are left?!
+@22.2
+Sir, sixteen!
+@22.3
+We fought well, if I say so myself... Time to end it.
+@22.4
+Sir, I will go with you!
+@22.5
+\41DF's lord \#0209 charged with his few remaining men and died amid the clashing blades, aged \1006...
+@22.6
+Good, \41DF is ours! Raise a victory cry!
+@22.8
+I-impossible... Was I such a poor general that I could not take one lone castle...?
+@22.9
+You must be \%03! Prepare yourself!!
+@22.11
+Gahh!!
+@22.12
+\#07FE, who followed \#084B in rising to bring down \#01FA, lost his life all too easily in the siege of \41DF...
+@23.0
+How goes the battle?
+@23.1
+Back and forth, I would say.
+@23.2
+Well, this castle cannot be taken so easily. \#0A06, you need only be steadfast.
+@23.5
+What, what happened?!
+@23.6
+A report! A powder magazine seems to have exploded near the outwork held by Lord \#0169!
+@23.7
+What?! Was there a traitor?!
+@23.8
+A report! Emboldened by the explosion, the attackers are launching an all-out assault on the outwork!
+@23.9
+A report! Lord \#0169 drew the attackers to the outwork and cut them down with volleys of gunfire. The \#11FA army has suffered heavy losses!
+@23.10
+Also, the powder magazine blast was caused by a soldier's carelessness, it seems. The damage is not great.
+@23.11
+As expected of \%04169. Unshaken by mishap, he turns it to his advantage to strike the enemy... Splendid command.
+@23.12
+Whiiistle...
+@23.13
+Hm......?
+@23.14
+What is that sound now...?
+@23.17
+What is that sound...?
+@23.18
+Lord \#0A06, look out!
+@23.20
+Eeek!!
+@23.21
+Ohhhh!! Wh-what was that?! S-surely a cannonball didn't reach this far?
+@23.22
+L-Lord \#0A06... I'm glad you're... safe......
+@23.23
+Hey, are you all right? You mustn't die! Mother! Mother! Are you safe?
+@23.24
+I-I am all right, but...
+@23.26
+This one... has already breathed her last...
+@23.27
+The poor thing...
+@23.31
+Th-this is unbearable......
+@23.32
+P-peace! We will make peace! Send an envoy to the \#11FA side at once!
+@23.33
+Mother......
+@24.0
+Lord \#0A06! The \#11FA soldiers are filling in the inner moat!
+@24.1
+What?! The agreement was for the outer moat only...!!
+@24.2
+We told them to stop work at once, but they won't listen. They say, "We were told to fill in the moat."
+@24.3
+Hmm... I suppose I must speak to Lord \#09FA directly.
+@24.4
+This is no time for such leisurely talk!
+@24.5
+Indeed... While we send an envoy, the moats are filling up fast! The castle will soon be stripped bare!
+@24.7
+This must be \#09FA's scheme. Then we too will dig them out again by force!
+@24.9
+Very well, I leave it to you.
+@24.11
+Still... that hateful \#09FA...!
+@24.12
+And so the \#1206 side began to dig out the inner moat.
+@24.13
+But a moat once filled could not be dug out quickly, so they had to build horse barriers on the filled-in moat instead,
+@24.14
+and it was plain for all to see that the castle had lost its old strength...
+@24.15
+It seems the \#11FA side has been filling in even the inner moat of \51E5 Castle.
+@24.16
+What? Only the outer moat was to be filled in.
+@24.17
+Seeing this, Lord \#0A06 began digging it out again, unwilling to be left with a bare castle.
+@24.18
+That's bad... \#09FA will call it our fault.
+@24.19
+What? Only the outer moat was to be filled in.
+@24.21
+That's bad... \#09FA will call it our fault...
+@25.0
+Lord \#0A06, a letter has come from \#11FA.
+@25.3
+What is it?
+@25.4
+Show it to me as well.
+@25.5
+Here, Mother.
+@25.6
+Let me see... What is this?!
+@25.7
+What is it, my lady?
+@25.8
+...That our digging out the inner moat breaks the terms of the peace...
+@25.9
+What sophistry! It was the \#11FA side that broke them!
+@25.10
+To continue the peace, we must accept one of the following two conditions...
+@25.11
+One... Banish all the newly hired ronin.
+@25.12
+Two... Hand \51E5 Castle over to the \#11FA clan.
+@25.13
+What is this?! I have never seen such tyranny!
+@25.14
+What nonsense! How could we accept this?
+@25.15
+What does he take the \#1206 clan, rulers of the realm, for?!
+@25.16
+We must not banish the ronin. If war comes again, no one will be left to fight for the \#1206 clan.
+@25.17
+But handing over \51E5 Castle, all but defenceless now, is not out of the question.
+@25.18
+To restore the \#1206 clan, stepping back for now to gather strength is one option.
+@25.19
+And if you mean to settle things with \#11FA once and for all, we will follow you to the end.
+@25.20
+This is for Lord \#0A06 to decide.
+@25.21
+You must not, \#0A06! Bow to such outrageous demands and they will only scorn us more!
+@25.22
+Give \51E5 to \#11FA
+@25.23
+Fight \#11FA to the end
+@25.24
+For now I must swallow my tears and step back.
+@25.25
+\#0A06!!
+@25.26
+Mother... It is all because I fell short... Forgive me.
+@25.27
+What are you saying, \#0A06?! You are not to blame! It is all \#09FA's fault.
+@25.28
+Oh, this pains me so...
+@25.29
+We will restore the \#1206 clan without fail...
+@25.30
+No, you must not!! You must not leave this castle, which the late Lord Taiko built with all his heart!
+@25.31
+Mother... The times have changed. Who rules the realm now is plain for all to see...
+@25.32
+No... I cannot accept it! \#11FA is a vassal of the \#1206! This is not right!
+@25.34
+Nothing will move me from this castle!!
+@25.35
+Despite Lady Yodo's desperate resistance, \#0A06 decided to leave the castle.
+@25.36
+The next morning... in the inner quarters, Lady Yodo was found dead by her own hand, clutching the late Toyotomi Hideyoshi's memorial tablet...
+@25.37
+Was it a protest, giving up her life against \#01FA's tyranny...?
+@25.38
+Mother... Forgive me. \#0A06 has been an unworthy son...
+@25.39
+I cannot abandon \51E5 Castle.
+@25.40
+Rather than that, I choose death.
+@25.41
+Lord \#0A06...
+@25.42
+Well said, \#0A06! That is the heir of the late Lord Taiko!
+@25.43
+Understood! We ignore \#11FA's demands and make ready for war at once.
+@25.44
+I am counting on you.
+@25.46
+And so the \#1206 clan resolved to make a last stand against \#11FA.
+@25.47
+But some slipped out of \51E5 Castle before the fighting resumed.
+@25.48
+Among them was the name of \#00BD...
+@25.49
+This is for Lord \#0A06 to decide.
+@25.60
+The \#11FA clan says that digging out the inner moat of \51E5 Castle breaks the terms of the peace.
+@25.61
+So they've found a pretext, just as I thought.
+@25.62
+The \#11FA side has sent new peace terms, but Lord \#0A06 is ignoring them.
+@25.63
+Hmm... War looks certain to come again...
+@25.64
+So they've found a pretext, just as I thought.
+@25.66
+Then war is sure to come again...
+@25.71
+Lord \#0A06 has ordered you to lead your army into \51E5 Castle at once.
+@25.72
+Good, we set out for \51E5 Castle at once. Everyone, get ready!
+@26.2
+Your work in the last battle was truly admirable.
+@26.3
+You are too kind, my lord.
+@26.4
+In recognition, I promote you to Commander. Continue to serve me well.
+@26.5
+Yes, my lord! I am most grateful. I will strive all the harder.
+@26.6
+In recognition, I promote you to Samurai General. Continue to serve me well.
+@26.8
+In recognition, I promote you to Ashigaru General. Continue to serve me well.
+@26.10
+In recognition, I grant you \41E2 in \=07A. Found the \#17FE clan there.
+@26.11
+The \#17FE clan... you say?
+@26.12
+I mean you are to become a daimyo.
+@26.13
+What?! This is beyond anything I imagined.
+@26.14
+(Should I accept this...?)
+@26.15
+Accept
+@26.17
+I am most grateful and humbly accept.
+@26.18
+Good. Even as a daimyo, I want you to lend your strength to the \#1206 clan.
+@26.19
+Of course.
+@26.20
+Good. Then set out for \41E2 at once.
+@26.21
+Yes, my lord. Then I take my leave.
+@26.22
+It is a most gracious offer, but I wish to go on serving Lord \#0A06 as before.
+@26.23
+You refuse this offer?
+@26.24
+With respect...
+@26.25
+I see... Then become Province Lord in \41E2.
+@26.26
+Yes, my lord, I am most grateful. I will strive all the harder for the \#1206 clan.
+@26.27
+Then set out for \41E2 at once.
+@26.29
+\#07F1!
+@26.31
+You served well in the vanguard in the last battle.
+@26.32
+Sir, you are too kind.
+@26.33
+In recognition, I grant you \41E2 in \=07A. Found the \#17F1 clan there.
+@26.34
+The \#17F1 clan... you say?
+@26.36
+What?! An honour beyond my station. I humbly accept.
+@26.41
+And so \#07F1 became an independent daimyo, and \#07FE became chief retainer of the \#17F1 clan.
+@27.0
+How very displeasing.
+@27.1
+What is the matter, Mother?
+@27.2
+Ever since the last war, only \#09FA has gained fame, and the lords flock to him. Have they forgotten who their master is?
+@27.3
+...That may be so.
+@27.4
+Is there no way to show everyone, down to the last corner of the land, that the \#1206 clan alone truly rules the realm?
+@27.5
+On that matter, if I may...
+@27.6
+\#0FF0, is it? Speak.
+@27.7
+I believe it is vital now to show the world the virtue of the late Lord Taiko.
+@27.8
+Hmm, to show Father's virtue... And how would we do that?
+@27.9
+The long years of war have left temples and shrines everywhere in ruins.
+@27.10
+If we rebuild them, we can show the \#1206 clan's glory throughout the land.
+@27.11
+Oh, rebuilding temples and shrines?
+@27.12
+Just so.
+@27.13
+Now that I think of it, the Hokoji the late Lord Taiko built still lies in ruins from the great earthquake. Rebuilding it would please Lord Taiko.
+@27.14
+P-please wait!
+@27.15
+\#0FF1? What is it?
+@27.16
+True, rebuilding temples and shrines would raise the \#1206 clan's standing.
+@27.17
+But now we must devote ourselves to building up our strength, so that if the time comes...
+@27.18
+"If the time comes"? What do you mean? Are you saying \#09FA will attack this castle?! Don't say such reckless things!
+@27.19
+N-no, it was only an example...
+@27.20
+Besides, rebuilding temples and shrines will also show \#11FA we mean him no harm.
+@27.22
+\#0A06, there is nothing to hesitate over. Rebuilding temples is no trouble at all for our house.
+@27.23
+...Understood.
+@27.24
+Rebuild the temples and shrines across the land. I appoint \#0FF0 to oversee it.
+@27.25
+Yes, my lord, at your command.
+@27.26
+For Hokoji, it would be best to build a magnificent Great Buddha as before.
+@27.27
+\#0FF0, build a magnificent Great Buddha at Hokoji, as before.
+@27.28
+(What is this...?)
+@27.29
+Lord \#07FE, a notice has come from Lord \#0A06.
+@27.30
+It says to rebuild the temples and shrines across the land, praying for the safety and peace of the \#1206 clan.
+@27.31
+Hmm... Why at a time like this? It's just wasting Lord Taiko's legacy...
+@27.32
+In month \M002 of \M001, the Toyotomi clan resolved to repair and build temples and shrines across its lands.
+@27.33
+The cost was enormous, and the gold and silver Taiko Hideyoshi had stored up dwindled away...
+@28.0
+My lord, something terrible has happened.
+@28.1
+What is it?
+@28.2
+For the temple rebuilding, a great bell was newly cast for Hokoji, and it seems \#01FA is furious about its inscription.
+@28.3
+What on earth is the matter with it?
+@28.4
+Elder Seikan of Nanzenji, of the Five Mountains, composed those words with all his heart. What could be wrong with them?
+@28.5
+Near the end of the inscription, it reads, "May the state be peaceful and prosperous; may lord and vassal enjoy abundance."
+@28.6
+"Kokka anko" splits \#09FA's name, so they read it as "Cut Ieyasu apart and bring peace to the state."
+@28.7
+"Kunshin horaku" they read as "Rejoice with the \#1206 as lord."
+@28.8
+In short, they claim these words are a curse on the \#11FA clan.
+@28.9
+What a worthless pretext! Was there ever anything so absurd?!
+@28.10
+The \#11FA clan asked the scholar monks of the Five Mountains about the words, and they all agreed that it was so...
+@28.11
+Most likely they flattered \#11FA and lined up whatever words suited him.
+@28.12
+Hmm, why is Lord \#11FA so set on tormenting us...?
+@28.13
+\#0A06, there is nothing to fear. If the world hears of this, \#09FA will only become a laughingstock.
+@28.14
+Whatever the world thinks, unless we explain ourselves politely to the \#11FA clan, we will give them a pretext to attack.
+@28.15
+Now it has come to this, there is no need to explain. We raise troops and punish \#09FA!
+@28.16
+If we send out a call in the name of the late Lord Taiko's glory, 100,000 men will gather here in \41DE.
+@28.17
+We must not be hasty. That would play right into \#09FA's hands.
+@28.19
+\#09FA makes these claims because he knows he has few years left and is growing impatient.
+@28.20
+You are still young, my lord. If you endure now, \#09FA is sure to pass away before long.
+@28.21
+I believe it will not be too late to act then.
+@28.22
+\#0FF0 is right. At any rate, there must be no war.
+@28.23
+Then \#0FF0, go to Lord \#11FA and explain.
+@28.24
+Yes, my lord. I shall go at once, so I take my leave.
+@28.25
+(\#0FF0... Surely he isn't in league with \#11FA? I must be careful...)
+@28.26
+It seems Lord \#11FA has expressed displeasure at the inscription on the great bell of the Hokoji that Lord \#0A06 rebuilt.
+@28.27
+In response, Lord \#0A06 sent Lord \#07F0 as an envoy to explain.
+@28.28
+That \#09FA... Does he mean to start a war by finding fault with Lord \#0A06?
+@28.29
+That \#09FA... Does he mean to start a war by finding fault with Lord \#0A06?
+@29.0
+Hmm... Late, much too late! Is there no word from \#0FF0?
+@29.1
+No, I am afraid there is none.
+@29.2
+What is he doing? Wasn't it \#0FF0 himself who said to explain ourselves to \#09FA? Am I wrong, \#0A06?
+@29.3
+You are quite right, Mother.
+@29.4
+(Just as I thought, \#0FF0 is suspicious...)
+@29.5
+If I may speak...
+@29.7
+I would like to go to \41DE and explain to \#09FA.
+@29.8
+Yes, do. \#0FF0 alone is not to be relied on.
+@29.9
+And while there, I could find out what Lord \#0FF0 is up to...
+@29.11
+Are you saying \#0FF0 is in league with \#11FA?
+@29.12
+No, I don't believe so, but it is just to be sure.
+@29.13
+\#0A06, I too think we should do as \#0FF1 says.
+@29.14
+Then \#0FF1, go to \41DE and explain to Lord \#11FA.
+@29.15
+Yes, my lord, at once.
+@29.16
+It seems there is still no word from Lord \#07F0, who went to \41DE to explain about the Hokoji bell inscription.
+@29.17
+So Lord \#0A06 has sent Lord \#07F1 as a new envoy to explain.
+@29.18
+I see... I hope it can somehow be settled peacefully.
+@29.19
+I see... I hope it can somehow be settled peacefully.
+@30.0
+Lord \#0A06, I have returned.
+@30.1
+Oh, \#0FF1. Well done.
+@30.2
+So, how did it go? Did he understand we mean Lord \#11FA no harm?
+@30.3
+Yes. Lord \#09FA was in good spirits throughout. He said some in his house were making a fuss about the bell inscription, but he himself thought nothing of it.
+@30.4
+I see, that is good.
+@30.5
+Honestly, what a lot of fuss over nothing. Ohohoho.
+@30.6
+But what has become of \#0FF0?
+@30.7
+About that...
+@30.8
+Lord \#0A06, my lady, I have returned.
+@30.9
+Oh, \#0FF0. Well done. How did it go?
+@30.10
+Lord \#11FA's anger is extraordinary.
+@30.13
+He says his anger will not cool unless we accept one of the following three conditions...
+@30.14
+Hmm, and the three conditions are?
+@30.15
+One... Lord \#0A06 goes to \41DE and serves Lord \#11FA...
+@30.16
+Two... His mother, Lady Yodo, is sent to \41DE as a hostage...
+@30.17
+Three... \41DF is handed to the \#11FA clan and he moves to other lands...
+@30.18
+Bah, I have listened in silence long enough! What outrageous things you say!
+@30.19
+B-but unless we do something, we will be driven into an even worse corner.
+@30.20
+Besides, \#0FF1 just told us \#09FA cares nothing about the inscription. That is a completely different story!
+@30.21
+No, but that is what I heard...
+@30.22
+From whom, then, did you hear it?
+@30.23
+Hm, \#0FF1? I heard it from Lord \#028F of the \#11FA clan...
+@30.24
+Hm, \#0FF1? I heard it from someone in the \#11FA household...
+@30.25
+So you did not meet Lord \#09FA in person.
+@30.26
+As I said, he was so angry that I was not even granted an audience.
+@30.27
+I met Lord \#09FA in person.
+@30.29
+Lord \#11FA was in good spirits throughout. I cannot believe he would set such harsh conditions.
+@30.30
+But here I am, telling you the conditions.
+@30.31
+Hm, that is strange...
+@30.32
+Why would he not tell me, whom he received himself, but go out of his way to tell Lord \#0FF0, who was kept waiting in the castle town?
+@30.33
+Th-that is...
+@30.36
+Surely not, but could these three conditions be Lord \#0FF0's own invention?
+@30.37
+Thinking it would serve \#11FA well...
+@30.38
+H-how dare you! Are you saying I am in league with \#11FA?!
+@30.39
+\#0FF0!!
+@30.40
+Lord \#0A06! This is a misunderstanding! I...!
+@30.41
+Enough, leave us.
+@30.42
+B-but...
+@30.43
+Did you not hear \#0A06 tell you to leave?!
+@30.44
+...Yes, my lord. Then I take my leave!
+@30.45
+...Lord \#0A06, my lady, what shall we do with \#0FF0?
+@30.46
+Do as you see fit.
+@30.47
+If he truly is in league with \#09FA, it is unforgivable! Investigate thoroughly!
+@30.49
+\#07F1 at once gathered men and went to \#07F0's home to strike him down.
+@30.50
+But when they reached \#07F0's home, it was already empty.
+@30.51
+Ugh, one step too late... I must report to Lord \#0A06...
+@30.52
+We have lost the bridge between the \#11FA and \#1206 clans...
+@30.53
+\#09FA is sure to use this as a pretext against us.
+@30.54
+\#07F0 has fled!
+@30.55
+There are rumours he was in league with the \#11FA clan.
+@30.56
+This is bad... Our bridge to the \#11FA clan is gone. War may come soon.
+@30.57
+This is bad... Our bridge to the \#11FA clan is gone. War may come soon.
+@31.6
+I recently sent the \#11FA clan orders in the name of the Five Regents, but that \#09FA brushed them aside!
+@31.7
+The rebel \#01FA must be punished at all costs. I have asked the members of the new Five Regents to help.
+@31.8
+We will strike down \#01FA at all costs and end this war!
+@32.0
+Lord \#0A06, Lady Yodo is here.
+@32.1
+\#0A06! What is the meaning of this, starting a battle?!
+@32.3
+Someone must have put you up to it, but your mother will never allow such a thing!
+@32.5
+No buts! Call off the battle!
+@32.6
+Mother... Understood.
+@32.7
+Everyone, the battle is called off.
+@32.8
+Yes, that is right. You rule the realm; you must not act rashly.
+@32.10
+If I may report: Lord \#0A06 has ordered that no battle be started under any circumstances.

@@ -1,0 +1,146 @@
+@0.0
+Young lord, I've been hearing a strange rumour lately...
+@0.1
+What kind of rumour?
+@0.2
+It's a little hard to say, but...
+@0.3
+Never mind, speak.
+@0.4
+Sir. They say someone in the house is scheming to make Lord Shioichimaru heir in your place...
+@0.5
+Don't talk nonsense. Shioichimaru is still a little child.
+@0.6
+But Lord Shioichimaru's mother is working hard on the old lord, and it seems the old lord is not unwilling.
+@0.7
+Enough. Don't speak of it.
+@0.8
+B-but shouldn't something be done...
+@0.9
+I won't make a fool of myself chasing every rumour like that. Enough, leave me.
+@0.11
+...I don't intend to believe rumours, but it's hardly pleasant. At times like this... I know.
+@0.12
+Ah, Lord \#0FFE. Where are you off to?
+@0.13
+Mm, I'm going to the Hamawaki hot springs.
+@0.14
+Yes, sir. Have a safe trip.
+@0.15
+Lord \#0FFE, I've been hearing a strange rumour lately...
+@0.17
+Sir. They say someone in the house is scheming to make Lord Shioichimaru heir in place of Lord \#08A7...
+@0.18
+What nonsense. Shioichimaru is still a little child.
+@0.19
+What nonsense. Lord Shioichimaru is still a little child.
+@0.20
+But Lord Shioichimaru's mother is working hard on the old lord, and it seems the old lord is not unwilling...
+@0.21
+Shh, you never know who's listening. Don't say such reckless things.
+@0.26
+What kind of rumour?
+@0.28
+What nonsense. Shioichimaru is still a little child.
+@0.29
+What nonsense. Lord Shioichimaru is still a little child.
+@0.31
+Shh, you never know who's listening. You shouldn't say such reckless things.
+@0.33
+...I don't intend to believe rumours, but it's hardly pleasant. At times like this... I know.
+@0.35
+I'm going to the Hamawaki hot springs.
+@0.37
+My lord, I've heard a rumour going around \41DE...
+@0.38
+What kind of rumour?
+@0.39
+They say the old lord is cold toward his heir, Lord \#08A7, and dotes on his third son, Lord Shioichimaru.
+@0.40
+Hmm, it's natural the old lord dotes on young Lord Shioichimaru, but shunning his heir is a serious matter...
+@0.41
+There's also a rumour that someone is scheming to disinherit Lord \#08A7 and make Lord Shioichimaru heir.
+@0.42
+If that happened, turmoil in the house would be unavoidable. I hope nothing comes of it...
+@0.43
+It's natural the old lord dotes on young Lord Shioichimaru, but shunning his heir is a serious matter...
+@0.45
+If that happened, turmoil in the house would be unavoidable. I hope nothing comes of it...
+@1.0
+Hamawaki is in sight... I can't wait to relax.
+@1.1
+Hamawaki is in sight... I can't wait to relax.
+@1.2
+Lord \#07FE, grave news. Please return to the castle at once.
+@1.3
+What on earth has happened?
+@1.4
+The old lord was attacked by his own retainers and badly wounded.
+@1.5
+What! How did this happen? Tell me everything.
+@1.6
+What on earth has happened?
+@1.8
+What? How did this happen? Tell me everything.
+@1.10
+\#032B, urged by his favourite concubine, mother of his third son Shioichimaru, thought of disinheriting \#08A7 to make the boy heir.
+@1.16
+...That is what happened.
+@1.17
+What! Anyway, I'll go back to the castle at once.
+@1.18
+What! Anyway, I'll go back to the castle at once.
+@1.19
+Lord \#07FE, grave news. Please come to \41DE at once.
+@1.34
+What! Anyway, I'll head to \41DE at once.
+@1.35
+What! Anyway, I'll head to \41DE at once.
+@2.1
+\#08A7, is it... Ugh, cough...
+@2.2
+How did this ever happen...
+@2.3
+...It's all my own doing... I've lost my trusted retainers, and even my young child...
+@2.5
+\#08A7...
+@2.7
+...I leave the headship of the \#132B to you... I've written down points to heed in governing the land... Make them the house rules...
+@2.9
+...Mm, now I have no regrets... Don't make mistakes like mine; keep the house united... Guh!
+@2.10
+Fatherrr!
+@2.11
+\#032B entrusted the future to his heir \#08A7 and ended his life of \1006 years...
+@2.12
+\#08A7's path as a warring daimyo was stormy from the very start.
+@2.13
+Well, much has happened, but from now on I, \#08A7, lead the \#10A7 house. Lend me your strength, all of you.
+@2.15
+(Father, watch me. I, \#08A7, will never let you regret that I inherited the \#10A7 house.)
+@2.17
+\%03, is it... Ugh, cough...
+@2.22
+\#08A7, is it... Listen well.
+@3.1
+By the way, \#08A7...
+@3.3
+I've been hearing unpleasant rumours about your conduct lately.
+@3.5
+They say you often behave roughly and rudely in the castle town...
+@3.6
+I would never...
+@3.7
+Oh, you deny it? But they say there's no smoke without fire.
+@3.9
+As heir of the \#132B, you must master both letters and arms, and know your manners too.
+@3.10
+...From now on, I will work all the harder.
+@3.11
+Mm. If I hear more rumours like this, I'll have to reconsider the succession...
+@3.12
+Old lord, you mustn't say such rash things!
+@3.13
+W-well, yes. Anyway, work hard.
+@3.15
+That will be all for today.

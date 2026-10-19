@@ -1,0 +1,1042 @@
+@0.0
+My lord... this business with your mother, truly...
+@0.1
+...Say no more! Leave me!
+@0.2
+M-my lord! Please wait.
+@0.3
+The truth is... when your mother set out as a hostage, she gave me... this...
+@0.4
+This is... the book Mother loved to read... Why do you have it?
+@0.5
+She said that if anything should happen to her, I was to give it to you as a keepsake...
+@0.8
+I see... M-Mother... *sob*...
+@0.9
+My lord... please take it.
+@0.10
+Y-yes... ...You have my thanks.
+@1.1
+My lord! A guest has come to see you...
+@1.2
+Hm... A guest?
+@1.5
+Lord \#100E, it is I. You seem well.
+@1.6
+Ah... Lord Isshiki! Why have you come to a place like this?
+@1.7
+Isshiki Fujinaga was the closest of all the former Shogun \#001D's attendants, and stayed with \#081D even after the shogunate fell.
+@1.10
+His Highness the Shogun is most concerned for you... That is why he took the trouble to send me.
+@1.14
+How many years since that insolent \#00C3 drove out His Highness... Oh, but \#08C3 is your master now, isn't he?
+@1.18
+You see, His Highness has not yet given up hope of reviving the Muromachi shogunate. One day he will return to the capital...
+@1.19
+But my master, \#00C3, will surely never allow that.
+@1.22
+Why should he need \#08C3's permission to return to the capital? Guarding the imperial city has always been the Shogun's duty...
+@1.23
+I cannot let that pass... Today the one who guards the capital and protects the palace is none other than my master, \#00C3.
+@1.26
+Is that really so...? These days it's no secret that \#08C3 treats the court with contempt.
+@1.30
+And not only the court... I hear daimyo great and small, and the common folk, crushed by \#08C3's tyranny, cry out in bitterness.
+@1.31
+True, the old lord goes too far at times of late, but it is all to unify the realm and bring peace to the land...
+@1.34
+And not only that... Don't even you retainers of the \#10C3 clan tremble at your master's every move?
+@1.38
+I've heard, you know... the rumour that during the recent campaign against the \#11BF, \#08C3 cursed you before the whole assembly...
+@1.39
+How do you know that...!!
+@1.42
+It has reached His Highness's ears too... And so I have something to discuss with you.
+@1.43
+...Discuss?
+@1.46
+Could you not, Lord \#100E, use your strength to do away with \#00C3?
+@1.47
+What! You're telling me to rebel?!
+@1.50
+At heart you too are a retainer of the shogunate who served the Shogun's house... Isn't it serving \#08C3 now that is strange?
+@1.53
+Obeying the command of your true lord, His Highness, and striking down the traitor \#00C3 is no rebellion...
+@1.54
+I will hear no such talk! However you dress it up, turning your blade on your present master makes you a traitor!
+@1.57
+Well, well... No getting through to you, then. But don't forget that His Highness is waiting for you to rise.
+@1.58
+Anyway, please leave!
+@1.61
+If you change your mind, call on me any time.
+@1.62
+Enough! Hey! Our guest is leaving!
+@1.64
+(Does His Highness want so badly to brand me a traitor?!)
+@1.65
+(But the old lord's conduct of late is cruel indeed... Perhaps rebellion has some reason to it.)
+@1.66
+\%03! An order has come from the old lord in \51E5.
+@1.67
+Wh-what! From the old lord?!
+@1.68
+Is something wrong...?
+@1.69
+N-no... nothing. An order, you say? Let me see it!
+@1.70
+Hm...... Hm.
+@1.71
+What does the old lord say...?
+@1.72
+It seems Lord \#01FA, our ally, is coming to \51E5 to pay his respects.
+@1.73
+And I am ordered to serve as host, in charge of entertaining the \#11FA clan.
+@1.74
+What! You are a senior vassal of \A3A2! Isn't being host a job for underlings?
+@1.75
+No, Lord \#11FA is an important ally. By making me host, the old lord must wish to show his sincerity.
+@1.76
+But...
+@1.77
+Now that it's decided, there's not a moment to lose. I must gather delicacies from land and sea across the provinces to satisfy Lord \#11FA.
+@1.78
+And lodgings must be readied. There must be no blunders. Arrange the men at once!
+@1.79
+...Ha! Then we'll make the preparations. Please go on to \51E5...
+@1.81
+(But why me...? \%0417B or \%04205 would do just as well...)
+@2.0
+\#07FE! \#0247 has rejected our demands out of hand and is preparing to fight!
+@2.1
+What! That fool \#1247... If he wants war that badly, we'll have to rise to it.
+@2.2
+Give the order to march at once!
+@2.3
+Mm! Spread word through the castle town: we march to punish the \#1247!
+@3.0
+My lord! Lord \#1247 has arrived.
+@3.1
+I see. Then show him into the castle.
+@3.3
+Lord \#100E, I am \#0247.
+@3.4
+A pleasure to meet you. I am \#0247.
+@3.5
+Welcome... Then, we may proceed with the peace?
+@3.6
+I beg your good offices.
+@3.7
+Lord \#080E, about the hostage...
+@3.8
+I understand... \&03!
+@3.9
+...Ha! All is ready.
+@3.10
+\&03, escort Lord \#100E's mother courteously to \41E1. I leave things in your hands while I'm away.
+@3.11
+Ha! Then I take my leave.
+@3.12
+And so \#080E's mother, accompanied by \#0246, went to \41E1 as a hostage.
+@3.13
+You have Lord \#08C3's own promise that your lands are secure. When peace is made, your mother will be returned with all courtesy.
+@3.14
+I understand... Then, Lord \#0A47, I, \#080E, will guide you to \51E7.
+@3.15
+Mm, I'm in your hands...
+@4.0
+Lord \#1247, this is \51E7. Now, let us see Lord \#08C3.
+@4.2
+Hm, \#0FFE? Is the conquest of Tanba done?
+@4.3
+Hm, \#0FFE? Is the conquest of the \#1247 clan done?
+@4.4
+Hm, \#0FFE... What is it?
+@4.5
+Ha. I come with good news.
+@4.7
+I made peace with \#0247 on condition that the lives and lands of the \#1247 clan are spared, and brought him here. So without losing a single man...
+@4.8
+You... idiot!!
+@4.10
+Peace with the \#1247? Who allowed that?!
+@4.11
+B-but... \&03, you said to deal quickly with the \#1247...
+@4.12
+I told you to attack the \#1247 quickly! Who told you to make peace?!
+@4.13
+Ha... I beg your forgiveness.
+@4.14
+Hmph! ...And where is \#0247?
+@4.15
+Ha. He's waiting in the next room...
+@4.16
+Is anyone there?!
+@4.18
+Seize \#0247.
+@4.21
+P-please wait! What do you intend to do with \#0A47?!
+@4.22
+......Kill him!
+@4.23
+\&03!! To make this peace, I sent my own mother to the \#1247 as a hostage!
+@4.24
+If anything happens to \#0247, my mother's life is forfeit! I beg you, spare \#0A47's life at least!
+@4.25
+......No! The \#1247 are two-faced and know nothing of a samurai's duty. I will not forgive them.
+@4.26
+Making peace on your own without knowing your place is outrageous... \#080E... You brought this on yourself!
+@4.27
+Wh...!
+@4.28
+If you want to save your mother, take \41E1 with all your might before the \#1247 learn of \#0A47's execution!
+@4.30
+\#080E!! Go, now!
+@4.31
+...Ha.
+@4.32
+Ahh, what has happened... Anyway, I must hurry back to \51E5!
+@4.33
+\#0247, seized by \#08C3, was put to death at Jion-ji in the castle town...
+@4.34
+As \#080E returned home in despair, something dark began to settle in his heart...
+@5.0
+For our lord, murdered by treachery... take this, \#080E!
+@5.1
+Ugh! At a time like this...
+@5.2
+Y-you've escaped with your life, \#080E... But our revenge... Lord \#0A46 will... Heh heh... urgh...
+@5.3
+Wahahaha! I've slain our lord's enemy, \#000E! How do you like that, Mitsuhide!
+@5.4
+Urgh......
+@5.5
+M-Mother... forgive... me! I-it's over...
+@6.0
+Hah, hah... At last I'm back in \51E5... I must save Mother quickly!
+@6.1
+Lord \#000E... I have sad news...
+@6.2
+When \#0246 learned of his brother \#0A47's execution, he flew into a rage... and in revenge, your mother was... crucified...
+@6.3
+Wh...?! M-Mother... Th-that can't be true?!
+@6.4
+............ I'm sorry, but it is true.
+@6.5
+Ohhhhh......!! Forgive me... Mother!!
+@6.6
+It's all because I, Mitsuhide, did not think enough! Forgive me!!
+@6.7
+And now, saying Lord \#100E betrayed them, all of Tanba is rising against the \#10C3 and the \#100E!
+@6.8
+Ugh... *sob*... Damn you, \#1246! I'll make you pay!!
+@6.9
+So the fires of war in Tanba flared up again, between \#0A46, sworn to avenge his brother, and \#080E, who had lost his mother.
+@7.0
+Now... there's still time before Lord \#11FA arrives. I'll go and greet the old lord first.
+@7.1
+Oh, \#080E. I'm putting you to trouble as host this time. I'm counting on you.
+@7.2
+Ha! Lord \#11FA is an important ally of our house... I will take every care that there are no blunders.
+@7.3
+Mm... Our alliance with \#09FA will matter more and more from now on... This reception is important.
+@7.5
+\#09FA will arrive soon... Once you've shown him round the castle town, bring him to this keep.
+@7.7
+(So the old lord does trust me, giving me this post as host...)
+@7.11
+Let me show you around the castle town at once.
+@7.13
+Lord \#11FA, and gentlemen of his household, you must be tired.
+@7.39
+...I don't understand. I'm sure I served fresh fish...
+@7.40
+There was that business at camp during the \#11BF campaign too... Does the old lord hate me?
+@7.41
+Why must I suffer like this? Perhaps I should accept Lord \#001D's offer and rebel...
+@7.43
+Lord \#000E!
+@7.44
+Wha! What is it!
+@7.45
+The old lord is calling for you. Please come at once.
+@7.46
+The old lord wants me...? (What now, after all that...)
+@7.47
+\#000E, at your service.
+@7.48
+Mm, \#080E! I'm sorry about earlier.
+@7.50
+Even if it was in front of a guest, I lost my temper a little. Forgive me.
+@7.51
+No, no, as long as you understand... Then I'll return to entertaining Lord \#11FA.
+@7.52
+No, there's no need. I've already given the host's duty to someone else.
+@7.53
+What...?! Then I am dismissed from the post?
+@7.54
+I have a more important task for you. The truth is, a letter has come from \#0A05.
+@7.55
+From \%04205...
+@7.56
+The situation in the west is very uncertain, so he asks me to take the field... In short, he wants me to come to his aid.
+@7.57
+And so I am...
+@7.58
+Mm... So I want you to go with the reinforcements too. I'll take the Sanyo road... you take the San'in road.
+@7.59
+I'm to go to reinforce \%04205...?
+@7.60
+Displeased?
+@7.61
+No, not at all... Then I'll return to my castle at once and prepare to march.
+@7.62
+Mm... I'll send details later. You may go.
+@7.64
+What a hard taskmaster... First he dismisses me as host, then sends me to reinforce \%04205...
+@7.65
+Am I just being used as it suits him...?
+@8.0
+Welcome home. They say you were dismissed as host? Whatever happened?
+@8.1
+Never mind that... More to the point, the old lord has ordered me to reinforce \%04205... Prepare at once.
+@8.3
+\%03, you look very tired.
+@8.5
+What do you think... until the preparations for the march are ready, why not hold a renga gathering, for the first time in a while?
+@8.6
+Renga...? No, I'm sorry, but I'm not in the mood.
+@8.7
+The truth is, the famous renga poet Lord Satomura Joha has come here. I think it's a rare chance...
+@8.8
+Oh... Lord Satomura?
+@8.9
+Satomura Joha was known as the foremost renga poet of his day, and had ties with samurai all over the land.
+@8.10
+It might be good to take my mind off things... Very well, let's have renga.
+@8.11
+Then at once...
+@8.12
+\%03, an envoy has come from the old lord!
+@8.13
+What, from the old lord? Detailed orders for the march, perhaps. Right, the renga will wait... I'll see him.
+@8.22
+What?! What are you saying?! The lands I've raised with my own hands are to be taken from me?! That's absurd!
+@8.36
+Lord \#100E... This is how \#00C3 does things.
+@8.37
+Lord Isshiki...! You were still here?!
+@8.40
+When you're useful he works you to the bone, and when you're done he throws you away. That's how he treated His Highness too.
+@8.43
+Don't you understand yet, Lord \#100E? Are you not of the noble Toki Genji line?!
+@8.50
+Lord \#100E! Well said!
+@8.52
+Rebel
+@8.53
+Obey orders
+@8.54
+No, Lord Isshiki... Even so, I serve \#00C3! I have no wish to become a rebel!
+@8.57
+Lord \#100E!!
+@8.58
+Enough!! Go home!
+@8.59
+\%03... are you really sure?
+@8.60
+I don't care...
+@8.62
+And... I'm sorry for Lord Joha, but let's call off the renga after all... I'm not in the mood.
+@8.64
+\#000E obeyed his lord's order and gave up the lands he had held.
+@8.65
+Lord Isshiki... my mind is made up... Please give His Highness my regards.
+@8.68
+Understood... I'll await good news in \=07A.
+@8.69
+\%03, really...
+@8.71
+\%03, the renga gathering is ready. Everyone is waiting eagerly.
+@8.72
+I'm coming...
+@8.75
+Lord \#100E, thank you for inviting me today.
+@8.76
+Not at all... It's been a long time since I could trade verses with you, Lord Joha... Tonight let us enjoy renga to our hearts' content.
+@8.79
+Then first, Lord \#100E, would you give us the opening verse...?
+@8.80
+I give the opening verse...? Hmm...... Let me see.
+@8.81
+"Now is the time..."
+@8.84
+Oh... "Now is the time..."
+@8.85
+"...when rain rules over all, this fifth month."
+@8.88
+"Now is the time, when rain rules over all, this fifth month." A fine opening verse... Hm?
+@8.91
+("Time" ... Toki, Lord \#100E's Toki Genji line? "Rain rules over all"... "rules all under heaven"... Surely he doesn't aim for the realm?!)
+@8.94
+(Hahaha... Surely not.)
+@8.97
+Lord \#100E, it isn't the fifth month now, though...?
+@8.98
+Oh, so it isn't. Well, lately my heart has been gloomy as the early summer rains, and it just slipped out.
+@8.101
+Hahaha... I see. Still, it makes an interesting opening verse. I'll take it...
+@8.104
+("Time" ... Toki, Lord \#100E's Toki Genji line? "Rain rules over all"... all under heaven... the realm? Surely he doesn't aim for the realm?!)
+@8.108
+It is said the renga gathering that night went on until dawn...
+@8.109
+The reinforcements are ready to march!
+@8.110
+Mm! Then we march!
+@8.112
+\%03... Don't worry. I'll be back soon enough...
+@4.6
+Oh? What is it?
+@8.113
+......I'll pray for your fortune in battle.
+@8.114
+Mm... Everyone, let's go!
+@9.1
+Old lord, what will you do now?
+@9.2
+Don't call me "old lord"... I didn't rebel because I wanted to be a daimyo.
+@9.4
+Well, never mind that... First I must report to the court... and then send word to His Highness the Shogun.
+@9.5
+And gather allies among the Kinai lords... The former \#10C3 retainers may launch a battle of vengeance at any time.
+@9.6
+For that day too, we must win over as many allies as we can.
+@9.8
+But few felt any sympathy for \#080E, who had rebelled. Most waited to see which way the wind blew, or were openly hostile...
+@9.9
+Bah... I struck down \#08C3 for everyone's sake... What is this?
+@9.11
+Anyway, I'll go to Kyoto and report this to the palace. I leave securing things here to you!
+@10.0
+Oh, if it isn't Lord \#100E.
+@10.1
+Lord \#1430, you look well...
+@10.2
+Your rebellion... It seems it was rather deftly done. His Majesty was astonished.
+@10.3
+So it has already reached the Emperor's ears... I am truly sorry to have disturbed the capital.
+@10.4
+Not at all... His Majesty too was at his wits' end with \#08C3's high-handedness, so he will likely recognise your deed.
+@10.5
+Ah... if that is so, I am glad.
+@10.6
+Now... since you have taken \#00C3's place as ruler of the realm, you must have suitable court rank and office... Shall I arrange it?
+@10.7
+Not at all. I have never thought of my own advancement...
+@10.10
+Lord \#100E! Is Lord \#080E here?!
+@10.11
+Oh, Lord Isshiki... Was His Highness pleased with what happened?
+@10.14
+This is no time for that! \#0205's army is coming from the west at a terrifying pace!
+@10.15
+\#1205... \#0A05? Hahaha, surely not.
+@10.16
+That man asked me to come to his aid. He should be pinned down in the west. Isn't there some mistake?
+@10.19
+There's no mistake! Just as I was heading back to \=07A, I saw the \#1205 army with my own eyes!
+@10.20
+......Surely \#0205 can't have come back so fast... But then... that man could.
+@10.21
+Bah, if it's true, there's no time to lose. Lord \#1430, excuse me. I must go.
+@10.22
+Ah... Lord \#100E!
+@10.23
+Bah... There's no time to go back to \41DE... What to do...!
+@10.24
+\%03! Have you heard? \#0205's army is closing in!
+@10.25
+Oh, \%03! I heard! How do the Kinai lords stand?
+@10.26
+Well... our efforts went badly. Almost all of them have decided to wait and see.
+@10.27
+Bah... It can't be helped. We march alone!
+@10.28
+The army is already gathered here. It awaits only your command.
+@10.29
+Right, then we march! I won't let the likes of \#0A05 trample this righteous cause!
+@11.0
+Now... there's a lot to do from here.
+@11.1
+\%03! His Highness the Shogun has come from \=07A!
+@11.2
+Oh! He has come!
+@11.3
+\#080E! I, \#081D, am deeply moved by your great deed! Well done!
+@11.4
+You are well, Your Highness... For the revival of the Muromachi shogunate, I have struck down the traitor \#00C3.
+@11.5
+Mm, mm... I was waiting for a man like you. Now the shogunate is safe.
+@11.6
+Yet... the former \#10C3 retainers are still strong in many places... They will surely bare their fangs and attack us.
+@11.7
+True... We've struck down \#08C3 and \#08C2, but \#08C3's sons remain...
+@11.8
+\#0205 won't have given up on a battle of vengeance either... And \#017B's movements worry me.
+@11.9
+Mm... And \#01FA too. He may be the one to watch most closely.
+@11.10
+In any case, all of us will strive from now on to uphold the \#101D house and restore its days of glory.
+@11.11
+Reassuring words... You may go on ruling the castles you hold. I shall enter \51E5 Castle.
+@11.13
+To reward your work this time, I shall negotiate with the court myself and petition for an office to be granted you.
+@11.14
+Ah, no, not at all. I am quite content as I am...
+@11.15
+No, no, you must go on working for the Ashikaga. For that you'll need suitable prestige.
+@11.17
+Let me see... How about Junior Fourth Rank, Lower Grade, and Master of the Western Capital?
+@11.18
+Master of the Western Capital! That is too lofty an office for me!
+@11.19
+No, no... It is the office held by generations of heads of the Hosokawa, the Kanrei house that once upheld the Ashikaga shogunate. It suits you.
+@11.20
+I am honoured.
+@11.21
+Keep working for our house.
+@11.23
+With the Honnoji Incident, the age passed from the adventurer \#00C3 back to Shogun \#101D...
+@11.24
+The daimyo across the land rejoiced at the revival of the shogunate and welcomed the exit of \#08C3, the dreaded demon king...
+@11.25
+\#000E, the key player in this turn of the age, won renown as the loyal vassal who revived the Ashikaga shogunate.
+@11.26
+But, heedless of that fame, the former \#10C3 retainers and their ally \#01FA...
+@11.27
+were watching keenly for their chance at revenge...
+@12.0
+An envoy from Lord \#001D came to see you a little while ago, my lord!
+@12.1
+Lord \#001D... the younger brother of the late Shogun, Lord \#081F. Whatever could he want with you...
+@12.2
+I'm curious... I'll go to the castle and see.
+@12.3
+It is an honour to meet you. I come as the envoy of Lord \#001D.
+@12.4
+It is an honour to meet you. I am \37F0.
+@12.5
+Mm, I am \#0817. And what is your business with me today?
+@12.6
+Lord \#081D means to carry on his brother's wishes, become Shogun and bring peace to the realm.
+@12.7
+But the Kinai is held by the likes of the \#12C0 and \#12A7, who have even set up a puppet Shogun.
+@12.8
+Without an army behind him, Lord \#081D has no way to march on Kyoto.
+@12.9
+Sadder still, there is no daimyo with the backbone to help Lord \#081D drive out the Miyoshi forces...
+@12.10
+The \#105D and \#1008 of the Four Houses, and the \#1316, who ought to be first to offer help, cannot be relied on...
+@12.11
+We sent letters to the leading daimyo around the Kinai asking for help, but got no favourable replies...
+@12.12
+So I have come to rely on you, Lord \#0017, said to be the great man of Echizen.
+@12.13
+I beg you, with your strength, make Lord \#001D's march on Kyoto come true.
+@12.14
+When Lord \#081D reaches Kyoto, you will surely receive fitting rewards and rank.
+@12.15
+This is a chance to raise the \#1017 clan's prestige in one stroke!
+@12.16
+Hmm... For the sake of the Shogun's house, I would like to help if I can.
+@12.17
+But with the Kinai held by others, marching on Kyoto surely means war.
+@12.18
+And a march on Kyoto needs a great army. The cost would be enormous too.
+@12.19
+What's more, I'd have to send troops to guard Lord \#081D afterwards... I can't decide lightly.
+@12.21
+But Lord \#081D must find life as a wanderer very hard. Why not stay with our house for a while?
+@12.22
+Ichijodani here is called the little Kyoto of Echizen, so he can rest body and mind in peace. And the matter of the march will be settled in time.
+@12.23
+Most gracious words. Then I shall bring Lord \#081D here.
+@12.24
+\%03! I appoint you liaison with Lord \#081D. Be sure not to give any offence.
+@12.26
+Then I take my leave.
+@12.27
+Phew, I hope this doesn't turn into trouble...
+@12.29
+\%03, Lord \#001D has come to \51E5!
+@12.30
+Lord \#001D? Isn't he the younger brother of the late Shogun, Lord \#001F?
+@12.31
+Lord \#081D wants to march on Kyoto to succeed as Shogun, but hostile powers stand in his way...
+@12.32
+They say he has come to ask the old lord's help to fulfil his dearest wish.
+@12.33
+The old lord says he is appointing you liaison with Lord \#081D, so return to \51E5.
+@12.34
+I see... If it's Lord \#0817's order, it can't be helped.
+@13.0
+That's right, I must check with my lord whether he really means to march on Kyoto...
+@13.1
+\%03? What do you want?
+@13.2
+Ha. As liaison with Lord \#001D, I have come to ask your stance on marching to Kyoto.
+@13.3
+...Listen, marching on Kyoto would mean all sorts of trouble with the powers around us.
+@13.4
+I want no part in getting dragged into trouble.
+@13.6
+What's more, marching on Kyoto with Lord \#081D would take an enormous amount of money...
+@13.7
+But my lord! There is precedent: your forebear Lord Asakura Sadakage sheltered the 10th Shogun, Lord Yoshitada!
+@13.8
+And if the march succeeds, fitting rewards and rank will await you too. It is worth pulling the chestnuts from the fire.
+@13.9
+So you recommend the march?
+@13.10
+Yes. Now is the perfect chance to raise the prestige of the \#1017 clan.
+@13.11
+I beg you, decide!
+@13.13
+No, the time isn't ripe yet. Even if we march, it must be after thorough preparation.
+@13.15
+\%03, you overstep yourself, lecturing me.
+@13.16
+You need only do as I tell you. Understood?
+@13.18
+As I thought, my lord has no intention of marching. I can just see him putting it off again and again in the name of preparation.
+@13.19
+What would Lord \#081D and his people think if they knew...
+@14.0
+\%03, does Lord \#0017 have any intention of marching on Kyoto?
+@14.1
+Lately I can't help feeling Lord \#1017 lacks ambition.
+@14.2
+\%03, does Lord \#0017 really intend to march on Kyoto?
+@14.3
+Oh, you're Lord \#07FE, aren't you? Tell me, does Lord \#0017 really mean to march on Kyoto?
+@14.4
+Lord \#081D grows impatient, since Lord \#1017 never gives the order to march.
+@14.5
+Even to my eyes, the lord of the \#1017 is unusually slow to act.
+@14.6
+It is hard to say, but Lord \#0817, though he loves all things in the Kyoto style, has no thought of going to Kyoto himself.
+@14.7
+I have told him so too, but I think Lord \#081D would do better to consider relying on someone else...
+@14.8
+Hmm... So Lord \#0817 was all talk...
+@14.9
+Very well. On your advice, I'll sound out other daimyo houses we might rely on.
+@14.10
+Very well. On your advice, I shall sound out other daimyo houses we might rely on.
+@15.0
+Oh, Lord \#0817! I hear you've retaken \51E5.
+@15.1
+Now I can succeed to the Shogun's house. I don't know how to thank you enough for this.
+@15.2
+From now on I shall rely on you as if you were my own father!
+@15.3
+I am most grateful.
+@15.4
+And I have recommended you to the court as Commander of the Left Palace Guards.
+@15.5
+Then I shall go to \51E5. Farewell!
+@15.6
+Lord \#001D has reached Kyoto and made \51E5 his castle!
+@15.7
+And on Lord \#081D's recommendation, the old lord has been made Commander of the Left Palace Guards. Our house's prestige just keeps rising!
+@15.8
+If this castle is to be Lord \#001D's, what becomes of us?
+@15.9
+Ha. The old lord relieves you as castle lord and says to return to \51E6.
+@15.10
+I see... If it's Lord \#0817's order, it can't be helped.
+@15.11
+Also, the lord of Nijo Castle, \37F3, is to be relieved and placed under the old lord.
+@15.13
+In month \1007 of \1006, \#0017 marched on Kyoto with \#001D.
+@15.14
+With this, the warring age took a new turn.
+@16.1
+Oh, aren't you Lord \#081D's envoy? Has something happened?
+@16.2
+What is it?
+@16.3
+What I'm about to say must stay between us...
+@16.5
+Lord \#081D has given up on Lord \#0817, who never stirs himself, and has decided to rely on another daimyo house.
+@16.6
+Let me guess... the daimyo he has in mind is \#00C3, isn't it?
+@16.7
+The \#1077 and \#11C1 are far from Kyoto. Marching with an army, who knows how many years it would take.
+@16.8
+If Lord \#081D is in a hurry to reach Kyoto, the candidates must be daimyo houses near the capital.
+@16.9
+\#00C3 has grown greatly in recent years and holds the key province of Mino. He's ideal for marching on Kyoto.
+@16.10
+Hmm, an accurate analysis. As expected of you.
+@16.11
+But however much we wish to rely on him, we have no connection to approach Lord \#08C3.
+@16.12
+We can hardly ask Lord \#0817 to act as go-between because we're going to rely on \#08C3...
+@16.13
+Lord \#0817 already despises the \#10C3 clan as upstarts, after all.
+@16.14
+So... I hear you are from Mino. Don't you have some connection to the \#10C3 clan?
+@16.15
+Connection? Why, I have met Lord \#08C3 himself.
+@16.16
+That's more than I could hope for! Won't you go to Lord \#08C3 as Lord \#081D's envoy?
+@16.17
+Lord \#08C3's wife, Lady \#0444, is the daughter of my former master, Lord \#0144.
+@16.18
+And I am a cousin of Lady \#0444 on her mother's side.
+@16.19
+Oh, that's more than I could hope for! Won't you go to Lord \#08C3 as Lord \#081D's envoy?
+@16.20
+What! Me?
+@16.21
+Now you're our only hope. Won't you please take it on?
+@16.22
+(What should I do...)
+@16.23
+Leave it to me
+@16.24
+I must decline
+@16.25
+Understood. Leave it to me!
+@16.26
+Oh, you'll take it on! But if Lord \#0817 finds out, won't it put you in a bad position...
+@16.27
+No, I too have felt Lord \#0817 falls short as a master.
+@16.28
+I mean to take this chance to give up on the \#1017 clan, just as Lord \#081D has. No need to worry.
+@16.29
+I'm humbled by your resolve. Then please take this letter from Lord \#081D.
+@16.30
+I have it safe. Then I'll go to Lord \#08C3 before word gets out.
+@16.31
+I'll await good news!
+@16.32
+I too am a retainer of the \#1017 clan. I can't lend a hand to anything against my lord's interests.
+@16.33
+I'm sorry, but I can't accept that.
+@16.34
+...Is that so.
+@16.35
+That night, \#001D and his party slipped out of the \51E6 castle town under cover of darkness and vanished...
+@17.0
+I must meet Lord \#08C3 and hand over Lord \#081D's letter.
+@17.1
+I am \#000E, retainer of the \#1017 clan! I come as an envoy to Lord \#00C3. Please let me through.
+@17.2
+If you're an envoy of the \#1017 clan, you must have something to prove who you are. Show it to me.
+@17.3
+No, this time I'm a secret envoy, so I carry no such thing.
+@17.4
+Then give up. I can't let a suspicious man like you into the castle.
+@17.5
+Suspicious? How rude! I'll have you know I'm a relative of Lord \#08C3's wife, Lady Kicho!
+@17.6
+A relative of the lady of the house? Now that's even more suspicious.
+@17.7
+Don't say that, just let me through. If I can't see Lord \#08C3, I can't carry out my duty as envoy.
+@17.8
+What are you saying! If I let suspicious men stroll in, I can't carry out my duty as gatekeeper!
+@17.9
+(Bah, this is getting nowhere!)
+@17.10
+What's all this noise?
+@17.11
+Ah, \%03, I'm sorry. This suspicious man keeps pestering me to let him through the gate.
+@17.12
+As I said before, I am \#000E, retainer of the \#1017! I'm not a suspicious man!
+@17.13
+Mm, this is indeed Lord \#07FE. I've met him before. There's no mistake.
+@17.14
+I-is that true? Oh, I've been terribly rude.
+@17.15
+Then I may go through. Lord \#0FF1, you've saved me.
+@17.16
+No, no, it was nothing. He meant no harm. Please forgive him.
+@17.17
+He even went so far as to claim he's related to the lady of the house. Shouldn't we arrest him...?
+@17.18
+No, Lady Kicho's mother is indeed Lady \#100E, of the \#100E family.
+@17.19
+I'd heard that Lord \#080E of the \#100E family, after much wandering, was serving the \#1017 clan. So that was you.
+@17.20
+You know of me? You've saved me, \%03.
+@17.21
+No, no, think nothing of it. I've often heard of you. Now, this way.
+@17.23
+It's been a long time. I am \#000E.
+@17.45
+So that is \#00C3... Nothing like Lord \#0817.
+@17.46
+So many years since I left home... and back home again, I meet a man worthy to be my master. Fate is a strange thing.
+@17.47
+It was soon after that that \#001D, with \#07FE's help, moved to the \51E6 castle town.
+@18.0
+Oh, if it isn't \&03! It's been a long time. Lovely weather lately...
+@18.1
+\&03? Sorry, I'm in a hurry.
+@18.2
+Now, now, don't say that... It's been so long, let's \&05...
+@18.3
+I told you, I've no time to chat with \&01 right now! Excuse me!!
+@18.4
+What's with that attitude... Looking so pale...
+@18.5
+Ugh, I must hurry!!
+@19.0
+Right... \#0247! I'll bury you along with this castle.
+@19.1
+My lord!! An envoy has come from inside the castle!
+@19.2
+What!? ...Well, bring him in.
+@19.4
+My lord, I have brought the envoy!
+@19.5
+This is Lord \#100E... \#0246, at your service.
+@19.6
+It is an honour to meet you. I am \#0246, younger brother of \#0247.
+@19.7
+...And what is your business?
+@19.8
+I have come with an earnest request for Lord \#100E. In truth... we wish to make peace with the \#10C3 clan.
+@19.9
+P-peace!? Was it not the \#1247 who rejected our negotiations out of hand only recently!?
+@19.10
+There were reasons for that. Tanba is a land with deep ties to the Ashikaga shoguns... and its local lords are fiercely independent.
+@19.11
+Had we meekly surrendered to the \#10C3 clan, who destroyed the shogunate, we feared our own lords would turn against us.
+@19.12
+There were reasons for that. Tanba is a land with many Honganji followers... and its local lords are fiercely independent.
+@19.13
+Had we meekly surrendered to the \#10C3 clan, the Honganji's enemy, we feared our own lords would turn against us.
+@19.14
+There were reasons for that. Tanba's local lords are fiercely independent...
+@19.15
+Had we meekly surrendered to the \#10C3 clan, we feared our own lords would turn against us.
+@19.16
+Hmm...... Then why do you now wish to make peace?
+@19.17
+Tanba is as worn out by these long wars as any other land.
+@19.18
+If we cross swords with the \#10C3 clan, the war will drag on and the land will surely be laid waste...
+@19.19
+And faced with the army of Lord \#100E, said to be the \#10C3 clan's finest general, even the Tanba lords have grown weary of war.
+@19.20
+My brother \#0A47 seized that chance to explain the folly of fighting the \#10C3, and at last they agreed to make peace.
+@19.21
+I see... I understand your reasons. We have no wish to shed blood needlessly either. What are your terms?
+@19.22
+Our terms are that the lives of the whole \#1247 clan be spared and our lands confirmed.
+@19.23
+Very well, I accept those terms. I, \#080E, give you my word on my honour. Yet though we call it peace, it is surrender in all but name...
+@19.24
+\#0A47, head of the \#1247 clan, must come to \51E7 to pay his respects. Is that acceptable?
+@19.25
+It is. But for \#0A47 to go to \51E7, we have one more condition.
+@19.26
+As a guarantee of \#0A47's life, we would ask Lord \#100E for a hostage... your mother, Lord \#100E......
+@19.27
+Wh-what!? My mother, as a hostage!?
+@19.28
+It is the only way to win over those in the castle who wish to fight on.
+@19.30
+Make peace
+@19.31
+Refuse to listen
+@19.32
+......Very well. I agree to the hostage.
+@19.33
+Truly!? Lord \#100E, I am most grateful!
+@19.34
+Then come to my castle, \41DE, with Lord \#0A47 in a few days. I, \#080E, will escort you to \51E7.
+@19.35
+Understood. Now, I take my leave!
+@19.36
+\&03! Are you sure about sending your mother as a hostage? Is pacifying Tanba so urgent that...
+@19.37
+It is fine, \&03. No blood will be shed in vain... and Lord \#08C3 will surely be pleased.
+@19.38
+Now, we return to \41DE!
+@19.40
+......I cannot accept such terms!!
+@19.41
+I see... A pity, but the talks have failed. Now, I take my leave!
+@19.42
+That was a rare chance for peace... Forgive me, all of you.
+@19.43
+Do not trouble yourself, \&03. No one could accept such terms. Now, give the order to storm the castle!
+@19.44
+Yes! Very well, attack!
+@20.0
+All troops! Halt!
+@20.1
+Huh? Why stop in a place like this...? A rest?
+@20.2
+Listen! I will now tell you this army's true destination!
+@20.3
+Our true destination...?
+@20.5
+The enemy... is at Honnoji!
+@20.6
+Honno...ji?
+@20.7
+A scout has just reported! The arrogant \#00C3 and his son are at Honnoji now, with only a handful of men!
+@20.8
+\#08C3 drove out the Shogun, scorned the imperial court, ignored his retainers' counsel and brought misery upon the people!
+@20.9
+In Heaven's name, I, \#000E, shall strike down \#00C3 and \#08C2! Are you all ready!?
+@20.10
+Th-then... you mean to rise in rebellion?
+@20.11
+Exactly! We will never get another chance like this! Now, to Honnoji!
+@20.12
+At the same hour, at Honnoji in Kyoto...
+@20.13
+What is it? What's all this noise!
+@20.14
+My lord! Terrible news! The temple is surrounded!
+@20.15
+What nonsense! This is the heart of my domain! Who would dare attack me?
+@20.16
+It is a rebellion!
+@20.17
+Rebellion!? Who? Who dares turn his blade on me!?
+@20.18
+Their banner is... the blue bellflower! It is Lord \#100E... Lord \#080E's rebellion!
+@20.19
+\#080E!? That baldpate! The fool!
+@20.20
+Bring me my bow! Bah, as if I'd let the likes of \#080E strike me down!!
+@21.0
+The likes of \#0205...
+@21.1
+\%03! The enemy is almost upon us!
+@21.2
+Even so... according to the scouts, the enemy has far too many men... More than \#0A05 could ever raise by himself...
+@21.3
+It seems many former retainers of the \#10C3 clan have gathered on the enemy side.
+@21.4
+However hard we courted them, they would not join us... What trick did that sharp-eyed Monkey use to win the generals over...
+@21.6
+Hmm... The decisive battle will likely be somewhere near Yamazaki...
+@21.7
+Whoever takes Mount Tenno may well win this battle...
+@22.0
+Attack! If we lose this battle, I will be remembered as nothing but a traitor!
+@22.1
+We must win, whatever it takes!
+@23.0
+So... this is the end...
+@23.1
+My life... cut short by the likes of \#080E... who would have thought...
+@23.4
+Bring a drum! I shall dance Atsumori!
+@23.5
+My lord! Never mind that, please flee at once!
+@23.6
+There's not even a gap an ant could crawl out of... Set fire to the temple! Let no one take my head!
+@23.7
+My lord...!!
+@23.8
+Man's fifty years... set against the world below... are but a dream, an illusion...
+@23.9
+Having once been granted life... is there any who shall not perish.........
+@23.11
+Heh...
+@23.12
+Death is certain...
+@23.14
+\#08C3: the man who turned the tide of the Sengoku era at Okehazama, and whose revolutionary policies opened the door to a new age...
+@23.15
+But his glory came to a sudden end through \#000E's unexpected rebellion... He died aged \1009.
+@23.16
+\#00C3 set fire to Honnoji himself and is thought to have taken his own life!
+@23.17
+Hmm... so we could not take his head! What of \#08C2 at Myokakuji?
+@23.18
+Lord \#08C2 seems to have taken his own life too!
+@23.19
+Good! We return in triumph! Back to \41DE to plan our next move.
+@23.21
+Defeated...! So it was impossible after all to defy that Demon King of the Sixth Heaven...
+@23.27
+\%03! Curse you! Who are you!?
+@23.30
+\%03!!
+@24.6
+\%03! Y-you curs! Who are you!?
+@24.12
+\#1205's force is destroyed! \#0A05 seems to have fled!
+@24.13
+You've done it, \%03!
+@24.14
+Yes... but it's a pity he escaped. Well, no matter... we'll crush him at our leisure.
+@24.15
+Now those who meant to side with \#0A05 may change their minds.
+@24.16
+Yes... Well then, first a triumphant return. And then we shall welcome the Shogun.
+@25.0
+We've taken \51E5! When \#001D hears we have entered the capital, he'll be delighted.
+@25.1
+Hmm... I never thought we'd really march on the capital. You never know until you try...
+@26.0
+\&01, a letter has arrived from the old lord in \51E7.
+@26.1
+Hm? From the old lord? What could it be? Let's see...
+@26.4
+...What does the old lord say?
+@26.5
+Hm... It's a letter urging me to attack the \#1247 at once...
+@26.6
+But Tanba is a hard land to attack... Nothing is gained by rushing.
+@26.7
+Indeed...... March in haste and we'll only send men to a pointless death.
+@26.8
+...Then why not make them surrender without using troops?
+@26.9
+\#0247 is a stubborn one... Would he ever surrender, I wonder?
+@26.10
+If surrender is impossible, we could make them a vassal of the \#10C3 clan, or form an alliance...... As long as Tanba is pacified, that will do.
+@26.11
+Only, if the talks drag on, the old lord may grow even more displeased......
+@26.13
+Make them a vassal
+@26.14
+Take it by force
+@26.15
+Yes, I can't waste men's lives for nothing. Let's try sending an envoy to the \#1247...
+@26.16
+If they give a hostage, their lives and lands will be guaranteed... Open talks on those terms.
+@26.17
+Yes, sir! I'll make the arrangements at once.
+@26.18
+Then the council is over.
+@26.19
+No...... Here I should follow the old lord's orders and destroy the \#1247.
+@26.21
+The old lord would probably not be satisfied with merely making the \#1247 a vassal...
+@26.22
+We will take it by force. Is everyone agreed?
+@26.23
+Yes, sir... We will follow your orders, my lord.
+@27.0
+Before the council, there is someone I wish to introduce to you all.
+@27.1
+This is Lord \#001D, younger brother of the late Shogun, Lord \#001F!
+@27.3
+Lord \#081D will go to the capital and succeed to the office of Shogun.
+@27.4
+Our house too intends to lend its strength to Lord \#081D's march on the capital. All of you, bear that in mind!
+@27.5
+("Intends", is it... Does our lord truly intend to march on the capital?)

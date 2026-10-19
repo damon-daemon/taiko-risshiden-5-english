@@ -1,0 +1,174 @@
+@0.0
+Boss! The \#10C3 clan has put \#0153 in charge of building the castle at Sunomata.
+@0.1
+I see... \#0153, "Sakuma the Rearguard". So he means to build the castle while holding firm.
+@0.2
+But with \#0153, the building will fail.
+@0.3
+It takes a commander who can come up with something out of the ordinary to build that castle.
+@1.0
+Oh, \%03, where have you been? No, never mind that!
+@1.1
+Lord \#08C3 has given me leave to take you into my service!!
+@1.2
+Now I can take you on, as I promised.
+@1.3
+I am most grateful.
+@1.4
+...Hearing you talk like that throws me off somehow...
+@1.5
+No, this is the proper distance between lord and retainer. If I spoke as familiarly as before, people would talk behind your back.
+@1.6
+If people talk behind a lord's back, it shows his retainer has failed him. I beg you to bear with it.
+@1.7
+Yes, your loyalty pleases me. I'm counting on you from now on, \#0FFE!
+@1.9
+Oh, I nearly forgot. Lord \#08C3 suggested you change your name.
+@1.10
+He said "\#0A49" is a bit too light for a samurai's name.
+@1.11
+He told you to think of a samurai's name, so that you won't be taken lightly.
+@1.12
+I am grateful for his words. Then I will take the name I have kept hidden until now: "Masakatsu".
+@1.17
+\#0249, eh? Yes, a fine name!
+@2.0
+Boss! \#00C3 has built a castle at Sunomata!
+@2.1
+Boss! \#07F0 has built a castle at Sunomata!
+@3.0
+Boss! \37F1 has built a castle at Sunomata!
+@4.0
+Boss! It looks like the \#10C3 lot mean to build a castle at Sunomata.
+@4.1
+Oh! If they can secure Sunomata, it would make a perfect base for attacking Mino.
+@4.2
+But... building a castle there is no easy task.
+@4.3
+The \#1142 clan won't just sit and watch, and on top of that, whenever the long rains come, the place floods without fail.
+@4.4
+So this castle building is sure to fail, and the \#10C3 will be in for a lot of trouble for nothing.
+@4.5
+Yes, that's probably how it'll go.
+@5.0
+Boss! Just like you said! The \#10C3 lot are trying to build a castle at Sunomata again, never learning.
+@5.1
+Hm, as I thought... So who have they sent this time?
+@5.2
+\#017B.
+@5.3
+"Attack-attack \#117B", eh... Hm...
+@5.4
+How do you think it'll go this time?
+@5.5
+...It'll fail. \#017B can't build it.
+@5.6
+\#097B will try to keep the \#1142 army away from the castle, but that alone will fail.
+@5.7
+(A castle is meant to be easy to hold with few men.)
+@5.8
+(But while it's being built, that does no good. On the contrary, you need men to guard the unfinished works.)
+@5.9
+(Even if they sally out, they can't go far. Not being free to choose the battlefield is already a handicap.)
+@5.10
+(If he saw the handicap of building, he'd realise the key is to shorten the building time...)
+@5.11
+Do you know how to get the castle built, Boss?
+@5.12
+Of course. To build a castle at Sunomata, it needs the help of us river men.
+@5.13
+(To carry building materials fast and in bulk, there's no way but the river.)
+@5.14
+Boss, you're not going to side with the \#10C3...
+@5.15
+I won't. \#08C3 has a violent temper. I'd lose my head before long.
+@6.0
+What with Sunomata and all, maybe I'll go to \61EC and gather some news...
+@7.4
+Lord \#0FFE? It's Lord \#0FFE, isn't it! I've been wanting to see you!
+@7.7
+Before serving the \#10C3 clan, the wandering \#0205 met \#07FE on the bridge over the Yahagi River and served him for a time as a servant.
+@7.9
+How have you been, \%03?
+@7.10
+Oh, the chief of the rustic warriors is fine. But you seem to have come up in the world.
+@7.11
+Yes, I served the \#10C3 clan as a foot soldier and was promoted to samurai. My name is now \#0205.
+@7.12
+I see... I've long been on the \#1142 side, so you and I will be enemies...
+@7.13
+That's the thing, \%03. Why side with the \#1142?
+@7.18
+Lord \#08C3 is no fool. Would a fool be recognised by Lord \#0944?
+@7.19
+Having seen \#08C3's worth at the Shotokuji meeting, \#0144 left a will giving all Mino to \#08C3 upon his death.
+@7.21
+That's where you come in, \%03. If you and I team up, building the Sunomata castle is easy.
+@7.23
+(This fellow... He's thinking the same as me. Hmm...)
+@7.24
+True, with this the castle would surely be built.
+@7.25
+I mean to take on this job at the next council.
+@7.26
+If the castle is built, I'll get my lord's word to take you into service. What do you say, will you help me?
+@7.27
+...I have no wish to serve \#08C3. True, \#08C3 is no fool. But his fury is close to madness.
+@7.28
+Dangerous, dangerous. You may be fine, but I'd lose my head one day.
+@7.30
+So if the castle is built, take me on as your man instead. Then I'll help.
+@7.31
+Oh! \%03, then the castle is as good as built!
+@7.32
+Then I'll go and make arrangements. Farewell for now.
+@8.0
+Boss! Lord \#0205 has started building the castle at Sunomata!
+@9.0
+Boss! Lord \#0205 has built the castle at Sunomata!
+@9.1
+I see... So I'll rise in the world along with Hiyoshi, no, Lord \#0A05.
+@9.2
+Boss, isn't it hard serving your old underling?
+@9.3
+Ha ha ha ha ha... No need to worry! We know each other well, so it's easier, if anything.
+@10.0
+Boss! You called?
+@10.1
+Yes! A friend of mine is taking on the Sunomata castle job, so I'm helping him build it!
+@10.2
+Eh, is that true?
+@10.3
+Yes! Take the men who are free and go into the forest behind Mt. Inaba!
+@10.4
+Once you've cut the timber, put together the palisades, towers and the rest as a trial!
+@10.5
+Once the trial assembly is done, take it all apart again and make it into rafts.
+@10.6
+When word comes that the building has begun, send the rafts down the river. Palisades first, then towers, then barracks.
+@10.7
+Then all Lord \#0A05 has to do is put the castle together at Sunomata! Show them what us river men can do!
+@10.8
+Right! Got it!
+@11.0
+Boss! Just like you said: \#0153 got beaten by the \#1142 army and pulled out.
+@11.1
+I see... But \#00C3 won't give up building over a setback like this.
+@11.2
+You mean the \#10C3 army will come to build again?
+@11.3
+That's right. Now, who will they send next...
+@12.0
+Boss! \#017B, who was building a castle at Sunomata, lost to the \#1142 army and pulled out!
+@12.1
+I see. So he failed after all.
+@12.2
+You called it spot on, Boss.
+@12.3
+But \#08C3 won't give up building yet.
+@12.4
+Now, who'll come out next...
+@12.5
+(Unless a \#10C3 commander thinks of the same plan as me, the building is sure to fail.)
+@12.6
+(I wonder if there's such a man in the \#10C3 clan?

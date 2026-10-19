@@ -1,0 +1,168 @@
+@0.0
+My liege, an envoy has come from the \#10C3 house.
+@0.1
+Mm, very well. I'll see him.
+@0.2
+(What could it be? Surely not...)
+@0.3
+\%03, an envoy from the \#08C3 house just asked to see our liege.
+@0.4
+An envoy from the \#08C3 house... I wonder what it is. I'll take a peek.
+@0.5
+The \#08C3 house, to see our liege? I'm curious. I'll take a peek.
+@0.6
+Oh, isn't that \%03? Good of you to come.
+@0.13
+Insolent wretch, do you know who I am! I am the Shogun, \#081D!
+@0.14
+When I attacked the \#1017, was it \%0401D who incited the \#1010 to betray me?
+@0.19
+I have heard of your schemes to bring me down.
+@0.22
+Wh-what nonsense! It was none other than \%040C3 who made me Shogun!
+@0.27
+If I wished, crushing the Shogun's house would be easier than stepping on an ant.
+@0.29
+I won't go so far as to take your life.
+@0.35
+Don't underestimate me. If I give the word, the finest generals in the realm will rush to my side.
+@0.38
+I am the Shogun, head of the warrior houses! Why should I bow to the likes of \#08C3!
+@0.39
+I'll make \#08C3 submit to my authority!
+@0.40
+What I feared has come to pass... I must think about what to do with myself.
+@0.41
+What I feared has finally happened... I must think about what to do with myself.
+@0.42
+\%03, \#00C3 has listed our liege's betrayals and called on our house to surrender!
+@0.43
+It seems our liege has resolved to fight to the end.
+@0.44
+So it leaked out after all. This is a fine mess.
+@0.45
+So it leaked out after all. What a mess...
+@1.0
+The \#10C3 army is marching on this castle!
+@1.1
+Wh-what! Bah, the insolence... I'll strike them down!
+@1.2
+What! That \#08C3, how quick he is!
+@1.3
+\%03, grave news! The \#10C3 army is attacking \51E6!
+@1.4
+So it's come to this. Now, what should I do...
+@1.5
+It's turned out just as I feared. I must think about what to do with myself...
+@2.0
+To stand against the \#10C3 house, bringing the \#1287 to our side would be the best plan.
+@2.1
+The \#1287's influence reaches across the land. However many troops the \#10C3 house has, they'll have their hands full with the \#1287.
+@2.2
+As I recall, \#08C3 wanted the land of \51E6...
+@2.7
+My liege, you called for me?
+@2.8
+Mm. Will you go as my envoy to the \#1287?
+@2.9
+Tell them \#08C3 wants the land of \51E6, and ask them to help overthrow \#08C3.
+@2.12
+Yes, sir. I'll set out at once. Await good news.
+@2.13
+\%03, it seems our liege means to bring the \#1287 into the alliance against the \#10C3 house.
+@2.14
+The \#1287... The \#1287 have many followers across the land; their influence is beyond measure...
+@2.15
+If the \#1287 turns against them, the \#10C3 house can't rest easy. That's our liege for you.
+@2.16
+Just as \#001D intended, the \#1287 turned against the \#10C3 house and called on its followers everywhere to rise.
+@2.17
+\#0287's call to arms was extremely harsh: "Whoever does not rise up will be excommunicated."
+@2.18
+The decisive battle between the \#10C3 house and the \#1287 was close at hand.
+@3.0
+Ugh, so this is the end...
+@3.1
+The Shogun, eh? Serves you right.
+@3.2
+\#08C3...! I'm ready. Go on, cut me down!
+@3.3
+Hmph. I once carried you like a portable shrine. For old times' sake, I won't cut you down.
+@3.4
+Y-you'll spare me!?
+@3.5
+I'm not sparing you. Letting you go like this is \#08C3's punishment.
+@3.6
+A Shogun who foolishly defied \#08C3 without knowing his own strength, pointed at by all as the Shogun who destroyed his own shogunate.
+@3.7
+Go and live in shame as long as you can. Hahahahahaha...
+@3.8
+C-curse you... One day I will wipe out this humiliation.
+@3.10
+\%03, an envoy from the \#10C3 army has come urging surrender.
+@3.11
+Our liege has already given up the fight and been banished by \#08C3.
+@3.12
+\#08C3 says that, apart from our liege, any retainers of the \#101D who wish may enter the \#10C3 house's service...
+@3.13
+(What should I do...)
+@3.14
+Serve \#08C3
+@3.15
+Become a ronin
+@3.16
+The age of the \#10C3 house has come. I'll surrender to the \#10C3 house.
+@3.17
+No, I can't serve the \#10C3 house that destroyed my master's.
+@3.18
+\%03, \51E6 has fallen.
+@3.19
+Is our liege, is our liege safe? Or...
+@3.20
+Sir. \#08C3 has banished our liege.
+@3.21
+\#08C3 is calling on those who served the \#101D house to surrender. What shall we do?
+@4.0
+Before the council, I'll tell you all: that \#00C3 has made laws limiting my authority.
+@4.1
+Who does that wretch think I am! I am the Shogun, at the summit of the warrior houses!
+@4.2
+Please calm yourself. Our forces are no match for \%040C3.
+@4.3
+If we break with him, it's we who will be destroyed. Bear it for now, however hard.
+@4.4
+Hmph, there are plenty of daimyo besides \#08C3.
+@4.5
+I've already had favourable replies from \#0017 of Echizen, \#01C1 of Kai and \#0077 of Echigo.
+@4.6
+I've already had favourable replies from \#0017 of Echizen and \#01C1 of Kai.
+@4.7
+I've already had favourable replies from \#0017 of Echizen and \#0077 of Echigo.
+@4.8
+I've already had a favourable reply from \#0017 of Echizen.
+@4.9
+I've already had favourable replies from \#01C1 of Kai and \#0077 of Echigo.
+@4.10
+I've already had a favourable reply from \#01C1 of Kai.
+@4.11
+I've already had a favourable reply from \#0077 of Echigo.
+@4.12
+I've already had favourable replies from several daimyo houses.
+@4.13
+What! You've been exchanging letters with the daimyo behind \%040C3's back?
+@4.14
+If \%040C3 finds out, it will be a disaster!
+@4.15
+If only \#08C3 had time for such things. But I've already made my moves.
+@4.16
+From now on, our house will obey the \#10C3 house outwardly and oppose it in secret. Now is the time to lie low.
+@4.17
+One day I'll teach \#08C3 a lesson.
+@4.18
+(This has become serious.)
+@4.19
+\%03, \%040C3 has made laws limiting the Shogun's (\#001D's) authority!
+@4.20
+It seems the Shogun's secret letters to the daimyo behind \%040C3's back have leaked out.
+@4.21
+The Shogun is a real handful. I hope it doesn't come to a break with the \#10C3 house...

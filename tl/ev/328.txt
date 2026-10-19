@@ -1,0 +1,124 @@
+@0.0
+Lord \#07FE! Good news!
+@0.1
+Hm? What is it?
+@0.2
+Lord \#0035, lord of \41E1, has given up on the \#1311 house and come over to ours!
+@0.3
+Oh! Is that true!?
+@0.4
+Yes, sir! There is no mistake!
+@0.5
+I see... But \#0311 won't sit back and watch... He'll surely attack \#0035...
+@1.0
+Report! It seems \#0311 has marched to attack Lord \#0035 of \41E1.
+@1.1
+What! On \41E1!?
+@1.2
+Lord \#1035 has asked the old lord for reinforcements!!
+@1.3
+Hmm... We can't abandon someone who sided with us...
+@1.4
+The old lord says Lord \#0FFE is to go at once to reinforce \41E1.
+@1.5
+So my brother says he'll leave the relief of \41E1 to me, on behalf of the Shimazu.
+@1.7
+Right, understood! We'll show that Bear of Hizen the pride of Shimazu warriors! To arms!
+@1.8
+But, my lord! To reach \41E1, we must pass through \#1311 land...
+@1.9
+How about striking \41DF instead?
+@1.10
+No, \41DF is strong. And if \#0B11 shuts himself up in the castle, it'll be even harder to attack.
+@1.11
+We'll go straight to \41E1 to draw \#0B11 into a field battle. Not by land, but by sea!
+@1.12
+By sea?
+@1.13
+That's right! We cross the Ariake Sea and land on the Shimabara peninsula!
+@1.14
+We go to \41E1 at once! To arms!
+@1.17
+Lord \#1035 is asking the old lord for reinforcements!!
+@1.18
+Hmm... We can't abandon someone who sided with us... Right, I'll send reinforcements at once.
+@1.19
+Gather the generals in the castle town in the Council Chamber at once!
+@1.25
+The old lord orders you to come to the castle at once.
+@1.27
+As you have all probably heard, \#0035 of \41E1 has asked for reinforcements.
+@1.28
+Abandoning one who has submitted to us would shame the warriors of Satsuma. So I want to send reinforcements at once.
+@1.29
+A fine plan. Let us head for \41E1 at once.
+@1.30
+We'll avoid \#1311 land and cross the Ariake Sea to the Shimabara peninsula, then go to \41E1.
+@1.31
+I give command of the reinforcements to \#0983! Bring back \#0311's head!
+@1.32
+Yes, sir! On the honour of the \#118A house, I will surely win!
+@1.33
+Mm!! I'm counting on you!
+@1.34
+Right, to arms!
+@2.0
+Report! ...\41E1 has fallen to \#0311! The castle's commander, Lord \#0035, was killed too!
+@2.1
+Failing to save \41E1 was our house's fault... It will weigh on us for a long time...
+@2.2
+Victorious at Okitanawate, \#0311 grew ever stronger, centred on Hizen...
+@2.3
+A struggle with the \#118A house became unavoidable...
+@2.4
+Now the \#1311 should quiet down a little...
+@2.5
+With the death of \#0311, the fierce general feared by the daimyo around him as "the Bear of Hizen"...
+@2.6
+Supremacy in Kyushu tilted sharply toward the \#118A house...
+@2.7
+With the death of \#0311, \#07F1 took over.
+@3.0
+Oh, I'm most grateful for your help! I'm truly sorry for the trouble this time.
+@3.1
+And the \#1311 army?
+@3.2
+Hearing that Lord \#0FF1 was coming, they seem to be marching this way eagerly.
+@3.3
+Hmm... We don't know the lay of the land here... Where should we meet them?
+@3.4
+Well... There's a raised path called Okitanawate. If we can lure them there, the mud will catch their feet...
+@3.5
+And the \#1311 side won't be able to move freely, you mean...
+@3.6
+Right, then we advance. \#0835, hold this castle firmly!
+@3.7
+Right, then we advance. Lord \#0835, hold this castle firmly!
+@3.8
+Yes, sir! I pray for your fortune in battle.
+@4.0
+The enemy seems to have a great many troops...
+@4.1
+But look! Their vanguard seems to be stuck in the mud of the paddies.
+@4.2
+Oh, so it is! The units behind are trampling the ones ahead, it's chaos!
+@4.3
+Right! Now! We'll break the \#1311 army in one go! Never mind their numbers!
+@4.4
+The \#0311 army's morale has fallen sharply. The \#07F1 army's morale has risen.
+@4.5
+Now! Attack!
+@5.0
+Report! Our army is collapsing!
+@5.1
+Bah! Retreat, whatever it takes!
+@5.2
+It was not decided.
+@5.3
+Hmm... It can't be helped. As things stand, we're at a disadvantage, not knowing the land... There's no choice. We retreat.
+@5.5
+A great victory for our side!
+@5.7
+We've taken the head of the enemy commander, \#0311!
+@5.8
+Good! A great victory! We return to the castle!

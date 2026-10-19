@@ -1,0 +1,92 @@
+@0.0
+Now, the decisive moment! Now I'll show the Mori troops what the Amago are made of!
+@0.1
+The Mori army was about to attack Gassan-Toda Castle. Meanwhile, inside the castle...
+@0.2
+So the battle is finally here... This battle will decide the Amago's fate...
+@0.3
+You there, \#02F4!
+@0.5
+I'm the one who'll devour your life. If your name is \#0AF4, the deer, then call me Okaminosuke, the wolf.
+@0.6
+Oh? Interesting...
+@0.7
+You are the Amago's real threat. With you gone, the Amago will collapse without our even attacking...
+@0.8
+"Without even attacking"...? So you're one of the Mori's men?
+@0.9
+Then all the more reason not to give you my life.
+@0.11
+Have at you!!
+@0.13
+Ugh... W-well done... \#02F4...
+@0.14
+\%03, what happened!
+@0.16
+...Hm, who is this!?
+@0.18
+What! \%03, are you all right?
+@0.19
+No need to worry.
+@0.20
+Cutting down a Mori man before the battle... This will lift the castle's morale!
+@0.21
+I can't lose this battle. And so I can't die here yet.
+@0.22
+...More importantly, what of the Mori army?
+@0.23
+They'll be reaching the castle soon. Let's go, \%03!
+@0.25
+\%03, what happened!
+@0.26
+...Sorry for the commotion, \%03.
+@0.28
+It seems he was an assassin from the Mori. He came at me, so I cut him down.
+@0.29
+What! \%03, are you all right?
+@0.30
+There's no need to worry.
+@0.31
+Cutting down a Mori man before the battle... This will lift everyone's morale! \%03!
+@0.32
+I can't lose this battle. And so I can't fall here yet.
+@1.2
+Oh, \%03! You're safe!
+@1.3
+And I'm glad to see you safe, \%03.
+@1.4
+This is all thanks to the unity of the Amago retainers, you first among them.
+@1.5
+Then I'll withdraw first. You go back to the castle and show everyone you're safe.
+@1.9
+Ah, \%03! You're safe!
+@1.10
+And you, \%03! Your work was splendid.
+@1.14
+And so \#07FE withstood the Mori army's fierce attack and took the first step toward reviving the Amago.
+@2.2
+Oh, \%03! You're safe.
+@2.4
+But they say Lord \#108B took his own life. It was a fine end, they say.
+@2.6
+\%03, I've done you all wrong.
+@2.7
+I couldn't revive the Amago...
+@2.8
+\%03, I intend to surrender.
+@2.10
+You no longer have to follow me. Find a new path.
+@2.12
+Don't rush to your death. Live. Understood?
+@2.13
+......My lord!!
+@2.14
+\%03, you're safe!
+@2.15
+And I'm glad you're safe too!
+@2.16
+...What happened to the others?
+@2.17
+...I hear \#108B took his own life. They say it was a fine end...
+@2.18
+I see...

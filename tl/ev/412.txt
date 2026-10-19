@@ -1,0 +1,932 @@
+@0.0
+\#0157 spent his days in training under the swordsman Kanemaki Jisai.
+@0.1
+To perfect his one-and-a-half-foot short sword, \#00ED had his sparring partner \#0957 wield a long sword over three feet long.
+@0.2
+Training with him day after day, \#0957 became a master of the long sword, a swordsman who astonished even his teacher.
+@0.3
+Then, no longer content with his teacher's style, he began to want to create a style of his own...
+@0.4
+\#0957, I have nothing more to teach you. I shall grant you a license in the Kanemaki school.
+@0.5
+You are only the second man I have ever licensed.
+@0.6
+Who was the first, Master?
+@0.7
+\#005F, who founded the Itto school.
+@0.8
+What! The famous Lord \#005F was your student, Master!?
+@0.10
+\#0957, I believe your talent surpasses even \#085F's.
+@0.11
+Train further, as \#085F did, and found a school of your own.
+@0.12
+I will. Thank you for everything all this time...
+@0.13
+Good. Here is a gift. Take it with you: the long sword "Monohoshizao," forged by Osafune Nagamitsu of Bizen.
+@0.14
+Received the Monohoshizao.
+@0.15
+Master! I cannot accept so precious a sword...
+@0.16
+Who but you could wield a sword that long?
+@0.17
+The sword is glad to have found a good master.
+@0.18
+...Then I gratefully accept it.
+@0.19
+Well, time I was going.
+@0.20
+Eh? You are leaving this town?
+@0.21
+Yes. I mean to open a dojo in the town of Kanazawa. I have saved enough for it.
+@0.22
+Farewell, \#0FFE.
+@0.23
+Be well, Master...
+@0.24
+Right! I will hone my swordsmanship further and make the name of \#0157 ring across the land!
+@0.25
+Since the Taiko's death, unrest has spread through the provinces, and I hear every daimyo is gathering able ronin...
+@0.26
+I must become a swordsman they will come begging for... say, one they would take on at the least as a chief retainer...
+@0.27
+The quickest way is to make a name by defeating famous swordsmen... Maybe I should ask around town for rumours...
+@1.0
+So this is the Yoshioka dojo?
+@1.1
+Excuse me! Is Lord \#0304 here!
+@1.2
+Oh! Lord \#0157! Welcome to my dojo!
+@1.3
+As promised, I have come for a bout... Let us begin at once.
+@1.4
+Very well, let me test your skill!
+@1.5
+What, for all your big talk, you are not much of a swordsman...
+@1.6
+Ugh... ngh!
+@1.7
+Now you will pay for hurting my student! Hmph!
+@1.8
+Gahh!
+@1.9
+I... have failed...
+@1.10
+Month \M002, \M001... \#07FE, a swordsman who never reached his peak, ended his life all too soon... Aged \1009.
+@1.11
+...How was that?
+@1.12
+Hmm, I yield! Truly, splendid skill...
+@1.13
+(As I thought... this man is no match for me either...)
+@1.14
+You could fight evenly even with my elder brother, \#0303...
+@1.15
+Evenly...?
+@1.16
+Yes! Will you not meet my brother? He should be back soon, and he would be glad to meet a swordsman like you.
+@1.17
+The head of the famous Yoshioka house... Perhaps I will meet him.
+@1.18
+Ah, splendid. Please wait a while.
+@1.19
+Hm? What is all the commotion? Has my brother come back?
+@1.22
+Ah! Young master! Terrible news! The master...!
+@1.23
+What! What has happened?
+@1.26
+Lord \#0B03 has lost a duel!
+@1.27
+What! A duel!? Who on earth was it!
+@1.30
+Well... a complete unknown, a ronin. His name was... \#02BC, I think.
+@1.31
+\#02BC! Who is that! I have never heard of him!
+@1.32
+\#0ABC!!
+@1.33
+Lord \#0FFE, you know the man?
+@1.34
+I have met him only once.
+@1.35
+I see... And my brother?
+@1.38
+Here, sir.
+@1.39
+Ngh... \#0B04... Hah, hah...
+@1.40
+Brother! What happened!
+@1.41
+It means... I was weaker than \#02BC...
+@1.42
+(A fatal wound... He will not survive.)
+@1.43
+Listen... \#0304. You must inherit the Yoshioka house. Never think of avenging me.
+@1.44
+Understand...? You must not... fight \#0ABC... ngh...
+@1.45
+Brotheeer!
+@1.46
+Damn you! \#0ABC! Find him!
+@1.47
+Calm down, Lord \#0B04. Lose your head, and however good your swordsmanship, you cannot win.
+@1.48
+Ugh...
+@1.49
+Once the funeral is over and the succession of the Yoshioka house is settled, then challenge \#0ABC to a duel properly.
+@1.50
+Very well... When that time comes, will you be the witness?
+@1.51
+Of course... I will watch closely as you strike down \#02BC and avenge your brother.
+@1.52
+Someone, bring paper and brush!
+@1.56
+Lord \#0FFE, will you deliver this challenge to \#02BC?
+@1.57
+I will.
+@1.58
+He cannot have gone far yet. Find him, give him the challenge, then come to this dojo.
+@1.59
+Very well... Then I take my leave for today.
+@1.60
+Yes... I am counting on you.
+@1.61
+(\#02BC... He must be quite a swordsman.)
+@2.0
+Ah, Lord \#0FFE. Have you delivered the challenge to \#0ABC?
+@2.1
+No, not yet... Wait a little longer.
+@2.2
+I am counting on you.
+@3.0
+Ah, Lord \#0FFE. Welcome.
+@3.1
+...And \#0ABC?
+@3.2
+He has not come yet.
+@3.3
+More importantly, Lord \#0FFE, no help from you, if you please.
+@3.4
+I know... Rest assured.
+@3.5
+He is late! \#0ABC! What is he doing!
+@3.6
+Calm down, Lord \#0B04... Making you impatient may be his plan.
+@3.7
+Grr...
+@3.10
+Master! \#0ABC is here!
+@3.11
+Good! He came! He will not leave alive!
+@3.12
+Sorry I am late! Shall we begin?
+@3.13
+\#0FFE! I will not end up like my brother!
+@3.14
+Talk is cheap. Say that after you have beaten me.
+@3.15
+What! As you wish, I will kill you!
+@3.16
+Ngh...
+@3.17
+(S-strong... but...)
+@3.18
+\#0ABC... You win...
+@3.19
+So you have fallen, \#0B04. That is the end of the Yoshioka house...
+@3.20
+I won... I beat the Yoshioka brothers!
+@3.21
+Wait! \#0ABC!
+@3.22
+Hm? What?
+@3.23
+N-no, nothing. Fine skill... but far too brutal.
+@3.25
+The sword I seek is nothing so brutal.
+@3.26
+A sword that brings many swordsmen to their knees and raises my name... I could never use so vulgar a sword.
+@3.27
+I just want to get stronger. Brutal or refined, it makes no difference...
+@3.28
+\#0ABC... Someday I may have to settle things with you.
+@3.30
+Until we meet again.
+@3.31
+So the \#1304 house is no more... Now the name of \#02BC will ring across the land...
+@3.32
+But someday I will defeat \#0ABC with my own hands and make my name!
+@3.33
+For that I must train more... But there are no more rivals for me in the capital.
+@3.34
+I know... Maybe I will go to \41DF. Under the eye of the great daimyo \#01FA, there must be famous swordsmen...
+@3.35
+On with the journey...
+@4.0
+How empty... I beat \#0ABC, the man I saw as my enemy, and yet...
+@4.1
+Is my swordsmanship still lacking after all...
+@4.3
+I have made \#07F0 worry too... From now on, it might not be bad to walk through life in peace with \#07F0.
+@4.4
+Dear, before the duel at Funashima, a samurai asked me to give this to you...
+@4.5
+Hm? What is this bundle... There is a letter in it... Wh-what is this!!
+@4.6
+It is from \#0ABC!
+@4.7
+To \#07FE:\nIf you are reading this now, it means I lost to you.
+@4.8
+That cannot be helped... You are certainly strong. But the way of the sword is not only the pursuit of strength.
+@4.9
+I have set down in a book the lessons I learned in my long training... It is called the Book of Five Rings.
+@4.10
+Do not laugh it off as the ravings of a loser. Please read it... It will surely be of use to you too.
+@4.11
+You were the enemy I feared most, and also my greatest friend, and my greatest teacher...
+@4.12
+Read this book, and polish your sword, and your life, even further...\n\#02BC
+@4.13
+Obtained the Book of Five Rings.
+@4.14
+(\#0ABC...)
+@4.15
+Dear...?
+@4.16
+I lost... I lost to \#0ABC... Not with the sword, but as a man...
+@4.17
+\#00CB's words were right! \#0ABC's sword was far purer than mine!
+@4.20
+Hm? Something has been left in the entrance while I was out...?
+@4.21
+What is this bundle...? There is a letter in it... Wh-what is this!!
+@4.26
+Do not laugh it off as the ravings of a loser. Please read it... It will surely be of use to you too.
+@4.33
+The match with \#02BC is not enough for you. Continue the game?
+@4.34
+After that, \#07FE travelled the provinces, perfected his swordsmanship and immersed himself in Zen...
+@4.35
+In his later years, \#0FFE was taken on as martial arts instructor to Hosokawa Tadatoshi of Higo.
+@4.36
+\#0FFE was given a large estate near Kumamoto Castle and devoted himself to teaching younger swordsmen...
+@4.37
+The Book of Five Rings Musashi left had a great influence on \#0FFE and was handed down to his students too...
+@4.38
+\#0157 and \#02BC...
+@4.39
+Honed by these two rare swordsmen, the school of a new age produced many swordsmen remembered in history and flourished greatly...
+@4.40
+I am still unskilled... I still have a mountain of things to do...
+@5.0
+Ah, \#0FFE... Sorry, I am busy right now.
+@5.1
+I look forward to your match with \#0ABC.
+@7.0
+(Maybe I should ask someone for rumours of swordsmen...)
+@7.1
+Excuse me, may I ask you something? Who are the most talked-about swordsmen these days?
+@7.4
+Hm? Swordsmen? What about the Yoshioka house of Kyoto?
+@7.5
+Hmm... The house of Yoshioka Kenpo, martial arts instructor to the Ashikaga shoguns.
+@7.8
+The head now is \#0303, and his younger brother \#0B04 is said to be strong too.
+@7.9
+...Who else?
+@7.12
+\#02E4 of the Yagyu Shinkage school, his son \#02E6, grandson \#02E5... \#005F of the Itto school, his student \#00CB...
+@7.15
+And one more.
+@7.19
+Me.
+@7.20
+Ha ha ha, you are an amusing one. What is your name?
+@7.21
+\#02BC. And yours?
+@7.22
+\#07FE. One day this name will ring across the land! Remember it till then.
+@7.23
+I will remember. Farewell, then.
+@7.24
+(Now, what next... For now, perhaps I will go and meet \#0303 in Kyoto.)
+@8.0
+(Maybe I should ask someone about the Yoshioka dojo...)
+@8.1
+Excuse me, may I ask you something? Do you know where the Yoshioka dojo is?
+@8.2
+Ah, the Yoshioka dojo is just over there. Are you going to challenge the dojo, sir?
+@8.3
+Heh, that might be fun. A dojo like that would be child's play for me.
+@8.6
+Hey, you there, ronin!
+@8.7
+Hm? You mean me?
+@8.10
+What insufferable boasting... You seem to have some skill, but overconfidence will get you killed.
+@8.11
+Boasting? I am only speaking honestly of my skill. You have no right to complain.
+@8.14
+Why you... A mere ronin like you could never beat our Yoshioka swordsmanship!
+@8.15
+Oh... So you are a Yoshioka student? Interesting... Shall we have a bout?
+@8.18
+Yes! I will break that arrogant nose of yours!
+@8.19
+All talk...
+@8.22
+Ugh... gah... S-strong...
+@8.23
+Hmph... So this is all the Yoshioka sword amounts to? What a letdown.
+@8.24
+Wait, ronin!
+@8.25
+Hm? And you are?
+@8.26
+I am \#0304.
+@8.27
+Oh... So you are the younger brother of the head of the Yoshioka house.
+@8.28
+Indeed... It seems my student was rude to you. My apologies.
+@8.29
+Not at all... It is I who should apologise for hurting your student.
+@8.30
+No, this man always neglects his training and never listens to me... It will be a good lesson for him.
+@8.31
+You... you said you were Lord \#0157... Where did you learn the sword?
+@8.32
+A little under Master Kanemaki Jisai...
+@8.33
+Even so, splendid skill... I would like to cross swords with you once.
+@8.34
+Any time... Even here, if you like.
+@8.35
+Now, now, no need to hurry... I must also tend to my student...
+@8.37
+The dojo is just over there. Please do visit us.
+@8.38
+I will.
+@8.39
+Then, farewell.
+@8.40
+(\#0304... He seems to be a man of some skill...)
+@8.43
+Month \M002, \M001... \#07FE ended his turbulent life... Aged \1009.
+@9.0
+(Oh! Isn't that \#0ABC? Good, I found him.)
+@9.1
+\#0ABC!
+@9.2
+\#0957! What are you doing here?
+@9.3
+I was asked by \#0304 to bring you this.
+@9.4
+A challenge...
+@9.5
+"I await you at the Yoshioka dojo..."
+@9.6
+Why are you the one bringing it?
+@9.7
+Lord \#0304 asked me to be the witness. More importantly, do you think you can win?
+@9.8
+Of course.
+@9.9
+Heh, that is the spirit. I will go on ahead to Kyoto. I am looking forward to it.
+@10.0
+So... I have made it to \41DF, but...
+@10.1
+Oh my, what a long sword you carry.
+@10.2
+Hm? Oh, this. It is called the "Monohoshizao." A special make.
+@10.3
+Really... So you must be strong?
+@10.4
+Ha ha ha, I suppose so.
+@10.5
+But in this \51E6 there is someone even stronger.
+@10.6
+Oh... What kind of man?
+@10.7
+Why, Lord \#00CB, of course.
+@10.8
+\#00CB... I have heard of him.
+@10.9
+Well, of course. Lord \#00CB is martial arts instructor to the \#11FA house.
+@10.11
+In fact, they say he teaches Lord \#01FC the sword.
+@10.12
+And they say he was a student of the famous swordsman, Lord \#005F.
+@10.13
+You know a lot...
+@10.14
+They say he defeated his senior, Ono Zenki, and founded the Ono Itto school. He is terribly strong.
+@10.15
+Then if I defeat that \#00CB, my fame will rise.
+@10.16
+Huh?
+@10.17
+No, I don't think you can. Plenty of ronin have said that and been turned away at the gate.
+@10.18
+Turned away?
+@10.19
+They say the \#11FA instructor is forbidden bouts with other schools. If he lost, his standing would fall, see.
+@10.20
+Even so, \#00CB's students take on challengers now and then, and they usually get thrashed.
+@10.21
+Interesting.
+@10.23
+If I defeat \#00CB, the Ono Itto school loses face... and I might become the \#11FA instructor in its place.
+@10.24
+Hey, hey, are you serious?
+@10.25
+Of course... Take me to \#00CB's residence.
+@10.26
+Don't blame me if you get killed.
+@10.27
+(Now... how shall I ask for a bout?)
+@10.28
+Sorry to keep you waiting. I am \#00CB.
+@10.29
+I am \#07FE, a swordsman wandering the provinces.
+@10.30
+And what do you want with me, Lord \#17FE?
+@10.31
+To challenge you, the \#11FA house's martial arts instructor, of course.
+@10.32
+Ha ha ha... This is awkward. You may not know, but I am forbidden bouts with other schools.
+@10.33
+I know full well that bouts with other schools are forbidden. I ask you to make an exception.
+@10.34
+That I cannot do.
+@10.35
+Because if you lost, the Ono Itto school would lose face... is that it?
+@10.36
+...Whatever you say, I cannot disobey my lord's orders.
+@10.37
+Are you afraid of losing?
+@10.39
+Then I will not force you. But I will tell the world that the great martial arts instructor of the \#11FA house...
+@10.40
+...refused a bout for fear of losing. Is that all right with you?
+@10.41
+Hmm... You are good at provoking, I see. But such threats will not work on me.
+@10.43
+The way of the sword is for training oneself. Seeking fame and gain, or fearing blame, is for small-minded men.
+@10.44
+You probably thought that by beating me you could take my seat as \#11FA instructor... A waste of effort.
+@10.46
+My lord is not such a fool... He has no need of a man whose sword is clouded by fame and gain.
+@10.47
+Spoken like a master... Then I would like you to test for yourself whether my sword is clouded, sir.
+@10.49
+Not a bout, then. I only ask you to give me a lesson, sir.
+@10.50
+If you refuse even that... I will not move a step from here until you agree to a bout.
+@10.51
+...If you insist, it cannot be helped. I will give you a lesson... But!
+@10.52
+If I disobey my lord, it will harm his good name. This must stay strictly secret... if you can promise that.
+@10.53
+Heh heh... Already thinking about losing?
+@10.55
+What comes after can wait until it comes...! Now, here I come!
+@10.56
+Ngh!
+@10.57
+Ugh... I-I yield! As expected of the \#11FA instructor...
+@10.58
+Hmph... All talk. There are too many of his kind lately.
+@10.62
+Master, leave the rest to us.
+@10.63
+Yes... I will rest a while.
+@10.66
+Now, you are a swordsman too... You know what happens to the loser...?
+@10.67
+...Wh-what?
+@10.70
+As we said, our school forbids bouts with other schools. If this got out, the master's position as instructor would be in danger.
+@10.73
+Luckily, apart from the master and us, only you know about this.
+@10.74
+......!
+@10.77
+You must die.
+@10.78
+W-wait! Gahh!
+@10.82
+How was that?
+@10.83
+Ugh... I-I yield!
+@10.84
+So this is the skill of the \#11FA instructor... Then my own swordsmanship must be quite something.
+@10.85
+But... your sword is clouded after all. And far too sharp... In the end it will destroy you.
+@10.86
+The truly strong sword is... the "selfless sword"...
+@10.87
+Whatever the loser says is only howling... Sorry to have troubled you. Farewell.
+@10.88
+W-wait...! As promised, this bout stays secret...
+@10.90
+No, it will not
+@10.91
+Rest assured... I keep my word. Bragging about a win like this would only shame me.
+@10.92
+But you cannot stop people talking... Even if I say nothing, the rumour may spread before long.
+@10.93
+Ugh... I have never known such humiliation.
+@10.94
+Ha ha ha! Teach the \#11FA heir some swordplay for self-defence and live a comfortable life...
+@10.95
+I am going to get much stronger. I have an enemy to defeat!
+@10.97
+Farewell!
+@10.98
+\#00CB was nothing much either. My training does not end with this...
+@10.99
+No, it will not... I will use this to raise my name as a swordsman.
+@10.100
+N-no! Anything but that...!
+@10.101
+My dream is to make my name ring across the land, and serve a daimyo who values me as highly as possible!
+@10.105
+Master, leave him to us! We will not let him take one step out of this house!
+@10.107
+N-no! He is more than a match for you!
+@10.110
+No! After the master has been so humiliated, we students cannot let him leave alive!
+@10.112
+Hmph... Interesting. So the Ono Itto school wants even more shame? ...Then come at me!
+@10.115
+Everyone! Cut him down together!
+@10.118
+Gahh...!
+@10.120
+Hmph... It seems the Ono Itto school holds no rivals for me now.
+@10.122
+Farewell!
+@10.123
+Lord \#07FE...
+@10.125
+Take care that your sword does not destroy you.
+@10.128
+I must make my name greater than \#0ABC's... Shall I go around defeating swordsmen everywhere...?
+@10.136
+W-wait!
+@11.0
+Hey, you! You're that sword-waver, \#07FE!
+@11.1
+...And you are?
+@11.2
+No need for names! That Monohoshizao on your back... lend it to me a while, will you?
+@11.3
+...No.
+@11.4
+Hmph! Putting on airs. I really hate swordsmen like you who are all show.
+@11.5
+Are you picking a fight with me...?
+@11.6
+That's right! I'll break that stuck-up nose of yours and take that precious Monohoshizao!
+@11.7
+Give it up! With your skill, you could not even cut my shadow.
+@11.8
+You said it, boy! Fine by me! Prepare yourself!
+@11.9
+(Oh, brother...)
+@11.10
+Very well... Leaving a town pest like you alone would hurt everyone. Let me teach you a lesson...
+@11.11
+Heh! You'll regret those words!
+@11.12
+What's this, what's this?
+@11.13
+A fight, a fight!
+@11.14
+I don't really know, but it seems that samurai with the long sword got picked on.
+@11.15
+Yes, but he's so calm about it, they've been staring each other down for a while...
+@11.16
+Kyaaah! Tohhh!
+@11.17
+Really, the weaker the dog, the louder it barks... Why not come at me quickly?
+@11.18
+(Hm? Isn't that... \#0957?)
+@11.19
+(Hm? \#0ABC...?)
+@11.21
+A man like this is not worth cutting... But watch, \#0ABC!
+@11.22
+I will show you the secret technique I devised for my fight with you!
+@11.23
+Oh! That ronin... he means it!
+@11.24
+Hey, you there!
+@11.25
+M-me?
+@11.26
+Watch the willow on the bank of that pond.
+@11.27
+The willow on the bank? What for...?
+@11.28
+Tell me the moment a willow leaf falls. Before it reaches the surface of the pond, I will finish off this lout.
+@11.29
+You... You're making a fool of me...!
+@11.30
+Right! Sir! A leaf just fell!
+@11.31
+Here I come!
+@11.32
+Secret technique: Swallow Cut!!
+@11.33
+Ngh...
+@11.34
+Well, the willow leaf?
+@11.35
+It just hit the water...! Amazing, this ronin really did it before the leaf landed!
+@11.36
+\#0957...
+@11.37
+Did you see it, \#0ABC? My sword!
+@11.39
+A deadly sword that can cut down even a swallow in flight... The "Swallow Cut."
+@11.40
+With this secret technique I will found a school of my own, and make my name ring across the land!
+@11.41
+Yes... the willow on the bank: "Ganryu," Shore Willow! No, too weak... I will write it as "Ganryu," the Rock Current!
+@11.42
+With this Ganryu of my own making, I will stand among the great swordsmen of the land... And you?
+@11.43
+I...
+@11.44
+\#0ABC, someday you and I will fight... By then, you had better be master enough to found a school of your own.
+@11.45
+...I have talked too much. Until we meet again, \#0ABC.
+@12.0
+Now... I will rest a while in this town.
+@12.1
+Oh, isn't it \#07FE!
+@12.2
+Well, well... Lord \#127C. It has been a long time.
+@12.3
+I have heard the rumours about you. They say you defeated \#00CB...
+@12.4
+Ha ha ha... I am sorry it reached your ears.
+@12.5
+Excuse me, ronin! Are you not the famous Lord \#07FE?
+@12.6
+Hm? I am indeed... And you are?
+@12.7
+Forgive me for not introducing myself... I am \#027C of \51E6.
+@12.8
+...Then the daimyo famous for his refined tastes.
+@12.9
+Indeed, that \#0A7C.
+@12.10
+And what does Lord \#127C want with me?
+@12.11
+Oh, nothing. I have long heard of your fame as a swordsman and wanted to meet you.
+@12.13
+And you are as fine a figure as the rumours say... And the weapon on your back certainly catches the eye.
+@12.14
+Indeed... It is called the Monohoshizao, over three feet long.
+@12.15
+Did you defeat \#00CB with that long sword?
+@12.16
+So you have heard.
+@12.17
+Lord \#11FA was most annoyed, but it is talked about everywhere... You are as formidable a swordsman as they say.
+@12.18
+A swordsman like you would be the pride of my house... What say you? Would you serve me?
+@12.19
+(Oh! Will he take me on with a high stipend?)
+@12.20
+That depends on the terms... Ashigaru General or Samurai General would not satisfy me.
+@12.21
+Ha ha ha! An honest man. I value your skill too. How about Commander?
+@12.23
+...Still not satisfied? Shrewd fellow. Then how about Chief Retainer?
+@12.24
+In that case, I will gladly serve you.
+@12.25
+Ha ha ha! Well said! ...Or so I would like to say.
+@12.26
+...Is there a problem?
+@12.27
+If I made a newcomer like you chief retainer straight away, it would set a bad example... Some of my retainers would object...
+@12.29
+So... will you defeat a famous swordsman for me? With such a feat to your name, my retainers would accept it.
+@12.30
+...That may be true.
+@12.31
+Actually, forgive me for testing you... but there is another swordsman I am thinking of taking on.
+@12.32
+...And he is?
+@12.33
+You must know him... The one who defeated the Yoshioka brothers... \#02BC.
+@12.34
+\#0ABC! I see... him.
+@12.35
+I want you and \#0ABC to fight a bout. I will take the winner on as chief retainer... How does that sound?
+@12.36
+...I have no objection.
+@12.37
+Good! Then I will send word to \#0ABC too... The place is Funashima.
+@12.38
+Funashima...?
+@12.39
+It is a lonely island near the town of Akamagaseki... Perfect for a duel between two swordsmen.
+@12.40
+\#0FFE, you must win. I am counting on you! Defeat \#02BC with ease.
+@12.41
+Your words are more than I deserve... I am honoured. I, \#07FE of Ganryu, will surely live up to your hopes.
+@12.42
+Then we meet at Funashima! A boat should leave from the town of Akamagaseki.
+@12.44
+(At last I am to be taken on as a great man...)
+@12.45
+(Chief retainer of the \#127C... Not bad terms. I must beat \#0ABC no matter what...)
+@13.0
+So... the boat to Funashima leaves from here. Before that, I will rest a while... Hm?
+@13.2
+(That is... \#02BC!)
+@13.3
+Hey, \#0ABC!
+@13.4
+...!! \#0FFE.
+@13.5
+You have heard... about the duel.
+@13.6
+Yes...
+@13.7
+At last the chance has come to fight you in a proper match!
+@13.8
+I knew this time would come someday... I gladly accept.
+@13.9
+A fitting place for you or me to die... That is Funashima.
+@13.10
+Which of us will die, I wonder... \#0FFE! Until Funashima!
+@13.11
+Yes... I will be waiting! Do not run away!
+@13.12
+Sir, are you perhaps Lord \#07FE?
+@13.13
+I am indeed.
+@13.14
+Ah, so you are Lord \#0FFE. I have been waiting for you.
+@13.15
+Lord \#127C ordered me to have a boat ready for Funashima and to take Lord \#07FE there...
+@13.16
+The boat is ready at the edge of town. Please leave town first, then set out.
+@15.2
+Lord \#0FFE, I'll be taking you there.
+@15.3
+This boat, then. Thank you.
+@15.6
+Good luck...
+@15.7
+\#07F1... wait for me. I will win and become the finest swordsman in the land... And then... chief retainer of the \#127C!
+@15.8
+It has been a long time since I left Master Kanemaki, resolved to found a school of my own...
+@15.9
+I have met many swordsmen... The Yoshioka brothers were interesting men too...
+@15.10
+\#00CB told me... that my sword is clouded... And that it is too sharp...
+@15.11
+I do not believe what losers say... But I feel \#02BC has something I lack.
+@15.12
+Is that the "selfless sword" \#00CB spoke of...? No, I do not believe that man has reached such a state.
+@15.13
+I must beat \#0ABC... and prove \#00CB wrong...
+@15.14
+Ah, \#0FFE. I have been waiting!
+@15.15
+Lord \#127C, thank you for coming all this way... And \#0ABC?
+@15.16
+Not here yet... Surely he has not lost his nerve and run away...
+@15.17
+He will come. And I will defeat him!
+@15.18
+Good! I shall watch it all closely!
+@15.19
+Several hours later...
+@15.20
+He is late! ...Argh! What is \#0ABC doing!
+@15.21
+...It is his usual trick, my lord. He makes his opponent impatient to unsettle him...
+@15.22
+What a cowardly tactic! Even so, he is far too late.
+@15.24
+He is here! \#02BC has finally come!
+@15.25
+Sorry to keep you waiting, \#0957.
+@15.26
+However late you come, you will find no opening in me.
+@15.27
+\#0157 threw away his scabbard.
+@15.28
+Hah, \#0957, you are beaten!
+@15.30
+You threw away your scabbard. Sword and scabbard are one. By throwing away the scabbard, you have thrown away your fate!
+@15.31
+What! Spouting nonsense in the middle of a match! Here I come, \#0ABC!
+@15.33
+\#0FFE... You... win...
+@15.34
+...You were splendid too. Better than any enemy I have ever fought.
+@15.35
+\#0FFE... I am... glad I... fought you...
+@15.36
+\#0ABC...
+@15.37
+Surely... you will become... a famous swordsman...
+@15.38
+And on the way... remember... that there was a swordsman... named \#0ABC...
+@15.39
+Fare... well... ngh...
+@15.40
+\#0ABC...! You were my greatest enemy...
+@15.41
+Well, well, that was a splendid match, \#0FFE!
+@15.43
+Now no one will object to my taking you on as chief retainer... You will come to my house?
+@15.45
+Serve the Hosokawa
+@15.46
+Decline the offer
+@15.47
+Well?
+@15.48
+...I am honoured. I will gladly serve you, my lord.
+@15.49
+Good! I am fortunate to have a peerless swordsman like you as my retainer.
+@15.50
+You are too kind... By the way, my lord, I have one request...
+@15.51
+What is it? Ask anything.
+@15.52
+On this occasion, I wish to change my name.
+@15.53
+Oh, your name... To what?
+@15.54
+I will take the name of the "Ganryu" school I founded, and call myself "Sasaki Ganryu."
+@15.55
+Yes... a good name.
+@15.61
+Well then, I return to the castle.
+@15.63
+The fight with \#02BC gave \#07FE great experience...
+@15.64
+And he won fame as a swordsman, and was taken on with a high stipend as he had wished...
+@15.65
+\#07FE's base will now move to \41DF.
+@15.67
+...I am truly sorry, but I must decline your offer of service.
+@15.68
+What!? You refuse!
+@15.69
+Yes... Now that I have beaten \#0ABC, somehow everything feels empty.
+@15.70
+What are you saying... Your life is only just beginning...
+@15.71
+\#0ABC had something I lack. But even now that I have won, I do not know what it was...
+@15.72
+What are you trying to say?
+@15.73
+I do not know... But because I do not know, I would rather keep training than take the easy road of service.
+@15.74
+...Your mind is made up, then.
+@15.76
+I see. Then I will not force you. We may meet again... Farewell, \#0FFE.
+@15.77
+Forgive me for being so selfish...
+@15.78
+Oh, never mind... When this training of yours is over, let us share a drink...
+@15.80
+\#0ABC... You win...
+@15.81
+\#07F2... Forgive me...
+@15.82
+\#0ABC... What a man.
+@15.83
+\#0FFE... You were the greatest rival of my life...
+@15.84
+So my sword was clouded after all...? Ngh... So your selfless sword... was the stronger...!
+@15.85
+My sword is nothing so grand. I am still in the middle of my training...
+@15.86
+Ugh... Then I was even weaker than you, who are still in training...
+@15.87
+\#0FFE! Do not talk any more! You will hurt yourself!
+@15.88
+Heh... I know my own body best... I am beyond saving... gah...
+@15.90
+\#0ABC... \#02BC! You are the man who beat me... Never lose to anyone, ever!
+@15.91
+\#0FFE!!
+@15.92
+Month \M002, \M001... Ganryu, Sasaki Kojiro, lost his life-or-death match with \#02BC, and his short life came to an end...
+@15.93
+But even now his name lives on in people's hearts as \#02BC's greatest rival...

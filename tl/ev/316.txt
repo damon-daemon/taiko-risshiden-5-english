@@ -1,0 +1,250 @@
+@0.6
+But \#09FA could not touch the \#113B clan, which had stayed neutral, and its strength was left intact.
+@4.1
+Yes. Thank you for coming to meet me.
+@4.2
+Yes, sir. And... a letter has arrived from Lord \#004B.
+@4.5
+Yes, sir. And... a letter has arrived from Lord \#01FA.
+@4.6
+Let's see... He is to settle the fates of the Western Army daimyo, and I am to come to \41DF at once...
+@4.8
+\%03, you will come with me.
+@5.15
+I have no objection either.
+@5.28
+Our house has been moved to the two provinces of Mikawa and Owari, with an increase.
+@5.43
+Splendid! With this plan, I am satisfied.
+@5.47
+In that case, this time we truly crush \#11FA!
+@5.53
+This victory is thanks to the help of you all. Lord \#0A06's reign is secure. I, \#09FA, cannot thank you enough.
+@5.54
+Kind words. I am honoured.
+@5.55
+And how shall the Western Army daimyo be dealt with?
+@5.56
+Those who sided with \#084B must be punished severely!
+@5.57
+Yes. Then we seize the lands of the Western commanders and share them among the Eastern daimyo. What say you?
+@5.58
+I have no objection.
+@5.63
+Our house has been moved to Yamaguchi.
+@5.65
+Our house has been moved to the former \#107D lands.
+@6.8
+\%0413B! You struck down \#09FA, well done!
+@6.14
+As for the \#11FA clan, it will be allowed to survive, with \37F1 as its heir.
+@7.0
+What?! A daimyo's mansion seems to be on fire...
+@7.1
+What is this? ...A fire?!
+@7.2
+\%03, the burning house is Lord \#027C's mansion!
+@7.3
+What on earth happened?!
+@7.4
+What on earth is going on?!
+@7.5
+Lord \37F1 asked Lord \#0A7C's wife to move into the castle, but she flatly refused.
+@7.6
+Lord \37F1 grew angry and forced his way into the house, whereupon she set it on fire and took her own life!
+@7.9
+It did not end with the \#127C. On learning of the affair at the \#127C mansion, \#004B changed his policy on hostages...
+@7.10
+Instead of gathering hostages in the castle, he switched to merely watching them.
+@7.11
+\%03! Thank you for rising with us.
+@7.12
+\%03... I too have been sick of \#09FA's high-handedness.
+@7.13
+\#09FA has turned back and begun marching west!
+@7.14
+\#09FA is coming down the Tokaido at the head of the Tokai daimyo.
+@7.15
+What? And he left the \#1074 clan alone?
+@7.16
+No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back the \#1074 clan.
+@7.17
+Hmm... He left just enough men to keep \#1074 from attacking, and comes to crush us with all the rest...
+@7.18
+Surely he has not just left the \#1074 alone?
+@7.19
+No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back the \#1074 clan.
+@7.20
+He leaves just enough men to keep \#1074 from attacking and strikes us with all the rest. That is his aim...
+@7.21
+If \#09FA is coming, we must gather all our strength too. Let us go to \51E6!
+@7.22
+Yes. We march!
+@8.0
+The \#11FA army is gathering at \51E7.
+@8.1
+Then the decisive battle will be around Sekigahara...
+@8.3
+I owe the late Lord Taiko a debt I can never repay. Now is the time to repay it!
+@8.4
+Where should we take up position...
+@8.5
+I think Mt. Matsuo would be best.
+@8.7
+\%03, when the smoke signal goes up, charge down the mountain and join the attack. Then the battle is ours.
+@8.8
+Yes, understood.
+@8.9
+And once this battle is over, I would like you, \%03, to become Lord \#0A06's guardian...
+@8.10
+Oh, me? Lord \#0A06's guardian?
+@8.11
+Of course, you would then receive an increase in lands fitting a guardian's duties.
+@8.12
+Well now... if I were given all of Harima, I might consider it...
+@8.14
+I cannot promise which province, but one more province, agreed. Now, by your leave.
+@8.15
+(Hah, \#084B, who always looked down on me, is bowing and scraping now.)
+@8.16
+(Delightful, delightful! Ha ha ha ha...)
+@8.17
+My lord, a secret letter has come from \%041FA.
+@8.18
+(Let's see... "If you side with me, I will give you two provinces in the capital region"...)
+@8.19
+(Heh heh... At last everyone sees what I am worth.)
+@8.20
+Month \M002 of year \M001. At Sekigahara in Mino, the Eastern Army under \#01FA clashed with the Western Army under \#004B.
+@8.21
+This was the famous Battle of Sekigahara...
+@8.22
+The battle began in thick fog, and for some hours neither side had the upper hand...
+@8.23
+\%03, the signal smoke is rising from \%0404B's camp.
+@8.26
+Leave it for now. We still don't know who will win.
+@8.28
+Enough. This is my battle.
+@8.29
+(If I fight at the front, they say it is unbecoming of a general...)
+@8.30
+(And if I keep quiet, they all speak out of turn. They mock me!!)
+@8.31
+(This battle, I will do as I please!)
+@8.33
+Eek! Wh-what was that?!
+@8.34
+The \#11FA gunners are firing at us from the foot of the mountain.
+@8.35
+The bullets can't possibly reach this far. What do they mean by it?
+@8.37
+(A man like \%041FA cannot fail to know the range of a gun...)
+@8.38
+(Which means... he is pressing me to switch sides!)
+@8.39
+Blow the conch! We charge down the mountain now!! Our target is...
+@8.40
+Our target is?
+@8.41
+(Now, which one to go for...)
+@8.42
+\#004B's head
+@8.43
+\#01FA's head
+@8.44
+For good reason, we betray them! Our target is \#004B's head alone! Follow me!!
+@8.45
+Our target is \#01FA's head alone! Follow me!!
+@8.51
+Blow the conch! We charge down the mountain now!!
+@8.53
+In front of the \#113B force charging down Mt. Matsuo stood \#00A5's lines...
+@8.54
+Wary of \#013B's betrayal, \#00A5 reacted swiftly, but against overwhelming numbers the \#10A5 unit was wiped out...
+@8.55
+Curse you, \#013B! I will haunt you, I swear I will!!
+@8.56
+\#00A5 took his own life, aged \1006...
+@8.57
+The fall of the \#10A5 unit brought the whole Western Army down, and so Sekigahara ended in an overwhelming Eastern victory.
+@8.58
+The \#013B army charged down Mt. Matsuo and fell on the flanks of the \#0110 and \#01F3 units.
+@8.59
+The \#1110 and \#11F3 units broke at once, and the confusion spread through the whole Eastern Army.
+@8.60
+Damn, tricked by that \#113B brat... A blunder!!
+@8.61
+When \#0107 and the others on Mt. Nangu began to move, \#01FA started to retreat.
+@8.62
+And so the Battle of Sekigahara ended in victory for the Western Army.
+@11.5
+Before the feats of \#007D, \#07F1 and the rest, \#01FA, who had half the realm in his grasp, finally fell, aged \1006...
+@12.0
+Everyone seems to be here. Then...
+@12.2
+From \%0404B... What could it be?
+@12.6
+This is serious... \%03, what do you think?
+@12.11
+Yes, I have decided! Our house will join \%0404B!
+@12.12
+Oh, a fine decision!
+@12.13
+Yes. I too have been sick of \#09FA's high-handedness.
+@12.14
+Everyone, we march!
+@12.15
+Our house will not move! That is my decision.
+@12.16
+All of you, take care not to act rashly.
+@12.17
+(I should give some advice here...)
+@12.19
+Urge neutrality
+@12.20
+\%03! I think we should join \%0404B!
+@12.21
+If we do not strike \#11FA now, \#09FA will push Lord \#0A06 further aside!
+@12.22
+Right! Understood!! Our house will join \%0404B!
+@12.24
+\%03! I think our house should stay put and watch how things go!
+@12.25
+If we side with neither and stay neutral, the house will come to no harm.
+@12.26
+If we side with one and lose, there is no guarantee the house will survive!
+@12.27
+Yes, your view makes sense. The \#113B clan will side with neither and stay neutral!
+@12.29
+Everyone seems to be here. Then...
+@12.30
+My lord, the old lord is here.
+@12.31
+What! The old lord? Show him in at once!
+@12.32
+What! The old lord? Show him in at once!
+@12.34
+\%03, forgive the intrusion. Something unexpected has happened, and I wanted to hear your opinion.
+@12.35
+As you all know, \%041FA is in his home lands preparing to march against \#1074.
+@12.36
+In fact, it seems all this was arranged by Lord \#004B and Lord \#020E, a senior retainer of the \#1074 clan.
+@12.37
+What! Then...!
+@12.38
+What! Then...!
+@12.39
+Yes. \%0404B is raising troops against \#11FA, and \%0404B has sent us a call to arms.
+@12.40
+But I am torn. I came to talk it over with you before deciding.
+@12.42
+\%03, what is your view?
+@12.43
+(Now, which should I recommend...)
+@12.54
+I am glad I came after all. Then farewell.
+@13.4
+Yes. He asks that Lord \#093B lead the vanguard of the campaign against \#11FA!
+@13.6
+We must strike down \#09FA at all costs and end this war!

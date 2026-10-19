@@ -1,0 +1,394 @@
+@0.0
+Our \#1322 clan has for generations generously patronised culture and learning, and has made Yamaguchi flourish until it is called the Kyoto of the West.
+@0.1
+To develop this splendid tradition further is my duty as head of the \#1322 clan.
+@0.2
+It is a pity that some of my retainers will not try to understand that.
+@0.3
+But I shall simply go my own way.
+@0.4
+True, the culture the \#1322 clan has fostered here in Yamaguchi is remarkable.
+@0.5
+But we are warriors first. If we forget our plain, sturdy ways and lose ourselves in the arts, we may not even survive these troubled times.
+@0.6
+Does our lord not understand that... Or is the problem those around him who cloud his judgement...
+@0.7
+For now, I must do my duty and, when the chance comes, work to set the house's ways right.
+@0.8
+The culture the \#1322 clan has fostered here in Yamaguchi is truly splendid. I am proud to serve such a house.
+@0.9
+But it seems some boors in the house will not try to understand the beauty of this culture. Our lord must be grieved.
+@0.10
+For now, I must do my duty and help others see the virtues of the house's ways.
+@0.11
+The culture the \#1322 clan has fostered here in Yamaguchi is splendid, but our lord seems a little too absorbed in it...
+@0.12
+And it seems some who dislike his ways are growing discontented. If this goes on, what will become of the \#1322 clan...
+@0.13
+For now, I must do my duty and think of a way to settle this discord.
+@1.0
+(Our lord is wrapped up in the arts and won't look at anything happening in or outside the province. Perhaps I should speak to him after all...)
+@1.1
+(Yes, I've decided. I'll give him my opinion at the next council.)
+@1.2
+You look troubled. Is something wrong?
+@1.3
+No, it's nothing.
+@2.0
+My lord, there is something I must tell you.
+@2.1
+What is it?
+@2.2
+Yes, sir. It concerns Lord \#0199. I have received word that he may be plotting rebellion.
+@2.3
+Rebellion?
+@2.4
+Yes, sir. Rumour has it he is gathering private troops at his residence and holding secret talks with other powerful retainers.
+@2.5
+The \#1199 family is a pillar of our \#1322, and \#0999 is my right hand. Don't say such reckless things.
+@2.8
+Y-yes, sir.
+@2.9
+My lord, troubling rumours are going around the castle lately.
+@2.10
+What rumours?
+@2.11
+It's rather hard to say, but... that you are plotting rebellion against Lord \#0B22...
+@2.12
+What? That's groundless! Who on earth made up such a story?
+@2.13
+Well, it seems Lord \#0341 is spreading it.
+@2.14
+That man! What a nasty trick...
+@2.15
+What will you do?
+@2.16
+Leave it be. If we make a rash move now, we'll only bring disaster on ourselves. Everyone, be careful.
+@2.18
+(Still, if even Lord \#0B22 believes this rumour, I'll have to be ready...)
+@2.21
+That Lord \#1199 is plotting rebellion against Lord \#0B22...
+@2.22
+Hmm, it's not impossible... What to do...
+@2.26
+I can't believe Lord \#1199 would do such a thing. Who on earth is spreading such talk?
+@2.28
+This will throw the house into turmoil. Can nothing be done about this rift...
+@2.29
+What rumours?
+@2.31
+I can't believe Lord \#1199 would do such a thing. Who on earth is spreading such talk?
+@2.33
+This will throw the house into turmoil. Can nothing be done about this rift...
+@2.40
+What rumours?
+@3.0
+Lord \#07FE, grave news! \#0199 has raised troops in rebellion!
+@3.1
+What? Surely not... There must be some mistake.
+@3.2
+There is no mistake. Word is he raised troops outside \41DE and is marching on this castle.
+@3.3
+\#0999... why...
+@3.4
+In any case, we must act quickly too.
+@3.5
+Yes. Gather the men of the house.
+@3.7
+Now, those who have gathered, give your names.
+@3.8
+\#07F0, my lord.
+@3.9
+\#07F1, my lord.
+@3.10
+\#07F2, my lord.
+@3.11
+\#07F3, my lord.
+@3.12
+...What? None of the senior retainers are here?
+@3.13
+Only \1007 senior retainers...
+@3.14
+I'm afraid the rebels likely have more men. What will you do now?
+@3.15
+Yes, that is the question...
+@3.16
+If the paintings, calligraphy and treasures the \#1322 clan has gathered over generations were lost in the fighting, I could never face my ancestors.
+@3.17
+Then what will you do?
+@3.18
+We will leave here and go to Hosenji.
+@3.19
+Hosenji, my lord...
+@3.20
+Hosenji stood in a strong position; it was a temple, but it also served as a fort.
+@3.21
+Then we leave here at once.
+@3.23
+Lord \#07FE, a word in your ear...
+@3.24
+What is it?
+@3.25
+There's a rumour that the old lord means to attack you by night.
+@3.26
+What!
+@3.27
+They say \#0341 is behind it.
+@3.28
+Ugh, so it's come to this! As long as there are flatterers at our lord's side, the \#1322 clan will keep straying from the path.
+@3.29
+What do you intend to do?
+@3.30
+There's no other way. I will raise troops to overthrow Lord \#0B22!
+@3.31
+What! Do you mean it?
+@3.32
+This is not to take the \#1322 clan for myself. It is a fight to sweep away idleness and decadence and set the \#1322 clan on the right path.
+@3.33
+Oh, if you are that resolved, many \#1322 retainers will join you.
+@3.34
+Send a letter to the \#10A7 clan in Bungo at once. Once Lord \#0B22 is overthrown, we will welcome Lord \#0898 as our new head.
+@3.35
+I see. Lord \#0898 was once Lord \#0B22's adopted son. He is a fitting heir to the \#1322 clan.
+@3.36
+Yes, exactly.
+@3.37
+With the \#10A7 clan's consent to send \#0898, \#0199's preparations were complete. He raised troops to overthrow \#0322.
+@3.38
+Many retainers had long disliked \#0B22's courtly tastes, and the troops marching on \41DE swelled in number.
+@3.40
+What? Is that certain?
+@3.41
+There is no mistake. Word is he raised troops at \41DF and is marching on this castle.
+@3.42
+The old lord orders everyone to gather at the castle at once.
+@3.43
+(At last, what I feared has happened...)
+@3.44
+(By rights I should side with Lord \#0B22, but if we lose, I'll be the first to be put to the sword... What should I do?)
+@3.45
+Side with \#0322
+@3.46
+Flee
+@3.47
+I must hurry to Lord \#0B22 after all.
+@3.48
+\#0FFE, you've come.
+@3.50
+How do things stand?
+@3.60
+Life is what matters most here... Running is the best plan, then.
+@3.61
+For now, I'll head for Yatsushiro, where my family comes from.
+@3.67
+Meanwhile \#0199 brought \#0898, younger brother of \#08A7, head of the \#10A7 clan, and set him up as head of the \#1098 clan.
+@3.77
+Lord \#07FE, please take this.
+@3.78
+Hm, a letter?
+@3.79
+This letter is for me?
+@3.81
+Ah, wait, who is it from... He's gone.
+@3.82
+This doesn't seem an ordinary letter... I'll open it at home.
+@3.83
+Now, what does it say...
+@3.84
+"Lord \#0322 has sunk into idleness and decadence and neglects his domain. I shall overthrow him by force. Join me. \#0199"
+@3.85
+What! So Lord \#0999 is finally rising up...
+@3.86
+Lord \#07FE, grave news! \#0199 has raised troops in rebellion!
+@3.87
+Word is he raised troops at \41DF and is marching on this castle.
+@3.89
+(At last it has happened...)
+@3.90
+(What should I do? Should I protect Lord \#0B22, my master, no matter what?)
+@3.91
+(But Lord \#1199 must have acted like this because he cares more than anyone about the \#1322 clan's future.)
+@3.92
+(Whose side should I take...)
+@3.93
+Side with \#0199
+@3.95
+As things are, the \#1322 clan will soon be in danger. I'll side with Lord \#1199.
+@3.96
+Lord \#17FE, I've been waiting for you.
+@3.97
+What is the plan?
+@3.98
+First we surround \41DE. We clearly have more men. We're sure to win.
+@3.99
+And Lord \#0B22...
+@3.100
+Yes, I agonised over it, but there's no choice but to have him take his own life.
+@3.101
+...And after that?
+@3.102
+We are to welcome Lord \#0898, younger brother of Lord \#08A7, head of the \#10A7 clan, as our new head.
+@3.103
+Lord \#0898 lived in Yamaguchi for a time as Lord \#0B22's adopted son. Then I have no objection.
+@3.104
+Right, all troops, march! To \41DE!
+@3.119
+Lord \#07FE, grave news! \#0199 has raised troops in rebellion, and the old lord has taken his own life!
+@3.120
+What? Is that true? Tell me everything.
+@3.121
+What!? Is that true? Please tell me everything.
+@3.131
+The head of the house brought down by his own retainer... What will become of the Ouchi clan now...
+@3.132
+The head of the house brought down by his own retainer... What will become of the Ouchi clan now...
+@4.0
+I can see Lord \#0199's banners ahead! We'll never reach Hosenji!
+@4.1
+\#0999, why can't you understand how I feel... I never wanted to strike down my own retainers.
+@5.0
+Victory is ours! The rebels are retreating!
+@5.2
+My lord! Word is that \#0199 has taken his own life.
+@5.3
+...I see.
+@5.4
+My lord, at any rate the root of the turmoil in the house has been removed. That is a relief.
+@5.5
+But if I could, I would not have had \#0999 killed...
+@5.6
+What are you saying? That man was a traitor who drew his bow against you!
+@5.7
+I could not keep my vow never to strike down a retainer.
+@5.8
+I am moved by the kindness of your heart, my lord.
+@5.9
+But \#0999 was a warrior too. He must have been prepared for this.
+@5.10
+And in losing, he learned that you are no weakling. I think he took his life content.
+@5.11
+Yes. At any rate, this must never happen again. From now on I must work all the harder.
+@5.12
+As you say. Only then will those who died rest in peace.
+@5.13
+Right, we return to \41DE.
+@5.16
+Ugh, it was beyond us...
+@5.17
+My lord, what will you do now?
+@5.18
+Yes. Let's escape to somewhere safe.
+@5.19
+Then please hurry.
+@5.20
+Taineiji temple lies ahead.
+@5.21
+...Haah, haah. I'm a little tired.
+@5.22
+Now that we've come this far, our pursuers won't catch up soon.
+@5.23
+Yes, let's rest here. By the way, is there a mirror anywhere... My hair is a mess.
+@5.24
+There's no mirror, but there's a pond over there. Perhaps you could look at your reflection in the water.
+@5.25
+Oh, let's do that.
+@5.26
+...What!?
+@5.27
+(...Why, why does the water not show my face...)
+@5.29
+...So that is how it is.
+@5.30
+What on earth is wrong?
+@5.31
+My fate has run its course. I will go into Taineiji and take my life there.
+@5.33
+A fine temple. A fitting place for my end.
+@5.34
+As a warrior, I don't mind dying when my luck in battle runs out, but dying because of a traitor is bitter indeed.
+@5.35
+Don't say that.
+@5.36
+Don't say that, \#0FF0.
+@5.37
+You know the story of my mother...
+@5.38
+When a succession dispute broke out in the Ouchi clan, the \#1322 retainer Naito Hironori was killed by \#0B22's father, Yoshioki.
+@5.39
+Later Yoshioki took the daughter of Naito Hironori, the man he had killed, as his wife, and she bore a son: \#0B22.
+@5.40
+Her lifelong partner was also her father's killer... How my mother must have suffered...
+@5.42
+Whatever happened, I would never strike down a retainer. That is what I decided.
+@5.43
+It has come to this, but I have no regrets.
+@5.45
+He who strikes, and he who is struck, both alike...
+@5.46
+...like dew, like lightning (nyoro yaku nyoden); so should all be seen (o sa nyoze kan).
+@5.49
+Thus \#0B22, head of the \#1322 clan, took his own life at Taineiji...... Aged \1007.
+@5.50
+Thus \#0B22, head of the \#1322 clan, took his own life at Taineiji, and \#07FE died with him. \#07FE was \1007...
+@6.1
+(Right, if I'm going to speak up, it's now.)
+@6.2
+My lord! I would like to take this opportunity to say something.
+@6.3
+\#0999? What is it?
+@6.4
+Lately, it seems to me, the \#1322 house values nothing but culture and the arts.
+@6.6
+I believe a warrior's duty is to be diligent and train himself without rest.
+@6.7
+If we forget a warrior's duty and devote ourselves only to culture and the arts, we cannot hold our domain in these troubled times.
+@6.8
+Dear me. Lord \#1199 is quite a problem.
+@6.10
+Might it not be that you object to culture and the arts simply because you don't understand them yourself?
+@6.11
+What did you say!
+@6.12
+I humbly think it is rather you, Lord \#1199, who should study the arts and gain the eyes to see the situation around you.
+@6.13
+Otherwise you may well repeat what happened at the siege of Gassan-Toda Castle \1008 years ago.
+@6.14
+\1008 years ago, the \#1322 clan brought the \#12D2 clan under its wing and gained the upper hand in the struggle for the Chugoku region.
+@6.15
+Riding high, the \#1322 clan, led by \#0199, called for taking Gassan-Toda Castle, \#102D's seat. \#0341 and others opposed it.
+@6.16
+The war party won and the attack went ahead, but the strong castle of Gassan-Toda held, and the attackers' losses only grew.
+@6.17
+In the end the \#1322 gave up the siege. In the retreat, \#0B22's adopted son Harumochi drowned, to \#0B22's great grief.
+@6.18
+If you learn nothing from such a tragedy, you can hardly complain at being called a reckless boar.
+@6.19
+Grr, you dare...
+@6.20
+Enough, both of you.
+@6.22
+I said enough. I'm not feeling well. That's all for today.
+@7.1
+Before the council, I have something to tell you all.
+@7.2
+As you all know, the \#1322 clan has no heir at present.
+@7.4
+So I have decided to adopt \#0898, younger brother of Lord \#08A7, head of the \#10A7 clan in Bungo.
+@7.5
+In fact, I have already sent for him from the \#10A7 clan... Come in, \#0898.
+@7.6
+I am \#0098. I look forward to serving you.
+@7.8
+Yes. \#0898, from today you are one of the \#1322. From now on, you shall call yourself "Ouchi Yoshinaga".
+@7.15
+Everyone seems to be here.
+@7.16
+I have news. The old lord is adopting an heir from the \#10A7 clan of Bungo.
+@7.17
+The one being adopted is Lord \#0898, younger brother of Lord \#08A7, head of the \#10A7 clan.
+@7.18
+Lord \#0898 has already moved to \41DE and changed his name to Ouchi Yoshinaga.
+@7.19
+I see, so that's how it is. Thank you for the report.
+@7.20
+I see, so that's how it is. Thank you for the report.

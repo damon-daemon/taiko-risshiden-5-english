@@ -1,0 +1,446 @@
+@0.0
+Ah! W-welcome home...
+@0.1
+Hm? What is it? You seem restless.
+@0.2
+N-no... not at all.
+@0.3
+Lord \#01FB! The old lord summons you! Please come to \51E5 at once!
+@0.4
+What, Father? I wonder what it could be... Very well, I'll come at once.
+@0.5
+You too, my lady, if you please.
+@0.8
+It is the old lord's order.
+@0.9
+Father said I was to bring Toku to \51E5 as well?
+@0.11
+Hm...? What could this mean?
+@0.12
+...............I will come too.
+@1.0
+Hm, Nobuyasu... no, \#0FFE.
+@1.1
+People are watching... You shouldn't come here. Farewell.
+@2.0
+Ah, young lord... The old lord and the senior retainers are waiting. Please go to the council chamber.
+@2.1
+?? What can this be about...
+@2.3
+\#09FB is here.
+@2.4
+I am Toku...
+@2.5
+Hm... \#09FB, you've come. And Princess Toku too.
+@2.6
+Father, you summoned me suddenly. What is the matter?
+@2.7
+Search your own heart.
+@2.8
+Hm...? I, \#09FB, can think of nothing, Father.
+@2.9
+Truly... You have nothing to be ashamed of?
+@2.10
+What are you saying I have done!
+@2.11
+Princess Toku, what about you?
+@2.13
+Can you not answer?
+@2.14
+Father, has Toku done something wrong?
+@2.15
+The other day, a letter came from Lord \#00C3.
+@2.16
+From my father-in-law...?
+@2.17
+It said something astonishing.
+@2.18
+............?
+@2.19
+A rumour that, urged on by your mother, you are secretly in league with \#01BF.
+@2.20
+What!? Me... in league with the \#11BF of all people!? Impossible! Absolutely impossible!
+@2.22
+Father, believe me! I swear by heaven and earth, I have not betrayed you!
+@2.23
+Are you saying our ally, Lord \#10C3, has written me a pack of lies...?
+@2.24
+It must be so. I know nothing of this... and they even used Mother's name...
+@2.25
+According to the letter... this rumour reached Lord \#10C3's ears... from his daughter, \#0446.
+@2.26
+What! Toku! You...!
+@2.28
+Stop! You're in front of the retainers!
+@2.29
+B... but!!
+@2.30
+\%03, our house cannot afford to make an enemy of our precious ally, Lord \#10C3.
+@2.31
+A... and what does Lord \#10C3 say?
+@2.32
+That anyone in league with his hated enemy the \#11BF cannot be forgiven, even his ally's son. That you are to be ordered to commit seppuku...
+@2.33
+I cannot accept that! I have done nothing! It's all this woman's...!!
+@2.34
+Disgraceful!! Hold your tongue!! \%03!
+@2.35
+Father!!
+@2.36
+You are to blame too, for acting in a way that invited suspicion...
+@2.37
+I-I can't accept this! I, \#09FB, cannot cut my belly over something like this!
+@2.38
+Nor can I accept it! My lord! Why do you do whatever the likes of \#08C3 tells you!
+@2.40
+You keep quiet!
+@2.41
+This girl... a hateful little wench who didn't trust her own husband and slandered him to her father!
+@2.42
+...Is it not you, Mother-in-law, who doesn't understand your own position!?
+@2.43
+Eek! Still talking back, you little wench!
+@2.45
+Ow!
+@2.46
+Mother, please stop!
+@2.47
+\#09FB, you are being deceived. This girl is the daughter of that Fool!
+@2.48
+Stop it! You fool!
+@2.50
+\%03, I order you to take your own life too!
+@2.59
+I told you to be quiet! Bah... Someone! Lock Sena in the next room!
+@2.62
+Father!! This is too cruel...!
+@2.63
+This too... is for the alliance. There is no other way... Forgive... your worthless father.
+@2.65
+Accept seppuku
+@2.66
+Apologise to \#00C3
+@2.67
+Cut down \#0446
+@2.68
+I understand... I will cut my belly.
+@2.69
+Young lord...
+@2.70
+Tell Toku and Mother... that I'm sorry...
+@2.72
+Father... please, let all of this be my fault alone, and cherish the bond with Lord \#10C3.
+@2.73
+I'm sorry... Forgive me... \#09FB. Everything for the seppuku is ready in the next room.
+@2.74
+Then... farewell.
+@2.75
+Month \M002 of year \M001: \#01FB was to die by his own hand for the suspected plot with \#01BF...
+@2.76
+...or so it should have been...
+@2.77
+Wait!! Young lord, please wait!
+@2.78
+What is it!! I am about to cut my belly... Leave!
+@2.79
+I bring a message from the old lord!
+@2.80
+What now... What does Father say?
+@2.81
+He says, "Flee!"
+@2.82
+What... did you say?
+@2.83
+The old lord said that, after all, he cannot bear to drive his own son to his death...
+@2.84
+But what excuse will he give Lord \#10C3?
+@2.85
+He means to tell Lord \#10C3 that you took your own life, young lord.
+@2.86
+If you change your name and live as someone else, he says to leave the \#10C3 to him!
+@2.87
+He says I must... throw away my life as \#01FB and live as someone else?
+@2.88
+Yes!! Young lord! There is no other way. Escape from here now, out of the castle...
+@2.89
+Commit seppuku anyway
+@2.90
+Live as someone else
+@2.91
+No... I'm grateful for Father's kindness, but I too am a warrior... I want to die with dignity.
+@2.92
+Young lord!!
+@2.93
+If it came out that I had fled, Father would be shamed.
+@2.94
+If \#01FA's heir were seen behaving disgracefully at his death, I could not forgive myself... I will cut my belly with honour.
+@2.95
+Young lord!!
+@2.96
+Give Father my last words... that \#09FB was happy to be born his son...
+@2.97
+Young lord!!
+@2.98
+Month \M002 of year \M001: \#01FB took his own life...
+@2.101
+So Father... means to keep me alive, whatever it takes.
+@2.102
+Yes!! Quick!! This way, hurry.
+@2.103
+I'll never come to this castle again... Farewell, \41DE...
+@2.104
+For now, please hide here.
+@2.105
+The envoy to the \#10C3 clan has been sent. It is given out that you have committed seppuku, young lord.
+@2.107
+This is as far as I can go with you... Young lord, take care of yourself.
+@2.109
+...\#09FB!
+@2.111
+Forgive me, \#09FB. There was no other way.
+@2.112
+No, it is I... who have been an undutiful son.
+@2.113
+From now on, think of me as dead.
+@2.114
+...I'm sorry.
+@2.115
+Farewell... Father! From this day, \#09FB cuts all ties with the \#11FA clan and will live as a complete stranger.
+@2.116
+Wait, \#09FB. This is the last thing I can do as your father.
+@2.117
+As your father, I want to give you a new name for the new life you begin today.
+@2.119
+My grandfather, Lord Matsudaira Kiyoyasu, restored the fortunes of the Matsudaira... This is the name he used when he was young.
+@2.120
+And that is...?
+@2.121
+Serada... Jirosaburo.
+@2.122
+Our Matsudaira house descends from the Nitta Genji... The Serada, a branch of the Nitta, are our ancestors.
+@2.123
+And "Jirosaburo" was the name of every generation. I stopped using it when I became a hostage of the Imagawa...
+@2.124
+Because of that, no one will guess you are related to the Matsudaira.
+@2.125
+From today, in honour of Lord Kiyoyasu, call yourself Serada Jirosaburo.
+@2.127
+The fact that you are alive has been kept from everyone else... From now on, live strongly as a new man!
+@2.128
+I understand... Take care, Father.
+@2.129
+Take care......!
+@2.130
+And so \#01FB cast off his old life and began a new one as Serada Jirosaburo...
+@2.135
+...Father, give me a chance to explain myself.
+@2.136
+What?
+@2.137
+I will go to \41DE myself and explain to my father-in-law... to Lord \#00C3.
+@2.140
+I have no disloyal thoughts at all. If I talk to Lord \#10C3, he will surely understand...
+@2.141
+...Very well. Then I'll come too.
+@2.142
+No, please... leave this to me.
+@2.143
+Your mind is made up... Then go. Be sure to deal with Lord \#10C3 in all sincerity.
+@2.144
+I will... Toku, we're going.
+@2.145
+Me too...?
+@2.146
+You sowed the seeds of this in the first place... There's no point in going without you.
+@2.147
+...I understand.
+@2.148
+Well then, Father, I'm off.
+@2.149
+Yes... Come back safely.
+@2.150
+Bah, when it comes down to it... it was you writing nonsense to your father that caused all this... Kneel there!!
+@2.151
+Eek......!
+@2.152
+\%03, have you lost your mind!
+@2.153
+Bah, this is what you get!
+@2.155
+Kyaaah!!
+@2.156
+My lady!
+@2.157
+You... You fool!!
+@2.158
+Ugh...!
+@2.159
+It's all right...! The wound is shallow!
+@2.160
+Call a physician at once!!
+@2.162
+\%03! Do you know what you've done!?
+@2.163
+Father...!! I... I only wanted to clear myself of suspicion!
+@2.164
+Silence!! Don't you see that what you've done has opened a great rift between our house and the \#10C3 clan?
+@2.166
+I don't want to hear excuses! \%03! Cut your belly here and now!
+@2.167
+F-Father!!
+@2.168
+\%03! That's too harsh...
+@2.169
+It doesn't matter! That's what he has done! He must take responsibility himself!!
+@2.170
+Ngh...!! I understand... I will cut my belly.
+@2.172
+Tell Toku... that I'm sorry...
+@2.175
+......Yes!
+@2.177
+Month \M002 of year \M001: \#01FB took his own life to answer for the suspected plot with \#01BF...
+@3.0
+I am \#09FB, heir of \#01FA. I wish to see my father-in-law, Lord \#00C3.
+@3.1
+Y-yes, sir!! Please wait a moment!
+@3.2
+I am \#01FB.
+@3.3
+Oh, \#09FB! You've come! Hm, and Toku with you.
+@3.5
+Are you well?
+@3.6
+I have come today to explain myself.
+@3.8
+I have come to apologise for the groundless slander that this Toku wrote to you the other day, Father-in-law.
+@3.9
+So you say you are not in league with the \#11BF?
+@3.10
+I swear by heaven and earth, I have nothing to be ashamed of!
+@3.11
+Then Toku wrote a lie? Well, Toku?
+@3.12
+...............I... I...
+@3.13
+Father-in-law... it shames me to air my family's disgrace, but my mother, Lady Tsukiyama, and this Toku have never got along...
+@3.14
+They quarrel at every turn.
+@3.15
+.........And?
+@3.16
+This affair was born of the suspicion between my mother and Toku... I beg you, let it pass.
+@3.17
+Toku! You don't get along with your mother-in-law?
+@3.18
+My mother-in-law hates me and torments me at every turn.
+@3.20
+I don't mean to defend my mother, but Lady Tsukiyama's real name is \#0445. She was the adopted daughter of Lord \#006E.
+@3.21
+So she hates you, Father-in-law, for killing Lord \#086E, and has made your daughter Toku her enemy too, I suppose.
+@3.22
+But from now on I will speak to my mother and see that they stop quarrelling. So I beg you, overlook it this time.
+@3.23
+......And what about you?
+@3.25
+You are Lady Tsukiyama's son. Do you hate me, the enemy of your mother's adoptive father?
+@3.26
+Not at all! To me, Lord \#10C3 is my wife's father... my father-in-law.
+@3.27
+I have never once thought of you as an enemy!
+@3.28
+Is that the truth?
+@3.30
+Very well, I understand!! As for you, this affair will be forgotten.
+@3.31
+I am most grateful!!
+@3.32
+But there is one condition... Kill Lady Tsukiyama!
+@3.33
+Th-that I cannot...
+@3.34
+I will not forgive her for insulting my daughter. And it's tiresome to have her forever hating me as her foster father's enemy.
+@3.35
+Order her to take her own life!!
+@3.36
+...I cannot! A son urging his own parent to take her life... I absolutely cannot!
+@3.37
+...No matter what?
+@3.38
+No...!!
+@3.39
+...Then I cannot forgive you! \#09FB!! Cut your belly here and now!
+@3.40
+F-Father...!!
+@3.41
+...I understand. I will cut my belly.
+@3.42
+Wait!! \#09FB!!
+@3.43
+...Father!? Why are you here!?
+@3.44
+Lord \#09FA... What have you come for?
+@3.45
+Lord \#10C3, I have put my wife \#0445 to death with my own hands! Now you can have no objection!
+@3.46
+What!? Father, is it true? Did you really kill Mother!?
+@3.47
+Lord \#10C3, this is the proof of our alliance. In return for this, I beg you to spare \#09FB's life.
+@3.48
+...You truly killed Lady Tsukiyama?
+@3.49
+A warrior of Mikawa never goes back on his word!
+@3.50
+Mother...
+@3.51
+Lord \#11FA... You have truly shown your sincerity! I, \#08C3, was utterly wrong to doubt my ally, Lord \#11FA, even for a moment! Forgive me.
+@3.52
+No, no... as long as our sincerity is understood.
+@3.53
+Father, why go this far! Couldn't you trust me! And... Mother!!
+@3.54
+You keep quiet!!
+@3.56
+The \#10C3 and the \#11FA are bound by marriage. I want to keep our close relationship.
+@3.57
+No... Lord \#10C3's power is already far beyond ours.
+@3.58
+We take this chance to become vassals of the \#10C3 clan and swear our loyalty.
+@3.61
+That is what I want too. I'm counting on you, Lord \#11FA.
+@3.62
+Yes, sir!! Then I take my leave.
+@3.63
+Take care, Toku.
+@3.66
+Father, you've disappointed me!!
+@3.67
+...How so?
+@3.68
+To kill your own wife to curry favour with Lord \#10C3, and even ask to become his vassal! Do you call yourself a warrior!!
+@3.69
+Silence!! You fool! Can't you understand how your father feels!
+@3.71
+Sadly, we do not have Lord \#10C3's strength now...
+@3.73
+Endure, endure... To win in the end, one must suffer many setbacks like this.
+@3.74
+You too... will understand one day.
+@3.76
+Princess Toku.
+@3.77
+Y... yes!
+@3.78
+For your sake, I killed my wife... From now on, don't quarrel with \#09FB. Trust each other and live together.
+@3.79
+Father-in-law... I'm so sorry. For my sake...
+@3.80
+\#09FB, we're going home.
+@3.82
+Thus the "Lady Tsukiyama Incident" came to an end...
+@3.83
+The price for the \#11FA clan was vassalage to the \#10C3 clan and the tragic death of Lady Tsukiyama, Princess \#0445...
+@3.84
+...and, worse still, a rift between \#09FA and his son \#09FB that no words could describe.
+@4.0
+Kozuke, where the Serada, ancestors of the Matsudaira, came from... I'll begin my new life here...

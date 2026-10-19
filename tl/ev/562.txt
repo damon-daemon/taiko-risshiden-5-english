@@ -1,0 +1,30 @@
+@0.0
+Lord \#07FE, Lord \#0077 is asking for you. Please come to \41DE.
+@0.1
+Lord \#0877 is...? Understood. I'll go at once.
+@1.0
+Phew, I've reached \41DE.
+@1.1
+Lord \#07FE, we have been waiting for you. Lord \#0877 is in the castle.
+@1.4
+Lord \#0B20, I am honoured that you have come all this way.
+@1.5
+Yes. What is the business today?
+@3.7
+I am \#0228.
+@3.8
+Ah, \#0A28, thank you for coming.
+@3.9
+Lord \#0B20, it has been a long time.
+@3.10
+Lord \#1077, we originally belonged to the Yamanouchi \#1320 clan, but bowed to the \#1276 onslaught because we had no choice...
+@4.32
+Right, all is ready. Now we attack \41E2, where \#0276 is holed up. Men, we march!!
+@7.0
+Lord \#0B20, thank you for your trouble on this long campaign.
+@7.1
+Not at all. Lord \#0877 has shown his might in the Kanto and done great honour to the office of Kanto deputy. I have nothing left to wish for.
+@7.2
+Leave the rest to me, \#0877.
+@7.3
+Yes, so be it.

@@ -1,0 +1,1074 @@
+@0.0
+My lord, our house's purveyor, \#07F2, requests an audience.
+@0.1
+What, \%047F2? Good, show him in.
+@0.2
+\%03, I trust you are in fine spirits.
+@0.3
+What brings you here today?
+@0.4
+In truth, I have something I wish to present to you, \%03, and have brought it with me today.
+@0.5
+Oh, for me... What might it be?
+@0.6
+I hear you are a master of the tea ceremony, \%03. It is a censer for use at tea gatherings.
+@0.7
+Oh! How delightful. I love tea above all else... A censer will make my tea gatherings all the more splendid.
+@0.8
+Here it is. Please accept it.
+@0.9
+Hm, this is...!? Is this not the Plover Censer!
+@0.10
+You have a fine eye. It is indeed.
+@0.11
+Such a supreme treasure... Am I truly allowed to have it?
+@0.12
+It is in thanks for your constant favour. I believe so precious a censer belongs in the hands of the ruler of the realm.
+@0.13
+I am grateful! Well, this is wonderful. Ha ha ha!
+@0.14
+Your friendship with \#07F2 has grown.
+@0.15
+Well then, I shall take my leave.
+@0.16
+Oh, thank you for coming today...
+@1.0
+Well, time for bed... Oh, I know. For once, I will burn some incense as I sleep.
+@1.1
+Yes, yes, with this Plover Censer... I am sure to have sweet dreams.
+@1.2
+...............Zzz.
+@1.3
+Peep!!
+@1.4
+Wh-what was that?
+@1.6
+Hm? The plover on top of the censer is singing!?
+@1.7
+The Plover Censer was crafted to make a sound when air heated by the incense fire escaped from it...
+@1.8
+No wonder it is called the Plover... Hm?
+@1.10
+Who goes there!?
+@1.11
+Tch! Botched it.
+@1.12
+Hm... You! Are you not \#0049!
+@1.14
+Who are you!
+@1.15
+No help for it, now I'm found out... I am the greatest thief in the land, \#0049! I came to take that Plover Censer!
+@1.16
+Guards! Guards! A thief has entered my bedchamber!
+@1.17
+Heh... I put the night watch to sleep. No one will come.
+@1.18
+Curse you...
+@1.19
+I meant to put everyone around to sleep, grab the censer and go, but who knew the thing would start singing... Bad luck.
+@1.20
+Sneak into the bedchamber of the ruler of the realm and think you can leave unpunished... I will cut you down myself!
+@1.21
+As if a monkey-faced upstart like you could beat me!
+@1.23
+I won't take your life... The treasure is all I want. So long!
+@1.24
+W-wait!
+@1.25
+Hm? What now?
+@1.26
+If you want it that badly, you can have the thing. In exchange...
+@1.27
+In exchange.............. what?
+@1.28
+Tell no one what happened here today. If the ruler of the realm were beaten by a common thief, the people's hearts would turn from him.
+@1.30
+And... never steal in my domain again. If you break that, I will hunt down your band of thieves and root you out... and execute your whole clan. Well?
+@1.31
+...Understood. This censer was my last target... After this job, I'll go straight.
+@1.32
+You promise...?
+@1.33
+I am \#0049, known all over the realm... I don't go back on my word.
+@1.34
+Then go. I give you that censer!
+@1.35
+Of course... I took it with my own skill, after all.
+@1.36
+Oh, is that so? Ha ha ha, I forgot. Go, run along.
+@1.37
+...Farewell, then!
+@1.38
+(\#0049... His ninja skills are considerable. A shame to leave him at large...)
+@1.39
+(Instead of dirtying his hands with theft, he should aim to be a general... the lord of a land and a castle, as I once did.)
+@1.40
+Well, never mind... Yawn... Back to sleep.
+@1.41
+Ngh... Careless of me! I let my guard down!
+@1.43
+\%03! Are you unharmed?!
+@1.44
+My lord! Are you hurt...!?
+@1.45
+Oh, I am fine... As you see. More to the point, this thief!
+@1.46
+Ngh...
+@1.47
+Through our failure a thief got into your bedchamber, \%03... We are deeply sorry.
+@1.48
+Letting such a thief live does the world no good. Execute him at once!
+@1.50
+No... wait. I will oversee the execution in person. The place... Sanjo riverbed, in the capital.
+@1.52
+Prepare what I am about to tell you. We will hold a grand execution, as an example!
+@1.54
+My lord! Surely there is no need for such cruelty...
+@1.55
+No, this villain has made my good people suffer. If we let him go or pardon him, the people will suffer again.
+@1.57
+Now, on your feet!
+@1.59
+Get walking, now!
+@1.60
+Damn it...!
+@2.0
+So this is my new home!
+@2.1
+\#0A05!
+@2.2
+Ma!
+@2.3
+So you've become a general with your own castle! I was so surprised.
+@2.4
+Today I brought along some of our relatives.
+@2.5
+Put the two of them to work under you.
+@2.6
+An honour to meet you!
+@2.7
+\%03, please make use of us.
+@2.8
+Well, well! Fine, dependable young warriors!
+@2.9
+We are in your hands.
+@2.10
+When there is a battle, take us with you.
+@2.11
+Oh, I'm so glad, so glad.
+@2.12
+Both fine young men. I can look forward to their work in battle.
+@2.13
+By the way, Ma, now that I have a castle, why not move in here?
+@2.14
+You can't live alone forever, and I want to look after you.
+@2.15
+Is that so? Then I'll gladly move in.
+@2.16
+But until now, winning glory in battle was enough. From now on, that will not do.
+@2.17
+Collecting taxes, securing supplies, managing money, of course, and maintaining waterways and roads, even settling quarrels among the people...
+@2.18
+But my retainers are all rough soldiers... Now, what to do?
+@2.19
+How about searching the towns around here?
+@2.20
+This land of Omi has long thrived on trade, and I hear there are many people with all kinds of skills.
+@2.21
+You may find someone to your liking, \%03.
+@2.22
+I see, that is a good idea!
+@2.23
+Once the castle repairs are done, we will be busy again.
+@2.24
+Why not look for talent before then?
+@2.25
+Hmm. Then I will keep an eye out.
+@3.0
+Welcome.
+@3.1
+Oh, you are not the master here. Where is the master?
+@3.2
+What is the matter?
+@3.3
+Oh! You are the master here? Who is this man?
+@3.4
+This is \#029E. He is good with numbers, so I hired him hoping he would help with the business...
+@3.5
+Now we can track the flow and output of rice each season precisely and set our buying and selling prices.
+@3.6
+Thanks to him, we have bought and sold rice at good prices and made a tidy profit.
+@3.7
+And on top of that he is a hard worker. He really is a great help.
+@3.8
+Oh? He has such a talent?
+@3.9
+People come to \41DB from all over, so it is not hard to learn the rice prices.
+@3.10
+Then, if you can work out the cost of travelling to each place...
+@3.11
+you can buy rice where it is cheapest and sell it where it is dearest.
+@3.12
+But you may be holding a lot of rice when the price drops. What do you do then?
+@3.13
+When rice is cheap, you need not force a sale.
+@3.14
+Instead you can get money by raising war funds and the like.
+@3.15
+You are quite clever. How about it? Will you work at my castle?
+@3.16
+How much will you pay in advance?
+@3.17
+10 kan
+@3.18
+1 kan
+@3.19
+How about 10 kan? Not enough?
+@3.20
+Then I will come. Here I work for 2 kan.
+@3.21
+What! I should have offered less!
+@3.22
+He got me!
+@3.23
+How about 1 kan? A good sum, isn't it?
+@3.24
+That little? Here I work for 10 kan.
+@3.25
+What! 10 kan, you say? Th-then how about 20 kan?
+@3.26
+Well, that will do. Then 20 kan in advance, received with thanks.
+@3.27
+Then I shall head for the castle...
+@3.28
+Ha ha ha. For all his talk, he is still green.
+@3.29
+I would have paid up to 30 kan.
+@3.30
+\%03, you can't just walk off with my help.
+@3.31
+Ah, sorry about this.
+@3.32
+From now on I will give this shop my custom. Forgive me for that.
+@3.33
+Please do. And by the way, I was only paying \#0A9E 2 kan.
+@3.34
+............ He got me!
+@3.35
+Hmm. From the look of you, you don't seem very well off.
+@3.36
+............ I have nothing on me now, but at the castle I have a fair amount.
+@3.37
+I can't count on much, it seems, but it sounds interesting. All right, I will come.
+@3.38
+\%03, you can't just walk off with my help.
+@3.41
+Please do.
+@4.0
+Oh, if it isn't the lord of the castle. Is there something you need?
+@4.1
+No, I was just passing by. I am a little thirsty. Would you give me some tea?
+@4.2
+Certainly. Just a moment...
+@4.3
+Sorry to keep you waiting. Here you are.
+@4.4
+Oh! Thank you kindly!
+@4.5
+...Hmm. Rather lukewarm.
+@4.6
+Then, another cup.
+@4.7
+This time a little hotter. Mm, delicious...
+@4.8
+Would you care for another cup?
+@4.9
+Hot! Hot, but delicious!
+@4.10
+Ah, thank you for the tea! My thirst is quenched.
+@4.11
+But the three cups were made quite differently. Was there some reason for that?
+@4.12
+Yes. You said you were thirsty, my lord, so first I eased your thirst with lukewarm tea...
+@4.13
+then made each cup hotter, so you could enjoy the flavour.
+@4.14
+I never noticed such thoughtfulness.
+@4.15
+Forgive me, \#084B, for speaking so presumptuously.
+@4.16
+No, no. \#084B, is it? You are an interesting one.
+@4.17
+\#084B is the sort who studies everything with great zeal.
+@4.18
+What do you say, Reverend... Will you entrust \#084B to me?
+@4.19
+If it is you, my lord, gladly. It would be best for \#084B too.
+@4.20
+What about you? Do you not want to serve me?
+@4.21
+No, I am in your hands, my lord.
+@4.22
+Then it is settled. I am counting on you.
+@5.0
+\%03! The repairs are finished!
+@5.1
+Hmm, well done.
+@5.2
+To mark the occasion, I will rename this castle Nagahama.
+@5.3
+Nagahama? It has a fine ring to it!
+@5.4
+Yes. I took one character from our lord's name!
+@5.5
+Now, \%03, come and see the repaired castle.
+@5.8
+Sturdy stone walls... Three rings of moats...
+@5.9
+We made the moats wide enough for boats, so the town is thriving too.
+@5.10
+This is splendid! Well done!
+@5.12
+Many people pass through Omi. Seeing this castle town, more will surely come.
+@5.13
+I can picture my castle town bustling already.
+@6.0
+Well, well, my lord of the castle.
+@6.1
+I have come today because there is much I want to ask you.
+@6.2
+I would like to make this town of Himeji a hub of trade for the eastern Seto Inland Sea. I wondered if you had any good ideas.
+@6.3
+As expected of my lord! You have a keen eye!
+@6.4
+H-hey, \#0938! Speaking up without being called is rude to my lord!
+@6.5
+No, it is fine. Is he your son?
+@6.6
+Y-yes. I have had him learn seamanship, thinking it would help with shipping.
+@6.7
+Oh, seamanship.
+@6.8
+But now he has got carried away and says he wants to become a samurai. A troublesome son.
+@6.9
+Oh... \#0938, you said? Why do you want to become a samurai?
+@6.10
+Yes. I want to do my humble part so that \%040C3 can bring peace to the realm as soon as possible.
+@6.11
+Once the realm is settled, order will improve and my father can work at the family trade without worry.
+@6.12
+\#0938...
+@6.13
+Hmm, a splendid aim. If you will have me as your master, I will take you into my service. What say you?
+@6.14
+Yes! From now on I will call you my lord.
+@6.15
+My lord, please take good care of \#0938.
+@7.0
+To aim for the realm, this castle is a bit cramped... I must move to a castle fit for a ruler of the realm.
+@7.1
+Then the castle at Ishiyama would be best, would it not?
+@7.2
+Hmm... I was thinking the same.
+@7.3
+Naniwa, in Settsu Province, faces the sea, has the Yodo River for shipping, good roads, and is easy to develop.
+@7.4
+It is also close to the capital and easy to travel to... And with merchants setting up shop there, it is a key place for the economy as well.
+@7.5
+Just so... But the castle there now does not suit me. Very well, I will build a new castle at Naniwa, in Osaka!
+@7.6
+I will leave the screen paintings inside the castle to \#0426. And raise stone walls and a keep that will astonish everyone.
+@7.7
+Gold leaf on the roof tiles of the keep! Build a castle that will astonish everyone!
+@7.9
+This castle shall be the cornerstone of my rule over the realm! Reward the carpenters richly and make them compete!
+@7.10
+I will build a castle to rival the one \#08C3 built at Azuchi!
+@7.12
+In \M001, \#0205 completed a huge castle at Osaka.
+@7.13
+Its stately form, overlooking Osaka Bay, symbolised the power and wealth of the \#1205 clan...\n\nIt was a castle truly fit to be \#0A05's base for taking the realm...
+@7.14
+Good, then I will move my base to Osaka.
+@8.0
+You stupid monkey!! How dare you show your face to me!!
+@8.1
+Get out!! Get out, or I will cut you down!!
+@8.2
+Eek!! Have mercy!!
+@9.0
+\%03, may I have a moment?
+@9.1
+Hm, what is it?
+@9.2
+In truth, a gang of thieves has been causing an uproar in the capital lately...
+@9.3
+What, I cannot let that pass.
+@9.4
+As we rule Kyoto, we pay special attention to order and have been trying to catch the thieves, but...
+@9.5
+You cannot catch them?
+@9.6
+Sir...! They appear like a gale and vanish like the wind... We cannot handle them.
+@9.7
+With such agility... They may be ninja by origin. Who leads this band of thieves?
+@9.8
+Well... They leave not a trace. We have tried everything to find clues, but...
+@9.9
+Still, the townsfolk whisper that a man called "\#1049... \#0849" leads the band...
+@9.10
+What! \#0049?
+@9.11
+Do you know him?
+@9.13
+No... I do not.
+@9.14
+(\#0049? I have never heard the name...)
+@9.15
+In any case, I thought it best you should hear of it.
+@9.16
+Hmm... Tighten the guard so the townsfolk need not fear.
+@9.18
+(...The thief \#0049, eh?)
+@10.0
+Are the preparations for the execution ready?
+@10.1
+Yes, sir! Just as you ordered!
+@10.2
+What's this, what's this? What's starting, eh?
+@10.3
+I wonder what that huge cauldron is for...?
+@10.4
+.........!!
+@10.5
+Everyone, liiisten well!! This is the thief who ravaged the capital, \#0049!
+@10.7
+I caught him myself this time, so you may all rest easy!
+@10.9
+And since this man is the greatest villain in the realm, he will be executed here in the capital, before the eyes of all!
+@10.10
+Eek! Ex-execution...!?
+@10.11
+We will drop the thief into this boiling water and send him straight to hell! Understood!
+@10.12
+How... cruel.
+@10.13
+Nah, he's a thief infamous across the land. It's only what he deserves.
+@10.14
+...Ngh! \#0205! Don't think you'll get away with this!
+@10.15
+Mark my words, a second and third thief will appear and throw the realm you rule into chaos!
+@10.16
+...I have no wish to hear the howling of a beaten dog! You there! Get on with the execution!
+@10.18
+Curse you, \#0205! There is no greater thief than you!
+@10.19
+What!
+@10.20
+When it comes down to it, you're a peasant from Owari! You became \#00C3's sandal-bearer and snatched your superiors' glory one after another...
+@10.21
+And after your master, \#08C3, fell at Honnoji, you stole even \#08C3's achievements and grabbed the realm for yourself!
+@10.22
+And to top it all, you forgot all you owed him, killed even your master, \#08C3, and stole the realm for yourself!
+@10.23
+After your master, \#08C3, died,\n\nyou stole even \#08C3's achievements and grabbed the realm for yourself!
+@10.24
+Thief though I am, I never stole on your scale!
+@10.25
+...Do not let the thief howl. Throw him in the water, now!!
+@10.26
+Can't answer that, can you! Monkey! Well, fine... I'll be killed here and become a legend! Watch me!
+@10.27
+My death poem!! Listen well! People of the town!!
+@10.28
+"Though the sands... of Ishikawa's shore... run out, the seeds... of thieves in this world... will never run out!!"
+@10.29
+Do it!!
+@10.30
+Splash!
+@10.31
+Eeek!
+@10.32
+Whoa! He won't last a second in there...
+@10.33
+How awful...
+@10.35
+And so \#0049, the great thief who shook the realm, was boiled alive and lost his life...
+@10.36
+But because of his dramatic end, he was romanticised into a legend, told for ages after as the master thief who defied the powerful...
+@11.0
+So this is my new castle!
+@11.1
+The son of a poor farmer has finally climbed this high...
+@11.2
+To mark becoming lord of \51E8 Castle, let me take a good look at my castle.
+@11.3
+The shore is wide, but the land is completely flat... and the ground below is hard sand...
+@11.4
+If the enemy attacked, there would be nothing to hold them.
+@11.5
+If only it jutted out into the water, or was surrounded by paddies...
+@11.6
+If there is no water around it, we need only make some.
+@11.8
+How about building stone walls on the hard sand and digging moats around them?
+@11.9
+If there is no water around it, could we not simply make some?
+@11.11
+We build stone walls on the hard sand and dig moats around them.
+@11.12
+If the earth dug from the moats is used as a base on top of the walls, we will have a sturdy castle.
+@11.13
+With two or three rings of moats, that alone should give ample defence...
+@11.14
+Hmm, interesting. Let us try it.
+@11.15
+If boats can use those moats, the town should thrive as well.
+@11.16
+Then let us start on the changes at once.
+@13.6
+\#07FE, orders from Lord \#08C3.
+@13.7
+You are to go at once to \51E8 in Echizen, place yourself under Lord \#017B's command and hold back \#0077's army.
+@13.8
+Hmm, understood! Then we march at once!
+@15.21
+Who would have thought it would end like this... I cannot face our late lord...
+@15.22
+\%03, do not lose heart so. It was our failing too...
+@15.23
+But I will never forgive \#080E. Some day... I will destroy him without fail!
+@15.24
+\%03, it seems \#000E has set up the former Shogun, Lord \#001D!
+@15.25
+What!! So that rotten Shogun was pulling the strings!
+@15.26
+Most likely the Shogun... out of hatred for our late lord, incited \#080E to strike him down...
+@15.28
+Then... they have the Shogun as their banner of righteousness. The daimyo of every province may flock to them...
+@15.29
+Grr... Unforgivable.
+@15.30
+\#000E, having set up \#001D, at once petitioned the court and restored the post of Shogun to \#081D.
+@15.31
+And so the daimyo of every province celebrated the revival of the Muromachi shogunate and swore obedience...
+@15.32
+\#0A05 and the other former \#10C3 retainers found themselves driven into adversity instead...
+@15.33
+Having lost \#00C3, who had held them together, the old retainers split into several factions...
+@15.34
+Far from carrying on \#08C3's path of conquest, the \#10C3 retainers first had to settle their own squabbles...
+@16.6
+Our lord orders you, \%03, to subjugate the \#17F2.
+@16.7
+Our lord orders you, \%03, to make \51E8 your castle and subjugate the \#17F2.
+@16.8
+And for this task our lord has made you, \%03, a Province Lord.
+@16.9
+Tell him I humbly accept!
+@17.0
+Lord \#1205!!
+@17.1
+Hm... Are you not Lord \#000E!
+@17.2
+I have heard of your bold deed.
+@17.3
+What...!?
+@17.4
+Your rebellion against Lord \#08C3... a daring thing to do.
+@17.5
+Hmm... It pains my heart, but I too am a warrior... I want to unite this warring land with my own strength.
+@17.6
+For that, I had to become a daimyo myself.
+@17.7
+Against my will I came to betray Lord \#08C3, and my regret only grows, but...
+@17.8
+You need not let it trouble you... I too have harboured thoughts of rebellion against \#08C3...
+@17.9
+What!! You too, Lord \#100E?
+@17.10
+That man has no human feeling... He is wickedness incarnate.
+@17.12
+Once, I brought the Shogun to that man... True, his service in leading the Shogun to Kyoto was great.
+@17.13
+But afterwards... driving out the Shogun, and all his slights to the court and the Emperor... I cannot bear it.
+@17.14
+Lord \#080E...
+@17.15
+Lord \#1205, I have come today with a request.
+@17.16
+A request...?
+@17.17
+I can no longer follow \#08C3. Will you not take me in?
+@17.18
+What! You mean to betray \#08C3 and become my vassal?!
+@17.19
+Just so... I beg you to grant my request!
+@17.21
+Accept
+@17.23
+Very well. It is an offer I could only have hoped for. I gladly accept.
+@17.24
+Oh, thank you! From now on, let me call you my lord.
+@17.25
+I will also hand over \41DE, which I now hold as my castle.
+@17.26
+No, no, there is no need for that. Go on governing your castle as before.
+@17.27
+Are you sure?
+@17.28
+Lord \#080E, walk with me from now on.
+@17.30
+(To think that even this man had had enough of \#08C3...)
+@17.31
+Then I shall return to my castle.
+@17.33
+It is a kind offer... but I must decline.
+@17.35
+If you betray him too, after me, \#00C3 will turn on our house in a fury...
+@17.36
+Will you not hear me, no matter what?
+@17.37
+Forgive me...
+@17.38
+I understand... But I beg you, keep this conversation to yourself.
+@17.39
+I will tell no one... Rest assured.
+@17.40
+Then... excuse me.
+@18.1
+Hm! You, who are you...?
+@18.2
+In truth, I have an important matter to discuss. Forgive me for appearing in such a place.
+@18.3
+An important matter...? You are a ninja from somewhere.
+@18.4
+Poof!
+@18.5
+Wh-what...!?
+@18.6
+I have dropped my disguise. I am \#07F1 of \D07B.
+@18.7
+Forgive me for startling you. I am a ninja of \D07B.
+@18.8
+Forgive me for not introducing myself. I am \#07F1 of \D07B.
+@18.9
+A ninja of \D07B... Why come to me? What is this important matter?
+@18.10
+You have rebelled against \#00C3 and become a daimyo.
+@18.11
+What of it...? \D07B is not subject to \A3A3, I believe...?
+@18.12
+Quite the reverse... \D07B suffered treatment at the hands of \A3A3 that we can never forget.
+@18.13
+Ah...
+@18.14
+I cannot forget... a hateful memory. In "the Iga War" we were made to suffer unbearable pain.
+@18.15
+Yes... so it was.
+@18.16
+\#00C3... burned not only our village but villages all over Iga, and killed women and children. It cannot be forgiven.
+@18.17
+But no one could raise a voice against \#08C3, who proclaimed "Rule the Realm by Force." Everyone simply had to swallow it.
+@18.19
+At such a time, your brave act of rising in revolt against that demon king moved us deeply.
+@18.20
+Lord \#0205... I beg you, use the strength of our \D07B to bring down \A3A3.
+@18.21
+What, \D07B will join our house?!
+@18.22
+Just so! If it means toppling \A3A3, we will gladly follow \A3A2.
+@18.24
+Accept the offer
+@18.25
+Politely decline
+@18.26
+\%03, I gladly accept your offer.
+@18.28
+I too am a man who defied Lord \#08C3. I do not think it will end here. I am ready to face him some day.
+@18.29
+Call on us at any time. The wounds of the Iga War have not yet healed, but we will do our utmost to be of use.
+@18.30
+I am grateful! Please work for our house from now on.
+@18.31
+I am grateful! Please give my regards to the head of \D07B as well.
+@18.32
+Yes, sir! Then I shall take my leave!
+@18.34
+Vanished...!!
+@18.35
+Still... with \D07B on our side, I feel much stronger.
+@18.36
+It is a most welcome offer... but I will decline.
+@18.37
+Are we of no use to you!
+@18.38
+It is not that... But I did not take up arms against Lord \#08C3 gladly.
+@18.39
+I chose to turn on my old master after much anguish. I do not bear a grudge as you do.
+@18.41
+Since our aims differ, we cannot join hands. I am sorry.
+@18.42
+I understand... I will withdraw for now. But when you need our strength, come to us any time.
+@18.43
+Hmm, farewell...
+@19.1
+Orders from Lord \#08C3: you are to withdraw the army.
+@19.2
+Hmm, understood. Then we call off the interception! We return!
+@19.4
+That \#0877! Has he turned tail and fled? The interception is called off. We return!
+@19.5
+\#07FE, there is no sign of the \#0877 army yet.
+@19.6
+Hmm. We will wait around here.
+@19.9
+Lord \#017B, I have news. Lord \#0205's reinforcements have just arrived!
+@19.10
+So you have come at last. Then, without delay, I will give you our battle plan.
+@19.11
+We advance to the Tedori River and meet the enemy's charge with the river between us! Any objections?
+@19.12
+Lord \#097B! You mean to fight that \#0077 in the open field?
+@19.13
+\#0877 is a famed master of war! What chance do we have of winning in the open field...
+@19.14
+And the first aim of this campaign is to stop the \#1077 army from marching on Kyoto!
+@19.15
+If we hold fast in this castle of \51E8, even \#0877 will not take it so easily, I believe. What say you?
+@19.16
+What! You dare object to my plan! \%03, have you turned coward?!
+@19.17
+Not at all. I am saying we should use our troops wisely.
+@19.18
+Oh, so you talk to me like that? You have grown very important!
+@19.19
+If you will not follow my orders, you may go home!!
+@19.20
+......Very well. Then I shall take my leave.
+@19.21
+Hmph! That monkey! I will drive off \#0877 with my army alone!
+@20.0
+That \#0877! We will settle this next time.
+@20.1
+\#07FE, I have news! The \#1077 army seems to have reached \51E9.
+@20.2
+Hmm! We must hurry too! Tell \%0417B so.
+@20.5
+I have news. The \#1077 army seems to have appeared at \51E9!
+@20.6
+So \#0877 has appeared. Then, without delay, I will give you our battle plan.
+@22.0
+News, sir! The \#17F4 army has halted near \41E0!
+@22.1
+He must be watching how we move. Leave him be.
+@24.0
+Everyone, now is the time to avenge our late lord! Strike down the traitor \#080E!
+@24.1
+The future of the \#10C3 clan and of Japan rides on this battle! Steel yourselves!
+@25.0
+Inside the castle, provisions must be low and morale too! We take it in one stroke!
+@25.1
+Ohhh!
+@26.0
+Hmm... So they have come round from the north.
+@26.1
+No, their movement is strange... They are marching as if to ignore us.
+@26.4
+...Damn it!! Even the wise slip once!!
+@26.6
+The \#10C3 army is not after this castle!!
+@26.8
+The \#10C3 mean to take \51E6! Their aim is to cut us off from the western provinces!
+@26.9
+\%03!! What shall we do?
+@26.10
+Grr... We cannot sit here! The \#10C3 army must go no further west!
+@26.11
+Let us attack them from the flank!
+@26.12
+Good, we will strike the \#10C3 army around Amagasaki!
+@26.13
+Everyone, follow me!!
+@27.1
+Lord \#097B will lose. He cannot win head on against a man even \#01C1 could not defeat!
+@27.2
+But... \%040C3 must be furious. Sigh... What to do.
+@30.0
+\#07FE, I have news! Lord \#017B's army has beaten the \#1077 army!
+@30.1
+What! ...Unbelievable! But this will make my position even worse...
+@30.2
+\#07FE, I have news! Lord \#017B's army has been defeated by the \#1077 army!
+@30.3
+As I thought... Lord \#097B will have a hard time rebuilding his army now.
+@30.4
+But after fleeing before the enemy, our side has been defeated... I must be ready for the worst...
+@30.5
+\#07FE, I have news! Lord \#017B's army fought the \#1077 army to a draw!
+@31.28
+Lord \#07F0 has fallen in battle!
+@31.29
+What!!
+@31.30
+Lord \#07F1 has taken his own life too!
+@31.32
+Lord \#07F2 and Lord \#07F3 are missing as well... Most likely they fell into enemy hands...
+@31.33
+Bah...! After letting so many of our men die, how can I alone retreat... Now I will strike at least one blow at \#080E!
+@31.34
+You must not! Lord \#1205, you are not a man who should die here!
+@31.35
+Think of those who died so that you could escape...!!
+@31.36
+.........It cannot be helped! Fall back!! Retreat!
+@31.37
+At Yamazaki and Tennozan, \#0205 suffered a crushing defeat by \#000E's forces and was forced to retreat.
+@31.38
+In this battle, which cost him many officers and men, \#0205's name fell to the ground... while \#080E was hailed as a great general...
+@32.0
+Our side has won a great victory!! \#00C3 has fled!
+@32.1
+Hmm, well done, everyone!!
+@32.2
+With this decisive battle... the \#10C3 clan must know our strength.
+@32.3
+With this victory, the glory and fame \#08C3 once had as the conqueror have fallen to the ground.
+@32.4
+More may now come over to our side.
+@32.5
+Hmm...!!
+@32.6
+With the victory at Amagasaki, \#0205's fame rose and \#00C3's authority fell to the ground...
+@32.7
+Unrest spread even among the castle lords of \A3A3, and some began asking to defect to the \#1205 clan.
+@32.8
+With this battle, \#0205's road to the seat of ruler of the realm grew much shorter...
+@32.10
+The daimyo of every province came to pay close attention to the name \#0205.
+@32.12
+Our forces have completely collapsed!
+@32.14
+My lord, flee quickly...!!
+@32.16
+Lord \#07F1 has fallen!
+@32.17
+Lord \#07F2 has fallen!
+@32.18
+Lord \#07F3 has fallen!
+@32.19
+It is dangerous here! Flee quickly!
+@32.20
+Damn it!! So my strength is no match for \#08C3!!
+@32.21
+After the crushing defeat at Amagasaki, \#0205's name came to be spoken with scorn...
+@32.22
+The man who recklessly rebelled against \#00C3 and lost... The world's opinion of him plunged.
+@32.23
+With this battle, the seat of ruler of the realm moved far out of \#0205's reach...
+@33.0
+Monkey!! Not content with betraying me, you would even burn my castle to ashes!!
+@33.1
+Everyone... This battle is the moment of truth!
+@33.2
+I will defeat \#00C3, the old master who raised me up... and become the new ruler of the realm...
+@33.3
+To aim for the realm, I must be ready to cut down even my benefactor and become a demon... This is where that will be tested!
+@33.4
+Everyone, for my conquest of the realm, take this castle no matter what!!
+@34.1
+......So you are well, Monkey.
+@34.2
+You have not changed either, Lord \#08C3...
+@34.3
+I have nothing to leave behind... Cut off my head, quickly.
+@34.5
+When I think of it... raising you up, a peasant from Owari, was my mistake.
+@34.6
+I still feel... I owe you everything.
+@34.7
+Spare me! Fool!! You sicken me!
+@34.9
+I have... nothing I wish to hear.
+@34.11
+Man's fifty years... set against the world below... are but a dream... an illusion...
+@34.12
+Monkey!!
+@34.14
+The dream of unifying the realm that I could not fulfil... I leave it to you! Do not let it end as an illusion. Fulfil it without fail!!
+@34.15
+Yes, my lord!! ...Without fail!
+@34.16
+Farewell!
+@34.17
+And so the demon king, who had pressed on with the war to unify the realm ever since Okehazama, ended his life of \1009 years...
+@34.18
+It was one of history's ironies that the one who took his head was the retainer the conqueror had once favoured most...
+@34.19
+It is said that \#0205 later gave the remains of his old master, \#00C3, a respectful burial.
+@34.20
+It was the least he could do to make amends to the benefactor he had betrayed...
+@35.24
+.........................
+@38.0
+We will now begin the council.
+@38.1
+Having turned on my lord to become a daimyo, a confrontation with my former master, the \#10C3 clan, is certain...
+@38.2
+If possible, I would rather not stir up trouble with other daimyo for a while...
+@38.3
+My lord! A secret envoy has come from \A3A4.
+@38.4
+What!? From \A3A4...?
+@38.5
+I have come as an envoy from \A3A4. I am \#07F1.
+@38.6
+I have come as an envoy from \A3A4.
+@38.7
+Thank you for coming... And what is your business?
+@38.8
+I come bearing a secret order from my master, \#01FA.
+@38.9
+A secret order...?
+@38.10
+A proposal... of alliance.
+@38.11
+What! But have \A3A4 and \A3A3 not been allies for many years?
+@38.12
+Some years ago, my master \#09FA's heir, Lord \#09FB, was made to cut his belly on Lord \#08C3's orders... Do you remember?
+@38.13
+Now that you mention it... there was such an incident.
+@38.14
+Ever since then, my master has grown ever more distrustful of Lord \#10C3.
+@38.16
+Ally's order or not, what parent would meekly obey when told to kill his own child...
+@38.17
+What is more, since we accepted it, Lord \#10C3 has grown ever more arrogant and treats our house like a vassal...
+@38.18
+\A3A3 and our house are no longer allies on equal terms.
+@38.19
+And so he wants to join hands with me.
+@38.20
+If you, Lord \#1205, and my master join hands, \#08C3's position will become difficult. We very much wish to ally with you...
+@38.21
+Lord \#11FA, rumoured to be an old raccoon dog, is well prepared, as expected...
+@38.22
+What say you? Would you accept an alliance with our house...
+@38.23
+Very well... It is an offer I could only have hoped for.
+@38.24
+Oh, you accept!
+@38.25
+For me, having rebelled, the pressing problem is dealing with \A3A3...\n\nIf \A3A4 will be on my side, nothing could reassure me more.
+@38.26
+Most gracious words! I will return at once and tell my master.
+@38.27
+Hmm. Give Lord \#11FA my warmest regards.
+@38.28
+Yes, sir... Then I shall take my leave.
+@38.29
+My lord, how fortunate that \A3A4 is coming over to our side.
+@38.30
+That man \#01FA... he misses nothing. He means to back the winning horse.
+@38.31
+The rest depends on whether I can be that winning horse.
+@39.0
+Now, let us begin the council.
+@39.1
+News, sir!! \#00C3 has set out from \51E6 with a great army and is closing in on this castle!!
+@39.3
+So at last... \#08C3 himself, in his fury, has turned his spear on our stronghold...
+@39.4
+Hmm... We must get ready to meet him at once!
+@39.5
+But to aim straight for this castle... \#08C3 is a bold man, as ever...
+@39.6
+He has always been a genius at taking people by surprise!
+@39.7
+To attack this castle, the usual way is down along the Yodo River from Kyoto. But if he tries something bold...
+@39.8
+Which road will he take... I have no idea at all.
+@39.9
+We will meet him with a small force, ready to deal with whichever road he takes!
+@39.10
+But reports say the enemy army is huge. Will we be all right?
+@39.11
+When it comes to bold stratagems, I am no less than that man... Crushing a great army with a few is what a true general does!
+@39.12
+Everyone, now! We march!!
+@40.0
+Ishiyama is a key point for travel, and a strong castle besides... I must have it.
+@40.1
+But taking that castle will not be easy.
+@40.2
+I would rather avoid a direct assault... Is there no good way?
+@40.3
+News, sir! An envoy has come from \D079.
+@40.4
+What, an envoy from \D079?
+@40.5
+I am a ninja of \D079. I bring a message from my chief.
+@40.6
+Our scheme against Ishiyama Castle has succeeded. He says you should attack at once.
+@40.7
+What!! \D079 has been working against Ishiyama?
+@40.8
+Yes!! My chief guessed that the key place you would attack next, Lord \#0A05, would surely be Ishiyama.
+@40.9
+So before you attacked, Lord \#1205, he wanted to open a gap in that stronghold with our ninja hands...
+@40.10
+Oh, that is most welcome... And what sort of scheme?
+@40.11
+First we spread a rumour to \A3A3 that \A3A2 meant to attack Ishiyama Castle.
+@40.12
+What!! Surely that would backfire! \A3A3 would only add more troops and tighten the guard!
+@40.13
+That was our aim... Once they had deliberately been made to add troops to the castle... we stole their provisions.
+@40.14
+I see!! With more soldiers, the provisions run out all the faster.
+@40.15
+And so that castle is now short of provisions. If you attack, now is the time!
+@40.16
+I am grateful! Give your chief my regards!
+@40.18
+Everyone, did you hear! Thanks to \D079, the castle is easier to take. Now is the time to march!!
+@40.20
+News, sir! An envoy has come from \A3A4.
+@40.21
+What, an envoy from \A3A4?
+@40.22
+I come from \A3A4 with a message from my master, \#01FA. I am \#07F1.
+@40.23
+I come from \A3A4 with a message from my master, \#01FA.
+@40.24
+Our house's scheme against Ishiyama Castle has succeeded splendidly. He says you should attack at once.
+@40.25
+What!! \A3A4 has been working against Ishiyama?
+@40.26
+Yes!! Our house guessed that the key place you would attack next, Lord \#0A05, would surely be Ishiyama.
+@40.27
+So before you attacked, Lord \#1205, we used the ninja band in our employ to open a gap in that stronghold...
+@40.34
+I am grateful! Give Lord \#11FA my regards!
+@40.36
+Everyone, did you hear! Thanks to \A3A4, the castle is easier to take. Now is the time to march!!
+@40.38
+My lord! Forgive me for interrupting the council.
+@40.39
+Oh, \%03! You came all the way from \51E8? What is it?
+@40.40
+The scheme I have long been working against Ishiyama Castle has succeeded. If you attack, now is the time.
+@40.41
+What!! You have been working against Ishiyama?
+@40.42
+Yes!! I guessed that the key place you would attack next, my lord, would surely be Ishiyama.
+@40.43
+So before then, I wanted to open a gap in that stronghold with my men...
+@40.50
+I am grateful! Good, you join the army too!
+@40.52
+Everyone, did you hear! Thanks to \#080E, the castle is easier to take. Now is the time to march!!
+@40.54
+The strongest castle in the realm... I can think of no clever way.
+@40.55
+I suppose we have no choice but to attack the usual way.

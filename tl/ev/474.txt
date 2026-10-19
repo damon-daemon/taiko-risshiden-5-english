@@ -1,0 +1,234 @@
+@0.0
+\#0125 was telling his father, \#0924, of his exploits at Sekigahara...
+@0.1
+...\%041FA was so pleased with my work that he took my hand like this...
+@0.2
+And he said: "Thank you, thank you. As long as the \#11FA house lasts, it will never treat the \#1125 house lightly."
+@0.3
+Hmm, is that so...
+@0.4
+Indeed it is. \%041FA took my hand and...
+@0.5
+Yes, I've heard that. So which of your hands did \%041FA take?
+@0.6
+Why, this one! This right hand.
+@0.7
+(You idiot! Because of you, my dream\n of seizing all Kyushu and making a bid\n for the realm is ruined!)
+@0.8
+I see... And at that moment, what was your left hand doing?
+@0.9
+Eh? My left hand, Father?
+@0.10
+Exactly! If you had stabbed \#09FA with your left hand, the realm would now belong to the \#1125 house...
+@1.0
+What sort of man can \#00C3 be...
+@1.1
+I must meet Lord \#08C3...
+@1.2
+Who goes there? State your name!
+@1.3
+I am \#0124, retainer of the \#1008 clan! I have come as an envoy to Lord \#00C3!
+@1.4
+Oh, an envoy. Then please enter.
+@1.8
+Mm, you've come a long way. I am \#00C3. What business do you have with me?
+@1.10
+Oh, the \#1008 clan wishes to submit to me? Very well, I accept.
+@1.15
+When we debated whether the \#10C3 or the \#12D2 would win, a few named the \#12D2, but only a few.
+@1.16
+Heh, you say so, but I expect it was you who swayed your clan toward the \#10C3.
+@1.18
+Very well. Why did you judge that the \#10C3 would win? Tell me!
+@1.20
+But I have never heard any rumour that the \#12D2 heir is a prodigy greater than \#0AD2.
+@1.24
+The \#12D2 house is losing momentum; the \#10C3 house is unstoppable... It is clear which will win.
+@1.25
+Hmm, a most interesting view. You seem too good a man to leave with the \#1008 clan.
+@1.28
+\#0924, I intend to have this fellow attack the \#12D2.
+@1.29
+\#0924, let me introduce him. This is \#0205. I call him "Monkey."
+@1.30
+I intend to have this fellow attack the \#12D2.
+@1.31
+Will you serve under him and help defeat the \#12D2? I'll explain things to the \#1008 clan, so don't worry.
+@1.33
+(Now, how should I answer...)
+@1.34
+Serve the \#10C3
+@1.35
+Stay with the \#1008
+@1.36
+(Shall I serve the \#10C3 clan?)
+@1.40
+Mm. Someone, come here!
+@1.42
+Go to \#0008 and tell him we'll take the \#1008 clan under our protection.
+@1.43
+And tell him that for the time being, we'll keep \#0124's family as hostages.
+@1.45
+(How quick... Is this the way\n of the \#10C3 house?)
+@1.46
+(No, I cannot abandon\n the \#1008 clan.)
+@1.47
+It is a kind offer, but I am a vassal of the \#1008. I cannot change masters on my own.
+@1.48
+Hmph, what a boring fellow.
+@1.49
+......Then, excuse me.
+@2.0
+I must report on the negotiations with the \#10C3 clan.
+@2.1
+I have returned. The \#10C3 clan has accepted the submission of our \#1008 clan!
+@2.3
+But this \#08C3 is not a man to underestimate. He even invited me to serve the \#10C3 clan.
+@2.4
+What? And you turned him down? What a waste...
+@2.6
+Isn't it? From now on we'll be worked hard as the \#10C3's spearhead.
+@2.7
+Rather than toil under the likes of me, you'd have done better serving \#08C3...
+@2.8
+(Hmm... Was turning down\n the offer a mistake...)
+@2.9
+Well, good work. You may go.
+@5.4
+(Is this not my chance to take the realm?)
+@5.5
+(\#01FA will surely turn his army back\n and fight \#004B in a battle\n for the realm.)
+@5.6
+(But it's a great war splitting the land in two...\n It will take a month or two to settle.)
+@5.7
+(Meanwhile I'll sweep Kyushu, seize the empty\n domains of the \#12D1 and \#107D,\n and raise a third power!)
+@5.8
+Understood. And what does \%04125 say?
+@5.9
+Yes. He says he will side with \%041FA.
+@5.10
+Mm. I don't like \#084B either. That's fine...
+@5.11
+And one more thing... \#02D1 is to invade Kyushu, led by former retainers of the \#10A7!
+@5.12
+Mm, understood. I'll make short work of the \#10A7's old retainers.
+@5.15
+As our lord, \%04125, is away, I will hold the council.
+@5.16
+As you all know, \#004B has raised troops. Our house has decided to side with \%041FA's Eastern Army.
+@5.17
+We hear that \#02D1 of the Western Army is invading Kyushu, led by former \#10A7 retainers. We will meet them.
+@5.18
+And if possible, I mean to seize plenty of Western castles too! Everyone, do your best!
+@6.13
+Our house has been transferred to Chikuzen and Chikugo.
+@7.0
+My lord! \41E2 has fallen to \#004B's army!
+@7.2
+All dead... Proving their loyalty with their own deaths. Mikawa men are fearsome.
+@7.3
+When the Eastern generals hear how \41E2 fought, their fighting spirit will catch fire.
+@8.0
+Men, listen well! When \#00A7 went to Osaka to beg Lord Taiko for help, he said this:
+@8.1
+"The only retainers I can still rely on are \#01C8, \#01B7 and \#01CA!"
+@8.2
+\#09C8 and \#09B7 are already dead, and \#01CA is in the capital. The rest of the \#10A7's old retainers are nothing to fear!
+@8.3
+Follow the command of \#0924 and you will surely win! Attack!!
+@9.0
+Hmph, too easy. It seems you were ten years too early to take me on...
+@9.2
+Ei, ei, oh!
+@9.3
+My lord! A great decisive battle has been fought between \#004B and Lord \#01FA!
+@9.4
+Oh, it has begun at last! So how goes it? How long will it take to be decided?
+@9.5
+Eh? N-no, the battle is already over. A great victory for Lord \#11FA.
+@9.6
+Wh-what?! It's over?! A battle for the realm, in a single day?
+@9.7
+Yes. At first it was even, but around noon Lord \#013B of the Western Army defected, and it was decided at a stroke.
+@9.8
+Lord \#0925 did great things in battle and in scheming; they say the \#113B defection was Lord \#0925's doing...
+@9.9
+I hear Lord \#09FA took Lord \#0925's hand and thanked him again and again.
+@9.10
+An increase in his domain is certain for this. Congratulations!!
+@9.11
+(N-no... My dream...\n My dream of taking the realm...)
+@9.12
+\#07FE, prepare to die!
+@9.14
+Guhaa... Th-this can't be...
+@9.15
+Defeated at the Battle of Ishigakibaru, \#07FE was struck down without glory, aged \1006...
+@10.0
+That year, \#0124 took the name Josui, "like water"... The name was also a warning to himself.
+@10.5
+Like water, I want to live quietly, without fuss.
+@11.0
+I would like to hear everyone's views.
+@11.1
+Lately the \#10C3 clan in the east and the \#12D2 clan in the west are growing strong.
+@11.2
+Our \#1008 clan lies between them, and our old lord says we have no choice but to submit to either the \#10C3 or the \#12D2.
+@11.3
+Naturally, if we bend the knee, we want to be on the winning side. Which do you think will win?
+@11.4
+I believe the \#12D2 will win.
+@11.5
+I too think the \#12D2 will win.
+@11.6
+Hmm, many favour the \#12D2. \#0924, what do you think?
+@11.7
+Yes. I believe the \#10C3 will win.
+@11.8
+Oh, \#0924 backs the \#10C3? Let's hear your reasons.
+@11.9
+Yes, then...
+@11.10
+Certainly \#02D2 is a hero who conquered all around him in one generation, but he is already old.
+@11.11
+I believe we should bet on \#08C3's youth.
+@11.12
+The great \#02D2 is already dead, and they say \#0AD2 left a dying wish not to aspire to the realm.
+@11.13
+\#00C3, on the other hand, has taken "Rule the Realm by Force" as his banner and openly declared his ambition.
+@11.14
+I believe we should bet on \#08C3's momentum.
+@11.15
+I see... \%04124's view makes sense.
+@11.16
+Then I shall advise our old lord to submit to the \#10C3.
+@11.17
+\%04124! I appoint you envoy to the \#10C3 clan.
+@11.19
+Then, dismissed!
+@11.20
+Right, no time like the present. \#08C3's castle is \41DF, I believe...
+@12.0
+Everyone, listen closely. An envoy has come from the \#10C3 clan telling us to become their vassals.
+@12.2
+In this situation it can't be helped. I have agreed.
+@12.3
+And what did the old lord say?
+@12.4
+He said it can't be helped in this situation, and agreed.
+@12.5
+From next time, we will hold council following the \#10C3 clan's policy. Dismissed!
+@13.0
+It seems everyone is here. Then...
+@13.1
+My lord, Lord \#01FA has issued an order to subdue the \#1074!
+@13.2
+What! What on earth happened?!
+@13.8
+\%03, what do you intend to do?
+@13.9
+\%041FA is the chief regent. We should obey him.
+@13.10
+\%03, please guard the castle while I'm away.
+@13.11
+Mm, understood.

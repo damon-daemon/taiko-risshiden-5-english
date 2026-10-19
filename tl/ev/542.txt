@@ -1,0 +1,84 @@
+@0.0
+\%03, may I have a word?
+@0.1
+Ah, \%03. What is it?
+@0.2
+\%03... Everyone in the house knows that you, \%03, are the pillar of our \#1330 house.
+@0.3
+So we want you, \%03, to lead us instead. We can no longer follow our incompetent lord.
+@0.4
+What... You're telling me to become daimyo?
+@0.5
+The strong, those with real ability, should stand at the top. That is the way of the warring age.
+@0.6
+But then... what becomes of Lord \#1330?
+@0.7
+There's no need to take his life. Confine him, or make him a vassal: as you see fit, \%03.
+@0.9
+\%03, decide! We want a brilliant lord!
+@0.11
+Become daimyo
+@0.12
+Decline the offer
+@0.13
+Very well... Then from now on I will lead you as daimyo.
+@0.14
+Oh! You have decided!
+@0.15
+Then I'll go to \41DF at once and inform Lord \#0330.
+@0.16
+Thank you for hearing us out. We'll follow you anywhere.
+@0.17
+Mm! Then I'm off.
+@0.18
+Take care!
+@0.19
+No, I am the Hosokawa house's steward, nothing more... It's best not to overstep my place.
+@0.21
+Enough! Don't lump me in with traitors! Warring age or not, a retainer's job is to uphold his master's house.
+@0.22
+I'll pretend I never heard this. You may go.
+@0.24
+(What a nuisance...\n I have no such ambitions...)
+@1.0
+Ah, Lord \#12C0, welcome.
+@1.1
+Is my lord in?
+@1.2
+Yes. I'll announce you at once.
+@1.3
+Oh, \#0AC0. What is it?
+@1.4
+I have come today on a matter of importance.
+@1.5
+A matter of importance?
+@1.6
+Please hear it as the will of all your retainers.
+@1.7
+What is it... so formal?
+@1.8
+Lord \#0B30, we wish you to step down as daimyo.
+@1.9
+Wha...?! What are you saying?!
+@1.10
+My aim was peace in the Kinai... and to bring the provinces to order with strong power.
+@1.11
+To that end, I came up from Shikoku backing the Shogun, Lord \#001F, to drive out the war-loving Kanrei, Lord \#027D...
+@1.12
+And as our banner, we carried you, of Hosokawa blood, as our figurehead.
+@1.13
+But these are warring times. If we keep carrying a figurehead we can't rely on, we won't be able to move.
+@1.14
+Y-you can't mean... you intend to kill me?
+@1.15
+No... I wouldn't go that far. You may retire... or live as my retainer.
+@1.18
+Very well... It's true that without you I could never have returned to the Kinai... The greatest credit is yours.
+@1.19
+If everyone will follow you, I have no objection. I will retire.
+@1.20
+Thank you for your understanding.
+@1.25
+By sheer ability, \#02C0 had leapt to the summit of power in the Kinai.
+@1.26
+Me... a daimyo, eh?

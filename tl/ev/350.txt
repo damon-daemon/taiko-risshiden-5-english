@@ -1,0 +1,1252 @@
+@0.0
+The matter of \%200BF is settled. What remains is \%201FA...
+@0.1
+Even \%041FA would hardly dare defy me alone, I who have succeeded our late lord. For now, let us send an envoy...
+@0.2
+Is anyone there!
+@0.4
+Send an envoy to Lord \#01FA. Say I wish to discuss a matter of great import to the realm and ask him to come to this castle... Courteously, mind you!
+@0.7
+My lord! An envoy from Lord \#11FA has arrived.
+@0.8
+Oh! He has come! ...But an envoy, rather than \#09FA himself...
+@0.9
+Well, no matter... I will see him.
+@0.10
+I have come as the proxy of my master, \#09FA... I am \#07F2. Lord \#1205, I trust you are in fine health...
+@0.12
+My master \#01FA also wishes to build friendly ties with Lord \#0A05.
+@0.13
+Glad tidings indeed. But why did Lord \#11FA not come in person?
+@0.14
+Ah... well... Our house has many enemies, so my master cannot lightly leave his castle.
+@0.15
+Hmm... But unless Lord \#11FA comes himself, we cannot discuss weighty matters... Nor can I be sure he truly wants peace.
+@0.16
+Even so, my lord...
+@0.17
+Then let us do this! As Lord \#09FA's proxy... I would adopt a son of Lord \#09FA.
+@0.18
+That would bind our two houses all the closer.
+@0.19
+Well, that... No, understood. I shall pass it on... I take my leave.
+@0.20
+The adoption... Will \#09FA agree to it?
+@0.21
+Hard to say... But Lord \#11FA is a clever man. He will most likely accept.
+@0.22
+Still, the adoption is only the first step... I must make \#01FA himself come to my castle.
+@0.24
+Hmm... But a half-measure will never draw \#09FA out.
+@0.25
+Is there no good way...?
+@0.26
+\#07FE! An envoy from the \#11FA clan seems to have come to our house.
+@0.27
+What! From the \#11FA clan?
+@0.28
+As a pledge of peace with our house, Lord \#09FA's son, young Lord \#0AFC, is to come as a hostage, they say.
+@0.29
+What... But Lord \#11FA himself will not come...?
+@0.30
+It seems \%04205 is displeased with that too.
+@1.1
+What is the matter, \%03?
+@1.2
+Hmm, I am pondering how to bring down Lord \#00C1 quickly, but no good plan comes to mind!
+@1.3
+If I can, I would like to defeat him without sending troops...
+@1.4
+In that case, how about using a letter?
+@1.5
+A letter? What would a letter do?
+@1.6
+We advise Lord \#08BF, Lord \#08C1's brother, to call on Lord \#08C1 to surrender.
+@1.7
+Telling him that by making Lord \#08C1 surrender, he would show the realm that he is Lord \#08C3's heir.
+@1.8
+Lord \#08BF will very likely accept this offer.
+@1.9
+Hmm, but will Lord \#08C1 heed the call?
+@1.10
+Lord \#08C1 no longer has the strength to stand against \%03.
+@1.11
+I believe he will have no choice but to surrender.
+@1.12
+I see. Then I leave this matter to you.
+@1.14
+Thus \#0205, through \#00BF, succeeded in making \#00C1 surrender.
+@1.15
+Having lost his father \#08C3 and then his backer \#017B, one after the other, \#08C1
+@1.16
+had no other recourse but to surrender.
+@1.17
+Now \#08C1 waits for his fate in the hands of his brother \#08BF...
+@1.19
+Lord \#00C1 has surrendered to our lord, sir.
+@1.20
+What! Lord \#00C1 has?!
+@1.21
+How on earth did he make Lord \#08C1 surrender?
+@1.22
+They say he had his brother, Lord \#08BF, urge him to surrender.
+@1.23
+What, through Lord \#08BF... So our lord cleverly used the rift between the brothers.
+@1.24
+Having lost \#017B, who might be called his backer, Lord \#08C1 must have felt he could not resist.
+@1.25
+I see... And where is Lord \#08C1 now?
+@1.26
+How on earth did he make Lord \#08C1 surrender?
+@1.28
+What, through Lord \#08BF... So our lord cleverly used the rift between the brothers?
+@1.30
+I see... And where is Lord \#08C1 now?
+@1.31
+He has been placed in Lord \#08BF's custody. His fate will be decided soon.
+@2.0
+Is it not time to settle what to do with Lord \#00C1?
+@2.1
+You mean, have him cut his belly...?
+@2.2
+Left alone, someone may yet rescue him and raise him up as their figurehead.
+@2.3
+I believe the seeds of trouble should be cut out.
+@2.4
+...But on what grounds? By rights, I am a retainer of the \#10C3 clan. It is not my place to urge him to kill himself.
+@2.5
+True enough...
+@2.7
+What is it!
+@2.8
+Sir! Lord \#00C1 has taken his own life!
+@2.10
+It seems Lord \#08C1 simply could not accept standing beneath Lord \#08BF...
+@2.11
+Better to die than become a vassal of Chasenmaru (\#08BF), he said... He committed seppuku at Omido-ji!
+@2.12
+I see... Very well.
+@2.13
+His misfortune was that Lord \#08BF was the elder and Lord \#08C1 the younger...
+@2.14
+There is even a rumour that Lord \#08C1 was in fact born first, but was made the younger because his mother was of low rank.
+@2.15
+Lord \#08C1, the more capable of the two, must have hated acknowledging Lord \#08BF as elder brother and lord...
+@2.16
+In any case, that is one obstacle gone for now. Congratulations, my lord.
+@2.17
+Hmm... You may go.
+@2.19
+Lord \#00C1 has taken his own life, sir.
+@2.21
+Surrendering to his half-brother, Lord \#08BF, must have been too bitter for him...
+@3.0
+To take the realm, this castle is too cramped... Shall I build a new castle as a foothold toward the realm...
+@3.3
+With the realm in view, I mean to build a new castle.
+@3.4
+Ah... An excellent idea. It will renew the people's spirits, too.
+@3.5
+First, though, we must choose the site... Where do you think would be good?
+@3.6
+How about Naniwa, in Settsu Province?
+@3.7
+It is \41DF now, but that land faces the sea, has the Yodo River for shipping, good roads, and is easy to develop.
+@3.8
+It is also close to the capital and easy to travel to... And with merchants setting up shop there, it is a key place for the economy as well.
+@3.9
+Just so... The late Lord \#08C3 too meant to build a new base at Naniwa. Very well, I shall build a castle at Naniwa!
+@3.10
+I see no need to search further. Surely this is the place to build it.
+@3.11
+Hm, here in Naniwa?
+@3.12
+This land faces the sea, has the Yodo River for shipping, good roads, and is easy to develop.
+@3.14
+Just so... The late Lord \#08C3 too meant to build a new base at Naniwa. Very well, I shall build a castle here in Naniwa!
+@3.15
+I will leave the screen paintings inside the castle to \#0426. And raise stone walls and a keep bigger than those of \51E8 Castle.
+@3.16
+Gold leaf on the roof tiles of the keep! Build a castle that will astonish everyone!
+@3.18
+This castle shall be the cornerstone of my rule over the realm! Reward the carpenters richly and make them compete!
+@3.19
+I cannot wait for the castle to be finished. We will move to \51E6 right away. Hurry!
+@3.22
+They say \%04205 is building a magnificent castle at \51E6.
+@3.23
+Our lord seems to have already moved his seat to \51E6.
+@3.24
+By the way, what shall be done with the current castle lord, \%207F3?
+@3.25
+Hmm... It cannot be helped. For now, he is relieved of his post and placed under me.
+@3.26
+Understood. Then I shall see to it...
+@3.27
+By the way, what becomes of us?
+@3.28
+I regret to say that \%047F3 is relieved of his post as castle lord for the time being and placed under our lord.
+@3.29
+I see... If that is \%04205's order, it cannot be helped.
+@3.30
+By the way, what becomes of Ishiyama Honganji?
+@3.31
+It seems Ishiyama Honganji will become a castle under our lord's direct rule.
+@4.0
+My lord, I have heard troubling talk of late.
+@4.1
+What is it, this troubling talk?
+@4.2
+Rumour has it that \%200BF keeps making remarks that scorn you...
+@4.3
+They say he even called it shameless for a peasant's son like you to call himself a daimyo...
+@4.4
+What!! That I cannot let pass. Who does he think made him a daimyo?
+@4.5
+And that is not all. They say \%200BF is seeking an alliance with \%201FA.
+@4.6
+What a man... To drag another house into a quarrel within the \#10C3 clan.
+@4.7
+It seems Lord \#08BF thought he would aid young Lord Sanboshi and hold the \#10C3 clan in his grip.
+@4.8
+What a simpleton... In the end, in a time of war, only strength speaks. And now he dares defy me.
+@4.9
+Lord \#08BF has not a shred of a ruler's calibre... If only he knew his place.
+@4.10
+It seems I must teach Lord \#08BF a lesson.
+@4.11
+My lord! Lord \#00BF has cut down his three chief retainers, Okada, Tsugawa and Asai!
+@4.12
+What! Is that true?!
+@4.15
+\#08BF cutting down those three was the same as \#00BF formally declaring himself an enemy of \#0205...
+@4.16
+Foolish man... Did he think \#09FA's help would hand him the seat of ruler of the realm...
+@4.17
+Cutting down three chief retainers is, needless to say, a hostile act against me... Gather the troops at once!
+@4.18
+But if it comes to war, surely the \#11FA forces will join their side...
+@4.19
+No matter... Since our late lord's death, I have been sizing up that old raccoon dog's strength. A good chance... We will fight and find out.
+@4.20
+Then let us prepare to march at once!
+@4.23
+My lady! Lord \#00BF has joined hands with \#11FA and declared himself our house's enemy!
+@4.24
+What! Is that true?!
+@4.25
+Yes! Lord \#08BF cut down three chief retainers close to our house: Okada Shigetaka, Asai Tamiyamaru and Tsugawa Yoshiharu!
+@4.28
+Which means... he truly means to make war on our house.
+@4.29
+Even so... if the \#11FA clan moves, this will not be easy.
+@4.30
+For now, our lord has resolved to march at once against Lord \#08BF's hostility.
+@4.31
+He orders that you join the campaign as well.
+@4.32
+Understood... I will set out at once.
+@4.33
+What! What does this mean?
+@4.37
+Which means... he truly means to make war on our house.
+@4.38
+Even so... if the \#11FA clan moves, this will not be easy.
+@4.41
+Understood... I will go at once.
+@4.42
+Well then, \37F2, I am off.
+@4.43
+Please come back safely...
+@5.0
+My lord, an envoy has come from the \#11FA clan.
+@5.1
+I see. Show him in.
+@5.2
+I am \#0048, sir.
+@5.3
+Oh, \%04048. What brings you here today?
+@5.4
+Hmm... \%04048. And what is your business today?
+@5.5
+Ah... This is hard to say, but I have come today not on my lord's orders, but of my own will, \#0848's.
+@5.6
+Hm??
+@5.7
+In truth... would you take me into your service?
+@5.8
+What? You mean you would abandon the \#11FA clan to serve our house?!
+@5.9
+Just so! I beg you to grant my request...
+@5.10
+Hmm... But our house and the \#11FA clan have only just made peace... If you defect at such a time, it will cause friction.
+@5.11
+Hmm... But our house and the \#11FA clan are in the middle of making peace... If you defect at such a time, it will cause friction.
+@5.12
+Why do you wish to come over to our house in the first place?
+@5.13
+Ah... In truth, I was slandered. They said I was in league with Lord \#1205, and now there is no place for me in the \#11FA clan...
+@5.14
+Then perhaps it is better to do as the rumours say and defect to the \#1205 clan, I thought.
+@5.16
+If you take me in, I will tell you all I know of the \#11FA clan's military system and secrets.
+@5.17
+What!! That is information I would give my right arm for... But do that, and they will be after your life.
+@5.18
+I am prepared for that! I cannot forgive the lord of the \#11FA clan for believing slander... against me, who served him so many years...
+@5.20
+I have not a shred of attachment left for the \#11FA clan. Please, take me into your service.
+@5.23
+Very well... If you go that far, your words must be true. Serve our house.
+@5.25
+What you said about the \#11FA clan's military organisation is true, I trust.
+@5.26
+I shall report everything I know.
+@5.27
+Good... I look forward to it. I will have a residence prepared for you in the castle town. Live there.
+@5.28
+Yes, sir! My lord, I am at your service from this day on.
+@5.30
+With \#0048's defection, the \#11FA clan's military system was laid bare to the \#1205 side...
+@5.31
+But \#01FA at once switched his army to the Koshu school of tactics of the \#11C1 clan, and the secrets soon became worthless...
+@5.32
+No...I cannot take a traitor into my service.
+@5.34
+Besides, relations with the \#11FA clan might worsen. Give it up.
+@5.35
+But... I no longer have anywhere to return to.
+@5.36
+I will send Lord \#11FA a letter saying the slander was false. That should clear the suspicion.
+@5.37
+That would only pour oil on the fire. I would be suspected all the more.
+@5.38
+Silence! Withdraw! I will not take you in, and that is final!
+@5.39
+Ngh... Very well. I shall withdraw. I will not forget this, \%04205.
+@5.40
+Hmph.
+@5.41
+\#0048 returned to the \#11FA clan, and \#07FE sent \#01FA a letter of explanation.
+@5.42
+But just as \#0848 had said, the letter only deepened the \#11FA clan's suspicions and left him ever more isolated.
+@5.43
+It was not long before word came that \#0848, questioned by his lord and comrades, had cut his belly...
+@5.44
+We have lost a valuable man... Perhaps I should simply have accepted him back then...
+@5.45
+Dear, have you heard?
+@5.46
+Hm? Heard what?
+@5.47
+They say \#0048 of the \#11FA clan has defected to our house.
+@5.48
+What!! \%20048 has?!
+@5.49
+They say he was slandered and could no longer stay in the \#11FA clan, so he came to the \#1205 clan.
+@5.50
+I see... But the \#11FA clan and our house have only just made peace... I hope this does not sour relations between our houses.
+@5.51
+I see... But the \#11FA clan and our house are in the middle of making peace... I hope this does not sour relations between our houses.
+@5.52
+Yes...
+@5.53
+Still, \%20048 is a senior retainer of the \#11FA clan... Of course he knows their military secrets.
+@5.55
+If the \#11FA clan's military system is laid bare to us, even Lord \#09FA cannot act so boldly...
+@5.58
+\#07FE! A grave matter!
+@5.59
+Wh-what?! You startled me...
+@5.60
+Wh-what is it?! You startled me...
+@5.63
+They say he was slandered and could no longer stay in the \#11FA clan, so he came to the \#1205 clan...
+@5.65
+I see... But the \#11FA clan and our house are in the middle of making peace...
+@5.66
+I hope this does not sour relations between our houses...
+@5.67
+Still, \%20048 is a senior retainer of the \#11FA clan... He must know their military secrets, of course.
+@5.68
+If the \#11FA clan's military system is laid bare to us, even Lord \#09FA should not be able to act so boldly...
+@5.69
+I hope this does not sour relations between our houses.
+@6.0
+\#07FE! Lord \#017B wishes to discuss the future of the \#10C3 clan.
+@6.1
+At \51E8 Castle... He asks that you come at once.
+@6.2
+...Understood. Tell him I will come at once.
+@6.3
+Let us have Lord \#0235 and Lord \#0042 come as well.
+@6.4
+Here, is anyone there?
+@6.5
+You called, my lord?
+@6.6
+I must now confer with Lord \#017B about the future of the \#10C3 clan.
+@6.7
+Ask Lord \#0235 and Lord \#0042 to come to \51E8 as well.
+@6.8
+At once, my lord.
+@6.10
+Lord \#0205 and Lord \#017B wish to discuss the future of the \#10C3 clan.
+@6.11
+And so Lord \#1205 would very much like Lord \#1235 to attend as well...
+@6.12
+At \51E8 Castle. He asks that you come at once.
+@6.13
+Understood. Tell him I will come at once.
+@6.16
+Lord \#0205 and Lord \#017B wish to discuss the future of the \#10C3 clan.
+@6.17
+And so Lord \#1205 would very much like Lord \#1042 to attend as well...
+@6.18
+At \51E8 Castle. He asks that you come within 50 days.
+@6.21
+\%03, Lord \#017B and our lord have held talks at \51E8, I hear.
+@6.22
+About Lord \#08C3's heir and the division of his lands, it seems.
+@6.23
+But what meaning could an heir have, for a \#10C3 clan that has all but ceased to exist?
+@6.24
+But what meaning could an heir have, for a \#10C3 clan that has all but ceased to exist?
+@6.25
+The heir is only for form's sake... The real aim is for each side to hold the other in check.
+@6.26
+The meeting was stormy over whom to make Lord Nobunaga's heir. \%0417B pressed hard for Lord Nobutaka, but...
+@6.27
+In the end our lord had his way, and young Lord Sanboshi was chosen as heir.
+@6.28
+Oh, young Lord Sanboshi... When a small child is set up as heir, what matters is who becomes his guardian.
+@6.29
+My, young Lord Sanboshi... When a small child is set up as heir, what matters is who becomes his guardian.
+@6.30
+Our lord has become his guardian, it seems.
+@6.31
+I see... So \%04205 will hold the reins from now on.
+@6.32
+I see... So \%04205 will hold the reins from now on.
+@7.0
+\%03! Lady Oichi has married \%0417B!
+@7.1
+What! That rough old soldier, with Lady Oichi! What a waste...
+@7.2
+This is no time to be saying such carefree things.
+@7.3
+This must be \%200C1 drawing \%0417B in to stand against us.
+@7.4
+Hmm. From now on we must face \%200C1 and \%0417B head on.
+@7.5
+All of you, think on that well and work harder than ever!
+@7.8
+Oh, now that... sounds like there is some scheme behind it.
+@7.11
+But \%04205 must be sorely disappointed.
+@7.12
+When he heard the news, his shoulders slumped.
+@7.13
+Ha ha ha... How like \%04205.
+@7.14
+My, now that... sounds like there is some scheme behind it.
+@7.16
+I see. From now on we must face \%200C1 and \%0417B head on.
+@7.17
+But \%04205 must be sorely disappointed.
+@7.19
+Hee hee... How like \%04205.
+@8.0
+Well, \%03... When I think of it, I have risen from a commoner of Owari to hold the office of minister...
+@8.1
+Now that I have come this far, I would reach the very summit of rank and office a subject can attain...
+@8.2
+Indeed... A fitting office is needed, too, to command the daimyo of every land with ease.
+@8.3
+What of Shogun, say?
+@8.4
+True... Since Lord \#001D was banished, the post of Shogun has stood vacant, but...
+@8.5
+By the custom of the court, there is a precedent that only the Seiwa Genji may be named Shogun...
+@8.6
+I am a commoner by birth, with no ties at all to the Seiwa Genji... Must it really be a Seiwa Genji?
+@8.7
+There have been princely shoguns and shoguns from the regent houses, but... in any case, it must be a family of proper lineage...
+@8.8
+Then what if I were adopted by the Ashikaga? Then there should be no problem.
+@8.9
+Well... I fear that too would be difficult.
+@8.10
+The previous lord, \#001D, has already passed on, so no one would recognise an adoption...
+@8.11
+Lord \#001D was a proud man. He would never adopt a man of unknown birth, even you, my lord... Oh, forgive me.
+@8.12
+Hmm... So I cannot become Shogun...
+@8.13
+My lord, \#0430 from the capital has come to pay his respects.
+@8.14
+What! Lord \#1430? Show him in at once!
+@8.16
+Lord \#1205, are you keeping well?
+@8.17
+Why, Lord \#1430! Welcome, welcome.
+@8.18
+Oh, I had business nearby, so I thought to pay my respects while I was here.
+@8.20
+Hm? Lord \#1430? What could he want? Show him in, anyway.
+@8.22
+A pleasure to make your acquaintance. I am \#0430.
+@8.23
+I am \#0205.
+@8.24
+I felt I must pay my respects at least once to Lord \#1205, the man of the hour, and so I have come.
+@8.25
+Well, well...
+@8.26
+My lord, this is a fine opportunity. Why not consult Lord \#1430 about being appointed Shogun?
+@8.27
+Oh! So it is! In truth, Lord \#1430...
+@8.28
+...And so, is there no way at all for me to become Shogun?
+@8.29
+Well, as to that... As long as you are not a Genji, no matter what I contrive, it would be impossible...
+@8.30
+I see...
+@8.31
+And yet, Lord \#1205, the Shogun is not the only highest post a subject may hold.
+@8.32
+...Meaning?
+@8.33
+Become "Regent."
+@8.34
+Regent? Surely not! The Regent can only be appointed from the Five Regent Houses of the Fujiwara main line...
+@8.35
+A country bumpkin like me could never become Regent.
+@8.36
+Ah, but that is not quite so.
+@8.38
+As you say, the post of Regent has always been held solely by the Five Regent Houses: Konoe, Kujo, Ichijo, Nijo and Takatsukasa...
+@8.39
+But the Nijo and Konoe houses have begun quarrelling over the next Regent, and the seat has long been empty.
+@8.41
+Now is the chance for you, Lord \#1205, to slip in and become Regent.
+@8.42
+Well...
+@8.43
+If you were adopted by Lord Konoe, you too would be a Fujiwara, Lord \#1205... There would be no problem at all...
+@8.44
+I see...!
+@8.45
+The court is fussy about precedent, but against a man of your power, Lord \#1205, no one would dare complain.
+@8.46
+If it is decided, leave the groundwork at court to me.
+@8.47
+Oh! I am most grateful.
+@8.48
+Then I shall take my leave. In a little while, do come to my residence in the capital.
+@8.49
+I shall have laid the groundwork by then.
+@8.50
+I am most grateful. I look forward to good news.
+@9.0
+Ah, welcome. What brings you here today?
+@9.1
+How goes the matter of my appointment as Regent?
+@9.2
+How goes the matter of my master \#0205's appointment as Regent?
+@9.3
+Oh, that matter? In truth, the adoption has already been arranged.
+@9.5
+I see. Then I can become Regent?
+@9.6
+I see. Then my master \#0205 can be appointed Regent?
+@9.7
+With that, the question of lineage is solved. Lord \#0A05 is fully qualified to be Regent.
+@9.8
+As for the rest, if you serve the court as always, word from His Majesty will come in due course...
+@9.9
+Truly, Lord \#0A05 has done well to quell the land's wars.
+@9.10
+But the lands are not yet prosperous, and being loved by the people matters too.
+@9.11
+Before Lord \#0A05 can be named Regent, more of the warring land must be pacified. His Majesty worries about that as well.
+@9.12
+Bring other houses to heel, or destroy daimyo who know no better, and set His Majesty's mind at ease.
+@9.13
+Do that, and word from His Majesty will come before long...
+@9.15
+Well then, I shall take my leave.
+@10.0
+My lord! An envoy from Lord \#09FA has arrived.
+@10.1
+What! Show him in quickly!
+@10.2
+I have come as proxy for my master, \#01FA.
+@10.4
+My master intends to build an even firmer friendship with Lord \#1205.
+@10.5
+As a token of that friendship, I have brought my master's son, young Lord \#0AFC.
+@10.6
+I am \#0AFC. I am honoured to meet you.
+@10.7
+Well, well, a sturdy young man! I am counting on you. From now on, call yourself Hashiba Hideyasu.
+@10.8
+Until the day you come of age, our house will raise you.
+@10.14
+By the way... Is Lord \#09FA still not willing to come here?
+@10.15
+Ah... That is rather difficult...
+@10.16
+What say you? I would like Lord \#09FA to take my younger sister as his wife...
+@10.17
+Your sister? ...Ah, yes. Then I shall convey this to my master...
+@10.18
+Please do.
+@10.19
+Now that our houses have grown so close, I would very much like Lord \#09FA to come to this castle once...
+@10.20
+If my sister is not enough, I will even send my beloved mother to greet Lord \#11FA...
+@10.21
+Y-you would go so far...
+@10.22
+Hiyoshi, is that true, what you just said?
+@10.23
+Ma! We are in the middle of something important!
+@10.24
+I do not want to go to that \#11FA's place...
+@10.25
+Ma, this is for the unification of the realm. If I send you, even \#09FA will see we are sincere.
+@10.26
+Oh, really... If it is for my son, I suppose it cannot be helped...
+@10.27
+Sorry, Ma.
+@10.28
+Lord envoy, you see how it is. We will send my own mother to greet him...\n\nSo will you, too, tell Lord \#09FA to come?
+@10.29
+...I understand. With such consideration, he cannot refuse. I will tell my master so.
+@10.30
+(If \#09FA will not come even after all this, war will be unavoidable... Well, he will agree.)
+@10.31
+\#07FE! Lord \#0AFC has been sent from the \#11FA clan as a hostage!
+@10.32
+I see!
+@10.33
+They say Lord \#0AFC received the Hashiba name from our lord and is now called Hashiba Hideyasu.
+@10.34
+He is to be raised by our house until he comes of age.
+@10.35
+Hmm... But Lord \#11FA himself still will not come...?
+@10.36
+That seems to be our lord's worry too... They say he is even ready to send his sister and his mother to Lord \#11FA!
+@10.37
+What! Our lord, who so cherishes his mother... If he goes that far, Lord \#09FA cannot refuse to come...
+@11.0
+My lord! At last, Lord \#01FA has come!
+@11.1
+Oh! Lord \#09FA! I have been waiting for you.
+@11.2
+Forgive me for keeping you waiting.
+@11.3
+For the realm's sake, I ask for your cooperation with me, \#0A05.
+@11.4
+I have no objection to peace. I came hoping to deepen our friendship with the \#1205 clan.
+@11.5
+I am grateful! And while I am at it, I have one more request of Lord \#11FA.
+@11.6
+A request... What is it?
+@11.7
+In truth...\n...........\n...and that is the matter.
+@11.8
+...!
+@11.9
+Like this! I beg of you!
+@11.10
+P-please, raise your head! ......Very well. I accept.
+@11.11
+Oh! You agree?
+@11.12
+Then I must introduce Lord \#11FA to everyone at once.
+@11.13
+Everyone! Lord \#11FA has come.
+@11.14
+I am \#01FA. Thank you for inviting me today.
+@11.15
+Hmm, well done for coming.
+@11.16
+Every barrier between us and Lord \#11FA is now gone! Let us pray for the prosperity of both houses from this day on.
+@11.17
+Oh! A most joyous occasion!
+@11.18
+By the way, I have one request.
+@11.19
+Wh-what is it? Speak!
+@11.20
+Yes, my lord. Your battle surcoat is truly magnificent. Would you grant it to me, \#09FA?
+@11.21
+My surcoat...? That is what I wear in battle. If you want one, I will have a new one made for you...
+@11.22
+There is no need for that. As long as I, \#09FA, am at your side, my lord, you will never need to go to war yourself.
+@11.23
+I, \#09FA, will command the battles in your surcoat.
+@11.25
+Lord \#09FA bows as a vassal to \%04205!
+@11.26
+Well said! Then this surcoat is yours!
+@11.28
+Lord \#09FA, thank you for your trouble.
+@11.29
+Not at all, it was nothing.
+@11.30
+I must have you go on working as my right hand, Lord \#09FA.
+@11.31
+I, \#09FA, will gladly work for peace in the realm.
+@11.32
+Then I shall take my leave... Please look after \#0AFC.
+@11.33
+Have no fear. Our house will see to his coming of age properly.
+@11.34
+Lord \#11FA, do visit my castle often from now on.
+@11.35
+Yes, my lord! I am grateful for your kindness.
+@11.36
+\#07FE! Lord \#01FA has at last visited our lord!
+@11.37
+Oh! At last he has come!
+@11.38
+And at the meeting, they say Lord \#11FA asked for our lord's battle surcoat...
+@11.39
+Hm? What would he do with a surcoat?
+@11.40
+It seems Lord \#11FA meant to show that he would go to war in our lord's place and sweep away his enemies.
+@11.41
+What! Lord \#11FA went that far...
+@11.42
+No doubt our lord thought of it, but Lord \#11FA did well to agree.
+@11.43
+In any case, the realm is now secure. Joyous news indeed.
+@11.44
+\#01FA submitting to \#0205 as a vassal sent a great shock through every province...
+@11.45
+Step by step, the realm was moving toward unification under \#0A05...
+@12.0
+Oh! The castle shines! So this is \51E5 Castle...! What a magnificent castle...!
+@12.1
+Have you come to see the finished castle too?
+@12.2
+\%04205! A truly splendid castle!
+@12.3
+Yes... When I heard it was finished, I could not keep still...
+@12.4
+I have never seen a keep that shines like this.
+@12.5
+Hmm... That is because the roof tiles of the keep are covered in gold leaf.
+@12.7
+But that is not all.
+@12.8
+It has stone walls and keep turrets even bigger than those of \51E8 Castle.
+@12.9
+Both the size of the walls and the height of the keep are greater than anything before.
+@12.10
+Truly a castle for a ruler of the realm, worthy of you, my lord.
+@12.11
+Ha ha ha! Is it not? I had \#0426 paint the screens.
+@12.12
+That famous painter...
+@12.13
+Not only \#0C26. I have mobilised carpenters and craftsmen from all over the land.
+@12.14
+I will make this land of Osaka the centre of Japan and show my rule to the world... Everything begins here.
+@12.15
+In \M001, \#0205 completed a huge castle at Osaka.
+@12.16
+Its stately form, overlooking Osaka Bay, symbolised the power and wealth of the \#1205 clan...\n\nIt was a castle truly fit to be \#0A05's base for taking the realm...
+@13.0
+Hmm... What to do...
+@13.1
+What is the matter, \%03?
+@13.2
+It is \#01FA. \#00BF is one thing, but \#09FA is a tough nut to crack.
+@13.3
+Having fought him once, I understand it anew: that man must not be made an enemy.
+@13.4
+But now that we have fought, we cannot easily join hands with him.
+@13.5
+Indeed...
+@13.6
+And so... "To shoot the general, first shoot his horse," they say. I mean to win over \#08BF first.
+@13.7
+Lord \#08BF...?
+@13.8
+Yes... \#09FA crossed swords with me only because of his alliance with \#08BF. We need only take that pretext away from him.
+@13.9
+I see... If you and Lord \#08BF make peace, Lord \#09FA will have no more reason to fight.
+@13.10
+But whether it will go well... After all, it all began when Lord \#08BF, who hated you, cut down his three chief retainers...
+@13.11
+That is why we will apologise first. I will bow my head to \#00BF, I say.
+@13.12
+When the fault is all his...!?
+@13.13
+Bowing my head for the sake of a scheme is nothing to me... Go to \#08BF at once as my envoy.
+@13.16
+My lord! Lord \#08BF has accepted the peace!
+@13.17
+Has he! Hah! A simple man, as I thought... To agree to peace so readily, just on hearing that I would bow my head.
+@13.18
+Then, \%03, at once! Pay your respects to Lord \#08BF...
+@13.19
+I know... Shall I go to \41E0 right away...
+@13.20
+And so \#0205 went to \41E0 and safely concluded peace with \#00BF.
+@13.21
+Now the problem is \#01FA...
+@14.0
+Ah, Lord \#0205. My master, Lord \#00BF, awaits you.
+@14.1
+Hmm! Thank you!
+@14.2
+Lord \#08BF! It has been too long. It is I, your humble Monkey.
+@14.3
+\#0A05, good of you to come. Raise your head.
+@14.4
+Since our late lord's funeral there have been misunderstandings, but I beg you to let them be forgotten.
+@14.5
+I, \#0A05, ask this of you.
+@14.6
+...Y-yes, well. I did not mind so very much.
+@14.7
+Truly! Most gracious words.
+@14.8
+When you think of it... it was I who was most loyal to our late lord.
+@14.9
+As proof, it was I who struck down his mortal enemy, \#000E.
+@14.11
+How could I ever slight you, Lord \#08BF, our late lord's own son?
+@14.12
+Y-yes... Quite so. A-anyway, I trust you. I am counting on you from now on.
+@14.13
+Yes, my lord! Most gracious words. Then I shall take my leave.
+@14.15
+Ha ha ha! \#08BF is a hopelessly good-natured fool. At this rate he will ruin himself sooner or later...
+@14.16
+So... \#08BF is dealt with. That leaves \#11FA.
+@15.0
+Everyone is waiting. Please come to the Council Chamber.
+@15.2
+So, with this, Lord \#1205, Lord \#1235, Lord \#1042 and I, the senior generals of the \#10C3 clan, are all here.
+@15.3
+Then let us turn at once to the future of the \#10C3 clan.
+@15.4
+First, the heir to the \#10C3 clan...
+@15.5
+With Lord \#08C3 dead, the \#10C3 clan stands at a great crossroads.
+@15.6
+In this crisis, we should not quibble about lineage.
+@15.7
+I hold that the one fit to succeed is the one able to settle this turmoil.
+@15.8
+Only Lord \#00C1 meets that condition.
+@15.9
+Lord \#08C1 will surely carry on Lord \#08C3's will and rule the realm.
+@15.10
+Lord \#117B! Have you lost your mind?!
+@15.11
+Lord \#08C3 named Lord \#08C2 heir to the \#10C3 clan.
+@15.12
+I, \#0A05, cannot go against Lord \#08C3's command...
+@15.13
+Wh-what nonsense! We are talking about this precisely because Lord \#08C2 is dead!
+@15.14
+Then the right heir is young Lord Sanboshi, Lord \#08C3's grandson by his heir, is he not?
+@15.15
+S-Sanboshi! A small child cannot serve as heir!
+@15.16
+Then we need only support Lord Sanboshi together. That is loyalty to our late lord.
+@15.17
+Bring Lord Sanboshi here!
+@15.19
+Lord Sanboshi is here!
+@15.21
+Oh! Lord Sanboshi, welcome!
+@15.22
+We will support you from now on.
+@15.23
+We will serve you, Lord Sanboshi...
+@15.24
+Command us as you will...
+@15.27
+Lord Sanboshi, we have sweets and toys ready for you.
+@15.28
+They are in the next room. Go and play.
+@15.29
+Okay!
+@15.30
+Then, Lord Sanboshi, we will take you there.
+@15.31
+...Damn.
+@15.32
+Next, the division of the lands...
+@15.33
+The traitor \#000E has already been struck down, so there is nothing to change now.
+@15.34
+Let each of us govern his own lands as before.
+@15.35
+I have no objection.
+@15.36
+Nor I.
+@15.38
+Then let us close this meeting.
+@15.39
+In \M001, \#0205 and \#017B held a meeting at \51E8.
+@15.40
+They talked over the \#10C3 clan after \#08C3's death, but their views remained at odds.
+@15.41
+This meeting made a clash between the two inevitable.
+@16.0
+\%03, your men are asking to see you. Please return to the Lord's Hall.
+@16.2
+\%03... May I have a moment? I have a plan.
+@16.3
+How about holding a funeral for Lord \#08C3?
+@16.4
+Hmm, I was thinking the same.
+@16.5
+We must show the realm who Lord \#08C3's successor is.
+@16.6
+Then it must be done in grand style.
+@16.7
+Yes. It must be a funeral grander than any ever seen!
+@16.8
+In month \M002 of \M001, \#0205 held a funeral for \#00C3.
+@16.9
+The procession stretched on and on... such was \#08C3's greatness...
+@16.10
+And it left a strong impression that \#0205 was \#00C3's successor.
+@16.11
+The meeting with Lord \#117B is over for now, but a great task remains.
+@16.12
+Lord \#08C3's funeral! No one has held one publicly yet!
+@16.13
+The perfect chance for my lord to show he is Lord \#08C3's successor!
+@16.14
+I must have my lord hold a grand funeral.
+@16.15
+The meeting with Lord \#117B is over for now, but a great task remains.
+@16.16
+Lord \#08C3's funeral... No one has held one publicly yet...
+@16.17
+It should be the perfect chance for my lord to show he is Lord \#08C3's successor!
+@16.18
+I must have my lord hold a grand funeral.
+@16.19
+My lord... May I have a moment? I have a plan.
+@16.20
+How about holding a funeral for Lord \#08C3?
+@16.23
+Then it must be done in grand style.
+@16.24
+Yes! It must be a funeral grander than any ever seen!
+@16.29
+Lord \#0A05 has held Lord \#08C3's funeral!
+@16.30
+Good! Now we can show that we are Lord \#08C3's successors.
+@16.31
+That is good news! Now we can show that we are Lord \#08C3's successors.
+@17.0
+My lord! \#017B's army is on the move.
+@17.1
+So he has come at last! That Gonroku!
+@17.2
+Gather all my generals at once!!
+@17.5
+\%04205 summons you. Please come to the Council Chamber at once!
+@17.6
+Understood! I will come at once!
+@17.7
+It seems \#017B has finally lost patience and come out.
+@17.8
+We should go out to meet him. We must not let the \#117B forces into the Kinai.
+@17.9
+Just so... But there is a problem.
+@17.10
+What is it, my lord?
+@17.11
+Even among the old \#10C3 retainers, \#097B is one of the mightiest. I do not like meeting him head on.
+@17.12
+And there is the matter of supplies. Our supply lines are long. A drawn-out war would be hard on us.
+@17.13
+But we cannot let the \#117B forces' invasion pass!
+@17.14
+I think it vital to march out without a moment's delay.
+@17.15
+Hmm... Perhaps so. Then we march.
+@17.17
+News, sir! Lord \#0A05's army and \#017B's army have clashed at Shizugatake!
+@17.18
+What! And what happened?
+@17.19
+\#117B's army collapsed. Victory is ours.
+@17.20
+Oh! Our lord did it, as expected. Splendid.
+@17.21
+What did you say! And what happened?
+@17.23
+Really! Our lord did it, as expected. Splendid.
+@18.0
+My lord! Rejoice! The castle at Naniwa is finally finished!
+@18.1
+What, finished! Good, good! Then the new castle shall be named Osaka Castle!
+@18.4
+The castle our lord was building at Naniwa is finally finished.
+@18.5
+They say the new castle has been named Osaka Castle.
+@18.6
+Oh! The new castle at last! I wonder what it is like...
+@19.0
+\#01FA is no longer a daimyo? Then the campaign is called off. We return.
+@19.1
+That \#09FA! He has turned tail and fled.
+@19.2
+The campaign is called off. We return.
+@19.3
+It seems \#09FA has not arrived yet.
+@19.4
+We will lie in wait around here.
+@19.7
+Now, \#09FA's battle lines... Let us have a look.
+@19.8
+A very well-ordered array.
+@19.9
+Hmm... \#01FA is something. His orders seem to reach every last foot soldier.
+@19.10
+What shall we do...?
+@19.11
+I want to settle this quickly. A long war plays into his hands. Yet if we rush the attack, we fall into his trap...
+@19.12
+Is there no good way...
+@19.13
+Then hear my plan. I have a secret stratagem.
+@19.14
+Oho... What sort of stratagem?
+@19.15
+What if we struck \#01FA's home base in one swift blow?
+@19.16
+\#09FA's base? That is a wild idea...
+@19.17
+The enemy must have brought his main force, wary of us... His base is likely thinly defended.
+@19.18
+We will lead a separate force and strike \#09FA's base. Then the enemy will retreat in a panic.
+@19.19
+If your main army falls on them from behind as they withdraw, even \#09FA can be struck down easily.
+@19.20
+Will it go that well... \#09FA is a veteran of a hundred battles. He will not fall for such a trick.
+@19.21
+Just lend me the troops! Even without your permission, I will go!
+@19.22
+Hey, wait! Wait!! Bah, \#0FF1 alone would be in danger. We are going too!
+@20.0
+\#09FA! We will settle this next time.
+@20.1
+It seems \#09FA has already arrived.
+@20.2
+Hmm, we must hurry too.
+@21.0
+\#017B is no longer a daimyo? Then the campaign is called off. We return.
+@21.1
+That \#097B! He has turned tail and fled.
+@21.3
+It seems \#097B has not arrived yet.
+@21.4
+Shall we wait around here?
+@21.7
+Lord \#117B will not come out of \51E8.
+@21.8
+\#017B is no fool... Once he has the lay of the land, he will not budge.
+@21.9
+A long war is bad for us. It would cause problems with supplying provisions.
+@21.10
+But if we make the first move, we play into the enemy's hands...
+@21.11
+We should lure the enemy out, then surround and destroy them.
+@21.12
+Here \#0A05 deliberately turned his back on the enemy and marched toward Ogaki in Mino...
+@21.13
+He changed his army's course to force \#00C1, \#017B's ally, to surrender first.
+@21.14
+But that was the official reason. In truth it was a ploy to drag the \#117B army onto a battlefield that favoured his own.
+@21.15
+A ploy, of course, to invite the enemy to strike from behind and drag them onto the field of battle.
+@21.16
+But \#017B was a seasoned, valiant general and would not fall for the ploy...
+@21.17
+However, \#0155, a fierce general of the \#117B army, lost patience with his uncle, who would not move, and at last advanced.
+@21.18
+News, sir! The enemy army has begun to advance toward Shizugatake.
+@21.19
+The enemy vanguard is \#0155!
+@21.20
+He fell for it! That reckless boar! I have been waiting for this! Hurry!! To the decisive battlefield!!
+@21.21
+The \#1205 army raced back from Mino faster even than in the old Great Return from the Chugoku, heading for the decisive field of Shizugatake...
+@21.22
+Which of us will carry on our late lord's great work... \#097B, let us settle it!
+@21.23
+\#017B is no longer a daimyo, so the campaign has been called off, it seems.
+@21.24
+\#097B has withdrawn, so the campaign has been called off, it seems.
+@21.25
+It seems \#097B has not come yet.
+@22.0
+\#097B! We will settle this next time.
+@22.1
+It seems the \#117B army has reached \51E8.
+@22.2
+Hmm. We must hurry too.
+@22.3
+\#097B! We will settle this some day, without fail!
+@22.4
+The \#117B army will not come out of \51E8.
+@22.9
+Here \#0A05 deliberately turned his back on the enemy and marched toward Ogaki in Mino...
+@23.0
+News, sir! The \#11FA army has noticed our movements and is closing in.
+@23.1
+Damn... The plan is ruined!
+@23.2
+\#09FA was one step ahead after all... No, there is no use complaining now. We fight them!
+@23.3
+Prove that the samurai of \#1205 are no less than the \#11FA clan with the spear!
+@24.0
+The enemy vanguard seems to be \#0155.
+@24.1
+A famous fierce general... Do not flinch! Hold here!
+@24.2
+The enemy's lines seem to be stretched thin.
+@24.3
+Good, now is our chance!
+@25.0
+News, sir! The enemy has collapsed! Victory is ours!
+@25.1
+Well done! \#09FA... Now he must know to fear us. That was lesson enough.
+@25.2
+My lord, let us give chase and take \#09FA's head.
+@25.3
+No... We let him live. War is not all about taking heads.
+@25.5
+We withdraw!
+@25.6
+Our forces have collapsed!! The enemy's spirits are high!
+@25.7
+Ngh... \#09FA got the better of us! We pull back for now!
+@26.0
+Victory is ours!
+@26.1
+Having beaten \#017B in this battle, \#0205 raised his name all the higher as \#08C3's successor.
+@26.2
+\#017B, on the other hand, lost his pride as the foremost retainer of the old \#10C3 clan and would fade from the stage of history...
+@26.3
+Our forces have collapsed...
+@26.4
+Ngh... So my strength was no match for \#097B...!
+@26.5
+Fall back! Fall baaack!!
+@27.0
+At last it is time to settle things with \#097B too!
+@27.1
+My lord! What of Lady Oichi?
+@27.2
+Slip into the castle and rescue her! Bring her to me, whatever it takes!
+@27.4
+Begin the attack!
+@28.0
+News, sir! Victory is ours.
+@28.1
+Lord \#117B seems to have set fire to the keep and taken his own life!
+@28.3
+I see! What of Lady Oichi?
+@28.4
+Well... When we reached the keep, it was already surrounded by a sea of flames, and we could not get near.
+@28.5
+She most likely died with Lord \#117B...
+@28.6
+What! She took her own life?!
+@28.7
+How tragic...
+@28.8
+So she chose death over coming to me...
+@28.9
+Did she hate me that much... Ugh...
+@28.10
+...No, there is no time to grieve.
+@28.11
+\#017B is dead. Now it is I... who will carry on our late lord's will and unite the realm!
+@29.0
+\#017B has lost his former strength!
+@29.1
+Now is the time to strike down \#097B. We attack \51E6!!
+@29.2
+At last, the road to ruling the realm! ...But we must not yet underestimate Lord \#117B's strength.
+@29.4
+My lord! Lord \#0293 is here!
+@29.6
+What...? Lord \#1293 should be serving Lord \#117B now... Why would an enemy general come?
+@29.7
+Anyway, bring him here!
+@29.9
+Well... it has been a while. I am \#0293.
+@29.10
+What brings an enemy general here?
+@29.11
+Do not be so cold...! \#0A05! Have we not shared hardships since we were young?
+@29.13
+I can no longer bear to be your enemy...
+@29.14
+I told Lord \#117B so, honestly, and have come over to you...
+@29.15
+What... Is it true? Lord \#0A93!
+@29.16
+I would not lie about such a thing!
+@29.17
+Lord \#117B said, "I know of your friendship with \#0A05... I will not stop you," and saw me off kindly...
+@29.18
+I see... Lord \#0A93! I am in your debt! You did not forget our friendship and came to me! Thank you!
+@29.19
+I have faith in the future of the man called \#0205. From now on I will serve the \#1205 clan!
+@29.20
+I am grateful!
+@29.21
+My lord! Now Lord \#117B may hurry to ready his defences.
+@29.22
+Would it not be better to watch how things go for a while...?
+@29.23
+No, heaven's timing is with me, \#0A05! This battle will change the realm. It all depends on your efforts!
+@29.24
+We march on \51E6! Each of you, win glory!
+@29.26
+News, sir! \%04205 has attacked \#097B's \51E6 Castle.
+@29.27
+At last \%04205 settles things with \#097B... And what happened?
+@29.28
+Victory is ours. \#097B seems to have set fire to the keep and taken his own life!
+@29.30
+At last \%04205 settles things with \#097B... And what happened?
+@29.33
+By the way, what of Lady Oichi?
+@29.34
+She seems to have died with \#097B.
+@29.36
+By the way, what of Lady Oichi?
+@29.38
+What! She took her own life?
+@30.1
+News, sir! Our lord has fought a battle with \#01FA's forces at Komaki!
+@30.4
+Yes... In truth, Lord \#00BF joined hands with \#01FA and rose in revolt against our house!
+@30.8
+Well... Our lord fell into \#01FA's trap and was defeated.
+@30.9
+\#01FA is formidable...
+@30.10
+But our lord at once made peace with \#00BF, so \#01FA lost his pretext.
+@30.11
+That is \%02205 for you... He lost the battle but won through diplomacy.

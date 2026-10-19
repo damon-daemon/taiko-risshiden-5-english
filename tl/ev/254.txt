@@ -1,0 +1,304 @@
+@0.0
+My lord! Grave news! The armies of \#00C3 and \#01FA are marching on our lands!
+@0.1
+So they've come...! Ask Lord \#1017 for reinforcements at once! Gather everyone in the Council Chamber!
+@0.3
+My lord... must you really fight my brother?
+@0.4
+Oichi... forgive me! When I honoured my friendship with Lord \#1017 and attacked your brother, it was already decided...
+@0.5
+I know it is hard for you, caught between us...
+@0.6
+No, my lord... Ichi is your wife. Now that it has come to this, I can only pray for your fortune in battle.
+@0.8
+My lord, the officers have gathered. Please come to the Council Chamber.
+@0.9
+Yes! I'm coming.
+@0.10
+Lord \#07FE! The armies of \#00C3 and \#01FA are marching on our lands!
+@0.11
+What?! So they've come...!
+@0.12
+The old lord has already asked the \#1017 clan for reinforcements.
+@0.13
+You are summoned urgently. Please come to the Council Chamber at once.
+@0.15
+As you have no doubt heard, \#00C3's army is about to invade our lands.
+@0.16
+We must stop them at all costs.
+@0.17
+Lord \#0017 has arrived.
+@0.18
+Ah, you have come.
+@0.19
+Lord \#1010! You once saved us from a tight spot, for which I am grateful. This time we have come as your reinforcements.
+@0.20
+That is reassuring...
+@0.21
+If we join forces, we can scatter the likes of \#10C3 and \#11FA in no time.
+@0.23
+I hear \#08C3's army has already crossed the Omi-Mino border and is marching into southern Omi.
+@0.24
+Th-then... we will likely meet them around the Ane River.
+@0.25
+Then, Lord \#1010, let us go.
+@0.26
+Now, everyone... we march!
+@1.0
+I beg to report! \#00C3's main force seems to have seen through our surprise attack and fled!
+@1.1
+What...! Pursue them at once!
+@1.2
+The rear guard of the retreating \#10C3 army is said to be \#0205!
+@1.3
+Right, first we crush the \#1205 unit! \#08C3's head comes after!
+@2.0
+\#0810! I trusted you as \#0437's husband, as my brother-in-law! And you dared betray me!
+@2.1
+Brother! That is not so! Was it not you who betrayed us first?!
+@2.2
+Silence! Do not think you can defy me and get away with it!
+@2.3
+Men! Attack!
+@3.0
+Victory for our side!
+@3.1
+Yes! Now we chase \#08C3's main army at once!
+@3.2
+Sadly... he seems a man with the devil's own luck. His main force appears to have already escaped to \51E5.
+@3.3
+Damn... This may come back to haunt us...
+@3.4
+In any case, we must join hands with the \#1017 clan and prepare for \#08C3's return...
+@3.5
+With the surprise attack on \#00C3's army, relations between the \#10C3 and \#1010 clans went completely cold.
+@3.6
+There was no doubt the furious \#08C3 would make war on the \#1017 and \#1010 clans again...
+@3.8
+Ugh! ...How bitter.
+@3.9
+Old lord... please flee, quickly! As long as you live, you can rise again.
+@3.10
+With the surprise attack on \#00C3's army, relations between the \#10C3 and \#1010 clans went completely cold...
+@4.0
+We won!
+@4.1
+Lord \#1010, we did it!
+@4.2
+I thank the \#1017 army for its efforts.
+@4.3
+That fool \#10C3 won't be rising again for a while.
+@4.4
+Lord \#1017, let us keep working hand in hand.
+@4.6
+Right, we return home! Everyone, raise the victory cry!
+@4.8
+Having beaten the \#10C3 and \#11FA clans at the famed "Battle of Anegawa", the \#1010-\#1017 allied army...
+@4.9
+...rose at a stroke to the rank of great warlords, their names known in every province.
+@4.10
+Meanwhile \#00C3, who had proclaimed "Rule the Realm by Force", was crushed and lost much of his prestige...
+@4.11
+From then on, he fell out of the race for the realm...
+@4.12
+Our side is routed!
+@4.13
+Damn... how bitter! \#10C3 and \#11FA... I never thought they were this strong!
+@4.14
+Lord \#1017 was routed too, and it seems he barely escaped home alive.
+@4.17
+Month \M002 of year \M001. The \#1010-\#1017 allied army suffered a crushing defeat under the onslaught of \#10C3 and \#11FA...
+@4.18
+This was the famed "Battle of Anegawa"...
+@4.19
+Beaten, the \#1010 and \#1017 clans quickly lost strength and came under fierce attack from \#00C3...
+@5.0
+So this is the end...
+@5.1
+My lord! An envoy has come from the \#10C3 side!
+@5.2
+What...
+@5.3
+He says they wish at all costs to save Lady Oichi.
+@5.5
+...Yes. Oichi has done nothing wrong. There is no need for her to die with a failure like me...
+@5.6
+Though she is the enemy commander's wife, Oichi is \#08C3's sister... He will not treat her badly.
+@5.7
+At least Oichi must survive... Right, call Oichi!
+@5.10
+This is the end. All that is left is to die with the castle.
+@5.13
+I have been ready since the day your brother attacked \#1017.
+@5.15
+But the \#1010 and \#1017 clans have helped each other for three generations.
+@5.20
+...No, Oichi! You must leave the castle!
+@5.21
+My lord! What did you just say?
+@5.31
+Forgive me, Oichi...! This is the last thing I can do for you.
+@5.33
+\#0810's wife Oichi was taken safely into protection and returned to the \#10C3 clan...
+@5.34
+And the clan head, \#0010, took his own life in \51E6 Castle, aged \1007...
+@6.0
+Old lord! Grave news!
+@6.2
+Lord \#00C3 has marched on Echizen to subdue Lord \#0017!
+@6.3
+What... is that true?!
+@6.4
+No doubt about it! They say he already has Kanegasaki Castle under siege...
+@6.5
+What is this... He must know of our bond with the \#1017 clan. Why would Lord \#10C3 do this without a word to us...?
+@6.6
+\#00C3... he has shown his true colours. He always was a fool. We cannot let our guard down.
+@6.7
+And... how shall our house respond?
+@6.8
+That is obvious! If \#08C3 truly means to attack Lord \#1017, we will fall on his rear!
+@6.9
+But Father... my wife is Lord \#08C3's sister, Oichi. Betraying my brother-in-law...
+@6.11
+Oichi! You were there?
+@6.12
+Why do you hesitate, \#0810?!
+@6.13
+Our alliance with the \#1017 clan was handed down from my father, Lord Sukemasa. It is no bond of yesterday!
+@6.14
+Bowing to \#00C3 just because he gave you his sister... we could never face the \#1017 clan!
+@6.16
+My lord! What will you do? We must decide quickly!
+@6.18
+Side with Oda
+@6.19
+Side with Asakura
+@6.20
+I have decided... Our house sides with \#10C3!
+@6.21
+\#0810! You would throw away our friendship with the \#1017 clan?!
+@6.22
+Father... the times are changing. I will follow \#00C3, who is opening a new age.
+@6.23
+My lord! Thank you.
+@6.24
+Yes... Oichi, I am staking all on your brother.
+@6.26
+\#0010 betrayed his longtime ally \#0017 and sided with his brother-in-law \#00C3...
+@6.27
+Naturally the \#1017 clan, in a towering rage, turned its spears on the \#1010 clan...
+@6.28
+I understand, Father. I cannot break three generations of friendship with the \#1017 clan... Let us attack \#08C3.
+@6.29
+Oh, well said!
+@6.31
+\#0437, forgive me... Accept this as the way of our warring age...
+@6.32
+I am \#0010's wife... Now that it has come to this, I will follow you, my lord.
+@6.33
+Then we march! Everyone, let's go!
+@6.42
+Grave news! \#00C3 has raised an army to subdue the \#1017 clan of Echizen!
+@6.43
+What, the \#1017 clan, our ally of many years?! Lord \#10C3 must know that...
+@6.44
+Naturally the old lord was furious, and they say he struck \#08C3's army from behind.
+@6.45
+What! But the old lord's wife is \#08C3's sister, Lady \#0437. It must have been hard for him...
+@6.46
+The surprise attack worked and \#10C3's Echizen campaign failed, but it seems \#08C3 escaped...
+@6.47
+Sooner or later \#08C3 is sure to attack the \#1010 and \#1017 clans again...
+@7.0
+Before the council, there is something I must tell you all.
+@7.1
+About the alliance the \#10C3 clan proposed: I have decided to accept it.
+@7.2
+Wh-what?! I will not allow it!!
+@7.4
+The \#10C3 clan is now rising like the morning sun. We too should join with \#10C3 and extend our power!
+@7.5
+We have the \#1017 clan as allies. We don't need that fool \#10C3!
+@7.6
+True, we have lost the \#1017 clan as allies. But we don't need that fool \#10C3!
+@7.7
+True, we have lost Lord \#0017 as an ally. But our \#1010 clan does not need that fool \#10C3!
+@7.8
+Lord \#08C3 is no fool. Besides, I have already sent word that we accept.
+@7.9
+If we refuse now, the \#1010 name will lose all trust.
+@7.10
+Wh-what?! You will accept, my lord?!
+@7.11
+Yes. The \#10C3 clan is now rising like the morning sun. We can do no better than join with \#10C3 and extend our power.
+@7.12
+But... can Lord \#08C3 be trusted?
+@7.13
+Yes. He has given me the jewel of his palm. I think he can be trusted.
+@7.14
+The jewel of his palm...?
+@7.15
+I beg to report! Lady Oichi has arrived!
+@7.16
+Ah, she is here! Good, show her in!
+@7.18
+I am Ichi, sister of \#00C3.
+@7.19
+Oh, how beautiful...
+@7.20
+I had heard Lord \#08C3 had a most beautiful sister, but I never imagined...
+@7.21
+I am \#0810! Welcome!
+@7.22
+I humbly ask your favour, for all the years to come.
+@7.23
+Yes! Now, you must be tired from the long journey. Go and rest.
+@7.24
+Yes... Then by your leave.
+@7.25
+In month \1007 of year \1006, \#0010 took \#00C3's sister \#0437 as his wife.
+@7.26
+It was a political marriage, common in the Sengoku era, but they were happy together, it is said.
+@7.27
+I see. So that lady is Lord \#08C3's jewel.
+@7.28
+Yes. I asked Lord \#08C3 knowing it was a lot to ask, but it never hurts to ask.
+@7.29
+This affair shows how much the \#10C3 clan values its alliance with our \#1010 clan.
+@7.30
+To decide such a grave matter without a word to me...
+@7.31
+Father, I am the head of the \#1010 clan!
+@7.32
+Hmph... But Lord \#0017 despises that fool \#10C3.
+@7.33
+If \#1017 and \#10C3 go to war, whose side will you take?
+@7.34
+I see my role as keeping the peace between \#1017 and \#10C3 so that it never comes to that.
+@7.35
+Doesn't Lord \#0817 hate \#08C3 because the \#10C3 were once vassals of the \#1017 clan?
+@7.36
+The past is the past. Bearing a grudge against a house because it once served yours is dangerous even for Lord \#0817...
+@7.37
+Silence! What do you know, besotted with a woman?!
+@7.38
+That vixen is surely a spy for \#10C3!
+@7.39
+Of course, to be safe, I will keep secrets from \#0437. Now please calm yourself, Father.
+@7.40
+Hmph. A bride from \#10C3...
+@7.42
+But... the \#1017 and \#10C3 clans are like cat and dog.
+@7.43
+If \#1017 and \#10C3 go to war, whose side will you take, my lord?
+@7.44
+I will keep the peace between \#1017 and \#10C3 so that it never comes to that. That is our role; mark it well.
+@7.47
+Before the council, there is something I must tell you all.
+@7.48
+Our \#1010 clan is to make an alliance with the \#10C3 clan.
+@7.49
+With it, Lord \#08C3's sister is coming from the \#10C3 clan to marry our lord.
+@7.50
+Oh! Our congratulations!

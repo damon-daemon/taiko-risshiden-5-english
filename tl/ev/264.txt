@@ -1,0 +1,174 @@
+@0.0
+My liege, disaster! The \#12C0 army is upon us!
+@0.2
+The attackers seem to be the \#12C0 Triumvirate, \#0072, \#02BF and \#02C2, along with \#02A7!
+@0.3
+The gates are already broken and our side is in chaos. The castle will fall at any moment. Please, flee while you can!
+@0.4
+No! If I flee now, all will be for nothing. For the restoration of the \#101F shogunate, I will never run!!
+@0.5
+Ahh, my liege!
+@0.6
+My liege! Why have you come here?!
+@0.7
+Everyone, \#081F is over there! Kill him!
+@0.8
+\#0872. To draw a bow against the Shogun is unworthy of a samurai, you fool. Taste the blade of my judgement!
+@0.9
+Justice!
+@0.11
+I-impossible... Five of us couldn't beat him... Urgh...
+@0.12
+I am the one called the Swordsman Shogun. Did you think a man of your skill could kill me?!
+@0.13
+\%03! \%03! Hold on... Damn it!
+@0.14
+He's only one man! If we all attack at once, he's nothing! Don't be afraid, attack!
+@0.15
+Heh, you all seem to be losing your nerve. Then I'll come to you. \#02BF, prepare yourself!
+@0.17
+Too slow! Justice!
+@0.19
+Guhaa...
+@0.20
+Huff... huff... I'm not finished yet!
+@0.21
+My liege, fresh enemies! Please be careful!
+@0.22
+So \#0ABF and \#0872 have both fallen. The Swordsman Shogun lives up to his name.
+@0.23
+But he seems out of breath. Now's our chance: surround him and kill \#081F! Follow me!
+@0.24
+Hrrgh... He's strong, I'll grant him that.
+@0.25
+Huff... huff... Justice!
+@0.26
+Clang!
+@0.27
+Leave this to the \#12A7 unit and fall back for now! Retreat!
+@0.28
+Bah, \#0AC2, you turn your back on the enemy?! You coward! Wait!
+@0.31
+Gwaaah!
+@0.32
+Bah, there's no end to them!
+@0.33
+Huff... huff... huff... I'm starting to tire...
+@0.34
+Well, well, my liege seems rather tired. Let \#0AA7 put you out of your misery at once...
+@0.35
+\#0AA7, is it? Hmph, I may be a little out of breath, but I won't lose to you!
+@0.36
+True, I can't beat you with a sword... But how about this?
+@0.37
+Bang!
+@0.38
+Grr, a matchlock?! Coward!
+@0.39
+Heh heh heh... In war there's no such thing as cowardly. The winner is in the right...
+@0.40
+Besides, the days when battles were decided by one man's valour are past. This is the age of the gun.
+@0.41
+Well, a liege who loves waving sticks around may not understand... Now, prepare yourself!
+@0.42
+Justice! Haaah!
+@0.44
+I-impossible... Even with a matchlock I couldn't win... Ugh...
+@0.45
+Eeek... Our general, Lord \#12A7, is done for... H-help!
+@0.46
+My liege, the enemy is retreating! A great victory for our side!!
+@0.47
+Yes! Everyone, you fought well!
+@0.48
+\#02A7 had this with him. Please accept it.
+@0.49
+You obtained the Kotenmyo Hiragumo Kettle.
+@0.50
+Oh, this seems to be quite a fine piece.
+@0.51
+\#0072, \#02BF and \#02A7 fell by your hand, my liege, and \#02C2 seems to have fled!
+@0.52
+With the \#12C0 Triumvirate broken and \#02A7 gone, the \#12C0 clan's decline is unavoidable.
+@0.53
+Now is the chance to restore the Shogun's house! Whatever it takes, we will bring back the glory of the third Shogun, Lord Yoshimitsu!
+@0.55
+Worthy of the name Swordsman Shogun, \#001F led from the front, fought like a lion and foiled the \#12C0 Triumvirate's revolt...
+@0.56
+And \#081F's younger brother, Ichijoin Kakukei, a monk at Kofukuji in Yamato, heard of his brother's danger and rushed to him.
+@0.57
+He returned to lay life as \#001D and swore to be his brother's right hand.
+@0.59
+My liege!
+@0.60
+Hear my death poem! "Summer rain: is it dew or tears? O cuckoo, carry my name up above the clouds."
+@0.61
+Reciting a death poem... It seems he's resigned himself...
+@0.62
+Right, topple the sliding doors on him to pin him down! Spear him through the doors and even the Swordsman Shogun can do nothing!
+@0.63
+My liege, your life is ours!
+@0.65
+Gwaaaah!
+@0.66
+\#07FE, thirteenth Shogun, had longed to restore the \#17FE Shogun's house...
+@0.67
+...but before the onslaught of the \#12C0 Triumvirate and \#02A7's army, he fought in vain and at last fell.
+@0.69
+Ugh... Is this the end...
+@0.71
+It seems this is the end. I shall act as your second.
+@0.72
+Wait a moment; I will compose my death poem...... "Summer rain: is it dew or tears? O cuckoo, carry my name up above the clouds."
+@0.73
+My liege, prepare yourself!
+@0.80
+We did it! We've slain the Shogun!
+@0.90
+\%03, disaster! The \#12C0 army is upon us!
+@0.92
+What?! Where is His Highness?
+@0.93
+What?! Where is His Highness?!
+@0.94
+Probably in the council chamber.
+@0.95
+Understood, the council chamber.
+@0.96
+Understood. The council chamber!
+@0.97
+My liege! Where are you?!
+@0.98
+\%03! I'm here!
+@0.99
+Hm, more of them?! Bah, it'll be a nuisance if they join up. Finish him quickly!
+@0.100
+Bah, out of my way! My liege!
+@0.101
+Ugh... My... liege...
+@0.102
+Huff... huff... \%03, it seems this is the end for me.
+@0.105
+Topple the sliding doors on him to pin him down! Spear him through the doors and even the Swordsman Shogun can do nothing!
+@0.107
+Gwaaah...!
+@0.108
+Ahh! My liege!!
+@0.109
+\#001F is dead! Victory is ours!! Only a few enemies are left; wipe them out at once!
+@0.110
+Grr, now there's nothing for it but to run.
+@0.111
+Phew... It seems I've shaken them off.
+@0.112
+So this is the end of the \#101F shogunate... But I can't serve the \#12C0 clan that killed my liege.
+@0.113
+Grr, now there's nothing for it but to run...
+@0.114
+Phew... It seems I've shaken them off.
+@0.115
+So this is the end of the \#101F shogunate... But I can't serve the \#12C0 clan that killed my liege.
+@0.116
+\#001F, thirteenth Shogun, had longed to restore the \#101F Shogun's house...
+@0.118
+It was month \1007 of \1006. \#001F died aged \1008...

@@ -1,0 +1,3466 @@
+@0.0
+The Hattori, a powerful family of Iga... one of the ninja houses that had ruled the mountains of Iga since the age of the Northern and Southern Courts.
+@0.1
+In the time of Hattori Hanzo Yasunaga they moved from Iga to Mikawa to serve the Matsudaira. Hanzo Masanari was Yasunaga's son.
+@0.2
+But after the death of their great lord Kiyoyasu, the Matsudaira declined, and under his son Hirotada fell under the \#106E clan...
+@0.3
+Hirotada's heir, \#01FA, was raised as a hostage in Sunpu and, even after his father's death, was not allowed to return to Mikawa...
+@0.4
+Yet the \#11FA retainers endured every hardship, longing to restore their lord's house and watching for their chance...
+@0.5
+If only we could break free of the \#106E clan and restore the \#11FA house... I would work for him with all my might...
+@0.6
+Now, now, do not be so impatient, \#0A4B...
+@0.7
+Ah, my lord!
+@0.8
+I hear the great lord in Sunpu... Lord \#006E... will soon march on the capital.
+@0.9
+If the great lord becomes ruler of the realm, we \#11FA may be given a fitting place as one of his daimyo...
+@0.10
+But will the march on the capital go so smoothly...? \#00C3, \#0316... and \#02C0 lie in wait along the way...
+@0.11
+Of those, the one to fear is \#00C3.
+@0.12
+\#00C3...!? Yet to this \#0A4B, \#02C0 and the others seem far stronger...
+@0.13
+No... Long ago, before I became a hostage of the \#106E, I was a hostage of the \#10C3.
+@0.14
+Back then it was Lord \#08C3 who worried about me, a hostage, and looked after me.
+@0.15
+Even after becoming head of his house his odd ways continued, and they call him "the Fool," but a clever hawk hides its talons, as they say.
+@0.16
+The great lord's biggest obstacle on the way to the capital will surely be the \#10C3 clan... Keep that in mind.
+@0.18
+The call to march on the capital may come at any time. Wait at home, ready to set out.
+@0.19
+As you command.
+@1.5
+\#01C1... An enemy, yet a general I learned much from. The great lord must feel the same.
+@1.6
+Never forgetting \#09C1, \#01FA had himself painted as he fled Mikatagahara, as a lesson...
+@2.0
+Boss, a letter from the great lord of the \#11FA.
+@2.1
+Yes, thank you.
+@2.2
+The letter said that the plea to spare \#0049's life had been refused, and that \#0049 would soon be executed.
+@2.3
+It also said that, thanks to \#09FA's word, a meeting with \#0849 before the execution had been arranged.
+@2.4
+I see. Let us go, to see \#0849 off.
+@3.0
+Lord \#024B! The great lord summons you at once.
+@3.1
+What, the great lord? I wonder what it could be so suddenly...
+@3.2
+\#024B, at your service.
+@3.3
+Ah, \%03, you have come. The great lord is waiting.
+@3.4
+Ah, you are here... \#0A4B. The truth is, I have a favour to ask of you. No, a task only you can do...
+@3.5
+Yes... Unworthy as I am, I, \#024B, would do anything for you, my lord. Command me as you will.
+@3.6
+\%03, you came from Iga, as I recall.
+@3.7
+Yes...? I was indeed born in Iga... but I have not been back since my father brought me to Mikawa...
+@3.8
+My request is this... I want you to go back to Iga.
+@3.9
+What did you say?! Go back to Iga...? Have I done something wrong?
+@3.10
+No, it is not that. Not that at all. Now, listen to what \#0FF0 has to say.
+@3.11
+\%03? What is this about?!
+@3.12
+As you surely know, our \#11FA clan recently broke away from the \#106D clan, and so earned the \#106D's hatred...
+@3.13
+Nor are we on friendly terms with the \#10C3 clan we fought at Okehazama...
+@3.14
+Caught between enemies, the \#106D to the east and the \#10C3 to the west, our house, still weak, carries too heavy a load...
+@3.15
+Of course, we mean to make peace with the \#106D and \#10C3, build our strength and then expand. But...
+@3.16
+Some things cannot be done by effort from within. So we badly need ninja who will be our agents...
+@3.17
+I hear Iga has many skilled ninja. That is why we called for you.
+@3.18
+Indeed, there are excellent ninja among the men of Iga, but...
+@3.19
+So we want you, with your deep ties to Iga, to return home, unite the men of Iga and work for the \#11FA clan.
+@3.21
+You are telling me... to become a ninja?
+@3.22
+It is work no one but you can do.
+@3.23
+I beg you, \#0A4B. Please.
+@3.24
+...I understand. For my lord's sake I am ready to work my bones to dust. I will become a ninja or anything else.
+@3.25
+Oh, you will do it! I am in your debt!
+@3.26
+Your position may change, but you will still be working for the \#11FA... I will never forget your loyalty!
+@3.27
+\#0A4B, thank you for this decision.
+@3.28
+Even in the shadows I will serve the \#11FA... My lord, I pray you become a great lord...
+@3.29
+Yes... I will not forget your devotion.
+@3.30
+Then... now that I am to be a ninja, I cannot stay openly in a place like this. I will leave for Iga at once.
+@3.31
+My lord, \%03... take care of yourselves...
+@3.32
+Yes... you too.
+@3.33
+Phew... Who would have thought I would end up going back to Iga...
+@4.0
+Oh, Lord \#124B. Is your training going well?
+@4.1
+Oh, \%0424B. Are you well?
+@4.2
+I have not forgotten your loyalty. Ninja work must be hard, but keep at it.
+@4.3
+Forgive me, I have business to attend to. Farewell.
+@5.0
+Boss, I have brought a letter from Lord \#11FA.
+@5.1
+A letter? Has something serious happened? Very well, I will hold a council. Gather everyone.
+@5.2
+The letter from Lord \#09FA asks us to destroy the Suppa.
+@5.3
+So that the \D07A cannot disrupt them while they fight \A3A4.
+@5.4
+It also said that, as the \#10C3 army is already on the move, the Suppa have probably taken a heavy blow.
+@5.5
+Boss, striking the Suppa now would help the hated \#10C3.
+@5.6
+But seen another way, it is a golden chance to crush the Suppa.
+@5.8
+Boss, what will you do?
+@5.9
+We will not fight this battle for Lord \#10C3. This is a battle for the men of Iga.
+@5.10
+We will take this chance to destroy the Suppa and spread the power of Iga! We march!
+@6.0
+Boss, I have heard a worrying rumour about the \#11FA clan.
+@6.1
+What kind of rumour? Tell me.
+@6.4
+Yes. They say that when Lord \#1048 went as envoy to Lord \#1205, Lord \#1205 himself offered him service at a high stipend.
+@6.5
+The rumour is that Lord \#1048 was quite taken with the idea and will soon move to \41DE.
+@6.11
+Lord \#07FE, \#0048 of \A3A2 has defected to \A3A3!
+@6.12
+What?! \%20048? But he was a senior retainer of \A3A2!
+@6.13
+They say Lord \#0205 won him over... Now \A3A3 will know all of \A3A2's secrets.
+@6.14
+Hm... So \%04048 did...
+@7.0
+Lord \#07FE, Lord \#00B7 has been made lord of \51E5 Castle.
+@7.1
+\51E5 Castle is a key base for holding back the Takeda. Giving it to his son-in-law, Lord \#00B7, was well thought out by Lord \#09FA.
+@8.0
+Boss! Lord \#09FA has signalled that he will accept Lord \#1205's offer of alliance.
+@8.1
+Neither Lord \#09FA nor Lord \#1205 gains anything from fighting any longer now...
+@8.2
+They say Lord \#1205 has proposed adopting Lord \#09FA's son, Lord \#0AFC.
+@8.3
+A hostage in all but name... but Lord \#09FA can hardly refuse...
+@9.0
+Boss! They say Lord \#09FA has married.
+@9.1
+What, Lord \#09FA? Who is the bride?
+@9.2
+Lord \#0205's sister, Asahi-hime.
+@9.3
+Wait, wait, is Asahi-hime not already married?
+@9.4
+They say Lord \#0205 had her divorced.
+@9.5
+Had her divorced... Is Lord \#0205 that eager to win Lord \#09FA over?
+@9.6
+That is not all. Lord \#0205 sent his own mother as an envoy to Lord \#09FA.
+@9.7
+His mother?!... He must know Lord \#09FA would not harm her, but how bold!
+@9.8
+\#0A05 seemed a cheerful, merry man, but this makes him look like an ambitious man who would sacrifice even his own family.
+@9.9
+The course of the realm will turn on which of those two faces wins out.
+@9.10
+Boss! They say Lord \#0205's mother has gone to Lord \#09FA as an envoy from \#1205.
+@9.11
+What, his mother?!... He must know Lord \#09FA would not harm her, but still...
+@9.12
+To \#1205, the \#11FA lands are enemy territory, so to speak. She could lose her life there.
+@9.13
+That shows how badly Lord \#0205 wants Lord \#09FA on his side.
+@9.16
+\%20205's mother has gone to \%201FA as an envoy from \%20205.
+@9.17
+What, his mother?!... He must know she will not be harmed, but how bold!
+@9.19
+After that much, even \%201FA will have to make a move.
+@11.0
+Lord \#024B, it seems the great lord of the \#11FA has unified Mikawa.
+@11.1
+Wonderful news... The long-held wish of his grandfather, Lord Kiyoyasu, has come true.
+@11.2
+Lord \#024B, it seems Mikawa now belongs to the \#11FA and \#10C3 clans.
+@11.3
+It would have been better if the \#11FA had unified it alone, but they cannot quarrel with their ally, the \#10C3.
+@11.4
+Still, with the enemy driven out of Mikawa, it is good news.
+@11.5
+Heh... It is too soon to celebrate. The Ikko rebels will not keep quiet...
+@11.6
+What? What do you mean, \%04049?
+@11.7
+Heh... You do not know? Mikawa is full of Ikko temples... Even among the \#11FA retainers there are many believers...
+@11.8
+I hear those Ikko rebels will soon attack the \#11FA clan.
+@11.9
+What?! Is that true?
+@11.10
+Would I lie...? I hear even the senior retainer \#0290 has joined the rebels.
+@11.11
+What! \%04290? Damn... If that is true, the great lord is in danger. I must warn him at once!
+@11.12
+Hold it, \#0A4B. Where do you think you are going?
+@11.13
+Where else? To help the great lord of the \#11FA...
+@11.14
+Do you think you can leave the village without the boss's leave and get away with it?
+@11.15
+Ngh...!
+@11.16
+Hothead... Well, you will just have to stand by and watch. Hahaha.
+@12.0
+...Feels murderous here.
+@12.1
+Of course... There might be a battle soon.
+@12.2
+What now...?
+@12.3
+Obviously... We sneak into the castle and ask Lord \#1290 directly.
+@12.4
+H-hold it. Not so fast.
+@12.5
+Bah, you wait here. I can finish the job alone. See you!
+@12.6
+Ah, \#0849! ...Tch, it cannot be helped.
+@12.7
+What, you followed me?
+@12.8
+I cannot let you go alone.
+@12.9
+Tch. You just do not want me to take all the credit?
+@12.10
+Hm! Who are you? \#11FA spies?
+@12.11
+Blast!
+@12.12
+No, these are... ninja! They say the \#11FA use Iga ninja! Everyone, get them!
+@12.13
+Damn, no choice. \#0A4B, let us fight our way out!
+@12.14
+Right!
+@12.15
+Gah...
+@12.16
+Ugh... I should have left you behind after all...
+@12.17
+Right, everyone, finish them off!
+@12.19
+And so \#024B, a ninja of the Iga village, vanished from history, an unknown creature of the dark...
+@12.20
+Phew... Looks like we got out somehow.
+@12.21
+This is what I get for working with you. I will look for Lord \#1290 alone. Stop following me!
+@12.22
+Ah... \#0849! Ugh... Hopeless fellow. Fine, I will search alone.
+@12.23
+Hmm... This area looks suspicious.
+@12.24
+Hm? Who goes there?
+@12.25
+Ah, \%04290!
+@12.26
+You are... \%0424B, who went to Iga, are you not? What brings you here?
+@12.27
+Well...
+@12.28
+Intruder! What are you doing to our leader?!
+@12.29
+Ah!
+@12.31
+\#11FA dog...! Take that!
+@12.35
+*pant*... Wait, Lord \#1290. I have not come to harm you.
+@12.36
+*pant*... Th-then what is your business?
+@12.37
+The truth is, our boss told me to find out what you really intend, Lord \#1290...
+@12.38
+......That is the situation.
+@12.40
+The boss ordered me to kill you if it came to that, but we were both \#11FA retainers once... I cannot raise a hand against you.
+@12.41
+Lord \#1290, what is going on? Did the rebels make you their figurehead, or do you mean to betray the great lord...?
+@12.42
+Heh heh heh... Hahaha!
+@12.43
+Wh-what is so funny?
+@12.44
+Very well... I will tell you the truth. Nobody made me a figurehead. If anything, I am the one who stirred up the uprising.
+@12.45
+What! Then you do mean to betray the great lord...?!
+@12.46
+Not at all... This is a stratagem.
+@12.47
+A stra... tagem?
+@12.48
+You know Mikawa has long had many Ikko followers.
+@12.49
+I had learned that those followers were up to something.
+@12.50
+So, after talking it over with the great lord... I, an Ikko follower myself, joined the rebels on purpose and stirred the faithful into rising.
+@12.51
+Wha......? And then?
+@12.52
+The rebels rose before they were ready, so they are poorly united... They will be easy to put down.
+@12.53
+The great lord can crush the rebels with a clear conscience and use it as a pretext to weaken the Ikko sect.
+@12.54
+I never imagined... that was your plan.
+@12.55
+I too believe in Amida... It pains me, but I cannot leave those who defy the great lord to run free.
+@12.56
+So... I volunteered for this role.
+@12.57
+I see... So that was the stratagem.
+@12.58
+But... if even \#02D9, boss of the Iga men, could not see through it, it will fool everyone else too.
+@12.59
+Hahaha.
+@12.60
+(So it was all a plot... What a frightening man.)
+@12.61
+...So there you have it. Explain things to your boss as well. Tell him not to worry.
+@12.63
+Now then, I must prepare for battle with the great lord... hahaha. Excuse me.
+@12.64
+...Good fortune in battle.
+@12.65
+Bah, I will just cross spears for show. Fortune has nothing to do with it. Well, take care of yourself.
+@12.67
+There he is! \#0290! Found you!
+@12.68
+Hm...? Who are you?
+@12.69
+No more talk! Your life is mine!
+@12.70
+\#0849! It is all right now. We have talked it out!
+@12.72
+I will tell you on the way back. Anyway, we are leaving. Lord \#1290, farewell!
+@12.73
+H-hey, wait! Hey!
+@12.74
+Hmm... A stratagem like that... But is it true? He is a slippery one... He may be lying.
+@12.75
+No doubt about it... He does love his schemes, but no one is more loyal to the great lord. You can trust him.
+@12.76
+Ha... Those born samurai do say lofty things.
+@12.77
+Stop wasting breath. We are going back to the village to report to the boss!
+@13.0
+Now, to report to the boss.
+@13.1
+...You did not do a thing, did you?
+@13.2
+...And that is what happened.
+@13.3
+Hm... Still, Lord \#0290 is a frightening man.
+@13.4
+We must never think we can outwit Lord \#1290.
+@13.5
+Indeed...
+@13.6
+Heh... What a grand scheme, eh?
+@13.7
+...\#0849 still does not quite understand, it seems.
+@13.8
+Well, never mind... Good work, both of you. You may go.
+@13.10
+\#024B and \#0049 gained merit.
+@13.11
+In \M001, month \M002, \#01FA put down the Ikko uprising in Mikawa.
+@13.12
+The poorly united Ikko faithful crumbled before the elite of the \#11FA clan...
+@13.13
+The Ikko rebels made peace with \#01FA on condition that their ruined temples be restored as they were...
+@13.14
+But \#01FA then ordered three Ikko temples in Mikawa burned and torn down.
+@13.15
+"Restored as they were"... to \#09FA, that meant returning the land to the open field it was before the temples stood.
+@13.16
+After this, the Ikko sect's power in Mikawa waned, and \#09FA made his rule of Mikawa secure...
+@13.17
+Meanwhile the \#10C3 army at \51E5 fled, and the \#11FA army took the empty castle of \51E5.
+@13.18
+The great lord of the \#11FA and Lord \#0290... perfectly in step, you might say. They took Mikawa with a masterful plot.
+@14.0
+Lord \#07FE! The boss is calling for you! Go to the boss's house at once!
+@14.1
+Right, understood!
+@14.2
+Boss, you called me so suddenly. What is the reason...?
+@14.3
+Yes. Word has come that \#01C1 of Kai has finally raised an army to march on the capital and is closing in on \A3A3 lands!
+@14.4
+What!! That \#09C1...
+@14.5
+It seems the great lord of the \#11FA means to meet him in battle...
+@14.6
+But against \#09C1, a hard fight is surely unavoidable.
+@14.7
+Hm... \#11C1's goal is the capital... He surely has no wish to destroy \A3A3. If only they would hole up in the castle and let him pass.
+@14.8
+But that would shame the warriors of Mikawa... I expect they will sally forth out of sheer pride.
+@14.9
+His retainers will not stand by and watch either... The great lord will have no choice but to march out.
+@14.10
+Do they have any chance of winning?
+@14.11
+Against the lay monk \#09C1, hardly... Right, \#0FFE! You should go to help as well.
+@14.12
+If you permit it, I would hurry to the great lord's aid this very moment.
+@14.13
+Yes... \#01C1 is a master of warfare such as the age rarely sees. Do not let him toy with you.
+@14.15
+Lord \#07FE! An important order from the boss!
+@14.16
+Yes, what is it!
+@14.17
+Word has come that \#01C1 of Kai has finally raised an army to march on the capital and is closing in on \A3A3 lands!
+@14.19
+And news has come that the great lord of the \#11FA means to meet him in battle.
+@14.21
+So the boss orders you to set out at once with reinforcements and help the great lord of the \#11FA!
+@14.22
+Oh! If I have his permission, I will hurry to the great lord's aid at once. Right, prepare to march!
+@15.2
+Good, the great lord has returned! Secure every gate of the castle!
+@15.13
+(What on earth is the great lord thinking...?)
+@15.39
+Even in defeat, \#0A4B and \D079 fought well. You have my thanks.
+@15.40
+You are too kind. Thank you, my lord.
+@15.41
+I will come again if anything happens. Now, I will take my leave.
+@15.42
+Yes. I am counting on you.
+@15.43
+But why did the \#11C1 army suddenly go back east after winning...?
+@15.44
+Was \#09C1 wounded? Or did he fall suddenly ill...?
+@16.0
+Have you heard? They say there is a band of thieves running wild, mostly around the Kinai.
+@16.1
+What kind of thieves?
+@16.2
+They say they use ninja arts, and even explosives.
+@16.3
+It is being hushed up to save face, but I hear some castles have had their treasuries broken into.
+@16.4
+Ninja arts? Must be \#0849's men.
+@16.5
+But... explosives too... What is he thinking?!
+@16.6
+Boss, the great lord of the \#11FA summons you.
+@16.7
+I see. I will go at once.
+@17.0
+Lord \#0FFE, welcome. Lord \#09FA is waiting for you. Come, this way.
+@17.1
+You must be Lord \#07FE. I am \#07F0. Lord \#09FA is waiting. This way.
+@17.2
+\#0FFE, welcome. I have a little favour to ask of you.
+@17.3
+Command me as you will.
+@17.4
+This task may be a little dangerous. Drink this medicine I brewed; it should restore your strength.
+@17.5
+You are most kind. Then...
+@17.6
+(Bitter...)
+@17.7
+You just thought, "bitter," did you not? Good medicine tastes bitter.
+@17.8
+Indeed, I feel my strength welling up!
+@17.9
+\#07FE's HP was fully restored.
+@17.10
+\#07FE's Valor rose by 1.
+@17.11
+\#07FE's HP was fully restored, and Valor rose by 1.
+@17.12
+The favour is this: I want you to go to the Nanban trading house in Hirado.
+@17.13
+The Nanban trading house in Hirado... You mean Lady \#042E's shop?
+@17.14
+You know Lady \#042E? Then this will be quick.
+@17.15
+The Nanban trading house in Hirado?
+@17.16
+Yes. Its owner, Lady \#042E, has sent word of something troubling.
+@17.17
+According to Lady \#042E's report...
+@17.18
+When a Nanban merchant ship was nearly wrecked, a band of men came to its aid.
+@17.19
+The Nanban merchants were grateful for the rescue, but when they checked after the band had gone,
+@17.20
+the weapons and ammunition in the cargo had all vanished.
+@17.21
+That is troubling.
+@17.22
+You will have heard too: lately a band of thieves using ninja arts and explosives has been causing a stir.
+@17.23
+According to Lady \#042E, they have recently been seen in Kyushu as well.
+@17.24
+I want you to go to Hirado and see what is going on.
+@17.25
+Yes, leave it to me.
+@17.26
+I am counting on you.
+@17.27
+Is that not \#0FFE? If you are here, Father must have asked you for something.
+@17.28
+Young lord, I trust you are well. Yes, he has.
+@17.29
+I see. Then I will give you this Bakuya.
+@17.30
+If Father is asking it of you, it must be dangerous. This should be of use.
+@17.31
+Such a fine thing... I am deeply grateful.
+@17.32
+I need hardly say it, but to use it you must [Equip] it.
+@17.34
+Obtained the Bakuya.
+@17.35
+I owe my good health to you as well. Do not lose your life.
+@18.0
+You are Lord \#11FA's envoy?
+@18.1
+Too late! It already got stolen!
+@18.2
+What?!
+@18.3
+The thieves go to the Kinai, they say.
+@18.4
+I see... Right, after them at once.
+@18.5
+Be careful, yes?
+@18.6
+If they headed for the Kinai, they will turn up in Kyoto or Sakai... Either way, I must hurry.
+@18.7
+Who are you people!
+@18.8
+What is going on?!
+@18.9
+Out of bullets, it seems. If you just do as we say, all will be well.
+@18.10
+Ngh...
+@18.11
+Oh, it is nothing much. Just hand over your ammunition to us. Free of charge, of course.
+@18.12
+Is that not Lady Lil? Then those facing her are the thieves!
+@18.13
+That woman must be the Lady \#042E I heard of... Then those facing her are the thieves!
+@18.14
+Come on, answer quickly, or we have other ideas.
+@18.15
+That is enough. I will be your opponent here.
+@18.16
+What! You must not value your life!
+@18.17
+Gurgh... Just one thing... What is your name...?
+@18.18
+\#07FE of Iga.
+@18.19
+So you are the Iga ninja the leader spoke of... Then... no wonder...
+@18.20
+You are Lord \#11FA's envoy, Lord \#17FE?
+@18.21
+That is right.
+@18.22
+You are Lord \#11FA's envoy, sir?
+@18.23
+That is right. I am \#07FE.
+@18.24
+Me is Lil Argot, master of this Nanban trading house. But never mind that!
+@18.25
+Thank you very much. You saved me.
+@18.26
+Whatever happened, I am glad you are safe.
+@18.27
+All the tough bodyguards I hire, those men beat them all.
+@18.28
+And you beat them all alone... You are true hero!
+@18.29
+I have thing fit for hero. I give it to you as thanks.
+@18.30
+This is splendid... I am grateful.
+@18.31
+Just to say, when you want use it, you must [Equip] it, okay?
+@18.32
+Understood.
+@18.33
+Obtained the Paladin's Armour.
+@18.34
+Now those men not come back for a while. They go back to Kinai, it seems.
+@18.35
+What do you mean?
+@18.36
+I hear it when I trade with Nanban trading house in Sakai.
+@18.37
+Lord \#042F's shop.
+@18.38
+Yes, \#042F's shop.
+@18.39
+A Nanban trading house in Sakai?
+@18.40
+There is Nanban trading house in Sakai too. Master's name is \#042F.
+@18.41
+They say men like those ones are lurking around \#042F's shop lately.
+@18.42
+I see. A Nanban trading house will have ammunition like this one. That is their target.
+@18.43
+From what my men find, their big boss is in Kinai.
+@18.44
+Yes, I understand. Thank you for this valuable news.
+@18.45
+If you need anything, come to Nanban trading house. Bye-bye!
+@18.46
+I should go to Sakai.
+@18.47
+Bl-blast...
+@18.48
+I will finish you off.
+@18.49
+Stop.
+@18.50
+Leader, you have come.
+@18.51
+L-leader...?
+@18.52
+Long time no see, \#0FFE. For old times' sake, I will send you to the next world with my own hands.
+@18.53
+Light and darkness are two sides of one coin. \#024B, who entered the dark to support \#01FA in the light,
+@18.54
+died at Hirado in \1006, month \1007, aged \1008...
+@18.60
+What you doing all this time?! You never come, so it got stolen!
+@18.62
+The thieves go to the Kinai, they say. Why not hurry up?
+@18.64
+(Lady \#042E, Lord \#17FE is Lord \#11FA's envoy. He may be a good customer.)
+@18.65
+(Right. I say too much.)
+@18.66
+Oh, so sorry. I say too much. My Japanese not perfect, you know.
+@18.67
+If you need anything, come to Nanban trading house.
+@18.68
+Bye-bye!
+@18.69
+Lady \#042E has gone.
+@18.70
+Anyway, if they headed for the Kinai, they will turn up in Kyoto or Sakai... Either way, I must hurry.
+@19.0
+I must hurry to the Nanban trading house where Lord \#042F is.
+@19.1
+No matter how much I ask, you will not listen?
+@19.2
+Ask? You say you blow up this shop if I do not give ammunition. How is that asking?
+@19.3
+Stop!!
+@19.4
+Can it be that you are Lord \#07FE of Iga?
+@19.5
+I am.
+@19.6
+If you are here, then Hirado was a failure.
+@19.7
+So you too are part of that band of thieves.
+@19.8
+I am. Will you not join us as well?
+@19.9
+I refuse.
+@19.10
+Just the answer I expected. Then show me the strength of the boss of Iga!
+@19.11
+Guhh... Impressive...
+@19.12
+Where is \#0849?!
+@19.13
+Heh heh... You will meet him soon enough... Urgh.
+@19.15
+Thank you, Lord \#17FE.
+@19.16
+Thank you. You saved me. Um, your name, please?
+@19.17
+I am \#07FE.
+@19.18
+My name is Rafael.
+@19.19
+That thief, he talk like Lord \#17FE know the thieves' leader.
+@19.20
+I am not without an idea who it might be...
+@19.21
+Lord \#042F, are you all right?!
+@19.22
+Ah, Lord \#01E0. Thanks to Lord \#17FE, I am fine.
+@19.23
+Why, Lord \#17FE! A Buddha in hell, truly.
+@19.24
+Has something serious happened?
+@19.25
+Yes, something terrible. They say the plans of \41DE have been stolen.
+@19.26
+What! If they fall into the thieves' hands...
+@19.27
+Exactly. Sneaking into \41DE will be easy.
+@19.28
+And I thought they would surely use explosives to cause trouble, so I came to see if this place had been attacked.
+@19.29
+\#0849, what are you up to? Wait, now that I think of it...
+@19.30
+The demon I will slay is not only \#08C3. I will slay every demon who tramples people as he did.
+@19.31
+The thieves may try to harm Lord \#1205.
+@19.32
+What?!
+@19.33
+Or they may only pretend to, and steal treasure instead.
+@19.34
+Maybe they make us think they go to \41DE and attack somewhere else...
+@19.35
+Then all we can do is tighten our guard... I will see to it at once.
+@19.36
+I told Lord \#11E0 it might be a feint, but \#0849's real target must be Lord \#1205.
+@19.37
+\#0849 is sure to appear at \41DE.
+@19.38
+Boss, terrible news.
+@19.40
+They say the plans of \41DE have been stolen.
+@19.45
+\#0849's target must be Lord \#1205.
+@19.46
+\41DE...... I do not want to fight him, but I must settle things with \#0849 there.
+@19.48
+I bear you no grudge. In fact, I respect your strength.
+@19.49
+Our leader wished to meet you too. Leader, over here.
+@19.53
+died at Sakai in \1006, month \1007, aged \1008...
+@20.0
+Who goes there?
+@20.1
+I am \#07FE of Iga. I have something to tell Lord \#1205.
+@20.2
+Wh-whoa! What is happening?!
+@20.3
+\#0849 has made his move. Lord \#1205 is in danger.
+@20.4
+I am terribly sorry for the commotion.
+@20.5
+What was that explosion? A commotion like that will wake Lord \#1205, who has retired for the night.
+@20.6
+I do not know. Someone has gone to look, so please wait a moment.
+@20.7
+Find out the cause at once.
+@20.8
+What was that noise?
+@20.9
+Hm? Who are you?
+@20.10
+\#0049, at your service. I have come for your life.
+@20.11
+If the Plover Censer had not sung, I would have had your life already...
+@20.12
+What, you mean to kill me?!
+@20.13
+That is right. Now, die!
+@20.14
+Guards! An intruder! Guards, guards!!
+@20.15
+No use. I set off that explosion, so most of your guards went to look.
+@20.16
+The ones who stayed behind are having a little nap.
+@20.17
+Ngh, you used the explosion as a decoy to go after the head of \#0A05!
+@20.18
+That is right. Taking the life of the ruler of the realm is a job only the great thief \#0049 could do.
+@20.19
+You...!
+@20.20
+\#0849, that is enough.
+@20.21
+Ah, \#0FFE.
+@20.22
+I knew it. I thought you would come, \#0FFE. I will send you to the underworld before \#0A05.
+@20.23
+Urgh... As expected of the boss of the Iga men... A pity, a real pity.
+@20.24
+A pity?!
+@20.25
+Have you forgotten the Iga War?! However hard you serve, one day they will fear you and cast you aside.
+@20.26
+That is the fate of a ninja. If not you, then your children, and if not them, your grandchildren.
+@20.27
+\#0849... I do not believe in fate. There are only the results of what we do.
+@20.28
+If we are shunned, that too will be the result of what we do.
+@20.29
+You fool!! In the end, men of power see us only as pawns to use and throw away!
+@20.30
+Lord \#0A05, are you unharmed?
+@20.31
+Oh, I am fine, I am fine. Thanks to \#0FFE.
+@20.32
+\#0FF0, arrest those thieves.
+@20.34
+\#0FFE, well done. You have my praise.
+@20.36
+...Lord \#0A05, I have a request...
+@20.37
+Say no more. That I cannot grant.
+@20.38
+You and \#0849 once fought side by side. That is why you want to save him, is it not?
+@20.40
+I am the one who holds the realm together. He tried to assassinate me, so I cannot spare him.
+@20.41
+Strike down the one with the power to govern the realm, and the realm falls into chaos. Those who bring chaos must be struck down.
+@20.43
+That \#000E, not knowing his own limits, rebelled against Lord \#00C3. That is why I struck him down.
+@20.44
+So I cannot grant your request. You may go.
+@20.46
+I will ask once more, through Lord \#09FA.
+@20.47
+Please give this letter to Lord \#09FA.
+@20.50
+That is enough.
+@20.51
+Light and darkness are two sides of one coin. \#024B, who entered the dark to support \#01FA in the light,
+@20.52
+stood against \#0049's thieves to save \#0205, the most powerful man of the age, but fell, his strength spent.
+@20.53
+\1006, month \1007, aged \1008...
+@20.54
+With \#0205 assassinated by \#0049, the Sengoku age sank deeper into chaos once more...
+@21.0
+Have you heard? That great thief \#0049 is finally going to be executed.
+@21.1
+They say he tried to harm Lord \#1205.
+@21.2
+They say he will be boiled alive at the Sanjo riverbank.
+@21.3
+Anyway, I will go to the execution ground.
+@21.14
+\#0849, do you not value your life?
+@21.15
+Huh? I have no intention of begging for my life now.
+@21.16
+Rulers of the realm only bring people misery. Why is it wrong to cut one down?! Gahaha.
+@21.17
+But it is because there is a ruler that the realm is at peace.
+@21.18
+And how many people are made miserable for it? Next to a ruler who steals lives, wealth and whole lands, I am small fry.
+@21.19
+The greatest thief in the land is the ruler of the land. Lord \#11FA is after the next turn as ruler. He is no different.
+@21.20
+(......The great lord even made Lord \#09FB commit seppuku. If it came to it, the men of Iga would be nothing to him......)
+@21.21
+(But even if I save \#0049 here, all Japan would turn against us.)
+@21.22
+(What should I do? Should I save \#0849?)
+@21.23
+Save \#0849
+@21.24
+Do not save \#0849
+@21.25
+All right, I am breaking with the \#11FA. And with you, I will make Iga great.
+@21.26
+Do you mean it? Then I will lend you my strength.
+@21.27
+Right, let us get out of here.
+@21.28
+Not so fast.
+@21.29
+\#0049 is weak. I must fight alone here!
+@21.30
+We cannot let the great thief escape.
+@21.31
+You will not get away.
+@21.32
+\#0FFE, I will let you go this time, but you are no longer an ally of the \#11FA.
+@21.33
+Great lord... farewell.
+@21.35
+...\Z001, forgive \#0FFE for dying here... I leave \D079 to you... In the next life, with you again...
+@21.36
+\#0FFE, why? Why?!
+@21.37
+\#07FE failed to rescue \#0049 and was boiled alive with Goemon. \1006, month \1007, aged \1008...
+@21.38
+"Though the sands of Ishikawa's shore run out, the seeds of thieves will never run out." So ran \#0049's death poem.
+@21.49
+(Did I not swear to serve Lord \#09FA, come what may? I cannot betray Lord \#09FA.)
+@21.50
+...\#0849, farewell.
+@21.51
+Farewell. Take care of Iga for me.
+@21.52
+\#0049 was boiled alive.
+@21.53
+"Though the sands of Ishikawa's shore run out, the seeds of thieves will never run out." So ran \#0049's death poem.
+@21.54
+Farewell, \#0849.
+@21.55
+Whatever happens, I will serve Lord \#09FA.
+@21.56
+I see. It is your life. So be it.
+@21.57
+You walk your own path. I will see mine through here.
+@21.58
+...I see. Farewell.
+@21.59
+Farewell.
+@21.60
+......\#0FFE, stay alive.
+@23.0
+Lord \#17FE, Lord \#01FB has become lord of \51E5 Castle.
+@23.1
+That is good news. I hear Lord \#09FB is a man of great ability. He will surely become a wise general.
+@23.2
+...In fact, there are disturbing rumours about Lord \#09FB.
+@23.3
+Disturbing news?
+@23.4
+They say Lord \#09FB is in secret contact with \#11BF.
+@23.5
+Lord Nobuyasu, of all people, would never do such a thing.
+@23.6
+But \#09FB could be made the figurehead of a plot without knowing it himself.
+@23.7
+If Lord \#10C3 learned of it, with his temper, it would not end quietly.
+@23.8
+Exactly. Nothing must come between Lord \#10C3 and Lord \#01FA now.
+@23.9
+You should look into \51E5 Castle when you get the chance.
+@24.0
+Lord \#17FE, Lord \#09FA calls for you on an urgent matter.
+@24.1
+Understood.
+@24.2
+Lord \#07FE, someone has seen what looked like a \#11BF spy near \51E5 Castle.
+@24.3
+What! I must hurry to \51E5 Castle.
+@25.0
+They say something is stirring at \51E5 Castle... Hm?! That is...
+@25.1
+Wait, \#0FF0, is it not...? Why has a Suppa ninja like you come out of \51E5 Castle?!
+@25.2
+Lord \#17F0, explain why a man of the Takeda house came out of \51E5 Castle!
+@25.3
+...An Iga man? Thank you for your service.
+@25.4
+(Suspicious fellow. I will put on an act.)
+@25.5
+\#11BF's plot has already been exposed.
+@25.6
+If you had let me pass in silence, you would have lived... Your life is mine.
+@25.7
+S-so this is the end... Lord \#09FA, Boss, forgive me...
+@25.19
+Give up.
+@25.20
+*Thud*
+@25.21
+Investigating the plot around \#01FB, \#07FE found a suspicious man...
+@25.22
+but was struck down by the enemy band and met a sorry end.
+@25.23
+It was in \M001, month \M002. \#07FE, aged \1008...
+@25.24
+The head was taken from the body, and no one ever knew it was \#07FE as it rotted away.
+@25.25
+That is enough...
+@25.26
+*BOOM*
+@25.27
+He got away...
+@25.28
+Still, to think a Takeda spy has already slipped into \51E5 Castle.
+@25.29
+I must let Lord \#09FB know.
+@25.30
+Young lord, excuse me.
+@25.31
+Is that not \#0FFE? What is it?
+@25.32
+Young lord, excuse me. I am \#07FE of Iga.
+@25.33
+So you are \#0FFE. I have heard your name from my father.
+@25.34
+First, please send everyone away.
+@25.35
+Do not worry. Only Toku is here now.
+@25.36
+My lord, who is this?
+@25.37
+\#07FE of Iga. He is no suspicious man.
+@25.38
+I have heard he works as a ninja on my father-in-law's orders.
+@25.39
+It is an honour for \#0FFE to see your ladyship's face.
+@25.40
+So, \#0FFE, what is it?
+@25.41
+Young lord, have you heard the disturbing rumours about \51E5 Castle?
+@25.42
+What?! Disturbing rumours about \51E5 Castle? What rumours?
+@25.43
+That there is someone in \51E5 Castle in secret contact with the Takeda.
+@25.44
+What?! Do you believe such baseless nonsense, \#0FFE?
+@25.45
+Before coming here, I fought a Takeda spy.
+@25.46
+What!! Can it be...
+@25.47
+Their aim is probably...
+@25.48
+Enough, say no more. Their aim must be to drive a wedge between Father and me and make me turn traitor.
+@25.49
+To do that, they will try to trap you, young lord, with no way out.
+@25.50
+Yes. I will never let the likes of the Takeda take advantage of me, but lend me your strength from now on too.
+@25.51
+If... by some chance, I, \#09FB, fall into an enemy trap with no way out, I will cut my belly rather than turn against Father.
+@25.52
+How terrible... \#0FFE, please protect my lord from such plots.
+@25.54
+Then, excuse me.
+@25.55
+Is that not \#0FFE? What brings you here?
+@25.56
+Ah, Lord \#1048. I was nearby, so I came to pay my respects to the young lord.
+@25.57
+Oho, I see.
+@25.58
+I have just paid my respects to the young lord. His wisdom grows ever brighter. I have no doubt the \#11FA future is secure.
+@25.59
+It must be thanks to his lady mother's careful upbringing.
+@25.60
+Since the great lord could not raise him at his side, his lady mother raised him well.
+@25.61
+Is that so? I am relieved.
+@25.62
+I had heard rumours that his lady mother bears a grudge over the great lord's alliance with Lord Oda.
+@25.63
+...It is true, his lady mother is of Imagawa blood, so there seems to be some resentment.
+@25.64
+That is troubling. Could that resentment not turn against the great lord?
+@25.65
+\#0FFE, that is rude.
+@25.66
+I humbly beg your pardon. I say it only out of concern for the \#11FA.
+@25.67
+Do not worry. Her love for the young lord seems far greater than that resentment.
+@25.68
+Lord \#1048, here you are. Please come quickly.
+@25.69
+I know, I know. I have work to do, so I will take my leave.
+@25.70
+Now that I think of it, Lady \#0445, the great lord's wife and the young lord's mother, lives here. I would like to pay my respects...
+@25.71
+Is that not Lord \#114C? What luck to meet you here.
+@25.72
+Lord \#114C, I am \#07FE of Iga.
+@25.73
+\#0FFE, what is it?
+@25.74
+I was nearby, so I came to pay my respects to the young lord.
+@25.75
+I would like to pay my respects to his lady mother too. Could you introduce me?
+@25.76
+...His lady mother is very proud. It may be difficult.
+@25.77
+But since it is your request, \#0FFE, I cannot refuse. I will do what I can.
+@25.78
+My lady, \#07FE of Iga has come to pay his respects.
+@25.79
+I am \#07FE.
+@25.80
+I had no wish to meet someone of such low birth as you.
+@25.81
+I only met you because \#094C insisted.
+@25.82
+Besides, did you not meet that Oda girl before coming to me?
+@25.83
+I humbly beg your pardon.
+@25.84
+No, I will not forgive you. I am displeased. Leave now.
+@25.85
+...I am sorry. Her ladyship is a proud woman.
+@25.86
+No, please do not mind it.
+@25.87
+Being of Imagawa blood, she bears a grudge against the Oda.
+@25.88
+Her ladyship has heard that you support the \#10C3-\#11FA alliance from the shadows.
+@25.89
+I only hope her pride does not drag the great lord down...
+@25.90
+Naturally, she must not get along with Lady \#0446 either.
+@25.91
+Not at all. Because of it, there was a time when even the young lord and his wife were at odds.
+@25.92
+I have said too much. Keep it to yourself. Then, excuse me.
+@25.93
+Wait, \#0FFE.
+@25.94
+Ah, my lady. What is it?
+@25.95
+There is something I wish to tell you. There was a time when I misjudged my lord.
+@25.96
+Misjudged, my lady?
+@25.97
+I thought him rough and unkind.
+@25.98
+But I was wrong. I had closed my heart to my lord, so he closed his heart to me.
+@25.99
+If the misunderstanding is cleared up now, then there is no problem.
+@25.100
+No. Back then I sent a letter to my mother in the \#10C3 house.
+@25.101
+A letter saying that my lord was coarse and unkind.
+@25.102
+...That is...
+@25.103
+My father is merciless in his pursuit of the realm. If he thought my lord stood in his way, he would remove him at once.
+@25.104
+If Father learned that someone here was in contact with the Takeda, my letter would be the perfect evidence.
+@25.105
+I do not want my father to kill my husband! I want to stay with my lord to the end!
+@25.106
+Princess Toku...
+@25.107
+I beg you, \#0FFE. Crush this plot!
+@25.108
+I, \#0FFE, will stop it, even at the cost of my life.
+@25.109
+For now, I had better bring this to the great lord's ear at \51E6 Castle.
+@26.0
+Who are you?
+@26.1
+\#07FE of Iga. Please announce me to the great lord at once.
+@26.2
+Forgive me. I will announce you at once.
+@26.3
+What is it, \#0FFE?
+@26.4
+Great lord, do you know that something is stirring at \51E5 Castle?
+@26.5
+\#07FE told \#01FA what he had found at \51E5 Castle.
+@26.6
+The Takeda spies at work, what Nobuyasu said, what Princess Toku said... \#09FA listened earnestly to it all.
+@26.7
+\#0FFE, good work. You did well to tell me.
+@26.8
+You are too kind, my lord.
+@26.9
+It may be a father's bias, but \#09FB has fine qualities.
+@26.10
+Indeed, my lord.
+@26.11
+But he is still inexperienced in everything. I will act on this matter myself, but I want you to do one more job.
+@26.12
+I humbly accept.
+@26.13
+The Takeda will surely slip into \51E5 Castle again.
+@26.14
+In open battle, the warriors of Mikawa do not lose easily.
+@26.15
+But they are not good at dealing with attacks from behind by ninja.
+@26.16
+You are all I can rely on. I am counting on you, \#0FFE.
+@26.17
+Yes! Then I will take my leave.
+@26.18
+I should go to \51E5 Castle soon.
+@27.1
+That was \#07F0. I will follow him.
+@27.2
+Suspicious fellow... I will follow him.
+@27.3
+He went into Lady \#0445's residence. Shall I sneak inside?
+@27.4
+\#07FE sneaked into \#0445's residence.
+@27.5
+Lady \#0445, I trust you are well...
+@27.6
+Enough greetings. So, what is Lord \#09BF's answer?
+@27.7
+Lord \#09BF is truly delighted with your proposal, Lady \#0445.
+@27.8
+Of course, of course. When the \#11BF army attacks, I will hand over this \51E5 Castle whole.
+@27.9
+Only, Lord \#09BF wonders why Lady \#0445, the wife of the \#11FA lord, would make a proposal that endangers the \#11FA.
+@27.10
+Lord \#09BF misunderstands. I believe friendship with the \#11BF is good for the \#11FA.
+@27.11
+But is Lord \#09FA not allied with the \#10C3?
+@27.12
+Allying with the likes of the \#10C3 is my lord's mistake. They may thrive for a time, but a fool is a fool in the end.
+@27.13
+Once the likes of \#08C3 lose momentum, they are sure to tumble down like a stone rolling downhill.
+@27.14
+What! Exactly what Lord \#09BF thinks.
+@27.15
+Anyone with foresight thinks so. I will not let my lord's mistake drag Lord \#09FB down with him.
+@27.16
+Someday my lord will wake up. The \#11FA must not perish.
+@27.17
+I am moved by a mother's love for her child and her loyalty to the house. And the written oath?
+@27.18
+Here it is. Be sure it reaches Lord \#09BF.
+@27.19
+Leave it to me.
+@27.20
+Lady \#0445 is in contact with the \#11BF...!? That letter must not reach the \#11BF. I must get it back at all costs!
+@27.21
+Is that not \#0FFE? Paying your respects to the young lord again? Hahaha.
+@27.22
+And what brings you here, Lord \#1048?
+@27.23
+Gifts have arrived from the \#10C3 house, and I am seeing them off.
+@27.24
+The envoy was such an amusing fellow, too. He had everyone hanging on his words.
+@27.25
+My, that gentleman knows how to win people's hearts. I was impressed.
+@27.26
+He said he would stay in the town of Okazaki for a few days this time.
+@27.27
+(This is no time to be listening to such talk.)
+@27.28
+Lord \#1048, I am in the middle of a delivery myself. Excuse me.
+@27.29
+Ah, Lord \#17FE.
+@27.30
+A question: did anyone suspicious pass this way?
+@27.31
+No, no one like that has passed.
+@27.32
+Ah, the envoy from the \#10C3 house passed by.
+@27.33
+They say he has other business too, and will stay in the town of Okazaki for a few days.
+@27.34
+I see. (It seems there is no other spy.)
+@27.36
+That is... a Takeda agent. He will not get away.
+@27.37
+Stop. I cannot let you go back to the \#11BF like this.
+@27.38
+Tch, no help for it now that I have been found out. You will have to die.
+@27.39
+S-so this is the end...
+@27.58
+*Shunk*
+@27.59
+Gurgh... In a place like this...
+@27.60
+Right, let me find the letter.
+@27.61
+But however hard \#07FE searched, the secret letter could not be found.
+@27.62
+What is going on? Why is the letter not here?
+@27.63
+*Rustle*
+@27.64
+What was that? Another spy?
+@27.65
+\#0FFE, there you are. I have something to show you.
+@27.66
+With that, \#0049 held out a different letter.
+@27.67
+It was a letter \#0446 had sent to her parents.
+@27.68
+What do you make of this?
+@27.69
+From the look of it, she must have entrusted it to the \#10C3 envoy who just left.
+@27.70
+Surely he did not just forget it.
+@27.71
+No... that cannot be... Hm?! What if it was not forgotten, but switched...
+@27.72
+This is bad. \#0FFE, we must get to the town of Okazaki at once!
+@27.73
+What is it?
+@27.74
+To trap the young lord with no way out, the \#11BF must mean to send Lord \#10C3 firm proof of the secret dealings.
+@27.75
+What?! Clever... With Lord \#08C3's temper, he will never forgive Lord \#09FB.
+@27.76
+And then they will win over the young lord once he is cornered.
+@27.77
+Even if they cannot win over the young lord, they can still drive a wedge into the \#10C3-\#11FA alliance.
+@27.78
+If so, we must catch up with the \#10C3 envoy in the town of Okazaki quickly!
+@27.79
+Yes, we must hurry.
+@28.0
+If the \#10C3 envoy is not here, all is lost.
+@28.1
+Lord \#17FE, I have been waiting for you.
+@28.2
+So the envoy from the \#10C3 house to the \#11FA house this time was you, Lord \#1205?
+@28.3
+Are you not looking for the envoy from the \#10C3 to the \#11FA?
+@28.4
+I am.
+@28.5
+As I thought. I have been waiting for you.
+@28.6
+"Waiting for me"... What do you mean?
+@28.7
+You must know without my saying. Here it is.
+@28.8
+What \#0205 held out was the written oath of betrayal in \#0445's hand.
+@28.9
+Lady \#0446 would never write such a letter.
+@28.10
+What I received was Lady \#0446's letter. If I do not deliver it, my lord will scold me.
+@28.11
+Lord \#1205... I am grateful. Lady \#0446's letter is here.
+@28.12
+Let me see... ............ Yes, that is Lady \#0446's hand, no doubt.
+@28.13
+Now my lord will not scold me. My thanks.
+@28.14
+Lord \#1205... I am grateful... Thank you.
+@28.15
+Hurry to Lord \#11FB. My business here is done.
+@28.16
+Odd fellow. Well, Lord \#09FB is saved. Hurry and report.
+@28.17
+Now then, the Oda agents are...
+@28.18
+That group, it seems.
+@28.19
+Right. Wait here a while.
+@28.20
+Hey, I have switched them.
+@28.21
+What \#0049 held out was the written oath of betrayal in \#0445's hand.
+@28.22
+You switched them already?
+@28.23
+With my skill, it was easy.
+@28.24
+Now Lord \#09FB is saved. Hurry and report.
+@28.25
+Right. I must go to Lord \#09FB.
+@29.0
+Ah, Lord \#07FE. My lord is waiting. This way.
+@29.1
+\#0FFE, welcome. So, how did it go?
+@29.2
+It went well. All that remains is to make sure your lady mother never engages in secret dealings again...
+@29.3
+Lord \#09FB, I am coming in.
+@29.4
+Ah, Mother. Welcome. But please wait outside for now.
+@29.5
+I will not. Who is this person anyway? Some lowly ninja, no doubt.
+@29.6
+Even from you, Mother, that is going too far. This man has my father's deep trust...
+@29.7
+Lord \#09FA's deep trust? Lord \#09FA, who has sunk to being \#08C3's dog?
+@29.8
+And the dog's lackey must be very good at tricks, I am sure.
+@29.9
+Mother, I will not allow you to say any more.
+@29.10
+Lord \#09FB, why do you not understand your mother's heart? Lord \#09FA has lost his mind and allied with that Fool of Owari.
+@29.11
+A fool is a fool in the end. He is bound to fall soon. Then what do you think will become of the \#11FA?
+@29.12
+Do you not understand my heart, which puts the house first and you first, Lord \#09FB?
+@29.13
+I do not! To mock not only Father but my father-in-law too... Mother, you are mad.
+@29.14
+What, your mother is mad?! ...Hohoho, perhaps so.
+@29.15
+Since nothing else works, I resort to force. Perhaps that is madness... Come out.
+@29.16
+Takeda assassins!
+@29.17
+You are about to die here. You need not know.
+@29.18
+Cut down \#0FFE.
+@29.19
+I will not permit such things in my castle.
+@29.20
+Lord \#09FB, have you no intention of siding with the Takeda?
+@29.21
+None. I could never take up arms against my father. If it comes to it, I will cut my belly.
+@29.22
+Then I will take your life too, Lord \#09FB.
+@29.23
+Wait, wait! What is the meaning of this?
+@29.24
+Young lord, stand back! Leave this to me.
+@29.25
+Men, to me! Shoot, shoot!
+@29.26
+S-so this is the end... Curses.
+@29.27
+\#0FFE, \#0FFE! Hold on!
+@29.38
+...Young lord, you are unharmed... Good...
+@29.39
+Yes, I am fine. All thanks to \#0FFE.
+@29.40
+Young lord, please tell my wife: your husband was the man who protected Lord \#01FB. Be proud of him.
+@29.41
+Yes, I will tell her. I will be sure to tell her. So do not die.
+@29.42
+And I... you...
+@29.43
+Me... what?
+@29.44
+...Y-you.........
+@29.45
+!! \#0FFE, what is it? \#0FFE!!
+@29.46
+To \#07FE, whose life was slipping away, \#01FB's cry sounded only faintly.
+@29.47
+\M001, month \M002. \#07FE died, aged \1008...
+@29.48
+\#0FFE, well done. You have my thanks.
+@29.49
+Is the young lord unharmed?
+@29.50
+Yes, not a scratch. Thanks to you.
+@29.51
+\#0FFE, I thank you as well. Without you, Lord \#09FB would not have come out unharmed.
+@29.52
+I was a fool to trust the \#11BF. Lord \#09FA was right after all.
+@29.53
+Lord \#09FB, I have lost. I thought Lord \#09FA was wrong and waged my own war, but I have lost.
+@29.54
+Mother?
+@29.55
+Having lost, I am tired. Being tired, I will rest.
+@29.56
+I pray for your fortune in battle, Lord \#09FB.
+@29.57
+*Stab*
+@29.58
+Motheeer!
+@29.59
+This is right, this is as it should be. The crime of trying to betray Lord \#09FB... cannot... be forgiven...
+@29.60
+Tossed about by fate in the Sengoku age, \#0445 ended her turbulent life, aged \1008...
+@29.61
+\#0FFE, well done. Do not trouble yourself about my mother.
+@29.62
+What happened to my mother is due to my own immaturity.
+@29.63
+Lord \#09FB...
+@29.64
+I, \#09FB, am still green, and may cause you more trouble yet, but I am counting on you.
+@29.65
+Yes, my lord! Then, excuse me.
+@29.66
+\#09FB used this affair to root out everyone in league with the \#11BF and punished them all.
+@29.67
+Ah, Lord \#07FE. The young lady is waiting. This way.
+@29.68
+Where is the young lord? Rest assured, there is nothing more to worry about.
+@29.69
+\#0FFE, welcome. But you are too late.
+@29.70
+"Too late"?
+@29.71
+Princess Toku began to speak. According to her...
+@29.72
+When a \#11BF spy pressed \#09FB, through \#0445, to betray his father, \#09FB refused.
+@29.73
+He fought back, meaning to capture the \#11BF spy himself, but was struck down instead.
+@29.74
+Despite the desperate nursing of \#0446 and others, he breathed his last just before \#07FE arrived.
+@29.75
+It was in \M001, month \M002. \#01FB, aged \1008...
+@29.76
+And \#0445, who had brought it all about, took her own life right after \#09FB fell.
+@29.77
+\#0445, plaything of fate in the Sengoku age, aged \1009...
+@29.78
+I am so sorry. If only I had come back sooner...
+@29.79
+\#0FFE, it is all right. You have done much for us.
+@29.80
+Without your work, my lord might have been branded a traitor and made to commit seppuku.
+@29.81
+Thank you for everything. I thank you on my lord's behalf.
+@29.82
+You are too kind...
+@29.83
+From now on, please give your all for Lord \#09FA.
+@29.84
+My lord... my lord would surely have said the same.
+@29.85
+Yes, my lady!
+@29.86
+Lord \#09FB......... Farewell.
+@29.87
+I was curious, so I dropped by. It seems it went well?
+@29.88
+Yes, it went well.
+@29.89
+\#0FFE, they say Lord \#09FB has died. Is that true?
+@29.90
+.........It is true.
+@29.91
+...There is something that worries me. \#08C3 killed even his own brother to take over his house, and has killed every enemy he has had.
+@29.92
+If he decides the men of Iga are his enemy, he may reach out for the Iga village too.
+@29.93
+Surely... he would not...
+@29.94
+Can you say he will not? He just might.
+@29.95
+You had better think about that too. Then, excuse me.
+@30.1
+\#0FFE, welcome. The truth is, I have a favour to ask of you.
+@30.2
+Anything, if it is in my power.
+@30.3
+What I want to ask concerns \#09FB.
+@30.4
+The other day an envoy came from Lord \#08C3. He says \#09FB is in league with the \#11BF and must commit seppuku.
+@30.5
+Wh-what!! That must be a false charge...
+@30.6
+He says it began with a letter Princess Toku sent, but that is only the pretext. He has probably got hold of firm proof.
+@30.8
+Since he has ordered \#0445 to die as well as \#09FB, the one in league must have been \#0445.
+@30.9
+It was \#09FA's blunder. \#09FB would have stood on his own as a fine general...
+@30.10
+But \#0445 hated Lord \#08C3 and hated \#09FA for allying with Lord \#08C3. Keeping her in the same castle was \#09FA's mistake.
+@30.11
+Forgive me, \#09FB!!
+@30.13
+\#01FA broke down in tears. It was a sight he surely never showed his retainers.
+@30.14
+\#07FE understood that the feelings he had held back until now had burst out.
+@30.15
+After giving vent to his feelings for a while, \#01FA regained his usual calm.
+@30.16
+\#0FFE, what I ask of you is none other than to be \#09FB's second.
+@30.17
+Great lord, what did you say?
+@30.18
+I want you to be \#09FB's second.
+@30.19
+Great lord, I beg you, spare me that one duty!
+@30.20
+That I cannot. If I could, I would do it myself, but that is not possible.
+@30.21
+And only through you can my feelings reach \#09FB.
+@30.22
+Only through me can your feelings reach the young lord... What do you mean, my lord?
+@30.23
+That is... no, you need not understand. You are the only one I can entrust my feelings to.
+@30.24
+I beg you.
+@30.25
+I beg you. I can entrust it to no one but you...
+@30.26
+......Yes, my lord.
+@30.27
+\#09FB is already waiting. Shall we go?
+@30.28
+Young lord...
+@30.29
+So \#0FFE is to be my second. Hahaha, I am glad. I have no more regrets in this world.
+@30.30
+Young lord, do not say such things...
+@30.31
+\#0FFE, do you not see why Father chose you?
+@30.32
+Forgive me, I have no idea at all.
+@30.33
+You went to great pains for me this time. So you know of my innocence better than anyone in the house.
+@30.34
+There is not a single stain on you, young lord.
+@30.35
+Father made you my second because he believes in my, \#09FB's, innocence.
+@30.36
+\#0FFE, you went to Iga for the sake of the \#11FA, knowing what it would cost.
+@30.37
+Father choosing someone like you as my second means he did not give this order because he doubted me,
+@30.38
+but because it was the conclusion he reached thinking of the whole \#11FA house.
+@30.39
+My regret was that I would die with Father thinking me a traitor.
+@30.40
+But knowing that Father believes in me, I have nothing left to regret.
+@30.43
+Father... you have said it. \#09FB was happy to be your son. Now, farewell...!
+@30.44
+Young lord, forgive me. I cannot, I cannot do it.
+@30.45
+\#0FFE, I beg you. Without you, I cannot set out for the next world.
+@30.46
+\#0FFE, take care of Father from now on... Ugh.
+@30.47
+Young looord!!
+@30.52
+\#0FFE, so Lord \#09FB did commit seppuku after all.
+@30.54
+\#08C3 killed his brother to take over his house, and now has driven his son-in-law to his death.
+@30.55
+Someday he may reach out for the Iga village too.
+@32.20
+With the backing of \#00C3, \#001D became Shogun without trouble and made \51E5 his seat.
+@35.0
+\%03! Lord \#017B has been destroyed by Lord \#0205!
+@35.1
+It seems Lord \#097B set fire to the keep of \51E6 and took his own life!
+@35.2
+Terrible news! Have you heard? They say Lord \#017B has been destroyed by Lord \#0205.
+@35.3
+They say Lord \#097B set fire to the keep of \51E6 and took his own life!
+@35.4
+What! Then the realm goes to \%04205...
+@35.5
+In \M001, \#017B's main castle, \51E6, fell to \#0205's attack.
+@35.6
+\#017B took his own life inside the castle together with his wife, Oichi.
+@35.7
+The balance of the realm tilted ever more toward \#0205.
+@35.8
+\#017B took his own life inside the castle.
+@36.0
+Hm! Who goes there!
+@36.1
+Easy... I am an Iga man too. Is the boss of the \#12D9 here? Tell him the son of Hattori Yasunaga has come.
+@36.2
+What! Then you are... Lord Hattori Hanzo Masanari?
+@36.3
+I am... Now, take me to the boss.
+@36.4
+Yes! Please wait a moment...
+@36.5
+\#0A4B, welcome. I have heard the story from the great lord of the \#11FA.
+@36.6
+I am in your hands...
+@36.7
+Hm... Your father Hanzo left for Mikawa to become a samurai... and now his son comes fluttering back to Iga. How ironic.
+@36.9
+But even if you are an old face returning, you get no special treatment. We will train you as a newcomer, so be ready.
+@36.11
+Our band serves the \#11FA clan, but we also take jobs from other powers. You will do that kind of work too.
+@36.13
+\#0849, are you there!
+@36.14
+Yes... Here.
+@36.15
+Yes. \#0A4B, ask this \#0849 anything else you want to know.
+@36.16
+Yes... Lord \#0849, I am in your hands.
+@36.18
+\#0849 joined our band recently, but he shows promise... He will make a fine ninja one day. Ask him anything.
+@36.20
+And... I will give you this.
+@36.21
+...Boss, what is this?
+@36.22
+A Chain-Sickle... Not an especially fine one, but it is the one your father used when he lived in this village.
+@36.23
+Father used this...
+@36.24
+Yes... By the way, to use it you must [Equip] it.
+@36.26
+I have also prepared a place for you to live. Wait there until you get orders. That is all for today!
+@36.28
+Lord \#0849, I am in your hands.
+@36.29
+Hmph.
+@36.31
+Old friend of the boss or whatever, there is a limit to how familiar you can get.
+@36.32
+You may be an old face come home, but in this village I rank above you... Do not forget it.
+@36.34
+Secret orders from the great lord of the \#11FA or whatever, you had better not act so big.
+@36.35
+I am not acting big...
+@36.36
+A newcomer should act like a newcomer and do what his seniors tell him. That is all I wanted to say.
+@36.38
+Ask some underling about the village. I am busy with training. See you.
+@36.39
+Ah...
+@36.40
+A prickly fellow... Oh well.
+@36.41
+Now then, my new life in the Iga village begins!
+@37.0
+\%03, the \#10C3 clan has built a castle at Sunomata!
+@37.1
+Sunomata is close to \51E6. It is a perfect base for the conquest of Mino.
+@37.2
+Hm... The \#1142 clan was far too careless to let them build a castle in such a place so easily.
+@37.3
+Well... they say the castle went up in a single day.
+@37.4
+I hear the \#0142 army rushed out to strike them and was soundly beaten back.
+@37.5
+Oho... Building a castle in a single day... Who on earth did it?
+@37.6
+Yes, a man of the \#10C3 clan named \#0205, I believe.
+@37.7
+Sunomata is a place surrounded by rivers.
+@37.8
+They did the work upstream up to a trial assembly, then took the timber apart, made rafts and floated them down the river...
+@37.9
+Then they pulled the rafts out at Sunomata and put it all together at once, I hear.
+@37.10
+Oho, what an interesting idea!
+@37.11
+(\#0205... A name worth remembering, it seems.)
+@37.12
+In \M001, month \M002, \#0205 succeeded in building the castle at Sunomata.
+@38.0
+What is going on...
+@38.1
+In \1006, month \1007, \#08BF's army, leading a detachment of the \#10C3, made a surprise attack on the \<1F3 village.
+@38.2
+The Iga forces used the lie of the land, but they were vastly outnumbered and trampled by the overwhelming \#10C3 army.
+@38.3
+The boss, where is the boss?!
+@38.4
+To save those who survived, the boss charged into the midst of the enemy and met a heroic end...
+@38.5
+...The boss...
+@38.6
+Lord \#02D9 said, "The next boss is \#07FE"... Those were his last words.
+@38.7
+Me, boss...
+@38.8
+If those were the late boss's last words, there is no question. The new boss of Iga is Lord \#024B.
+@38.9
+Yes, no objection. Lord \#024B is our boss from now on.
+@38.10
+...I understand. I, \#0FFE, will carry on the boss's will.
+@38.11
+I am \#0049. I ask for leave to go.
+@38.12
+Leave? Why? We need your strength now.
+@38.13
+My family was slaughtered in this attack. I cannot forgive \#08BF.
+@38.14
+No, small fry like \#08BF do not matter. What I cannot forgive is the demon who schemes to rule the world of men.
+@38.15
+Demon?
+@38.16
+\#08C3. Putting that fiend to death is the destiny of this \#0049.
+@38.17
+Wait, Goemon, calm down.
+@38.18
+My mind is made up. If you do not like it, hunt me as a renegade ninja.
+@38.19
+The demon I will slay is not only \#08C3. I will slay every demon who tramples people as he does.
+@38.20
+And you had better think hard about your ties with Lord \#11FA.
+@38.21
+The great lord will not abandon us.
+@38.22
+Is that so? When his ally \#00C3 attacked Iga this time, did he not just sit and watch?
+@38.23
+That is... Goemon...
+@38.24
+Lord \#11FA fears \#08C3. He cannot say a word against what \#08C3 does.
+@38.25
+As boss, think hard about whether following Lord \#11FA is truly good for Iga.
+@38.26
+Goemon!!
+@38.28
+Goemon.........
+@39.0
+Boss, an envoy has come from the \#11FA clan.
+@39.1
+An envoy from the great lord? I will see him at once.
+@39.2
+Before that, there is something I would like you to hear.
+@39.3
+What is it?
+@39.4
+Lately \#08C3 has been shot at again and again.
+@39.6
+They say \#0849 is one of the culprits.
+@39.7
+What, \#0849?
+@39.9
+I see... I understand.
+@39.10
+Sorry to keep you waiting. I bring you the great lord's words.
+@39.11
+The great lord does not approve of what Lord \#08C3 has done this time.
+@39.12
+I thought as much.
+@39.13
+The great lord said words alone would not be enough, and has sent funds for rebuilding.
+@39.14
+The \<1F3 village's war funds increased by 100,000 kan.
+@39.15
+So much...
+@39.16
+Not only the great lord but the young lord too is pained by what happened.
+@39.17
+The young lord even tried to protest to his father-in-law, Lord \#08C3.
+@39.18
+That the young lord should care so much is more of an honour than I deserve.
+@39.19
+The young lord says, "I owe my life today to \#0FFE."
+@39.20
+You are too kind. Please give my deepest thanks to the great lord and the young lord.
+@39.21
+The \<1F3 village's war funds increased by 50,000 kan.
+@39.22
+Please give my deepest thanks to the great lord.
+@39.23
+I will. ...And a question that worries me: do you know Lord \#08C3 was recently shot at?
+@39.24
+I do. But Iga has nothing to do with it.
+@39.25
+Is that so? That is a relief.
+@39.26
+If they are caught, it is certain death. If they were Iga men, I worried it would pain you, Lord \#0FFE.
+@39.27
+Then I will take my leave.
+@39.28
+(Goemon... do not get caught.)
+@41.0
+Boss, a report. Facing the \#11FA invasion, \#0029, lord of \51E6 Castle, opened the castle without a fight.
+@41.1
+Lord \#0029! With kinsmen defecting, the \#11BF clan will be badly shaken.
+@42.0
+News! \#01BF was cornered by \#00C3 and took his own life along with his wife and children.
+@42.1
+In \M001, month \M002, \#01BF took his own life, and \#09BF's wife and children died with him. \#09BF, aged \1009...
+@42.3
+To think the \#11BF, once so mighty, would crumble so easily...
+@43.0
+So this is \#0010's castle.
+@43.1
+Feels tense. Looks like they are preparing for war...
+@43.2
+The question is whether they will side with the \#10C3 or the \#1017 in that war...
+@43.3
+Right, I will sneak in and scout. \%0424B, wait here.
+@43.4
+...Ah, wait! I am coming too!
+@43.5
+I can do it alone. Wait outside.
+@43.6
+I cannot. The boss gave me orders too.
+@43.7
+Ninja work has to be done alone! Go back!
+@43.8
+...Shh! Not so loud!
+@43.9
+Who goes there!
+@43.10
+...Blast!
+@43.14
+...?? You are... \#124B... Are you not Lord \#0A4B?
+@43.15
+My lady, it has been a long time. I am sorry you must see me in so unseemly a state today.
+@43.16
+What, someone you know?
+@43.17
+Mind your manners! This is Lady \#0437, wife of Lord \#0010.
+@43.18
+What?!
+@43.19
+And... what is this about? This castle is preparing for war... What business brings ninja to such a place?
+@43.22
+...?? You are... \#1049... Are you not Lord \#0849?
+@43.26
+What?! Why would someone like her know you...?
+@43.27
+When I sneaked in before... I slipped up. Well, she helped me out.
+@43.28
+Unbelievable...
+@43.30
+Depending on your answer, I may have to hand you both over to my lord. Now, answer me.
+@43.31
+Ah, well... that is...
+@43.32
+We have come here on the orders of your ladyship's elder brother, Lord \#00C3.
+@43.33
+H-hey...
+@43.34
+My brother's...? Is that true? But why would Iga men like you...?
+@43.35
+Our band's master is Lord \#01FA, and the \#11FA and \#10C3 clans are allies...
+@43.37
+...And what did my brother order?
+@43.38
+To find out Lord \#0810's true intentions, of course. Will he side with the \#10C3 or the \#1017...?
+@43.39
+And if he sides with the \#1017, we are to take your ladyship away...
+@43.40
+Me...!?
+@43.41
+If he becomes an enemy, your ladyship would be a hostage. Lord \#10C3 cannot leave his own sister to die.
+@43.42
+So we are to carry off you and your children... Then, on the contrary, the \#10C3 side would hold you hostage.
+@43.44
+Did my brother truly say that?
+@43.45
+...There is no mistake.
+@43.47
+But it all depends on Lord \#0810's heart. Which will it be... Please tell us!
+@43.48
+I... do not know.
+@43.49
+My lady!
+@43.50
+...Tell my brother: I am \#0010's wife. I will not speak of anything that would harm my husband.
+@43.51
+And having married, I cannot go back to the house I was born in. I will not leave this castle.
+@43.52
+I understand... Even if we ask, your ladyship will say no more. We will withdraw now.
+@43.53
+Wait. Take this with you.
+@43.54
+*Clink*
+@43.55
+......This bag?
+@43.56
+It holds red beans.
+@43.57
+...What should we do with this bag?
+@43.58
+Take it to my brother. Then he will understand.
+@43.60
+...We need only deliver this? And that will tell the great lord of the \#10C3?
+@43.61
+I can say no more than that.
+@43.62
+...Understood. We will be sure to deliver it to the great lord.
+@43.63
+Then we will take our leave.
+@43.65
+Well, well... You can really spin lies like that.
+@43.66
+It is only proper skill for a ninja.
+@43.68
+Come, we must hurry. I do not quite understand, but this bag probably means \#0810 will betray them...
+@43.69
+How do you know that?
+@43.70
+Otherwise Lady Oichi would not have looked so anguished. She is torn between her husband and her brother.
+@43.72
+If \#1010 betrays them, we must secure the great lord's line of retreat at all costs. Run to the Iga village for me.
+@43.73
+Why?
+@43.74
+The two of us cannot hold off an army. Bring troops.
+@43.75
+...Fine. I will be back as fast as the wind. Wait for me!
+@43.76
+I am counting on you!
+@43.77
+I am back! \%0424B!
+@43.78
+Th-that was quick...!
+@43.79
+Of course... The boss of the \#12D9 had seen this coming and already sent troops, and I ran into them.
+@43.80
+I see.
+@43.81
+That is the boss for you... Then let us go to Lord \#11FA's camp at once!
+@43.82
+No, wait... We split the troops in two. You take half and hold off \#1010's troops right here.
+@43.83
+And you...?
+@43.84
+I will take the other half to the camp of the great lord of the \#11FA!
+@43.85
+...My job is the dull one, is it not?
+@43.86
+But it is a necessary one. There is no dull or flashy in ninja work! I am counting on you!
+@43.87
+Ah! Hey! Damn, no choice. Half the troops wait here!
+@44.0
+Oh, you are back, \%0424B.
+@44.1
+\%04049! Good work.
+@44.2
+Holding off the \#1010 army was hard... but we secured Lord \#11FA's retreat somehow.
+@44.3
+I see... That is good.
+@44.4
+How did it go on your side?
+@44.5
+We drove back the \#1017 too, together with Lord \#0205 of \A3A2.
+@44.6
+\#0205...? That man they call the Monkey?
+@44.7
+Do not talk like that. That gentleman is a man of great ability. He will surely become a great figure one day.
+@44.8
+......... Well, first let us report to the boss.
+@44.10
+Ugh... Well......
+@44.11
+You failed? Hopeless.
+@44.12
+W-we were beaten, but we held up the \#1017 army and bought time. You cannot call it a failure.
+@44.13
+Hmph... Fine. Anyway, let us report to the boss.
+@44.15
+Hm... I see. It seems you somehow carried out your task.
+@44.16
+Just as you said, Boss... \#1010 betrayed them.
+@44.17
+What will become of Lord \#0010 now...
+@44.18
+Hm... Knowing Lord \#00C3's temper, it will not end here. There will be war again before long.
+@44.19
+Will the \#11FA clan be called out again?
+@44.20
+Naturally.
+@44.21
+This time was close to a surprise attack, but once they are ready for war, the \#10C3 and \#11FA cannot lose to the \#1017 and \#1010.
+@44.22
+(What will become of Lady Oichi...?)
+@44.23
+Good work, both of you. You may go.
+@45.0
+Well, well. It seems our \#11FA clan was toyed with by Lord \#00BF.
+@45.1
+But... truly frightening is Lord \#0205. To win over so easily Lord \#08BF, who hated Lord \#0A05 so much...
+@45.2
+The \#11FA clan's position has become delicate. It is just like having the ladder taken away once you are up on the roof...
+@45.3
+Now that Lord \#08BF has made peace, the \#11FA clan has no reason to oppose the \#1205 clan... But making peace at once would make them look weak.
+@45.5
+The great lord will probably wait and see. The \#1205 side must have learned in this war that the \#11FA clan is no easy match.
+@45.6
+The great lord of the \#11FA has no choice but to wait until Lord \#0A05 makes a move. The one who waits holds the initiative.
+@45.7
+All we can do is deal with whatever situation their maneuvering creates.
+@45.9
+(Now... what will Lord \#0A05 do next... And how will Lord \#09FA respond...)
+@46.3
+They say Lord \#00BF allied with Lord \#01FA and, with his backing, challenged Lord \#0205 to battle.
+@46.4
+What! And how did the battle turn out?
+@46.5
+In the opening battle, the \#1205 side tried a surprise attack on the \#11FA clan's home castle, but the \#11FA side had already seen through the plan,
+@46.6
+and in an instant struck back. They say the attackers fled back to camp in disarray...
+@46.7
+As expected of \%201FA...
+@46.8
+But right after that, \%20205's side struck back in turn.
+@46.9
+Struck back...?
+@46.10
+Why, he made peace with \%200BF! A master of diplomacy indeed.
+@46.11
+Wha... Then the \#11FA side has no cause for war...
+@46.12
+They say that, with no reason left to fight, both sides withdrew...
+@46.13
+To think that happened...
+@46.16
+Through this war, both \#1205 and \#11FA saw the folly of making an enemy of the other.
+@46.17
+Before long, the mood for peace grew between the two...
+@47.0
+Boss, terrible news!
+@47.2
+They say Lord \#0048 has fled the \#11FA clan!
+@47.4
+And that Lord \#0048 has come to see you, Boss.
+@47.5
+Boss, will you see him?
+@47.6
+See \#0048
+@47.7
+Do not see \#0048
+@47.8
+Yes, I will see him.
+@47.9
+As you probably know already, I have left the \#11FA clan and am to serve the \#1205 clan.
+@47.10
+Lord \#1048, why? Why would you, a pillar of the \#11FA clan...?
+@47.11
+There is no longer a place for me in the \#11FA clan.
+@47.12
+Everyone looks at me as if I were a traitor. There is no place for me there.
+@47.13
+But your strength should be needed more than ever.
+@47.14
+I wonder. The \#11FA are being reborn from a regional daimyo into a daimyo of all Japan.
+@47.15
+In such a rebirth, someone like me, steeped in the old ways, would only be in the way.
+@47.16
+Lord \#09FA is a man who drove even Lord \#09FB to his death.
+@47.17
+If he judged me unneeded by the house, he would push me aside soon enough.
+@47.18
+Lord \#1048...
+@47.19
+My going to Lord \#0A05 may work against the \#11FA clan.
+@47.20
+If that does not sit well with you, cut me down here and now. That is the way of the Sengoku age.
+@47.21
+\#0048, a pillar of the \#11FA clan, fled and went over to the \#1205 clan.
+@47.22
+This meant the \#11FA military secrets would leak to the \#1205, so \#09FA quickly resolved to switch to the \#11C1 military system.
+@47.23
+...It seems your mind will not change whatever I say. Go.
+@47.24
+Thank you. I have one more request. Meet Lord \#0A05.
+@47.25
+The truth is, I promised Lord \#0A05 I would have you meet him.
+@47.26
+I understand. I will meet him at once.
+@47.27
+I have no need to meet a man who threw away the loyalty of his forefathers for the greed before his eyes. Send him away.
+@47.43
+What?! Lord \#0048? But he was a senior retainer of \A3A2!
+@48.0
+Welcome, Lord \#0FFE. Lord \#0A05 is waiting. He is holding a tea gathering now.
+@48.1
+You must be Lord \#07FE. Lord \#0A05 is waiting. He is holding a tea gathering now.
+@48.2
+\#0FFE, welcome. I have been waiting.
+@48.3
+I am overjoyed to find you in such good spirits, Lord \#1205.
+@48.4
+Spare me the stiff greetings. There is something I want to ask you, as boss of the Iga men.
+@48.5
+Yes, anything.
+@48.6
+Do you know what has become of \#0049, who used to be in Iga?
+@48.7
+No, I do not. He went missing during the Iga War and has not been seen since.
+@48.8
+That \#0849, it seems he is alive.
+@48.9
+What? What is \#0849 doing now?
+@48.10
+It seems he is a boss too, like you. Only he leads thieves.
+@48.11
+There is a band of thieves running riot lately, mostly in the Kinai, around Kyoto and Sakai.
+@48.12
+We looked into it and found they are mostly renegade ninja and remnants of destroyed ninja bands, with \#0049 as their ringleader.
+@48.13
+...Do you mean you want us to catch them?
+@48.14
+No, that is not a job for Iga. But if they make any move to throw the realm into chaos, strike them down.
+@48.16
+...Thief or not, \#0849 won his position by his own strength.
+@48.17
+In that he is just like me, who rose up in the Oda clan, and you, who became boss in \D079. Gahahaha.
+@48.18
+You honour me.
+@48.19
+In this Sengoku age, what do you think is the thing to rely on most?
+@48.20
+...One's own strength, I believe.
+@48.21
+Hahaha, I think the same.
+@48.22
+However blessed a man may be with lords or retainers, in the end he is born alone and dies alone.
+@48.23
+In the end, what he must rely on is surely his own strength.
+@48.25
+I, who rose up in the Oda clan, and you, who became boss in \D079, both won our positions by our own strength.
+@48.26
+The same goes for \#0048, whom I have just taken into service. I turn no one away. And now I know the \#11FA military system too.
+@48.27
+But I will give \#0848 no special favour. A man must build his position on ability and results.
+@48.28
+That is all. You may go.
+@48.29
+He lured away Lord \#0048, a hereditary \#11FA retainer, and grants him no favour... \#0205 is truly frightening...
+@48.30
+*Thunk*
+@48.31
+Long time no see, \#0FFE.
+@48.32
+\#0849! I hear you have turned thief.
+@48.33
+Hmph, which of us has really sunk low? I will not be lectured by someone who helps generals who betray and are betrayed for their ambitions.
+@48.35
+The closer a general is to power, the more drunk he is on ambition. Be careful you are not betrayed too. Farewell.
+@48.36
+*BANG*
+@48.37
+Ngh, a smoke bomb!
+@48.38
+\#0849...
+@49.0
+Boss, someone from the \#11FA clan is here.
+@49.1
+Yes, I understand.
+@49.2
+A pleasure to meet you. I am \#028C.
+@49.3
+Oh, so you are the one they call the strongest of the \#11FA.
+@49.4
+Forgive the sudden visit. I am \#028C.
+@49.5
+Oh, Lord \#0A8C, welcome. I am glad to receive the man they call the strongest of the \#11FA.
+@49.6
+If a man like Lord \#0A8C has come, it must be a special order from \#09FA.
+@49.7
+Sharp as ever. My lord wants you to come with him as his escort to a certain place.
+@49.8
+That must be a painful place for me, the boss of Iga.
+@49.9
+I have not yet said where we are going...
+@49.10
+Sending someone like Lord \#0A8C as envoy, and Lord \#0A8C coming to see me in person...
+@49.11
+It must be a place he would rather the Iga men did not hear about.
+@49.12
+Then the answer is clear. He has been invited by Lord \#10C3.
+@49.13
+Impressive. Whatever my lord's wishes, I would very much like you to come.
+@49.14
+Allies or not, Lord \#10C3 cannot be trusted.
+@49.15
+If it comes to it, I mean to protect my lord even with my life, but...
+@49.16
+I understand. I will go. If anything happened to Lord \#09FA, I would regret it forever.
+@49.17
+Lord \#0FFE... I am grateful...
+@49.18
+Then let us eat something first and go.
+@49.19
+Yes. If we leave now, we should catch up with my lord quickly.
+@49.20
+\#0FFE! Thank you for coming.
+@49.21
+If my lord calls, I would come even before the King of Hell.
+@49.22
+Hahaha. I knew you would come running.
+@49.23
+My lord, Lord \#0FFE is not the only one.
+@49.24
+Indeed. We too will come whenever you call.
+@49.25
+Hahaha. I am blessed with loyal men. Then, shall we go?
+@50.0
+\%03, we have arrived. This is \41DE.
+@50.2
+Lord \#11FA, you have come. I have been appointed Lord \#11FA's host this time.
+@50.8
+In the keep, my master \#08C3 has prepared a banquet and is waiting. If you please, this way...
+@50.17
+How is it, Lord \#09FA? The view from this keep is superb.
+@50.19
+Today we have gathered fine sake and delicacies from every province. There is even carp caught in Lake Biwa before us just this morning.
+@50.35
+(\#08C3 is \#08C3 after all... Not even a demon could be that merciless.)
+@50.36
+(When I think of how he attacked Iga... No, rash behaviour would trouble my lord.)
+@50.37
+Lord \#10C3... I feel for \#080E. You need not have said so much.
+@50.42
+Oh, I see... Sakai has Nanban merchants too, a lively town... You will not be bored. I know, I will guide you myself.
+@50.46
+What is it! I am entertaining a guest! Can you not see?
+@50.55
+It must mean the battle is going that badly.
+@50.66
+It gave us a fright too.
+@50.67
+My lord, what will you do now?
+@50.68
+Yes, let us head for Sakai as planned.
+@51.0
+Sakai is lively indeed.
+@51.2
+From now on we will need wealth as well as arms. Everyone, take a good look at this sight.
+@51.5
+Hahaha... I have strong legs. I train them every day. Still, we have seen most of it.
+@51.7
+Yes... But if we are going home, I must pay my respects to Lord \#10C3 once more.
+@51.8
+Lord \#00C3 was heading for Kyoto, I believe.
+@51.9
+I will go ahead to Kyoto on a fast horse and let them know the great lord is coming.
+@51.11
+But at that moment, not one of \#01FA's party knew that something terrible had happened in Kyoto...
+@52.0
+My lord, shall we rest around here?
+@52.4
+Oh, \#0FF4. Is Lord \#10C3 still staying in Kyoto?
+@52.7
+I headed for Kyoto to wait on Lord \#00C3, but something terrible happened...
+@52.18
+The \#100E army may send troops against the \#11FA clan as well, the late Lord \#10C3's ally.
+@52.20
+No... It is over. With Lord \#10C3 dead, the \#11FA clan is finished too.
+@52.22
+We will not be spared either... Rather than behave disgracefully, let us go to Kyoto and cut our bellies somewhere near Chion-in.
+@52.24
+You must not die here! Rather, great lord, should you not resolve to avenge your ally Lord \#00C3?
+@52.26
+Exactly! We must return home at once and raise an army to punish \#000E!
+@52.30
+There are many mountain paths and bandits, so it will be hard going, but no one will expect us to take such a road.
+@52.37
+Then, everyone, let us go!
+@53.2
+If we cross the mountains of Iga to Ise Bay, we can go home by sea straight to \51E6.
+@53.3
+Yes...! I am lucky you are an Iga man.
+@53.4
+By rights the Iga army should guard you, but Iga still holds a grudge against Lord \#10C3.
+@53.5
+So some will sympathise with Lord \#100E.
+@53.6
+We cannot let some reckless fool harm my lord...
+@53.7
+Yes, I understand.
+@53.8
+Even so, I have sent trusted men everywhere to keep the other ninja in check. There is no danger of a ninja attack.
+@53.9
+The enemy are not only ninja, but if ninja do not attack us, it makes a big difference.
+@53.10
+As expected of Lord \#0FFE.
+@53.11
+But it is too early to relax. I know you are all tired, but I would like to set out soon...
+@54.0
+Phew... We made it. Ise Bay at last.
+@54.1
+Now that we are here, you are safe. From here we can go home by sea from Cape Toba.
+@54.3
+Not yet... I cannot let my guard down until we are back at the castle.
+@55.9
+Then I will take my leave too.
+@55.10
+\#0FFE... Well done... You have my thanks.
+@55.11
+Then, excuse me.
+@56.0
+Boss, I am glad you are back safe.
+@56.1
+Any change in the situation since?
+@56.2
+Yes. Lord \#000E has been struck down by Lord \#0205.
+@56.9
+.........Lord \#0205, is it... From now on the world may revolve around him.
+@56.10
+Even so, Lord \#1205 is not a hereditary retainer.
+@56.11
+Exactly. How will the senior retainers of the \#10C3 clan see that... Or will Lord \#1205 bring them together?
+@56.12
+Depending on that, both the great lord of the \#11FA and we will be affected.
+@56.13
+And so \#00C3, the Demon King of the Sengoku age, left the stage.
+@56.14
+Would chaos return, or would a new leader appear to move history? All was still unclear...
+@57.2
+They say \#0A87 of the \#1287 has finally decided to fight the \#10C3 clan head-on!
+@57.4
+Rumour has it an envoy from the Shogun visited and asked the \#1287 to take the field...
+@57.5
+I think Lord \#0A87 felt threatened too...
+@57.6
+Anyway, this is a serious turn of events.
+@58.0
+Have you heard? They say Lord \#01FA has moved his seat to \51E6.
+@58.2
+The great lord means to advance into the eastern provinces...
+@58.3
+In \M001, month \M002, \#01FA left Mikawa, his seat for many years, and decided to move his base to \51E6.
+@59.0
+\%03! It seems \%04205 and \%0417B held a council at \51E8.
+@59.2
+It seems \%04205 and \%0417B held a council at \51E8.
+@59.3
+To discuss the future of the \#10C3 clan, then.
+@59.4
+To discuss the future of the \#10C3 clan, I take it.
+@59.5
+That is the official story, but in truth it was more a test of strength between \%04205 and \%0417B.
+@59.6
+It seems the lands are to stay as they were, though.
+@59.7
+It seems the heir will be Sanboshi, the orphaned son of the late \%200C2.
+@59.8
+It seems the heir will be a child called Sanboshi.
+@59.9
+Making a child who has not even come of age the heir...
+@59.10
+\%0417B backed \%200C1, so this must be \%04205's scheme.
+@59.11
+So he means to seize the realm.
+@59.12
+So he means to seize the realm, then.
+@59.13
+But \%0417B has not lost his power either.
+@59.14
+This rivalry between the two looks set to continue for a while...
+@59.15
+This rivalry between the two looks set to continue for a while, I think...
+@59.16
+In \M001, month \M002, the senior generals of the \#10C3 clan gathered at \51E8 Castle to discuss the \#10C3 clan's future after \#08C3's death......
+@59.17
+At this meeting, \#0205 and \#017B clashed fiercely over \#08C3's successor.
+@59.18
+In the end his grandson Sanboshi was chosen as heir, but from this \51E8 council on, a clash between \#0A05 and \#097B became unavoidable...
+@61.0
+\%03! It seems \%04205 has held \%200C3's funeral.
+@61.1
+I heard it on the road...
+@61.2
+It seems \%04205 has held \%200C3's funeral.
+@61.3
+A funeral...? Why now?
+@61.4
+The timing is not the point.
+@61.5
+What matters is showing the realm who \%200C3's successor is.
+@61.6
+I see... \%2017B must be thinking he has been outdone.
+@61.7
+A funeral, you say... Why now?
+@61.10
+I see... \%2017B must be thinking he has been outdone, I suppose.
+@62.1
+I can no longer stand how \#0205 has been behaving lately.
+@62.2
+...Do not make such a fuss. I am thinking of my next move too.
+@62.3
+And what might that be...?
+@62.4
+I will have my aunt marry \%2017B.
+@62.5
+Lady Oichi?!
+@62.6
+Yes... If we bind \%0417B to us by marriage, we can stand up to \%04205.
+@62.7
+I see... A far-sighted plan. But will Lady Oichi agree?
+@62.8
+Do not worry. My aunt has already agreed.
+@62.9
+That is my lord!
+@62.10
+(Monkey... Just you wait!)
+@62.11
+\%03! Lady Oichi has married \%2017B!
+@62.12
+Lady Oichi is \%200C3's sister... How political...
+@62.13
+It seems her nephew \%200C1 arranged it.
+@62.14
+They think \%200C1 means to win over \%0417B and stand up to \%04205.
+@62.15
+I heard this on the road...
+@62.16
+Lady Oichi has married \%2017B!
+@62.18
+Her nephew \%200C1 must have arranged it.
+@62.19
+\%200C1 must mean to win over \%0417B and stand up to \%04205.
+@62.20
+Yes, that is likely.
+@62.21
+I see. That is likely.
+@62.22
+In \M001, month \M002, \#017B married \#00C3's sister, Oichi.
+@62.23
+After \#08C3's death, \#0205 steadily expanded his power.
+@62.24
+Wary of this, \#00C1 married his aunt Oichi to \#097B to strengthen ties between the two houses.
+@63.0
+Have you heard?
+@63.2
+Lord \#081D has come to our house for refuge.
+@63.4
+What?!
+@63.5
+Because of it, relations between the \#10C3 and our house are at their worst.
+@63.6
+I hear \#08C3 has ordered \#0205 to attack our house from a base at \51E8.
+@63.7
+\#081D may have fallen low, but he is a former Shogun. We cannot treat him carelessly...
+@63.8
+Then what will you do?
+@63.9
+We will treat him as a guest, for form's sake.
+@63.10
+I see. Then we will not have openly made an enemy of the \#10C3.
+@63.11
+It seems Lord \#0FFD has decided to treat him as a guest, for form's sake.
+@63.12
+I see. Then we will not have openly made an enemy of the \#10C3.
+@63.13
+I doubt such a childish trick will work on him, but it is better than doing nothing.
+@63.14
+The people of our lands are crying out against the \#10C3.
+@63.18
+Hmm... No choice. Then we too must build up our forces.
+@63.19
+No choice, I suppose... Then we too must build up our forces.
+@63.20
+Lord \#081D has fled to \51E6, seeking refuge with the \#17F2.
+@63.21
+It seems the \#17F2 clan is raising troops to punish \#00C3.
+@63.22
+That is... no small matter.
+@63.23
+Because of it, relations between the \#10C3 and \#17F2 clans are at their worst.
+@63.24
+They say \%200C3 has ordered \%20205 to attack the \#17F2 from a base at \51E8.
+@63.25
+So \%040C3 is finally reaching for the Chugoku region...
+@64.0
+\#00C3 of the \#10C3 clan has taken \51E6 from the \#1142 clan!
+@64.1
+\#0142 surrendered to \#00C3 but was banished and went down the Nagara River, it seems. The \#1142 clan is no more.
+@64.2
+\#00C3... To think a man called a fool until recently would take Mino.
+@64.3
+The realm will change greatly now.
+@65.0
+Rumour on the road says the \#10C3 clan has moved its seat to Inabayama... I wonder what they are after?
+@65.1
+\%03! The \#10C3 clan has moved its seat to Inabayama!
+@65.2
+Oho, moving its seat from \51E5 to Inabayama... Perhaps they are aiming for the capital.
+@66.0
+Have you heard? They say \#00C3 has renamed Inabayama "Gifu."
+@66.1
+\%03, \#00C3 has renamed Inabayama "Gifu"!
+@66.2
+Gifu? What could that mean?
+@66.3
+It is too hard for me, but they say it follows an old Chinese tale and means he aims to unify the realm...
+@66.4
+The "Gi" of Gifu comes from an old Chinese tale: the "Gi" of Mount Qi, where King Wen of Zhou began his rise.
+@66.5
+King Wen of Zhou rose at Mount Qi, and \#00C3 will rise at Gifu and aim for the realm... Is that not what he means?
+@66.6
+Oho, his dream is to unify the realm? He has certainly aimed high.
+@66.7
+In \M001, month \M002, \#00C3 moved his seat to Inabayama and renamed it "Gifu."
+@67.0
+\%03! Lord \#0205 of the \#10C3 clan has won over Lord \#01C7 of the \#1142 clan!
+@67.1
+Oho, \%04205...
+@67.2
+So he has lured away Lord \#09C7, famed as a second Zhuge Liang.
+@67.3
+What kind of man is \#01C7?
+@67.4
+A strategist among the best in the land, known as a second Zhuge Liang.
+@67.6
+And that is not all. Using \#09C7's connections, they kept winning men over, and as a result...
+@67.7
+\#09C7's former master \#003A, along with \#0065, \#0081 and others, defected to the \#10C3 clan.
+@67.8
+Oho, now there is a big gap between the strength of the \#10C3 and the \#1142... Thank you for the report.
+@68.0
+Lord \#001D, younger brother of the late Lord \#001F, has gone to \51E5 to seek the help of Lord \#0017!
+@68.1
+Oho... The \#1017 clan is a powerful daimyo house that has lasted five generations, a hundred years.
+@68.2
+He must mean to become Shogun with the \#1017 clan's might behind him.
+@68.3
+But does the \#1017 clan today still have that much strength and spirit...?
+@69.0
+Lord \#001D, who had relied on the \#1017 clan, has left \#1017!
+@69.2
+To Lord \#081D, eager to march on the capital as soon as possible, Lord \#0017, who would not budge, seemed unreliable...
+@69.3
+Hm, so he has given up on \#0017 and means to switch to another daimyo.
+@69.4
+Well... it seems Lord \#001D is seeking closer ties with Lord \#00C3 of \51E5!
+@69.5
+It seems a man named \#000E, once a retainer of the \#1017 clan, acted as go-between.
+@69.6
+\#080E himself has already become a vassal of the \#10C3 clan...
+@69.7
+It seems only a matter of time before Lord \#081D moves to \51E5.
+@69.8
+Hm, Lord \#081D must mean to march on the capital backed by Lord \#10C3's arms.
+@69.9
+But is Lord \#00C3's aim really to restore the shogunate...?
+@69.10
+I sense trouble ahead.
+@70.0
+Lord \#001D has gone to Lord \#00C3 of \51E5 for help.
+@71.0
+\%03! \%04205 and \%0417B have clashed at Shizugatake, on the north shore of Lake Biwa!
+@71.1
+Have you heard? They say there was a great battle on the north shore of Lake Biwa.
+@71.2
+They say \%04205 and \%0417B clashed at a place called Shizugatake.
+@71.3
+What! So \%0417B has finally risen! And what happened?
+@71.4
+A struggle for power after \%200C3's death, then. And what happened?
+@71.5
+A struggle for power after \%200C3's death, then. And what happened?
+@71.6
+It seems the \#1205 army defeated the \#117B army.
+@71.7
+What!! Damn... That cursed Monkey!
+@71.8
+And \%2017B?
+@71.9
+It seems the rest of the \#117B army fled in disorder.
+@71.10
+They say the defeat came because \%0417B's nephew \%20155 ignored orders and charged...
+@71.11
+So after \%200C3's death, \%20205 takes control...
+@71.12
+In \M001, \#0205 and \#017B clashed at Shizugatake.
+@71.13
+\#017B was a man of great valour, but he could not stop his men's reckless charge; his lines broke and his army fled.
+@71.14
+The balance of the realm was tilting heavily toward \#0205...
+@72.0
+\%03, the \#1008 clan has submitted to the \#10C3 clan!
+@72.1
+Have you heard? They say the \#1008 clan has submitted to the \#10C3 clan.
+@72.2
+Oho, the \#1008 clan... Even that once-proud governor house has fallen low.
+@72.3
+What, the \#1008 clan... Even that once-proud governor house has fallen low.
+@73.0
+\%03, the \#1008 clan has surrendered to the \#10C3 clan!
+@73.1
+Did you hear? The \#1008 clan has surrendered to the \#10C3 clan.
+@73.2
+Oho, the \#1008 clan... How will the realm move now?
+@73.3
+What, the \#1008 clan... How will the realm move now, I wonder?
+@74.3
+They say \#01BF of Kai will soon raise an army and invade \A3A3 lands!
+@74.4
+\#09BF!! And where do the Takeda plan to attack?
+@74.5
+It seems the Takeda army means to march south, aiming for \51E8 Castle.
+@74.6
+\51E8 Castle is held by Lord \#00B7. It will not fall easily.
+@74.7
+Even so, they are sure to be outnumbered. Warn \51E8 Castle at once!
+@74.9
+Warning
+@74.11
+???
+@74.12
+Warn Nagashino
+@74.13
+Lord \#07FE, the allied army of Lord \#10C3 and Lord \#01FA has clashed with the \#11BF army in Mikawa.
+@74.14
+Of course the great lord won.
+@74.15
+Yes... A great victory for our side! Lord \#10C3's massed gunners crushed the \#11BF cavalry.
+@74.16
+Oh, that is the great lord for you...
+@75.0
+Who goes there?
+@75.1
+I am \#024B of Iga. I have urgent business with Lord \#00B7. Announce me at once.
+@75.3
+I am \#024B of Iga.
+@75.4
+\#0FFE? What is this urgent business?
+@75.5
+I am \#00B7. What is this urgent business?
+@75.6
+Then I will tell you. Word has come that the \#11BF will soon attack this castle.
+@75.7
+So what had to come has finally come... Thank you for letting me know.
+@75.8
+My lord! I hear Lord \#17FE of Iga has come. Are the Takeda finally attacking?
+@75.9
+Hey, \#0A07, mind your place.
+@75.10
+My apologies. So, what has happened?
+@75.11
+It seems the \#11BF army is finally heading for our castle.
+@75.12
+Oho, at last! My arms are itching. We will show them what we can do.
+@75.13
+\%03, starting with Suneemon here, no one in my castle fears the likes of \#01BF.
+@75.14
+Thanks to your news we can prepare to meet them. We will show them a thing or two.
+@75.15
+Most reassuring. I expect great things. Now, excuse me.
+@75.16
+I will go back and report to the boss.
+@76.0
+Right, to report to the boss.
+@76.1
+I have delivered the warning to \51E5 Castle.
+@76.2
+Yes, well done! I will call you as soon as anything new happens. Stand by for now.
+@76.4
+Yes, you may go.
+@76.5
+\#07FE gained merit.
+@76.6
+Perhaps I should stay at home for a while.
+@77.0
+Lord \#07FE, the boss is waiting.
+@77.2
+Boss, what is it?
+@77.3
+You know that \51E5 Castle is already under siege.
+@77.4
+\51E5 Castle will not fall easily, but it is badly outnumbered. It cannot drive them off.
+@77.6
+Sooner or later someone will slip out of \51E5 Castle. I want you to protect him.
+@77.7
+I have already ordered Goemon to arrange his escape from \51E5 Castle.
+@77.8
+You protect the envoy from \51E5 Castle who will escape to the town of \61EC.
+@77.10
+Escort
+@77.13
+Guard the envoy
+@77.15
+I called you about \51E5 Castle... but now that it is no longer \#11FA land, it is too late.
+@77.16
+Never mind. Go and rest.
+@78.0
+I wonder if the envoy has made it this far safely...
+@78.1
+Hm? What is that?!
+@78.3
+\%03, is that not \%03?
+@78.4
+\%03, well met. The truth is, I am being chased.
+@78.5
+\51E5 Castle cannot hold out much longer. I must tell the great lord...
+@78.6
+Torii Suneemon
+@78.7
+You gave us trouble, but this is the end. It is the way of the Sengoku age; forgive me.
+@78.9
+\#07FE, is it... Get in our way, and we cut you down too.
+@78.10
+An Iga man... Get in our way, and we cut you down too.
+@78.11
+We shall see... Lord \#1207, leave this to me and go.
+@78.12
+Thank you.
+@78.15
+Gurgh... Curses.
+@78.16
+There may be more pursuers. I will head for \51E6 Castle.
+@78.21
+Ngh... Someone used explosives... Gwah.
+@78.22
+Hey, \#0FFE is mine.
+@78.23
+And so \#0049 saved \#07FE from certain death.
+@78.24
+Thank you.
+@78.25
+Making me cut down such small fry... I will not save you twice.
+@78.26
+I am ashamed.
+@78.27
+Lord Torii has gone to \51E6 Castle. He may be attacked again. Hurry after him.
+@78.28
+I have my own work to do. Farewell.
+@78.29
+Right, to \51E6 Castle.
+@78.30
+Lord \#07FE, a message from the boss: "Things have changed. Come back." That is all.
+@78.31
+What? Well, if the boss says so, there is no choice.
+@79.1
+Ah, \%03, you are safe. I am glad.
+@79.2
+\%03, how did it go?
+@79.3
+Very well. Not only the great lord but Lord \#00C3 will come to our aid.
+@79.4
+The army Lord \#00C3 brought had more guns than I have ever seen.
+@79.5
+Oho, that many guns... Then \51E5 Castle will be saved.
+@79.6
+Indeed. When they hear this, everyone will take heart and fight with all their might.
+@79.7
+The great lord and Lord \#10C3 told me to rest, but I want to deliver the news as soon as possible, so I am going back without resting.
+@79.8
+Not so fast.
+@79.9
+So you followed us this far.
+@79.10
+\#0FFE... You die too.
+@79.11
+Iga man, you die too.
+@79.17
+There may be more pursuers. I will head for the town of \61EC.
+@79.33
+\#07FE stood against the assassins to save \#0207...
+@79.34
+but the assassins were stronger than expected; he fought hard in vain and at last fell.
+@79.35
+It was in \1006, month \1007. \#07FE, aged \1008...
+@79.36
+No one knows where even his body went. Such was the fate of a man who lived in the shadows and vanished into the dark.
+@79.44
+Lord Torii has gone to the town of \61EC. He may be attacked again. Hurry after him.
+@79.46
+Right, to the town of \61EC.
+@79.47
+Lord \#07FE, a message from the boss: "Things have changed. Come back." That is all.
+@79.49
+\#024B's ninja merit rose.
+@80.0
+Your life is mine.
+@80.2
+\%03, it seems I made it in time.
+@80.3
+Leave this to me and hurry to \51E5 Castle!
+@80.4
+Thank you, yet again!
+@80.5
+\#0FFE... So you will get in our way. Then you die too.
+@80.6
+Iga man, so you will get in our way. Then you die too.
+@80.7
+I, \#07FE, will not be cut down so easily.
+@80.10
+Gurgh... To rot away here... Curses.
+@80.11
+\%03, well done. From here I will protect Lord \#1207.
+@80.12
+The boss says you are to come back.
+@80.13
+I see, understood. Then take care of Lord \#1207.
+@80.15
+Your luck has run out too.
+@80.40
+From here I will protect Lord \#1207. You go back to the boss.
+@80.42
+Lord \#07FE, a message from the boss: "Things have changed. Come back." That is all.
+@81.0
+I must go to the boss.
+@81.1
+\%03, well done.
+@81.3
+Just now, the result of the battle between the \#10C3-\#01FA allied army and the \#11BF army came in.
+@81.4
+And the great lord...?!
+@81.5
+Do not worry, it was a great victory. Lord \#10C3's massed gunners crushed the \#11BF cavalry, it seems.
+@81.7
+In \1006, month \1007, the \#00C3-\#01FA allied army, at Shitaragahara near Nagashino in Mikawa,
+@81.12
+The alliance of Lord \#10C3 and Lord \#11FA will keep growing in power... while it goes well, that is.
+@81.13
+Boss, "while it goes well"?
+@81.14
+Lord \#10C3 is not a man to let your guard down with. Think him an ally, and he may deceive you.
+@81.15
+Lord \#10C3 is not a man to let your guard down with... I, \#0FFE, will take that to heart.
+@81.16
+Enough about Lord \#10C3 for now. News has come about Lord \#0207 too.
+@81.17
+Did Lord \#1207 get back safely?
+@81.18
+He got back to \51E5 Castle safely. They say Lord \#1207's words put new life into a castle that was about to fall.
+@81.19
+...But they say he was caught by the \#11BF just one step from the castle and executed.
+@81.20
+What! Lord \#1207...
+@81.25
+Castle commander, Lord \#17F0! And all you officers and men in the castle! It is \#0207!
+@81.43
+Lord \#1207... I, \#0FFE, will never forget the way you lived.
+@81.44
+But the \#10C3 clan is already gone. With no hope of reinforcements, we may lose this battle.
+@81.45
+But \51E5 Castle has already fallen. We may lose this battle.
+@81.46
+But the \#11FA clan is already gone. It is truly a shame.
+@82.0
+From here on is the Kabuto pass, the hardest part of the way.
+@82.1
+I am used to hard roads by now... Hahaha.
+@82.5
+Oh! Want a fight? Heh! You look handy enough, but what can you do with so few?
+@82.15
+Ah, no... That was a slip of the tongue.
+@82.19
+Heh! We are not like those farmers playing straggler hunters on a whim. We are the bandits who run this area.
+@82.21
+We will not settle for that pittance. Come on, leave all your valuables. And maybe your lives too... Heh heh heh.
+@82.25
+Lord \#0A8C, I will not let you take all the glory! My lord, while we fight!
+@82.26
+My lord, let us go. They are so few.
+@82.27
+Exactly. Lord \#0A8C and Lord \#0A4B are both mighty warriors. That handful is no match for them.
+@82.28
+That is right. So, my lord, please hurry!
+@82.29
+\#0A8C, \#0A4B... Very well.
+@82.30
+There are too few of us?! I do not know what house you weak-kneed samurai are from, but do not underestimate us!
+@82.31
+I-in a place like this...
+@82.32
+\#0A8C, \#0A4B, are you all right?!
+@82.33
+Young lord, why are you here?
+@82.34
+I heard of what happened in Kyoto and came at once. If \#0A4B was with Father, I knew he would cross Iga.
+@82.36
+In \1006, month \1007... while fleeing the Honnoji Incident, \#024B
+@82.37
+died in the mountains fighting a band of robbers to protect \#01FA... aged \1008.
+@82.38
+Not bad. But we will not back down after this!
+@82.45
+died in the mountains of Iga fighting a band of robbers to protect \#01FA... aged \1008.
+@82.50
+You picked a fight with the wrong people.
+@82.51
+My lord!
+@82.52
+Oh, \#0A8C, \#0FFE, you are safe.
+@82.53
+Father, our unit will handle this. Hurry to Ise Bay.
+@82.54
+Understood.
+@82.55
+...\#0FFE, \#09FB has grown up, has he not?
+@82.56
+Indeed. He has become a fine, dependable general.
+@82.57
+Without your work, \#09FB might have lost his life.
+@82.58
+\#09FB is here today thanks to you.
+@82.59
+You are too kind. I, \#0FFE, am deeply honoured.
+@83.0
+Have you heard? They say the \#10C3 and \#1010 clans have formed an alliance.
+@83.2
+Hmm.
+@83.3
+And as proof of it, Lord \#00C3's sister, Princess Ichi, famed as a peerless beauty, has married Lord \#0010.
+@83.4
+Ah, the peerless beauty of the rumours. I would have liked just one look.
+@83.5
+In \1006, month \1007, the \#10C3 and \#1010 clans formed an alliance, and \#00C3's sister Ichi married \#0010.
+@83.6
+\#00C3 had come one step closer to his dream of marching on the capital.
+@84.0
+Great lord! \#024B has come!
+@84.1
+Oh! \#0FFE! What is it?
+@84.2
+I heard you were in danger and could not hold back; with the boss's leave I have come to help.
+@84.3
+Oh, that is reassuring! Then we fight together.
+@84.4
+I am grateful... And so, you do mean to take the field?
+@84.5
+\#01C1 is a famed strategist... It might be wise to hole up in the castle and let him pass...
+@84.6
+Say no more, \#0A4B... My mind is made up. If I let \#09C1 pass, I could not face my ally Lord \#10C3.
+@84.8
+And for warriors of Mikawa to be seen flinching before the enemy would be the height of shame. Whoever he is, we will strike him!
+@84.9
+...If you are that resolved, my lord, we will only follow.
+@85.0
+My lord, the scouts report that the \#11C1 army will not stop at this \51E6 Castle but pass by and head west.
+@86.0
+Everyone, we march! We will protect the Iga village!!
+@86.1
+Ooooh!!
+@87.0
+Everyone! We will protect the Iga village!! Crush them utterly!
+@88.0
+News! It seems the \#10C3 army is still preparing to march and has not yet readied its guns!
+@88.1
+There is no better chance than now! Attack!
+@88.2
+Everyone! This is the elite army led by \#00C3 himself. Do not be careless; fight with all you have!
+@89.0
+Halt! Who goes there!
+@89.1
+I am \#024B of the \D079... Would you announce me to the great lord of the \#11FA?
+@89.2
+Is that not \#0A4B! Why are you in a place like this?
+@89.3
+Yes... In truth, by the boss's orders! Ah, yes! I have something to deliver to Lord \#00C3...
+@89.4
+Lord \#09FA, who is this?
+@89.5
+A man who once served our house... Now, for his own reasons, he is a ninja of the \D079.
+@89.6
+I am \#024B.
+@89.7
+Hm, so you are \#0A4B. You said you had something for me... What does the boss of the \D079 want with me?
+@89.8
+Why, is that not \#0A4B?
+@89.9
+Lord \#10C3, you know this man?
+@89.10
+Yes...... So, \#0A4B! You said you had something for me... What does the boss of the \D079 want with me?
+@89.11
+No! It is not from our boss. It is from Lord \#10C3's sister, Lady Oichi!
+@89.12
+What?! From Oichi! What is this bag...?
+@89.15
+My lord... This is grave news!
+@89.22
+(I see, so that is what it meant... This man is sharp...)
+@89.23
+(I see, so that is what it meant... As expected of \%047F1...)
+@89.31
+Great lord, do not worry. Men of our band are holding off the \#1010 army.
+@89.32
+Oh! Is that so!
+@89.33
+Lord \#10C3, great lord, retreat quickly! I will stay here with \%047F1 and hold off the \#1017 army.
+@89.34
+Yes! Then I am counting on you, \#0A4B.
+@89.36
+Retreat! Everyone, do not fall behind! I am counting on you, \%047F1! And you, \#0A4B!
+@89.37
+Yes! Lord \#10C3, stay safe too!
+@89.40
+\%0424B, are you sure? Such a dangerous rear guard...
+@89.41
+The same goes for you... \%047F1, leave this dangerous fight to us ninja.
+@89.42
+The more dangerous, the more the great lord's trust and the greater the glory... I see this as a chance.
+@89.43
+(Calling such a dangerous task a chance... What an interesting man.)
+@89.44
+Now, \%0424B, shall we go and meet the \#1017 army!
+@90.0
+Hm? An army of Iga men?
+@90.1
+Lord \#11FA, it has been a long time. I am \#0AD9. We have come as reinforcements.
+@90.2
+\#0A4B is here too.
+@90.3
+Yes! Here!
+@90.4
+This time we will strike down the traitors together.
+@90.7
+Lord \#11FA, we will strike down the traitor \#0010! I leave the attack on \#1017 to the \#11FA army.
+@90.8
+Understood. Then we will break the \#1017 army. Lord \#10C3, punish \#1010 to your heart's content.
+@90.9
+Lord \#11FA, and \%0424B, I leave \#1017 to you.
+@90.10
+I look forward to your feats too, \%04205.
+@90.11
+Then, let us go!
+@92.0
+Lord \#07FE, the \#11BF army has surrounded \51E5 Castle!
+@92.1
+The boss says, "Come to me at once."
+@94.0
+We are about to clash with \#0817's army!
+@94.1
+Everyone, listen well! Whether our allies can retreat depends on how hard we fight!
+@94.2
+Whatever it takes, we will meet the \#1017 army here... and we will come back alive!
+@96.3
+\#0A4B, and the \D079 too, fought well. You have my thanks.
+@96.8
+Then, great lord, we will take our leave.
+@96.20
+...Now he should be able to retreat safely.
+@96.22
+\%03... Take care of the great lord! Until he has retreated safely!
+@96.23
+And you, \%03?
+@96.24
+Me... I will buy time here. I will be the decoy, so you get going too!
+@96.36
+Now, great lord! Flee quickly! Do not let \%047F1's death be in vain!
+@96.37
+Yes! Right, retreat!
+@97.0
+We did it! We drove off the \#10C3 forces!
+@97.1
+A report: the enemy has withdrawn to the rear.
+@97.2
+Good. We pull back too and regroup.
+@97.3
+W-we cannot hold out any longer!
+@97.4
+So this is the end... Boss, I could not drive off the enemy.
+@97.5
+Now I will take down as many enemies as I can, alone, and thin the troops heading for the Iga village.
+@97.6
+Great lord of the \#11FA, forgive me for being of so little use.
+@97.17
+\Z001, forgive me for dying here...
+@97.18
+In \1006, month \1007, \#07FE fought to protect the Iga village from the Oda army, and was defeated.
+@97.19
+His last stand terrified the Oda army and led to its withdrawal; later it was rumoured that demons lived in Iga.
+@97.20
+It was ironic that \#07FE, who became a ninja for \#01FA, was killed by the army of \#10C3, the \#11FA ally,
+@97.21
+and more ironic still that \#07FE's fierce fight led \#00C3 to decide to crush Iga utterly as "a land of monsters."
+@98.0
+We did it! We drove them off somehow!
+@99.0
+We did it! We beat the \#10C3 army!
+@99.2
+Good. Prepare to pull back. We return in triumph.
+@99.3
+Lord \#17FE, terrible news.
+@99.4
+What is it?
+@99.5
+The \#10C3 forces under \#00BF have made a surprise attack on the \<1F3 village.
+@99.6
+Was \#08C3's army a decoy? Back to the \<1F3 village at once!
+@99.8
+So this is the end... Everyone, fall back to Iga for now.
+@100.0
+We won! The enemy has fled! We escaped from the tiger's jaws!
+@100.1
+Good... Let us return as fast as we can. I must report to the great lord that we are safe! All troops, return at once!
+@100.2
+\%04205! You did it!
+@100.3
+\%047FE, good work too. We must hurry back... Until next time... Take care!
+@100.4
+Farewell!
+@100.5
+(\#0205... A remarkable man. He may become a great figure one day.)
+@100.6
+Ngh...! Curses... We lost.
+@100.7
+But at least we held them up... Anyway, I must get back alive and report to the great lord!
+@100.8
+\%047FE, good work. A loss is a loss, but we did our job. Then, farewell.
+@100.9
+Take care, \%04205...
+@101.2
+Thanks for the \#11FA army's work. And the Iga ninja too!
+@101.11
+I have no excuse...
+@101.12
+Great lord, do not lose heart!
+@102.0
+Quite something, is it not?
+@102.8
+Hahaha! The counter-ambush worked!
+@102.9
+We dealt the enemy heavy losses!
+@103.0
+Now \41DF is ours. Well done, everyone.
+@104.0
+Lord \#07FE! They say \#00BF, adopted into the \#1103 clan, has murdered his adoptive father \#0103.
+@104.1
+What! Then what will become of the \#1103 clan?
+@104.2
+It seems the \#10C3 clan will take this chance to swallow it up.
+@104.3
+\#0103, eighth Ise governor of the noble \#1103 house, had adopted \#00C3's son \#08BF and retired.
+@104.4
+When \#08BF's men attacked his retreat, \#0903 fought hard with the sword taught by \#01E7 himself, but met a sorry end.
+@104.5
+\#0103, aged \1006... A bitter death.
+@104.6
+Lord \#07FE! Lord \#00BF has come to take up post as lord of \51E7 Castle.
+@104.7
+Lord \#00BF? I see.
+@106.0
+Lord \#07FE, the \#10C3 and \#11FA clans have formed an alliance.
+@106.1
+The \#10C3 and \#11FA clans were enemies for many years. It is remarkable they managed an alliance.
+@106.2
+They must have decided that fighting each other was unwise.
+@106.3
+Now that I think of it, Lord \#09FA thought highly of Lord \#08C3.
+@106.4
+And not just an alliance. Lord \#00C3's daughter is to marry Lord \#01FA's heir.
+@106.5
+And when Lord \#09FA's heir comes of age, he will receive a character from "\#08C3" and be called "Nobuyasu."
+@106.6
+The bond between the \#10C3 and \#11FA clans looks set to be very strong.
+@106.7
+In \M001, month \M002, \#00C3 allied with \#01FA.
+@106.9
+\#08C3 arranged for his daughter, Princess Toku, to marry \#09FA's heir, Takechiyo.
+@106.10
+In the ever-shifting Sengoku age, this alliance became an exceptionally strong bond.
+@109.0
+Lord \#07FE, Lord \#01FA has given up the name Matsudaira. From now on he will call himself Tokugawa Ieyasu.
+@109.1
+\%03, they say \#01FA of \A3A2 has changed his name to Tokugawa Ieyasu.
+@109.2
+The great lord has changed his name... Lord Tokugawa Ieyasu... Yes, a fine name.
+@110.0
+Now, let us begin the council.
+@110.1
+Boss! Have you heard about the Ikko uprising in Mikawa?
+@110.2
+I have... I hear Lord \#0290 has sided with the rebels...
+@110.3
+If the great lord of the \#11FA is in danger, we cannot stand by!
+@110.4
+Yes... Which is why I give \#024B and \#0049 a secret mission.
+@110.5
+Us...?
+@110.6
+Yes. The truth is... I want you to find out what Lord \#1290 really intends.
+@110.7
+Really intends...?
+@110.8
+Lord \#1290 is certainly a devout Ikko follower... and he does seem to have sided with the rebels.
+@110.9
+But in fact he may only have been made a figurehead to unite the scattered rebels.
+@110.10
+If fervent Ikko followers have forced him into leading the rebels, rescue him at once.
+@110.11
+I see... Then the rebels would be a rabble... With no one to command them, they would be easy to crush.
+@110.12
+But... if Lord \#1290 has truly betrayed the \#11FA clan and sold his soul to the Ikko faithful... kill him.
+@110.13
+Kill him?!
+@110.14
+You mean we may take his life?
+@110.15
+But that is...
+@110.16
+Either way, Lord \#1290 must be separated from the Ikko faithful. That is the point...
+@110.18
+Honda Yahachiro Masanobu... As an ally there is no man more dependable... as an enemy, no man more frightening.
+@110.19
+Is that gentleman so capable?
+@110.20
+You do not know Lord \#1290's true worth. No, few even in the \#11FA clan have noticed it...
+@110.21
+I would rather he lived and worked for the \#11FA clan... but if he is an enemy, that cannot be. Finish him without mercy... Understood?
+@110.23
+\#0A4B, and you?
+@110.24
+...As you command.
+@110.25
+Then go at once. I hear the rebels are holed up in \51E5.
+@110.26
+\#0A4B! Whatever you do, do not get in my way.
+@110.27
+Then go! Do not fail.
+@111.0
+Word has come that \#00BF's army is heading for this \<1F3 village.
+@111.1
+What!! Why attack this village?!
+@111.2
+I do not know. But there is no doubt \#08C3 finds us an eyesore.
+@111.3
+\#0FFE, I order you: drive back \#00BF's army.
+@111.5
+\#00C3's army has attacked the Iga village.
+@111.6
+What!! And did you drive them off?!
+@111.8
+What happened?!
+@111.9
+We were dealt a crushing blow. The boss stayed in the rear guard to save the survivors and met a heroic end...
+@111.11
+Lord \#02D9 said the next boss is \#07FE... Those were his last words.
+@111.12
+And as proof, this...
+@111.13
+Me, boss... I understand.
+@111.14
+I, \#0FFE, will carry on the boss's will.
+@111.15
+In \1006, month \1007, \#00C3's second son \#08BF invaded Iga. The Iga men fought back using the terrain but were beaten, and the village was devastated.
+@111.16
+It is what later ages call the Iga War. They say the people of Iga were cut down without mercy.
+@111.17
+Later it was told that, thanks to \#02D9's sacrifice, the leading Iga men had survived.
+@111.19
+Who is there?!
+@111.20
+I am \#0049. I have come to ask the new boss for leave to go.
+@111.22
+My family was slaughtered in this attack. I cannot forgive \#08BF.
+@111.25
+\#08C3. Putting that fiend to death is the fate of this \#0049.
+@111.32
+Later it was told that, thanks to \#02D9's sacrifice, the leading Iga men had survived, but \#0049's whereabouts were unknown.
+@112.0
+Word has come that \#00BF's army is heading for this \<1F3 village again.
+@112.1
+They are attacking again, without learning their lesson?!
+@112.2
+Yes, it seems the last defeat did not teach him. \#0FFE, I order you to drive back \#00BF's army.
+@112.4
+\#00C3's army has attacked the Iga village again.
+@113.0
+At last the main \#10C3 army has set out to conquer Iga.
+@113.1
+They say they are preparing to take the \<1F3 village with a larger army than ever.
+@113.2
+So the main \#10C3 army at last...
+@113.3
+\#08BF, I hear you have been beaten by the Iga men twice now.
+@113.4
+I am sorry. But they use ninja arts; they are not easily dealt with.
+@113.5
+What are you saying! Are you telling me Iga is home to monsters?!
+@113.6
+I, \#08C3, will attack them myself! I will spare no one who stands in my way.
+@113.7
+In \1006, month \1007, \#00C3, angered by his second son \#08BF's repeated defeats, decided to march on Iga himself.
+@113.8
+An army larger and more elite than ever will come.
+@113.9
+How large do you expect it to be, Boss?
+@113.10
+I expect two armies, each of 20,000 men and 4,000 guns.
+@113.11
+\#0FFE, strike first. Hit them before the \#00C3 army sets out.
+@113.12
+Once they are fully prepared, we have no chance. Strike before that.
+@113.16
+Well... This time we were attacked by a greater army than ever before...
+@113.17
+What has happened to Iga, to the Iga village?!
+@113.23
+In \1006, month \1007, hearing of his second son \#08BF's repeated defeats, \#00C3 invaded Iga with a great army.
+@114.0
+Hm, you have come, \%0424B.
+@114.2
+This time I have a special request. I want you to go and help the great lord of the \#11FA.
+@114.3
+Help the great lord of the \#11FA?
+@114.4
+You know that the great lord's ally, Lord \#00C3, took up the Shogun and marched on the capital.
+@114.5
+Lord \#0017, who once sheltered the Shogun but failed to march on the capital, has lost face...
+@114.6
+So at every turn the \#1017 clan ignores the orders of Lord \#10C3 and the Shogun.
+@114.7
+And what does that have to do with the great lord of the \#11FA...?
+@114.8
+Losing patience with \#0017's attitude, Lord \#10C3 has finally declared a campaign against \#1017...
+@114.9
+Naturally, the \#1010 and \#11FA clans, allies of the \#10C3 clan, were asked for reinforcements.
+@114.11
+The great lord of the \#11FA has agreed to send troops, but the \#1010 clan has not made its position clear.
+@114.12
+No wonder. The \#1010 and \#1017 houses have been allies for three generations...
+@114.13
+Yes... Even though he married \#08C3's sister Lady Oichi, he cannot bring himself to decide, I suppose.
+@114.14
+So should I go as reinforcements for the great lord and attack the \#1017 clan with him?
+@114.15
+No, that is not it. That is not your job. Your job is the \#1010 clan's movements I just spoke of.
+@114.17
+\#1010 may betray \#00C3...
+@114.19
+If \#1010 betrays them, the \#10C3 army and the great lord's army attacking \#1017 will have their retreat cut off.
+@114.20
+......Indeed.
+@114.21
+Your job is to prevent that. If \#0810 does not betray them, all is well... but if he does,
+@114.22
+I hold up his army and secure the retreat for the great lord's forces, then.
+@114.23
+Exactly. I will send \#0049 with you. Work together on this.
+@114.24
+I can do it alone, but...
+@114.25
+Now, do not say that. You there, call \#0849.
+@114.26
+......So that is the situation. Understood, \#0849?
+@114.27
+Working with \%0424B... I am not too happy about it, but if the boss says so, I have no choice.
+@114.28
+Good, then go. Take good care of the great lord of the \#11FA!
+@115.0
+\%0424B, you have come.
+@115.2
+Just as I thought... \A3A2 has asked \A3A3 for reinforcements again.
+@115.3
+Then, against \#1017 and \#1010?
+@115.4
+Yes. This time I will take the field too, to help Lord \#11FA.
+@115.6
+Call \#0849 too. This time our whole band goes to war!
+@116.0
+Boss! A fast rider has just come from the great lord of the \#11FA.
+@116.1
+What?! And what does the great lord of the \#11FA say?
+@116.2
+Yes! They say Lord \#00BF has cut down his three chief retainers: Okada, Tsugawa and Asai.
+@116.3
+What?!
+@116.4
+Okada Shigetaka, Asai Tamiyamaru and Tsugawa Katsuharu, chief retainers of \#00BF, were all men in league with \#0205...
+@116.5
+For \#00BF to cut down those three was the same as declaring himself \#0205's enemy...
+@116.6
+War between Lord \#08BF and Lord \#0205 cannot be avoided...
+@116.7
+The \#11FA clan is allied with Lord \#08BF, so the great lord of the \#11FA is sure to be drawn in...
+@116.8
+Yes. They say Lord \#08BF has already asked for reinforcements.
+@116.9
+And what will the great lord do?
+@116.10
+They say he has accepted and will take the field.
+@116.11
+Then the great lord must have asked us to take the field as well?
+@116.13
+Good! Then we march!
+@117.0
+The \#11FA clan destroyed... Then what was all I have done for?!
+@117.1
+Great lord, why...
+@117.2
+Grieving forever will get me nowhere. From now on I will use my strength for the \D079 and for myself.

@@ -1,0 +1,304 @@
+@0.0
+Lord \#07FE! Lord \#1205 says he wishes to discuss the future of the \#10C3 clan.
+@0.1
+The place is \51E8. He asks you to come as soon as you can.
+@0.2
+Hmph... Tell him I accept.
+@0.3
+I must now go and discuss the future of the \#10C3 clan with \%04205.
+@0.4
+Look after things while I'm away.
+@0.6
+\%03! They say \%0417B and \%04205 met at \51E8 to discuss the future of the Oda clan.
+@0.9
+Our lord put forward Lord Nobutaka as successor, but \%04205 firmly opposed it...
+@0.10
+In the end, the successor was decided to be Lord Sanboshi, heir of the late Lord Nobutada.
+@0.11
+What? Lord Sanboshi!? He is far too young to govern!
+@0.12
+Yes... And then?
+@0.15
+What? Lord Sanboshi!? He's far too young to govern, surely!
+@0.16
+So it seems \%04205 is to govern in his place.
+@0.17
+As expected of \%04205... His political skill is no ordinary thing... Our lord must have had a hard time.
+@0.18
+Hmm... So now \%04205 has an excuse to seize real power.
+@0.19
+Ugh... So now \%04205 has been given an excuse to seize real power...
+@1.0
+Curse that Monkey! I will never bow to him!
+@1.1
+But... All we can rely on now is this castle.
+@1.2
+Silence! Could justice ever fail to win in this world? Who has justice on his side, \#0A05 or I?
+@1.3
+That, of course, is our side, but...
+@1.4
+Then why can we not win!?
+@1.6
+Terrible news! \#0205's army is marching on this castle!
+@1.8
+So he's come! That Monkey! It's time to settle this!
+@1.10
+Oichi! I am causing you trouble too... But I cannot retreat now!
+@1.11
+I understand... I pray for your fortune in battle.
+@1.13
+My lord! At any rate, prepare to meet them!
+@1.14
+Good, gather the commanders! Prepare to march!
+@1.15
+Terrible news! The castle troops have run away!
+@1.16
+What! N-nonsense!
+@1.17
+How many are left?
+@1.18
+About 9,000, I believe...
+@1.19
+9,000...
+@1.20
+My lord! Don't give up hope yet. Strike \#0A05 with the men who remain!
+@1.21
+Y-yes! I'll show that wretch what I can do!
+@1.24
+How many are left?
+@1.28
+Y-yes! I'll show that wretch what I can do!
+@2.0
+Everyone, we are waiting for you. Please come to the Council Chamber.
+@2.1
+Mm, I know.
+@2.4
+First, the successor of the \#10C3 clan...
+@2.8
+Only Lord \#08C1 meets this condition.
+@2.13
+Wh-what nonsense! It is because Lord \#08C2 also died that we are having this talk at all!
+@2.17
+Bring Lord Sanboshi in!
+@2.38
+(...Curse him, so \#0A05 had already won over \#1235 and \#1042.)
+@3.1
+\#0A05 has held Lord \#08C3's funeral!
+@3.2
+What! Quick as ever, isn't he.
+@3.3
+What! He's beaten us to it.
+@3.4
+Now \#0A05 has shown the world that he is Lord \#08C3's successor...
+@3.5
+We must take measures too...
+@3.6
+In that case, there is a good way.
+@3.7
+Take Lady Oichi as your wife.
+@3.8
+What! Are you in your right mind!?
+@3.9
+Since \#0010's death, Lady Oichi has remained unmarried.
+@3.10
+To stand against \#0A05, if you took Lady Oichi, sister of the late old lord, as your wife...
+@3.11
+True, that would let me stand against the Monkey... But would Lady Oichi agree?
+@3.12
+Leave it to us.
+@3.13
+W-well...
+@3.14
+It seems they have already taken measures too.
+@3.15
+They say Lord \#097B is to take Lady Oichi as his wife...
+@3.16
+What! Lady Oichi, sister of the late old lord?
+@3.17
+True, that would let him stand against the \#1205...
+@3.18
+Hmm, Lady Oichi and our lord, husband and wife... I never imagined it.
+@3.19
+True, that would let him stand against the \#1205, but...
+@3.20
+Lady Oichi and our lord, husband and wife... I never imagined it.
+@4.0
+\%03! Lady Oichi has arrived.
+@4.1
+Show her in, and mind your manners.
+@4.3
+Lady Oichi, welcome to this humble place.
+@4.4
+Lord \#097B, thank you for coming out to meet me...
+@4.5
+\#0205 is trying to steal the realm my brother built.
+@4.6
+To stop him, Lord \#097B and the \#10C1 must join hands.
+@4.7
+Just as you say. Leave everything to me, \#097B.
+@4.8
+I will not let an upstart like \#0A05 do as he pleases with the realm.
+@4.9
+Reassuring words. It will be worth my while to marry you.
+@4.10
+Th-then, Lady Oichi will truly be my bride!?
+@4.11
+...Yes. I am unworthy, but I place myself in your hands.
+@4.12
+N-no, the honour is mine! Lady Oichi, I place myself in yours!
+@4.13
+You are to be my husband... Please call me "Oichi", not "Lady Oichi".
+@4.14
+I-is that so! Th-then... Oichi!
+@4.16
+Ohhh! I am a lucky man!!
+@4.17
+...I lost my last husband in war. This time, please make me happy.
+@4.18
+Of course...! Oichi, I will make you happy!
+@4.19
+In month \M002 of \M001, Oichi, \#00C3's sister, remarried to \#017B...
+@4.20
+It was a marriage that seemed to defy the tragic fate of a woman of the warring age...
+@4.21
+\%03! Lady Oichi has married our lord.
+@4.22
+I see. So they are married at last...
+@4.23
+Now we must clash with \#0205 head-on.
+@4.24
+Is that so? So they are married at last...
+@4.25
+Now we'll have to clash with \#0205 head-on.
+@5.0
+\#0A05! This time we settle it!
+@5.1
+It seems \#0A05 has arrived at \51E8.
+@5.4
+Uncle! How long do you mean to keep up this standoff?
+@5.5
+Don't be so hasty.
+@5.6
+Our spies report the enemy is struggling with supplies.
+@5.7
+A long siege favours us. Wait a while yet.
+@5.8
+But doing nothing like this will hurt the troops' morale.
+@5.9
+Let us go out and blunt the enemy's advance. You can follow at your leisure, Uncle.
+@5.10
+Don't underestimate the skill with which he struck down \#080E.
+@5.11
+Since when have you been so timid, Uncle!
+@5.12
+In that case, whatever you say, I will march.
+@5.13
+...Very well. If you insist, I will march too.
+@5.14
+But after one clash, withdraw at once.
+@5.15
+Understood.
+@6.0
+\#0205 is no longer a daimyo? Then the campaign is off. We return.
+@6.1
+That \#0A05! He's run off with his tail between his legs.
+@6.3
+It seems \#0A05 hasn't come yet.
+@6.10
+A long siege favours our side. Wait a while yet.
+@7.0
+Here he comes! \#0205!
+@7.1
+\#0955! Don't break formation!
+@7.2
+There goes Uncle worrying again. I'll take \#0A05's head, just watch.
+@7.3
+\#0955!!
+@8.1
+There was no need for Uncle to worry.
+@8.3
+By defeating his greatest enemy, \#0205, at the Battle of Shizugatake, \#017B greatly raised his name...
+@8.4
+With this, the future of the realm after \#00C3's death became impossible to predict...
+@8.6
+It can't be helped. We leave at once.
+@8.7
+Report! The enemy army is still intact.
+@8.8
+We fall back for now and regroup.
+@8.9
+At the Battle of Shizugatake, the \#017B army was utterly crushed by \#0205.
+@8.10
+With this, \#0A05 took firm control of the realm after \#00C3's death...
+@9.0
+Listen, all of you! This is the decisive battle with \#0205! Fight with no thought for your lives!
+@10.0
+Victory is ours!
+@10.1
+Ha! See that, Monkey! This is \#017B's true strength! Justice always wins!
+@10.2
+Report! Lord \#0205 appears to have been killed!
+@10.4
+...So it was not \#0A05 who was to inherit the late old lord's great work.
+@10.5
+From now on, we must carry on the late old lord's will and press on with unifying the realm...
+@10.7
+Having destroyed \#0205, \#017B then brought \#0A05's commanders under him as well...
+@10.8
+It was plain to all that \#097B was, in name and in fact, the heir to \#00C3's work of unification...
+@10.9
+It was no decisive victory, but we somehow drove off the \#1205 army...
+@10.10
+Mm, you all held out well... We can rest easy for now.
+@10.11
+I wonder what the \#1205 side will do next... I can't tell...
+@10.13
+Report! Enemy soldiers have broken into the main keep!
+@10.14
+So... this is the end. I'm sorry, all of you... for having followed me...
+@10.15
+What are you saying! We will follow you anywhere!
+@10.17
+Oichi...
+@10.18
+I am sorry for you... But there is no need for you to die too. Leave this castle!
+@10.20
+\#0A05 is in love with you. Surely he won't treat you badly... At least you must live!
+@10.21
+No. I will die in this castle with you!
+@10.23
+I could not bear to become the plaything of that monkey-faced upstart...
+@10.24
+Besides, I am \#017B's wife!
+@10.26
+My last husband, \#0010, would not let me die with him...
+@10.27
+I cannot bear the grief of being parted from a husband by death again...
+@10.28
+Please... let me go with you.
+@10.29
+Oichi...!
+@10.30
+It was a short time... but I was happy.
+@10.31
+Oichi... forgive me!
+@10.33
+\#017B and Oichi took their own lives with their retainers inside \51E6 Castle, wrapped in crimson flames...
+@10.34
+In the eyes of \#0205, watching the blaze from outside the castle, there was no victor's pride...
+@10.35
+Only tears of grief for the loss of his lifelong rival and the beauty he had longed for...
+@11.0
+It seems \%04205 is busy exchanging messages with daimyo everywhere.
+@11.1
+Mm. We cannot just stand by and watch!
+@11.2
+Right! I will challenge \#0A05 to a battle for the realm!
+@11.3
+A fine idea. In valour, no one can surpass \%0417B.
+@11.4
+In that case, let us crush \%04205 at once.
+@11.6
+Uncle, let me serve you!
+@11.7
+\#0955, is it? Good! I look forward to your exploits.

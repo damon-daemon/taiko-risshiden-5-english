@@ -1,0 +1,380 @@
+@0.0
+\#0969... Good timing. There is something I would ask you.
+@0.1
+Yes, what is it, Father?
+@0.2
+Now that the great battle that decided the realm is over, do you think the realm will at last be at peace?
+@0.3
+Yes, it will be at peace
+@0.4
+No, I doubt it will end here
+@0.5
+Yes. I believe things will move toward an age of peace.
+@0.6
+Hmph. You are still naive...
+@0.7
+Mark my words: before long, the realm will be thrown into turmoil again.
+@0.8
+And then, the \#1167 name shall once more resound throughout the realm.
+@0.9
+No. I do not believe it will end like this.
+@0.10
+Hm, so you think so too, \#0969. I am of the same mind.
+@0.11
+Before long, the realm will be thrown into turmoil again.
+@1.0
+Days without war are peaceful enough, but having no money is a real trouble.
+@1.1
+Hmm. As long as we cannot leave this town, our ways of earning money are limited... What to do...
+@1.2
+How is your father doing these days?
+@1.3
+Even Father may be at the end of his tether. Shall I go and see how he is?
+@1.4
+(No war, peaceful days... but without money we will starve.)
+@1.5
+(As long as I cannot leave this town, my ways of earning money are limited... What to do...)
+@1.6
+(At this rate even Father may be at the end of his tether. Shall I go and see how he is...?)
+@2.0
+\#0969. What is it?
+@2.1
+I came to see how you are, Father.
+@2.2
+As you see. I have nothing but time, so I was just tending my sword.
+@2.3
+I see... By the way, Father, there is an unfamiliar band wound round the hilt of that sword.
+@2.4
+This? It is not a sash. It is cotton woven flat. I had it made to my own design.
+@2.5
+Oh, you made it, Father...
+@2.6
+Yes. It works rather well. Take a look.
+@2.7
+Then, with your leave... Hm, it is very sturdy work.
+@2.8
+Is it not? Unlike braided cord, it does not stretch, so it has many uses.
+@2.10
+Excuse me. I made some stew, and thought I would bring you some.
+@2.11
+Ah, just in time. Look at this.
+@2.12
+What is it? Show a woman a sword and she will not understand it, you know.
+@2.13
+Not the sword. Look at the cord wound round the hilt. Father made it.
+@2.14
+Oh, Father made it... Why, this would be good for holding a kimono sash in place.
+@2.15
+A sash cord, eh? I see. With some thought to colours and patterns, it could become something fine.
+@2.16
+Father, why not make lots of these and sell them?
+@2.17
+Sell these... Hm, that may be a good idea. It could help us get by.
+@2.18
+Father, how about making these and selling them?
+@2.20
+In month \M002 of year \M001, the flat cord put on sale in \41DE quickly became the talk of the town.
+@2.21
+Samurai bought it for sword cords and hilt wrappings, and peddlers to tie their loads.
+@2.22
+This "Sanada cord" is still used today to tie paulownia boxes and the like.
+@3.0
+Oh, dear! Father is...
+@3.1
+Father? What has happened to him?
+@3.2
+They say he collapsed this morning on his way to the privy.
+@3.3
+What did you say? I will go to him at once.
+@3.4
+Lord \#0969, terrible news!
+@3.5
+You are Father's page. What are you in such a panic about?
+@3.6
+M-my lord is...
+@3.8
+Yes, he collapsed this morning on his way to the privy.
+@3.9
+What did you say? I will go at once.
+@3.11
+...\#0969. What are you fussing about? As you see, I am... Ugh, cough!
+@3.12
+Father, please lie still.
+@3.13
+...I know. I, \#0967, cannot die before \#09FA does...
+@3.14
+Just so. If you live, there will soon be interesting times again.
+@3.15
+...Yes, that is it. If war comes to the realm again, I shall surely give \#09FA a nasty shock, no, stop his very breath. I have a plan for it.
+@3.16
+And what plan might that be?
+@3.17
+...Heh. The plan would not work with you, \#0969. It has to be me.
+@3.18
+You say I, \#0969, am not up to it?
+@3.19
+That is not it. Only because I have beaten \#09FA more than once would our allies accept the plan.
+@3.20
+...That may well be so.
+@3.21
+In any case, it all starts now. I cannot die here... I cannot die... Ugh.
+@3.23
+...\#0969... listen well. ...Having been born a man, never give in to despair, whatever the hardship...
+@3.24
+...Always think of the best plan and the next best, and believe in yourself. Only such a man cuts his own path...
+@3.25
+...That is all... I wanted to say... Urgh!
+@3.26
+Father! Fatherrrrr!!
+@3.27
+Despite devoted nursing, \#0167 passed away in exile in Kishu, aged \1009...
+@3.28
+(Father... I, \#0969, will keep your words close to my heart and live on...)
+@4.3
+Yes, I will come at once.
+@4.8
+I have a proposal.
+@4.16
+I see... What do you think, Lord \#0A06?
+@4.19
+Yes, sir. Then I will start work at once. By your leave.
+@4.20
+Right, there is no time to dawdle. Let's get building.
+@4.21
+Yes! The outwork has turned out just as I wanted!
+@4.22
+Hmm, it turned out differently from what I pictured, but it is done, more or less...
+@4.26
+Lord \#0A06 orders you to stand by until the enemy moves.
+@4.36
+And the woman who feared its power most, Lady Yodo, turned her hard line around with one word, sought peace with \#11FA and concluded it.
+@5.24
+\#0FFE...
+@7.0
+So this is where I live from today...
+@7.1
+You are Lord \#0169, I take it. As you settle in this town, there are a few things I must ask of you.
+@7.2
+First, Lord \#0969, never forget that you are an exile. You may not leave this town.
+@7.3
+You may walk about the town, but please keep away from the tavern and the guild, where many people come and go.
+@7.4
+Also, at the smithy, please be sure never to take work that leads outside the town.
+@7.5
+Forgive me for repeating myself, but whatever the reason, you may not leave this town.
+@7.6
+As long as you keep to these rules, we shall not trouble you further.
+@7.7
+Understood. I will do as you say.
+@8.0
+Ah, excuse me, samurai sir.
+@8.1
+Do you mean me?
+@8.2
+Yes. I have been walking all this way and am parched. I hoped I might have some tea somewhere...
+@8.3
+(This is no ordinary monk.)
+@8.4
+In that case, please come to my house.
+@8.5
+Thank you. Then I will impose on you without ceremony.
+@8.6
+Now, where have you come from? \51E5, if I am not mistaken.
+@8.7
+...So you noticed. Indeed, I carry a letter from \51E5.
+@8.8
+This is it? I have received it.
+@8.9
+Then this humble monk will take his leave.
+@8.10
+At last, what had to come has come.
+@8.11
+An invitation from the \#1206 clan?
+@8.12
+Exactly. The time to leave this place has finally come.
+@8.13
+(Side with the \#1206 clan, eh... The time to leave this place has finally come.)
+@8.15
+\#0FF1. I was about to call you. You read the situation well.
+@8.16
+I saw you with someone dressed as a monk just now, my lord. I thought something was afoot and came at once.
+@8.17
+Yes. An invitation has come from the \#1206 clan.
+@8.18
+Then at last...
+@8.19
+That's right. We leave here and enter \51E5 Castle. Everyone comes with me, of course. Prepare at once.
+@8.21
+The retainers who had followed \#1169 father and son to \41DF gathered once more around \#0969.
+@8.23
+\#0FF0, you came.
+@8.24
+Like I promised, I'm coming with you, big brother!
+@8.25
+Yes, I am counting on you.
+@8.26
+Right, now then...
+@8.29
+Good, everyone is here. We now head for \51E5 Castle. Move out!
+@8.30
+As the townsfolk watched from afar, the party marched boldly on and at length reached the gate at the edge of town.
+@8.31
+Where do you think you are going? You may not leave this town...
+@8.32
+Open the gate!
+@8.33
+Wh-what are you saying? You cannot...
+@8.34
+...I said open the gate!
+@8.35
+Eek! Y-yes, sir!
+@10.6
+Hm...! So they mean to pick a quarrel and drag the \#1206 clan into war?
+@10.8
+(Things are going to get busy soon...)
+@10.9
+Hmm... What will become of the \#1206 and \#11FA clans...?
+@11.4
+...Meaning?
+@11.14
+(If so, \41DE should be contacting me before long...)
+@12.0
+Oh right, I am not supposed to go into the tavern.
+@13.0
+Oh right, I am not supposed to go into the guild.
+@14.0
+Where do you mean to go? You are not allowed to leave this town.
+@14.1
+Can't be helped. The move is off.
+@14.2
+The move has been cancelled. The 100 kan fee is refunded.
+@14.4
+Oh right, my apologies.
+@16.0
+I beg to report! \#0169 has arrived to lend his strength to the \#1206 clan!
+@16.1
+Oh, so these are \#1169's famed Red Guard! They look most dependable. Our lord will be delighted.
+@19.19
+His spear work, like that of a demon god, made the \#11FA army tremble, but in the end the few could not stand against the many.
+@19.20
+At length the battle was decided, and \#0FFE was wounded all over.
+@19.21
+(Huff, huff... I can no longer move...)
+@19.26
+You are a \#1206 man! I am Nishio Kyusaku of the Echizen force! Fight me fairly!
+@19.28
+...Hm, a fine warrior. Take my head and win yourself glory.
+@19.31
+Then, forgive me!
+@19.32
+Stab!
+@19.35
+But \#07FE breathed his last without seeing that final moment. He was \1006...
+@20.0
+Since the war between the \#11FA and \#1206 clans began, the fighting had swung back and forth.
+@20.1
+As expected, the \#11FA army concentrated its attack on the castle's south face.
+@20.2
+As a result, \#07FE's force ended up taking the enemy's great host on alone.
+@20.3
+How does the enemy look?
+@20.4
+Their main force is still massed, seemingly waiting for a chance to attack.
+@20.5
+Hm, the question is when they will strike...
+@20.8
+I beg to report! The powder store near the outwork seems to have exploded!
+@20.9
+Hm, the work of a traitor inside?
+@20.10
+My lord! The enemy is all heading for this outwork! The blast seems to have spurred them on!
+@20.11
+Right, gunners, take aim! Do not fire until the signal!
+@20.12
+Yeah! First in is mine!
+@20.13
+Not yet, not yet... Let them come close...
+@20.14
+Now! Fire!
+@20.15
+Bang! Ba-ba-ba-bang!
+@20.18
+Urgh...
+@20.19
+Right, open the gates! We'll show them what the Red Guard can do!
+@20.22
+This is too much! Fall back, fall baaack!
+@20.23
+Don't chase too far! We fall back too!
+@20.25
+The enemy has taken heavy losses.
+@20.26
+Yes. Raise the victory cry!
+@20.27
+Ei, ei, ohhhh!!
+@20.28
+I know not how many tens of thousands the Kanto side has, but now we know there is not a single man among them!
+@20.29
+Ha ha ha! Too true!
+@20.30
+Urgh... What humiliation... Our great host beaten by one little outwork...
+@20.32
+You drove the enemy back splendidly.
+@20.33
+If we hold like this, the Kanto side's morale will surely crack, and some will come over to \#1206.
+@20.37
+Hm, what is that noise now?
+@20.38
+Judging by the direction, I believe it came from the main keep...
+@20.39
+I beg to report! A cannonball fired by the \#11FA army has struck the main keep!
+@20.40
+What?! Is Lord \#0A06 safe?
+@20.44
+Again! Lord \#0A06 is likely holding firm, but the lady mother may well give in...
+@20.52
+The outwork that \#07FE built was also torn down.
+@22.0
+The sale of Sanada cord made a profit of \1006 kan.
+@22.1
+From now on, profits from Sanada cord sales will go to the hero's savings at home.
+@23.0
+Around this time, \#0169 changed his name to Sanada Yukimura.
+@23.1
+Having taken a name after my father, I must become a man worthy of it.
+@24.0
+Lord \#0A06! The \#11FA soldiers are filling in the inner moat!
+@24.2
+I told them to stop the work at once, but they only say "We were told to fill the moat" and pay no heed.
+@24.5
+Just so... While we send envoys, the moat fills up! We will soon be a bare castle!
+@24.8
+Please wait, Lord \#0A06.
+@24.9
+\#0FFE...
+@24.10
+Filling in even the inner moat is surely \#09FA's scheme.
+@24.11
+But if we dig it out again now, we give \#09FA a reason to start another war.
+@24.12
+And that is \#09FA's true aim.
+@24.13
+Then what should we do?
+@24.14
+Those filling the moat are the lowest ranks of the \#11FA army.
+@24.15
+A little money in their hands, and getting them to pause the work will be easy.
+@24.16
+Meanwhile, we send an envoy to \#09FA.
+@24.17
+That is what I call too leisurely! Once the castle is stripped bare it will be too late.
+@24.18
+Exactly... It was the \#11FA side who broke their promise first! We are not at fault.
+@24.19
+Lord \#0A06! Every moment counts. Your decision!
+@24.20
+Mmmm...
+@24.21
+Very well, \#0FF0. Do as you see fit.
+@24.23
+Even so... how hateful \#09FA is...

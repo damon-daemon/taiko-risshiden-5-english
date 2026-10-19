@@ -1,0 +1,192 @@
+@0.0
+Lord \#07FE, Lord \#07F1 is here to see you.
+@0.1
+My lord, I have something important to discuss.
+@0.3
+Sir. It concerns \41E0. There are signs of discord among the garrison.
+@0.4
+What do you mean?
+@0.5
+Sir. It seems it began when the rewards after we drove off the \#11C1 army were not shared fairly.
+@0.6
+Rewards... Well, we gained no land in that battle, so it can't be helped if the rewards fell short.
+@0.7
+But it seems the \#11C1 are taking advantage of it and plotting to win over \41E0.
+@0.8
+What, the \#11C1? I can't ignore that. So, what do you suggest?
+@0.9
+Sir. I think you should hand out rewards in person, my lord. Say, about 5,000 kan.
+@0.13
+Very well. That castle is worth it. I'll pay 5,000 kan.
+@0.14
+Yes, sir. Then I will make the arrangements.
+@0.15
+Still, this plotting makes me furious. Is there no way to teach the \#11C1 a lesson?
+@0.16
+Then how about turning their plot against them?
+@0.17
+Oh? What do you mean?
+@0.18
+The \#11C1 probably mean to make traitors inside the castle, stir up trouble and seize the castle in the confusion.
+@0.19
+If we pretend to have been won over, the \#11C1 troops will creep up in secret.
+@0.20
+And we ambush and destroy them instead, you mean.
+@0.22
+Interesting. Then I'll go into \41E0 myself and lead the troops there.
+@0.23
+It's only right that \41E0's problems be solved within \41E0. I won't pay.
+@0.25
+Lord \#07FE, \41E0 has fallen to \#0168 of the \#11C1!
+@0.26
+What! I can't believe that strong castle fell!
+@0.27
+Sir. They say he used the discord in the castle to break it up by plotting, and when the defenders fought each other, he took it.
+@0.28
+How terrible... However strong a castle is, it can't stand if it crumbles from within.
+@1.0
+Right, pick the men here and hide them in the nearby forest. Get ready.
+@1.2
+We'll lie in wait around here. Send out plenty of scouts.
+@1.4
+It seems the \#11C1 troops are approaching.
+@1.5
+Mm, don't move yet. When they're too close to escape, we strike all at once.
+@1.6
+Right, we wait for night, and when fire breaks out in the castle we charge. The main gate will be opened from inside.
+@1.7
+Not so fast!
+@1.8
+What, \#02CC here, of all places!
+@1.9
+I saw right through your plan. Now, attack!
+@1.11
+What, \41E0 has fallen! How did this happen?
+@1.13
+Curse you, \#11C1...
+@2.0
+So the \#11C1 army is in sight. They look rather shaken.
+@2.1
+It seems they sensed our army coming and were in the middle of retreating.
+@2.2
+Good, we'll crush them. Let's go!
+@3.0
+Victory is ours! The enemy is in full rout!
+@3.1
+What of \#09C1?
+@3.2
+It seems someone has taken \#09C1's head.
+@3.3
+Oh, well done! The victory is ours! Raise a victory cry!
+@3.5
+Right, for now we'll go into \41E1 and look at \#09C1's head.
+@3.6
+Now, let's inspect \#09C1's head... Though I don't really know \#09C1's face...
+@3.7
+Does anyone know \#09C1's face?
+@3.10
+I once served the \#11C1 house, so I know him by sight.
+@3.11
+Oh? Then what about this head? Is it \#09C1 without a doubt?
+@3.14
+Hmm... It looks very like him, but I think it's someone else...
+@3.15
+What, a stand-in?
+@3.18
+The \#11C1 often use doubles, so I think this is one too...
+@3.19
+Grr, we've been tricked.
+@3.20
+My lord, what will you do?
+@3.21
+We won't catch him if we chase now. It's galling, but we withdraw.
+@3.22
+Our side is losing!
+@3.23
+What is this? Beaten by an enemy who was running away!
+@3.24
+My lord, flee quickly. There will be another day.
+@3.26
+The troops that had left \41E1 to pursue the \#11C1 army were wiped out, and \41E1 fell to the \#11C1 army.
+@4.1
+What of \#0168?
+@4.2
+Sir, we killed him.
+@4.3
+This should teach the \#11C1 never to lay a hand on \41E0 again.
+@4.4
+Mm, well done, all of you. Return to \41E0.
+@4.7
+What is this? We caught them completely off guard!
+@4.8
+There's \#02CC! Surround him and kill him!
+@4.9
+What, you insolent dogs!
+@4.10
+There's no escape now. Have at him!
+@4.12
+Gwah... how bitter...
+@4.13
+In month \M002 of \M001, \#07FE launched a surprise attack on the \#11C1 troops but was killed in their counterattack. Age \1008...
+@5.0
+\#09B5, I'll show you what it means to defy me!
+@6.1
+Report. \#01C1 has begun an attack on \41E1.
+@6.2
+What, the \#11C1 are on the move? Striking while my hands are full... the sneaky wretch!
+@6.3
+My lord, what will you do?
+@6.4
+If \#09B5 and I fight now, we'll play right into the \#11C1's hands. Let's look for a way to make peace.
+@6.5
+What have you come here for?
+@6.6
+To tell you the truth, \#01C1 has begun an attack on \41E1.
+@6.7
+What, the \#11C1 army!
+@6.8
+Mm. If \51E8 falls to the \#11C1, all of northern Shinano will belong to the \#11C1. This is no time for us to fight.
+@6.9
+Hmm, that's quite true...
+@6.10
+So I want us to withdraw our troops.
+@6.11
+In that case, I have no objection.
+@6.12
+We heard Lord \#12CC would take this castle and banish me, so we had no choice but to rise in revolt.
+@6.13
+What, I never said any such thing!
+@6.14
+What, really?
+@6.15
+My lord, forgive me, but could this be a \#11C1 plot...?
+@6.16
+True, now that you mention it, he attacked \41E1 as if he'd timed it with this campaign.
+@6.17
+Hmm, so the \#11C1 tricked us into fighting each other...
+@6.18
+So it seems.
+@6.19
+Honestly, what a business. \#09B5, we'll forget this whole affair. Is that all right?
+@6.20
+Sir, if I may return to your service, I could ask for nothing better.
+@6.21
+Damn that \#09C1, making fools of us! We'll turn back at once and wring his neck like a skylark!
+@7.1
+My lord, word has come that \#01B5 of \41E0 has rebelled!
+@7.2
+What, \#09B5! I won't forgive him. I'll punish him at once!
+@7.3
+My lord, please calm down. It wouldn't be too late to see how things stand first.
+@7.4
+If we dawdle, the \#11C1 will move too and make trouble. We march!
+@7.5
+The old lord's army fought the \#11C1 army outside \41E1.
+@7.6
+What, the \#11C1 army attacked? And what happened?
+@7.7
+What, the \#11C1 army attacked? So what happened?
+@7.8
+Yes, the old lord's army thoroughly defeated the \#11C1 army.
+@7.9
+That's the old lord for you. Beating the \#11C1 army again after Uedahara... What splendid valour.

@@ -1,0 +1,42 @@
+@0.0
+Sakai in Izumi... The port town that prospered on the Ming trade still flourished in the warring age.
+@0.1
+The Sakai merchants took notice of the guns that had come to Tanegashima, quickly got hold of the method of making them, and began production.
+@0.2
+Sakai was now one of the greatest gun-making centres in the land.
+@0.3
+Sakai was also a fortress ringed by deep moats, self-governed by rich merchants called the Egoshu, an independent power under no daimyo.
+@0.4
+So the town of Sakai was freer and livelier than any other.
+@0.5
+In Sakai there was a young man named \#0225, who worked for \#006B, one of the richest merchants of all.
+@0.6
+Now I have nothing and serve another, but one day I'll be the greatest merchant in Japan... Right, let's work hard!!
+@1.0
+Ah, \%03. I have a visitor. Wait a moment.
+@1.1
+Well, well, if it isn't \%03. Long time no see.
+@1.3
+This gentleman is Lord \#0205, a samurai serving the \#10C3 clan.
+@1.4
+Lord \#0205... The one famed for the one-night castle at Sunomata...
+@1.5
+Ha ha, famed, am I! It's embarrassing to hear it from others.
+@1.6
+I've come to buy guns today. Lord \#08C3 believes the wars to come will be fought with guns.
+@1.7
+The \#10C3 clan will buy as many as you have, so stock up on guns!
+@1.8
+\%03, about the price...
+@1.9
+(If I stay, I'll just get in the way of their business.)
+@1.10
+\%03, I'll come back another time.
+@1.12
+Then, by your leave.
+@1.13
+Buying up all of Sakai's guns... The \#10C3 clan is on the rise. Perhaps this is...
+@2.0
+Have you heard? They say envoys of the \#10C3 clan have been visiting the merchant houses of this town a lot lately.
+@2.1
+(\#10C3 envoys at the merchant houses... I wonder if they've come to \B079 too...?)

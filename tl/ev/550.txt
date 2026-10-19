@@ -1,0 +1,246 @@
+@1.5
+You think I'll be attacked by bandits or something before I reach the Monkey's camp?
+@1.9
+Young lord, you worry too much.
+@1.10
+Ha ha ha, exactly! Well, I'll rest at my lodgings, Honnoji. You stay at Myokakuji.
+@1.16
+Well then, off to Honnoji, \%03.
+@1.37
+Bring me a bow! Bah, the likes of \#080E... Infuriating!!
+@1.39
+My lord! Please flee! I'll hold them off somehow!
+@1.40
+This is \#080E... There won't be a gap for even an ant to crawl out. Clinging to life would only make me a laughing stock. I'll fall here... Set fire to the temple!
+@1.41
+No! I'll cut a way out somehow! You must not die here, my lord... Think first of surviving!
+@1.42
+The \#100E soldiers... I'll strike them down!
+@1.43
+Gah...!
+@1.44
+\#0FFE!!
+@1.45
+My lord... f-forgive me... I wasn't... strong enough... urgh!
+@1.46
+Enough... It's all right, \#0FFE.
+@1.55
+But that glory came to a sudden end with \#000E's unexpected rebellion...
+@1.56
+And \#07FE too followed his lord in death, vanishing in the flames of Honnoji... aged \1009.
+@1.57
+Gyaah!!
+@1.58
+My lord! I've cut a way through! Quickly, escape this way!
+@1.59
+Hm!! \#0FFE, behind you!
+@1.62
+Ugh!?
+@1.63
+Are you all right, \#0FFE?!
+@1.64
+I-I'm fine. Just a stray arrow... More importantly, p-please flee quickly...
+@1.65
+\#07FE has been wounded.
+@1.66
+Grr... \#080E!
+@1.67
+My lord... you mustn't lose your head. A-anyway... flee from here.
+@1.68
+\#0FFE! Can you walk?
+@1.69
+Yes! Somehow...
+@1.70
+Good. We'll go to Myokakuji, where \#08C2 is.
+@1.72
+...No good. Myokakuji is surrounded by \#080E's men too... I don't know if \#08C2 is safe.
+@1.73
+M-my lord... it's dangerous here. Through Shimogyo, past Toji, then south from Toba...
+@1.74
+Right!!
+@1.75
+Ah!! It's \#08C3! \#08C3 is here!
+@1.76
+Damn!! Bah... \#0FFE, we break through!
+@1.77
+Y-yes!
+@1.80
+I-I've slain \#00C3!!
+@1.81
+D-damn youuu...
+@1.83
+The finishing blow!!
+@1.86
+And \#07FE too followed his lord in death, vanishing in the flames of the capital... aged \1009.
+@1.88
+Are you safe, \#0FFE?!
+@1.89
+Yes!! But there's no time to rest. We must hurry and flee!!
+@1.91
+Huff, huff... It seems the \#100E soldiers haven't reached this far.
+@1.92
+Mm... But we can't be careless yet! The question is how to get back to \51E5...
+@1.93
+Going west from Awataguchi onto the Omi road is dangerous... Better to go south through Iga...\nHm? \#0FFE, are you all right?!
+@1.94
+I-I'm fine. My lord, let us go south after all. Even if it takes longer, the road is safer...
+@1.95
+Right! Let's go, \#0FFE.
+@2.0
+Phew... I'm truly tired. How is your body, \#0FFE?
+@2.1
+I'm m-managing...
+@2.2
+By now \#080E must think I'm dead...
+@2.4
+Setting fire to Honnoji was the right thing. Now he can't even search for my body.
+@2.5
+What worries me is... \#08C2.
+@2.6
+Anyway, once we reach \41DE, we can raise an army against \#000E right away!
+@2.8
+\#01ED, who governs this castle, is close to \#080E... It's dangerous to stay long.
+@2.9
+\#0FFE, I know it's hard, but we leave soon.
+@2.10
+\#080E's soldiers could come here at any time...
+@3.0
+We've made it this far without being found... Just a little further.
+@3.1
+Mm... But \#080E may have taken \41DE. We can't go back carelessly...
+@3.2
+M-my lord, in that case... \D07A, which rules this village, is luckily under our house's... protection.
+@3.3
+They must have heard of the incident in the capital... They'll have gathered their own information. Let us visit the chief's house and ask.
+@3.5
+Ah!! Y-you are...!
+@3.6
+It's \#00C3! The real one... Ha ha ha!
+@3.7
+I heard you had taken your own life at Honnoji...
+@3.8
+As if I'd be killed by the likes of \#080E! Thanks to \#0FFE's efforts, I escaped from the capital.
+@3.9
+...N-no, no, I did nothing.
+@3.10
+In any case, I'm glad you are safe.
+@3.11
+M-more importantly, Chief... What has happened with \#080E's army since?
+@3.12
+We came all the way through the mountains, so we know nothing of the situation. Is \41DE safe?
+@3.13
+\#000E has not moved from the capital. He is trying to win over the Court.
+@3.14
+Hmph...! Just the sort of thing \#080E would think of.
+@3.15
+And he is urging the senior retainers everywhere to side with him, but it seems few agree...
+@3.16
+Of course! None of my retainers would back a traitor...
+@3.17
+And... I'm very sorry, but I hear the young lord, Lord \#08C2, was killed in battle.
+@3.19
+I hear he fought like a lion, as befits the son of a conqueror, but was hopelessly outnumbered and fell...
+@3.20
+\#08C2...
+@3.22
+It can't be helped... Such is the way of the warring age. But \#080E is hateful... So, what of \41DE?
+@3.23
+\41DE is held by Lord \#07F3 and the others, and seems safe for now.
+@3.24
+Good! Then we go to \41DE at once, and then I'll punish \#080E!
+@3.26
+Thud!
+@3.27
+What's wrong, \#0FFE?!
+@3.29
+A terrible fever... We can't leave like this.
+@3.30
+M-my lord... please, don't worry about me. Go back to \41DE.
+@3.31
+What are you saying! We fled together this far, didn't we? We'll wait until your wound heals.
+@3.33
+Hmm... The arrow wound is festering. No matter... We have a secret medicine handed down in our village.
+@3.34
+Oh! Put it on him quickly.
+@3.35
+Then he takes this medicine and rests for a while, and he'll heal amazingly fast.
+@3.36
+Th... thank you.
+@3.37
+No wonder... After being shot in the capital, he ran through the mountains without rest. The exhaustion caught up with him here.
+@3.38
+M-my lord... I'm sorry. Just one step from \41DE, and I'm holding you back...
+@3.39
+Bah, now that we've come this far, hurrying won't help. Just get well soon.
+@3.41
+How is it...?
+@3.42
+I-it doesn't hurt... I'm healed! I'm healed! Thank you so much.
+@3.43
+Good! Then, \#0FFE, we return to our castle!
+@3.45
+I'll send some of my men as an escort. Please take care.
+@3.46
+Mm. I am in your debt.
+@3.47
+Then, my lord... let us go!!
+@4.0
+Ah...!! My lord!! You're alive!!
+@4.1
+Of course!! \#08C3 is not one to be done in by that shiny-pated fool!
+@4.2
+Everyone, the old lord has returned!!
+@4.3
+My lord!! Welcome back!!
+@4.4
+Everyone, listen! We march at once against \#000E!!
+@4.5
+Ah...!! Wait!! My lord!! In truth... \#080E is no longer of this world.
+@4.7
+\%20205 has already struck him down!
+@4.8
+The Monkey... killed \#080E?!
+@4.14
+That Monkey! Never misses a chance! Ha ha ha!!
+@4.15
+\%03, let every general in the house know at once that the old lord has returned safely.
+@4.16
+Understood!
+@4.17
+My lord... it seems peace will return now.
+@4.18
+\#0FFE, you did splendid work this time.
+@4.19
+No, no, I did nothing so great.
+@4.20
+No, if not for you, I, \#08C3, might have died in the capital.
+@4.21
+......Your words are an honour.
+@4.22
+You are a fine samurai now. Take this chance to come of age.
+@4.23
+Y-yes, my lord!
+@4.24
+Since you began as my page, I wanted to keep you by my side forever, but you've grown up before I knew it.
+@4.25
+From now on, I'll expect deeds with the spear too.
+@4.27
+Come of age, take a new name, and serve me as a general in your own right.
+@4.28
+What gracious words...!! I would like to take the name "Naritoshi," which you told me to use at my coming of age.
+@4.29
+No... That name won't do.
+@4.31
+I'll give you a character from my own name... as your reward. From now on, call yourself "Nagasada."
+@4.36
+Mori... Nagasada. A character from my lord's own name...!! I am deeply honoured!
+@4.37
+From now on, work for me and don't fall behind your brother \#02DD!!
+@4.38
+From now on, keep working for me!!
+@4.40
+And so the "Honnoji Incident" that shook \A3A2 came to an end.
+@4.41
+And through it, one young man grew greatly... none other than Mori Nagasada.
+@4.42
+\A3A2 overcame this setback and was set to flourish further...

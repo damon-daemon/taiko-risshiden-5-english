@@ -1,0 +1,538 @@
+@0.0
+Ah, \%03. You're back.
+@0.1
+Why, \%03... What brings you here?
+@0.2
+Today I came to consult you about something. It concerns our house.
+@0.3
+For you to come all this way, it must be serious. Please, go on.
+@0.4
+Thanks to the efforts of everyone, Lord \#082C first among them, our \A3A2 has recovered enough to hold a castle again.
+@0.5
+But our house is still under constant threat from the daimyo around us.
+@0.6
+As you know, the greatest threat to our house is \A3A3.
+@0.7
+I have been looking for a daimyo fit to ally with us against \A3A3.
+@0.8
+And did you find one? Who is it?
+@0.9
+Lord \#00C3 of \51E8.
+@0.10
+\#10C3... \#08C3...
+@0.11
+That house is rising like the morning sun.\n\nSooner or later it will send troops west and clash with \A3A3.
+@0.12
+So if our house joins with \A3A5, bringing down \A3A3 is no longer a dream.
+@0.13
+\%03, I'm glad you told me. Well, no time like the present. I'll be off...
+@0.14
+\%03! You'll go yourself?
+@0.15
+The fate of \A3A2 hangs on it.
+@0.16
+I will go to \51E8 and beg them to lend us their strength.
+@0.17
+...Very well, I'm counting on you. Convey that passion to Lord \#08C3 too.
+@1.0
+Right, somehow I have to come to terms with Lord \#08C3 of \A3A5...
+@2.0
+Ah, Shikanosuke. I hope you don't mind, but I let myself in.
+@2.1
+Why, \%03. Not at all. Welcome.
+@2.2
+How is our lord? Since the Mori captured him...
+@2.3
+Well... sadly, our lord no longer has any will to restore the Amago. It seems he means to become a monk.
+@2.4
+...I see.
+@2.5
+I wasn't sure I should tell you...
+@2.6
+But you care for the Amago's future more than anyone. I felt I had to let you know.
+@2.7
+...Thank you for coming all this way.
+@2.8
+I've already told \#0809. He was disheartened too...
+@2.9
+...By the way, \#0FFE, what will you do now?
+@2.10
+I have not given up on restoring the Amago. But I have no good plan yet...
+@2.11
+So for now I'd like to stay here and think about what to do next.
+@2.12
+I see. That is well. You must find your own path.
+@2.13
+I will be in the town of Itsukushima for a while. Come and see me any time.
+@2.16
+...Brave words, but my lord's house is gone and I'm a ronin. What am I to do...
+@2.17
+Ah, \#0AF4, you're back! Didn't Lord \#09CB come?
+@2.18
+He just left. He came to tell me how our lord is... It seems there's little hope of restoring the Amago.
+@2.19
+About that, \#0AF4. I mean to search for a survivor of the Amago branch family.
+@2.20
+A survivor of the branch family...?
+@2.21
+Do you remember the feud between the main Amago house and its branch, a little before Lord Yoshihisa took over?
+@2.22
+The Shingu Clique incident... The branch that supported the Amago was wiped out, wasn't it...
+@2.23
+So I was told. But there is a rumour that one child was let slip.
+@2.24
+What! Then a descendant of the Amago may be alive somewhere?
+@2.25
+It's only a rumour. There are no leads...
+@2.26
+Then I'll go find a lead. Farewell!
+@2.27
+H-hey! \#0AF4!
+@2.28
+Honestly, so impatient... I came to say I'd look for him, and it seems I've lit a fire under him instead.
+@3.0
+Why, Shikanosuke. Welcome.
+@3.1
+Lord \#11CB, forgive the sudden question, but do you know how the Amago house feud, the Shingu Clique incident, ended?
+@3.2
+How the Shingu Clique incident ended...?
+@3.3
+Yes. There is a rumour that during that feud one child of the branch family escaped...
+@3.4
+I thought you might know, Lord \#11CB, so I came.
+@3.5
+I see... Yes, I too have heard that rumour.
+@3.6
+From what I heard, that person got away to the capital...
+@3.7
+What! To the capital?!
+@3.8
+They say the faction that killed the Shingu Clique sent pursuers to the capital, but never found him.
+@3.9
+So that is what happened... Thank you for telling me. It was worth coming here.
+@3.10
+...If you came all this way to hear that, then perhaps you...
+@3.11
+If Lord \#082E has no will to restore the Amago, that person is the only other one with Amago blood.
+@3.12
+So the restoration of the Amago now rests with him.
+@3.13
+...But \#0AF4, the Amago once wanted him dead. It won't be that simple.
+@3.14
+The Amago who hunted the Shingu Clique are already gone. If I explain everything, he will surely listen.
+@3.15
+If he has even the slightest wish to restore the Amago...
+@3.16
+I mean to work once more for the glory of the Amago house!
+@3.17
+I see... Well said, \#02F4, as I'd expect!
+@3.18
+I'll go to the capital at once and look for him.
+@3.19
+\#0AF4, if the Amago rally once more, I'll come running at once.
+@3.21
+No time to waste. I must search every corner of the capital.
+@4.0
+Oh, who might you be?
+@4.2
+A ronin, are you? May the Buddha protect you.
+@4.3
+Welcome, welcome.
+@4.4
+May I ask something? Have you heard any rumours about the Amago branch family?
+@4.5
+...Why ask such a thing of a monk like me?
+@4.6
+The truth is, there is a rumour that one of the Amago branch family escaped to the capital...
+@4.7
+...And if you heard of such a thing, what would you do?
+@4.8
+(...He seems to know something.)
+@4.9
+...Forgive me for not saying so. I am looking for someone to carry on the Amago anew.
+@4.10
+As you know, the Mori attacked the Amago, and the head, Lord \#082E, was taken captive.
+@4.11
+Lord \#082E no longer wishes to restore the Amago. At this rate the house will truly die out.
+@4.12
+The rumour of an Amago descendant is the last hope of restoring the house, for me and for every Amago vassal now in the wilds.
+@4.13
+Even the smallest detail will do. Father, have you heard anything?
+@4.14
+Hmm... Your words seem sincere. I think I can tell you.
+@4.15
+Then you do know something...
+@4.16
+How many years ago was it now... Someone entrusted a child to this temple.
+@4.17
+He said that for family reasons the child's birth could not be known to the world, and asked us to raise him here in secret.
+@4.18
+That man, I believe, was of the Amago house...
+@4.19
+What! Father, is that child still at this temple?
+@4.20
+He is...
+@4.21
+He must be an Amago descendant... Father, I beg you, let me meet him!
+@4.22
+I will tell him about you. But what will you do if he refuses to have anything to do with the Amago?
+@4.23
+Then... I will give up. But please, at least let me speak with him!
+@4.24
+Very well. Wait here.
+@4.25
+Oh, thank you!
+@4.26
+You called for me?
+@4.27
+Lord Katsuhisa, Lord \#02F4, once a vassal of the Amago, is here.
+@4.28
+A vassal of the Amago...
+@4.29
+Oh, Lord Katsuhisa, so this is... Honoured to meet you. I am \#02F4, a vassal of the Amago.
+@4.30
+So the pursuers have come at last... But what trouble could I cause the Amago now?
+@4.31
+I don't blame you for being suspicious. But the Amago house that sought your life is no more.
+@4.32
+I did not come to capture you. I came to ask a favour.
+@4.33
+...A favour?
+@4.34
+As I said earlier, the Amago house has been destroyed by the Mori.
+@4.35
+But I still swear loyalty to the Amago house, as ever, and wish to restore it.
+@4.36
+And many others feel as I do.
+@4.37
+Lord Katsuhisa, as one of Amago blood, please step forward as head of the house!
+@4.38
+...I was driven out by that very Amago house, and have lived hidden in this temple.
+@4.39
+All I have thought of is living quietly here as I am...
+@4.40
+...Given what you have been through, I understand. You must have your own path in mind.
+@4.41
+But you are a young lord of the noble Amago house. The Amago cannot be restored without you, Lord Katsuhisa.
+@4.43
+Everything depends on your feelings, Lord Katsuhisa. Will you end your days here, or make your name as head of the Amago...
+@4.44
+Excuse me! Is Shikanosuke here?!
+@4.45
+Ah, \%03!
+@4.46
+...Hm? Shikanosuke, can this be...
+@4.47
+Yes, the one we were looking for. Lord \#002C.
+@4.48
+Oh, forgive my rudeness! I am \#0009, a vassal of the Amago, like Shikanosuke.
+@4.49
+...A comrade of Lord \#0AF4, then? So you too want me, \#082C, to carry on the Amago house?
+@4.50
+I do!
+@4.52
+Lord Katsuhisa, the two of us and Lord Tachihara will follow you with all our strength. Please, consider it.
+@4.53
+...Very well. If I am of use, I will lend you my strength.
+@4.54
+Oh! You've decided!
+@4.55
+To stay in this temple my whole life was my wish... but it seems blood will tell.
+@4.56
+I was born into this world with Amago blood, after all.
+@4.57
+However small our strength, I want to live as a daimyo in my own right.
+@4.58
+Such heartening words! From today, Shikanosuke and \%04009 are your vassals, my lord.
+@4.59
+The two of us will go at once and prepare to raise our banner. Please wait at this temple until then.
+@4.60
+Then, Shikanosuke, I'm counting on you.
+@4.62
+Then let's head straight for Itsukushima, where Lord Tachihara is!
+@5.0
+Until you return with everything ready, we will keep Lord Katsuhisa hidden here. Rest assured.
+@6.0
+Lord \#09CB! Good news!
+@6.1
+Ah, both of you. What has happened?
+@6.2
+Lord \#09CB, we have finally found the Amago descendant, Lord \#082C!
+@6.3
+Oh, really! And what does he wish?
+@6.4
+He is resolved to carry on the Amago house.
+@6.5
+Hmm, well done, \#0AF4! Then it's time to raise an army. We must gather troops at once.
+@6.6
+Yes, now is the time to retake Gassan-Toda Castle!
+@6.7
+...Lord \#0809, I understand how you feel, but Gassan-Toda Castle is too soon.
+@6.9
+True, Gassan-Toda is the castle dearest to us. But it is a stronghold the Amago were proud of.
+@6.10
+With the troops we can muster, taking Gassan-Toda would be next to impossible...
+@6.12
+Then \#0AF4, you say we should hold off raising our banner?
+@6.13
+No. There must still be people in Izumo who feel they owe the Amago.
+@6.14
+A poorly defended castle in Izumo... I think Shiraga Castle is the best target this time.
+@6.15
+We gather a fitting force and march on Shiraga Castle with it, to show that the Amago house still stands.
+@6.16
+That should shake many of the garrison. If any rise with us, so much the better...
+@6.17
+I see, Shiraga Castle. And you mean to take it not from outside, but from within.
+@6.19
+Understood. I'll gather as many men as I can. Hisaie, you help too.
+@6.21
+\#0AF4, leave the levy to us. You look after our lord.
+@6.22
+Then I'll go and bring Lord Katsuhisa.
+@6.23
+Good. We'll be waiting at Shiraga Castle.
+@7.0
+Shikanosuke, I've been waiting. How did it go?
+@7.1
+Yes, Tachihara and Akiage have everything ready. Let us head for Shiraga Castle.
+@7.2
+I see. Then let us go at once.
+@7.3
+Father, thank you for everything.
+@7.4
+I will pray for your fortune in war.
+@7.5
+Now, Lord Katsuhisa, let us go to Shiraga Castle.
+@8.0
+Well, isn't it Lord \#12F4.
+@8.1
+Today I have a special request of you, \%03.
+@8.2
+Well, and who are you?
+@8.3
+I am \#07FE, a vassal of \A3A2.
+@8.4
+Forgive my boldness, \%03, but today I have a special request of you.
+@8.5
+...What is your business?
+@8.6
+The fame of \A3A5 has reached even my ears. Its might is like the rising sun.
+@8.7
+They say you will soon send troops west and confront the Mori...
+@8.8
+Hmm... And if so?
+@8.9
+Our \A3A2 lost our old domain of Izumo to the Mori and has long been their enemy.
+@8.10
+So the Mori are the enemy of both our Amago and \A3A5.
+@8.11
+Therefore, to drive out the Mori, the enemy of both houses...
+@8.12
+I humbly ask that \A3A5 lend its strength to \A3A2.
+@8.13
+Hmm... I understand your plea well.
+@8.14
+Then you will send reinforcements!
+@8.15
+We must face the Mori sooner or later. When that time comes, we will join hands.
+@8.16
+Thank you! Then I will return to the Amago at once and prepare our troops.
+@8.17
+No, don't be hasty. Timing is everything in war. I will send an envoy in due course.
+@8.18
+...Forgive me, but the Mori's might knows no bounds; even now they are about to swallow our Amago.
+@8.19
+I beg you, decide as soon as you can...
+@8.20
+It is because the Mori are strong that we must prepare thoroughly. Against them we must aim for a short, decisive war.
+@8.21
+A long war costs many soldiers. That is as true for \A3A2 as for \A3A5.
+@8.23
+Have no fear. Just as you rely on \A3A5, I am relying on \A3A2.
+@8.24
+...Do you understand what I mean?
+@8.25
+...I am deeply grateful! Then I leave it in your hands!
+@9.0
+Oh, Shikanosuke! We've been waiting!
+@9.1
+Yes, I have brought our lord.
+@9.2
+Ah, my lord! I am Tachihara Hisatsuna. I am at your service.
+@9.3
+The Amago house stands thanks to all of you. I count on you from now on.
+@9.4
+\#0AF4, the men are gathered. All that remains is to bring in the Amago supporters inside the castle.
+@9.6
+Hear me, soldiers in the castle! I am \#02F4, vassal of the Amago!
+@9.7
+With Lord \#002C at our head, we mean to restore the Amago house here at Shiraga Castle!
+@9.8
+This very moment, we of the Amago army will storm the castle!
+@9.9
+Loyal men of the Amago, follow us now! Let us raise up the Amago again!
+@9.10
+Now, forward!
+@9.12
+After fierce fighting, the Amago\nforces took Shiraga Castle.
+@9.13
+And so a new Amago house was born,\nwith Amago Katsuhisa as its lord.
+@10.0
+Ah, \%047FE. The Mori army is already marching on this castle.
+@10.1
+Then all we can do is meet the enemy at this castle. Rest well and be ready for the day of battle.
+@11.0
+The Mori troops draw closer to this castle by the hour... For now I'll rest well for the battle.
+@12.0
+The Amago are ready to rally. Our goal: Shiraga Castle!
+@12.1
+Right, I must let Lord \#002C know that the Amago vassals are gathering...
+@12.2
+...Right, I must tell Lord \#11CB about Lord \#002C...
+@12.3
+I recall there was a lead to the Amago descendant in the capital...
+@12.4
+I must look for a lead to the Amago descendant... For now, I'll visit houses in various towns.
+@13.0
+...I won't let them take this castle! I'll hold it no matter what!
+@13.1
+They'll soon be at the castle walls. Let's go, \%03!
+@14.0
+We won... Our army won...
+@14.1
+Well done, \%03!
+@14.2
+\%03! Are you hurt?
+@14.3
+Never mind me. Are you all right?
+@14.4
+Not at all! A battle like that gave me no time to get hurt.
+@14.5
+\%03, you're truly dependable. It's because you were here that we won today.
+@14.6
+Thank you again, \%03.
+@14.7
+My lord, you honour me too much.
+@14.8
+No, the Amago live again thanks to you. Please go on supporting me as a vassal of the Amago house for years to come.
+@14.9
+And so \#02F4 drove off\nthe Mori army and held \51E5.
+@14.10
+On that day, the history of a new\nAmago house began.
+@15.0
+I can't lose yet... I can't let the Amago house die here...
+@15.3
+Hm? You're \#02F4!
+@15.4
+That I am! We lost this battle, but the Amago are not finished yet!
+@15.5
+Now, fight me fair and square!!
+@15.8
+The Amago head, \#002C, is already in our hands. Surrender quietly!
+@15.9
+Grr, Lord \#082C... Is my lord safe?
+@15.12
+Yes, he's alive. But we have orders: if you don't surrender, your lord dies.
+@15.13
+Ngh... Very well. I'll do as you say.
+@15.14
+\#02F4 was captured by the Mori army\nand taken under escort to the Mori camp.
+@15.15
+Then, while \#02F4\nwas under escort...
+@15.16
+...This too is for the Amago. There's nothing for it but to submit to the Mori for a while...
+@15.17
+...Hm? The escort's palanquin has stopped...
+@15.18
+Raaah!!
+@15.19
+What?! What's going on?!
+@15.20
+Just what you think. It seems you being alive would be inconvenient.
+@15.21
+Grr... So the Mori tricked me!
+@15.22
+Heh, your destination has just changed. Not to the Mori lord, but to the next world.
+@15.23
+I can't die here... I won't!!
+@15.24
+Hah, hah... S-somehow I fought my way out...
+@15.25
+Is that so?
+@15.26
+Ngh... You...
+@15.27
+Our task is to bury you. However many of us fall, we will carry it out.
+@15.28
+...No time to waste. At this rate, my lord is in danger... I must save him quickly...
+@15.29
+The Amago head has killed himself. Your lord's house is no more.
+@15.30
+Y... you tricked me?
+@15.31
+To lure you out we needed bait... And it seems it was very fine bait indeed.
+@15.32
+Curse you... Am I to rot here, just as you planned?!
+@15.33
+F-finally, I got them...
+@15.34
+But Lord \#082C took his own life... What happened to everyone else...
+@15.35
+In the struggle with the Mori for the Amago's\nKozuki Castle, the Mori army won the day.
+@15.36
+With its head lost, some of the Amago\nsurrendered to the Mori, and others died\nafter a fierce fight.
+@15.37
+And so the Amago house vanished\nfrom the Warring States.
+@15.38
+Captured by the Mori and attacked under\nescort, \#02F4 fought hard,\nescaped death and survived.
+@15.39
+The Amago house has been destroyed...
+@15.40
+But I survived... If I am still here, it must be because I still have a mission left.
+@15.41
+Then I will carry on the will of the Amago house...
+@15.42
+And here his true history begins.
+@15.44
+In \M001, \#07FE\nended his life without ever seeing\nthe day the Amago house was restored.
+@15.49
+The glory of the house since its\nfounder, Amago Tsunehisa, was lost forever...
+@16.0
+The Mori troops are running...
+@16.4
+Not at all. A battle like that gave me no time to get hurt.
+@16.5
+You're truly dependable. It's because you were here that I am still here...
+@16.8
+No, the Amago live again thanks to you. Please go on supporting me as a vassal of the Amago house for years to come.
+@17.0
+Everyone is here, I see. Thank you all. Let us begin the council.
+@17.1
+My lord! Grave news!
+@17.2
+The Mori army is heading here, to \51E5!
+@17.4
+They are expected to arrive in \101D days!
+@17.5
+Grr, so they've finally come...
+@17.6
+All of you, we meet the Mori at \51E5! Gather in the castle at once and prepare for battle! Understood?
+@17.8
+So the decisive hour has come at last...
+@17.9
+Will \A3A5's reinforcements make it in time...
+@17.10
+\%03, I have a report!
+@17.11
+\A3A5's reinforcements have been blocked by \#026D of \51E7 and cannot reach this castle!
+@17.12
+Hmm, so we must fight on our own after all...
+@17.13
+Then all we can do is meet the Mori here at \51E5!
+@17.15
+\A3A5 has sent troops to this castle: \1006 men!
+@17.16
+Oh! Troops from Lord \#08C3! That's heartening!
+@17.17
+All that remains is to meet the Mori here at \51E5!

@@ -1,0 +1,130 @@
+@0.0
+Lord \#01B1, the old lord is asking for you.
+@0.1
+Oh, I see. I'll come at once.
+@0.2
+Ah, you've come, Zen master.
+@0.3
+What is it you need?
+@0.4
+Well, I have had an interesting idea. A "Three-Province Alliance"...
+@0.5
+A Three-Province Alliance?
+@0.6
+As you know, I am preparing to march on the capital one day.
+@0.7
+But I cannot simply leave Suruga empty... The daimyo around us would prey on it in my absence.
+@0.8
+Quite so.
+@0.9
+So... as groundwork for the future, I think it vital first to secure our surroundings.
+@0.10
+Then this Three-Province Alliance is...
+@0.11
+Just so... We, and the \#11C1 and \#1276 whose lands border ours, form a three-way alliance.
+@0.12
+A splendid idea, certainly, but will it really work?
+@0.13
+That's the thing... I doubt \#01C1 and \#0276 will readily agree to it.
+@0.14
+So I would like you to take the trouble, Zen master.
+@0.15
+Can this humble monk be of use?
+@0.16
+You are skilled in diplomacy too. Could you persuade Lord \#0276 and bring him here to Suruga?
+@0.17
+\#01C1 should be manageable. After all, my wife is \#09C1's sister. I'll persuade him myself.
+@0.18
+But \#0A76 is beyond me. I can only ask you, reverend.
+@0.19
+...As you wish. I will persuade him somehow.
+@0.20
+Good... I'll send an envoy to \#11C1 and invite him to Suruga. You bring \#0A76 to Sunpu, Zen master.
+@0.21
+Very well. Then I'll go at once.
+@0.23
+Dear me... a troublesome task. Well, let's try persuading him.
+@1.0
+Who goes there!
+@1.1
+I am \#01B1, envoy-monk of the \#106E clan. I wish to see Lord \#0276. Please announce me.
+@1.2
+Forgive me. Please, go in.
+@1.3
+Lord \#1276, it is I, \#0FFE.
+@1.4
+Oh, \%03. What brings you here today?
+@1.5
+It is an honour to meet you. I am the envoy-monk of the \#106E clan, \#01B1.
+@1.6
+I have heard of your renown... And what brings you here today?
+@1.7
+Yes... In truth, my master \#006E has something he dearly wishes to convey to you, Lord \#1276...
+@1.8
+Oh... And what does Lord \#106E say?
+@1.9
+In truth...
+@1.10
+I see, a Three-Province Alliance. If that came about, it would be reassuring beyond words.
+@1.11
+Then...
+@1.12
+No, but I cannot quite trust \#09C1... nor, forgive me, Lord \#106E.
+@1.14
+As you know, reverend, my grandfather Soun-an, founder of the Hojo, was once an Imagawa commander who took Izu and Sagami and went his own way.
+@1.15
+So my grandfather Soun and my father Ujitsuna never forgot their debt to the Imagawa, and even sent troops to help the late Lord Ujiteru...
+@1.16
+I know...
+@1.17
+But once Ujiteru's brother, Lord \#086E, succeeded him, he suddenly made peace with the Takeda, our longtime enemy, and took a Takeda daughter as wife...
+@1.18
+Without a word to us... One can only call it betrayal.
+@1.20
+Since then there have been skirmishes over eastern Suruga... Now I resent Lord \#106E even more than \#11C1.
+@1.21
+That may be how it came about, but my master regrets his past wrongs... I beg you, let bygones be bygones.
+@1.23
+This alliance would surely bring you untold benefit too, Lord \#1276... For you too, Lord \#1276, there are enemies all around.
+@1.24
+If the \#106E, \#1276 and \#11C1 form a firm alliance, the daimyo around us will fear to oppose it.
+@1.25
+To rule the Kanto, I believe this alliance is essential...
+@1.26
+What you say makes sense... But I want proof that they can truly be trusted.
+@1.27
+A fair request... As to that "proof", I have something in mind.
+@1.28
+And whether my master \#006E and Lord \#01C1 are truly trustworthy, I believe you will see if you meet them in person.
+@1.29
+Meet them in person, you say?
+@1.30
+My master \#086E has invited Lord \#11C1 to Zentokuji in Suruga and awaits you there. I beg you to come with me...
+@1.31
+What... they are already waiting?
+@1.33
+...Very well. It is not often that I and the heads of the \#11C1 and \#106E meet in one place.
+@1.34
+I will meet them and take their measure. Besides, Mt. Fuji seen from Suruga must be quite a view.
+@1.35
+Mt. Fuji is the greatest pride of those who live in Suruga. Do come, as if to view Fuji.
+@1.36
+Good, I'll go. Zen master, lead the way.
+@2.0
+Lord \#1276... this way.
+@2.3
+Oh?!
+@2.5
+Lord \#0A76, thank you for coming. We have been waiting for you.
+@2.6
+The three heroes of the age, all together. It is rare for three great lords who represent all the warlords to meet in one place.
+@2.15
+As you wish... Then, as proof to make the alliance firmer still, I propose we arrange marriages.
+@2.36
+\#07FE's merit has risen.
+@2.37
+Phew, dear me. A weight off my shoulders.
+@2.38
+Well done, Zen master. This alliance is all thanks to you. Your name will be remembered by later ages.
+@2.39
+Lord \#106E has a fine strategist. Well then, Lord \#09B1, we'll meet again.

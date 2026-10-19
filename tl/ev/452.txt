@@ -1,0 +1,116 @@
+@0.0
+Now, I'll rest a little...
+@0.1
+Lord \#07FE, excuse me! Something terrible has happened in the capital region!
+@0.2
+Wh-what is it!?
+@0.3
+The old lord... has been killed!
+@0.4
+What!? Father!? H-how!
+@0.5
+A rebellion! \#000E has rebelled!
+@0.6
+\#100E... has rebelled!
+@0.7
+Yes! ...The old lord was staying at Honnoji in Kyoto on his way to reinforce \#0205...
+@0.8
+He had only a few dozen attendants... It seems \#080E took the chance and rebelled!
+@0.10
+The old lord and Lord \#08C2 have both died...
+@0.11
+What... Father and my brother...
+@0.12
+If only I had sent letters to Father and \#080E when I heard that rumour...
+@0.13
+...Bah! A battle of vengeance! Gather the troops at once! We'll strike down our mortal enemy \#000E!
+@0.14
+But the men who heard of the rebellion fled when they heard the \#100E army was coming!
+@0.15
+What...! Worthless cowards! Bah! I'll avenge him even if I'm alone!
+@0.16
+Ah! Lord \#0FFE!
+@1.0
+I've been hearing some troubling rumours lately.
+@1.1
+Rumours...? What rumours?
+@1.2
+They say Lord \#000E is unhappy with the old lord...
+@1.3
+Hmph, nonsense!
+@1.4
+But the old lord ordered Lord \#100E to entertain Lord \#01FA on his sightseeing visit to Kyoto...
+@1.5
+And they say he resents it.
+@1.6
+Lord \#11FA is an important ally of our house. Entertaining him is surely an honour.
+@1.7
+But entertaining him really means arranging lodgings, food and drink...
+@1.8
+And gifts for the \#11FA retainers... Hardly work for a man who holds a castle.
+@1.10
+I also heard that in the recent attack on the \#11BF, the old lord was angered by something Lord \#100E said and beat him.
+@1.11
+I hear other rumours too. If this goes on, it will be bad for both Lord \#100E and the old lord...
+@1.13
+I don't believe such rumours
+@1.14
+Write to Father and Akechi
+@1.15
+Leave it be. I don't believe such rumours. Never speak of it again!
+@1.17
+A samurai must not be led astray by rumours!
+@1.19
+If there are such rumours in the castle, put a stop to them! Understood!
+@1.20
+Yes, sir, understood.
+@1.21
+Rumours or not, I can't leave it... I must remove the seeds of trouble.
+@1.22
+My lord?
+@1.23
+I'll send letters to Father and Lord \#100E.
+@1.24
+Letters?
+@1.25
+Mm... Asking them not to be led astray by rumours, and to trust each other as lord and vassal.
+@1.26
+Ah... I see.
+@1.27
+Listen, don't spread rumours like this.
+@1.29
+If rumours spread, only our enemies gain!
+@1.30
+Understood.
+@1.32
+\#07FE wrote letters to \#08C3 and \#080E...
+@1.33
+And so strife within the \#10C3 house was prevented before it began...
+@2.0
+Wait! Please wait!
+@2.1
+What is it! Has \#100E made a move?
+@2.2
+\#000E has been killed by Lord \#0205!
+@2.4
+The two armies clashed at Yamazaki... \#080E was caught by straggler hunters as he fled, and is already dead.
+@2.5
+Impossible! \#0A05 couldn't have left his post in the western campaign...
+@2.6
+But it's true!
+@2.12
+Hmm... So that Monkey killed \#080E, ahead of me, his own son...
+@2.13
+From now on, Lord \#1205's voice will carry more weight...
+@2.14
+Hmph! I won't accept it! I can't let that Monkey control the \#10C3 house!
+@2.15
+We understand that too, but...
+@2.16
+For now, I must take charge of the men who served Father...
+@2.18
+But after that, the Oda lands were divided among the senior Oda retainers...
+@2.19
+And no one could object to \#0205 taking over \#000E's former lands...
+@2.20
+From now on, \#07FE's base moves to \41DF.

@@ -1,0 +1,232 @@
+@0.1
+Lord \#07FE, there is an order from the old lord.
+@0.2
+What, from Father? What order?
+@0.3
+Sir!! He says to go to Kyoto at once and wait there.
+@0.4
+What... to Kyoto? I wonder what for. And Father?
+@0.5
+The old lord is entertaining Lord \#01FA, who is visiting this castle. He said he will follow in haste.
+@0.6
+I see... Hmm. Then I'll head for Kyoto at once.
+@0.11
+The old lord is entertaining Lord \#01FA, who is visiting \41DE. He said he will follow in haste.
+@1.0
+Ah, \#08C2. Good of you to come.
+@1.1
+Father, you arrived first? What of Lord \#11FA?
+@1.2
+Mm, he was impressed by my castle. He says he'll see the sights of Sakai before going home.
+@1.3
+And Father... Why this sudden summons?
+@1.4
+Ah, yes. The truth is, that Monkey has asked me for reinforcements.
+@1.5
+\%04205 has?
+@1.6
+Mm... Reinforcements, he says, but he's in no great danger.
+@1.7
+?? ...What do you mean?
+@1.8
+The Monkey wants to give me the credit. If he wins glory himself, he'll earn the envy of the other generals.
+@1.9
+If I come and the castle falls, it will be my glory. That's the Monkey for you... clever little calculations.
+@1.11
+But at this point there's nothing to gain by going myself to show my glory. So I thought I'd make you commander.
+@1.12
+Me...?
+@1.13
+You must make a name for yourself as \#08C3's heir... This is a good chance to add some lustre.
+@1.15
+Well, it shouldn't be too hard a fight... Take it easy.
+@1.16
+How many troops will the reinforcements be?
+@1.17
+Mm, I brought about 1,000 men with me.
+@1.18
+Surely that is far too few...?
+@1.19
+Never mind... As I said, the Monkey isn't asking for help because he's in trouble. He just wants me to take the honours.
+@1.21
+Do you think bandits will attack us on the way to \=07A?
+@1.23
+No need to worry so much... More importantly, tonight I'm inviting tea masters to hold a tea party.
+@1.24
+I hear the Hakata merchant \#0181 has come to Kyoto with some rare tea ware...
+@1.25
+I hear the Sakai tea master \#01AA has come to Kyoto with some rare tea ware...
+@1.26
+I'm lodging at Honnoji, and you at Myokakuji. Come to the tea party tonight.
+@1.27
+Until then, rest at your lodgings.
+@1.29
+(Father said so, but 1,000 men really is too few. Now, what should I do...)
+@1.30
+Don't worry about it
+@1.31
+Fetch reinforcements myself
+@1.32
+Well... never mind. Surely no fool would try to take Father's life now...
+@1.33
+We leave tomorrow morning, I suppose. I'll rest well today. Oh yes, he said he was holding a tea party.
+@1.34
+Thank you for inviting us today...
+@1.35
+Not at all. Today I am the host. You guests just relax.
+@1.36
+We look forward to seeing the famous tea ceremony of Lord \#10C3.
+@1.37
+I too shall impose upon you today.
+@1.38
+Lord \#1430, thank you for coming.
+@1.39
+Now, all the guests are here. Time I served you the tea I've made...
+@1.40
+And so the night wore on.
+@1.41
+Then morning came... The city of Kyoto greeted the dawn in an eerie silence.
+@1.42
+Less than half an hour later, the sound of warhorses tore through that silence...
+@1.43
+No, it's too dangerous! If anything happened... I'll go back to \41E1 and bring troops!
+@1.44
+Ah! Lord \#0FFE! Where are you going!?
+@1.47
+Send for my men
+@1.48
+Well... never mind. Surely no fool would try to take Father's life now...
+@1.49
+Lord \#00C2, please rest well at this temple tonight.
+@1.50
+Thank you for your hospitality. Oh yes, Father said he was holding a tea party.
+@1.51
+It's still early, but I might go to Honnoji.
+@1.63
+No, it's too dangerous! If anything happened...
+@1.64
+Just to be safe, I'll send for troops. Is anyone there!
+@1.66
+Go back to \41E1 at once and tell \#07F1 to bring the army!
+@1.67
+Sir! Understood!
+@1.68
+Anything could happen... Being prepared means no worries.
+@1.69
+Young lord! The old lord is holding a tea party at Honnoji! He begs you to come.
+@1.70
+Understood. I'll come at once.
+@2.0
+\%03, you're back early... What happened?
+@2.1
+I'm going with Father to reinforce \%04205's camp in the west... Gather the troops at once.
+@2.2
+That's sudden... And how many troops?
+@2.3
+Father means to go with fewer than 1,000 men, but that is dangerous however you look at it. I want at least 6,000.
+@2.4
+Then I'll make arrangements at once...
+@2.5
+Urgent news! Something terrible has happened in Kyoto!
+@2.6
+...What! What happened? Surely nothing has happened to Father!
+@2.7
+I-I'm afraid it has...
+@2.8
+...Damn it, what happened to Father!
+@2.9
+This morning he was surrounded by enemy troops at Honnoji in Kyoto... and took his own life!!
+@2.10
+...Wh-what!! That can't be! Who were these enemies!?
+@2.11
+It is Lord \#000E's rebellion!! That pale blue bellflower banner, there's no mistaking it... Lord \#000E!
+@2.12
+\#100E... \#080E has rebelled!?
+@2.13
+How can it be... Father is... no longer in this world...
+@2.17
+And where is our mortal enemy \#000E now!
+@2.18
+Sir! He immediately moved the court, invited Lord \#001D, who was hiding in \=07A...
+@2.19
+And they say he has made him Shogun once again!
+@2.20
+So... the one pulling the strings was that rotten Shogun Father exiled! Ugh... I won't forgive this!
+@2.21
+\%03! After killing the old lord, \#080E will surely come to attack this castle!
+@2.22
+Everyone, this is a battle of vengeance! It's time to avenge Father, who died with his wish unfulfilled!!
+@3.3
+Report! Honnoji, where the old lord is staying, is surrounded by enemy troops!
+@3.6
+\#100E... a rebellion!? Impossible!
+@3.30
+Give up, \#08C2! Do you still cling to life at this point!
+@3.31
+Not so! It is the Prince I am thinking of!
+@3.43
+Young lord! \#07F1 has just arrived! What on earth is going on!
+@3.44
+Ah, \#0FF1! Well done! \#000E has rebelled!
+@3.45
+What!!
+@3.46
+Tch! Someone's interfered! How did reinforcements get here so fast!?
+@3.47
+I sent for them in advance. \#0FF1, we strike down this traitor at once!
+@3.49
+Bah, their reinforcements are a mere handful! We'll crush them all together!
+@4.0
+Father... I have avenged you!
+@4.1
+Now the late old lord can rest in peace. From now on, young lord, you are our old lord.
+@4.2
+We promise to remain loyal to the \#10C2 house as always.
+@4.3
+Mm... The great work of unifying the realm that Father left, I will surely finish in my time.
+@4.4
+Reassuring words! We will support you with all our might!
+@4.5
+Mm! I'm counting on you!
+@4.8
+After the \#100E faction was put down and the Honnoji Incident ended...
+@4.9
+\#00C2's bearing had the very same majesty as that "Hegemon" of old...
+@4.10
+Father... I will surpass you! Watch the great work of \#0FFE!
+@5.0
+Oh! \#0FFE! You're safe!
+@5.1
+Father!! You're safe! When I saw Honnoji wrapped in flames, I was sure you had died...
+@5.2
+As if I'd be killed by that shiny-pated fool! I slipped out amid the flames!
+@5.3
+I have struck down the traitor \#000E. The Prince is safe too!
+@5.4
+Mm... That's my son! Well done! You are a worthy heir!
+@5.8
+Perhaps it's time I thought about retiring...
+@5.9
+No, no, I'm not ready yet... I still have much to learn from you, Father.
+@6.2
+My lord! Please flee! \#080E's main force is closing in!
+@6.7
+Lord \#0FFE!
+@6.8
+\#07FE was defeated in battle with \#000E, and his life ended at only \1009...
+@6.9
+Victory is ours!
+@6.10
+Mm! Justice wins! Father! Did you see? \#0FFE has slain his father's enemy!
+@6.11
+The battle between \#07FE and \#000E ended in an overwhelming victory for \#0FFE...
+@6.22
+Right, we return! Everyone, raise a victory cry!
+@7.1
+Curse you, \#080E...! Why does Heaven let evil win...
+@7.10
+Mm! You all fought well!
+@7.12
+You could say the troops he had called ahead of time served their purpose splendidly...
+@7.17
+My lord! You villains! Who are you!

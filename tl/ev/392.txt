@@ -1,0 +1,158 @@
+@0.0
+I hear \#02D2 of \51E5 is building a castle near Itsukushima in a rush.
+@0.1
+A castle on Itsukushima...? Why there?
+@0.2
+Well... I suppose he's building it to prepare for war with the \#1098 house?
+@0.3
+But however rushed, if he builds a castle there, the \#1098 won't keep quiet.
+@0.4
+Won't it just be taken from him...?
+@0.5
+\#02D2 is called a schemer. He must have something in mind.
+@1.0
+Chief! The old lord of \A3A4 is asking for reinforcements!
+@1.2
+Lord \#07FE! \A3A4 has asked for reinforcements. The Chief orders everyone to gather at his house at once!
+@1.4
+You may have heard, but the old lord of \A3A4 has asked for reinforcements.
+@1.5
+But this time it's not reinforcements for \A3A4. We're asked to carry provisions into the Honganji, \A3A4's ally...
+@1.6
+I hear the Honganji is now surrounded by \A3A2.
+@1.7
+So the Honganji asked its ally \A3A4 to bring in provisions. And we're the ones who'll do it.
+@1.8
+\E079 serves under \A3A2! Put your backs into it!
+@1.12
+They say \A3A4 asked the Chief to break \A3A2's siege of the Honganji and carry provisions in.
+@1.14
+That's our Chief... They say he overwhelmed not only \A3A2 but the great fleet of his vassal \E079, and brought the provisions in boldly.
+@1.17
+It proved once again that the \E07B navy ruled the Seto Inland Sea...
+@2.0
+Have you heard? They say \E079 is building some sort of huge iron ship.
+@2.1
+A huge... iron ship? Wouldn't something like that just sink?
+@2.2
+I'd think so too... but the rumour is they're working hard on it by order of \#00C3...
+@3.5
+As before, we're asked to carry provisions into the Honganji, \A3A4's ally...
+@3.6
+\A3A2 and \E079 have learned nothing and are besieging the Honganji again. We'll teach those fools a lesson.
+@3.7
+As long as we hold the sea and keep bringing provisions, the Ishiyama Honganji will never fall.
+@3.14
+The Battle of the Kizu River...? Where our band beat \A3A2 and \E07B before...
+@3.17
+Sadly, they say it was a defeat. This time \E079 had a secret weapon.
+@3.21
+They say the ship \E079 specially built on \A3A2's orders showed matchless strength.
+@3.23
+That ironclad worked like a monster. Even our Chief was no match, and we were badly beaten...
+@3.24
+Even so... an iron ship...
+@4.0
+Listen, all of you! The likes of \#0117 are nothing to fear! Crush them in one go!
+@5.0
+Listen, all of you! \#00C3 and \#0117 are no match for us! Smash them so completely that they never dare sail out again!
+@6.7
+We're going too!
+@7.2
+Show them our strength to the full!
+@8.0
+Wh-what! That ship!?
+@8.1
+Armed with several cannon, its hull covered in iron about 3 mm thick, the huge 1,500-koku ship was also called the "Great Atakebune".
+@8.2
+This was the "secret weapon" that \E079 had been developing.
+@10.0
+We did it... We got the provisions in! \#00C3 is beaten!
+@10.1
+Ah, you saved us. Even \#08C3, enemy of the Buddha, seems helpless before the \E07B.
+@10.2
+He'll probably withdraw sooner or later.
+@10.3
+Then we'll take our leave!
+@10.4
+Please give our regards to the lord of the \#12D2. You saved us this time.
+@10.5
+Men! We're going home!!
+@10.7
+Seeing this, \A3A2 gave up the siege and withdrew.
+@10.8
+It was a battle that proved the overwhelming power of the \E07B navy ruled the Seto Inland Sea.
+@10.9
+\#00C3 is beaten! Now you know the strength of our \E07B!
+@10.13
+The allied fleet of \A3A2 and \E079 was helpless against the \E07B's fierce attack and forced to retreat.
+@10.16
+That's \#08C3 for you... Not to be underestimated!
+@10.17
+...Even so, being beaten by \E079 is the blunder of my life!
+@10.18
+Anyway, retreat for now!
+@10.19
+It can't be helped! Fall back!!
+@10.20
+The allied fleet of \A3A2 and \E079 defeated the \E07B's fierce attack and seized control of the Seto Inland Sea...
+@10.21
+It was around this time that people began to whisper that the \E07B navy's power was on the wane...
+@11.1
+That strange iron-plated ship was all show!
+@11.2
+Sorry to trouble you again and again. Thanks to the \E07B we're saved. Surely \#08C3 will give up now.
+@11.3
+Then we'll take our leave!
+@11.4
+Please give our best regards to Lord \#12D2.
+@11.6
+The allied fleet of \A3A2 and \E079 was beaten again by the \E07B's fierce attack and lost all confidence.
+@11.7
+\E079's prized ironclad proved useless in real battle, and \A3A2 gave up the siege and withdrew.
+@11.8
+It was a sea battle that proved once again the overwhelming power of the \E07B navy.
+@11.11
+That strange iron-plated ship \E079 built was no use at all in real battle! Hahaha.
+@11.18
+That... ironclad! If only we had one!
+@11.19
+Grr... What an impudent ship! Now that they've built such a thing, our supremacy is in danger.
+@12.0
+Report! Rumour has it the \#12D2 and the \#1098 are finally going to war!
+@12.1
+The \#1098 have sent troops to take the castle the \#12D2 built near Itsukushima!
+@12.3
+The \#1098 house is asking our band for reinforcements!
+@12.4
+Hmm...!
+@12.5
+Pardon me for interrupting your council! I come as an envoy from \A3A2. I am \#07F1!
+@12.6
+\%03!? What business does \A3A2 have here?
+@12.7
+Now that our house is going to war with the \#1098, we must have the navy's help!
+@12.8
+That is the message from my master, \#02D2!
+@12.9
+\%03, what will you do? Both \A3A2 and \A3A3 have asked for reinforcements...
+@12.10
+What! \A3A3 too...!? Chief! Please, help our \A3A2!
+@12.11
+Our house is staking its fate on this war. I beg you!
+@12.13
+...\A3A3 once tried to crush our navy, wanting to rule the Seto Inland Sea.
+@12.14
+I could never lend a hand to \A3A3 like that...!
+@12.15
+And while \A3A2 has taken the trouble to send \%03 like this, I sense no sincerity from \A3A3.
+@12.16
+The answer is obvious! In this war, our \E079 sides with \A3A2!
+@12.17
+Oh! Thank you! I'll go back at once and tell the generals! Excuse me!!
+@12.18
+Chief...! Was siding with \A3A2 really the right thing...?
+@12.19
+We're not becoming \A3A2's vassals. We side with \A3A2 for this war only!
+@12.20
+It's time to show the strength of our \E079! Ready, everyone!!

@@ -218,9 +218,11 @@ def english(rec, scen):
     """English [family, given] of a tl record for scenario number scen (1-8)."""
     return rec.get('s%d' % scen, rec['en'])
 
-def apply(elf, data, seg, clean_elf):
-    """Add the English name tables and lookup code to seg and hook the getters."""
-    tl = load_tl()
+def name_pairs(data, clean_elf, tl=None, extra=True):
+    """-> (pairs, cut): Japanese (family, given) bytes -> English [family, given] of
+    every scenario record (+ the event-script names of tl/ev/names.txt when extra),
+    and full English pair -> the 8-byte record form."""
+    tl = tl or load_tl()
     pairs = {}                                   # Japanese (family, given) -> English
     for s in SCENARIOS:
         for i, (fa, gi) in enumerate(scenario_names(datafile.entry(data, clean_elf, s))):
@@ -229,6 +231,10 @@ def apply(elf, data, seg, clean_elf):
                 en = english(tl[i], s - 4)
                 if pairs.setdefault(key, en) != en:
                     print('names: %s%s is %s and %s' % (fa, gi, pairs[key], en))
+    if extra:
+        import evtl
+        for key, en in evtl.event_name_pairs().items():
+            pairs.setdefault(key, list(en))
     # The runtime records themselves get English cut to 8 bytes a part (code that reads
     # a record directly shows that); the lookup maps both the Japanese and the cut
     # English pair to the full English.
@@ -242,6 +248,14 @@ def apply(elf, data, seg, clean_elf):
                 break
         else:
             raise ValueError('names: no unique 8-byte form for %s' % (en,))
+    return pairs, cut
+
+EV_GIVEN, EV_FAMILY = 0x233478, 0x233490     # event text \#XXXX +0x800 / +0x1000 forms
+
+def apply(elf, data, seg, clean_elf):
+    """Add the English name tables and lookup code to seg and hook the getters."""
+    tl = load_tl()
+    pairs, cut = name_pairs(data, clean_elf, tl)
     e86 = bytearray(datafile.entry(data, clean_elf, COPY_ENTRY))
     changes = {}
     for s in SCENARIOS:
@@ -345,6 +359,18 @@ def apply(elf, data, seg, clean_elf):
                   ('addu', 't0', 'zero', 'zero'), ('addu', 't1', 'zero', 'zero'), ('addiu', 't2', 'zero', 1),
                   ('addiu', 't3', 't3', asm.lo(fmt)), ('sd', 'v0', 0, 'sp'), ('nop',), ('jal', 0x469E50), ('nop',)])
     p(OFFICER_NAME, [('jal', labels['officer_name'])])
+    # event text expander 0x233270: \#XXXX with the given / family form copied the
+    # record part (cut form) -> en_part(record, kind); v0 = person object
+    o = EV_GIVEN - elfseg.VBASE + elfseg.FOFF
+    assert struct.unpack_from('<7I', elf, o)[::6] == (0x8C420004, 0x8C450004), 'event name hooks'
+    for va, kind in (EV_GIVEN, 1), (EV_FAMILY, 0):
+        at = seg.end + (-seg.end % 4)
+        seg.add(asm.assemble(at, [
+            ('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'), ('lw', 'a0', 4, 'v0'),
+            ('jal', labels['en_part']), ('addiu', 'a1', 'zero', kind),
+            ('addu', 'a1', 'v0', 'zero'), ('addu', 'a0', 's1', 'zero'),
+            ('ld', 'ra', 0, 'sp'), ('j', 0x233180), ('addiu', 'sp', 'sp', 16)]), 4)
+        p(va, [('jal', at), ('nop',)] + ([('b', 0x233EB0), ('addu', 's1', 's1', 'v0')] if kind else []))
     # The ELF officer table itself (read directly by 0x28B340's callers: hero cards,
     # lists): name[17] = English (short form "F. Given" when over 16 characters),
     # reading[17] cleared (English shows no kana reading line).

@@ -1,0 +1,172 @@
+@0.0
+My lord! Something terrible has happened!
+@0.1
+What is it!? Such a racket!
+@0.2
+Lord \#0035, lord of \41E1, has gone over to the \#118A!
+@0.3
+What!! Is that true!?
+@0.4
+Yes, sir! There is no mistake!
+@0.5
+Ugh... Damn that \#0835! I will never forgive him... I'll torture him to death! We attack \41E1 at once!
+@0.7
+As you have all heard, that \#0035 has betrayed us and gone over to the \#118A!
+@0.8
+I will not let this pass! I'll torture him to death as a lesson to others! Everyone, to arms!
+@0.9
+My lord! Please wait!
+@0.10
+What is it, \#0A24! Have you some complaint!?
+@0.11
+The \#118A stand behind \#0035. If we attack \41E1, the \#118A will surely send reinforcements.
+@0.12
+I think it better not to move too hastily and to watch how things go for a while.
+@0.13
+Have you lost your nerve, \#0A24! There's no time to sit and watch! \#0835 will only finish his preparations for war!
+@0.14
+But... if we are to fight the \#118A, wouldn't it be wiser to meet them at this castle?
+@0.15
+Bah, why fear the \#118A so much! Besides, that way I can't punish the traitor \#0835!
+@0.17
+Attack \#0035 anyway
+@0.18
+Meet the \#118A here
+@0.19
+This is no time to argue! We march, and that's that! We'll crush \#0035 utterly!
+@0.20
+Listen, all of you! We march!
+@0.22
+Hmm... Well, \#0A24 has a point.
+@0.23
+It can't be helped. \#0035's punishment can wait. For now, prepare for the \#118A. Everyone, ready for war!
+@0.25
+Report! \#0183's men are heading for this castle!
+@0.26
+So they've come! It seems \#0A24 read it right!
+@0.27
+Call the muster at once! Tell the generals to come to the castle!
+@0.29
+Lord \#0FFE! Something terrible has happened!
+@0.30
+Hm? What's happened?
+@0.34
+Hmm... That's bad. I hope our lord doesn't lose his head in his anger...
+@0.35
+\#0035 aside, the \#118A behind him are a real problem... First we must strengthen our defences...
+@0.36
+Lord \#0FFE, an order has gone out to come to the castle at once.
+@1.0
+For now we've held off the \#118A's attack, but \#0035 still has to be punished...
+@1.1
+Well, there's no need to hurry... Now that the \#118A's backing is cut off, we can attack \#0035 any time.
+@1.2
+Mm... Then we'll attack the \#118A themselves. And then, unite Kyushu!
+@1.4
+By defeating the \#118A at the Battle of Okitanawate, \#0311 made his name at a stroke as the master of Kyushu...
+@1.5
+Report! An envoy has come from the \#118A house.
+@1.6
+What!?
+@1.7
+What could he want?
+@1.8
+I am of the \#118A house. I have come to deliver the head of the late Lord \#0311.
+@1.9
+What, our lord's head?
+@1.10
+Yes! Here...
+@1.11
+We have no need of it... Please, take such an ill-omened thing back with you.
+@1.13
+Now, please leave...
+@1.14
+Well... Then I take my leave.
+@1.15
+But on the way back, at the border between the \#1311 and \#118A lands, they say \#0311's head suddenly grew heavy...
+@1.16
+Thinking it did not want to enter \#118A land, the envoy went back into \#1311 land, buried the head and gave it a proper funeral...
+@1.17
+With the death of \#0311, \37F1 took over.
+@1.18
+From now on, I must carry on the late lord's will and unite Kyushu...
+@1.19
+From now on... the \#118A may expand, and Kyushu may fall into chaos...
+@2.0
+Report! It seems \#0183's reinforcements have arrived at \41E1 to back \#0035!
+@2.1
+I thought so...
+@2.2
+All the better! We'll crush the \#118A too, in one go!
+@2.3
+The enemy can't know the lay of the land here... We know it inside out; the advantage is ours!
+@2.4
+My lord, please wait! You mustn't be careless!
+@3.0
+How many troops does \#0183's army have!?
+@3.1
+About 6,000, I believe!
+@3.2
+What, only 6,000! A force that size, I'll scatter with ease!
+@3.3
+My lord, you mustn't be careless!
+@3.4
+Bah! Why so timid at a time like this! Just advance!
+@3.6
+What is it!?
+@3.7
+It seems the vanguard got stuck in the mud on the paddy-field paths and can't move!
+@3.8
+What nonsense is this! Do something about a muddy road! Just advance!!
+@3.9
+No, my lord! If more troops pile up behind the stuck vanguard...!
+@3.10
+Splash
+@3.11
+Damn!! Even my horse is stuck in the mud!
+@3.12
+That's why I warned you...
+@3.13
+The \#1311 army's morale has fallen sharply.
+@3.14
+Over half of the 20,000 troops cannot move.
+@3.15
+Bah! Don't whine over something like this! Crush those \#1183 country bumpkins in one blow!
+@4.0
+Phew, it seems we've driven off those \#118A...
+@4.1
+We've slain the enemy general \#0183!
+@4.2
+Good! Now, let's go and attack \#0035 again!
+@4.3
+You mustn't! The troops are exhausted. It would be better to return to the castle for now...
+@4.4
+My lord! Let the troops rest for now.
+@4.5
+Hmm... It can't be helped. Then we'll go back... \#0835, you've been spared.
+@4.6
+Back to the castle!!
+@4.13
+N-no... I can't get out of the mud...
+@4.15
+Gwaah! S-so bitter...
+@4.16
+I have slain the enemy general \#0311!
+@4.17
+Feared by the daimyo around him as "the Bear of Hizen", \#0311, who ruled over Kyushu, vanished like dew at Okitanawate... Age \100B.
+@4.22
+Ugh... Our army is collapsing. Our lord!? Where's our lord!?
+@4.23
+They say he was killed by an enemy general in the melee!
+@4.24
+Wh-what...!?
+@4.26
+For now we must gather the survivors, go back to the castle and think about what to do...
+@4.27
+What will become of the \#1311 house now...
+@5.4
+By defeating the \#118A at the Battle of \41DF, \#0311 made his name at a stroke as the master of Kyushu...
+@5.5
+Ugh... Curse you, \#118A!
+@5.6
+By defeating \#0311 at the Battle of \41DF, the \#118A house made its name at a stroke as the master of Kyushu...

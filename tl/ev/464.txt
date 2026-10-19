@@ -1,0 +1,16 @@
+@0.0
+But... come to think of it, \#00CB really does sound like a ronin's name.
+@0.1
+Now that I serve a house, perhaps I should change my name.
+@0.2
+Change my name
+@0.3
+Keep it
+@0.4
+Right, from today I'll drop \#00CB and call myself Ono Jiroemon Tadaaki.
+@0.9
+Now that sounds like a proper samurai's name.
+@0.10
+\#00CB changed his name to Ono Tadaaki.
+@0.11
+No, I like this name. There's no need to go out of my way to change it.

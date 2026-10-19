@@ -1,0 +1,160 @@
+@0.0
+Hey, you're \#0049, right?
+@0.1
+What if I am? Who the hell are you anyway, barging into someone's house without a word?
+@0.2
+Now, don't get so prickly... I've brought you a money-making deal.
+@0.3
+A money-making deal?
+@0.4
+You know the Plover Censer? It's a prize piece of tea ware owned by Lord \#0205, the man of the hour.
+@0.5
+So what about this censer thing?
+@0.6
+They say it's the finest censer in the land. Daimyo, court nobles and monks everywhere are dying to get their hands on it.
+@0.7
+Thing is, the owner is the master of the realm who rules the capital. Nobody dares come out and say "give it to me"...
+@0.8
+What are you getting at?
+@0.9
+I mean, if you were to steal it... there'd be a fortune in it.
+@0.10
+Why bring this to me?
+@0.11
+Word is your ninja skills are the best in the land.
+@0.12
+So... I get my hands dirty and you walk off with the best part? That's a bit much.
+@0.13
+I brought you a sweet deal. Surely I've earned half the share at least.
+@0.14
+No deal... I'd be carrying all the weight. All you did was bring the story, then sit and wait for me to fetch it.
+@0.15
+Thanks for the tip... If I do it, I'll do it alone.
+@0.16
+Dirty dog! You hear the story for free and then cash in on your own?! That's not right!
+@0.17
+Careful... You know how good I am, right? I'm telling you for your own good... Get lost before my mood gets any worse!
+@0.18
+H-hey... That's not fair...
+@0.19
+Enough! You must really want one of my shuriken in your gut.
+@0.21
+...Get out of my sight!
+@0.22
+Tch! ...Gutless coward! I misjudged you, \#0049! So long!
+@0.24
+The Plover Censer... Interesting story.
+@0.25
+So \%04205 has it... Stealing from someone I know doesn't sit right...
+@0.26
+So \%04205 has it... The great daimyo who holds the Kinai now.
+@0.27
+Next time I'm in \41DF, maybe I'll pop in and steal it...
+@1.9
+Well, anyway... I just pray this gang of thieves doesn't show up in this town too... Touch wood, touch wood.
+@1.11
+(Thieves, eh... Well, who cares.)
+@2.0
+\41DF... \#0205's castle.
+@2.1
+Come to think of it, they say a prize piece called the Plover Censer is hidden away here...
+@2.2
+Shall I try stealing it, just to test my skills...?
+@2.3
+Sneak into the castle
+@2.5
+No, no need to cross a dangerous bridge. Too risky, too risky...
+@2.6
+I'll forget about that censer.
+@2.7
+Right, a castle like this... is nothing to me...
+@2.8
+...Hmm. It doesn't seem to be in the storehouse. Now, where could it be?
+@2.9
+Wait... The Plover Censer is a treasure of the realm. Maybe \#0A05 keeps it close by.
+@2.10
+Shall I sneak into \#0A05's bedchamber...
+@2.11
+Now... it should be around here.
+@2.12
+\#0A05 is... Hm, he seems to be asleep. A good start.
+@2.13
+The censer... Oh!! There it is.
+@2.14
+Right, don't wake up...\n\n...Hm?
+@2.18
+Wha-?! The plover on the censer is singing?!
+@2.20
+Hm? Ah... the plover is singing.
+@2.21
+(Damn! He's woken up...!)
+@2.22
+Hm, is someone there? Who goes there!!
+@2.27
+Since I've been caught, it can't be helped... I am \#0049, the finest ninja in the land! I came for that Plover Censer!
+@2.29
+What is it, old lord?! Ah?! A thief?!
+@2.30
+Heh... You think you can catch me?
+@2.41
+And... never steal in my lands again. That is all.
+@2.42
+...All right. This censer was my last target... I'll never steal again.
+@2.48
+Hurry, or the patrolling samurai will keep coming.
+@2.50
+(\#0205... Master of the realm indeed. A big-hearted man...)
+@2.51
+(He's wasted as a mere daimyo. Ha ha ha.)
+@2.56
+Ugh... Who'd have thought the Plover Censer would start singing... Bad luck.
+@2.58
+That gang of thieves that troubled the capital a while back was probably this fellow too... Outrageous!
+@2.59
+N-no! I never did any such thefts!
+@2.60
+You sneak into my bedchamber and still dare tell such lies! A true villain! Letting a thief like this live does the world no good. Execute him at once!
+@2.62
+Wha-?!
+@2.66
+Yes, sir! At once! Now, get up!
+@3.6
+...N-no, it wasn't me!
+@3.9
+He sure has a villain's face.
+@3.10
+You mean to pin every crime on me and do away with me?!
+@3.11
+So that's the thief who troubled the capital... Ugh, horrible.
+@3.13
+Eek! An ex-execution, right before my eyes...!?
+@3.15
+...Urgh!
+@3.18
+Execute that scum already!
+@3.21
+Dear!
+@3.22
+Hey, lady, you're in the way. Screaming there, I can't see the boiling!
+@3.23
+It's not true! He's not the one! He never stole anything...!
+@3.24
+Shut up! This woman's in the way. Throw her out!
+@3.25
+Eeek!
+@3.26
+(\%03... I'm sorry... to be such a husband.)
+@3.27
+Heh heh heh... Even the great villain hasn't a peep to say now...
+@3.44
+(Farewell... \%03!)
+@3.49
+Dear!! Ahhh!!
+@3.50
+Ohh... my dear...
+@3.53
+Months later, in Kyoto, a woman took her own life leaning against \#0849's secretly built grave.
+@3.54
+Some said she was a victim of theft, some that she was one of the thieves, others that she was \#0849's wife...
+@3.55
+Many rumours went round, but no one knew the truth...

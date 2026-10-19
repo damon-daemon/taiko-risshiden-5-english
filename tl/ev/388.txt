@@ -1,0 +1,38 @@
+@0.0
+\#07FE! \51E7 has fallen to the \A3A5's fierce assault. They say the \A3A4 has lost its last castle!
+@0.1
+I see... Our support wasn't enough. To let our master's house be destroyed...
+@0.2
+But such is this age of war... It can't be helped. With \#086D's ability, the successor to Lord \#086E...
+@0.3
+Chief, if the \A3A4 falls, we must submit to some other daimyo house.
+@0.4
+......Hmm.
+@0.5
+The \A3A4 fell because the \A3A2 and the \A3A3 allied... So siding with one of them would be wise.
+@0.6
+Perhaps so...
+@0.7
+Perhaps so...
+@0.8
+Side with the \A3A2
+@0.9
+Side with the \A3A3
+@0.10
+It's decided... Our \E079 will submit to the \A3A2! Now, send an envoy to Lord \#09C1!
+@0.11
+Aye aye!
+@0.12
+It's decided... Our \E079 will submit to the \A3A3! Now, send an envoy to Lord \#09FA!
+@0.14
+I see... Our support wasn't enough. To let our master's house be destroyed...
+@0.15
+But such is this age of war... It can't be helped. With \#086D's ability, the successor to Lord \#086E...
+@0.16
+The chief has given up on the \A3A4 and decided to submit to the \A3A2.
+@0.17
+The \A3A2... Certainly \#01C1's strength is unmatched...
+@0.21
+The \A3A2... Certainly \#01C1's strength is unmatched...
+@0.22
+The \E079 has come under the \A3A6.

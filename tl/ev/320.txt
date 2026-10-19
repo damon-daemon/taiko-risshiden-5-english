@@ -1,0 +1,392 @@
+@0.0
+From humble oil seller to master of all Mino:\nthe ruthless schemer of the Warring States,\n\#0144...
+@0.1
+But his theft of a province cost many their lives...\nHis former lord, Toki Yorinari, was among them.
+@0.2
+Dosan took a concubine from that lord, and soon\nhis eldest son, \#0947, was born.\nThen Dosan drove that lord out as well.
+@0.3
+Ever since, rumour had it that \#0947 was\nreally the son of Toki Yorinari...
+@0.4
+\#0944 denied the rumour, but showed\n\#0947 no particular love and was\nreluctant to hand him the headship.
+@0.5
+\#0947, for his part, distrusted \#0944,\nunsure he was his real father, and\nrelations between them only worsened...
+@0.6
+That people say \#0947 is not my son at all is outrageous... And yet \#0947 suspects me too...
+@0.7
+If only \#0444, who married \#00C3, had been born a boy... I would not have to fear for the future...
+@0.8
+Whether Father is my real father or not makes no difference to me...
+@0.9
+The trouble is that Father shuns me...
+@0.10
+Father seems fonder of \#00C3, the husband of my sister \#0444... as if I, his eldest son, did not exist...
+@0.11
+Surely he doesn't mean to hand Mino to \#08C3 instead of me...
+@0.12
+With father and son at odds like this... it hands other provinces an excuse to attack.
+@0.13
+They say \#00C3 of Owari has his eye on Mino, even if he is the old lord's son-in-law... Whatever will become of Mino...
+@0.14
+With father and son at odds like this... it hands other provinces an excuse to attack.
+@0.15
+They say \#00C3 of Owari has his eye on Mino, even if he is the old lord's son-in-law... Whatever will become of Mino...
+@1.0
+Old lord, a letter has come from Lady \#0444.
+@1.1
+What? From \#0444?
+@1.2
+\#0444, daughter of \#0144,\nhad married \#00C3 of Owari...
+@1.3
+"Father, are you well?\n I am getting along\n without trouble here..."
+@1.4
+\&01, what does the letter say?
+@1.5
+Hmm... my son-in-law \#08C3 wishes to meet me.
+@1.6
+And I would like to see this son-in-law they call the Fool of Owari for myself.
+@1.7
+Then why not meet him? As for the place... Shotokuji would serve well. Leave the arrangements to me.
+@1.9
+Wait... before we meet, I'd like a look at how my son-in-law behaves normally... Is there somewhere I can watch unseen?
+@1.10
+There is a shabby hut over here. No one would ever think the lord was hiding in such a place.
+@1.11
+Good... then I'll watch my son-in-law's procession from there.
+@1.12
+Oh! \%040C3's column is coming!
+@1.13
+Hey, aren't they here yet?!
+@1.14
+Wh-what?! What is that?!
+@1.15
+...He's even more of a fool than they say.
+@1.16
+But look... those guns and long spears... No house has an army armed with so many guns and long spears...
+@1.18
+Still, if my son-in-law dresses like that, there's no need for me to stand on ceremony... I'll meet him in plain clothes.
+@1.20
+Lord \#00C3 has arrived.
+@1.21
+(What... in full battle dress!)
+@1.25
+Ha ha ha... ha ha ha.
+@1.26
+Lord \#00C3 has left.
+@1.27
+How was he, my lord? A fool, just as the rumours say?
+@1.28
+No, not at all...
+@1.30
+Some day soon... after I am dead... my descendants will end up serving that "fool"...
+@1.31
+Surely not...
+@1.32
+If only he had been a true son of my own blood...
+@1.33
+Lord \#07FE! \#00C3 has come to see the old lord.
+@1.34
+What, \#08C3?
+@1.36
+Then I too must pay my respects to my sister's husband...
+@1.37
+No, Lord \#08C3 has already left.
+@1.38
+What! Ignoring me... So, did Father say anything?
+@1.39
+The old lord said, "One day my descendants will surely be my son-in-law's vassals"...
+@1.40
+Nonsense! He thinks I would bow to \#00C3?! Father has gone senile!
+@1.41
+Y-you go too far! If the old lord should hear...
+@1.42
+Hmph! What do I care! Father clearly prefers his son-in-law to his eldest son.
+@1.44
+At this rate, even my life is in danger...
+@1.45
+Lord \#07FE, the old lord summons you.
+@1.46
+What, the old lord... Very well, I'll go at once.
+@1.47
+Ah, \#0FFE. Good of you to come.
+@1.48
+My lord, such a sudden summons... What is the matter?
+@1.49
+Well... I've a mind to meet my son-in-law \#08C3...
+@1.51
+I want to see this son-in-law they call the Fool of Owari. Will you arrange it?
+@1.52
+Gladly, my lord. As for the place... Shotokuji would serve well. Leave the arrangements to me.
+@1.60
+But look at that... those guns and long spears... No house has an army armed with so many guns and long spears...
+@1.64
+(What... those clothes!)
+@1.67
+Is that so... I am honoured that the father-in-law they call "the Viper of Mino" should treat me so warmly.
+@1.75
+If only he had been my real son...
+@1.78
+Eh? \%040C3?
+@1.80
+So, did the old lord say anything?
+@1.81
+The old lord said, "One day my descendants will surely be my son-in-law's vassals"... Those were his words.
+@1.82
+What! Our house will bow to \#00C3? That's not like the old lord at all...
+@1.83
+Perhaps the old lord truly does not think well of the young lord...
+@1.85
+What, \%040C3?
+@1.87
+So, did the old lord say anything?
+@1.89
+What! The Saito house will bow to \#00C3?! That's not like the old lord at all...
+@1.90
+Perhaps the old lord truly does not think well of the young lord...
+@2.0
+Old lord! Terrible news! Lord \#0947 has declared he will strike you down and raised an army!
+@2.1
+What?! \#0947?! Curse it, what is the meaning of this!
+@2.2
+Fearing \#0944 would pass over \#0947 for\nhis brother Magoshiro, \#0147 at last\nrose in arms to strike down his father...
+@2.3
+That idiot son! Can't he see it's a spy's trick to set father and son against each other?!
+@2.4
+My lord! Please, flee at once!
+@2.5
+Hrrm...!!
+@2.6
+*Clang*
+@2.9
+My lord... are you all right? Are you hurt?
+@2.10
+I'm finished... However far I run, the Mino generals already side with \#0947... I cannot escape.
+@2.11
+Don't speak so faintly! Go to Lord \#08C3 in Owari and you can rise again!
+@2.12
+No, son-in-law or not... against \#0947's swift attack, help will surely come too late...
+@2.14
+More than that, \&03, I have a favour to ask.
+@2.15
+Anything!
+@2.16
+I will cut my belly here... Be my second.
+@2.18
+There's no saving me now... and I'll not waste my head on that idiot son. You must hide it.
+@2.19
+My lord!!
+@2.20
+And one more thing... Take this letter to my son-in-law.
+@2.21
+...This letter, to Lord \#08C3?
+@2.22
+Mino, the province I won over a lifetime... It's too good for that idiot son...
+@2.23
+I give all of Mino to my son-in-law... "Take it as you will"... That is what I wrote. See that it reaches him.
+@2.24
+Yes, sir! Even at the cost of my life, \#0869!
+@2.25
+Good... and give my regards to \#0444... Tell her to live long and happily with Lord \#08C3...
+@2.26
+Yes, sir! I understand!
+@2.27
+Good... then farewell!
+@2.28
+My lorrrd!!
+@2.29
+S... second me...
+@2.30
+Yes! Forgive me!
+@2.36
+My son-in-law... \#00C3... That man will surely...
+@2.38
+What is it?!
+@2.39
+My lord! Word just came: \#00C3 of Owari heard of the old lord's danger and marched at once on \41DF!
+@2.40
+Oh!! Lord \#08C3! My lord! We're saved!
+@2.41
+Y... yes...
+@2.42
+\#00C3 swooped on \41DF to rescue\nhis father-in-law \#0144...
+@2.43
+Caught off guard, \#0147 fell from his\nhorse as he fled and met a wretched end\nat the hands of common soldiers...
+@2.44
+Father-in-law! Are you safe?!
+@2.45
+Ah, Lord \#08C3! Thank you for coming... You have as good as saved my life!
+@2.46
+It was to save you, but I have killed my brother-in-law... I beg your pardon.
+@2.47
+Not at all... Rather than that idiot son, I have you, my son-in-law!
+@2.48
+Father!! Are you safe?!
+@2.49
+Ah, \#0444!! You came too...
+@2.50
+When I heard Brother meant to kill you... I couldn't bear it, and came with Lord \#08C3.
+@2.51
+\#0444... you have truly found a good husband...
+@2.53
+Then we shall take our leave... Father-in-law, if anything happens, send for us any time!
+@2.54
+And so \#0147's revolt, the battle\nof the Nagara River, came to an end...
+@2.55
+Through this revolt, the ties between\nthe \#1144 and \#10C3 houses\ngrew stronger than ever...
+@2.56
+My lord!! Lord \#00C3 was no fool, just as you said!
+@2.57
+Of course not! He's the Viper's son-in-law, after all! Ha ha ha!
+@2.58
+Lord \#07FE! I've heard a dreadful rumour!
+@2.60
+They say the old lord will hand the headship to Lord Magoshiro!
+@2.61
+What?! To Magoshiro?
+@2.62
+Saito Magoshiro was the son of Dosan's\nwife and the younger brother of \#0947.
+@2.63
+So Father never meant to give me the headship after all...!
+@2.64
+Then we strike first! Kill Magoshiro!
+@2.65
+But...?! The old lord...!
+@2.66
+I don't care! Then I'll bring down Father too! Order the generals! I am raising an army to destroy \#0144!
+@2.68
+In month \M002 of \M001, \#0147 finally\nrose to strike down his father, \#0144...
+@2.69
+Looking to the future, the generals of Mino\nsided with \#0947, and \#0944 was\nleft isolated.
+@2.70
+I will take Mino from my father by force! Rise up, all of you!
+@2.71
+Ohhh!!
+@2.98
+My lord! Lord \#0144 appears to have fallen in battle!
+@2.99
+Good! Well done!
+@2.100
+I report! \#00C3 of Owari was about to invade our lands...
+@2.101
+...but when he learned Lord \#0944 was dead, he withdrew!
+@2.102
+Ha ha... \#10C3 has less backbone than I thought.
+@2.103
+Good...! Hear me, all of you! From now on, I, \#0947, am master of Mino! I count on you!
+@2.104
+Ei, ei, oh!!
+@2.107
+Lord \#07FE! Terrible news! Lord \#0947 has declared he will strike down the old lord and raised an army!
+@2.108
+What?! The young lord?! Curse it, what is the meaning of this!
+@2.110
+How rash! Father and son at war with each other! We must protect the old lord at all costs!
+@2.111
+My lord! You're safe! Qu-quickly, flee!
+@2.137
+Yes! Forgive me!
+@2.141
+I must hide the old lord's head... and deliver the letter of bequest to Lord \#10C3, as he willed...
+@2.143
+What?! The young lord?! What does this mean?!
+@2.172
+Lord \#07FE! Lord \#0144 appears to have fallen in battle!
+@2.173
+Now the young lord... no, the new lord will carry the stain of "patricide" forever...
+@2.174
+What will become of the \#1144 house...?
+@2.175
+The new lord believes he does not carry Lord Dosan's blood... No, worse, he hates Lord Dosan.
+@2.176
+As his kin, I am not safe in Mino either... Perhaps I should turn to Lord \#0017 of Echizen...
+@2.177
+\#000E became a vassal\nof \#0017.
+@3.3
+Lord \#0144 appears to have fallen in battle!
+@4.0
+...Hah, hah... I beg... an audience with Lord \#00C3...
+@4.1
+Hm! Who are you?!
+@4.2
+I am \#07FE, a vassal of \#0144... I bring an important letter for Lord \#10C3...
+@4.3
+F-forgive me. I'll announce you at once.
+@4.4
+Hm, \#07FE, isn't it! What has happened?
+@4.5
+I bring my lord's last testament, addressed to Lord \#10C3!
+@4.8
+\#0FFE! Is that true?!
+@4.9
+My lady...! Sadly, it is true... Your father has passed away.
+@4.10
+How can this be... So it was Brother...?
+@4.11
+No, my lord took his own life rather than fall into Lord \#0947's hands... I served as his second...
+@4.14
+To Lady \#0444... that she live long and happily with Lord \#08C3.
+@4.15
+Ohh... Father...
+@4.18
+Can this be...! My father-in-law writes that he gives Mino to me!
+@4.21
+I beg you, carry on the will of the late Lord \#0944 and rule Mino!
+@4.22
+...\#0444, are you willing for me to kill your brother?
+@4.26
+Wait! \#0FFE! You aren't planning to follow my father-in-law and cut your belly, are you?!
+@4.28
+I forbid it! You have a duty to see with your own eyes that your old lord's last wish is fulfilled...!
+@4.30
+\#0FFE, serve me! Not at once perhaps, but I will honour my father-in-law's will without fail!
+@4.33
+And so \#07FE came to live on\nas a vassal of \#00C3...
+@5.0
+Before the council, I have something to tell you all.
+@5.1
+What is it, my lord?
+@5.2
+I am thinking of retiring and handing the headship to \#0947. What do you all think?
+@5.3
+The headship to me...? Father, are you serious?
+@5.5
+(If I hand over the headship and retire,\n there will be no fight with \#0947...\n I must head off needless strife.)
+@5.6
+(What is Father up to...?)
+@5.7
+(Does he mean to pretend to pass me the\n headship, then, free to act, bring in\n \#08C3 and hand Mino to him?)
+@5.8
+(I will never let that happen...)
+@5.9
+(What is my lord up to...?)
+@5.10
+(If my lord hands over the headship and\n retires, there will be no fight with\n \%04147... Is he heading off strife?)
+@5.11
+Kind of you, Father... but I still have much to learn. It is not yet time for me to take the headship.
+@5.12
+What are you saying, \#0947? You are already \1007... It is hardly too early.
+@5.13
+You are still young yourself, Father. There is no need to retire in such a hurry...
+@5.16
+...\#0947, do you trust your father so little?
+@5.17
+Is it not you, Father, who dislikes me?
+@5.18
+...Very well, enough. All of you, forget what I just said.
+@5.20
+For now I will go on running the government. Is that all right, \#0947?
+@5.22
+(\#0947... is everything a grievance to\n him? What... am I to do?)
+@5.23
+(Do I mend things with \#0947...\n or entrust the future to my\n son-in-law \#00C3...?)
+@5.24
+(Either way, I must work closely with\n either my son-in-law or my son...)
+@5.25
+(So Father doesn't trust me after all.)
+@5.26
+(If he truly meant to hand it over, he\n would not drop the idea just because\n I declined once.)
+@5.27
+(The headship... I'll have to take\n it from Father by force...)
+@5.28
+(On the surface they offer each other the\n headship, but deep down neither trusts\n the other...)
+@5.29
+(I only hope the feud between father and\n son never comes to war...)

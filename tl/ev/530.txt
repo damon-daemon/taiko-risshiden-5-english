@@ -1,0 +1,144 @@
+@0.0
+(With the \#11C1 driven off, western Kozuke should be safe for a while...)
+@0.1
+\#0A59!
+@0.2
+What is it?
+@0.3
+I'm leaving the \#1218 house.
+@0.4
+What! Then you'll fulfil your long-held wish?
+@0.5
+Mm. I no longer mean to throw myself into worldly land disputes. From now on, I want to live by the sword alone.
+@0.6
+Have you already received the old lord's permission?
+@0.7
+Mm, Lord \#0A18 gave his permission.
+@0.8
+In that case, I...
+@0.9
+Leave the \#1218 for the sword
+@0.10
+Stay with the \#1218 house
+@0.11
+I too wish to walk the way of the sword, as you do.
+@0.12
+I see. I'm thinking of settling in \41DF for now.
+@0.13
+Then I'll move to \41DF too.
+@0.14
+In month \M002 of \M001, \#0128 and \#07FE left \41DE, and from then on lived by the sword...
+@0.15
+I wish to serve the \#1218 house a while longer.
+@0.16
+I see, that's fine too. Then farewell, take care.
+@0.17
+You take care too...
+@0.18
+Now I'm a direct vassal of Lord \#0A18. First I must move to \41DE.
+@2.1
+Ugh! \#01C1... as fine a warrior as they say. To think this \41DE would fall...
+@2.2
+Crossing Usui Pass into western Kozuke, the \#11C1 army surrounded \51E5 Castle many times over.
+@2.3
+The \#1218 forces held out well, but through skirmish after skirmish the gap in numbers slowly widened...
+@2.4
+The \#11C1 army stormed a weakly held section, and at last the key stronghold of \51E5 Castle fell.
+@2.5
+It has come to this... Nothing left but to die with honour... Hnn!!
+@2.6
+Stab!!
+@2.7
+And so \#0A18, head of the \#1218 house, took his own life in the inner bailey of the keep... Age \1007.
+@2.8
+Lord \#0A18 has taken his own life... So this is the end!
+@2.9
+I'm charging the \#11C1 camp! Follow me, whoever has the nerve! Let them see the banner of Marishiten!
+@2.11
+Please wait!!
+@2.12
+Hm, that's Lord \#0FF2's banner.
+@2.13
+I am \#07F2 of the \#11C1 house.
+@2.14
+I am \#0128 of the \#1218 house. This is my nephew, \#07FE.
+@2.15
+I am \#07FE of the \#1218 house.
+@2.16
+Lord \#0928, now that \41DE has fallen, what good will shedding blood in vain do?
+@2.18
+My lord, Lord \#09C1, says the surviving castle troops may do as they please.
+@2.19
+They may serve the \#11C1 or serve another land; he does not mind at all.
+@2.20
+So please, lay down your arms.
+@2.21
+...Very well. I will resist no more.
+@2.22
+Thank you for listening. Lord \#09C1 wishes to meet you, Lord \#0928, so please come with me.
+@2.23
+Then I will come. \#0A59, wait here. I'll be right back.
+@2.25
+\#0A59, I'm back.
+@2.26
+Sir. And what happened?
+@2.27
+Lord \#09C1 offered me service, but I declined.
+@2.32
+Instead, I received part of Lord \#09C1's name. From now on I am "Kamiizumi Nobutsuna".
+@2.33
+Then what do you intend to do now?
+@2.35
+Then you'll fulfil your long-held wish.
+@2.36
+That's right. \#0A59, what will you do?
+@2.37
+I...
+@2.38
+Don't serve; live by the sword
+@2.39
+Serve the Takeda
+@2.42
+Then I'll move to \41DF too.
+@2.43
+In month \M002 of \M001, \#0128 and \#07FE left \51E5 Castle, and from then on lived by the sword...
+@2.44
+I mean to serve the \#11C1.
+@2.48
+Mm! Well done, everyone! Now \#09C1 knows how tough the warriors of Joshu are.
+@2.49
+\#01C1... a fine warrior, but as long as I, \#0A18, hold \51E5 Castle, he'll not lay a hand on Joshu!
+@2.51
+Mm! Well done, everyone. Even if we didn't win, not losing is enough.
+@2.54
+But \#0218, known as a general of wisdom and valour, rallied the lords of western Kozuke and held out well...
+@2.55
+Even under the command of \#01C1, the Tiger of Kai, \51E5 Castle, held by \#0218, the Tiger of Joshu, never fell.
+@3.0
+Lord \#07FE, \#07F0 of Kai has attacked \51E7 Castle!
+@3.1
+What!? When did this... No, I can't sit here! I must go to its aid at once!!
+@3.2
+Never fear. Lord \#0FF1 has already driven off the \#17F0 forces.
+@3.3
+Oh!! As expected of \%027F1! What kind of battle was it? Tell me the details.
+@3.6
+But \#0218, known as a general of wisdom and valour, rallied the lords of western Kozuke and smashed the \#11C1 army with a surprise attack.
+@3.12
+Grave news! \#01C1 of Kai has marched to invade Kozuke!
+@3.13
+What!? \#09C1 has marched on Kozuke!
+@3.14
+Yes! His army is about 20,000! It seems he means to besiege this castle with a great force!
+@3.15
+Ugh, a huge army... \%027F0, what will you do?
+@3.16
+Hmm, \#01C1 of Kai... Young, but they say there's no warrior like him.
+@3.17
+But as long as I, \#0FF0, am at \51E7, he'll not be crossing the Usui River to graze his horses.
+@3.18
+Besides, for over fifty years since my grandfather, Lord Naonari, built this \51E7 Castle, we've strengthened it into a fortress. It won't fall easily.
+@3.19
+First, call up every warrior of western Kozuke. And tell them to hold \51E7 Castle until I say otherwise!
+@3.21
+If it comes to it, we can ask Lord \#0077 for reinforcements.

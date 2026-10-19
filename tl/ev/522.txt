@@ -1,0 +1,160 @@
+@0.0
+Big brother... I wonder how he's doing now...
+@0.1
+\#0A04, what are you doing there?
+@0.2
+Oh, Ma. I was just thinking about big brother.
+@0.3
+About \#0A05?
+@0.4
+He fought with Pa and ran off from home, and we haven't heard a word since.
+@0.5
+They say he's serving the \#10C3 clan, though.
+@0.6
+Can big brother really hold down a job in service?
+@0.7
+Don't you worry about that boy.
+@0.8
+Even if the samurai life doesn't work out, he'll get by some other way.
+@0.9
+Yeah...
+@0.10
+Come on, there's lots of work today too. Come along later.
+@0.11
+Yeah, all right.
+@1.1
+Ma! What happened?!
+@1.2
+Oh, \#0A04. You came just in time.
+@1.3
+I was carrying a heavy load in the back room and hurt my back...
+@1.4
+Honestly, what a pain... I'll do it.
+@1.5
+Sorry, dear. I'm counting on you.
+@1.6
+Hey! It's me! \#0A05 is back!
+@1.7
+Oh, \#0A05! You look well.
+@1.8
+Yeah, I'm working hard as a samurai of the \#10C3 clan.
+@1.9
+I see, I see... You've become a fine man...
+@1.10
+This is sudden, but I'm getting married.
+@1.11
+She's called \#0435, the daughter of a samurai family of good standing.
+@1.12
+What! You're marrying a samurai's daughter?!
+@1.13
+Yeah, I came today to tell you. This'll spur me to work even harder, and I'll make life easy for you too, Ma.
+@1.14
+I'm so happy... That's really wonderful.
+@1.15
+Oh, it's you, big brother. Such a racket...
+@1.16
+Oh, \#0A04! You've grown sturdy since I last saw you.
+@1.17
+\#0A04, your brother is marrying a samurai's daughter!
+@1.18
+Wow, you've come up in the world. Not bad, big brother.
+@1.19
+Of course! When I rise even higher, I'll make you one of my men too.
+@1.20
+Ha ha ha! Sure, I won't hold my breath.
+@1.21
+Why you, laughing at me... Fine. Just watch what I do.
+@1.22
+I've kept \#0435 waiting, so I'll be off. Ma, \#0A04, take care!
+@2.0
+Big brother, are you in?
+@2.1
+Good to see you. Come on in.
+@2.2
+Oh yes, you haven't met Nene yet. Let me introduce you.
+@2.3
+\#0435, come here a moment.
+@2.4
+What is it, dear?
+@2.5
+This is my little brother \#0A04. I expect he'll be a bother now and then, but be kind to him.
+@2.6
+P-pleased to meet you. I'm his brother, \#0A04.
+@2.7
+Pleased to meet you. I am \#0435, wife of \#0A05.
+@2.8
+Well, \#0435? Pretty decent for my brother, eh?
+@2.9
+Yes. I'm sure Master \#0A04 will help prop up his hopeless brother.
+@2.10
+Yes, his hopeless... \#0435, that's a bit much...
+@2.11
+Hee hee... Just a joke.
+@2.12
+But I'm sure Master \#0A04 will do good work.
+@2.13
+Yes. He'll do well as my right-hand man.
+@2.14
+By the way, Master \#0A04, did you come about something?
+@2.15
+Oh yes, right. \#0A04, what's up?
+@2.16
+No, nothing really. I just came to see how you were.
+@2.17
+Well, I'll come back if I need anything.
+@2.18
+Yeah, see you.
+@3.0
+Hey, \#0A04.
+@3.1
+I just saw \#0A05 going into your ma's house.
+@3.2
+Big brother! What could he want...
+@3.3
+I'm home... Oh, hi, big brother.
+@3.4
+Oh, \#0A04! Just in time.
+@3.5
+I've come to fetch you today. Remember what I promised? Become one of my men.
+@3.6
+That's right, I've finally come up in the world! So I need men I can trust.
+@3.7
+......No, but......
+@3.8
+What's wrong? Why the hesitation?
+@3.9
+Your stipend will come out of my savings. Nothing to worry about.
+@3.10
+What to do...
+@3.12
+I'm not good at anything... and there's Ma and Sis to look after...
+@3.13
+Go on, \#0A04.
+@3.14
+When a samurai rises, he needs retainers. You're the only one \#0A05 can count on.
+@3.15
+You'll do fine as a samurai. Your ma guarantees it.
+@3.16
+Ma...... Thank you...
+@3.17
+Good, now that it's decided, off you go! Both of you, stay well!
+@3.18
+......Yeah... Let's go, \#0A04!
+@3.19
+Right, big brother! I'll do my best too!
+@3.20
+\#0A05's brother \#0A04 entered \#0A05's service as his retainer.
+@3.21
+You're really not coming? I won't ask again, you know.
+@3.33
+All right. If your mind's that firmly made up, I'll stop asking.
+@3.34
+Look after Ma for me.
+@3.35
+Sorry, big brother.
+@3.36
+It's fine. See you.
+@3.37
+\#0A04, are you sure about this?
+@3.38
+Go and see him now and then.

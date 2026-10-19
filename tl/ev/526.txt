@@ -1,0 +1,884 @@
+@0.0
+Ah, \#0FFE! Good of you to come.\nWell now, are you keeping well?
+@0.1
+Yes, thanks to you. All of this is owed to the guidance I have received from you, Master \#086B.
+@0.2
+Hm, a fine attitude.
+@0.3
+In fact, I was waiting for you, \#0FFE. There is something here meant for \#0FFE.
+@0.4
+\#0FFE, I present you with \>3FA. A gift to celebrate your own shop.
+@0.5
+\#0FFE, I present you with 15000 kan. A gift to celebrate your own shop.
+@0.6
+And... this is a diplomatic paper that allows you to cross to foreign lands.
+@0.7
+To foreign lands...?
+@0.8
+Yes. It is a permit to sail to Luzon. With this, if you come to terms with the pirate bands, the way to Luzon will open.
+@0.9
+A ship's destination need not be a town in Japan.
+@0.10
+And trade is not carried on in Japan alone.
+@0.11
+You, \#0FFE, will surely put these diplomatic papers to good use.
+@0.12
+And in time, I want you to become a greater merchant than I am.
+@0.13
+Thank you very much, Master \#086B!
+@0.14
+I will strive on, so as not to shame the name of \B079, which has done so much for me!
+@1.0
+Ah, \%03. I have been waiting. How goes the mission?
+@1.1
+(I have the 20000 kan ready.\nNow, what to do...)
+@1.2
+Pay it
+@1.4
+\%03, at last I have raised the 20000 kan. Please check it.
+@1.5
+Hm, the full 20000 kan is here. Well done, \%03.
+@1.7
+Now then, I go to present the war levy to Lord \#00C3. \%03, come with me.
+@1.9
+Could you wait a little longer?
+@1.10
+Then hurry up and finish the mission.
+@1.11
+Hm? You still haven't gathered the 20000 kan levy? Surely you don't mean to abandon the mission?
+@1.12
+Abandon the mission... So that is all you amount to. I am disappointed.
+@1.13
+I have no more business with you. Leave.
+@2.0
+What brings you here now? \%03, I told you this mission had a strict deadline, did I not?
+@2.1
+So it was beyond you after all, \%03. I am disappointed.
+@3.0
+Ah, \%03. You come at just the right time.
+@3.1
+I gave you a mission for a war levy, but... it seems something has happened to Lord \#00C3, the one who asked for it...
+@3.2
+I had you working to raise the levy this time, \%03, but... given the circumstances, there is no longer any levy to pay.
+@3.3
+Well, do not let it discourage you. Keep working hard as you have. Thank you for your trouble.
+@4.0
+So this is the Luzon exchange...
+@4.1
+...You, you are face not seen around here.
+@4.2
+I have come here from Japan. Like you, I make my living by trade.
+@4.3
+Oh! Person from Japan!\nWelcome, welcome!
+@4.4
+Excuse me, is there a Luzon Jar in this town?
+@4.5
+Luzon jar...\nAny jar is good, yes?
+@4.6
+Not exactly... I would like to buy one as a token of having come to Luzon.
+@4.7
+Here is overseas exchange.\nWe not handle "valuables."
+@4.8
+What a pity... I heard you could get Luzon Jars in the town of Luzon...
+@4.9
+...You want so much?\nThe jar?
+@4.10
+Then, special for you,\nI look for one, yes?
+@4.11
+What, you would do that?
+@4.12
+Give me little time,\nI look for it.
+@4.13
+I am grateful. Please do.
+@4.18
+What famous goods does this land have?
+@4.19
+All trade goods here, we recommend very much.
+@4.20
+But we also have thing we recommend even more.
+@4.21
+What kind of thing is it?
+@4.22
+I show you now......
+@4.23
+......Oh, sorry.\nWe are all sold out now.
+@4.24
+What! Now that you say that, I want it all the more!
+@4.25
+It is jar, though...
+@4.26
+Please come again another day.\nI look for it.
+@4.27
+I am grateful. I am in your hands.
+@4.28
+About the jar I asked you for the other day...
+@4.29
+Jar...\nOh yes, the jar.
+@4.30
+So sorry.\nI look, but there is none.
+@4.31
+Oh, is that so...\nAnd I came all the way to Luzon......
+@4.32
+Here in Luzon, no expensive jar.
+@4.33
+For jar, only this kind of thing......
+@4.34
+......Oh!\nThis is splendid!
+@4.35
+...?\nThis is it?\nThe jar you want?
+@4.36
+I am grateful you took the trouble to look. Now, how much would you sell it for?
+@4.37
+If this is good, I give you.\nYou come so many times.
+@4.38
+How kind of you!\nI accept it gratefully.
+@4.39
+Still looking for it.\nPlease wait little more.
+@5.0
+Excuse me. Is this the home of \%03?
+@5.1
+......Yes, it is. What of it?
+@5.2
+Today I come here as an envoy of Lord \37F0.
+@5.3
+Lord \37F0 wishes to meet \%03, who has made a name in trade.
+@5.4
+He asks that you kindly come to \51E5 Castle.
+@5.5
+\%03 wants to see me...
+@5.6
+Then I shall take my leave for today. We will be waiting at \51E5 Castle.
+@6.0
+\%03, a messenger came just now from Lord \#0205.
+@6.1
+He says \B079 is to be made purveyor to the \A3A2 clan.
+@6.2
+Lord \#0205... So he remembered the promise he made when I presented the Luzon Jar...
+@7.0
+\%03, a messenger came just now from Master \#006B.
+@7.1
+Master \#086B wishes to celebrate your becoming head of the house, \%03.
+@7.2
+He said that when you stop in \61EC, you must be sure to visit \B079.
+@7.3
+Master \#086B wants to celebrate for me... Right, let's go.
+@8.0
+\%03, I have been waiting for you.
+@8.1
+A Nanban article has arrived from \#042E, the Nanban merchant of Hirado.
+@8.2
+What, from \#042E?
+@8.3
+She heard of your success, \%03, and sent a gift in celebration.
+@8.4
+And the gift... is this.
+@8.6
+It is called a World Map Screen. A folding screen painted with a map of foreign lands, so I am told...
+@8.7
+Oh, truly a map of foreign lands! Being bigger than a globe, it is quite impressive...
+@8.8
+Hmm, hmm, it should be about here...
+@8.9
+There it is!\nThis is Japan!
+@8.10
+Which means \61EC, where the main shop of \B079 is...
+@8.11
+Hmm, around here!
+@8.12
+What a cramped land we live in......
+@8.13
+......Oh, I got completely carried away.
+@8.14
+I must go and thank \#042E for this.
+@8.15
+\#042E's Nanban trading house was in...
+@8.16
+The town of Hirado.
+@8.17
+Ah, that's right. I must go to the Nanban trading house in Hirado and thank \#042E...
+@9.0
+Ah, \#0FFE, good you come!\nThe gift, it arrive okay?
+@9.1
+Yes. A precious Nanban article. Thank you very much.
+@9.2
+\#0FFE, you seem interested in overseas, so I think you be happy.
+@9.3
+Looking at the Nanban map you gave me, \#042E, my longing for foreign lands has grown even more.
+@9.4
+...Come to think of it, your trading house has many foreign goods on display.
+@9.5
+Yes. I work hard at business too, so I not lose to \#0FFE.
+@9.6
+Lately I go back and forth to countries near Japan and buy rare things.
+@9.7
+Naha, Busan, Ningbo, Luzon...\nEvery town is different, very interesting.
+@9.8
+Oh...\nYou truly know a lot about foreign lands, \#042E.
+@9.9
+......Hm?\nI have never seen this article before.
+@9.10
+I have been in trade a long time, but I never imagined such goods existed...
+@9.11
+Ah, sorry. This is not for sale. It is foreign thing, yes, but...
+@9.12
+What kind of article is this?
+@9.13
+It is Luzon Jar.\nIt was in the town of Luzon.
+@9.14
+The town of Luzon...
+@9.15
+Is town in southern country, very very far from here.
+@9.16
+The people who live there, the trees that grow, the streets... all very different from here.
+@9.17
+What!\nThat different!
+@9.18
+Yes. Of foreign towns I visit lately, it is farthest from Japan and most different from Japan.
+@9.19
+Trade there is busy, but I think not many Japanese go there yet.
+@9.20
+To think there is such a town...
+@9.21
+(I want to see foreign lands with my own eyes...)
+@9.22
+(I want to see for myself what kind of land made a jar like that...)
+@9.23
+(And spread foreign goods across Japan, and share what I felt, even a little, with everyone...)
+@9.24
+\#042E, thank you for this precious talk.
+@9.25
+No, no.\nIs nothing.
+@9.26
+Hearing your story, \#042E, I have made up my mind to set sail for foreign lands.
+@9.27
+And one day, without fail, to the town of Luzon...
+@9.28
+(I actually went to the town of Luzon, and I missed something this wonderful...)
+@9.29
+(I must go back to the town of Luzon no matter what...)
+@9.32
+Well then, \#042E, I take my leave.
+@10.0
+Er, this is where I'm to deliver it, isn't it?
+@10.1
+Welcome!
+@10.2
+I come on an errand from \B079. I have brought your tea.
+@10.3
+Oh, I wait for you!
+@10.4
+I did not know Nanban people drank tea too.
+@10.5
+"When in Rome, do as Romans do," they say. At first I think it bitter, but now I cannot go without Japanese tea after meals.
+@10.6
+If I ever have chance to go back home, maybe fun to make it popular there.
+@10.7
+Only, tea ware is so expensive, you know.
+@10.8
+Ah, tea kettles and tea bowls? Those are works of art, each one unique in the realm, so they fetch high prices...
+@10.9
+I do not understand that. When I think it is just clay, I cannot buy.
+@10.10
+Hmm, is that so...
+@10.11
+By the way, what is that round thing you have there?
+@10.12
+Ah, this? This is called globe. It shows the islands and continents of the whole world on a ball.
+@10.13
+Hmm, why put them on a ball?
+@10.14
+That is...\nbecause the world is round.
+@10.15
+What are you saying!?\nThe world, round...
+@10.16
+Hmm, as I think.\nAlmost nobody believes it at first.
+@10.17
+But I hear Lord \#00C3 said it makes sense.
+@10.18
+Lord \#08C3, whom they called a fool... Maybe really he is a genius.
+@10.19
+Hmm, as I think.\nNobody believes it at first.
+@10.20
+Long ago, a man called Magalhaes (Magellan) sail west and west and come back to where he start. That prove the world is round.
+@10.21
+Also, if you travel north or south, the height of North Star change. This is proof too.
+@10.22
+Easiest is climb a high mountain. You see the horizon is round.
+@10.23
+I-I see...
+@10.24
+And where is Japan?
+@10.25
+Japan, Zipangu, is this island. The town of Sakai is around here.
+@10.26
+What!\nIs Japan so small!
+@10.27
+Then what of Cathay?
+@10.28
+Is around here.
+@10.29
+Quite close to Japan...
+@10.30
+Th-then what of Tenjiku?
+@10.31
+Tenjiku?
+@10.32
+It is also called Shindoku...
+@10.33
+Oh, that is maybe India. India is around this pointed peninsula.
+@10.34
+(There are lands even farther than Tenjiku... The world is much bigger than I thought.)
+@10.35
+Then where is your homeland, Nanban?
+@10.36
+"Nanban" is what Japan calls it. We call our country Portugal.
+@10.37
+Portugal is here, on this square peninsula. Lisbon, the town I was born, is here.
+@10.38
+Japan is this island, so... it's right on the other side! Crossing half the world, how amazing!
+@10.39
+No, no. To come here, I am caught in wars, attacked by pirates... many things.
+@10.40
+(I too want to see foreign lands with my own eyes, and trade there!)
+@10.41
+(Just looking at this globe makes my dreams grow and grow.)
+@10.43
+What is wrong?
+@10.44
+Won't you sell me this globe!
+@10.45
+Eh, but... this is not for sale...
+@10.46
+Please, somehow!
+@10.47
+...Cannot be helped. Then how about trade it for fine porcelain?
+@10.48
+Fine porcelain?
+@10.50
+Before I notice Japanese tea ware, I have eye on porcelain. See, it is in trade goods, yes?
+@10.51
+Porcelain, good price and pretty. There is a lot.
+@10.52
+So I take porcelain to my country and do business.
+@10.53
+...But lately I hear rumour of fine porcelain!
+@10.54
+They say if you invest in town, the Porcelain trade good become fine one.
+@10.55
+I want very much now!\nThat rare porcelain!
+@10.56
+I hear investing in town of Mekata or Imahama is good.
+@10.57
+Its name...\nYes, yes, Shigaraki Ware!
+@10.58
+(I have Shigaraki Ware... Hmm, what should I do?)
+@10.60
+Don't trade
+@10.61
+Right, let's trade!
+@10.62
+Shigaraki Ware, I receive it.
+@10.63
+That was easy... It's thanks to all my steady investing.
+@10.64
+One day I will cross to the foreign lands on this globe and make my name in trade!
+@10.65
+Hmm... Would you let me think it over a little?
+@10.66
+Then, cannot be helped.
+@10.67
+I will surely come again, so please don't sell it.
+@10.68
+Not for sale, so I not sell it. Do not worry.
+@10.69
+One day I will get that globe, without fail!
+@10.70
+Hmm, I don't have any on me right now...
+@10.72
+I will surely obtain Shigaraki Ware and come back, so please don't sell it.
+@10.74
+...If I invest in the town of Mekata or Imahama, the Porcelain trade good will become Shigaraki Ware, he said...
+@10.75
+Right, one day I'll get that globe, without fail!
+@11.0
+\%03, you come to trade Shigaraki Ware for the globe?
+@11.1
+Hmm, what should I do?
+@11.4
+At last I have Shigaraki Ware ready. Please check it.
+@11.6
+At last it's mine...
+@11.8
+Could you wait a little longer...
+@11.9
+Then, next time.
+@11.10
+Hmm, I haven't obtained it yet...
+@11.11
+I see... If you not invest in town of Mekata or Imahama, you cannot get it...
+@12.0
+\%03, did you deliver the tea?
+@12.2
+I see. Thank you for your trouble.
+@12.3
+Merchant merit rose by 20!
+@12.4
+Ah, my apologies! I'll deliver it to the Nanban trading house right away.
+@13.0
+But... how does one go to foreign lands? Maybe I should ask \#042F.
+@13.1
+\#042F, today I have something I'd like to ask you.
+@13.2
+Yes, what is it?
+@13.3
+This globe I have... Do you know a way to cross to the foreign lands drawn on it?
+@13.4
+Hmm... For Japanese merchants to go abroad, there seems to be a special way.
+@13.5
+For that, \#042E knows well.
+@13.6
+\#042E...?
+@13.7
+Yes. \#042E is at the Nanban trading house in the town of Hirado, in Kyushu.
+@13.8
+I was just thinking to write a letter to \#042E. I write about you too, \#0FFE.
+@13.9
+Thank you very much.
+@13.10
+When you go to the town of Hirado, please visit the Nanban trading house.
+@14.0
+Come to think of it, I meant to ask \#042E, the Nanban merchant of Hirado, how to go to foreign lands.
+@14.1
+There's no hurry, but if I get the chance, I'll travel as far as Kyushu.
+@15.0
+So this is \#042E's Nanban trading house that \#042F spoke of...
+@15.1
+Shall I ask \#042E about sailing abroad...
+@15.2
+\#042E, today I have something I'd like to ask you.
+@15.3
+Okay.\nAsk me anything.
+@15.4
+Would you teach me how to trade with foreign lands?
+@15.5
+Ah, you are \#0FFE, yes?\nI hear about you from \#042F.
+@15.6
+Then this will be quick. Do you know a way to trade with foreign lands?
+@15.7
+Not like us. For Japanese merchant to trade with foreign country, only way is make a deal with pirate chief.
+@15.8
+I see! When it comes to the sea, one should borrow the strength of the pirate bands, is that it?
+@15.9
+Some pirate chiefs know foreign trade well. So you find that kind of person.
+@15.10
+And you become good friends. Then you can trade with foreign lands too.
+@15.11
+But to talk foreign trade with pirate chief, you must have proper standing.
+@15.12
+Proper standing...?
+@15.13
+Yes. Unless you become important merchant, head of house, you cannot talk such difficult business.
+@15.14
+I see... So unless I rise in the world, I can't do work that big...
+@15.15
+And one more thing.\nYou need diplomatic papers.
+@15.16
+Diplomatic... papers?
+@15.17
+It is kind of "valuables" in your belongings. Without it, you cannot go abroad.
+@15.18
+For example Tosho, Japan Tally, red-seal licence... there are many others too.
+@15.19
+I hear the countries you can go depend on diplomatic papers.
+@15.20
+But even if you not have it yourself, is okay if pirate band you are friends with, or daimyo you back, has it.
+@15.21
+Well, I hear you can also ask ninja band to go get diplomatic papers for you...
+@15.22
+So I should become head of the house, get close to a pirate band, and obtain diplomatic papers. Is that right?
+@15.23
+Yes, yes. Is little hard, but foreign trade gives big reward too.
+@15.24
+\#042E, thank you for this precious talk.
+@15.25
+Is okay. You are friend of \#042F. Well, next time, I am happy if you come buy something.
+@16.0
+Now then, \%03. We go to \51E5, the main castle of the \A3A2 clan.
+@17.0
+War Levy
+@17.2
+None
+@17.3
+Raise 20000 kan levy
+@18.0
+So this is \51E5 Castle... \%03, are you ready?
+@18.2
+Then let us request an audience with Lord \#00C3.
+@18.3
+My lord, people from \B079 of \61EC have arrived.
+@18.4
+Ah, have they?\nShow them in at once.
+@18.5
+\%03, it has been a long time.
+@18.6
+Hm, good of you to come!
+@18.7
+I have come to present the war levy prepared at \%03's command.
+@18.8
+Oh...\nYou say you have prepared 20000 kan?
+@18.10
+......Hm, as expected of \#006B, famous in \61EC.
+@18.11
+You are too kind.
+@18.12
+No need for modesty. To hand over 20000 kan and still keep such a cool face...
+@18.13
+No ordinary merchant could do it. The power of Sakai is not to be taken lightly...
+@18.14
+You overestimate us...
+@18.15
+......And \#086B, I see you have brought \#07FE along today.
+@18.16
+Yes, my lord. This person worked hard for \%03 to gather the levy I brought today.
+@18.17
+Oh... To have such a person, \#006B is a lucky man indeed.
+@18.18
+\#07FE, you did well. I shall remember your name.
+@18.19
+......And \#086B, who is this companion of yours?
+@18.20
+Forgive me for not introducing them. Like me, this person works at \B079.
+@18.21
+This person worked hard for \%03 to gather the levy I brought today.
+@18.22
+Oh... And what is your name?
+@18.23
+I-I am \#17FE... \#0FFE!
+@18.24
+Hm, \#0FFE, is it... You did well. I shall remember your name.
+@18.25
+Yes, my lord!
+@18.26
+Now, \#006B. The work of \B079 is splendid. I leave you in charge of uniting the people of Sakai.
+@18.27
+I shall guarantee the rights of the new merchants of \61EC.
+@18.30
+If you would thank someone, there is one more. Is there not, \#07FE?
+@18.31
+...Ah, so there is. I must thank you as well, \%03.
+@18.32
+......Y-you are too kind!
+@18.33
+Now then, people of \B079. When you need anything, come to me.
+@18.35
+...You did well, \%03. Thanks to you, this audience brought us a great deal.
+@18.36
+I count on you from now on too, \%03.
+@18.37
+Yes, \%01!
+@18.38
+Now, shall we go back to \61EC?
+@19.0
+So this is the land of Luzon...... Truly different from Japan......
+@19.1
+The buildings, the plants and trees, and the people coming and going...
+@19.2
+Just as \#042E said... This truly is another world...
+@19.3
+The Luzon Jar I saw at \#042E's trading house comes from this land...
+@19.4
+I made it at last!\nI've come to Luzon!
+@19.5
+Right, to mark the occasion I'll change my name to Luzon Sukezaemon!
+@19.6
+\#0225 changed his name to Luzon Sukezaemon.
+@21.0
+So this is \51E5 Castle... I'll ask for an audience with Lord \#0205 at once.
+@21.1
+My lord, someone from \B079 of \61EC has arrived.
+@21.4
+I have brought them here.
+@21.6
+No stiff greetings. We have known each other since we met at \#086B's shop, have we not?
+@21.8
+\%03, I have come at your summons. I am \#07FE.
+@21.10
+I have heard the talk. That \61EC has a \#07FE.
+@21.11
+If I may... your fame, \%03, already reaches beyond \61EC and Japan itself.
+@21.12
+When it comes to trade, \%03 crosses the great ocean to foreign lands. Such daring.
+@21.13
+Ha ha ha!\nSo you do.
+@21.14
+If I had a retainer like you, I would feel much stronger.
+@21.15
+You are too kind.
+@21.16
+Well, you have your own path. I cannot force you.
+@21.17
+More to the point...... how was it? The foreign lands?
+@21.18
+In truth, that is what I wanted to hear, and why I had you come all this way.
+@21.19
+Yes...\nEverything I saw was strange, and I was amazed again and again.
+@21.20
+Oh, everything you saw?
+@21.21
+Yes. Especially Luzon, far to the south of Japan...
+@21.22
+Not only the trade goods, but everything from the lush plants to the rows of houses had a look all Luzon's own.
+@21.23
+My word......
+@21.24
+\%03, I want to go too. To this Luzon.
+@21.25
+\%03, with all respect... you are now lord of a province and a castle.
+@21.26
+If you were to go off to Luzon and leave your castle empty for long......
+@21.27
+Ha ha ha! Being great is a nuisance. I can't even take a trip.
+@21.28
+And here I want to see with my own eyes, right now, what this Luzon is like.
+@21.29
+Well, \%03? Have you no good idea?
+@21.30
+(I can't take \%03 to Luzon now...)
+@21.31
+(But \%03 says he wants to see Luzon with his own eyes...)
+@21.32
+(What should I do......)
+@21.33
+(!!\nCome to think of it, I brought a jar back from Luzon.)
+@21.34
+(Yes... the Luzon Jar. Shall I present that to him?)
+@21.35
+Present the jar
+@21.37
+...Then, \%03, I shall now show you what Luzon is like.
+@21.38
+Oh, you say you can grant my wish?
+@21.39
+Indeed. Then...
+@21.42
+This is something I brought back from Luzon, a Luzon Jar. Please accept it.
+@21.43
+To anyone else, this would be just a Nanban article, just a jar.
+@21.44
+But if you, \%03, look upon it......
+@21.45
+I believe you will feel all of Luzon dwelling in this jar: the land of Luzon, the sea of Luzon, the wind of Luzon.
+@21.46
+If you look at this jar, I believe it will be clear at a glance, \%03, what Luzon is.
+@21.47
+Ha ha ha, splendid! You really are different from other merchants.
+@21.48
+I gratefully accept this jar.
+@21.49
+In return, so to speak: when I one day become a daimyo, I shall make \B079 my purveyor.
+@21.50
+I am grateful for your words.
+@21.51
+In return, so to speak, I shall make \B079 my purveyor. Will that do?
+@21.53
+In return, so to speak, I shall present you with 15000 kan.
+@21.55
+(That jar cost me dearly to bring back from Luzon. I won't present it......)
+@21.56
+...It is beyond my power to grant your wish...
+@21.57
+Ha ha ha! I suppose it was wrong to ask you.
+@21.58
+Hearing of foreign lands was reward enough this time.
+@21.59
+\%03, I count on you from now on. Thank you for coming all this way.
+@21.60
+(......No good. I've already parted with that. I can't use it...)
+@21.61
+...Well, \%03?
+@21.62
+...With respect, it is beyond my power to grant your wish, \%03...
+@21.63
+Ha ha ha! I suppose it was wrong to ask you after all.
+@22.0
+\%03, congratulations! You have at last achieved a great feat.
+@22.1
+A merchant who is active across Ryukyu, Korea, Ming and Luzon... in all of Japan there is surely none but you, master.
+@22.2
+I'm sorry you went to the trouble of coming to meet me.
+@22.3
+This too is thanks to the strength of everyone at the shop... I am grateful.
+@22.6
+Congratulations, \#07FE! I came because I wanted to say a word of celebration to you, \#07FE.
+@22.7
+Why, Gosaku! Thank you very much. Have you been well since?
+@22.10
+Yes, thanks to you. Today I brought my wife.
+@22.13
+Good day, \#07FE.
+@22.14
+You are......
+@22.17
+I am Kotoe. My husband was greatly indebted to you back then.
+@22.18
+Oh, it was nothing......
+@22.21
+Ahhh!! Today's sake is something else! It soaks right into my guts more than ever!
+@22.22
+(Hm? That voice... could it be......)
+@22.25
+Oh, there you are! The merchant with all the talents!
+@22.26
+Ah, Kotono! You're here today?
+@22.29
+What are you saying! Today's your big day, isn't it?
+@22.32
+There's no way I wasn't going to celebrate!
+@22.35
+Ahhh!! Wonderful, wonderful! The drink goes to my head today~
+@22.36
+Th-thank you very much. Please don't drink too much.
+@22.39
+Congratulations, \#0FFE! Do you remember me?
+@22.40
+You are, if I recall......
+@22.43
+Come on, the fruit seller! Koharu, who you helped in the town of Suwa!
+@22.44
+Ah, from that time......
+@22.47
+I heard there was a celebration for \B079, so I came flying.
+@22.50
+I brought fresh fruit today. Everyone, eat up.
+@22.51
+Thank you, Koharu.
+@22.54
+Congratulations, \#0FFE! It's Magoroku the cook!
+@22.57
+Thanks to your efforts, \#0FFE, I got to make the finest hotpot.
+@22.58
+Oh! The cook I met in the town of Ominato, right?
+@22.61
+Yes! You remember me!
+@22.64
+I heard there was a celebration for you today, \#0FFE, so......
+@22.67
+The finest seafood hotpot, with oysters and spiny lobster!
+@22.70
+I'd like to treat everyone gathered here!
+@22.71
+How lavish......
+@22.72
+Thank you very much, Magoroku.
+@22.75
+Hey, won't you let me celebrate too? For once, I came to see you.
+@22.79
+Ginji, who you helped with the carrying job.
+@22.80
+It's been a long time.
+@22.83
+I see now. I thought you did an awfully good job......
+@22.86
+Never knew you were a merchant who goes to trade in foreign lands.
+@22.89
+Well, I didn't know, but I sure was rude to you.
+@22.92
+Sorry about all that.
+@22.93
+No, it was a rare kind of request, so I enjoyed the work too.
+@22.96
+Well, today's your celebration. Enough shop talk, let's celebrate in style.
+@22.97
+Thank you very much, Ginji.
+@22.98
+Come, \%03, we have prepared a celebration today.
+@22.99
+Just for today, forget the merchant's work and drink all night to your heart's content.
+@22.100
+That day, a grand feast was held to celebrate \#07FE's safe return.
+@22.101
+Hearing of \#0FFE's return, the people of \61EC gathered one after another, and the circle of the feast grew ever larger.
+@22.102
+Cheers and laughter, and voices praising \#0FFE, were heard late into the night.
+@22.103
+\#0FFE too drank good sake for the first time in a long while and healed the weariness of the voyage.
+@22.104
+And there, amid the splendid feast, \#0FFE made a new resolve.
+@22.105
+That a new history for \#07FE begins from this very day......
+@24.0
+\%03, the master was looking for you.
+@24.1
+\%0206B wants me...? What could it be?
+@24.2
+Ah, \%03. I've been waiting.
+@24.3
+What is it, may I ask?
+@24.4
+Hm. I came by some good tea, and I'd like you to deliver it to \#042F of the Castor Company.
+@24.5
+Ah, the gentleman at the Nanban trading house.
+@24.6
+\#042F of the Castor Company?
+@24.7
+The master of the Nanban trading house. If you are a merchant, make more effort to widen your connections.
+@24.8
+Understood. I'll be on my way.
+@25.0
+...According to \#042E, to go abroad I must become head of the house, get close to a pirate band, and obtain diplomatic papers.
+@27.0
+It seems everyone is here. Time is money. Let us begin the council at once.
+@27.1
+Normally I would hand each of you a mission, but...
+@27.2
+Today, there is something else we must think about.
+@27.3
+...\%03, what is the matter?
+@27.4
+Hm. You will all have heard of Lord \#00C3, who recently entered the capital.
+@27.5
+Lord \#00C3 has marched on the capital in support of Lord \#001D.
+@27.6
+And on that occasion, he demanded a war levy from \61EC...
+@27.7
+What!\nAnd how much does Lord \#08C3 command us to pay?
+@27.8
+The sum: 20000 kan.
+@27.9
+Hmm...\nThat is an outrageous levy...
+@27.10
+So soon I must go to present the war levy to Lord \#08C3.
+@27.11
+And so, today I want to test your skill as merchants.
+@27.12
+Is there anyone who can raise this 20000 kan levy?
+@27.13
+20000 kan...?
+@27.14
+Hm. However, this time, because of Lord \#08C3, the payment cannot be put off for long.
+@27.15
+The deadline is before the next council begins, that is, the end of next month. If anyone can prepare it by then...
+@27.16
+I will recognise that skill and have that person accompany me to the audience with Lord \#08C3 as the representative of those who work at \B079.
+@27.17
+Is there no one who will raise the 20000 kan levy?
+@27.18
+(This is a perfect chance to make a name as a merchant... What shall I do?)
+@27.21
+\%03, leave that great task to me!
+@27.22
+Hm, \%03!\nWell spoken!
+@27.23
+Then the mission of this 20000 kan levy is entrusted to \%03.
+@27.24
+If the mission cannot be accomplished in time, consider this matter closed.
+@27.26
+That is all for today.
+@27.27
+(I'll hold back here...)
+@27.28
+...It seems there is no one.
+@27.29
+Then I shall be away for some time for the audience with Lord \#08C3. Meanwhile, each of you work hard.
+@27.30
+That is all for today.

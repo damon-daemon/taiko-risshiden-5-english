@@ -1,0 +1,658 @@
+@0.0
+\%03,\nLord Nobunaga is calling for you!
+@0.1
+Hm? What could this be about?\n...I'll go at once.
+@0.2
+Ah, \%03. You've come.
+@0.3
+Today I have a reward for you.
+@0.4
+A reward, my lord?
+@0.5
+Yes. From this day on, I make you\nan Ashigaru Captain.\nServe me well!
+@0.6
+Me, an Ashigaru Captain...\nIs this really true, my lord?!
+@0.7
+\%03! Do you doubt the word of your lord?!
+@0.8
+N-no, my lord, never!\nI am deeply grateful!
+@0.9
+Ha ha ha ha ha...\nThat's it. Rejoice honestly.
+@0.10
+Is \%03 here?
+@0.11
+Here, my lord.
+@0.12
+Explain the council to\nthis monkey!
+@0.13
+You may both withdraw!
+@0.14
+Yes, my lord!
+@0.15
+So you're a samurai now too, \%03...\nIsn't it wonderful? Your dream came true.
+@0.16
+Yes!\nIt has been a long road.
+@0.17
+Born to a farming family in Nakamura, Owari, \#0205 did not get along with his stepfather and left home while still a boy.
+@0.18
+He sold needles for a time, and served as a lowly retainer to bandit samurai, but in time he resolved to become a samurai.
+@0.19
+For a while he served \#02A4, a vassal of \#006E, but the envy of his comrades left him no choice but to flee...
+@0.20
+In the end he became a lowly servant of the \#10C3 clan of his home province of Owari.
+@0.21
+Starting as sandal bearer to the clan head, \#08C3, \#0A05 did his work quickly and well...
+@0.22
+\#08C3 noticed how hard he worked and made him a samurai.
+@0.23
+Now then. Just because you have become a samurai, don't think you can rest on that.
+@0.24
+Now that you are a samurai, you must attend the "council."
+@0.25
+Do you know what the council is?
+@0.26
+I don't know
+@0.27
+I know
+@0.28
+I know about it.
+@0.29
+Wh-what?!\nSince when...
+@0.30
+Well, I have peeked in on a few councils lately.
+@0.31
+Hmm, sharp as ever, you are. I'd better not let my guard down. Ha ha ha ha ha.
+@0.32
+I don't know about it.
+@0.33
+Right, then listen well to what I tell you.
+@0.34
+The "council" is an important meeting that decides the clan's policy, hands out missions, appoints officers and the like.
+@0.35
+It is held at the start of every odd-numbered month, from the 1st to the 5th.
+@0.36
+Everyone ranked Ashigaru Captain or above must come to the castle during that time.
+@0.37
+Miss it without leave and you will of course feel the wrath of Lord \#08C3.
+@0.38
+So never travel so far that you can't be back in time. Always keep an eye on the date!
+@0.39
+Also, councils are held castle by castle. You can't attend one at a castle you don't belong to.
+@0.40
+At the council you receive a mission. Before that, you may also give your opinion on the policy.
+@0.41
+The missions handed out depend on the policy. If there is a mission you are good at, it may pay to speak up.
+@0.42
+Of course, whether your opinion is taken up is up to Lord \#08C3.
+@0.43
+Complete the mission you receive before the next council, then report to Lord \#08C3. That is the core of a samurai's life.
+@0.44
+A mission is not over until you report it. If you report after the deadline, Lord \#08C3 will rebuke you.
+@0.45
+Don't you dare complete a mission and then forget to report it.
+@0.46
+\%03, thank you for such a kind explanation.
+@0.47
+Now, let me tell you one more thing.
+@0.48
+Do you know how best to spend your time between reporting your mission and the next council?
+@0.49
+I don't know
+@0.50
+I know
+@0.51
+I know.
+@0.52
+I see. You climbed this far on your own merit. There's not much left for me to teach you.
+@0.53
+I don't know.
+@0.54
+I see...\nUse your free time to improve yourself:\nraise your skills, widen your circle, and so on.
+@0.55
+Taking on guild work to save money is good, too. Some skills cost money to study under a master.
+@0.56
+How you spend your free time makes a big difference in five or ten years. You can't just "sleep until the council."
+@0.57
+As for raising skills, it differs from skill to skill.
+@0.58
+Some can be taught by an officer you're friendly with, and others only at a dojo.
+@0.59
+It would also be good to visit all sorts of places and see what you can do there.
+@0.60
+But, and I may be repeating myself, mind how many days are left until the next council.
+@0.61
+Why, if it isn't \%03. What are you doing with a lowly servant in tow?
+@0.62
+\%03! This man is no servant anymore.
+@0.63
+Just now our lord made him an Ashigaru Captain.
+@0.64
+Oh? This fellow, an Ashigaru Captain...\nHmph...
+@0.65
+I am \#0205.\nI humbly ask for your favour\nfrom now on, everyone.
+@0.66
+What...\nThis fellow, an Ashigaru Captain!
+@0.67
+To promote a nobody of unknown origin like this... our lord's whims are truly troublesome!
+@0.68
+...............
+@0.69
+...Hmph!
+@0.70
+\%03, that's enough!
+@0.71
+We are on our way to the castle, so we will take our leave. \#095F, come.
+@0.72
+Sigh...\nAs I thought, they don't like me...
+@0.73
+Now, don't let it trouble you too much. It's just that even in the \#10C3 clan there are men who look down on newcomers.
+@0.74
+Achieve something everyone has to recognise, and in time they will all accept you.
+@0.75
+Yes, \%03!\nI will work all the harder\nto earn everyone's respect.
+@0.76
+That's the spirit!\nHa ha ha!
+@0.77
+Well, I'll be heading back. And whatever you do, don't be late for the council!
+@0.78
+Yeees! I did it!\nI'm finally a samurai!\nI did it, I did it! Ha ha ha ha ha...
+@0.79
+My, I wondered who was shouting so. Is that you, \#0A05?
+@0.80
+Ah, Lady \#0435...
+@0.81
+Well, you see, I've been made an Ashigaru Captain. I'm a samurai at last, so I couldn't help shouting... Forgive me for startling you.
+@0.82
+My, congratulations.
+@0.83
+Oh, ha ha ha ha ha.
+@0.84
+(That's right! I'm a samurai now.\nTaking Lady \#0435 as my wife\nisn't out of the question anymore!)
+@0.85
+(I always thought she was out of my reach...)
+@0.86
+(No, no. If I asked her now,\na man with no merit like me\nwould only be turned down...)
+@0.87
+Hello?\nWhat's the matter, \#0A05?
+@0.88
+(I have to become a man everyone respects... I must work twice as hard as anyone and pile up merit.)
+@0.89
+Hello? Hello!\n\#0A05? \#0A05?
+@0.90
+All riiight!!\nI won't lose to anyone!
+@0.91
+!!\nWh-what's come over you all of a sudden?
+@0.92
+Ah...\nI-I beg your pardon.\nI was lost in thought...
+@0.93
+My...\nAnd what were you thinking about?
+@0.94
+Th-that's a secret! ...W-well then, I'll be going!
+@0.95
+Ah...\nYou don't have to run away...\nHonestly!
+@0.96
+Hmm, I seem to have\ngot a little carried away.
+@0.97
+And Lady \#0435 saw me make a fool of myself...
+@0.98
+No, no. What's done is done. Let's think about something else.
+@0.99
+That's right. My dream isn't just to become a samurai.
+@0.100
+I'll rise and rise, make Lady \#0435 my wife, and become the lord of a province and a castle!! All right, here I go!
+@1.0
+Why, if it isn't \%03. Welcome!
+@1.1
+Welcome. What are you looking for today?
+@1.2
+No, I'm not here to buy anything today. I came to see my brother.
+@1.3
+Oh, it's you! What a surprise to meet you here.
+@1.4
+Ha ha ha! I've come to surprise you today.
+@1.5
+I've been made a samurai! From now on I'll serve all the harder and rise in the world!
+@1.6
+And what's more, I'm getting married! She's the daughter of a samurai house, Lady \#0435. Well? Surprised, aren't you!
+@1.7
+What, you're getting a bride...\nWell, I'll be!
+@1.8
+Excuse me, but would you be Master \#0205?
+@1.9
+That's right, I am \#0205.
+@1.10
+I thought so. I have heard much about you...
+@1.11
+Oh, my congratulations. When is the wedding?
+@1.12
+Well, as they say, strike while the iron is hot. The wedding is as soon as I get back.
+@1.13
+Well then, I'm in a hurry. Farewell! Take care, \%03!
+@2.0
+Ah, you're back, \%03.
+@2.1
+Ah, so you're back, \%03.
+@2.2
+My husband and I will have the great honour of serving as your go-betweens.
+@2.3
+I am \#0438, wife of \#0A93. My husband and I will have the great honour of serving as your go-betweens.
+@2.4
+Congratulations on this day. I hope our families will be close from now on.
+@2.5
+Thank you. I humbly ask for your continued favour.
+@2.6
+Well, from now on you won't come home to an empty house. Lady Nene will be waiting for you.
+@2.7
+Yes, my dear!
+@2.8
+Lady \#0435, I swear I will make you happy... No! Let's be happy together!
+@2.9
+Yes!
+@2.10
+This makes us brothers-in-law. I look forward to our friendship.
+@2.11
+I am \#0019, younger brother-in-law of \#0435. I humbly ask for your favour from now on.
+@2.12
+\%03, my heartfelt congratulations on this day.
+@2.13
+It is only a small token, but please accept it.
+@2.14
+The wedding gifts have added to your savings!
+@2.15
+Oh, \%03, you shouldn't have.
+@2.16
+How could I not celebrate the wedding of "Cotton Tokichi," the famous officer of the \#10C3 clan?
+@2.17
+"Cotton Tokichi" is an odd nickname. Where in the world does it come from?
+@2.18
+It's from a ditty that's popular in \41DE: "Charge, Shibata! Fall back, Sakuma! Cotton Tokichi, Rice Gorozaemon!"
+@2.19
+"Charge, Shibata" is Lord \#017B, "Fall back, Sakuma" is Lord \#0153, "Rice Gorozaemon" is Lord \#0235...
+@2.20
+"Cotton Tokichi" means that \%03 can do anything, as handy as cotton.
+@2.21
+To be named beside the \#10C3 clan's senior retainers, Lord \#117B, Lord \#1153 and Lord \#1235... it makes me proud!
+@2.22
+By the way, \%03, are you interested in being a merchant?
+@2.23
+If you like, I can tell you about it when you visit my shop in \41DE.
+@2.24
+And so \#0205 married \#0435, adopted daughter of Asano Nagakatsu, with the \#0293 couple as go-betweens.
+@2.25
+At long last, spring had come for the hard-working \#0A05.
+@2.26
+Ah, you're back, \%03. So, have you told your family?
+@2.27
+Oops! I forgot to tell \#0A04!
+@2.28
+Don't keep your bride waiting too long. Hurry to the merchant's house in \41DE.
+@2.29
+Oops! I forgot. How careless of me.
+@2.30
+Don't keep your bride waiting too long. Hurry home to your family.
+@2.31
+Ah, you're back. And how did it go?
+@2.32
+Oops! I forgot to tell \#0A04!
+@2.33
+You mustn't keep your bride waiting too long. I believe he lives at a merchant's house in \41DE.
+@2.34
+Oops! I forgot. How careless of me.
+@2.35
+You mustn't keep your bride waiting too long.
+@3.0
+Welcome, \%03.
+@3.1
+Shall I tell you about being a merchant?
+@3.2
+Please do
+@3.3
+No thanks
+@3.4
+Yes, please.
+@3.5
+Then first let me tell you what a merchant is, and how to become one.
+@3.8
+Well... a merchant is an expert in buying and selling. You can trade as a samurai, but a merchant can trade on better terms.
+@3.9
+For example, the higher a merchant rises, the more trade goods he can deal in.
+@3.10
+However... the way of the samurai is surely hard, but the way of trade is just as hard.
+@3.11
+You cannot become a merchant while remaining a samurai. In other words, becoming a merchant means giving up being a samurai.
+@3.12
+To leave samurai service, meet with your lord and choose "Leave Service."
+@3.13
+But mind you! Leaving service is as good as abandoning your lord. You will incur his anger.
+@3.14
+Please think it over carefully before you do it.
+@3.15
+Wait, \%03. Do you mean I'd have to tell our lord to his face, "I am leaving your service"?
+@3.16
+Yes. I believe that is the least courtesy you owe him.
+@3.17
+Ugh, just imagining it takes years off my life. One slip and my head would part from my shoulders.
+@3.18
+After leaving service, choose "Apprentice" at any merchant house and you can become a merchant.
+@3.19
+I see.
+@3.20
+You worked hard to become a samurai, \%03. I don't expect you to leave, but I told you just in case.
+@3.21
+Next, let me tell you about trade.
+@3.22
+Trade here means buying and selling the guilds' trade goods.
+@3.23
+To put it simply, the secret of trade comes down to "buy low, sell high."
+@3.24
+"Speech" and "Accounting" are also very important skills for trading. You'd do well to learn them early.
+@3.25
+Trade also has its dangers. The more goods you carry, the more likely you are to meet bandits after them.
+@3.26
+Mountain roads are especially dangerous. If you're not confident in your strength, keep to the highways on the plains.
+@3.27
+That's all I have to tell you.
+@3.28
+Yes, thank you. I'll keep it in mind.
+@3.29
+No, I'll pass.
+@3.30
+Very well, then...
+@4.0
+Welcome home, dear.
+@4.1
+By the way, now that you've risen in the world, isn't it time you had a retainer of your own?
+@4.2
+Hmm... I wouldn't mind going on like newlyweds, just \#0435 and me...
+@4.3
+Dear!\nHonestly!
+@4.4
+Ha ha ha! Don't be angry, don't be angry. It spoils your pretty face.
+@4.5
+Now, a retainer, you say... What should I do...
+@4.6
+Why not take Master \#0A04 as your retainer?
+@4.7
+Oh, that's it! \#0A04 is fit to be my right hand. He'll do fine work.
+@4.8
+Yes, he'll keep a tight rein on you.
+@4.9
+Yes, a tight rein on m...\n???
+@4.10
+...\#0435, isn't keeping a rein on me your job?
+@4.11
+Oh, I'm only joking.\nHee hee hee.
+@4.12
+W-well, never mind. Let's go and see \#0A04. He should still be at a commoner's house in \41DE.
+@5.0
+It's me, \#0FFE! Is \%03 here?!
+@5.1
+What's all the racket? Oh, it's you. What is it today?
+@5.2
+Don't tell me you quarrelled with Lady \#0435 and got thrown out?
+@5.3
+Of course not! I came to invite you.
+@5.4
+Me?\nAs a samurai?
+@5.5
+That's right! I've risen a little in the world, so I need retainers. And I've picked you!
+@5.6
+But I...
+@5.7
+What's wrong? Your stipend will come out of my savings, fair and square. There's nothing to worry about.
+@5.8
+But who'll tend the fields? Look after the animals? Mother can't manage alone. I have to stay here...
+@5.9
+Go with him, \#0A04. A samurai who rises needs retainers. You're all \#0A05 has.
+@5.10
+The two of you, join forces and do your best!
+@5.11
+Mother...
+@5.12
+All right, \%03, let's go.
+@5.13
+\#0204, younger brother of \#0205, became a retainer of \#07FE.
+@5.14
+Retainers' stipends are paid from your own savings.
+@5.15
+If the hero's rank is Castle Lord or higher, they are paid from the war funds.
+@6.0
+I'm home.
+@6.1
+Welcome home, dear.
+@6.2
+Oh, you look pale. Have you caught a cold?
+@6.3
+Hmm, now that you mention it, my head hurts. I think I have a fever...
+@6.4
+That won't do. Please go and rest at once.
+@6.5
+No, I can't afford to rest. I'd fall behind the others.
+@6.6
+Then I'll brew you some medicine right away. Wait just a moment.
+@6.7
+Thank you.
+@6.8
+Here, please drink this.
+@6.9
+Well now, let's see...
+@6.10
+Urgh!\nB-bitter! Way too bitter!
+@6.11
+Good medicine tastes bitter, as they say. Just bear it a little.
+@6.12
+Phew...\nThat was bitter...
+@6.13
+Oh?\nI think I'm feeling better already.
+@6.14
+Dear, please take care of yourself.
+@6.15
+...Thank you, Nene. I'll work hard for your sake!
+@6.16
+Dear...
+@6.17
+Nene's medicine cured the illness! Your strength is fully restored!
+@7.0
+Hey, \%03. Is it true you got engaged to Lady \#0435 in all the confusion of the battle of Okehazama?
+@7.1
+"In all the confusion" is a bit much, \%03. But yes, the engagement is true.
+@7.2
+Ha ha ha ha ha! I see, congratulations, congratulations! So, when is the wedding?
+@7.3
+Eh? Well, nothing's been decided yet... I haven't even told my family.
+@7.4
+What!\nThat won't do, that won't do at all!
+@7.5
+Right, strike while the iron is hot! Leave the wedding preparations to me, and go tell your family.
+@7.6
+The wedding is the moment you get back! Go on, hurry, hurry!
+@7.7
+Why, \%03. I hear you're engaged to Lady \#0435?
+@7.8
+Yes, it's true.
+@7.9
+Ha ha ha! Well, congratulations, congratulations! And when is the wedding?
+@7.10
+W-well, nothing's been decided yet... I haven't even told my family.
+@7.11
+What!\nThat will never do!
+@7.12
+Strike while the iron is hot, as they say. Leave the wedding preparations to me! You go and tell your family.
+@7.13
+I'll have everything ready so you can hold the wedding as soon as you return. Now, hurry!
+@8.0
+Right, time to tell Mother! Hmm, I'm a bit nervous...
+@8.1
+It's me, \#0A05! \#0A05 is back!
+@8.2
+What's all the noise? Oh, \#0A05, what's the matter?
+@8.3
+Yes, I have news. I've been made a samurai!
+@8.4
+And that's not all. It's sudden, but I'm getting married! She's the daughter of a samurai house, Lady \#0435.
+@8.5
+Well, I never... I'm glad I lived to see this day.
+@8.6
+You have to live a long life, Mother. I'll keep rising in the world and give you an easy life.
+@8.7
+...By the way, where's \#0A04? I was looking forward to seeing his surprised face.
+@8.8
+Oh, \#0A04 is helping with the cleaning at the Itoya.
+@8.9
+I see. Well, I'll be going. Take care of yourself, Mother.
+@9.0
+\%03, I'm disappointed in you.
+@9.1
+\%03...
+@9.2
+To think you'd get engaged to Lady \#0435 and then marry another woman...
+@9.3
+......Master \#0A05......
+@9.4
+Eek, eeek!\nL-Lady \#0435!
+@9.5
+I hear you've married. Congratulations.
+@9.6
+To forget that you were engaged to me... no wonder they call you a monkey. The memory of a beast...
+@9.7
+Master \#0A05, you...\nMaster \#0A05, you...
+@9.8
+Idiooot!!
+@9.9
+Oof!!
+@9.10
+I don't care anymore!
+@9.11
+Sigh...\nWhat a fool of a man...
+@10.0
+Hey, \%03.
+@10.1
+Why, \%03!
+@10.2
+Well, \%03? How was your first council?
+@10.3
+Well, I was quite nervous. More importantly, \%03...
+@10.4
+Hm, what is it?
+@10.5
+Actually, this is the first mission I've been given, and...
+@10.6
+I forgot the details
+@10.7
+Show the mission
+@10.8
+I was so nervous that I forgot what the mission was.
+@10.9
+Wh-what?!\nThat won't do, \%03.
+@10.10
+I-I'm terribly sorry!
+@10.11
+\%03, what on earth should I do?
+@10.12
+Oh, what's this?!
+@10.13
+You look surprised, \%03. You can check the details of your mission any time.
+@10.14
+Oh, it's right there?!
+@10.15
+Here you can also see how much you have achieved so far.
+@10.16
+I see! Thank you for the guidance, \%03!
+@10.17
+Not at all. More importantly, \%03, don't let your guard down at the council.
+@10.18
+Yes, sir!
+@10.19
+Well, well... so that's your first mission, \%03.
+@10.20
+Yes. At last I'm starting to feel like a true vassal of the \#17FD clan.
+@10.21
+By the way, shall I explain how to display your current mission?
+@10.22
+Yes, please
+@10.23
+No, thanks
+@10.24
+Yes, please.
+@10.25
+Right, then let me explain.
+@10.26
+Listen, \%03. When you receive a mission, its details appear at the top right of the screen.
+@10.27
+What?! Now that you mention it... I've been wondering about that.
+@10.28
+Press ⑨ to see the details. You can also check how much you have achieved so far.
+@10.31
+I see, you're as sharp as ever, \%03. I'll have to watch myself from now on.
+@10.32
+Thank you for your kindness, \%03!
+@10.33
+Well then, \%03, work hard.
+@10.34
+Yes, sir!
+@12.0
+Ah, \%03! Looks like you made it in time.
+@12.1
+\%03! To be honest, this is my first council, and I'm a little nervous.
+@12.2
+Hey, \%03! What happened at the last council?! Honestly, you...
+@12.3
+I'm very sorry. It slipped my mind.
+@12.4
+W-well, anyway, this is my first council, and I'm a little nervous.
+@12.5
+Ha ha ha ha ha! No wonder. You're surrounded by the senior retainers of the \#10C3 clan.
+@12.6
+Shall I introduce you to the main senior retainers?
+@12.7
+Yes, please
+@12.8
+No, thank you
+@12.10
+The man seated over there is Lord \#017B. You've met him before.
+@12.11
+............
+@12.12
+When it comes to fierce generals of the \#10C3 clan, Lord \#017B comes first.
+@12.13
+If you want to shine on the battlefield, you'd do well to study under Lord \#097B.
+@12.14
+Look over there. That is Lord \#0235.
+@12.16
+Lord \#1235 is versed not only in war but in domestic affairs, castle building above all.
+@12.18
+That is Lord \#01BA. Like you, he was raised up by Lord \#08C3.
+@12.20
+In the \#10C3 clan you can rise as far as your work takes you.
+@12.21
+Work hard so you don't fall behind Lord \#11BA.
+@12.22
+...Or so I meant to say, but it seems the senior retainers of note are absent today.
+@12.23
+No, thank you.
+@12.24
+I see. Well, knowing you, I'm not too worried.
+@12.25
+By the way, some skills can only be learned by having another officer teach you.
+@12.26
+The officers who can teach you skills are those of the same clan or an allied clan, and ronin, but only if you're on good terms.
+@12.27
+Skills are earned with long years of effort. You can hardly ask someone you barely know to teach you.
+@12.28
+To get on good terms with an officer, try a [Tea Party], a [Bout] or a [Gift].
+@12.29
+Tastes differ from officer to officer, and character comes into it too, so no one way is always best.
+@12.30
+It's best you try various things yourself.
+@12.31
+That's about it.
+@12.32
+Thank you very much, \%03!
+@12.33
+Quiet, newcomer! Can't you keep still until Lord \#08C3 arrives?!
+@12.34
+It seems Lord \37F0 has his eye on you. But don't let a thing like this discourage you.
+@12.35
+Yes, I understand. ...Oh, Lord \#08C3 has arrived.
+@12.36
+Oh, Lord \#08C3 has arrived.
