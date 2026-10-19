@@ -5,8 +5,8 @@
 4	Sweeping Blade
 5	Poison Cut
 6	Moon Shadow
-7	One Clean Stroke
-8	Eight Gods' Blade
+7	Single Stroke
+8	Eight-God Blade
 9	The One Sword
 10	Rolling Sword
 11	Go-Board Cut
@@ -30,14 +30,14 @@
 29	Side Wheel
 30	Divine Sword
 31	Floating Boat
-32	Garuda King Sword
+32	Garuda Sword
 33	Divine Bow
 34	Flint Spark
 35	Heaven's Bow
 36	Cross Throw
 37	Kunai Storm
 38	Wild Fire
-39	Cicada Shell Art
+39	Cicada Husk Art
 40	Pull Down
 41	Mat Flip Art
 42	No-Sword Seize
@@ -48,7 +48,7 @@
 47	Dream Sword
 48	Hilt Turn
 49	Great Strength
-50	Diamond Strength
+50	Vajra Strength
 51	Unique Sword
 52	Iron Wall
 53	Tengu Scroll
@@ -62,7 +62,7 @@
 61	Staunch
 62	Kiai Shout
 63	Shadow Pin
-64	Cloud Hiding Art
+64	Cloud Veil Art
 65	Coin Toss
 66	Insult
 67	Bribe
@@ -73,7 +73,7 @@
 72	Cat Clap
 73	Lavish Treat
 74	Lightning Flash
-75	Flying Dragon Sword
+75	Flying Dragon
 76	Iron Breaker
 77	Rock Crusher
 78	Back Wheel

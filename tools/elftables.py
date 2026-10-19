@@ -84,6 +84,8 @@ def apply(elf, clean_elf):
             o = base + i * stride + no
             elf[o:o + room + 1] = b + bytes(room + 1 - len(b))
         done[name] = len(tl)
+        import overflow             # buffer limits of the copies that receive these names
+        errors += overflow.check_table(name, tl)
     if errors:
         raise ValueError('\n'.join(errors))
     return done

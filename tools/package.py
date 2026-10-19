@@ -1,6 +1,6 @@
 """Package a release: release/<Name>_v<version>.zip with the xdelta patch and README.txt.
 
-usage: .venv/bin/python tools/package.py 0.9
+usage: .venv/bin/python tools/package.py 0.10.0
 
 Run tools/build.py first. README.txt is generated from README.md (the notice, the
 "What's translated", "Known issues" and "Credits" sections) plus patching
@@ -43,7 +43,7 @@ def heading(t):
 
 def main():
     if len(sys.argv) != 2:
-        sys.exit('usage: tools/package.py VERSION   (e.g. 0.9)')
+        sys.exit('usage: tools/package.py VERSION   (e.g. 0.10.0)')
     version = sys.argv[1]
     clean = os.path.join(ROOT, CLEAN)
     built = os.path.join(ROOT, 'build', PATCHED)

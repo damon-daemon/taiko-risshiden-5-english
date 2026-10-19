@@ -72,7 +72,7 @@ ENTRY_BOXES = {27: [(range(181, 1000), WINDOW)], 0: [(range(445, 450), (336, 3))
 # 2026-10-18: "Seng|oku"), 12 lines fit (no scrolling: more run off the panel).
 for _n in range(17, 21):
     ENTRY_BOXES.setdefault(_n, []).append((range(0, 200), (216, 12, "small")))
-LINE_BYTES = 120          # msgwindow.RUN_MAX = 126 incl. NUL, with a margin
+LINE_BYTES = 120          # layout warning only: msgwindow caps a run at 127 bytes in code
 FULL_PX, HALF_PX = 24, 12  # full-width / half-width (kana) cells in the 24px font
 VAR_PX, VAR_BYTES = 120, 20   # an inserted name or number ({02} print)
 FIELD_PX, FIELD_BYTES = 40, 8  # %w-style field
@@ -454,7 +454,7 @@ def build_entry(jp, units_en, box, tag, log):
         return ''
     return text.decode(nb)
 
-def apply(n, batch=None):
+def apply(n, batch=None, check=True):
     path = os.path.join(TL, 'msg%02d.txt' % n)
     units = parse_tl(path) if os.path.exists(path) else {}
     if batch and os.path.abspath(batch) != os.path.abspath(path):
@@ -478,6 +478,17 @@ def apply(n, batch=None):
         if e >= len(rows):
             log('msg%02d@%d ERROR no such entry' % (n, e), True); continue
         rows[e]['en'] = build_entry(rows[e]['jp'], dict(us), box, 'msg%02d@%d' % (n, e), log)
+    if check and not bad:
+        # buffer limits (overflow.py): every message that reaches a fixed buffer, with
+        # this block's new English (inserts cross blocks, so all of them are measured)
+        import overflow
+        base = overflow.json_getter()
+        def get(b, i):
+            if b == n:
+                return text.encode(rows[i]['en'] or rows[i]['jp']) if i < len(rows) else None
+            return base(b, i)
+        for x in overflow.check_messages(get, overflow.clean_elf()):
+            log('ERROR ' + x, True)
     if bad and batch:
         print('msg%02d: %d errors: nothing written' % (n, len(bad)))
     else:

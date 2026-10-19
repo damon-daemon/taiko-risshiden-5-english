@@ -9,14 +9,14 @@ spill into the next line's slots and are lost when that line is drawn.
 The patch rewrites the per-character block (0x2F9A78-0x2F9BCC): consecutive ASCII
 characters of one colour share the slot of the run's first character, whose text is
 re-set to the whole run, so a line uses one slot per run instead of one per
-character. Backlog columns become max(x/12, previous column + bytes) so English is
+character. A run holds at most RUN_MAX (127) bytes: a character is appended only
+while (char | run length) < 0x80, else it opens a new slot (at the same pen position),
+so a long line can never write past the run buffer. Backlog columns become max(x/12, previous column + bytes) so English is
 logged contiguously. The run buffer lives in the stack frame, enlarged from 0xA0 to
-0x120 bytes; s6/s7 (pointers to sp+0x9D/0x9E in the original) are freed for use.
+0x130 bytes; s6/s7 (pointers to sp+0x9D/0x9E in the original) are freed for use.
 
 Frame locals: 0x88 run length (0 = no run), 0x8C run colour, 0x90 next backlog
-column, 0xA0-0x11F run text (NUL-terminated). The run length is not checked (no
-room); a line of the window never holds more than RUN_MAX bytes if the text tools
-keep every line under that.
+column, 0xA0-0x12F run text (NUL-terminated, at most 127 + 1 bytes).
 Slots are created with a maximum width of 64 pixels (+0x1C), which would wrap and
 clip a run; new slots get 0 (no limit).
 """
@@ -30,8 +30,8 @@ SET_POS, SET_COLOUR, SET_TEXT, SHOW = 0x46A3D0, 0x46A580, 0x469C60, 0x46A8B0
 SKIP_AT_LINE_START = 0x2F9150
 LOG = 0x2FB390
 LOG_OBJ = 0x6D3FF0
-FRAME, NEW_FRAME = 0xA0, 0x120
-RUN_MAX = 0x7E                  # run buffer: the tl validator keeps lines shorter
+FRAME, NEW_FRAME = 0xA0, 0x130
+RUN_MAX = 0x7F                  # longest run (the append test caps it)
 
 def block():
     return assemble(BLOCK, [
@@ -51,13 +51,14 @@ def block():
         ('lw', 't1', 0x7C, 's5'),
         ('sll', 't1', 't1', 2),
         ('addu', 's6', 'v1', 't1'),
-        ('sltiu', 'at', 's3', 0x80),
-        ('beqz', 'at', 'newslot'),             # not ASCII
         ('lw', 'v0', 0x88, 'sp'),
-        ('beqz', 'v0', 'newslot'),             # no run open
+        ('or', 'at', 's3', 'v0'),
+        ('sltiu', 'at', 'at', 0x80),
+        ('beqz', 'at', 'newslot'),             # not ASCII, or the run holds 127 bytes
         ('lw', 't3', 0x8C, 'sp'),
-        ('bne', 't3', 's2', 'newslot'),        # colour changed
+        ('beqz', 'v0', 'newslot'),             # no run open
         ('addiu', 'a2', 'sp', 0xA0),
+        ('bne', 't3', 's2', 'newslot'),        # colour changed
         ('addu', 't5', 'a2', 'v0'),            # append to the run, re-set its slot
         ('sb', 's3', 0, 't5'),
         ('sb', 'zero', 1, 't5'),
