@@ -37,6 +37,7 @@ def luma(c):
 class Canvas:
     def __init__(self, tex):
         self.typ, self.w, self.h, self.pix, self.pal = tk5p.indexed(tex)
+        self.extra = tk5p.extra_palettes(tex)
         self.opaque = [i for i, c in enumerate(self.pal) if c[3] >= 0x80]
         self.cache = {}
 
@@ -139,7 +140,7 @@ def apply(data, elf, entry):
         canvas = Canvas(textures[i])
         for c in (0, 1):
             relabel(canvas, c, text, font)
-        textures[i] = tk5p.pack8(canvas.typ, canvas.w, canvas.h, canvas.pix, canvas.pal)
+        textures[i] = tk5p.pack8(canvas.typ, canvas.w, canvas.h, canvas.pix, canvas.pal, canvas.extra)
     return {ENTRY: tk5p.join(elf, clean, textures)}
 
 if __name__ == '__main__':

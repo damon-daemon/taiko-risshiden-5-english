@@ -1,9 +1,12 @@
 """TK5P textures (TAI5DATA entries 15-102 and others).
 
-Header (16 bytes): 'TK5P', u16 type, u16 1, u16 width, u16 height, u32 data size.
-type & 0xF = pixel format (0 = 32bpp, 1 = 16bpp, 2 = 8bpp, 3 = 4bpp); 8/4bpp data is
-the pixels followed by the palette (256 / 16 x RGBA, alpha 0-0x80). type & 0x10 = the
-data is compressed (decoder 0x477060): then u32 size, then a stream of 32-bit words
+Header (16 bytes): 'TK5P', u16 type, u16 palette count, u16 width, u16 height, u32 data
+size. type & 0xF = pixel format (0 = 32bpp, 1 = 16bpp, 2 = 8bpp, 3 = 4bpp); 8/4bpp data is
+the pixels followed by the palettes (256 / 16 x RGBA each, alpha 0-0x80). Some sheets have
+2-18 palettes (entries 15, 85, 88, 93, 94, 96, 101), each used by different sprites: a
+rebuilt texture must keep them all (with one, the game uploads the missing palette from
+past the data: the duel HUD then sends garbage to VIF1 and every frame times out).
+type & 0x10 = the data is compressed (decoder 0x477060): then u32 size, then a stream of 32-bit words
 shared by three readers in order of need: 32 flags per word (MSB first: 1 = literal,
 0 = match), literal bytes (4 per word, low byte first) and a 16-bit bit window for
 matches (gamma-coded length 1-254, 255 = end; distance classes by a 5-bit prefix).
@@ -106,9 +109,9 @@ def data(b):
     typ = info(b)[0]
     return decompress(b) if typ & 0x10 else bytes(b[HEADER:HEADER + info(b)[3]])
 
-def build(typ, w, h, d):
+def build(typ, w, h, d, npal=1):
     """Uncompressed TK5P file."""
-    return MAGIC + struct.pack('<HHHHI', typ & 0xF, 1, w, h, len(d)) + d
+    return MAGIC + struct.pack('<HHHHI', typ & 0xF, npal, w, h, len(d)) + d
 
 def to_rgba(b):
     """(w, h, RGBA bytes) of an 8/4bpp TK5P (alpha scaled to 0-255)."""
@@ -143,13 +146,20 @@ def indexed(b):
     pal = [tuple(d[w * h + 4 * swizzle(i):w * h + 4 * swizzle(i) + 4]) for i in range(256)]
     return typ, w, h, bytearray(d[:w * h]), pal
 
-def pack8(typ, w, h, pix, pal):
-    """8bpp TK5P from indexed() data, compressed if type says so (as the original)."""
+def extra_palettes(b):
+    """The palettes after the first of an 8bpp TK5P (b'' for most textures)."""
+    typ, w, h, size = info(b)
+    return bytes(data(b)[w * h + 1024:])
+
+def pack8(typ, w, h, pix, pal, extra=b''):
+    """8bpp TK5P from indexed() data (+ extra_palettes() of the original), compressed if
+    type says so (as the original)."""
     p = bytearray(1024)
     for i, c in enumerate(pal):
         p[4 * swizzle(i):4 * swizzle(i) + 4] = bytes(c)
-    d = bytes(pix) + bytes(p)
-    return build_compressed(typ, w, h, d) if typ & 0x10 else build(typ, w, h, d)
+    d = bytes(pix) + bytes(p) + extra
+    npal = 1 + len(extra) // 1024
+    return build_compressed(typ, w, h, d, npal) if typ & 0x10 else build(typ, w, h, d, npal)
 
 # ---------------------------------------------------------------- texture packs
 
@@ -187,6 +197,10 @@ def join(elf, entry, textures):
     table in elf is rewritten."""
     offs = offsets(entry)
     slots = [b - a for a, b in zip(offs, offs[1:] + [len(entry)])]
+    for k, (t, o) in enumerate(zip(textures, offs)):
+        old = entry[o:o + HEADER]
+        assert t[6:8] == old[6:8] and info(t)[1:] == info(old)[1:], \
+            'texture %d: palette count/size/data size changed' % k
     if all(len(t) <= n for t, n in zip(textures, slots)):
         return b''.join(t + bytes(n - len(t)) for t, n in zip(textures, slots))
     at, stride = pack_table(elf, entry)
@@ -338,6 +352,6 @@ def compress(d):
                 need(len(_len_code(t[0] - 1)) + len(_dist_code(t[1])))
     return struct.pack('<I', len(d)) + struct.pack('<%dI' % len(words), *words)
 
-def build_compressed(typ, w, h, d):
+def build_compressed(typ, w, h, d, npal=1):
     """Compressed TK5P file."""
-    return MAGIC + struct.pack('<HHHHI', (typ & 0xF) | 0x10, 1, w, h, len(d)) + compress(d)
+    return MAGIC + struct.pack('<HHHHI', (typ & 0xF) | 0x10, npal, w, h, len(d)) + compress(d)

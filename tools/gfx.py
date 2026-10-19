@@ -30,6 +30,7 @@ class Canvas:
     """An 8bpp texture being edited: pixels are palette indexes (palette in index order)."""
     def __init__(self, tex):
         self.typ, self.w, self.h, self.pix, self.pal = tk5p.indexed(tex)
+        self.extra = tk5p.extra_palettes(tex)
         top = min(0x80, max(c[3] for c in self.pal))
         self.opaque = [i for i, c in enumerate(self.pal) if c[3] >= top - 4]
         self.cache = {}
@@ -65,7 +66,7 @@ class Canvas:
         return self.cache[key]
 
     def tex(self):
-        return tk5p.pack8(self.typ, self.w, self.h, self.pix, self.pal)
+        return tk5p.pack8(self.typ, self.w, self.h, self.pix, self.pal, self.extra)
 
 # ---------------------------------------------------------------- lettering
 
