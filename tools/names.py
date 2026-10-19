@@ -117,6 +117,8 @@ FULL_NAME = 0x301720
 SPRINTF = 0x3488A0
 RANK_FAMILY = [(0x4D6EC8, 's1'), (0x4DA5E4, 's2'), (0x4E06AC, 's3')]   # rank + family sprintf
 HERO_CARD = 0x2D3B34             # hero-select card name text object
+BUTTON_NAME = 0x38B18C           # jal strcpy(obj + 0x44 + i * 17, full name): person buttons
+STRLEN, STRNCPY = 0x33DF20, 0x33DFB0     # STRNCPY = SJIS-aware, writes n bytes + NUL
 MSG_FAMILY, MSG_FAMILY_FALLBACK, MSG_GIVEN = 0x2F2B9C, 0x2F2BBC, 0x2F2BE0
 OFFICER_NAME = 0x28B948          # jal 0x28B340 (officer record) in 0x28B910
 OFFICER_RECORD = 0x28B340
@@ -287,6 +289,11 @@ def apply(elf, data, seg, clean_elf):
     datafile.apply(data, elf, changes)
     for key, en in list(pairs.items()):
         pairs.setdefault(cut[tuple(en)], en)
+    import overflow                 # full names go into message prints / fixed fields
+    errors = overflow.check_names(' '.join(x for x in en if x) for en in pairs.values())
+    errors += ['record name %r: part over 8 bytes' % (c,) for c in cut.values() if max(map(len, c)) > 8]
+    if errors:
+        raise ValueError('\n'.join(errors))
     strings = {}
     def string(t):
         if t not in strings:
@@ -358,6 +365,15 @@ def apply(elf, data, seg, clean_elf):
                   ('addu', 'a1', 'zero', 'zero'), ('addu', 'a2', 'zero', 'zero'), ('addu', 'a3', 'zero', 'zero'),
                   ('addu', 't0', 'zero', 'zero'), ('addu', 't1', 'zero', 'zero'), ('addiu', 't2', 'zero', 1),
                   ('addiu', 't3', 't3', asm.lo(fmt)), ('sd', 'v0', 0, 'sp'), ('nop',), ('jal', 0x469E50), ('nop',)])
+    # person buttons (0x38B020, "(%s)ボタン作成"): strcpy(obj + 0x44 + i * 17, full name)
+    # into name[4][17], which the button object pointers (+0x88) follow: an English
+    # name over 16 bytes overwrote them. fit17 copies the name if it fits, else
+    # "F. Given" cut to 16 bytes (SJIS strncpy writes n bytes + NUL).
+    o = BUTTON_NAME - elfseg.VBASE + elfseg.FOFF
+    assert struct.unpack_from('<2I', elf, o) == (0x0C0CF7DC, 0x26640044), 'button name copy'
+    at = seg.end + (-seg.end % 4)
+    seg.add(asm.assemble(at, fit17_code()), 4)
+    p(BUTTON_NAME, [('jal', at)])
     p(OFFICER_NAME, [('jal', labels['officer_name'])])
     # event text expander 0x233270: \#XXXX with the given / family form copied the
     # record part (cut form) -> en_part(record, kind); v0 = person object
@@ -388,6 +404,25 @@ def apply(elf, data, seg, clean_elf):
                 short = officer_short({'en': en}) if en else officer_short(tl[i])
                 elf[so:so + 17] = short.encode('ascii').ljust(17, b'\0')
     return len(rows)
+
+def fit17_code():
+    """fit17(a0 = dst[17], a1 = name): copy the name if it fits, else "F. Given" cut to
+    16 bytes (or the name cut to 16 when it has no space)."""
+    return [
+        ('addiu', 'sp', 'sp', -32), ('sd', 'ra', 0, 'sp'), ('sd', 's0', 8, 'sp'), ('sd', 's1', 16, 'sp'),
+        ('addu', 's0', 'a0', 'zero'), ('addu', 's1', 'a1', 'zero'),
+        ('jal', STRLEN), ('addu', 'a0', 'a1', 'zero'),
+        ('sltiu', 'at', 'v0', 17), ('bnez', 'at', 'f_copy'), ('addu', 't0', 's1', 'zero'),
+        'f_find:', ('lbu', 't1', 0, 't0'), ('beqz', 't1', 'f_cut'), ('addiu', 't2', 'zero', 0x20),
+        ('bne', 't1', 't2', 'f_find'), ('addiu', 't0', 't0', 1),
+        ('lbu', 't1', 0, 's1'), ('sb', 't1', 0, 's0'), ('addiu', 't1', 'zero', 0x2E), ('sb', 't1', 1, 's0'),
+        ('addiu', 't1', 'zero', 0x20), ('sb', 't1', 2, 's0'),
+        ('addiu', 'a0', 's0', 3), ('addu', 'a1', 't0', 'zero'), ('b', 'f_n'), ('addiu', 'a2', 'zero', 13),
+        'f_cut:', ('addu', 'a0', 's0', 'zero'), ('addu', 'a1', 's1', 'zero'), ('addiu', 'a2', 'zero', 16),
+        'f_n:', ('jal', STRNCPY), ('nop',), ('b', 'f_end'), ('nop',),
+        'f_copy:', ('addu', 'a0', 's0', 'zero'), ('jal', STRCPY), ('addu', 'a1', 's1', 'zero'),
+        'f_end:', ('ld', 'ra', 0, 'sp'), ('ld', 's0', 8, 'sp'), ('ld', 's1', 16, 'sp'),
+        ('jr', 'ra'), ('addiu', 'sp', 'sp', 32)]
 
 def officer_short(rec):
     """Canonical English name in at most 16 characters."""

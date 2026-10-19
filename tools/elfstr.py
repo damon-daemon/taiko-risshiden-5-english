@@ -152,6 +152,8 @@ def apply(elf, clean_elf, seg):
             elfseg.patch(elf, l, struct.pack('<I', (lw & 0xFFFF0000) | hi))
             elfseg.patch(elf, u, struct.pack('<I', (uw & 0xFFFF0000) | lo))
         moved += 1
+    import overflow                 # buffer limits of the copies that receive these strings
+    errors += overflow.check_elfstr(tl, lambda va: slot(clean_elf, va)[0])
     if errors:
         raise ValueError('\n'.join(errors))
     return len(tl), moved

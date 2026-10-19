@@ -44,7 +44,12 @@ def main():
     ok = True
     for n in range(len(os.listdir(os.path.join(SCRIPT, 'msg')))):
         if os.path.exists(os.path.join(TL, 'msg%02d.txt' % n)):
-            ok &= tl.apply(n)
+            ok &= tl.apply(n, check=False)
+    if ok:
+        import overflow
+        errs = overflow.check_messages(overflow.json_getter(), overflow.clean_elf())
+        print('\n'.join(errs))
+        ok = not errs
     if not ok:
         sys.exit('errors in tl/: fix them and run setup again')
     print('script/ ready; now run tools/build.py')

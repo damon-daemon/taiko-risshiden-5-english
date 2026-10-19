@@ -436,7 +436,11 @@ def apply(entry, batch=None):
         print(msg)
         if err:
             bad.append(msg)
-    english_entry(entry, units_en, log, use_memory=False)
+    data = english_entry(entry, units_en, log, use_memory=False)
+    if data is not None and not bad:
+        import overflow             # buffer limits (expander buffer, 9-byte name fields)
+        for x in overflow.check_events({entry: data}, overflow.Measure(overflow.json_getter())):
+            log('ERROR ' + x, True)
     if bad and new:
         print('%03d: %d errors: nothing written' % (entry, len(bad)))
     elif new:

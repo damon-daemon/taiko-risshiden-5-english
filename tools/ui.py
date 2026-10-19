@@ -62,6 +62,8 @@ def apply(elf, seg):
         addr = seg.add(en + b'\0', 1)
         elf[_f(TABLE + 4 * i):_f(TABLE + 4 * i) + 4] = struct.pack('<I', addr)
         n += 1
+    import overflow                 # buffer limits of the copies that receive these strings
+    errors += overflow.check_ui(tl)
     if errors:
         raise ValueError('\n'.join(errors))
     return n

@@ -5,7 +5,7 @@ usage: .venv/bin/python tools/build.py [clean.iso] [out.iso]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import battlename, datafile, evtl, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
+import battlename, datafile, evtl, overflow, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ELF = 'SLPM_656.74'
@@ -21,15 +21,17 @@ def build_messages(clean_msg):
                 blocks[n][row['id']] = data
                 changed += 1
     msgbuf.check([len(msgfile.pack_block(b)) for b in blocks])
-    return msgfile.pack(blocks), changed
+    return msgfile.pack(blocks), changed, blocks
 
 def main():
     clean = sys.argv[1] if len(sys.argv) > 1 else setup.CLEAN
     out = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, 'build', 'taiko_risshiden_5_en.iso')
     recs = iso.records(clean)
-    msg, changed = build_messages(iso.read_file(clean, setup.MSG, recs))
+    msg, changed, blocks = build_messages(iso.read_file(clean, setup.MSG, recs))
     print('messages: %d strings changed' % changed)
     elf = bytearray(iso.read_file(clean, ELF, recs))
+    measure = overflow.Measure(lambda n, i: blocks[n][i] if i < len(blocks[n]) else None)
+    errors = overflow.check_messages(measure.get, bytes(elf))
     data = bytearray(iso.read_file(clean, DATA, recs))
     clean_elf = bytes(elf)
     fonts = vwf.apply(elf, lambda i: datafile.entry(data, clean_elf, i))
@@ -38,6 +40,9 @@ def main():
     datafile.apply(data, elf, menugfx.apply(data, elf, lambda i: datafile.entry(data, clean_elf, i)))
     datafile.apply(data, elf, gfx.apply(elf, lambda i: datafile.entry(data, clean_elf, i)))
     ev = evtl.apply_all()
+    errors += overflow.check_events(ev, measure)
+    if errors:
+        sys.exit('buffer limits (tools/overflow.py):\n' + '\n'.join(errors))
     datafile.apply(data, elf, ev)
     print('events: %d entries' % len(ev))
     msgwindow.apply(elf)
@@ -60,6 +65,9 @@ def main():
     os.makedirs(os.path.dirname(out), exist_ok=True)
     moved = iso.write_image(clean, out, {setup.MSG: msg, ELF: bytes(elf), DATA: bytes(data)})
     print('rebuilt %s%s' % (out, ' (moved: %s)' % ', '.join(moved) if moved else ''))
+    if DATA in moved:
+        sys.exit('%s outgrew its place on the disc and was moved (the patch would be ~160 MB): '
+                 'make the grown entries smaller' % DATA)
     patch = os.path.splitext(out)[0] + '.xdelta'
     try:
         subprocess.run(['xdelta3', '-e', '-f', '-9', '-S', 'djw', '-B', str(1 << 30), '-s', clean, out, patch], check=True)
