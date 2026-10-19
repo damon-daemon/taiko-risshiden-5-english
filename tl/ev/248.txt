@@ -1,0 +1,172 @@
+@0.0
+On the 18th day of the 8th month of 1598, the Taiko, \#0205, died at the age of 63...
+@0.1
+With the death of the ruler who held absolute power, the age of turmoil that had seemed over was about to begin again.
+@0.2
+Lord Taiko is dead, and his heir, Lord \#0A06, is still a child...
+@0.3
+The feud between the warrior faction of \#00E6 and \#0267 and the officials' faction of \#004B and \#0138 is bitter...
+@0.4
+For now, Lord \#0293 keeps them in check and on the surface things are calm. Lord \#0A93 truly is a man of integrity.
+@0.5
+My lord, I have interesting news! They say Lord \#0293 is gravely ill.
+@0.6
+What, is that true?!
+@0.7
+Yes. Fearing it would get out, the \#1293 house has imposed silence, and he himself is forcing himself to seem well...
+@0.8
+Which means his illness is grave enough that it must be kept secret. He will likely die before long...
+@0.9
+I see. How sad...
+@0.11
+But the \#11FA house is the greatest daimyo after the \#1206. Sooner or later the \#1206 will find some pretext to cut down \#11FA's power.
+@0.12
+\#004B already seems to see us as an enemy. For the \#11FA house to survive, we must walk a path of carnage.
+@0.13
+I know. Unless I take the realm, there will be no peace for the \#11FA house.
+@0.14
+Lend me your strength for that.
+@0.18
+For now, Lord \#0293 keeps them in check, so things are somehow calm.
+@0.19
+For our \#11FA house, it would suit us if the feud grew fiercer...
+@0.20
+\%03, I have word of concern from a doctor who visits the \#1293 house.
+@0.21
+It seems Lord \#0293 is ill.
+@0.22
+What! But Lord \#0A93 was attending to government today, surely.
+@0.23
+Yes. It seems his house has imposed silence, and he is forcing himself to seem well.
+@0.24
+Hmm, to hide it so thoroughly, he must not want it known at all. It must be a very grave illness.
+@0.25
+This can't wait. I must report to my lord.
+@0.30
+I see. How sad... \%03, I was fond of that man of integrity, Lord \#0A93.
+@0.39
+I must work hard to live up to \%047F0's hopes...
+@0.48
+First I must attend councils, earn merit and win \%047F0's trust...
+@1.0
+My lord, I hear Lord \#0293's funeral is to be held in the capital.
+@1.1
+Yes. As chief of the Five Regents, I cannot be absent.
+@1.2
+Right, I will go to the capital. \%03, come with me.
+@1.4
+The old lord has left for the capital to attend Lord \#0293's funeral.
+@2.0
+The capital is lively... It hasn't changed.
+@2.1
+It is almost time. We must hurry to the temple...
+@2.3
+\#0293's funeral passed without incident...
+@2.4
+Oh, \%041FA. My father, \#0A93, would be glad you came all this way.
+@2.5
+It is an honour to meet you. I am \#0294, son of \#0A93.
+@2.6
+My father, \#0A93, would be glad that you came, \%041FA.
+@2.7
+No, no, Lord \#0A93 did a great deal for me.
+@2.8
+Call it repaying the departed if you like, but if you are ever in trouble, rely on me, \#0FFE.
+@2.9
+Gracious words. I, \#0A94, cannot thank you enough.
+@2.10
+By the way, how are things in the capital lately? Out in the wilds of the Kanto, I can't keep up.
+@2.11
+Well... The feud between Lord \#004B and Lords \#00E6 and \#0267 grows ever fiercer.
+@2.12
+They say Lord \#08E6 and Lord \#0A67 won't live under the same sky as Lord \#084B.
+@2.13
+My father, \#0A93, said the quarrel did Lord \#0A06 no good, and lectured Lord \#08E6 and the others every time he met them.
+@2.14
+Now that he is dead, there is no one who can stop Lord \#08E6 and the others...
+@2.15
+Even the common folk whisper about when Lord \#08E6 and the others will attack Lord \#084B.
+@2.16
+Has it gone that far... Very well, when the time is right I'll have a word with them too.
+@2.17
+\%041FA, even Lord \#08E6 would listen to you. I beg you.
+@2.18
+Mm. Then, excuse me.
+@2.19
+My lord, that was fruitful!
+@2.20
+If we win over \#08E6 and the others against \#084B, half the \#1206 house will be on our side.
+@2.22
+Then... let us go to tonight's lodgings, \41DE.
+@3.0
+My lord, we have been waiting. Please, this way...
+@3.1
+Phew, I'm rather tired. I'll rest...
+@3.2
+M-my lord! Disaster!
+@3.3
+What is it, \%04290? It's rare to see you so flustered.
+@3.4
+This is no time for such leisurely talk!
+@3.5
+\#00E6 and the others have raised troops and surrounded \#004B's mansion! \#084B escaped and has fled into this castle!
+@3.7
+They say seven men raised troops: \#00E6, \#0267, \#0125, \#00E9, \#001A, \#027C and \#0043!
+@3.8
+\#08E6 and the others will soon come after \#084B. \%03, what will you do?
+@3.9
+Hmm... First I had better see \#084B.
+@3.10
+Yes. I will bring him, so please wait.
+@3.11
+\%0404B, what a misfortune. But once inside \#09FA's castle, you are safe. Rest assured.
+@3.12
+Then you will shelter me!
+@3.13
+Indeed... But today is fine. What do you intend to do from tomorrow?
+@3.14
+From tomorrow, you say?
+@3.15
+I hear a great many people hold grudges against you.
+@3.16
+The nail that sticks out gets hammered down, as they say. Why not retire for a while?
+@3.17
+I, retire? What crime have I committed?!
+@3.18
+To cause such a commotion while holding high office as one of the Five Magistrates is a crime in itself!
+@3.19
+Does it not damage the prestige of the \#1206 house?!
+@3.21
+In the end, as \#01FA said, \#004B resigned as magistrate and went into retirement in his domain.
+@3.22
+\%03, it seems something extraordinary has happened in the capital!
+@3.23
+Something extraordinary? What happened?
+@3.24
+Something extraordinary? What happened?
+@3.25
+Yes. The generals who had grown hostile to \#004B finally rose up and surrounded the \#104B mansion.
+@3.26
+Seven men took part in the siege: \#00E6, \#0267, \#0125, \#00E9, \#001A, \#027C and \#0043.
+@3.27
+\#004B sensed it just in time and fled to the old lord, who happened to be staying in \41DF.
+@3.28
+What! \#004B is the man who has treated the old lord as an enemy, all in the name of the \#1206 house!
+@3.29
+What! Isn't \#004B the man who has treated the old lord as an enemy, all in the name of the \#1206 house?!
+@3.30
+And he fled to \%021FA of all people...
+@3.31
+And what did \%021FA do with \#084B? Hand him over to the seven generals?
+@3.32
+Well... Not only did the old lord talk round the seven generals who demanded \#084B be handed over...
+@3.33
+He also sent \#084B to \41DE with an escort of soldiers.
+@3.34
+Hmm... Saving an enemy in his hour of need and even giving him an escort... What great breadth \%021FA has!
+@3.35
+Saving an enemy in his hour of need and even giving him an escort... I see again that \%021FA's heart is as wide as the sea.
+@3.36
+It seems \#004B was held responsible for the affair, removed from the Five Magistrates and confined at \41DE.
+@3.37
+Mm, I see. Thank you for the report.

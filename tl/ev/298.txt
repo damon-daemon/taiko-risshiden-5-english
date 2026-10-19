@@ -1,0 +1,380 @@
+@0.6
+But the \#17FE clan, which had stayed neutral, was left untouched by \#09FA, and its strength remained intact.
+@0.7
+(Sakichi... I will protect Lord \#0A06 even at the cost of my own life...)
+@3.8
+This is bad... Gather everyone in the Council Chamber!
+@3.10
+Our lord is calling an urgent council on this matter. Please hurry.
+@3.11
+Understood. I'll hurry to the Council Chamber.
+@3.12
+Understood. I shall hurry to the Council Chamber.
+@3.13
+As you have all heard, \%201FA is sending an army against \%20074. I intend for our \#10A5 clan to send troops as well.
+@3.14
+Are we to follow \%041FA, then?
+@3.15
+No, that is not it. Lord \#0A06 is still young. A war now would be a disaster.
+@3.16
+I mean to mediate between the \#11FA and the \#1074 and avert this war.
+@3.17
+That is why I am going. Bear it in mind, all of you.
+@4.1
+Mm, thank you for coming out to meet me.
+@4.2
+Sir! And... A letter has arrived from Lord \#004B.
+@4.4
+Mm. He means to show the unity and prestige of our Western Army, so that no one goes over to \%041FA...
+@4.6
+You come too.
+@5.6
+Lord \#10A5, we have been waiting for you.
+@5.9
+Ah, \%040A5, welcome. I am truly sorry about \#013B. To think a traitor would come from my own kin...
+@5.10
+Not at all...
+@5.11
+I hear the \#12D1 forces were late to join the battle, too...
+@5.12
+The worst blunder of my life! I thought the fighting was still far off and had the men eating their lunch.
+@5.13
+For a man like \%042D1... Wasn't that a little too easygoing?
+@5.14
+Now, now, let's leave it there...
+@5.18
+And how do you intend to deal with the daimyo of the Eastern Army?
+@5.21
+I have no objection.
+@5.22
+I have no objection either.
+@5.27
+Our house will be transferred to the \#101A domain.
+@5.38
+Though they were beaten at Sekigahara, the \#11FA clan still holds formidable power...
+@5.50
+Splendid! With this plan, I am satisfied too.
+@5.54
+Then this time we will crush the \#11FA for good!
+@6.8
+I knew it... There was no way \Z003 would accept that order.
+@6.9
+My lord! A letter has arrived from the Five Regents.
+@6.10
+Let me see... Hmm, they are raising an army to subdue the \#11FA and ask us to join...
+@6.11
+Tell everyone to gather in the Council Chamber!
+@6.13
+The old lord commands a council to prepare for joining the campaign against the \#11FA.
+@6.17
+We must strike down \Z003 at all costs and end this war!
+@7.8
+\%040A5! Well done taking \#09FA's head!
+@7.20
+From now on, our house will carry ever more weight in the realm...
+@8.6
+Please wait! You must be Lord \#00A5!
+@8.7
+Yes, I am \#00A5. What is it?
+@8.8
+My master, \#004B, has something important he wishes to discuss with you. Please, I beg you to call on him.
+@8.9
+\Z002? What could it be?
+@8.11
+Come now, we are old friends. No need to stand on ceremony when you pass by.
+@8.12
+So, this important matter... Is it the \#1074 clan? If so, I'll find some way to make peace.
+@8.13
+No... I will take this chance to raise an army and strike down \#09FA!
+@8.14
+D-don't talk nonsense, Sakichi!
+@8.15
+Sakichi was \#004B's childhood name. The two had served \#0205 together for many years and shared the same pot.
+@8.31
+(What should I do...)
+@8.32
+Join the uprising
+@8.33
+Stay neutral
+@8.42
+At least \#0138, who is close to us, will join us.
+@8.43
+At least a few daimyo houses will side with us.
+@8.44
+My son-in-law, Lord \#0169, and his father, Lord \#0967, will help us too.
+@8.45
+\#01CA's sense of duty runs in the family. He will surely answer.
+@8.46
+We march east with the assembled army and strike \Z003 from behind while he fights \%04074.
+@8.51
+We now go to \41DF to attend Lord \#0A06! Follow me!
+@8.52
+No, I cannot agree. \Z003 is already old. If we buy time, he will die sooner or later.
+@8.53
+We cannot wait for that!
+@8.54
+Besides, if you and I both fall here, who will protect Lord \#0A06?
+@8.56
+I will protect Lord \#0A06 in my own way. Please understand, Sakichi...
+@8.57
+It can't be helped... If the worst happens, I leave Lord \#0A06 to you.
+@8.58
+Mm. Farewell, Sakichi.
+@8.59
+I can't fight Sakichi... All I can do is withdraw my army...
+@8.60
+I can't refuse an invitation from \Z002. It will be over soon, so wait a little.
+@8.61
+But a good deal of time passed before \#00A5 came back...
+@8.63
+\%03, what happened? What did Lord \#004B say?
+@8.64
+\Z002 is raising an army to strike down \#01FA! I have decided to answer this righteous call!
+@8.65
+Will you all entrust your lives to me?
+@8.66
+For your sake, my lord, I offer up this life!
+@8.67
+As do I!
+@8.68
+I see! Our \#10A5 house is full of fools who care nothing for their lives! Hahahaha...
+@8.69
+Our foe is \Z003, who gave even Lord Taiko trouble... We may have no chance of winning.
+@8.70
+Not at all! A master of war like \Z003 is a worthy opponent!
+@8.71
+It will be the memory of a lifetime. We'll have a fine battle!
+@8.72
+Mm, well said!
+@8.73
+Now we go to \41DF to protect Lord \#0A06! Follow me!
+@9.6
+Good, we've arrived! I must go and see Lord \#0A06. You come with me.
+@9.7
+\%27!
+@9.8
+\#08A5, is it true you will fight the old man of \51E8 (\#01FA)?
+@9.9
+Yes. Since Lord Taiko passed away, \#09FA's conduct has been intolerable. It cannot be helped.
+@9.11
+\#0A06 says so too. Lord \#08A5, can nothing be done?
+@9.12
+I am afraid it is now beyond my power!
+@9.13
+Lord \#02D1, Lord \#007D and Lord \#013B have already gathered with their armies. The air is thick with tension.
+@9.14
+Urgent news! The residence of Lord \#027C is on fire!
+@9.15
+What! What happened!?
+@9.16
+Sir, we sent an envoy asking Lord \#0A7C's wife to come into the castle, but she flatly refused.
+@9.17
+Angered, the envoy, \37F1, forced his way into the residence, and she set it on fire and took her own life!
+@9.19
+That fool \37F1! \#0A7C is known for loving his wife. In his rage he will side with \#09FA.
+@9.20
+It did not end with the \#127C. Learning of the incident at the \#127C residence, \#004B changed his policy on hostages...
+@9.21
+Instead of gathering hostages in the castle, he had them merely watched.
+@9.22
+I must hold a council of war, so I will take my leave.
+@9.23
+\%03, Lord \#004B has taken \41E2!
+@9.24
+\Z002 has? Quick work, as expected.
+@9.25
+There is one more report. \#09FA has turned around and begun marching west!
+@9.26
+\%03, \#09FA has turned around and begun marching west!
+@9.27
+What, leaving the \#1074 clan alone?
+@9.28
+No, \#09FA's second son, \#0AFC, was left at Utsunomiya in Shimotsuke to hold off the \#1074.
+@9.29
+Hmm... He left just enough troops to keep the \#1074 from attacking, and is bringing the rest to crush us...
+@9.30
+Could \Z003 have foreseen our uprising...?
+@9.31
+\Z001!
+@9.32
+Have you heard? \#09FA is heading our way.
+@9.33
+We must gather all our strength too. Let us go to \51E6!
+@9.36
+I owe the late Lord Taiko more than I can ever repay. Now is the time to repay it!
+@9.38
+\%03, Lord \#0167 and Lord \#0969 have blocked the Nakasendo and are holding back \#01FC's army.
+@9.39
+I see... That is a great help!
+@10.0
+\%03, Lord \#013B is exchanging letters with \#01FA and the others.
+@10.1
+Please be very careful.
+@10.2
+(\#013B a traitor? If it's true, this will be serious...)
+@11.6
+\Z001! You've come!
+@11.7
+What is \Z003 doing?
+@11.8
+\Z003 has crossed Hakone and brought out his army! Quite different from the time we attacked Odawara.
+@11.9
+Sakichi, \Z003 is not as soft as \#0275.
+@11.11
+Mm... \Z003 has surrounded \41DF. If we advance now, we might catch him in a pincer.
+@12.0
+Oh, look at them all! Both armies are huge, enough to make you gape!
+@12.1
+Now... What about the one we can't tell is friend or foe?
+@12.2
+\%2013B has taken up position on Mt. Matsuo.
+@12.3
+Then we will set up camp at Fujikawadai, next to the \#113B forces, ready for anything!
+@12.4
+Even in the thick of battle, don't take your eyes off him. You never know when he'll stab us in the back.
+@12.7
+That white rice-cake banner... The \#11F3 and \#1110 forces are coming at us!
+@14.0
+Good, we've scattered the \#11F3 and \#1110! \%03, how are our allies doing!? Are they winning!? Losing!?
+@14.1
+Sir! The \#107D are breaking the \#1267, the \#104B are evenly matched with the \#1125, and the \#1138 are being pushed back a little.
+@14.2
+And the \#113B on Mt. Matsuo!?
+@14.3
+Well... Lord \#004B's camp has sent up signal smoke again and again, but they still haven't moved!
+@14.4
+If they struck the \#11FA flank now, we could win easily... So he has turned traitor after all...
+@14.5
+Hm! The \#11FA gunners are heading for Mt. Matsuo.
+@14.7
+They are firing toward Mt. Matsuo, but surely they can't reach from there... What!!
+@14.8
+The \#113B forces are... charging down on us!
+@14.9
+So \#113B was a traitor after all!
+@14.10
+Listen, all of you! That man \#013B is Lord Taiko's own kin, the one who owed him more than anyone!
+@14.11
+And yet he turns traitor like this! Despicable! Hold nothing back!!
+@14.12
+We need no demons of hell to send him there! We'll do it with our own hands!!
+@14.16
+So it's over...
+@14.17
+\%03, I will cut my belly. Be my second.
+@14.18
+I don't want my face, ravaged by sickness, to be seen. Bury my head deep in the earth!
+@14.19
+The enemy must never take it! Understood!?
+@14.20
+Yes, sir. As you command.
+@14.21
+The rest of you, flee and survive. Here is what remains of the war funds. Share it among you.
+@14.22
+No! We will charge the enemy lines and show the spirit of the \#10A5 house. Take your life in the meantime.
+@14.23
+I see... Then I'll stop you no longer. Farewell.
+@14.24
+...Farewell, my lord.
+@14.25
+\#00A5's men charged into the enemy lines one after another, to buy time for their lord's suicide.
+@14.26
+\#07FE too charged the enemy lines and died fighting. Age \1006...
+@14.27
+I lost the battle, but I had good men... I have no regrets...
+@14.28
+Now, I must not waste their kindness. \%03, are you ready?
+@14.32
+My lord!
+@14.33
+\#00A5 died for his friendship with \#004B, vanishing like dew on the battlefield. Age \1006...
+@14.34
+I must bury my lord's head quickly and follow him...
+@14.35
+Scrape, scrape
+@14.36
+There, that will do...
+@14.39
+Hm! You must be Lord \#02FA, famed in the \#10A5 house! Now, fight me!
+@14.40
+Damn, I've been seen!
+@14.42
+Argh!
+@14.43
+W-wait. There's something I must tell you.
+@14.44
+The truth is, I was just burying the head of my master, Lord \#00A5...
+@14.45
+Lord \#08A5 hated to show his sickness-ravaged face, and left word to bury his head deep.
+@14.46
+I beg you, never reveal where Lord \#08A5's head lies...
+@14.49
+Admirable loyalty, magnificent! I understand! I swear by the gods I will never reveal it!
+@14.50
+I... am... counting... on you...
+@14.51
+\#02FA was struck down by Todo Niemon, \#01F3's nephew. Age \1006...
+@14.52
+They say Todo Niemon kept his promise to \#0AFA and never told anyone where \#00A5's head lay...
+@15.6
+Don't let the traitor \#013B get away!
+@15.8
+Urgent news! The \#12D1 forces on Mt. Nangu have struck the enemy's rear. The enemy units are starting to flee.
+@15.9
+A great victory for our side!!
+@15.10
+I see, we've won... Good, everyone, raise a victory cry!
+@15.12
+\%03! We've captured \#013B!
+@15.13
+I see. Bring him here.
+@15.16
+Lord \#093B, as things stand, please cut your belly with honour.
+@15.17
+I will tell Kodai-in (Nene, \#0A05's wife) that Lord \#093B met a fine end, like a true samurai.
+@15.18
+You tell me... Lord Taiko's own nephew... to die?
+@15.19
+You are no longer Lord Taiko's kin! You are a traitor and a criminal!!
+@15.20
+N-no, I don't want to die! I don't want to die!!
+@15.21
+...How pitiful... \%03, give him a hand.
+@15.24
+Gwaaah!
+@15.25
+You... you lowly cur... You stabbed me... Lord Taiko's nephew...!
+@15.26
+Lord \#093B is nothing but a traitor... By rights he should be beheaded as a criminal!
+@15.27
+Can't you see our lord's kindness, letting you die like a samurai by your own hand to keep your honour?
+@15.28
+I don't understand... Who could understand that!
+@15.29
+What a wretched man... I will be your second. Forgive me!
+@15.31
+Gyaaah!
+@15.32
+And so the traitor \#013B was executed by \#00A5. Age \1006...
+@15.34
+Ah, \Z002! How did the battle go?
+@15.35
+Mm, we took the heads of several generals. A great victory! But \Z003 got away.
+@15.36
+\Z003 got away... That's bad...
+@15.48
+No! Even if it is hopeless, I would at least treat the traitor \%2013B to one stroke of vengeance!
+@15.51
+Enraged at \#013B's treachery, \#00A5's men charged the enemy lines one after another.
+@15.53
+\%03, are you ready?
+@15.55
+Even so, curse \%2013B... I will haunt him without fail!
+@15.70
+Lord \#08A5 did not want his sickness-ravaged face seen, and left word to bury his head deep.
+@15.74
+Admirable loyalty! I understand! I swear by the gods I will not reveal it!
+@16.5
+Before the exploits of \#00A5 and \#004B, \#01FA, who had half the realm in his grasp, finally fell. Age \1006...
+@16.11
+\#00A5 and the others sought to kill \#01FA in one decisive battle, but were easily beaten by \#09FA's counterattack.

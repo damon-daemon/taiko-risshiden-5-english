@@ -1,0 +1,146 @@
+@0.0
+Free of the Akamatsu clan's rule and parted from his brother, Urakami Masamune, \#008C became independent as daimyo of Bizen...
+@0.1
+But after repeated wars with the Amago and Akamatsu, the province of Bizen was utterly exhausted.
+@0.2
+And within the house, \#007C, a man of great talent who hid his ambition, was gradually putting pressure on his master, \#088C...
+@0.3
+What will become of our house...
+@0.4
+Ever since the death of his grandfather Yoshiie, a senior retainer of the Urakami, the Ukita house had been in decline...
+@0.5
+\#07FE first served \#008C as a cowherd; by his talent he won one honour after another and rose to be a senior retainer.
+@0.6
+But \#0FFE's ambition was far from fading...
+@0.7
+Someday I want to be a daimyo and take on the warlords of every province...
+@0.9
+\#007C first served \#008C as a cowherd; by his talent he won one honour after another and rose to be a senior retainer...
+@0.10
+But my lord aims still higher...
+@0.11
+Besides, with the old lord's ability, even defending Bizen alone is uncertain...
+@0.12
+I wish \%0407C would take the old lord's place and rule Bizen...
+@1.0
+Disaster! Lord \#007C has rebelled!
+@1.1
+Wh-what?! Damn it...! Curse you, \#087C!
+@1.2
+\#007C, who had long nursed his ambition, at last bared his fangs and rebelled against his master, \#008C...
+@1.3
+\%0407C... May I have a word?
+@1.4
+Hm, what is it?
+@1.5
+My lord, do you mean to spend your whole life as a vassal of the old lord, Lord \#008C?
+@1.6
+What are you saying, all of a sudden...
+@1.7
+We can no longer follow the old lord of the \#108C... With his ability, even defending the province is uncertain!
+@1.9
+The only one we wish to serve as our lord is you, \%0407C!
+@1.10
+...You're telling me to rebel?
+@1.11
+You must want it yourself, my lord. We will follow you anywhere.
+@1.12
+Hmm... It's true that I have ambitions... But...
+@1.14
+Ignore it
+@1.15
+Now... my lord!
+@1.16
+...Very well. We rebel!
+@1.17
+Oh, a fine decision!
+@1.18
+Right, then we strike down our master, \#008C! Everyone, follow me!
+@1.21
+Don't talk nonsense. I have no intention of rebelling.
+@1.23
+I'll pretend I never heard this. Leave!
+@1.32
+The only one we wish to serve as our lord is you, \%0407C!
+@1.38
+Oh, a fine decision!
+@2.0
+Lord \#07FE! \#02B9's army has invaded our lands!
+@2.1
+Wh-what?! That's serious... We must intercept them at once! We march!
+@2.2
+No, there's no need. Lord \#007C has already gone to intercept them with his own men.
+@2.3
+What... \#087C has?
+@2.4
+Lord \#107C says: "No need for the old lord to take the field... I'll deal with them myself."
+@2.5
+Grr... He makes a fool of me, his master, and sends out troops without even asking me...
+@2.6
+But he's better at war than I am. It can't be helped... I'll leave it to him.
+@2.7
+My lord... everyone in the house is worried about the discord between you and Lord \#107C... Please, be friendly with Lord \#107C...
+@2.8
+Hmph... I'll bear it in mind.
+@2.9
+What... As quick-witted as ever. He's the best fighter in our house; the Mimura forces will be child's play for him.
+@2.10
+But the old lord isn't taking the field... At this rate Lord \#107C's stock will keep rising and the old lord's name will keep falling...
+@2.12
+What?! That's serious... We must march out at once to intercept them...!
+@2.13
+As you've all heard, \#02B9 has invaded our lands!
+@2.14
+We march at once and crush them! Understood?!
+@2.15
+But my lord! There have been no orders from the old lord at \51E8...
+@2.16
+How can we count on the old lord?! This is urgent! If we leave it to him, we'll be too late!
+@2.17
+My lord, we will follow you!
+@2.18
+Yes! I no longer expect anything of the old lord. This time too we fight without his help!
+@3.0
+Hmph! \#087C! Now do you see what I can do?!
+@3.1
+\#008C somehow managed to hold off \#007C's fierce attack...
+@3.2
+But \#007C went on to live as a daimyo independent of the \#108C house...
+@3.4
+Old lord... no, Lord \#008C. The new master of Bizen is I.
+@3.6
+Lord \#088C, I'll have you retire and leave the province of Bizen.
+@3.7
+You mean to banish me...
+@3.8
+It is what all the people of Bizen wish...
+@3.9
+...It can't be helped. But don't forget this, \#087C...
+@3.10
+You will be remembered by later generations in infamy, as a disloyal vassal who overthrew and banished his master, a villain without equal!
+@3.11
+...Is that all you have to say?
+@3.13
+And so \#008C, once lord of Bizen...
+@3.14
+...was banished by \#007C and set off for Sanuki...
+@3.15
+From now on, \#07FE's base moves to the town of Marugame.
+@3.16
+\#07FE has become a vassal of the \#107C clan.
+@4.0
+Mm, everyone seems to be here. Then the council begins. \#007C!
+@4.2
+I appoint you lord of \51E6 Castle!
+@4.3
+Yes, my lord! I am most grateful!
+@4.4
+(\#087C is dangerous... too ambitious.\n If I keep him close,\n he might kill me in my sleep...)
+@4.5
+(Excellent... Now I can act\n on my own...)
+@4.6
+(Excellent... Now \%0407C\n can act on his own...)
+@4.7
+(What is the old lord thinking...\n \%0407C is dangerous... too ambitious.\n Giving a castle to such a man...)
+@4.8
+That ends this council. You may all go.

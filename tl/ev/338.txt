@@ -1,0 +1,176 @@
+@0.6
+But \#09FA could not touch the \#11CA clan, which had stayed neutral, and its strength was left intact.
+@4.2
+Yes, sir. And... a letter has arrived from Lord \#004B.
+@4.6
+\%03, please come with me.
+@5.41
+Splendid! With this plan, I am satisfied.
+@5.45
+In that case, this time we truly crush \#11FA!
+@6.8
+\%041CA! You struck down \#09FA, well done!
+@7.0
+What?! A daimyo's mansion seems to be on fire...
+@7.1
+What is this? ...A fire?!
+@7.2
+\%03, the burning house is Lord \#027C's mansion!
+@7.3
+What on earth happened?!
+@7.4
+What on earth is going on?!
+@7.5
+Lord \37F1 asked Lord \#0A7C's wife to move into the castle, but she flatly refused.
+@7.6
+Lord \37F1 grew angry and forced his way into the house, whereupon she set it on fire and took her own life!
+@7.8
+That fool \37F1! \#0A7C is famous for loving his wife. In his rage he will side with \#09FA.
+@7.9
+It did not end with the \#127C. On learning of the affair at the \#127C mansion, \#004B changed his policy on hostages...
+@7.10
+Instead of gathering hostages in the castle, he switched to merely watching them.
+@7.11
+\%03! Thank you for rising with us.
+@7.12
+\%03... I too have been sick of \#09FA's high-handedness.
+@7.13
+All gathered here feel the same... Oh yes, \%042D1 has agreed to be our supreme commander.
+@7.14
+Oh, \%042D1... As second among the regents, he is just the man.
+@7.15
+\#09FA has turned back and begun marching west!
+@7.16
+\#09FA is coming down the Tokaido at the head of the Tokai daimyo.
+@7.17
+What? And he left the \#1074 clan alone?
+@7.18
+No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back the \#1074 clan.
+@7.19
+Hmm... He left just enough men to keep \#1074 from attacking, and comes to crush us with all the rest...
+@7.20
+Surely he has not just left the \#1074 alone?
+@7.21
+No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back the \#1074 clan.
+@7.22
+He leaves just enough men to keep \#1074 from attacking and strikes us with all the rest. That is his aim...
+@7.23
+If \#09FA is coming, we must gather all our strength too. Let us go to \51E6!
+@8.0
+\%03, thank you for rising with us! The \#11FA army is gathering at \51E7.
+@8.1
+Then the decisive battle will be around Sekigahara...
+@8.3
+\%03, Lord \#0167 and Lord \#0969 have blocked the Nakasendo and are holding up \#01FC's army of 38,000.
+@8.4
+\%04167 has... That's \%04167 for you. If we lose now, we couldn't face him.
+@10.0
+Whoa, look at them all! Friend and foe alike, so many it's absurd!
+@10.1
+The enemy is charging!
+@10.2
+A banner of white waves on black... The \#0267 unit! A worthy foe!
+@10.3
+Right! Show them our strength to the full!
+@12.0
+Right, the \#0267 unit is beaten! How goes the battle?!
+@12.1
+Apart from Lord \#0138 having a hard time, our side is pushing!
+@12.2
+But the \#113B force on Mt. Matsuo has not moved at all.
+@12.3
+\#013B! Sitting on the fence at a time like this!!
+@12.4
+Right! Then we support the \#1138 unit...
+@12.5
+Wait! The \#11FA army is heading this way! I can see the golden fan standard among them.
+@12.6
+What?! That is \#09FA's standard!
+@12.7
+To fight \#09FA, said to be the finest tactician of the age! My arm itches for it!
+@12.8
+\%03! It's not fair to keep the \#11FA force all to yourself. Let me have a share!
+@12.9
+Oh, \%0418B! Show us the strength the whole realm knows as the demon \#118B!
+@12.11
+We won't be outdone by the \#118B force either! Charge!!
+@12.13
+Ugh, fall back and regroup!
+@12.14
+\#013B has betrayed us! Our side is routed!
+@12.15
+What?! Curse you, \#013B!!
+@13.0
+I... I beat \#09FA! The \#09FA whom everyone feared...
+@13.1
+That's right! How goes the battle?!
+@13.2
+The \#113B force charged down on the \#11F3 force, and the enemy broke at once! A great victory for our side!!
+@15.0
+Everyone seems to be here. Then...
+@15.2
+From \%0404B... What could it be?
+@15.6
+This is serious... \%03, what do you think?
+@15.11
+Yes, I have decided! Our house will join \%0404B!
+@15.12
+Oh, a fine decision!
+@15.13
+Yes. I too have been sick of \#09FA's high-handedness.
+@15.14
+Everyone, we march!
+@15.15
+Our house will not move! That is my decision.
+@15.16
+All of you, take care not to act rashly.
+@15.17
+(I should give some advice here...)
+@15.19
+Urge neutrality
+@15.20
+\%03! I think we should join \%0404B!
+@15.21
+If we do not strike \#11FA now, \#09FA will push Lord \#0A06 further aside!
+@15.22
+Right! Understood!! Our house will join \%0404B!
+@15.24
+\%03! I think our house should stay put and watch how things go!
+@15.25
+If we side with neither and stay neutral, the house will come to no harm.
+@15.26
+If we side with one and lose, there is no guarantee the house will survive!
+@15.27
+Yes, your view makes sense. The \#11CA clan will side with neither and stay neutral!
+@15.29
+Everyone seems to be here. Then...
+@15.30
+My lord, the old lord is here.
+@15.31
+What! The old lord? Show him in at once!
+@15.32
+What! The old lord? Show him in at once!
+@15.34
+\%03, forgive the intrusion. Something unexpected has happened, and I wanted to hear your opinion.
+@15.35
+As you all know, \%041FA is in his home lands preparing to march against \#1074.
+@15.36
+In fact, it seems all this was arranged by Lord \#004B and Lord \#020E, a senior retainer of the \#1074 clan.
+@15.37
+What! Then...!
+@15.38
+What! Then...!
+@15.39
+Yes. \%0404B is raising troops against \#11FA, and \%0404B has sent us a call to arms.
+@15.40
+But I am torn. I came to talk it over with you before deciding.
+@15.42
+\%03, what is your view?
+@15.43
+(Now, which should I recommend...)
+@15.54
+I am glad I came after all. Then farewell.
+@16.4
+Yes. He asks that Lord \#09CA lead the vanguard of the campaign against \#11FA!
+@16.6
+We must strike down \#09FA at all costs and end this war!

@@ -1,0 +1,372 @@
+@0.6
+But \#09FA could not touch the \#12D1 clan, which had stayed neutral, and its strength was preserved intact.
+@4.1
+Mm. Thank you for coming to meet me.
+@4.2
+Yes, my lord.\nAnd... a letter has arrived from Lord \#004B.
+@4.7
+Though it had only stood by, the \#12D1 clan was blamed for marching as far as Sekigahara and came close to being abolished...
+@4.8
+But \#0107, who had secretly been in contact with \#09FA, gave up his own domain to \#0AD1, and the clan was barely allowed to survive.
+@4.9
+Though he had only watched events from Osaka, \#02D1, nominal commander of the Western Army, was severely called to account...
+@4.10
+The pleas of \#0107, who had secretly been in contact with \#09FA, were in vain, and the clan's domain was greatly reduced.
+@4.13
+Our clan has been transferred to Yamaguchi.
+@5.41
+Splendid! With a plan like this, I am satisfied too.
+@5.45
+Then this time we'll truly crush \#11FA!
+@6.8
+\%042D1! You have struck down \#09FA!
+@6.14
+As for the \#11FA clan, it has been decided to let \37F1 succeed and allow the house to survive.
+@7.0
+What's that?! A daimyo's mansion seems to be burning...
+@7.1
+What is this? ...A fire?!
+@7.2
+\%03, the house on fire is the residence of Lord \#027C!
+@7.3
+What on earth has happened?!
+@7.4
+What on earth is going on?!
+@7.5
+Lord \37F1 asked Lord \#0A7C's wife to enter the castle, but she flatly refused.
+@7.6
+Lord \37F1 grew angry and forced his way into the residence, whereupon she set the house on fire and took her own life!
+@7.8
+That fool \37F1! \#0A7C is known to adore his wife. In his fury he'll side with \#09FA.
+@7.9
+Nor did it end with the \#127C. Learning of the \#127C mansion affair, \#004B changed his policy on hostages...
+@7.10
+Instead of gathering hostages in the castle, he merely kept them under watch.
+@7.13
+\%03 and Lord \#093B! So you have come too!
+@7.14
+I came to stop you. That \#0836 has led you astray.
+@7.15
+Have you forgotten Lord \#0AD2's precept?\n"Seek only to preserve our lands;\n do not aspire to the realm."
+@7.16
+Hmm...
+@7.17
+Just because \#084B lacks support, making you supreme commander is going too far.
+@7.18
+With the schemer and the commander being different men, can the army be led well? This plan is as precarious as a stack of eggs.
+@7.19
+But things are already in motion. Nothing can be done about it now.
+@7.20
+Then at least manage things so that you do not fight \%041FA directly. I will see to the rest somehow.
+@7.22
+\%03! You have risen at last!
+@7.23
+\%03. I too have long been galled by \#09FA's high-handedness.
+@7.24
+We would like you, \%03, to serve as supreme commander...
+@7.25
+Yes, I have thought about it... But would Lord \#0A06 not be better as supreme commander?
+@7.26
+No, Lord \#0A06 is still a child. As second of the regents, you, \%03, are the right man to lead the whole army.
+@7.27
+(Hmm, it can't be helped...\n If I am supreme commander,\n I can avoid fighting \#09FA directly.)
+@7.28
+Very well... Then I humbly accept the post of supreme commander.
+@7.29
+\#09FA has turned back and begun marching west!
+@7.30
+\#09FA is advancing along the Tokaido with the daimyo of the Tokai region.
+@7.31
+What? He's leaving the \#1074 clan alone?
+@7.32
+No, \#09FA has left his second son \#0AFC at Utsunomiya in Shimotsuke to hold the \#1074 clan in check.
+@7.33
+Hmm... He leaves just enough troops that the \#1074 can't attack, and brings everything else to crush us...
+@7.34
+Surely he isn't just leaving the \#1074 forces alone?
+@7.35
+No, \#09FA has left his second son \#0AFC at Utsunomiya in Shimotsuke to hold the \#1074 clan in check.
+@7.36
+Leave just enough troops that the \#1074 can't attack, and strike us with everything else. So that's his aim...
+@7.37
+If \#09FA is coming, we must gather our full strength too. Let us head for \51E6!
+@7.38
+No, I think I shall stay here and protect Lord \#0A06.
+@7.39
+What! You will not lead the army in person?
+@7.40
+A supreme commander should not rush to the front lightly.
+@7.41
+Besides, if I go to \51E6 as well, who will protect Lord \#0A06?
+@7.42
+That is certainly true, but... the \#12D1 clan has the largest army among us.
+@7.43
+Whether the \#12D1 army takes part will greatly decide the battle. I beg you, I beg you, take the field!
+@7.45
+Take the field
+@7.46
+Stay at \41DE
+@7.48
+(For \%0404B, known for his arrogance,\n to beg this desperately...\n it must be serious.)
+@7.49
+\%03, it is \%0404B's earnest request. I think you should accept it.
+@7.50
+\%03, it is \%0404B's earnest request. Would you not accept it?
+@7.51
+Even so, I believe I should not leave \41DE.
+@7.52
+...It cannot be helped. We will scatter \#09FA on our own, you'll see.
+@7.53
+Yes. I shall await good news.
+@7.54
+Then, I take my leave.
+@7.55
+But this would be the last farewell with \#004B...
+@7.56
+Sekigahara opened with the clash of \#0267 and \#007D. At first the Western Army had the upper hand...
+@7.57
+But past noon, \#013B defected to the Eastern Army and attacked \#00A5...
+@7.58
+The \#10A5 fought bravely until \#08A5 took his own life... Flank broken, the West collapsed: a crushing Eastern victory.
+@7.59
+\#004B, who commanded the Western Army, escaped the field but was captured. The armies of the Western daimyo were all but wiped out...
+@7.61
+I never dreamed we would be beaten so easily...
+@7.62
+\%03, what will you do?
+@7.64
+Will you hold out in \41DE and fight \#11FA? Or return to your home province and declare you have no hostile intent?
+@7.65
+If we shut ourselves in \41DE, who would come to relieve us? A siege with no relief has no hope at all.
+@7.66
+Staying here will only make \%041FA suspect us of rebellion. We withdraw!
+@7.68
+If you insist this strongly, there is no helping it. I shall take the field.
+@7.69
+Oh, thank you! Victory is as good as ours!
+@7.70
+Then, we march!
+@8.0
+\%03, you have come at last! \#11FA's army is gathering at \51E7.
+@8.1
+Then the decisive battle will be somewhere around Sekigahara...
+@8.3
+I owe the late Lord Taiko a debt I can never repay. Now is the time to repay it!
+@8.4
+\%03, Lord \#0167 and Lord \#0969 are blocking the Nakasendo and holding up the \#01FC army.
+@8.5
+\%04167, is it? Impressive. If we lose now, I could never face him.
+@8.6
+Where should we take up position...
+@8.7
+I believe Mount Nangu would be best.
+@8.8
+Oh, \%03, so you have come too.
+@8.9
+"So you have come"? Did I not tell you not to fight \%041FA?
+@8.10
+Once I had raised troops, there was no turning back. Now there is nothing for it but to fight \#09FA and win!
+@8.11
+...Understood. But \#09FA is one of the finest generals of our time. Leave the vanguard to me.
+@8.13
+Month \M002 of \M001: at Sekigahara in Mino, the Eastern Army led by \#01FA clashed with the Western Army led by \#004B.
+@8.14
+This was the battle known to history as Sekigahara...
+@8.15
+Lord \#0036 is here!
+@8.18
+\%03, why do you not come down the mountain? The battle has already begun!
+@8.19
+A battle has its moment. I am waiting for that moment to ripen.
+@8.22
+...Understood. Then, excuse me.
+@8.23
+...Was that really all right?
+@8.24
+It is fine! What does a monk know of war!!
+@8.26
+One hour later...
+@8.28
+\%03, not yet? The battle began a good hour ago!
+@8.29
+The men are eating their lunch now. We will march when they finish!
+@8.30
+Another hour later...
+@8.31
+Lord \#0036 is...
+@8.32
+Bah, out of the way! \%03, are you still not ready?!
+@8.33
+The time has not yet come...
+@8.34
+(What should I do...)
+@8.35
+Order the advance
+@8.36
+Say they're eating
+@8.37
+All troops, forward! Our target is the \#01FA army at the foot of Mount Nangu!
+@8.38
+\%03! The moment has not yet come!
+@8.39
+If we wait for the moment until the end and never move, only defeat and scorn await! If I must perish, I'll perish fighting...
+@8.41
+This is no time for debate! Forward!!
+@8.43
+They are still eating lunch, so please wait.
+@8.44
+Th-that is a very long lunch...
+@8.45
+In the end, \#02D1 kept refusing \#0036, saying his men were eating lunch all day long...
+@8.46
+Later generations mocked this as "the Councillor's empty lunch"...
+@8.47
+Past noon, \#013B defected to the Eastern Army and attacked \#00A5...
+@12.0
+I... I have beaten \#09FA! The \#09FA whom everyone feared...
+@12.1
+That's right! How goes the battle?!
+@12.2
+The \#113B forces have charged down at the \#1267 forces! A great victory for our side!!
+@12.5
+Our side is in full rout! It seems \#013B has betrayed us!!
+@12.13
+The daimyo who had sided with the \#1206 army were all but destroyed.
+@13.5
+Before the feats of \#07F1, \#007D and the rest, even \#01FA, master of half the realm, fell at last, aged \1006...
+@14.0
+It seems everyone is here. Then...
+@14.1
+My lord, Lord \#0036 has arrived.
+@14.2
+What, \%04036? Good, show him in.
+@14.4
+For many years \#0036 had served the \#12D1 clan as its diplomat monk.
+@14.5
+He was known for his insight into people, and even now, as a daimyo independent under the \#1206 regime, he stayed close to the \#12D1 clan.
+@14.6
+\%03, it has been a long time.
+@14.7
+\%03, thank you for coming so far. What brings you here?
+@14.8
+Have you heard the rumour of the \#1074 rebellion?
+@14.9
+They say \%041FA has resolved to put it down...
+@14.10
+Ah, you have heard. The time has come for your house to make its fortune.
+@14.11
+Make our fortune? What do you mean?
+@14.12
+In truth, this whole affair is unfolding exactly as Lord \#004B and Lord \#020E wrote it.
+@14.13
+What! Then you mean...
+@14.14
+Yes. \%0404B is gathering allies to raise troops against \#11FA.
+@14.15
+But \%0404B has a reputation for arrogance, so he cannot serve as supreme commander.
+@14.16
+So he asks that you, \%03, second of the Five Regents, become supreme commander.
+@14.17
+Me, supreme commander?! Hmm...
+@14.19
+Accept command
+@14.21
+...Very well! Our house will join \%0404B!
+@14.22
+Oh, a fine decision!
+@14.23
+Yes. I too have been galled by \#09FA's tyranny.
+@14.24
+Everyone, we march!
+@14.25
+...No, I will stay out of it.
+@14.26
+\%03! You would let slip a once-in-a-thousand-years chance to command the realm?!
+@14.27
+It is the precept of my grandfather, Lord \#0AD2:\n"Seek only to preserve our lands;\n do not aspire to the realm."
+@14.28
+Besides, my two uncles who supported me, Lord \#0109 and Lord \#013A, are gone now. I will not cross dangerous bridges.
+@14.29
+Hmm... If it is Lord \#0AD2's precept, it can't be helped. Then I take my leave.
+@14.30
+(\%042D1 seems troubled.\n I had better give him advice...)
+@14.31
+(The old lord seems troubled.\n I had better give him advice...)
+@14.33
+Urge neutrality
+@14.34
+\%03! I too agree with \%04036.
+@14.35
+If we strike \#11FA now, you, \%03, will be the first of the regents. I think it a real chance!
+@14.36
+Understood!! Our house will join \%0404B!
+@14.37
+\%03! I too agree with \%04036.
+@14.38
+If we strike \#11FA now, you, \%03, will be the first of the regents. I believe it is a real chance!
+@14.39
+Good! Very well!! Our house will join \%0404B!
+@14.43
+\%03! I believe our house should not move but watch how things go!
+@14.44
+And why is that?
+@14.45
+Have you forgotten Lord \#0AD2's precept?\n"Seek only to preserve our lands;\n do not aspire to the realm."
+@14.46
+If we side with neither and stay neutral, the house will come to no harm...
+@14.47
+But if we side with one and they lose, there is no guarantee the house survives.
+@14.48
+Oh! So it is! How careless of me.
+@14.49
+\%03! I believe our house should not move but watch how things go!
+@14.50
+Oh? And why is that?
+@14.51
+Have you forgotten Lord \#0AD2's precept?\n"Seek only to preserve our lands;\n do not aspire to the realm."
+@14.52
+If we side with neither and stay neutral, the house will come to no harm.
+@14.53
+But if we side with one and they lose, there is no guarantee the house survives!
+@14.54
+Oh! So it is! How careless of me.
+@14.55
+The \#12D1 clan will side with neither and remain neutral! Forgive me, \%03...
+@14.58
+It seems everyone is here. Then...
+@14.59
+My lord, the old lord has arrived.
+@14.60
+What! The old lord? Show him in at once!
+@14.61
+What! The old lord? Show him in at once!
+@14.63
+\%03, sorry to intrude. Something unexpected has happened, and I came to hear your opinion.
+@14.64
+As you all know, \%041FA is preparing in his domain to march against the \#1074.
+@14.65
+In truth, it seems all this was arranged by Lord \#004B and Lord \#020E, a senior retainer of the \#1074.
+@14.66
+What! Then...
+@14.67
+What! Then...
+@14.68
+Yes. \%0404B will raise troops against \#11FA. But \%0404B is known for his arrogance and cannot serve as supreme commander.
+@14.69
+So he asked me, the second of the Five Regents, to become supreme commander.
+@14.70
+But I am torn. That is why I came to see you.
+@14.72
+\%03, you must have your own view. Speak freely.
+@14.73
+(Now, which should I recommend...)
+@14.79
+Oh, you have made a fine decision!
+@14.88
+The \#12D1 clan will side with neither and remain neutral.
+@14.89
+I am glad I came after all. Farewell, then.
+@15.4
+Yes. And they ask Lord \#0AD1 to lead the vanguard in the campaign against \#11FA!
+@15.6
+Whatever it takes, we will strike down \#09FA and end this war!

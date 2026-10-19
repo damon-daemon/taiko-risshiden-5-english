@@ -10,9 +10,9 @@ The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9).** Menus, system text, names and most dialogue are in
-> English, but the story event scenes are still in Japanese. They will follow in a
-> later release.
+> **This is a beta.** All of the game's text is now in English, including the story
+> event scenes, but the event scenes have not been played through much yet. Expect
+> text that overflows its window, odd line breaks or untested scenes.
 
 This repository contains the English text and the tools that build the patch.
 It does **not** contain the game, any of its data, or the Japanese script — you need
@@ -38,15 +38,13 @@ your own copy of the game.
 - About 1,200 officer and character names, romanised (names shared with *Nobunaga's
   Ambition DS 2* use the same spelling), plus towns, castles, provinces, items, titles,
   ranks and missions
+- All story event scenes: the opening, tutorials, career and historical events
+  (about 55,000 lines of event-script dialogue, narration and choices)
 - Scenario titles and introductions
 - Graphics: main-menu cards, banners, buttons and labels, redrawn at build time with an
   original English font
 - A proportional English font with word wrap, and longer message lines
 - **English name entry**: new officers are named with a letter grid (A–Z, a–z, 0–9)
-
-**Not yet translated:** the story event scenes (opening, tutorials and historical
-events), which are written into the game's event scripts. During these scenes you
-will see Japanese text, sometimes mixed with English names and words.
 
 Long names and labels are shortened where the game's boxes are too small.
 
@@ -102,9 +100,11 @@ README.txt. The disc image itself is never packaged.
 | `tl/ui.txt`, `tl/elfstr.txt` | English for strings in the game program, by index or address |
 | `tl/tables/` | English for the program's name tables (towns, items, offices, ...) |
 | `tl/names_persons.json`, `tl/names_pool.txt` | English officer and character names |
+| `tl/ev/NNN.txt`, `tl/ev/names.txt` | English for the event scripts (TAI5DATA entry NNN), by script and string number; event-only names |
 | `tl/scenarios.txt`, `tl/menu.txt`, `tl/gfx.txt` | Scenario titles and intros; text drawn into graphics |
 | `tools/setup.py`, `tools/build.py` | Create `script/`; build the patched disc and the patch |
 | `tools/tl.py` | Validates and word-wraps translations (`apply`, `show`, `stats`) |
+| `tools/evscript.py`, `tools/evtl.py` | Event-script format (parse and rebuild); event translation helper (`show`, `apply`, `stats`) |
 | `tools/iso.py`, `datafile.py`, `msgfile.py`, `msgscript.py`, `text.py` | Disc image, archive and message formats |
 | `tools/vwf.py`, `latinfont.py`, `msgwindow.py`, `msgbuf.py` | Proportional font, message window and buffer patches |
 | `tools/names.py`, `nameplate.py`, `nameentry.py` | English names in the game, speaker plates, English name entry |
@@ -115,8 +115,8 @@ README.txt. The disc image itself is never packaged.
 
 ## Known issues
 
-- **Story event scenes are still in Japanese** (see above). Some names in them are cut
-  short (e.g. "Tokichir").
+- **The story event scenes are new and barely play-tested.** Some lines may run past
+  their window or wrap oddly; reports with a screenshot are welcome.
 - **Thin vertical lines between letters when PCSX2 upscales.** At native resolution
   the text is clean. In PCSX2, open the game's Properties >
   Graphics, enable manual hardware fixes, and set **Round Sprite** to **Full**

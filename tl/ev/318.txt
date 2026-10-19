@@ -1,0 +1,426 @@
+@1.0
+The \#10C3 clan has built a castle at Sunomata!
+@2.0
+Well, time for bed.
+@2.1
+Oh, that's right, there's some sake. Let's have a cup...
+@2.2
+Glug glug glug...
+@2.3
+Ahh, delicious... Let's have another.
+@2.5
+My lord, Lord \#01C7 requests an audience...
+@2.6
+Ugh, it reeks of sake...
+@2.7
+Zzzzzzz... Hnnnnnnk...
+@2.8
+(He's been drinking too much again...)
+@2.9
+My lord, my lord!
+@2.10
+Mmmh... mumble mumble...
+@2.11
+My lord, my lord! Please wake up! My lord!
+@2.12
+......Yaaawn. What is it? You're noisy. It goes right through my head.
+@2.13
+My lord, Lord \#01C7 requests an audience.
+@2.14
+...I'm not feeling well today. Tell him to come back another time.
+@2.15
+That I cannot do.
+@2.17
+What's this, barging in uninvited? How rude!
+@2.18
+That smell... You seem to have drunk a good deal.
+@2.19
+You must know that \#00C3 is using Sunomata as a foothold and watching Mino like a tiger.
+@2.20
+And yet you neglect the government and drown yourself in sake! What is the meaning of this!?
+@2.21
+As lord of Mino, you must show more sense of your duty!
+@2.22
+At this rate, \#08C3 will take Mino from you!
+@2.23
+Bah, be quiet!
+@2.24
+I drink to forget my worries about that nuisance, the \#10C3.
+@2.25
+If you lot did your jobs properly, the \#10C3 would never get a chance to eye Mino...
+@2.26
+And you dare blame me with that clever, loyal face of yours! I won't stand for it!
+@2.27
+I don't mean to blame you! I only ask that you mend your ways, nothing more!
+@2.28
+If you just sit idle, this \51E6 too will fall into \#10C3 hands!
+@2.29
+Hmph. However many troops \#08C3 brings, \51E6 is a famous impregnable castle. It will not fall.
+@2.30
+...Is that so? Do not forget those words.
+@2.31
+Get out, you insolent man!
+@2.32
+He's gone... What a nuisance.
+@2.34
+Oh, \%03. What is it?
+@2.35
+The old lord has been drinking too much lately and shows no interest in government. I just tried to admonish him...
+@2.36
+And from the look of you, it didn't go well.
+@2.37
+No. At this rate, Mino will fall to the \#10C3.
+@2.38
+I've decided to resort to somewhat rough measures. I would like your help.
+@2.39
+What are you planning!?
+@2.40
+...I will seize \51E6. Of course, once I've admonished the old lord, I'll give it back.
+@2.42
+I will take all the blame. Your name will not come up, so rest easy.
+@2.43
+Yes, knowing you, I'm not worried. What do you need?
+@2.44
+Yes, I'd like to borrow a few soldiers.
+@2.45
+...Very well.
+@2.46
+Thank you, sir.
+@2.47
+\%03, don't get yourself killed.
+@2.48
+I won't. Now, farewell!
+@2.49
+Lord \#0FFE, Lord \#01C7 has left the clan!
+@2.50
+Left the clan... What on earth happened!?
+@2.51
+Left the clan... What on earth happened!?
+@2.52
+The truth is, until a short while ago this castle had been seized by Lord \#11C7.
+@2.53
+What! I never noticed a thing.
+@2.54
+What!? I never noticed a thing.
+@2.55
+He slipped in with a handful of men and took it in no time, so hardly anyone noticed.
+@2.56
+Lord \#11C7 says he did the outrageous thing of seizing the castle to admonish the old lord...
+@2.57
+They say he explained at length to the old lord how the \#1142 clan is in danger.
+@2.58
+A little while ago, Lord \#11C7 simply handed back the castle and left the clan.
+@2.59
+Giving the castle back to the old lord and then leaving... But the \#1142 have lost a valuable man.
+@2.60
+Giving the castle back to the old lord and then leaving... But the \#1142 have lost a valuable man.
+@2.61
+Lord \#0FFE, grave news! Lord \#01C7 has seized \51E6!
+@2.62
+Wh-what!? Rebellion! And the old lord!?
+@2.63
+Wh-what!? Rebellion! And the old lord!?
+@2.64
+Yes, sir, the old lord is unharmed.
+@2.65
+You see, Lord \#11C7 says he did the outrageous thing of seizing the castle to admonish the old lord...
+@2.67
+A little while ago, Lord \#11C7 simply handed back \51E6 and vanished.
+@3.0
+Well, time for bed soon.
+@3.1
+Sake before bed is the best... Let's start with a cup...
+@3.4
+My lord, you are drinking too much. Please, in moderation.
+@3.5
+Wh-what! \#01C7! Why are you here! Guards! Guards!!
+@3.6
+It's no use. This castle is already in my hands.
+@3.7
+Hm... rebellion?
+@3.8
+No. I seized this castle to admonish you, my lord.
+@3.10
+A castle is only a castle when men defend it. \51E6 may be a famous impregnable castle, but with guards this lax...
+@3.11
+When those above grow slack, those below grow slack too. I beg you to be more careful.
+@3.12
+Grrrrr...
+@3.13
+Whatever my reasons, I am a traitor who seized his lord's castle. Ashamed of my crime, I will leave the clan.
+@3.14
+I return \51E6 to you. Farewell!
+@3.16
+I see... And what of \#09C7?
+@3.17
+Yes. Lord \#11C7 explained at length to the old lord how the \#1142 clan is in danger...
+@3.18
+Then he handed back \51E6 and left the clan.
+@3.19
+I see. I hope \#09C7's admonition opens our lord's eyes...
+@4.0
+But that \#09C7, seizing \51E6... My honour is ruined!
+@4.1
+I just can't get over it... What shall I do with him?
+@4.2
+\%03, what is the matter?
+@4.3
+Well, I was just thinking what to do about \#09C7.
+@4.4
+\%03, I have an idea. Leave it to me. I'll make sure \#09C7 pays for this.
+@4.5
+Take revenge on \#09C7
+@4.6
+Forget revenge
+@4.7
+Right, I'll leave it to you. Make sure you get revenge on \#09C7.
+@4.8
+Yes, sir. Understood.
+@4.9
+No, let's not after all. Losing my head when my blood is up is a bad habit of mine.
+@4.10
+When I think it over, what \#09C7 said makes sense.
+@4.11
+From now on, I'll put more effort into governing.
+@5.0
+\#09C7, it's me. \#0942.
+@5.2
+Oh, you still call me your lord!
+@5.3
+Forgive me, \#09C7. I was a fool. I know I lose my head when my blood is up. It's a bad habit.
+@5.4
+Your desperate admonition finally made me see. From now on I'll work at governing, and drink as little as I can.
+@5.5
+Won't you come back to me to protect Mino? I need your strength.
+@5.6
+My lord! I am a fortunate man. For Mino and for you, use my strength however you will!
+@5.7
+Good! I'm counting on you, \#09C7!!
+@6.0
+Report! The \#10C3 army is trying to build a castle at Sunomata!
+@6.1
+What! They're building a castle at Sunomata! True, if they take that place, \51E6 will be in danger...
+@6.2
+But if we attack, we can drive them off at once. What are you panicking for?
+@6.3
+They're building a castle at Sunomata!? True, if they take that place, \51E6 will be in danger...
+@6.4
+But if we attack, we can drive them off at once. What are you panicking for?
+@6.5
+Well... the castle is almost finished!
+@6.6
+What!! Why didn't anyone notice before it got that far!
+@6.7
+Why didn't anyone notice until now!
+@6.8
+It seems the enemy built the castle somewhere upstream, took it apart, made rafts of the timber, floated them down the river and put it back together at Sunomata!
+@6.9
+Hmm, so there was a trick like that! It seems the enemy has someone with a sharp mind!
+@6.10
+...So there was a trick like that! It seems the enemy has someone with a sharp mind.
+@6.12
+There's no time to waste. We march at once! Gather the troops!!
+@6.13
+Ah, \#07FE. You heard. We march at once! You come too.
+@6.15
+\%03! The \#10C3 army has built a castle at Sunomata!
+@6.16
+What!! Why didn't anyone notice!
+@6.18
+Well... the castle was built in a single night.
+@6.19
+In one night? That's absurd...
+@6.20
+It seems the enemy built the castle somewhere upstream, took it apart, made rafts of the timber, floated them down the river and rebuilt it at Sunomata!
+@6.23
+The old lord attacked, but was driven off by the enemy garrison and fled... In the end the castle was finished.
+@6.24
+I see. Thank you for the report.
+@7.0
+\%03, \#00C3 is preparing to attack \51E6!
+@7.1
+What! Damn that \#08C3...
+@7.2
+I can't stay here. I must hurry to the castle!
+@7.3
+As you've heard, the \#10C3 army is preparing to attack this \51E6.
+@7.4
+But this \51E6 is a famous castle built by my grandfather, the lay monk \#0944. It will not fall easily.
+@7.5
+Then you intend to hold out in the castle?
+@7.6
+Yes. The \#10C3 clan has more troops than we do. If we sally out and lose men, it will be the death of us.
+@7.8
+There's no telling when \#08C3 will attack. Everyone, stay inside the castle!
+@7.9
+We must send reinforcements to \51E6. I'd better not go far...
+@8.0
+My lord! About \#01C7, it went well!
+@8.1
+We got some thugs together and attacked \#09C7's hermitage, and he fled, perhaps out of fear.
+@8.2
+Now he'll never come back to \61EC.
+@8.3
+I see! You've cheered me up! Hahaha!
+@8.4
+Lord \#01C7, who left our clan, has been taken into service by the \#10C3 clan!
+@8.5
+\#09C7, who admonished Lord \#0942 out of concern for the \#1142 clan, now serving the \#10C3... How ironic.
+@8.6
+Lord \#09C7, who admonished Lord \#0942 out of concern for the \#1142 clan, now serving the \#10C3... How ironic.
+@8.7
+Lord \#09C7, who admonished Lord \#0942 out of concern for the \#1142 clan, now serving the \#10C3... How ironic.
+@8.8
+Perhaps I too should think about where I stand...
+@9.0
+With the \#10C3 army about to attack, this is no time to be out strolling.
+@10.0
+Good, the castle isn't finished yet.
+@10.1
+The castle isn't finished yet. We're in time!
+@10.2
+We can't let the \#10C3 build a base at Sunomata! Follow me!!
+@10.3
+Ngh, and we were so close... Half of you keep working! The other half, follow me and meet the enemy!
+@11.2
+Phew, it seems we drove the enemy off. That \#0205 is a man not to be underestimated...
+@11.3
+It looks like this castle was nearly finished. Let's just take it as it is!
+@11.4
+Shouldn't we pursue the enemy force?
+@11.5
+We sallied out in haste, so we're not at full strength. No sense chasing two hares. We should be content with taking the castle.
+@11.6
+We sallied out in haste, so we're not at full strength. No sense chasing two hares. We should be content with taking the castle.
+@11.7
+Month \1007 of year \1006: \#07FE attacked Sunomata and succeeded in seizing the castle under construction.
+@11.8
+Thus the \#1142 clan gained a strong base for holding \#00C3's ambitions in Mino in check.
+@11.10
+\%03, it seems \51E7 has been completed!
+@11.11
+What a disaster! To let them build a bridgehead for attacking Mino right under our noses...
+@12.0
+The \#10C3 army has surrounded this castle!
+@12.1
+They're not attacking right away... Are they preparing siege engines?
+@12.8
+Terrible news! All over the castle, men who suspect each other have started fighting among themselves!
+@12.9
+Damn, so this uproar is the work of the \#10C3!
+@12.10
+The \#10C3 army is pouring through the castle gate! Good luck!
+@12.11
+So they've come...
+@13.0
+Impossible... This \51E6, famed as the strongest castle in the land, fallen so easily...
+@13.1
+My lord, a letter calling for surrender has come from Lord \#00C3!
+@13.2
+What! What does he say? Read it!
+@13.3
+Yes, sir... well, but...
+@13.4
+Bah, give it here!
+@13.5
+The letter from \#00C3 read as follows.
+@13.6
+"The blood of \#0147, who murdered my father-in-law \#0144 and seized the headship, is about to die out.
+@13.7
+I, \#08C3, pity Lord \#0942's timidity and foolishness, and cannot bear to deliver judgement myself.
+@13.8
+If you throw down your arms and surrender, I will give you a pittance to live on. If you wish to live, surrender at once."
+@13.9
+Nngh, that \#08C3... How dare he say such things!!
+@13.10
+But, my lord, we are already like a carp on the chopping board... Please decide!
+@13.12
+Surrender
+@13.13
+Don't surrender
+@13.14
+Hmm, it can't be helped now. There's nothing for it but to surrender. I will go to Lord \#08C3.
+@13.16
+Dithering will get us nowhere. This is for the best.
+@13.17
+...As you wish, my lord.
+@13.19
+Oh, Lord \#0942. Coming yourself...
+@13.20
+The outcome is already decided. Wasting time sending envoys back and forth is surely not to your taste, Lord \#08C3.
+@13.21
+If you guarantee the lives of my men, I will surrender.
+@13.22
+...Hm, you're more capable than I thought. Very well, I guarantee your men's lives!
+@13.23
+I am most grateful...
+@13.24
+But given our history, I can't simply take you into my service.
+@13.25
+...I am prepared.
+@13.26
+My lord, please wait!
+@13.27
+\%03! Why are you here!
+@13.28
+I beg you! Lord \#0942 is my nephew.
+@13.29
+If you put Lord \#0942 to death, there will be no one left to pray for the \#1142 clan or for my father, \#0944.
+@13.30
+Aunt...
+@13.31
+Please, spare Lord \#0942's life at least...
+@13.32
+Hmm... ...Very well. For my father-in-law's sake and \#0444's, I spare your life!
+@13.33
+But! Even if I take you on, it will be for a pittance, quite literally. Is that acceptable?
+@13.36
+I am the one who ruined my house... I am prepared to bear anything.
+@13.37
+Then start again from scratch, as if reborn! In our \#10C3 clan, results are everything!
+@13.40
+I too have my pride as a warrior. I must decline.
+@13.41
+\%03, your nephew seems to take after you in stubbornness, at least. What an unfriendly answer.
+@13.42
+Then I banish you! Go down the Nagara River and leave for wherever you like!
+@13.44
+Guards! See Lord \#0942 out!
+@13.45
+Yes, sir. Now, this way.
+@13.46
+Nngh... One day I will wipe out this humiliation!
+@13.47
+Interesting! When that day comes, neither of us will hold back. I look forward to it!
+@13.48
+I will not surrender!
+@13.49
+B-but the battle is already...
+@13.50
+Then I'll go to \#08C3 as I am and be cut down with honour!
+@13.51
+\#08C3, at least I'll make you bear the shame of killing your nephew!
+@13.62
+The \#10C3 army has taken the keep! It's all over...
+@13.63
+What became of the old lord!?
+@13.64
+Yes, sir. The old lord surrendered to Lord \#08C3 early on, but was banished and went down the Nagara River!
+@13.65
+What... What should we do now...
+@13.66
+Lord \#00C3 says that those who served the \#1142 clan will be taken into his service as they are...
+@13.67
+Serve the \#10C3
+@13.68
+Leave service
+@13.69
+I see. That's more than I could hope for. I will serve the \#10C3 clan.
+@13.70
+\#07FE decided to serve the \#10C3 clan. Infamy rose by 15.
+@13.71
+No, switching to the \#10C3 now would be too unprincipled. I'll leave service.
+@13.72
+\#07FE left service.
+@13.73
+What! What became of the old lord!?

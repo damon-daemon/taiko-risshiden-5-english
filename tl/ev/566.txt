@@ -1,0 +1,114 @@
+@0.0
+Clatter
+@0.1
+Hm, who's there!
+@0.4
+Sir! I am a foot soldier named Iwamatsu Hachiya.
+@0.5
+What do you want...?
+@0.8
+Sir! We common soldiers have never seen you up close, old lord...
+@0.9
+You mean you sneaked in because you wanted to see me?
+@0.12
+Y-yes, sir!
+@0.13
+I see... Then come over here. You'll see me better up close.
+@0.14
+Hm? What is it?
+@0.19
+Gahh! Y-you scum, what are you doing!
+@0.22
+Heh...! By order of Lord \#0323, I have come for your life!
+@0.23
+What... Then you're an assassin of the \#1323 side...?
+@0.26
+\#0324, prepare to die!!
+@0.30
+Huff, huff... The job is done. I must flee before the pursuers come!
+@0.31
+Ugh... Like my father... I too am to be murdered off guard...
+@0.32
+Is the Matsudaira house... cursed...? Urgh!
+@0.33
+Takechiyo... forgive your worthless father.
+@0.34
+\#0324, daimyo of Mikawa, died at the hands of an assassin at only \1009...
+@0.37
+Gahh!
+@0.38
+Huff... huff... Y-you won't get away!
+@0.41
+Ugh... urgh.
+@0.42
+W-wait... Huff, huff...
+@0.43
+M-my lord! What has happened?!
+@0.44
+\%03, an assassin! Finish him off!
+@0.45
+Y-yes, sir!
+@0.50
+Huff... huff...
+@0.51
+My lord! Are you hurt?!
+@0.52
+I'm fine...
+@0.53
+Who on earth sent this assassin...
+@0.54
+\#0323.
+@0.55
+The \#1323...! Not content with taking Lord Takechiyo, they're after your life too, my lord!
+@0.56
+Such is this warring age.
+@0.57
+Even so, my lord... you drove off the villain splendidly.
+@0.59
+\#0324 drove off the assassin sent by \#0323, and his name rose for it.
+@1.0
+Now then, let the council begin.
+@1.1
+Old lord! Good news!
+@1.2
+What is it? What a racket!
+@1.3
+Sir! I am sorry... But there is good news.
+@1.4
+What has happened?
+@1.5
+Lord \#01B1, strategist of the \#106E clan, has taken the \#1323 side's Anjo Castle in Mikawa.
+@1.6
+What... Is that all?
+@1.7
+Not only that... The commander of Anjo Castle was \#0323's son Nobuhiro... and he has taken him alive!
+@1.8
+\#0323's son...?
+@1.9
+And Lord \#09B1 has offered the \#1323 clan an exchange of hostages.
+@1.10
+W-wait! That hostage... surely...
+@1.11
+Yes! It is Lord Takechiyo!
+@1.12
+Oh! Then... Takechiyo is coming back!
+@1.13
+B-but... won't we have to give him to the \#106E clan as a hostage all over again?
+@1.14
+No. Lord \#006E heard how the old lord slew the \#1323 assassin the other day and was deeply moved...
+@1.15
+...and he said it would be fine to return Lord Takechiyo to the \#1324 clan.
+@1.16
+Oh! Splendid! Old lord! Congratulations!
+@1.17
+Heaven be thanked!
+@1.18
+Then I will go and fetch young Lord Takechiyo at once.
+@1.24
+Father!
+@1.25
+Oh, Takechiyo! Welcome back! From now until your coming of age, study here in this castle!
+@1.27
+How truly wonderful.
+@1.28
+All of you, keep serving the \#1324 clan, for my sake and Takechiyo's!

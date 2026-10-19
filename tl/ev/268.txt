@@ -1,0 +1,124 @@
+@0.0
+\%03! Something terrible has happened!
+@0.1
+They say \#01D2's father, \#09D0, has been killed by \%20233.
+@0.2
+What! What happened? Tell me everything.
+@0.3
+Oh! What happened? Please tell me everything.
+@0.4
+Yes. It seems \%20233, fearing the \#11D2's power, was trying to submit to the \#11D2.
+@0.6
+But \#09D2 imposed the harsh terms of seizing his lands, and appealing to \#09D2's father, \#09D0, got him no good answer...
+@0.7
+Cornered, he finally drew his sword, threatened \#09D0, and tried to carry him off into \#1233 territory.
+@0.8
+\#09D2 and his men gave chase, but with \#0A33 using \#09D0 as a shield, they could do nothing...
+@0.9
+Just short of \#1233 land, \#09D2 at last ordered his gunners to fire, and shot \%04233 together with his own father.
+@0.10
+They say \%04233's body was put on display in the castle town.
+@0.11
+\#09D2... even to avenge his father, what a cruel thing to do...
+@0.12
+\#09D2... even to avenge his father, what a cruel thing to do...
+@0.13
+\%03, a letter has arrived from Lord \#015B.
+@0.14
+Let me see... ...Hmm, hmm.
+@0.15
+My lord, what does Lord \#115B say?
+@0.16
+Mm. He says the \#11D2's conduct is unforgivable, and so he wishes to join forces to oppose the \#11D2.
+@0.17
+I see, a proposal of alliance. And how will you reply?
+@0.18
+Of course I'll accept! Write a reply to Lord \#115B.
+@2.0
+Right, we have the numbers! Men, attack!
+@2.1
+Ohhh!
+@3.0
+Report! The \#11D2 army is in flight!
+@3.1
+Good! It was a hard fight, but victory is ours!
+@3.2
+Now the \#11D2 will keep quiet for a while.
+@3.3
+Mm. Still, we mustn't let our guard down.
+@3.4
+In \M001, \#0023 defeated \#01D2 in a field battle.
+@3.5
+\#09D2, called the One-Eyed Dragon, the rising star of Oshu, lost his momentum and was forced into silence...
+@3.6
+Report! Our side is in full rout!
+@3.7
+Grr, we weren't strong enough...
+@3.8
+Hey, everyone! That must be \#0023 over there!
+@3.9
+You must be Lord \#0023. Your head is mine!
+@3.10
+Gwah... H-how bitter...
+@3.11
+In \M001, \#0023 was defeated by \#01D2 in a field battle.
+@3.12
+\#0023 was slain, and the \#1023 house was destroyed. \#0023 was \1009...
+@3.16
+Kill this one too!
+@3.19
+\#0023 was slain, and \#07FE shared his lord's fate. \#07FE was \1009...
+@3.20
+The \#1023 house was destroyed, and the name of the One-Eyed Dragon \#09D2 spread across the realm...
+@4.0
+Report! Our army has the upper hand!
+@4.1
+Good, we're after \#09D2's head! Don't let him escape!
+@4.2
+My lord! A message from Lord \#115B: there is unrest in his lands, so he is withdrawing!
+@4.3
+What! Just when we had the perfect chance to take \#09D2's head!
+@4.4
+But without Lord \#115B's help, we'll be the ones at a disadvantage.
+@4.5
+Hmm, it's galling, but we withdraw too. Fall back!
+@4.6
+Report! Our army is losing!
+@4.7
+Why? We had the greater numbers...
+@4.9
+Hmm, it can't be helped. We withdraw too. Fall back!
+@5.0
+Now, let us begin the council.
+@5.1
+Grave news! We hear the \#11D2 army is marching on us!
+@5.2
+Is that true?! So \#09D2 means to settle things with us at last!
+@5.3
+We can't let the \#11D2 push any further south. Everyone, prepare to march!
+@6.0
+Lord \#07FE, \#07F0 has raised troops to attack \51E7 Castle!
+@6.8
+Soon after his father \#09D0's violent death, \#09D2 raised troops against \51E7 Castle in a battle of vengeance.
+@6.11
+Then \#00C7 of the \#11D2 house charged into the enemy; \#09D2 escaped danger, but \#08C7 was killed.
+@6.12
+Both armies suffered heavy losses until night fell, when \#115B withdrew on news of unrest in his lands.
+@6.13
+The \#1023 army was forced to withdraw as well and could not destroy the \#11D2 army.
+@6.15
+I see. It's a pity \#09D2 got away, but above all, I'm glad the old lord is safe.
+@6.16
+I see. It's a pity \#09D2 got away, but above all, I'm so glad the old lord is safe.
+@6.17
+It seems everyone is here. Let us begin the council.
+@6.18
+Grave news! \#01D2 has raised troops to attack \51E7 Castle!
+@6.19
+What! So \#09D2 means to fight a battle of vengeance for his father!
+@6.20
+What shall we do, \%04023?
+@6.21
+Mm. We'll strike them down before they reach \51E6!
+@6.23
+Ask Lord \#115B for reinforcements too.

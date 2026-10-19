@@ -1,0 +1,60 @@
+@0.0
+Yes, I've had a fine idea. Why not give my lord a little surprise...?
+@0.1
+\&01, I have a request.
+@0.2
+What is it, all of a sudden? Not another impossible demand, I hope.
+@0.3
+The truth is, I wish to change my name.
+@0.4
+What, change your name? What do you mean?
+@0.5
+Thanks to your great favour, I now draw a stipend from the Uesugi, but I was born a Maeda.
+@0.6
+Hmm, and?
+@0.7
+Having left the Maeda, it's not right for me to keep calling myself "Maeda".
+@0.8
+Oh? So you'd change your family name. To what?
+@0.9
+How about the family name "Kokuzoin"?
+@0.10
+Wh-what!? Kokuzoin? What does that mean?
+@0.11
+It means nothing in particular. And I'll change my given name to "Kotsunosai" at the same time.
+@0.12
+What!? "Kotsunosai"? H-how do you even read that?
+@0.13
+"Hyottosai", my lord.
+@0.14
+Wh-what is that name! It makes no sense! Are you mocking me?
+@0.15
+Not at all. It's purely out of deference to the Maeda and loyalty to the Uesugi...
+@0.16
+I-I won't allow it! Such a renaming...! I can't allow it!
+@0.21
+Even if you won't allow it... there's no going back. Well, I take my leave!
+@0.22
+Ah, hey, wait! Wait!
+@0.23
+He's left his lord behind and gone... Honestly, what a trial these eccentrics are.
+@0.24
+Well, that wild horse won't listen even if I stop him... I'll just let him do as he likes.
+@0.25
+Still, "Kokuzoin Hyottosai"... Wahahaha! What a bizarre name!
+@0.26
+Hahahaha! My lord was startled too. His face was like a pigeon hit by a peashooter.
+@0.27
+Well then! Shall I live on as "Kokuzoin Kotsunosai"!
+@0.28
+Be Kokuzoin Kotsunosai
+@0.29
+Go back to Maeda Keiji
+@0.30
+Mm. I have no regrets!
+@0.31
+Maeda Keiji changed his name to "Kokuzoin Kotsunosai".
+@0.36
+Well, playing a prank on my lord will do for now...
+@0.37
+No, I'd better not after all. There's no point troubling my lord with pranks.

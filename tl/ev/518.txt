@@ -1,0 +1,226 @@
+@2.21
+\#09FC, I give you an army of your own! Take the Nakasendo to Ogaki! And do not be late!
+@3.0
+I must hurry to Father...
+@3.1
+My lord says he will not see Lord \#09FC. Please leave.
+@3.3
+What can I do to calm Father's anger...?
+@3.4
+Lord \#09FC, thanks to the pleading of your house's retainers, you may see him.
+@3.5
+I will come at once.
+@3.6
+Father, I am truly sorry!
+@3.7
+You fool!
+@3.8
+You are the very picture of a man who cannot see the forest for the trees!
+@3.9
+By rights I should order you to commit seppuku, but for the sake of those who begged for you, I will let you off.
+@5.0
+Well, we have reached \41DF.
+@5.1
+Yes. So far the march goes smoothly.
+@5.2
+However, we hear that \#0167 of \41E0 has sided with \#084B.
+@5.3
+Even if we pass \41E0 by, I doubt \#1167 would dare lay a hand on us.
+@5.4
+No. This march is not only about reaching Ogaki. We are also to hold down the provinces along the way.
+@5.5
+Just so. If we leave \41E0 alone, he may well join hands with \#1074 and make trouble. What to do...
+@5.6
+Why not first ask him to submit?
+@5.7
+I hear \#0167 has a keen nose for profit. When he sees our army, he may change his mind.
+@5.8
+True. Very well, I will meet \#0167.
+@5.9
+\#0167 agreed to meet \#09FC, and the talks were held at a nearby temple.
+@5.10
+I am \#0167.
+@5.11
+Thank you for coming. To the point: I would like you to surrender \41E0.
+@5.12
+Oh? \41E0...
+@5.13
+If you hand it over now, then when the \#11FA side wins the coming battle, the \#1167 clan will surely be treated leniently.
+@5.15
+\%04167, what do you say?
+@5.16
+Very well. I will hand over \41E0.
+@5.17
+Oh! Truly?!
+@5.18
+Only, we have been preparing for war, and the castle is in quite a mess. I need time to prepare for the handover.
+@5.20
+In two days I shall surely hand over the castle. I beg you to grant me that much time.
+@5.21
+Very well. Then the castle will be handed over in two days.
+@5.22
+Thank you. I am truly grateful. Now, by your leave.
+@5.23
+I am glad that went well.
+@5.25
+But... isn't this too good to be true?
+@5.26
+What do you mean?
+@5.27
+For him to agree so readily... I cannot help feeling there is something behind it.
+@5.28
+That is true...
+@5.29
+Then why not send someone to keep an eye on \41E0, just in case?
+@5.30
+Yes, let's do that. You there! Go and see what is happening at \41E0.
+@5.32
+I am back.
+@5.33
+Yes. What did you see?
+@5.34
+Lots of men are out, putting up palisades. It doesn't look at all like they're preparing to hand it over.
+@5.35
+Curse him! He tricked us!
+@5.36
+A letter has come from \#0167.
+@5.37
+It says: "Thanks to the time you granted, my preparations for the siege are complete. Do come and attack."
+@5.38
+What?! How far will he go to make a fool of me?! I won't stand for it! I'll crush him in one blow!
+@5.39
+\%041FC, please calm down.
+@5.40
+All forces advance! We attack \41E0!
+@6.0
+Father! I have just arrived!
+@6.1
+You fool! You are very late!
+@6.2
+I am truly sorry.
+@6.3
+We were just discussing whether to march on without you.
+@6.4
+\%041FA, please calm yourself.
+@6.5
+Just so. Quarrelling among family on the eve of battle hardly seems wise.
+@6.6
+Then, for the sake of you all, I will let the matter drop.
+@6.7
+Now, as to the situation: the enemy seems to be massing at \41DE... What shall we do?
+@7.0
+Lord \#07FE! \#004B and Lord \#01FA have fought a great battle at Sekigahara!
+@7.1
+Wh-what?! It's already over?!
+@7.2
+Yes. \#004B was easily beaten, and Lord \#01FA won a great victory!
+@7.3
+Wh... what have I done... I failed to take \41E0, and on top of that I was late for the decisive battle...
+@7.4
+\%041FC, for now, let us return to \41DE.
+@7.5
+I cannot face Father...
+@8.0
+Whoa, look at them all! Friend and foe alike, so many it's absurd!
+@8.1
+A message from Lord \#09FA: Lord \#09FC is to attack the \#004B unit.
+@8.2
+Yes! Our target is \#004B's head! Everyone, attack!
+@9.1
+After him! Don't let \#084B escape!
+@9.5
+Lord \#01FA's gunners are firing at \#013B!
+@9.7
+Hmph, \#013B... A turncoat. How unsightly.
+@9.13
+\%03, well done.
+@10.0
+The battle is swinging back and forth.
+@10.1
+It would shame a samurai to take such insolence in silence. I will make \#1167 pay for this!
+@10.2
+We should not let this siege take too long.
+@10.3
+Our purpose is not to take this castle. Please never forget that...
+@10.4
+Hm, I know that, but...
+@10.5
+Well, well, men of the \#11FA army! Working hard every single day, I see.
+@10.6
+Hmm! Is that \#0967 on that tower?!
+@10.7
+I must say, I expected an attack with a bit more bite. What a letdown.
+@10.9
+Come to think of it, they say Lord \#09FC's father is good in the field but utterly hopeless at sieges.
+@10.10
+Dear me, you have inherited something rather unfortunate from your father.
+@10.11
+Ha ha ha! What a laugh!
+@10.12
+Grr... You'll pay for that!
+@10.13
+\%041FC, calm down! It is a ruse.
+@10.14
+How can I stay calm after that?!
+@10.15
+...Well, if you mean to attack, I will take you on any time.
+@10.16
+(I must calm down and think. What should I do...?)
+@10.17
+Retreat
+@10.18
+Keep attacking \41E0
+@10.19
+How bitter... Truly bitter, but it can't be helped. We withdraw and head for Ogaki!
+@10.21
+(\#1167... One day I will pay you back for this!)
+@10.22
+I can't just back off now! Keep attacking!
+@10.24
+I cannot bear this humiliation! Keep attacking!
+@11.0
+\%041FC, there is nothing to gain from continuing this siege.
+@11.1
+Hmm, perhaps it is time...
+@11.2
+I too think we should withdraw.
+@11.3
+But simply pulling back like this is too galling. What to do...
+@11.4
+Then I suggest we use a stratagem.
+@11.5
+Oh? You have a plan?
+@11.6
+Yes. We send men out to cut the rice growing in their paddies.
+@11.7
+Yes. We send men out to uproot and carry off the crops from their fields.
+@11.8
+Then the castle troops will not be able to bear it and will surely sally out.
+@11.9
+We lure them out and then strike. That's the idea.
+@11.12
+Lure them out
+@11.14
+Good, we use that plan. Lift the siege for now! Prepare the plan!
+@11.16
+All is ready.
+@11.17
+Yes. Begin at once.
+@11.32
+Oh no! The vanguard have gone in too deep!
+@11.47
+Our side has taken heavy losses!
+@11.48
+Really, what a disgrace! We meant to lure them out, and we were the ones lured in!
+@11.49
+Attacking this castle now will only cost more days and more men. Please withdraw.
+@11.57
+No. The \#11FA army stooping to such tricks would only make us a laughing stock. Let's not.
+@11.59
+Keep attacking!
+@12.0
+\%041FC, a letter has come from the old lord.
+@12.1
+What, from Father! Let's see... Hm, "Hurry west", he says.
+@12.2
+It ends here. I think we should give up the siege.

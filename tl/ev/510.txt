@@ -1,0 +1,66 @@
+@0.1
+Lord \#07FE! The old lord is calling for you!
+@0.2
+What, the old lord...? I wonder what it is.
+@0.3
+What, the old lord...?
+@0.4
+The old lord has come to this castle. Please come to the castle at once.
+@0.5
+Hmm... Understood. If the old lord came all this way, it must be something very important...
+@0.6
+Oh! You've come, \#0FFE.
+@0.7
+My lord, what is it?
+@0.8
+Now, don't be so hasty. It's happy news... The truth is, it's a marriage proposal.
+@0.9
+A marriage...? For me?
+@0.10
+Mm, that's right... Come, \#09C8!
+@0.11
+Yes, sir...! Here!
+@0.12
+...Then, Lord \%041C8's daughter... for me...?
+@0.13
+The truth is, \%041CA... I have only a daughter now... I want you to marry into our house.
+@0.14
+I ask it of you too... The Tachibana are a great house, and I don't want it to die out.
+@0.15
+My other adopted son has inherited my birth house, the Bekki... There's no one to carry on the Tachibana name...
+@0.16
+My daughter \#043F is a fine girl. I once even thought of handing her the headship, but that wouldn't do...
+@0.17
+So I thought of adopting a son-in-law... And the one I wanted was you.
+@0.18
+Sir! I'm deeply honoured.
+@0.19
+Your father, \#01B7, has already agreed to this.
+@0.21
+Come, \#043F! Greet him too!
+@0.22
+Yes! Lord \#09CA, I'm pleased to meet you.
+@0.23
+I raised her like a boy since she was little, so she's an odd girl who likes to wear armour...
+@0.24
+As you see, she looks like a boy, but once she has a husband, her tomboy ways should settle down.
+@0.26
+Hahaha... Well, \#09CA? Would you rather not marry this wild filly?
+@0.28
+I'm so glad!
+@0.29
+Then it's settled. From now on, inherit the Tachibana house and call yourself Muneshige.
+@0.30
+Tachibana... Muneshige... Yes, sir! Understood.
+@0.31
+A perfect match, aren't they, \#09C8?
+@0.32
+Yes, sir! I'm overjoyed to gain such a reliable son-in-law.
+@0.33
+And so \#01CA married into the great Tachibana house and changed his name to Tachibana Muneshige.
+@0.38
+I must keep working hard, so as not to shame the great Tachibana name...
+@0.39
+Lord \#0FFE... I place myself in your hands, now and always.
+@0.40
+Mm. From now on, let's go through life together, hand in hand...

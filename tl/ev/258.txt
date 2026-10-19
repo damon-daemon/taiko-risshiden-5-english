@@ -1,0 +1,106 @@
+@0.0
+\%03, a messenger from Lord \#001D is waiting.
+@0.1
+Lord \#001D... Isn't he the younger brother of the late Shogun, Lord \#081F? What could he want with me...
+@0.4
+\%03, a gentleman named \37F0 is waiting.
+@0.5
+\%03? What could he want with me?
+@0.7
+I'm glad to see you well, \%03. And what brings you to me today?
+@0.8
+\37F0... one of the late Shogun Lord \#081F's attendants. What could he want with me?
+@0.25
+\%03, when Lord \#081D enters the capital, you will surely receive fitting rewards and rank.
+@0.44
+True, if we escort Lord \#081D to the capital and make him Shogun, the \#1017 house's fame will rise greatly.
+@0.45
+But... marching on the capital with a candidate for Shogun takes a great army and vast funds.
+@0.46
+Does the old lord really mean to march on the capital, I wonder?
+@1.0
+\%03, is the march on the capital not ready yet...?
+@1.1
+Sir, there is much to prepare before we march, so please wait a little longer.
+@1.2
+It can't be helped... I want to restore the shogunate soon. Can't you work a little harder?
+@1.3
+(He has no idea of my troubles, and says whatever he likes...)
+@1.4
+\%03, are the preparations for the march going well?
+@1.5
+Lord \#081D is waiting for the day with great impatience.
+@1.6
+\%03... Well, marching on the capital is a big affair. The preparations are slow going.
+@1.7
+The Ikko sect is strong here in Echizen. If others stir up an Ikko uprising, the ground could be cut from under us.
+@1.8
+I'd like to talk about the march after we've secured our own ground.
+@1.11
+Oh, you're Lord \#07FE, aren't you? By the way, does Lord \#0017 have any intention of marching on the capital?
+@1.13
+It's not my place to say...
+@1.14
+I want to go to the capital as soon as possible. Can nothing be done...?
+@1.18
+Even to my eyes, the lord of the \#1017 is unusually slow to act.
+@1.19
+It's not my place to say...
+@1.20
+Hmm, can nothing be done...
+@1.21
+He's gone... Lord \#081D seems quite impatient.
+@1.22
+What does our lord intend to do...
+@2.6
+Lord \#001D has entered the capital and made \51E5 his main castle!
+@3.0
+\%03, Lord \#001D has left our house!
+@3.1
+Wh-what! I've heard nothing about it!
+@3.2
+This letter was left at Lord \#081D's residence.
+@3.3
+A letter? Let's see...
+@3.4
+The letter thanked the house for all it had done and said he would always treat the \#1017 house well.
+@3.5
+Hmm... In short, he's given up on us as lacking the strength to march on the capital!
+@3.6
+\%03, it seems Lord \#000E, our go-between with Lord \#081D, went with him!
+@3.7
+What, damn that \#080E! He's forgotten how I took him in when he was a wanderer...
+@3.8
+This is a complete loss of face for me! Bah, how infuriating!
+@3.9
+\%03, please calm down. You could say we've got rid of a drain on our funds.
+@3.10
+Got rid of...?
+@3.11
+To take Lord \#081D to the capital and make him Shogun would take a great army and vast funds.
+@3.12
+Even for the \#1017 house, a daimyo house with five generations and a hundred years of history, it would be a heavy burden.
+@3.13
+If we think of it as being spared that burden, and getting this letter of favour besides, we've come out ahead...
+@3.14
+Mm, you have a point. Very well, the best thing is to forget this unpleasantness.
+@3.15
+\%03, Lord \#001D has left our house!
+@3.16
+What! What on earth happened!
+@3.17
+What! What on earth happened!
+@3.18
+Well... it seems Lord \#081D lost patience because the old lord never tried to march on the capital, and left.
+@3.19
+And Lord \#000E, our go-between with Lord \#081D, went with Lord \#081D and left our house.
+@3.20
+What! \%0400E has...
+@3.21
+I can't sit here. I must go after him!
+@3.22
+Lord \#081D leaving... I fear our house has let a big fish get away.
+@4.31
+\#0017 was betrayed by \#0012 of his own clan and died a violent death. Age \1007...
+@5.0
+\%03, we have taken \51E5! Lord \#001D will be delighted to hear we've reached the capital.

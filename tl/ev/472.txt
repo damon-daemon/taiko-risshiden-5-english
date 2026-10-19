@@ -1,0 +1,220 @@
+@0.1
+Oh, Lord \#17FE! We are just now talking about you!
+@0.2
+Welcome, welcome to you.
+@0.3
+Hm? If I am wrong, so sorry... You are Lord \#07FE, yes?
+@0.4
+Indeed, I am \#07FE...
+@0.5
+Oh, I knew it! We are just now talking about you!
+@0.6
+Talking about me?
+@0.7
+Forgive me, Lord \#17FE. The name of Lord \#17FE came up while Lord \#042F and I were talking.
+@0.8
+I see.
+@0.9
+Lord \#17FE, please look at this.
+@0.10
+What is this?
+@0.11
+This is called globe. It show all islands and continents of the world on a ball, you see.
+@0.12
+Hm, why draw them on a ball?
+@0.23
+And where is Japan?
+@0.31
+That means India.
+@0.32
+Oh, India is around this pointy peninsula, yes.
+@0.35
+"Nanban" is what Japan call us. We call our country Portugal.
+@0.36
+Portugal is about here, on this square peninsula. The town where I am born, Lisbon, is here.
+@0.37
+Japan is this island, so... it's the other side of the world! You sailed halfway round the world? Amazing!
+@0.38
+To come here, we are caught in wars, attacked by pirates... many things happen, yes.
+@0.39
+Lord \#17FE, does it not make you feel how vast the world is?
+@0.40
+When I saw this globe, I wanted to see foreign lands with my own eyes, and to trade with the whole wide world.
+@0.41
+That is what I thought. Just looking at this globe makes my dreams grow.
+@0.42
+Yes, I understand that feeling.
+@0.43
+Oh, so Lord \#17FE is just as Lord \#12AA said!
+@0.44
+As Lord \#12AA said...?
+@0.45
+Excuse me. To trade overseas, you need strong navy, yes.
+@0.46
+But going across the sea is very dangerous. Maybe you are shipwrecked on the way.
+@0.47
+We were talking about who might not fear such danger...
+@0.48
+...and we said there is no one but you, Lord \#17FE.
+@0.49
+...I would like to go beyond the sea too.
+@0.50
+Lord \#042F, how can I cross to foreign lands?
+@0.53
+Lady \#042E...?
+@0.55
+Oh, is that so!
+@2.2
+Ask her
+@2.9
+Good timing! Lord \#12AA is here too, yes.
+@2.10
+So you too came to hear about it, Lord \#17FE.
+@2.11
+Not like us: for Japan merchant to trade with foreign country, you must make deal with pirate chief, yes.
+@2.12
+And pirate alone cannot trade, so pirate must make deal with merchant house too.
+@2.13
+I see! When it comes to the sea, we borrow the strength of a pirate band.
+@2.14
+And we pirates, when it comes to trade, should borrow the strength of merchants.
+@2.15
+Yes, yes. But if you are not friends, you cannot trade together, you know.
+@2.16
+And to talk of foreign trade, you must have high enough position, yes.
+@2.17
+High enough position...?
+@2.19
+If you are pirate, you must be big pirate, the chief, or no good, yes.
+@2.20
+I am the head of \B07A.
+@2.21
+I'm the chief of \E079.
+@2.22
+Ohh, then you two just team up! Easy, yes.
+@2.23
+But there is other condition too. You need diplomatic papers, it seems.
+@2.28
+But you don't need to have them yourself. It is OK if the other side or your backed daimyo has them, they say.
+@2.30
+Any other conditions?
+@2.31
+You go overseas, so of course you need big ships, yes.
+@2.32
+Many many: about 50 large ships kept at your fort, that is needed too...
+@2.33
+Fifty large ships... That's a lot.
+@2.34
+Little bit hard, but foreign trade gives big return too, yes.
+@2.35
+Lady \#042E, thank you for this valuable advice.
+@2.36
+It's OK. You are \#042F's friend. And Lord \#12AA bought many many things from me, yes.
+@2.37
+Lord \#17FE, let us go overseas together one day.
+@2.39
+Not today.
+@4.0
+Chief, grave news! They say Lord \#07F2 has run off and gone over to \E07A!
+@4.1
+What?! Is that true? Has \#0FF2 really run off?!
+@4.2
+Yes, there is no doubt.
+@4.3
+What a disaster... The secret of building ironclads will surely leak out...
+@4.4
+What a disaster...
+@5.0
+So this is the land of \61EC... It's nothing like \41DF...
+@5.1
+And yet it is such a soothing land...
+@5.2
+So this is the land of \61EC... Truly, it's nothing like Japan...
+@5.4
+At last! At last I have come to \41DE!
+@6.0
+You must be Lord \#07FE.
+@6.1
+I am. And who are you?
+@6.2
+A nameless man... and the one who will take your life, Lord \#07FE!
+@6.14
+...\Z001... Forgive \#0FFE for dying here... If there is a next life, with you again...
+@6.15
+You let your guard down because you were at your base. That's what we were waiting for. Ha ha ha ha!
+@6.16
+Stop! Stooop! You won't lay another hand on the chief!
+@6.17
+Damn, so close...
+@6.18
+Y-you got lucky... But our grudge... heh heh heh... urgh...
+@6.19
+Chief, are you all right?
+@6.20
+I'm fine... But who sent him?
+@6.21
+About that: an urgent messenger just came from the old lord of the \#10C3, saying \E07A were after you, Chief.
+@6.22
+So I rushed here with a company of men.
+@6.23
+I see... Well, thank you for your trouble.
+@6.24
+And what else did the old lord of the \#10C3 say?
+@6.25
+He said "Strike \E07A."
+@6.26
+Yes. Even if not right away, we must prepare to strike \E07A.
+@6.27
+As you say. Then I'll go and clean up after the assassin. By your leave.
+@6.28
+I accept \E07A's challenge!
+@7.0
+Chief, Lord \#02AA, head of the Kadoya, is here to see you.
+@7.1
+Lord \#02AA, the head himself? All right, I'll see him.
+@7.2
+The head of the Kadoya? Hmm, what does he want? I'll see him anyway.
+@7.3
+Lord \#12AA, sorry to keep you waiting.
+@7.4
+I am delighted to see you as hale as ever, Lord \#17FE.
+@7.5
+A pleasure to meet you. I am \#02AA.
+@7.6
+I have come in the hope that we may be on close terms from now on.
+@7.7
+As a greeting, I have brought 100,000 kan. I humbly ask for your favour.
+@7.8
+Very well. The pleasure is mine.
+@7.9
+\;1FA's war funds rose by 100,000 kan.
+@7.10
+By the way, Lord \#17FE, do you know the Nanban man who has a shop in Sakai?
+@7.11
+You mean Lord \#042F? I know him.
+@7.12
+No, I don't.
+@7.13
+Is that so? I have learned a great deal from Lord \#042F.
+@7.15
+The world is vast. I learned that beyond the sea it is vaster than we can imagine.
+@7.17
+If you have the chance, Lord \#17FE, do go and hear what Lord \#042F has to say at the Nanban trading house in Sakai.
+@7.18
+Yes, I'll remember that.
+@7.19
+Then I will take my leave.
+@7.20
+Lord \#042F at the Nanban trading house in Sakai, eh...
+@8.0
+Right, now the Mishima fort is ours! The Seto Inland Sea is ours too!
+@9.0
+Right, now the Sumoto fort is ours!
+@14.0
+Chief, urgent news! They say \#07F1, chief of \E07A, has been assassinated by \#02A7!
+@14.1
+What?! Ataka Fuyuyasu assassinated?!
+@14.2
+In month \1007 of year \1006, \#07F1, chief of \E07A, was assassinated by \#02A7.
+@14.3
+The new chief of \E07A was \#0FF1's son, \#0825.

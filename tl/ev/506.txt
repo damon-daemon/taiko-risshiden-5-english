@@ -1,0 +1,364 @@
+@0.0
+Ah, \%03. Pardon the intrusion.
+@0.1
+\%03, what business brings you to a hovel like this?
+@0.2
+I heard you had left the \#1142 clan, \%03, and came running. \%03, will you not serve the \#10C3 clan?
+@0.4
+Lord \#08C3 thinks highly of you. You will surely be given an important post.
+@0.10
+Besides, would the lord of the \#10C3 call a man loyal who is lured into serving another house and draws his bow against his old master? Please leave.
+@0.11
+Hmm, you truly are a loyal man. But I won't give up. I'll come again.
+@1.0
+\%03, pardon me again!
+@1.1
+Phew, you are a persistent man.
+@1.2
+Ha ha ha! I won't give up until you nod your head, \%03.
+@1.4
+Now, today I'll tell you something I've been thinking over. It concerns your misfortune, \%03.
+@1.6
+Indeed. It is that you have not been blessed with a good master.
+@1.7
+Lord \#0142 would not even listen to your counsel. That you are here is the proof of it.
+@1.8
+If Lord \#0942 had mended his ways, he would have come to bring you back before anyone else.
+@1.10
+I was born a peasant. I know well how hard these times of war are on the peasants.
+@1.11
+To end their suffering, someone must end this age of war.
+@1.12
+Heaven gave you your talent for that purpose, \%03. You must not let it go to waste.
+@1.14
+Slam!
+@1.21
+Your fame has risen.
+@1.29
+That must be \#0942's doing. I seem to be quite disliked.
+@1.31
+(Now, what should I do...)
+@1.32
+Serve \#0A05
+@1.33
+Serve \#08C3
+@1.34
+Decline service
+@1.36
+Yue Yi was a man whom the great Zhuge Liang revered above all.
+@1.37
+Yue Yi was a famed general of China's Warring States. Serving King Zhao of the small northern state of Yan, he brought mighty Qi to the brink of ruin.
+@1.38
+When King Zhao died and King Hui, who disliked Yue Yi, took the throne, Yue Yi faced the danger of a purge.
+@1.40
+It is said that people laughed at King Hui for failing to make use of Yue Yi, but never blamed Yue Yi...
+@1.42
+You win, \%03. I will go to the \#10C3 clan.
+@1.44
+Please wait! I will go to the \#10C3 clan, but I will not serve Lord \#08C3.
+@1.45
+Wh-what do you mean?!
+@1.46
+They say a man of honour dies for the one who truly knows him. That I am willing to return to the world is thanks to you, \%03.
+@1.47
+Let me be your retainer, \%03. That is my condition for serving the \#10C3 clan.
+@1.48
+\%03! You would be content to serve under me?
+@1.49
+Yes. From today, I shall call you my lord.
+@1.50
+\%03... No, \#09C7, I am counting on you!
+@1.61
+Even so, I have no wish to serve two masters. Please, take your leave.
+@1.62
+Hmm... Then it can't be helped. The next time we meet may be on the battlefield!
+@1.63
+Then, farewell!
+@2.0
+Yes, I must meet Lord \#0942 after all and speak my mind.
+@2.1
+I must see Lord \#0942.
+@2.2
+Hm? Who is it? Oh, it's \%03. Well? Will you have a drink too?
+@2.3
+My lord, I have come today because there is something I must tell you.
+@2.4
+...What is it? Speak.
+@2.5
+Then... The \#10C3 clan built a castle at Sunomata, and their aim is without doubt to attack Mino.
+@2.6
+Trouble may break out at any moment, yet you keep away from government and do nothing but drink...
+@2.7
+My lord, you are the master of Mino. Please be more aware of it.
+@2.8
+How dare you! So you too are one of those who call me a fool behind my back!
+@2.9
+Wha... I say this for your own good, my lord!
+@2.10
+Mock you behind your back? That is unjust!
+@2.11
+Enough! Silence, silence!
+@2.12
+I will not be silent! At this rate \#08C3 will take Mino from you!
+@2.13
+Hmph. As if the likes of \#08C3 could take this \51E6.
+@2.14
+However many troops he brings, I'll strike them down!
+@2.15
+You say \#08C3 cannot take this castle.
+@2.16
+As this castle is now, I could take it with a mere twenty men.
+@2.17
+How dare you! Try it if you can!
+@2.18
+...Then, excuse me.
+@2.19
+......
+@2.20
+It can't be helped. There's no choice but to use my last resort to make him see reason.
+@2.21
+Before that, I must report to \%0403A.
+@2.22
+Before that, I must go back and report to my lord.
+@3.0
+My lord, Lord Kyusaku is already inside the castle, pretending to be ill.
+@3.1
+And the plan is that he left his usual medicine with me and sent his people to fetch it. All in order?
+@3.2
+Yes. The fourteen men going with you have arrived and await your command.
+@3.3
+Good. Then the operation begins!
+@3.4
+\51E6, main gate
+@3.5
+Bang, bang!
+@3.6
+Hello! Hello! We are men of the \#11C7 house. Please let us in.
+@3.7
+What business do men of the \#11C7 house have here?
+@3.8
+We hear our lord's younger brother, Lord Kyusaku, has fallen ill... A messenger told us, so we have brought his medicine.
+@3.9
+Come to think of it, I did hear someone from some household was suffering from terrible diarrhoea.
+@3.10
+All right, I'll open the wicket gate. Hurry and deliver the medicine.
+@3.11
+Creeeak...
+@3.12
+Much obliged. Hm? What's that...
+@3.13
+Wh-what?
+@3.15
+Ugh...
+@3.17
+The back of my blade. Sorry, but sleep for a while.
+@3.18
+You men, secure the key points of the castle!
+@3.23
+Kyusaku! Where is Lord \#0942?
+@3.26
+Yes, he's in the lord's chamber.
+@3.27
+Good, I understand.
+@3.28
+\51E6, lord's chamber
+@3.29
+What a racket... It spoils the sake. Someone, come here!
+@3.30
+Yes, my lord!
+@3.31
+Go and find out what the noise is about!
+@3.33
+Disaster! It seems the \#10C3 army has broken into the castle town!
+@3.34
+Wh-what?! That's absurd!
+@3.35
+It is dangerous here. Please flee at once!
+@3.36
+It is \#01C7! I have come to admonish Lord \#0942!
+@3.37
+Grr... \#09C7! So you were in league with \#08C3!
+@3.38
+Wh-what... That is a misunderstanding!
+@3.39
+You traitor! I'll cut you down!
+@3.40
+Gah!
+@3.41
+The back of my blade. Rest assured.
+@3.42
+D-damn you, \#09C7... Taking your revenge by siding with \#08C3...
+@3.43
+I am not in league with the \#10C3 clan. The troops gathered in the town are to defend against \#08C3.
+@3.44
+As if I'd believe such a story!
+@3.45
+The other day, when I admonished you, I said this castle as it is now would not need even twenty men to take...
+@3.46
+And you answered, "Try it if you can." So today I did.
+@3.48
+Even the finest castle in the land is only as strong as those who defend it. I beg you, mend your ways.
+@3.49
+Hmph...
+@3.50
+(I'll give him a little time.)
+@3.51
+For a while, I will keep the castle in my charge. Now, excuse me.
+@3.52
+Phew... What now...
+@3.53
+Hm! Who's there?! Suspicious fellow!
+@3.58
+What are you saying? Is the enemy of my enemy not a friend?
+@3.60
+Don't say such scandalous things! I did not steal \51E6 from Lord \#0942!
+@3.61
+Wh-what?
+@3.63
+Now that the \#10C3 clan has its eye on Mino, even \51E6 could be lost through a moment's carelessness.
+@3.64
+If Lord \#0942 takes our feelings to heart and promises to mend his ways, I will return it.
+@3.66
+Hmm... I wonder if Lord \#0942 will understand that... I'll take my leave for today.
+@3.67
+They're on the move already... \#08C3 is not to be underestimated.
+@3.68
+Whatever it takes, I must open Lord \#0942's eyes and return \51E6 safely.
+@3.70
+H-how careless of me...
+@3.71
+At this rate Mino will... fall into \#10C3's hands...
+@3.72
+A \#10C3 spy! Diiie!!
+@3.74
+Gaaah...
+@3.75
+\#01C7 had boldly slipped into \51E6 to admonish his lord, \#0142...
+@3.76
+But he was cut down by the deranged \#0942 and died a pitiful death at the age of \1006.
+@3.77
+I must go to \51E6 and open Lord \#0942's eyes.
+@4.0
+Surely Lord \#0942 has cooled his head by now.
+@4.1
+\%03, Lord \#0942 says he wishes to see you.
+@4.2
+Oh, is that so? Then show him in here.
+@4.4
+\%03, you said you seized the castle to admonish me.
+@4.6
+Then I have heard your counsel. Return the castle to me at once.
+@4.7
+(What should I do...)
+@4.8
+What is it, \%03? A samurai does not go back on his word, does he?
+@4.9
+Understood. I will return the castle.
+@4.10
+And whatever the reason, I am a traitor who seized his lord's castle. Ashamed of my crime, I resign from service as of today.
+@4.11
+Mm. Granted.
+@4.12
+The rest is up to Lord \#0942...
+@4.13
+Lord \#0942 must have cooled his head by now. Shall I go back to Inabayama Castle?
+@4.14
+To have \51E6 taken while it was in my keeping... I cannot face Lord \#0942.
+@4.15
+I can never go back to the \#1142 clan. I'll have to live as a ronin...
+@5.0
+The \#10C3 clan built a castle at Sunomata; they are surely after Mino. I'd like to say "come if you dare", but...
+@5.1
+Our foe is \#00C3, who crushed \#006E's great army with a handful of men. He won't be easy.
+@5.2
+And... the greatest worry of all is Lord \#0942.
+@5.3
+Whatever one says, the greatest worry of all is Lord \#0942.
+@5.4
+The quality of the commander alone greatly changes the strength of the troops.
+@5.5
+Lord \#0942 never had much interest in government. I wonder how he is doing these days...
+@5.6
+I hear he is not only drifting further from government, but has lately been drinking too much.
+@5.7
+I can understand how Lord \#0942 feels, always compared with his father, Lord \#0947, and his grandfather, Lord \#0944, but...
+@5.8
+He must become more aware of himself as master of Mino.
+@5.9
+\%03. What is it?
+@5.10
+Yes. From their castle at Sunomata, it is clear that \#08C3 has his eye on Mino.
+@5.11
+With trouble brewing, I wondered how our commander, Lord \#0942, is doing.
+@5.12
+Well, you see... he is drifting ever further from government.
+@5.13
+Not only that, but lately there are banquets almost every day, and many lament that he drinks too much.
+@5.14
+I am one of them. The next time I go to Inabayama, I mean to give him a few words of warning.
+@5.15
+No, leave that to me. I will go to Inabayama now and admonish the lord.
+@5.16
+I see. Then I leave it to you. Whatever it takes, open Lord \#0942's eyes.
+@5.17
+At this rate, Mino will be taken by \#00C3.
+@5.19
+Lord \#0942's castle is \51E6.
+@6.0
+Oh, you're back, \%03. I've let myself in.
+@6.1
+\%03, thank you for coming.
+@6.2
+I hear you admonished the lord. How did it go?
+@6.3
+I must report to my lord.
+@6.4
+\%03, how did it go?
+@6.5
+I'm afraid...
+@6.6
+Hmm... What a problem...
+@6.7
+My lord, I have an idea. Please lend me your help.
+@6.8
+An idea? What do you intend to do?
+@6.9
+I will take my own men and seize \51E6.
+@6.10
+Wh-what?! \51E6?! Are you serious?!
+@6.11
+Of course I am serious. Needless to say, once he has been admonished, I will return it to the lord at once.
+@6.12
+Because of the lord's conduct, \51E6 is very poorly guarded now. With twenty men it can be taken.
+@6.13
+Hmm, that is bold beyond words...
+@6.14
+The \#10C3 clan will likely see this as a chance and send in spies. \%03, please guard the castle town.
+@6.15
+Very well. I hope this will open Lord \#0942's eyes.
+@6.16
+So do I.
+@6.17
+Now, there's one more thing to prepare.
+@6.18
+Kyusaku! Is Kyusaku here?
+@6.19
+Takenaka Kyusaku was \#01C7's younger brother.
+@6.22
+Yes, what is it?
+@6.23
+I want you to go to \51E6 and fall ill there.
+@6.26
+Huh? Fall ill?
+@6.27
+Yes. Then say that the medicine you always take is with me.
+@6.28
+This is for Mino, for the \#1142 clan, and needed to admonish Lord \#0942.
+@6.29
+Will you help me?
+@6.32
+...Yes, understood. I'll leave for \51E6 at once.
+@6.33
+Good. Now all that's left is to march into \51E6.
+@7.0
+I'll hold off on seeing Lord \#0942 for now.

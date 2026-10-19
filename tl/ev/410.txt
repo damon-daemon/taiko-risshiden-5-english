@@ -1,0 +1,104 @@
+@0.0
+The quickest way to make a name as a warrior... is to defeat a famous swordsman, surely...
+@0.1
+Right. First I need to find a swordsman. I'll ask someone.
+@0.2
+Hey there, miss. Does any famous swordsman live around here?
+@0.3
+Oh my, a handsome man! You're looking for a swordsman? Hee hee, all right, I'll tell you.
+@0.4
+The one I know is \#005F. They say he's the finest swordsman in the land, and has never lost in his life.
+@0.5
+You're in luck! \#005F lives near here.
+@0.7
+I hear \#005F is in \41DE.
+@0.8
+I see, that's good to hear. I'll go at once. Thank you, miss.
+@1.0
+Heh heh, you're \#005F! Have a bout with me!
+@1.1
+Who are you?
+@1.2
+The great swordsman \#00CB!
+@1.3
+Ha ha ha! Never heard of you.
+@1.4
+\%03! Have a bout with me!
+@1.5
+Why, it's \%03. What's the matter?
+@1.6
+Draw your sword! Are you afraid of losing?
+@1.7
+Heh, I see. You want to make a name by defeating me.
+@1.8
+Interesting! Go on, try and beat \#005F.
+@1.9
+Now, a fair fight!
+@1.10
+Oh, you have real talent. How about it, will you join the Itto-ryu?
+@1.11
+Join
+@1.12
+Don't join
+@1.13
+Heh, I see. Join the Itto-ryu and you'll grow stronger. Come visit any time.
+@1.14
+R-really? Please, take me as your student!
+@1.15
+Mm. There's a senior student called \#00CA. Learn techniques from him too.
+@1.16
+Yes. As a student of the Itto-ryu, I'll train hard.
+@2.0
+Master, please give me some training.
+@2.1
+Ah, \#08CB.
+@2.2
+Good timing. \#08CA is here too. I have something to tell you both.
+@2.4
+I've grown old. It's time I chose a successor.
+@2.5
+You have both reached full maturity, and either would make a fine successor.
+@2.6
+But my school does not need two successors.
+@2.7
+So for the right to succeed to the Itto-ryu, I want you two to fight a duel with real swords.
+@2.8
+You may lose your life. Well, will you do it?
+@2.9
+Just what I want. I could never lose to a junior student. Ha ha ha!
+@2.10
+Fight the duel
+@2.11
+Don't fight
+@2.12
+I see. A pity. Then \#08CA will be my successor.
+@2.13
+Ha ha ha! Off with you, loser!
+@2.14
+I have no objection.
+@2.15
+Mm, well said. Now the duel for the succession of the school begins.
+@2.16
+\#08CA, \#08CB! Step forward.
+@2.17
+Right, come at me, \#08CB. Don't hold back.
+@2.18
+Ugh, to lose... to a junior... What humiliation...
+@2.19
+It was a hair's breadth.
+@2.20
+A hair's breadth? Heh, not at all... It was... my complete defeat...
+@2.21
+Our skill may be equal, but your heart... was far greater... Ugh, farewell.
+@2.22
+Splendid, \#08CB. As proof that you are my successor, I give you this Kamewari Sword.
+@2.23
+Master... the way of the sword is harsh...
+@2.24
+Mm. Make this duel your food and train even harder.
+@2.25
+Now, let us give \#08CA a proper burial.
+@2.26
+Month \M002 of \M001... \#00CA ended his turbulent life, aged \1009.
+@2.27
+Month \M002 of \M001... \#00CB ended his turbulent life, aged \1009.

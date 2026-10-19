@@ -1,0 +1,766 @@
+@0.0
+The Kuki, a powerful family of Shima... Pirates active on the seas of Shima since the age of the Northern and Southern Courts.
+@0.1
+But in the age of war, the Shima families fought endlessly among themselves, and Sumitaka, head of the Kuki, was killed in the fighting...
+@0.2
+His younger brother, Uma-no-jo Yoshitaka, became head of the Kuki and vowed in his heart never to let the failing house fall...
+@0.3
+Brother, how bitter you must have been... I will restore the Kuki house!
+@0.4
+First I must make the \E079 I belong to my own...
+@0.5
+And then win our independence from the \A3A2, who press on our \E079 both openly and in secret...
+@0.6
+My aim is to be the greatest pirate captain in Japan... Right, let's do it!!
+@0.7
+Ho ho ho! Such fighting spirit.
+@0.8
+What, who are you...? Who are you, old man?
+@0.9
+I am just a humble old man. More to the point, you said something about the greatest pirate captain in Japan...
+@0.10
+What of it?
+@0.11
+Do you really understand what it means to be a pirate...?
+@0.12
+Actually, I'm not sure...
+@0.13
+Of course I know
+@0.14
+Of course I do. The Kuki have been pirates for generations.
+@0.15
+Well, now that you ask... I have never really thought about what a pirate is...
+@0.16
+Ho ho ho! Then let me explain...
+@0.17
+A pirate, basically, is a thief who sails a ship on the sea and attacks merchant ships and such.
+@0.18
+What! Are you calling us thieves, old man!
+@0.19
+Now, hear me out... If the sea were swarming with nothing but thieves, honest folk could not sail in peace.
+@0.20
+So merchants who wanted to travel by sea started paying the pirate bands to promise them safe passage.
+@0.21
+The pirate bands, for their part, organised the lesser pirates and made sure no ship that paid the toll was attacked.
+@0.22
+And so order on the sea came to be held by the pirate bands...
+@0.23
+Of course, merchants are not the only ones who want to travel by sea. So do daimyo.
+@0.24
+When marching an army across the sea, they came to need the help of the pirate bands. That is the power of pirates in this age of war...
+@0.25
+There are many castles by the sea, and pirate bands often attack them from the water. At sea, the pirates rule.
+@0.26
+But there are always upstarts who defy the order. Reining in such lawless pirates is another key duty of the bands that keep order at sea.
+@0.27
+Well, that is about all there is to say about pirates. Do you understand?
+@0.28
+H-hmph! I knew all that perfectly well!
+@0.29
+Oh... I see. But it seems you are still a nobody within your pirate band.
+@0.30
+Mind your own business. Do you want to make me angry, old man?
+@0.31
+Not at all... But unless you rise within the band, being the greatest pirate captain in Japan is a dream within a dream.
+@0.33
+Do you properly understand how to rise within a pirate band?
+@0.34
+Will you tell me...?
+@0.35
+Of course I do!
+@0.36
+Of course I do! You earn merit, rise in rank and become chief! That's all!
+@0.37
+Ugh... How do I rise, then?
+@0.38
+First, you carry out missions and earn merit...
+@0.39
+Missions...? Merit...?
+@0.40
+You do not know? Listen... A pirate band has a leader called the "chief."
+@0.41
+From time to time, the chief gives orders to his men. That is the "council."
+@0.42
+The chief calls his men to council as needed... In other words, you never know when it will be held. But when a council is to be held, the call always goes out a month before... You just have to be back at the fort a month later. If you are late to council, you will not rise, so be careful.
+@0.43
+And at the council, the fort's policy is decided. There, even a nobody like you is given a task... That is a mission.
+@0.44
+Hmm...
+@0.45
+If you complete your mission by the deadline, your merit rises. And with merit, you rise in rank.
+@0.46
+I see...
+@0.47
+Right now your rank is Boatman.
+@0.49
+As your merit grows, you can rise to the higher ranks of Bosun and then Ship Captain.
+@0.50
+Once you are a Ship Captain, you will be a proper officer of the \E079.
+@0.51
+Is there nothing higher?
+@0.52
+Well, if the \E079 holds two or more forts, you may be given one of them...
+@0.54
+Then you will be called Fleet Captain.
+@0.55
+I see...
+@0.56
+First attend the councils, earn merit and rise step by step.
+@0.57
+If you cannot even take charge of the \E079, you will never be the greatest pirate captain in Japan. Keep that in mind...
+@0.58
+Hmph, mind your own business. I'll earn heaps of merit without you telling me!!
+@0.59
+Ho ho ho... I see. Then there is no need for this old man. Farewell. We shall meet again somewhere.
+@0.61
+Huh... he vanished!? What was that old man...?
+@0.62
+Never mind... Either way, first I make the \E079 my own. Everything else comes after!
+@1.0
+Chief! An envoy has come from the \A3A3.
+@1.1
+What? An envoy from the \A3A3?
+@1.2
+So you are chief of the \E079. I am \#07F1 of the \A3A3.
+@1.3
+It is I, Chief. I have come as the old lord's envoy.
+@1.4
+And what can I do for you?
+@1.5
+The fact is, that fool \#00C3 has demanded that our house surrender.
+@1.6
+Of course we cannot accept such an outrage, so we must fight... And so I thought I would give you a chance to shine.
+@1.8
+For now, I want you to attack the castles of the \A3A2.
+@1.9
+(...Staying in the service of the \A3A3 gets us little... Wouldn't it pay to go over to the \A3A2?)
+@1.10
+(...Perhaps now is the time to keep that promise to the old lord of the Oda...)
+@1.11
+What is it, Chief? These are the old lord's orders.
+@1.13
+Understood
+@1.14
+...Please leave.
+@1.15
+Hm? Did you say something? Set out tomorrow, then...
+@1.16
+...I said, please leave.
+@1.17
+W-what!? Wh-what do you mean by this!?
+@1.18
+As of today, we of the \E079 side with the \A3A2. So the \A3A3 are now our enemy.
+@1.19
+W-what are you saying... You would side with that fool!? Y-you will regret this!
+@1.20
+Hey, our guest is leaving. Throw him out!
+@1.21
+Aye! Come on, up you get!
+@1.22
+Hey, what are you doing! I am the envoy of the \A3A3!
+@1.23
+You heard him just now! We're with the \A3A2! Enemies, get out!
+@1.24
+Grr... You will pay for this. I will report to the old lord!
+@1.25
+Tell the old lord of the Kitabatake that he would do well to surrender to the Oda!
+@1.27
+And so the \E079 led by \#0117 abandoned the \A3A3 and sided with the \A3A2...
+@1.29
+...Chief, are you really sure about this?
+@1.30
+Yes. Fools like that need to be taught a lesson.
+@1.31
+Anyone who troubles our seas, even \#00C3, I will not forgive.
+@1.32
+Well said. Then I count on you from now on.
+@2.0
+I want to take this \E079 for myself somehow, but how?
+@2.1
+Ho ho ho, you seem troubled. Let me lend you an old man's wisdom.
+@2.2
+When did you get here!! Did you hear what I just said!?
+@2.3
+Ho ho ho, I heard it clearly. Do not worry, I am the only one who heard.
+@2.4
+(If he reports it to the chief, it'll be trouble. Should I cut him down here? Or hear what he has to say?)
+@2.5
+Cut down the old know-it-all
+@2.6
+Listen to the old man
+@2.7
+Now that you've heard, I can't let you live. I'll cut you down!
+@2.8
+What! I do not care to be cut down. I am off!
+@2.9
+Huh!? He vanished... What was that?
+@2.10
+What should I do? Tell me.
+@2.11
+Taking over the \E079 means becoming its chief.
+@2.12
+To make yourself chief by force, you need abilities everyone will accept.
+@2.13
+First, your Navy skill must be 4. Besides that, all your skills added together must come to 30 or more.
+@2.14
+I've already done that.
+@2.15
+So it seems. Not bad at all, ho ho ho.
+@2.16
+Is that all?
+@2.17
+Then there are allies. You mean to take the chief's place, so you had better have comrades.
+@2.18
+For them to join you, you need to be quite close to them.
+@2.19
+You can make your move even without comrades, but...
+@2.20
+What is it? Don't keep me in suspense.
+@2.21
+When the time comes to make your move, those who will not join you may turn against you.
+@2.22
+Some will just stand by and watch, but some will surely become enemies.
+@2.23
+And one more thing.
+@2.24
+What is it?
+@2.25
+No matter what, you cannot take over as a mere Bosun. You must first rise to Ship Captain.
+@2.26
+Right. So while doing missions to become Ship Captain, I raise my skills and gain more allies.
+@2.27
+Ho ho ho, you seem to understand. Then my talk is done. I shall take my leave.
+@3.0
+Ho ho ho, you have done it.
+@3.2
+Now, now, do not say that. I have something to tell you today.
+@3.4
+Ho ho ho, your skills now meet the conditions for a takeover.
+@3.5
+And you seem to have officers who are close to you. Treasure them.
+@3.9
+When the chief is at the fort, go to the Pirate House where he is and you can make your move.
+@3.10
+There you attack the chief and seize power. That is the only way for you to become chief.
+@3.13
+You cannot do it? If you cannot, taking over the \E079 is just pie in the sky.
+@3.14
+Whether you do it or not is up to you.
+@3.16
+(So at last I can take over the \E079...)
+@4.0
+Make the takeover here?
+@4.1
+Make the takeover
+@4.2
+Wait a while longer
+@4.3
+It's not time yet.
+@4.4
+What do you want, \#0FFE?
+@4.5
+Chief... no, Lord \#0FF0. I have come to take the \E079.
+@4.6
+What are you saying?
+@4.7
+Under you, Lord \#0FF0, the \E079 will perish. So I will take it.
+@4.8
+To arms, to arms! \#0FFE has gone mad!
+@4.10
+I say to all of you: are you content to leave the \E079 as it is?
+@4.11
+I am not. That is why I will take the \E079.
+@4.12
+What is this fool saying? He has gone mad, so it cannot be helped. Cut him down!
+@4.13
+Lord \#17FE, I will lend you a hand.
+@4.14
+Lord \#17FE, I am with you.
+@4.26
+...\Z001, forgive \#0FFE, who leaves behind the name of a traitor... If there is a next life, with you again...
+@4.29
+\#07FE plotted to take \#07F0's place and rule the \E079...
+@4.30
+...but was cut down instead and met a sorry end. It was month \1007 of \1006. \#07FE, aged \1008...
+@4.31
+I will not take your life. Go wherever you like.
+@4.32
+Ugh, you'll pay for this.
+@4.33
+Well... now that I am chief, I should change my attire.
+@4.34
+Your clothes are ready here, sir.
+@4.35
+Yes, these will do.
+@4.36
+If anyone dislikes how I did this, he may leave.
+@4.37
+I shall take my leave.
+@4.38
+I have no complaint. I take Lord \#07FE as our chief and swear my loyalty.
+@4.39
+Today the \E079 is reborn. I ask for everyone's help.
+@4.41
+So they have all gone. Right, from today the history of the new \E079 begins!
+@4.42
+And so \#07FE drove out \#07F0 and took the \E079 into his hands.
+@4.43
+It was month \1007 of \1006, when \#07FE was \1008.
+@4.44
+Grave news! It seems Lord \37F0 is joining with \E07A to make war on us.
+@4.45
+What! Right, we set out too.
+@4.64
+Now that I am chief, I should change my attire.
+@4.65
+Your clothes are ready here, sir.
+@4.74
+It was month \1007 of \1006, when \#07FE was \1008...
+@5.0
+Hm? Who are you...?
+@5.1
+It is an honour to meet you. I am \#0117 of the \E079.
+@5.2
+(So this is the rising star of Owari... \#00C3...)
+@5.3
+Oh, one of the \E079! Just in time.
+@5.4
+I mean to destroy \#0103 of Ise, march on Kyoto and take the realm.
+@5.5
+Are you willing to help me?
+@5.6
+I am
+@5.7
+I am not
+@5.8
+What, you wretch! Are you mocking me? Argh, I will cut you down myself!
+@5.9
+Wh-what are you doing!?
+@5.11
+Gahh......!!
+@5.12
+And so \#0117, pirate of the \E079, ended his short life. Aged \1009...
+@5.13
+Of course! A lord like you is just what I have been looking for!
+@5.14
+Well said, \#0FFE! I like you!
+@5.16
+But I am not yet the leader of the \E079... I cannot live up to your hopes...
+@5.17
+Never mind! I will wait. I have a feeling you are a man who will surely rise to be chief!
+@5.18
+You honour me too much...
+@5.19
+Listen, \#0917! When I march on Kyoto and command the realm, I will need huge ships.
+@5.20
+Huge ships...
+@5.21
+Yes. Even if we deal with the fools stirring up the Kinki on land, we cannot sweep the seas.
+@5.22
+Sweeping those fools from the sea will be your job!
+@5.23
+Understood... I will build a huge ship such as no one has ever seen, and someday show it to you, my lord.
+@5.24
+One that no arrow or bullet can pierce, that will not burn or sink, armed with many great cannons... a giant ship like a moving island...!!
+@5.25
+What! A giant ship like an island that bullets cannot pierce and that will not sink...!! Ha ha ha... Interesting!!
+@5.26
+This one is a real find. He is even more of a fool than I am. Ha ha ha... I like him!
+@5.27
+A fool...!?
+@5.28
+I was called that when I was young too. I like fools like myself.
+@5.29
+\#0917, this is an age of war! The ones who will move the world now are the great fools!
+@5.30
+I will rule the realm as the great fool of the land. You, as the great fool of the sea, will knock those old fogeys into the water.
+@5.32
+(Oda Nobunaga... What a bold man...)
+@5.40
+\#09BA, this one is a real find. He is even more of a fool than I am. Ha ha ha... I like him!
+@6.0
+Hm, who are you?
+@6.1
+I am \#0117 of the \E079. I hope you will remember me.
+@6.2
+What, one of the \E079? Very well. Work hard for our house.
+@6.3
+.........\n(How arrogant he is.)
+@7.0
+What, it's you? What does a mere \E079 man want?
+@9.1
+Oh, Chief.
+@9.2
+Have you heard the rumours about \#00C3 of Owari?
+@9.3
+That \#00C3 who crushed the great Imagawa army at Okehazama has now apparently built a castle overnight at Sunomata.
+@9.4
+Ah, that story...
+@9.5
+A frightening man... He may soon invade Ise and Shima too.
+@9.6
+Chief, why don't we switch our \E079 over to the \#10C3 clan?
+@9.7
+W-what are you saying! \#0FFE!
+@9.8
+This is an age of war. I feel we'd do better to follow a rising daimyo with drive and spirit.
+@9.9
+That won't do... We owe a debt to the \#1103 clan.
+@9.10
+A debt...!? Don't they just push work onto us?
+@9.11
+Enough, \#0FFE. I will pretend I did not hear that.
+@9.12
+Chief!!
+@9.13
+I have business to see to. Farewell.
+@9.15
+(What is the chief afraid of? I can't help envying the \#10C3 clan's momentum.)
+@9.16
+(Someday I'll make the \E079 mine and abandon the \#1103 clan.)
+@10.0
+Hm, something's going on over at the tavern.
+@10.1
+Sounds like some drunks are making a racket.
+@10.2
+Hopeless lot. Maybe I'll teach them a lesson.
+@10.5
+Dear me, what a nuisance. How many times must I tell you?
+@10.6
+Shut up! You picked the fight, didn't you? Fight me fair and square!
+@10.7
+Heh! You gutless samurai!
+@10.10
+You thugs... I have listened long enough...
+@10.11
+Hold it, you scum! Anyone who disturbs this town will have me to deal with!
+@10.12
+What, who are you! Stay out of this!
+@10.15
+(Hm? Isn't that... \%201BA?)
+@10.20
+You don't know \#0117 of \41DE? Then you're real ignorant. I'll knock you flat!
+@10.21
+Y-yikes! H-he's strong!
+@10.22
+Damn it! You'll pay for this!
+@10.23
+Ha ha ha! The weaker the dog, the louder it barks.
+@10.26
+Well, you saved me... What skill!
+@10.28
+Hmph, all talk!
+@10.29
+Ngh...! Damn it...
+@10.32
+Hey, are you all right!
+@10.33
+Now it's your turn! I'll kill you!
+@10.36
+Town scum...! Take this!
+@10.37
+Bang bang!
+@10.38
+Gah! A gun!? That's dirty!
+@10.41
+You picked a fight for no reason, and you call me dirty!? Get out of here!
+@10.43
+Ugh...
+@10.46
+Are you all right? Here, take this medicine.
+@10.56
+Health restored!
+@10.57
+And you are...?
+@10.58
+Forgive me for not introducing myself. I am \#01BA of the \A3A2.
+@10.59
+Of the \A3A2...?
+@10.60
+I came to this town on some business, but some nasty drunks at the tavern picked on me...
+@10.61
+Your brave deed saved me.
+@10.62
+No, I did nothing...
+@10.63
+You said your name was \#0117 earlier, did you not?
+@10.64
+That's right. I am \#0117.
+@10.65
+Are you perhaps a relative of Lord Kuki Sumitaka?
+@10.66
+Sumitaka was my elder brother...
+@10.67
+What!! You are Lord Sumitaka's younger brother! Well, well...
+@10.68
+You knew my brother?
+@10.69
+Yes... I was born in Koga in Omi, and before serving the \A3A2 I wandered the provinces.
+@10.70
+That is when I met Lord Kuki... How it takes me back. I heard he died a few years ago.
+@10.71
+Yes... Sadly. Now I am head of the Kuki house.
+@10.72
+I hear you belong to the \E079. Actually, I have a favour to ask...
+@10.73
+\%03, what brings you to this town?
+@10.74
+Well, I had some business here... But some nasty drunks at the tavern picked on me...
+@10.75
+Your brave deed saved me. My thanks.
+@10.77
+To change the subject, I actually have a favour to ask of you...
+@10.79
+I would like to meet the chief of the \E079... Could you arrange it?
+@10.80
+That's easily done... But what is it about?
+@10.81
+Now, now, that can wait until I meet the chief... Just let me meet him, please.
+@10.82
+Very well. Then follow me.
+@10.83
+I am in your debt.
+@11.0
+Here we are. Now, to the house...
+@11.1
+Chief, I have brought a guest. Lord \#01BA of the \A3A2...
+@11.2
+What, of the \A3A2...? ...Very well. You may go.
+@11.3
+.........Yes, sir.
+@11.4
+Lord \#11BA... What do you want here?
+@11.5
+Well, well, he would not hear of it...!
+@11.6
+\%03, finished talking already?
+@11.7
+Yes, the talks went nowhere. I will take my leave.
+@11.8
+Wait a moment. What was it about?
+@11.10
+I'm not like the chief. I believe Lord \#00C3 is the maker of a new age.
+@11.11
+...Oh?
+@11.12
+Our \E079 serves the \A3A3, but I even want us to switch over to the \A3A2 someday...
+@11.13
+Well... As it happens, that is what I came to talk to the chief about.
+@11.14
+What!!
+@11.15
+\%03, I trust you, so let me tell you something confidential.
+@11.16
+The truth is, I came here to bring the \E079 over to our side. On the old lord's own orders.
+@11.17
+What...! The old lord of the \A3A2 wants us...?
+@11.18
+You know the Shogun was assassinated in Kyoto?
+@11.19
+Yes, they say the Miyoshi Triumvirate and \#02A7 conspired to kill the Shogun...
+@11.20
+The late Shogun's younger brother, Lord \#001D, is asking daimyo across the land to help him reach Kyoto.
+@11.21
+But hardly any daimyo will agree... Our old lord is different, though.
+@11.22
+He means to seize on Lord \#081D's request, march on Kyoto, and command the realm!
+@11.23
+Well... That is thrilling.
+@11.24
+Yes... For that, the road from Owari and Mino to Kyoto must be made safe.
+@11.25
+So that's why the Ise road...?
+@11.26
+Exactly... The main army will of course enter Kyoto by way of Omi, but we cannot have the enemy cut off our retreat.
+@11.28
+\#0103 of Ise seems to have no intention of submitting to us. That is where you pirates come in.
+@11.29
+You want us... to strike down \#0103...?
+@11.30
+Exactly... But your chief is stubborn. He would not listen at all.
+@11.31
+\%03, I'm different.
+@11.33
+Someday I'll take over this \E079.
+@11.35
+When I do, I promise to help the \A3A2 without fail!
+@11.36
+Oh! I am grateful!!
+@11.37
+For that, I need to lead the \E079 as soon as I can...
+@11.38
+I hope for that too. Oh, yes, \%03... Would you like to meet the old lord sometime?
+@11.39
+Lord \#00C3...? I could ask for nothing better... I've wanted to meet him someday.
+@11.40
+Come to \41DE whenever you like. I will arrange an audience for you then.
+@11.41
+Thank you very much!
+@11.42
+Well then, I take my leave for today.
+@11.43
+Yes, sir. Farewell...
+@11.44
+(For the \A3A2 to approach me first... This may be the chance of my life. I must become head of the \E079 soon...)
+@12.0
+So this is \41DE...
+@12.1
+Oh, \%03! Welcome.
+@12.2
+\%03! As promised, I've come to meet the old lord of the Oda.
+@12.3
+Good. The old lord seems in a fine mood today. Let us go at once.
+@12.4
+My lord, I have brought him. This is \#0117 of the \E079.
+@12.5
+I am \#0117...
+@12.6
+Ah, you came! Pirate! What a fierce face. You look quite the man!
+@12.8
+You will have heard from \#09BA. I mean to destroy \#0103, march on Kyoto and take the realm.
+@12.13
+Ah, m-my lord!?
+@12.18
+Well said, \#0FFE! \#09BA, you have found a good man.
+@12.21
+Never mind! I will wait. You are a man who will surely rise to be chief! Eh, \#09BA!
+@12.22
+Just as you say. This man will surely do it.
+@12.23
+\%03... My lord...
+@12.33
+The old lord was called that when he was young too. He likes fools like himself. Mind you, he calls me a fool too.
+@12.37
+Well... what did you think of the old lord?
+@12.38
+He was even bolder than the rumours said. A man like that, I could follow.
+@12.39
+Good. I look forward to the day you lead the \E079!
+@12.40
+Yes, sir! Farewell.
+@12.57
+Good. I look forward to the day you build that giant ship!
+@14.11
+\%03! Lord \#00C3 has marched on Kyoto with Lord \#001D!
+@14.13
+Lord \#08C3 entered Kyoto, installed Lord \#081D at \51E5 and set him up as the new Shogun.
+@14.17
+Either way, there is no doubt the realm will now revolve around Lord \#08C3.
+@16.0
+\%03.
+@16.1
+Oh, Chief!
+@16.3
+I've got my mission, but what should I do first...
+@16.5
+Check the mission
+@16.6
+More to the point, I've forgotten what my mission was.
+@16.8
+S-sorry...
+@16.9
+You hopeless fellow... Here.
+@16.11
+Surprised, \%03? You can check your mission at any time, like this.
+@16.13
+Here you can also see how much you have achieved so far, with the ⑨ button.
+@16.14
+I see! Thank you for the lesson.
+@16.23
+Listen, \%03. When you receive a mission, the mission window appears at the top right of the screen.
+@16.25
+You can also see how much you have achieved so far with the ⑨ button.
+@16.29
+Thank you for your concern, Chief!
+@18.0
+Chief, terrible news! They say Lord \#0103 has been assassinated!
+@18.1
+What! Assassinated? That master swordsman... Who did it?
+@18.2
+Well... rumour has it it was on secret orders from the \#10C3 clan...
+@18.3
+How can this be... The old lord of the \#10C3 is a frightening man...
+@18.4
+\#0103, governor of Ise and a warring daimyo, was also a swordsman who received the "One Sword" from \#01E7...
+@18.5
+Forced to adopt \#08C3's son, \#08BF, as his heir, he was then assassinated. Aged \1009...
+@19.11
+(\#0205... The Oda have reliable men.)
+@21.0
+Lord \#00C3 of the \#10C3 clan has taken \51E6 from the \#1142 clan!
+@21.2
+Impressive... This will shake up the realm.
+@23.0
+Have you heard? Lord \#08C3 has renamed Inabayama "Gifu."
+@23.1
+\%03, Lord \#08C3 has renamed Inabayama "Gifu"!
+@23.3
+It's too difficult for me, but they say he's following an old Chinese tale and aiming to unify the realm...
+@23.5
+King Wen of Zhou rose at Mount Qi, and Lord \#08C3 rises at Gifu to seek the realm... Isn't that what he means?
+@29.0
+Everyone! Let's show them that our \E079 has been reborn!!
+@30.0
+A report. The enemy has withdrawn.
+@30.3
+So this is the end...
+@30.15
+In month \1007 of \1006, \#07FE could not withstand the attack of the army led by the chief he had driven out, and was defeated.
+@30.16
+It is said that at the end, as his ship burned, he stood alone, gazing at the sky.
+@31.0
+Ugh... What humiliation.
+@31.1
+We have no need of old-fashioned governors... A new age begins now. Eh, \#0917?
+@31.2
+Yes, sir... We will follow you, my lord.
+@31.4
+The Kitabatake, Ise's governors for 200 years since Chikafusa, chief minister of the Southern Court, fell at last, and Ise became \#08C3's.
+@31.5
+The \E079 led by \#0117 was freed from its long bondage...
+@31.6
+Chief, the old lord of the \#10C3 has taken \#0103's castle!
+@31.7
+Yes... As expected of Lord \#00C3...
+@33.0
+Everyone here? This man is the younger brother of Kuki Sumitaka.
+@33.1
+I am \#07FE.
+@33.2
+Good. Work for our \E079.
+@33.3
+(Until I lead the \E079, I'll work as hard as I can for you.)
+@33.4
+What is it, \#0FFE?
+@33.5
+No, nothing. By the way, Chief...
+@33.7
+What kind of work are missions?
+@33.8
+Well, our \E079 backs the \A3A2.
+@33.9
+(Why serve such an old-fashioned daimyo...)
+@33.10
+Mostly, you will be doing jobs requested by the old lord of the \A3A2, Lord \37F1.
+@33.11
+The \A3A2... they're the governors of Ise, right?
+@33.12
+That's right... Japan is wide, but among all its daimyo houses only three may call themselves "governor" of a province...
+@33.13
+The Ichijo of Tosa, the Anegakoji of Hida... and the \A3A2 of Ise.
+@33.14
+(A provincial governor these days has no real power... They just cling to old authority.)
+@33.15
+What's more, the present head, Lord \37F1, is a master swordsman...
+@33.16
+They say he learned secret techniques from the famous swordsmen \#01E7 and \#0128.
+@33.17
+(It's pointless for a daimyo to wave a stick around. Rumour says he lacks the skill to rule people and lead men...)
+@33.18
+Of course, besides the \A3A2's requests, our \E079 has its own work. You'll be doing all sorts of jobs.
+@33.19
+Oh, the council. I almost forgot.
+@33.20
+Everyone, sit. The council begins.
+@33.21
+(I've got to become chief soon and break free from the likes of the \A3A2...)

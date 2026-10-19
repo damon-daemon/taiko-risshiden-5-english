@@ -1,0 +1,528 @@
+@0.0
+In \M001, Taiko Toyotomi Hideyoshi died,\nand signs of another great war were\nbeginning to show...
+@0.1
+In Mimasaka, in the Chugoku region, lived a\nyoung man who dreamed of the martial arts.\nHis name was \#07FE.
+@0.2
+Drilled in arms since childhood by his father,\nMiyamoto Munisai, \#0FFE, though only \1009,\nhad strength enough to shame a grown man.
+@0.3
+And he dreamed that one day he would\nbe the finest warrior in the land.
+@0.4
+Hm, there's a crowd over there. Shall I take a look?
+@0.7
+Well, what's wrong?! Isn't there anyone brave enough to take on the finest warrior in the land, the great Arima Kihei?!
+@0.19
+Gah ha ha! Seems everyone in this town is a coward!
+@0.22
+Worms like you don't deserve to live! Go on, to the next world with you!!
+@0.25
+Gyaaa... ugh...
+@0.28
+D-Daddy!! No, don't die!
+@0.29
+(Grr! What a brute!)
+@0.32
+I will be your opponent.
+@0.35
+What?! A brat like you, take me on?!
+@0.38
+Besides, there's no glory in beating a brat!
+@0.39
+Afraid of losing to a brat?
+@0.42
+Grrr!! You've got a mouth on you, brat! I'll k-k-kill you!!
+@0.45
+Ugh, beaten by a brat like this...
+@0.48
+Thank you for avenging my daddy.
+@0.49
+No, I did nothing that deserves thanks.
+@0.50
+(For the first time in my life,\n I have killed a man...)
+@0.51
+(But I've gained confidence. Perhaps it's\n time to go out into the world and\n test my skill.)
+@0.52
+(I wonder how well my skill will hold\n up against famous warriors...)
+@0.53
+(They say many warriors gather in the\n capital. Shall I head there, training\n along the way...)
+@0.56
+In month \M002 of \M001... \#07FE\nmade the mistake of youth...\nHe died at \1009.
+@0.59
+Tch! My fame will never grow in a town like this. Well, on to the next town.
+@0.60
+(I couldn't bring myself to step forward...\n How weak-hearted I am...\n Can I really make it as a warrior...)
+@0.61
+(No, I mustn't lose heart. First, I'll\n go to the capital, where so many\n warriors gather.)
+@1.3
+My name is \#07FE. I wish to ask Lord \#0303 for a lesson.
+@1.6
+Hm, a dojo challenger? Master \#1303 is out, unfortunately. I will face you, if I will do.
+@1.7
+If you please.
+@1.8
+(Hm, that's \#0FFE...)
+@1.11
+Ngh! Beaten by a country samurai like this!
+@1.12
+What is going on here!
+@1.15
+Master Yoshioka!
+@1.17
+Acting as you please while I'm away!
+@1.20
+Forgive me!
+@1.21
+And who are you, sir?
+@1.22
+My name is \#07FE. I came to ask Lord \#0303 for a lesson.
+@1.23
+To beat this dojo's instructor, you must be quite skilled. What is your school?
+@1.24
+I have no master. My style is my own. I learned the basics from my father, Miyamoto Munisai.
+@1.26
+Miyamoto Munisai?! So you're Munisai's brat!
+@1.27
+Hm, what is the matter?!
+@1.28
+My father, \#0302, lost a bout before the Ashikaga Shogun to Miyamoto Munisai's dirty tricks!
+@1.29
+I accept your duel, as you wish. I'll cut you down and avenge my father's shame!
+@1.30
+Whatever the reason, if I can fight you with real blades, that's all I ask.
+@1.31
+Go and prepare! I will neither run nor hide. I will wait at this dojo.
+@1.32
+(Heh, this has become interesting...)
+@2.0
+I've been waiting, \#0FFE.
+@2.1
+\#0303, son of \#0302. Have at you!
+@2.2
+(Here it comes...)
+@2.3
+None of you interfere!
+@2.7
+\#0FFE! Come at me!
+@2.10
+Master \#1303!
+@2.11
+(A fatal wound. He won't survive.)
+@2.12
+Ugh... father and son, both beaten...
+@2.13
+Tell... Denshichiro... to support the dojo... in my place...
+@2.14
+Denshichiro is no match for this \#0FFE... Tell him... not even to think of avenging me... Be sure... to tell him...
+@2.15
+Ugh...
+@3.2
+Hm, \#0FFE! What have you come here for?!
+@3.5
+Master \#0304 is out. Leave at once!
+@4.0
+So you've come, \#0FFE.
+@4.3
+It's \#0FFE! \#0FFE is here!
+@4.4
+...So you've finally shown up.
+@4.8
+\#0FFE... You win... Ugh...
+@4.9
+I won... I beat the Yoshioka brothers!!
+@4.10
+(\#0FFE... not bad at all.)
+@4.11
+(But I doubt the Yoshioka house will just let this go...)
+@5.0
+Oh, sorry. The shop isn't open yet.
+@6.0
+Hm, those are Yoshioka students over there... They seem to be lying in wait. I'd better not go near.
+@7.0
+Why, Lord \#0FFE. Just the man...
+@7.1
+Eh? ...What do you mean?
+@7.2
+Lord \#0FFE, have you ever seen the pleasure quarter?
+@7.3
+The pleasure quarter... You mean, where the courtesans are?
+@7.4
+Yes. A friend of mine sent me an invitation. Won't you come along?
+@7.5
+I'd rather not. It would get in the way of my training.
+@7.6
+Now, now, don't say that... A man who doesn't know the heart that loves cannot be called truly strong...
+@7.7
+L-Lord \#0C27...
+@7.8
+Well then, Lord \#0FFE, I have my regular girl... Enjoy the flowers to your heart's content.
+@7.11
+Pleased to meet you... Do be sweet to me.
+@7.12
+*Gulp*...
+@7.15
+What strong arms you have, sir... and not bad-looking either... How many girls have you made cry, I wonder...
+@7.16
+Wh-what... how many...?
+@7.19
+Do you like me, sir? Or is there someone on your mind?
+@7.20
+Someone on my mind? I, I...
+@7.21
+I have someone
+@7.22
+There's no one
+@7.23
+Th-there's a woman I've given my heart to!
+@7.26
+Then it wouldn't do for me to steal you away...
+@7.27
+I'm sorry! I've embarrassed you...
+@7.30
+That's all right...
+@7.31
+Th-there's no one like that!
+@7.34
+Good... Then be sweet to me today...
+@7.35
+Mm, mmph...
+@7.36
+...How was it, Lord \#0FFE?
+@7.37
+...Well, um... it was educational...
+@7.38
+Ha ha, I'm glad. That made it worth bringing you. Shall we go home?
+@8.0
+(I've made it to the capital, but how do\n I find warriors... Maybe I'll ask\n someone...)
+@8.1
+Excuse me, tell me: who is the strongest warrior in the capital?
+@8.2
+Let's see... Yoshioka Seijuro, head of the Yoshioka school, I'd say.
+@8.3
+Everyone in town knows the Yoshioka school. They've been martial arts instructors to the Ashikaga Shoguns for generations.
+@8.4
+They say his younger brother Denshichiro is as good as Seijuro too.
+@8.5
+Yoshioka Seijuro and Yoshioka Denshichiro... Right, I'll fight the two of them!
+@8.6
+Fight them? You?! Ha ha... You'll get more than hurt. Better not.
+@8.7
+No, I cannot master the way of the sword unless I defeat the strong. I will fight them, whatever it takes.
+@8.8
+If you insist, try the dojo in this town. But it's not my fault if you get killed.
+@8.9
+The dojo, then. Thank you.
+@8.12
+Heh heh, so you too plan to make your name by beating the Yoshioka?
+@8.13
+I have no interest in fame. I only want to beat stronger men and master the martial way.
+@8.16
+Oh, you don't care for fame... A rare warrior. What's your name?
+@8.17
+\#07FE.
+@8.18
+I am \#0157. I'm staying at the Yoshioka dojo.
+@8.19
+What?! You're a Yoshioka student!
+@8.20
+My school is Ganryu. I'm no student of the Yoshioka dojo.
+@8.21
+Heh... We may meet again, \#0FFE.
+@8.22
+Ganryu... Sasaki Kojiro...
+@9.0
+\#0FFE.
+@9.5
+Do you think you can win?
+@9.7
+Heh, that's the spirit. I'll go ahead to the capital. I'm looking forward to it.
+@9.8
+You must be \#07FE. I have a message from Lord \#0304.
+@9.9
+"I await you in the capital"... That's all. He said you would understand.
+@9.10
+Understood. I'll be there without fail.
+@10.2
+Wait! You must be \#07FE, who beat the Yoshioka house.
+@10.3
+That's right, I'm \#07FE.
+@10.4
+I am \#0174. I would ask you for a bout.
+@10.5
+You want to make your name by beating me?
+@10.6
+N-no, nothing like that. I just want to try out this weapon.
+@10.7
+What is that?
+@10.8
+A chain-sickle. The weight takes enemies at a distance, the sickle takes them up close.
+@10.9
+Interesting. Now I want to fight you.
+@10.10
+Heh, that's the spirit. Come on, here I come!
+@10.11
+Ha ha ha! I beat \#07FE! Now I can find a post too!
+@10.12
+Ugh... beaten by the likes of him...
+@10.15
+Ugh, you're good... \#07FE. I'm no match for you...
+@10.16
+I shouldn't have got greedy... Gurgh.
+@10.17
+A chain-sickle... So there are warriors who fight with weapons other than swords and spears.
+@11.0
+You smell of a beast.
+@11.1
+Hm, what's that all of a sudden? Rude monk! W-well, I do hate baths...
+@11.2
+Ha ha, I don't mean your body odour.
+@11.3
+I sense an eerie, nameless air about you.
+@11.4
+The air of a beast hungry for blood... What is your name?
+@11.6
+Oh, so you are \#0FFE, who beat the Yoshioka house. No wonder...
+@11.7
+\#0FFE, go on like this and you will lose your life.
+@11.8
+I am a warrior. I am ready to die.
+@11.9
+Then you will never master the way of the sword. Strength alone is not the thing to seek.
+@11.10
+If you're not strong, you die, don't you?! I don't follow you, Reverend.
+@11.11
+It seems anything I say now is wasted on you. But if ever your heart is troubled, come to my temple.
+@11.12
+I am \#042B, abbot of a temple in the capital. Until we meet again.
+@11.13
+(Reverend \#142B...)
+@12.0
+Hm? What's that crowd? Let me take a look.
+@12.1
+What's happening?
+@12.2
+A bout, a bout.
+@12.5
+Kyeee, tooo!
+@12.6
+Honestly, the weakest dogs bark the loudest... Hurry up and come at me.
+@12.7
+(Isn't that... \#0957?)
+@12.8
+Hm? Musashi...
+@12.10
+(A man like that isn't worth cutting. But\n watch this! \#0ABC!)
+@12.14
+Did you see it, \#0ABC? My "Swallow Cut"!
+@12.15
+"Swallow Cut"...
+@12.16
+A deadly blade that can cut down even a swallow in flight.
+@12.17
+When you beat the Yoshioka house at the Ichijoji pine, I saw your secret technique.
+@12.18
+Now we're even. We'll meet again, \#0ABC.
+@13.0
+\#0957...
+@13.1
+Sir samurai, might you be Lord \#07FE?
+@13.3
+Ah, I thought so... Then you are looking for Lord \#0157?
+@13.4
+Yes. You know \#0957?
+@13.5
+...Lord \#0FFE, you are too late.
+@13.6
+Lord \#0957 was waiting at an inn in this town for you to come, Lord \#0FFE...
+@13.7
+But he died... of illness...
+@13.8
+What! Kojiro?!
+@13.9
+(\#0957...\n Leaving like that...)
+@13.10
+You must be Lord \#0ABC. I have been waiting for you.
+@13.11
+Lord \#0957 has already left for Funashima.
+@13.12
+A boat is ready at the edge of town. Leave town and set off from there.
+@14.0
+I'm home at last...
+@14.1
+It feels like long ago that I resolved to become a great warrior.
+@14.2
+The "Book of Five Rings", which I have written when I could, is finally complete.
+@14.3
+It's time I founded a school... Let's see... Enmei-ryu for the name... No, Niten Ichi-ryu!
+@14.4
+Not content with life so far,\ncontinue the game?
+@14.5
+Afterwards, \#0FFE wandered\nthe provinces, seeking a post.
+@14.6
+In his last years, \#0FFE was welcomed as\na guest of Hosokawa Tadatoshi of Higo.
+@14.7
+Given a large estate near Kumamoto Castle,\n\#0FFE created many fine works, such as the\n"35 Articles on Strategy" and "Daruma".
+@14.8
+Above all, the "Book of Five Rings", setting\nout the secrets of the sword, would be\nwidely read for generations to come.
+@14.9
+And it is said that at \#0ABC's side,\never as innocent as the day they met,\nwas always \#07F2...
+@14.10
+I still know little of the world. There'll be time enough to dwell on memories. For now, I'll just do what I've left undone.
+@15.0
+(Now, which town next... Sooner or later\n I must head for the capital, where the\n warriors gather...)
+@16.2
+Wait, \#0FFE! Running away?! You coward!
+@16.3
+I neither run nor hide.
+@16.6
+We of the Yoshioka house challenge you to a duel to the death!
+@16.7
+Very well.
+@16.10
+The place: the Ichijoji pine outside the capital. Our champion: Yoshioka Matashichiro, heir of Lord \#0303.
+@16.13
+Matashichiro is still a child, so we students will stand at his side. Agreed?!
+@16.16
+\#0957?
+@16.17
+The whole Yoshioka house means to gang up on you and kill you.
+@16.18
+This time you may not survive. Will you still fight?
+@16.19
+Of course. Better to die than shame my name by running.
+@16.20
+I see. Then I'll say no more.
+@16.21
+I see. Then take this. At least face the fight in the best of shape.
+@16.22
+Received "Hangontan".
+@17.0
+That's the Ichijoji pine... The Yoshioka don't seem to be here yet. I'll hide behind this tree and watch.
+@17.1
+(Hm, here they come, the Yoshioka! There\n must be about 70 of them...)
+@17.4
+\#0FFE isn't here yet. Right, form groups of five. Spread out in a half circle around the pine.
+@17.7
+When \#0FFE appears, the nearest group surrounds him. Don't let him near Master Matashichiro, our champion.
+@17.8
+(Far more than I imagined. My only way\n to survive is to cut down their champion\n and break their will...)
+@17.9
+(Luckily their champion is close by.\n Right, let's do it!)
+@17.10
+*Rustle*
+@17.13
+Th-there! \#0FFE, over there!!
+@17.16
+Damn, he tricked us! Protect Master Matashichiro!!
+@17.17
+Young champion, forgive me!
+@17.20
+Gyaaa!!
+@17.23
+C-coward! Killing a child!! Everyone, kill \#0FFE!!
+@17.29
+D-don't let him get away! Kill the coward!!
+@17.30
+(I mustn't get surrounded. I have to\n keep moving as I fight...)
+@17.34
+(Hah, hah... There's no end to them...\n Will I get out alive...)
+@17.38
+(Hah, hah... Hm? At some point I've\n taken a sword in each hand...)
+@17.40
+*Whoosh*
+@17.41
+Wielding two swords as freely as my own limbs... That's it!
+@17.44
+After him, don't let him escape! If he gets away, the Yoshioka house will be utterly disgraced!!
+@17.48
+Wait?! If I apply two swords...
+@17.49
+Hm, I've got it!!
+@17.52
+I-is he a monster?! Against so many...
+@17.56
+(Right, now that I've come this far...)
+@17.59
+D-damn! He got away... The Yoshioka house is finished...
+@17.60
+(\#0FFE... strong as a demon god...)
+@17.61
+(Sooner or later, we must settle this...)
+@18.2
+Heh, I've been waiting for you.
+@18.3
+For me?
+@18.4
+Yes, \#0ABC. Now I formally challenge you to a duel!
+@18.5
+I always thought this day would come. I gladly accept.
+@18.6
+I have found a place fit for you and me to die. Funashima.
+@18.7
+Funashima...
+@18.8
+A lonely island off Akamagaseki. We can fight to our heart's content with no one to interfere.
+@18.9
+Akamagaseki, then. Understood. I will be there without fail.
+@19.0
+I broke my word as a samurai... Forgive me, \#0957...
+@19.3
+Lord \#0ABC, I'll be taking you there.
+@19.8
+\#07F2... I will surely win and come back.
+@19.9
+Lord \#0ABC!
+@19.10
+...\#07F2! It's \#07F2!
+@19.11
+Hah, hah... I heard you were fighting a duel, Lord \#0ABC...
+@19.12
+For my sake...
+@19.13
+Lord \#0ABC, who is this?
+@19.15
+This is my...
+@19.16
+Wife
+@19.17
+Acquaintance
+@19.18
+This is my... wife.
+@19.19
+Lord \#0ABC!
+@19.20
+...\#07F2 will wait for your return, forever and ever, my lord.
+@19.21
+This is my... acquaintance.
+@19.22
+Lord \#0ABC, please come back safe...
+@19.23
+...We've been rowing a good while. How much further to Funashima?
+@19.24
+Well, I reckon it'll come in sight soon...
+@19.25
+I see... You must be tired too. Rest the oars a while.
+@19.26
+Eh? Is that all right?
+@19.27
+Heh, there's no hurry...
+@19.31
+Late... You're late, \#0ABC! Did the fellow get scared and run?
+@19.32
+He will come. You just stand witness and keep quiet.
+@19.36
+Look, here he comes.
+@19.40
+Hm, \#0957, you are beaten!
+@19.42
+You just threw away your scabbard... Sword and scabbard are one. Casting away the scabbard, you cast away your fate!
+@19.43
+What?! Talking nonsense in a duel?! Have at you, \#0ABC!
+@19.45
+\#0ABC... Well done...
+@19.46
+I thank you, \#0957... Without you, I would never have become strong...
+@19.47
+The great rival, \#0157, had fallen...
+@19.48
+Funashima, where \#0ABC beat \#0957,\ncame in time to be called "Ganryujima",\nafter \#0957's school, Ganryu.
+@19.49
+\#0957... The victory... is yours...

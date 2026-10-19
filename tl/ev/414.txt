@@ -1,0 +1,1106 @@
+@1.0
+Hey, need something? You look deep in thought.
+@1.1
+May I ask you something? What does one need to care for a gun?
+@1.2
+Caring for a gun, you say? Then it would be perilla.
+@1.3
+Perilla is used?
+@1.4
+Aye. You coat the barrel with perilla oil to keep off rust, and it has plenty of other uses too.
+@1.6
+You can only get Perilla around the Kinai, mind.
+@1.7
+Is that so? Now I understand. My thanks.
+@1.8
+Oh, think nothing of it.
+@1.9
+Perilla... I just happen to have some...
+@2.0
+Oh, and who might you be?
+@2.2
+Oh, Lord \#0969? I know the name.
+@2.3
+This is my younger brother, \#07F1.
+@2.4
+I hope we will get to know each other.
+@2.5
+This is my elder brother, \#07F0.
+@2.7
+Well, since we have gathered like this, how about a drink together?
+@2.8
+Oh, good idea. I will get things ready.
+@2.9
+Hey, what are you deciding on your own for? I am asking Lord \#0969.
+@2.10
+No, I would be glad to join you.
+@2.11
+See, just as I thought. He is a man who understands.
+@2.12
+That is why I keep telling you, you talk too much!
+@2.14
+...Ha ha, what fun, what fun.
+@2.15
+I have imposed on you far too long.
+@2.16
+Not at all. We two drink like this every day, at home or at the tavern.
+@2.17
+You both look like strong men. Have you no wish to serve a lord somewhere?
+@2.18
+Serve a lord... In these chaotic times, everyone thinks only of himself.
+@2.19
+It suits us two better to turn our backs on the world and drink.
+@2.21
+Ah, I have said something tiresome. Forget it, ha ha ha! Let us drink again when we have the chance.
+@3.0
+Oh, well, well.
+@3.1
+Why, if it isn't Lord \#0969. What a coincidence.
+@3.2
+Lord \#0AC2 and Lord \#0AC1. Here together?
+@3.3
+Just in time. Let us drink together.
+@3.4
+Gladly.
+@3.5
+Hic... Honestly, these days ruffians turn up all over the place. It is a sorry state of affairs.
+@3.8
+Hey, you there, monk! Are you talking about us?
+@3.11
+That is pretty hard to let slide, what you just said, hey!
+@3.12
+What, you heard? Seeing the likes of you makes my skin crawl.
+@3.15
+What did you say, you monk! Get him, boys!
+@3.16
+Hey, you lot! If you want to fight, do it outside!
+@3.19
+Right, step outside!
+@3.20
+Gentlemen, calm yourselves!
+@3.23
+What, you...!?
+@3.26
+What is it... Hm, I know that face. Don't tell me, a samurai called \#0169...
+@3.27
+Indeed, this is Lord \#1169.
+@3.28
+Behaving like this in a tavern is in poor taste.
+@3.32
+Drunk as he was, my companion was rude. I apologise.
+@3.33
+Hey, \#0AC1, apologise too! I will not stand for you shaming Lord \#0969!
+@3.34
+...My apologies, everyone.
+@3.37
+...Tch, wrong people to pick on. Come on, you lot, we're leaving!
+@3.40
+...You there, monk, next time we meet you won't get off so easy.
+@3.41
+Now, let us start drinking again. Landlady! Drinks for everyone here!
+@3.42
+Coming!
+@3.43
+Oh, much obliged!
+@3.44
+Lord \#0969, we have caused you terrible trouble. Here, \#0AC1, apologise.
+@3.45
+Er, I am truly ashamed...
+@3.46
+Not at all, it was no trouble.
+@3.47
+Drinking with straightforward men like you two is truly a pleasure.
+@3.48
+Oh, it makes me happy to hear you say so.
+@3.49
+Hey, don't get carried away!
+@3.50
+Well, I shall be going.
+@3.51
+Here you are, sir. That will be 10 kan.
+@4.2
+Oh, Lord \#0969? I know your name.
+@4.3
+Oh? Where did you hear my name?
+@4.4
+Heh. Even as a ronin, I always keep my eyes and ears open.
+@4.5
+I see.
+@4.6
+I am busy caring for my gun just now. I would like to talk at leisure some other time.
+@4.7
+Well then, I shall take my leave.
+@5.0
+Lord \#1169, is it? I was just heading out to hunt. Would you care to join me, Lord \#1169?
+@5.1
+(What should I do...)
+@5.2
+Go along
+@5.3
+Decline
+@5.4
+Then I will gladly join you.
+@5.5
+This is a good spot for hunting.
+@5.6
+Tweet tweet...
+@5.7
+Right, let us begin.
+@5.8
+Bang!
+@5.9
+Thud.
+@5.10
+What! Bringing down a bird in flight with a single shot!
+@5.11
+Now, around here...
+@5.12
+Snort snort...
+@5.13
+Oh, a wild boar.
+@5.15
+Splendid marksmanship, as always...
+@5.16
+Would you try, Lord \#1169?
+@5.17
+Very well, let me try.
+@5.18
+Got it!
+@5.19
+Oh, splendid. I see you have quite a talent for the gun.
+@5.20
+No, I am no match for you, Lord \#10DA. By the way, Lord \#10DA, forgive me for raising this in such a place, but...
+@5.21
+What is it?
+@5.22
+I would very much like you to lend your marksmanship to me, \#0969.
+@5.23
+What! It is an honour, but this is sudden. I would like a little time to think it over.
+@5.24
+Of course. I look forward to a good answer.
+@5.25
+By the way, to change the subject...
+@5.27
+In truth, I am running out of something I need to care for my gun. I would like you to find it for me.
+@5.28
+And what is that?
+@5.29
+You will surely work it out, Lord \#1169. Now, let us end the hunt here. Farewell!
+@5.30
+Lord \#10DA! ...He is gone. What could one need to care for a gun...
+@5.31
+Damn, missed!
+@5.32
+A near thing. Well, let us end the hunt here. I shall take my leave.
+@5.33
+Thank you for the invitation, but I have other business. I must decline.
+@5.34
+Is that so? A pity.
+@6.0
+Is that not Lord \#1169?
+@6.1
+Lord \#10DA, I have brought what you need to care for your gun.
+@6.2
+Oh, perilla. That is what I needed. You are impressive, Lord \#0969.
+@6.3
+By the way, about what we discussed the other day: once again, I would ask for your help.
+@6.4
+Very well. I, \#00DA, intend to serve Lord \#0969 with my skill with the gun!
+@6.5
+\#00DA has joined you.
+@6.6
+Have you worked out what is needed to care for a gun?
+@6.7
+(That's right, I was going to bring perilla...)
+@6.9
+(Oh, I forgot. What was it he needed...)
+@7.3
+You know my name?
+@7.4
+The girls of this town are all talking: Lord \#1167's second son is as handsome as an actor, they say.
+@7.5
+Nonsense again...
+@7.6
+Speaking of actors, I was just thinking of going to see a play.
+@7.7
+I see. Then I shall take my leave.
+@8.2
+Oh, Lord \#0969? I have long wished to meet you.
+@8.3
+They say you are versed in the military science that passed from Lord Shingen to the \#1167 clan.
+@8.4
+No, my military science is still far from complete.
+@8.5
+I too study military science by reading books on war like this. I would like to talk with you at leisure some day.
+@8.6
+Well then, excuse me.
+@9.0
+Ah, Lord \#1169. Today I would very much like to discuss military science with you.
+@9.1
+Agree
+@9.3
+Gladly.
+@9.5
+Then, Lord \#1169, what is most needed in war?
+@9.6
+Strategy, I would say.
+@9.7
+Is that so? As one who has pored over books old and new, I cannot quite agree.
+@9.8
+May I hear why you think so, Lord \#1169?
+@9.9
+As to the reason, I would like you to think about it yourself, Lord \#108E.
+@9.10
+I see. Then I will think about it by next time. Let us leave it here for today.
+@9.11
+That is how I see it. What do you think?
+@9.12
+I believe it is as you say, Lord \#108E.
+@9.13
+You think so too? Then let us leave it here for today.
+@9.14
+No, some other time.
+@9.15
+I see...
+@10.0
+Oh, Lord \#1169.
+@10.1
+Have you thought about the matter we discussed?
+@10.2
+Yes. I thought about it, and looked through many books, but I still cannot agree with your view, Lord \#1169.
+@10.3
+Heh. That is fine.
+@10.4
+What? Are you making fun of me?
+@10.5
+No, not at all.
+@10.6
+What is right differs with how each man lives.
+@10.8
+The \#1167 clan, surrounded by famous daimyo and once attacked by a great army, has survived to this day.
+@10.9
+That is solely because we poured our hearts into overturning the difference in strength through strategy.
+@10.10
+...True.
+@10.11
+It is because I have lived it myself that I believe strategy is the key to survival.
+@10.12
+I see, now I understand. The answer is not in books, but in practice.
+@10.13
+Exactly.
+@10.14
+Until now I have gained my knowledge only from study, but that alone is not enough...
+@10.15
+Then I would very much like to learn true warcraft under you, Lord \#1169. Will you take me among your men?
+@10.16
+Of course. With your strategy, Lord \#088E, I will have the strength of a hundred.
+@10.17
+\#008E has joined you.
+@10.18
+I am still thinking over the matter we discussed. Please give me a little more time.
+@10.19
+I see...
+@11.2
+Oh, Lord \#0969? I have heard your name.
+@11.3
+Grind, grind...
+@11.4
+Oh, are you mixing medicine?
+@11.5
+No, this is not medicine. It is a kind of gunpowder.
+@11.6
+I see. You seem busy now... I shall take my leave.
+@12.0
+Ah, Lord \#17FE.
+@12.2
+Oh, mixing gunpowder again?
+@12.3
+Yes, Lord \#17FE. Will you try it again?
+@12.4
+Yes. Would you like to watch?
+@12.6
+...Done.
+@12.7
+Oh.
+@12.8
+Take just a little, bring it near a flame, and...
+@12.9
+Boom!
+@12.10
+Oh!
+@12.11
+Hmm, weaker than I thought...
+@12.12
+You are still not satisfied with this?
+@12.13
+No. With a better mix, it should improve. Would you try too, Lord \#17FE?
+@12.17
+Then I will give it a try.
+@12.18
+Hmm, I feel I have made quite a good one.
+@12.19
+Then let us take just a little and bring it near a flame.
+@12.20
+Whoomph!
+@12.22
+Oh, this is quite powerful. With a little more research we can make an amazing gunpowder.
+@12.23
+Thank you, Lord \#17FE. I will start researching at once, based on that mix.
+@12.24
+Then I shall take my leave.
+@12.25
+I feel I have made something...
+@12.28
+crimson
+@12.29
+blue
+@12.30
+yellow
+@12.31
+!? What a \Z001 flame!
+@12.32
+It is not very powerful, but we have made something quite interesting.
+@12.33
+They say the Nanban have a gunpowder that gives off colours, called "fireworks." Perhaps it is something like this.
+@12.34
+Well, let us leave it here for today.
+@12.35
+It seems to have taken shape, at least...
+@12.37
+Fizzle, fizzle...
+@12.38
+Hmm, it seems to have failed.
+@12.39
+A pity. Let us leave it here for today.
+@12.40
+No, thank you.
+@13.1
+How is your research on gunpowder going?
+@13.2
+I am still at it.
+@13.3
+By the way, forgive an odd question, but what do you plan to do once the gunpowder is complete?
+@13.5
+You have not decided? Then how about serving me, \#0FFE?
+@13.6
+Serve you, Lord \#17FE!?
+@13.7
+Knowledge of gunpowder will be essential in the wars to come. Please lend me your skill.
+@13.9
+Very well. I, \#07F0, will serve you, Lord \#0FFE, with all my might!
+@13.10
+\#07F0 has joined you.
+@14.2
+Oh, Lord \#0969? I know your name.
+@14.3
+Oh? Where did you hear of me?
+@14.4
+I used to live by the sea, and even among the sea raiders the \#1167 clan was famous.
+@14.5
+A small force running rings around a big one... Even to men of the sea, nothing is more delightful.
+@14.6
+Is that so?
+@14.7
+I would like to talk at leisure some time.
+@15.1
+Lord \#0FF0, shall we go looking for Lord \#12FF again?
+@15.2
+Yes, let us go together.
+@15.3
+(Shall I try to recruit Lord \#0FF0 today...)
+@15.4
+Recruit
+@15.6
+Lord \#0FF0, I have come today with an important matter.
+@15.7
+What is it, so formally?
+@15.8
+In truth, I would like to have you on my side, Lord \#0FF0.
+@15.9
+What, you want me among your men?
+@15.10
+I grew up in the mountains, so I know little of the sea...
+@15.11
+With you, Lord \#0FF0, who know the sea well, on my side, I would feel very secure. Please, I ask you.
+@15.12
+That is a most gracious offer. But there is one thing that weighs on my mind.
+@15.13
+Weighs on your mind... What is it?
+@15.14
+Yes. An acquaintance of mine is in the mountains near here.
+@15.15
+The mountains?
+@15.16
+Yes... He is a bandit. They say he is something of a boss now.
+@15.18
+I believe he is not a bad man at heart, but I cannot bear to watch him sink deeper into crime.
+@15.19
+He is a capable fighter. If he would only mend his ways, I think he could be of use to you, Lord \#1169.
+@15.20
+What is his name?
+@15.21
+He is called \#07F1.
+@15.22
+\#07F1... I would like to meet him.
+@15.23
+Then would you come to the mountains with me?
+@15.24
+Very well, let us go together.
+@15.25
+(I think I'll pass after all.)
+@15.26
+Lord \#1169, is something wrong?
+@15.27
+No, it is nothing.
+@15.28
+Well, he may have moved since last time.
+@15.29
+From here on, bandits are often seen.
+@15.30
+A fork in the road ahead...
+@15.31
+Which way shall we go?
+@15.32
+Left path
+@15.33
+Middle path
+@15.34
+Right path
+@15.35
+Then let us go left.
+@15.36
+Then let us go down the middle.
+@15.37
+Then let us go right.
+@15.38
+Hm, another fork...
+@15.41
+Middle path
+@15.46
+Hey, hand over your money quietly!
+@15.47
+So here they come.
+@15.48
+Eek, I give up! Spare my life!
+@15.49
+Then let me ask you something. Do you know the name \#02FF? I hear he is the bandit boss around here.
+@15.50
+Nope, never heard of him. Nobody in our line gives their real name, see.
+@15.51
+I suppose not...
+@15.52
+Then just take us to your boss.
+@15.53
+...All right, I'll show you.
+@15.54
+The boss is up ahead. But if he finds out I brought you, he'll kill me.
+@15.55
+Then you can stop here. Go wherever you like.
+@15.56
+I'll do that, then.
+@15.57
+I sense someone.
+@15.58
+...Hm, who the hell are you!
+@15.59
+Lord \#0A3A, is this man \#02FF?
+@15.60
+No, it is not him.
+@15.61
+What are you two muttering about? Hey, boys, beat them up!
+@15.62
+Eek, they're too strong!
+@15.63
+Phew, we drove them off somehow.
+@15.64
+You got \1013 kan.
+@15.65
+Hey, get back here!
+@15.66
+Huff, huff... Did we shake them off? That was harder than I expected.
+@15.67
+For now, let us go home for today.
+@15.71
+Hm, I recognise this road...
+@15.72
+It seems we have come back to where we started.
+@15.73
+We have walked a long way. Let us go home for today.
+@15.89
+Hey, \#0FF1, have you forgotten my face!?
+@15.90
+Hm, could it be Lord \#0FF0?
+@15.91
+Lord \#0FF0, so this is Lord \#07F1!?
+@15.93
+Lord \#0FF0, who on earth is this?
+@15.94
+This is Lord \#07FE. You must have heard of him.
+@15.95
+Oh, I have... Why would Lord \#17FE be in a place like this?
+@15.96
+I came to bring you back from this kind of life.
+@15.97
+Lord \#0FF1, your skill, enough to be made a bandit boss... will you not entrust it to me, \#0FFE?
+@15.98
+What do you say? Will you serve Lord \#0FFE with me?
+@15.100
+No way!
+@15.101
+\#0FF1, this man is not the kind of samurai you think. He holds honour dear.
+@15.102
+Shut up, I don't want to hear it! Take this!
+@15.104
+Cough, cough... The rascal, using a smoke screen...
+@15.105
+We have lost sight of him...
+@15.106
+Lord \#0FFE, I am sorry to have put you to needless trouble.
+@15.107
+No, that does not bother me at all. But is there no way to change that stubborn heart...
+@15.108
+Anyway, let us go home for today.
+@16.1
+\#0FF1 is here as well.
+@16.2
+Lord \#17FE, I would like a bout with you.
+@16.3
+Then I will gladly accept.
+@16.4
+Is there still no news of Lord \#0FF1?
+@16.5
+No, sadly...
+@16.6
+Clatter.
+@16.7
+Excuse me.
+@16.9
+Lord \#0FF1! Where on earth have you been all this time...
+@16.10
+Well, I felt awkward, so I lay low for a while.
+@16.11
+In truth, Lord \#1169's name is famous even among bandits, and I secretly admired you.
+@16.13
+The other day, too, I was glad you came all the way to a place ordinary folk never approach.
+@16.14
+Then why did you act like that?
+@16.15
+I was glad to meet you, but ashamed to be seen as a lowly bandit.
+@16.16
+So that was it. Then let me ask you again, here and now: will you serve me?
+@16.17
+I would like to say yes, but first I want to test whether you are the man the rumours say.
+@16.18
+Meaning?
+@16.19
+I am somewhat confident in my own skill. I would like a bout with you.
+@16.20
+I see. I will gladly accept.
+@16.21
+In truth, I heard on the grapevine that \#0FF1 has vanished from that mountain.
+@16.22
+I see. Where on earth could he have gone...
+@16.23
+I yield. Your skill is as fine as they say. Splendid.
+@16.25
+I, \#07F1, unworthy as I am, will fight on your side!
+@16.26
+\#0FF1, well said! Lord \#0FFE, I too will serve you!
+@16.27
+\#07F0 and \#07F1 have joined you.
+@16.28
+Sadly, you still have far to go.
+@17.0
+Oh, if it isn't Lord \#1169.
+@17.1
+Eh? This should be our first meeting. How do you know me?
+@17.2
+Heh. With a ninja's training and a network of informants, it is easy.
+@17.3
+Is that so... With such skill, have you no wish to serve a lord and put it to use?
+@17.4
+Heh. I have no such wish at present.
+@17.5
+I see... Then I shall take my leave for today.
+@17.6
+Until we meet again.
+@18.0
+Ah, Lord \#1169.
+@18.1
+(Shall I ask him again to join us?)
+@18.2
+(Shall I ask him to join us soon?)
+@18.3
+Ask him
+@18.5
+(I've decided. I'll ask him.)
+@18.6
+Lord \#0FF0, today I have a special request.
+@18.7
+Hmm, what might it be?
+@18.8
+Lord \#0FF0, I would very much like you to lend your strength to me, \#0169.
+@18.9
+Lord \#0FF0, once again, I would ask for your help.
+@18.10
+Then, if you will forgive me, I would like to test your strength, Lord \#1169. Is that all right?
+@18.11
+Of course.
+@18.13
+Splendid.
+@18.15
+Then once more... I, \#07F0, humble as my skill may be, wish to be of help to you, Lord \#07FE.
+@18.17
+Hmm, you still have far to go.
+@18.19
+Come again another day. I will always be waiting.
+@18.21
+Hm? Is something the matter?
+@18.22
+No, it is nothing.
+@19.2
+Roll up, roll up! The famous Izumo no Okuni troupe! Miss it and you'll regret it all your life!
+@19.3
+Oh, they are performing here. Lord \#0828 might be here.
+@19.4
+Watch
+@19.6
+Well, let us take a look.
+@19.9
+Welcome, welcome!
+@19.10
+Well, I am in, but with this crowd I have no idea where Lord \#0828 might be...
+@19.11
+What are they putting on today?
+@19.12
+Some tearjerker, I hear.
+@19.13
+It's starting.
+@19.14
+♪ In my breast~ a firefly glows~
+@19.15
+Hey, we've been waiting!
+@19.16
+♪ It burns~ la la la la~\n  Every night, every night~ I long~
+@19.17
+What a lovely song. I'm enchanted.
+@19.20
+♪ Though I gaze and gaze~ cough, cough\n  So lovely~ cough
+@19.21
+Oh dear, what's wrong?
+@19.22
+Hey, hey, pull yourself together!
+@19.25
+♪ Fair from every side~ cough, cough
+@19.26
+And you call this worth the admission?!
+@19.27
+The mood is turning ugly...
+@19.28
+♪ Though I gaze and gaze~ such lovely grace~
+@19.29
+What, is that Lord \#0828?
+@19.30
+Hey, hey, some odd fellow's started singing.
+@19.31
+♪ Fair from every side~ or flowers in full bloom~
+@19.32
+Oh, a beautiful voice, for such a face.
+@19.33
+♪ Love we swore~ yet could not wed~\n  Moon and blossoms~ all we shared~
+@19.34
+♪ In this fleeting world~ it is so~\n  Grudges held~ and grudges borne~
+@19.35
+Bravo! Splendid!
+@19.36
+Lord \#0828!
+@19.37
+Why, Lord \#17FE. Were you watching?
+@19.38
+I never dreamed you had such a talent.
+@19.39
+You saved us. Thank you so much.
+@19.42
+Thank you from me too, cough. How shameful, catching a cold... cough cough.
+@19.43
+No, I never thought my dream would come true like this either.
+@19.44
+Your dream?
+@19.45
+I wanted to stand on the same stage as Lady Okuni, even just once.
+@19.46
+Oh, not just once. Please stand on our stage again.
+@19.47
+No, no, I am embarrassed. It was only a bit of fun.
+@19.48
+Lord \#0828, then would you put that talent to use for me?
+@19.49
+What do you mean?
+@19.50
+I would like you to serve as my double.
+@19.51
+What? You and I, Lord \#0FFE, look nothing alike. Are you joking?
+@19.52
+I am not joking. For a double, more than looks, what matters is capturing the person's air.
+@19.53
+You could carry out that role splendidly, Lord \#0828.
+@19.54
+...I see. Then I, \#0028, will support Lord \#0969 from now on, in the shadows and in the light!
+@19.55
+\#0028 has joined you.
+@19.56
+I'll pass after all.
+@20.0
+Hey, sir samurai, there's trouble!
+@20.1
+Hm, what on earth is the matter?
+@20.2
+That big monk... It looks like those ronin took him off somewhere.
+@20.3
+What! What do you mean?
+@20.4
+Lord \#0FF0, you were here?
+@20.5
+No, I was just passing by... Landlady, what happened? Tell us in detail.
+@20.6
+Well, the monk was drinking alone, and those ronin from the other day came up to him saying they wanted to make up.
+@20.7
+They got him roaring drunk, and when he passed out, they said they'd look after him and took him out the back door...
+@20.8
+I thought something was up, so I looked, and they had him tied round and round with rope, slung on a pole, and off they went.
+@20.9
+Hmm, carrying that big brother of mine must have been hard work.
+@20.10
+This is no time for jokes. If anything happens to Lord \#0FF1...
+@20.11
+Forgive me. Then, if it is no trouble, will you help me look for him?
+@20.12
+Of course. Landlady, do you know which way they went?
+@20.13
+They seemed to head toward the woods out back, but I don't know where after that.
+@20.14
+Then let us split up and search.
+@20.15
+Understood.
+@20.18
+Ugh, he's way too heavy.
+@20.19
+Hic! Whee...
+@20.20
+Found you! Hey, let him go!
+@20.23
+Tch, they found us. Boys, we'll finish this one off too!
+@20.26
+Gah... T-tough...
+@20.27
+Now, untie that rope.
+@20.30
+Not so fast...
+@20.32
+Tap tap tap.
+@20.33
+Hm, surrounded!? So there were more of them hiding!
+@20.36
+Yeah, we set this up to lure you lot here. Prepare to die!
+@20.40
+Heh heh heh. Sorry, but you're dead.
+@20.42
+Not so fast!
+@20.43
+Lord \#0FF0!
+@20.46
+Hm, he's one of them too!
+@20.49
+Don't panic, he's bare-handed. Get him!
+@20.50
+Hmph!
+@20.51
+Whack!
+@20.56
+Thwack!
+@20.60
+Hyah!
+@20.61
+Thud!
+@20.64
+Gyaah!
+@20.65
+(To beat them all bare-handed... What strength...)
+@20.68
+We can't win this, scram!
+@20.69
+Don't you ever show your faces around here again!
+@20.70
+Lord \#0FF0...
+@20.71
+Well, glad we made it in time. Hey, \#0FF1, how long are you going to sleep!
+@20.72
+Thump!
+@20.73
+Hic! Ow ow ow... Kicking me, how rough... Hm!? What's this rope?
+@20.74
+Those ronin from the other day got you dead drunk and tied you up.
+@20.75
+Now that you mention it, I feel like I was having a fine time drinking with them until just now...
+@20.76
+Honestly, how carefree can you get... Untie the rope yourself.
+@20.77
+Lord \#0FF0, that is asking too much.
+@20.78
+Nah, a rope like this... Hmph!
+@20.79
+Snap!
+@20.80
+What, he tore the rope just by tensing... He too has no ordinary strength.
+@20.81
+Even so, we have given you nothing but trouble, Lord \#0969.
+@20.82
+Truly, I cannot hold my head up.
+@20.84
+...If you both have so much strength to spare, how about serving me?
+@20.86
+...That sounds better, eh, little brother?
+@20.87
+Sounds so, big brother.
+@20.88
+We two eat a lot and drink a lot, and have nothing to our names but brute strength, but we will serve you with all our might!
+@20.89
+We are in your hands!
+@20.90
+\#02C2 and \#02C1 have joined you.
+@21.1
+Ow!
+@21.2
+Oh, sorry.
+@21.4
+Ahahahaha!
+@21.5
+Hm, who's there!?
+@21.6
+Ahahahaha! Mister, up here, up here!
+@21.7
+Up... Hm, on top of that tall tree?
+@21.8
+Boy
+@21.9
+Man
+@21.12
+Ahahaha, looking up like that will give you a crick in the neck. I'm coming down!
+@21.13
+Thud.
+@21.14
+Very nimble, aren't you.
+@21.17
+Mister, this is no time to be so relaxed.
+@21.18
+What do you mean!?
+@21.21
+Aren't you missing something?
+@21.22
+Missing... Hm, the purse that was in my breast is gone!? So it was that man who bumped into me?
+@21.25
+That's right.
+@21.26
+"That's right"... You could tell, watching from way up there?
+@21.29
+Yup.
+@21.30
+Anyway, I must chase that man...
+@21.33
+He's already lost in the crowd. Mister, leave this to me. Wait here!
+@21.34
+H-hey... He's gone. Running so lightly across the rooftops!
+@21.37
+Here you go.
+@21.38
+He handed you the purse.
+@21.39
+This is my purse, all right... How on earth did you get it back?
+@21.42
+That's a secret... I bet that guy still hasn't noticed his purse was taken back.
+@21.43
+Well, in any case, you saved me. What is your name?
+@21.44
+Me? I'm \#0FF0. Everyone calls me \#07F0.
+@21.45
+Sarutobi... "Leaping monkey," light as a monkey, eh? Where on earth did you learn such skills?
+@21.46
+Well, I've always lived in the mountains, and the monkeys were my playmates.
+@21.47
+Climbing trees, jumping from branch to branch... the monkeys taught me all of it.
+@21.48
+I see... Forgive me for not saying so sooner, I am \#0169. I would like to thank you.
+@21.49
+Hmm, there's nothing I really want... I know, then teach me all sorts of things.
+@21.50
+Oh, and what would you like me to teach you?
+@21.51
+I'll think about it by next time. I have to go back to the mountains today. Bye, mister, see you!
+@21.52
+Hey... He's gone. But what fearsome agility. He may be a rare talent...
+@22.0
+Mister!
+@22.1
+\#0FF0, what brings you here today?
+@22.2
+Well, I'd like to try riding a horse.
+@22.3
+The other day you said you'd teach me all sorts of things, mister, so I came to learn.
+@22.4
+Oh, what would you like to learn?
+@22.6
+I see, you have never ridden a horse.
+@22.7
+Nope. I have ridden on a big monkey's back, though.
+@22.8
+...I-is that so!?
+@22.12
+Very well, let us go to the stables then.
+@22.14
+Welcome. What can I do for you today?
+@22.15
+this kid
+@22.16
+this one
+@22.17
+Master, would you lend me a horse? I want to teach \Z001 to ride.
+@22.18
+Ah, Lord \#0FFE knows horses well, so you are welcome to borrow one of ours.
+@22.19
+Then I will borrow one for a while.
+@22.20
+Right, I will show you how it is done.
+@22.21
+Well, did that help?
+@22.22
+Yeah, I feel like I could do it too!
+@22.23
+\#07F0's Cavalry skill is now \1008.
+@22.25
+Hmm, I didn't really get it.
+@22.26
+\#07F0's Cavalry skill did not rise.
+@22.27
+Phew... Let us stop here for today. Master, I am returning the horse.
+@22.28
+Thanks, stable man.
+@22.29
+Come any time.
+@22.30
+(Shall I show him once more...)
+@22.31
+Show him
+@22.33
+Right, I will show you once more.
+@22.37
+Well, mister, thanks for today. I'll come again.
+@22.38
+Sorry, I am busy now.
+@22.39
+Okay, next time then!
+@23.1
+\#0FF0, what is it today?
+@23.2
+Well, I want to know how to shoot a gun.
+@23.3
+Well, I want you to teach me again, mister.
+@23.9
+Very well, let us go to the smithy then.
+@23.11
+Hey, what can I do for you?
+@23.14
+I want to teach \Z001 to shoot a gun.
+@23.15
+I've just had a big order come in and I'm busy. I'll lend you a gun, so could you teach him?
+@23.16
+Then let us do that.
+@23.20
+\#07F0's Gunnery skill is now \1008.
+@23.23
+\#07F0's Gunnery skill did not rise.
+@23.24
+Phew... Let us stop here for today. Lord \#17F1, I am returning the gun.
+@23.25
+Thanks, Mr Shibatsuji.
+@23.26
+Sure, come again.
+@24.2
+Well, I want to know about military science.
+@24.5
+Let's see... I want to know about military science.
+@24.9
+Very well, let us go to my house then.
+@24.11
+
+@24.12
+
+@24.13
+Welcome home... Oh, \#0FF0\Z001 is with you. Hello, \#0FF0\Z001.
+@24.14
+Hello.
+@24.15
+Sorry to intrude, oops.
+@24.16
+Wow, so this is your house, mister.
+@24.17
+Very well, let us go somewhere quiet. To an inn, then.
+@24.19
+Welcome. Will you be staying the night?
+@24.20
+Ah, no. I would like to borrow a room for a little while.
+@24.24
+Yeah, studying is pretty interesting, isn't it.
+@24.25
+\#07F0's Tactics skill is now \1008.
+@24.28
+\#07F0's Tactics skill did not rise.
+@24.29
+Phew... Let us stop here for today.
+@24.30
+Oh, you're leaving? You could have stayed for dinner.
+@24.31
+Thanks, but I have to go home now.
+@25.2
+Mister, thanks for teaching me so much all this time.
+@25.3
+What is it, so formally?
+@25.4
+Actually, I'm thinking it's about time I came down from the mountains too.
+@25.5
+Oh, is that so? And what do you plan to do?
+@25.6
+Well, would you take me on as one of your men, mister?
+@25.7
+What! Of course, nothing would please me more.
+@25.8
+Really!? All right, then properly...
+@25.9
+I, \#016C, will serve with all my heart, mis... I mean, Lord \#0969. I'm in your hands!
+@25.10
+\#016C has joined you.
+@25.13
+Actually, I'm thinking of coming down from the mountains soon too.
+@25.14
+Oh, is that so?
+@25.15
+When you serve a daimyo again and rise in the world, mister, take me on as one of your men.
+@25.16
+When you rise in the world, mister, take me on as one of your men.
+@25.17
+Yes, when that time comes I will surely send for you.
+@25.18
+When that time comes, come here again and I'll come to see you.
+@25.19
+Very well, it is a promise.
+@28.0
+In month \M002 of \M001... the Ten Sanada Braves gathered under \#0169.
+@28.1
+A master gunner, a man of herculean strength, one as nimble as a monkey...
+@28.2
+The deeds of these men of many strange talents would be told for ages to come...
+@30.0
+Hm, Lord \#0828 is not in...
+@30.1
+Oh, \#0828? He went to see Izumo no Okuni's kabuki dance, I hear.
+@30.2
+Went to see the kabuki dance...

@@ -1,0 +1,128 @@
+@0.0
+A letter has arrived from Lord \#0199 of the \#1322 clan.
+@0.1
+From \%04199... What could he want? Well, let's read it.
+@0.2
+\#0199... I can't think why. Why would a letter come from such a man? Well, let's read it.
+@0.3
+...Hmm, this is no small matter.
+@0.4
+What does it say?
+@0.5
+It says \%20199 is leading a plan to overthrow his lord, \%20322.
+@0.7
+It says that once their lord is overthrown, they wish to make my younger brother, \#0898, the new head of the \#1322.
+@0.8
+How will you reply, my lord?
+@0.9
+Mm, first I must find out what \#0898 wants.
+@0.11
+Hm, you came just at the right moment. So you've received the letter too.
+@0.12
+Yes, so it reached you as well... Then this will be quick. Brother, give me leave to go to Yamaguchi.
+@0.13
+You're very hasty... This is a matter to think over carefully.
+@0.14
+A chance like this does not come often.
+@0.15
+Retainers trying to overthrow their lord means utter chaos. Walking into that is like pulling chestnuts from the fire.
+@0.16
+But my mind is made up. I beg you, give me leave.
+@0.17
+...Very well. If you insist that much, try it. When the time comes, I'll allow you to go to the \#1322 clan.
+@0.18
+Yes, I'm most grateful. Then, excuse me!
+@0.21
+Hm, a letter?
+@0.23
+Ah, wait, who is it from... He's gone. Well, let's read it.
+@0.25
+It was a letter from \#0199 of the \#1322 clan: he would overthrow his lord, \#0B22, and then make \#0898 the new head of the \#1322.
+@0.26
+What an extraordinary tale! I could become a daimyo!
+@0.27
+Come to think of it, how many years has it been since I left Yamaguchi...
+@0.28
+\#0FFE had once lived in Yamaguchi as the adopted son of \#0322.
+@0.29
+But when \#0B22 had a son of his own, \#0898 soon fell out of favour and, with no place left, returned to Bungo.
+@0.30
+This needs careful thought. Should I accept this offer...
+@0.33
+Right, I've decided. I'll accept. I'll go and get my brother's leave at once...
+@0.43
+Yes, the wise man keeps away from danger... I'll pretend I never heard this.
+@0.44
+Lord \#07FE, a letter has come to the old lord from \#0199 of the \#1322 clan.
+@0.45
+\#0199... Why would a letter come from such a man... What does it say?
+@0.46
+\#0199... Why would a letter come from such a person... What does it say?
+@0.47
+Yes. It says \%20199 is leading a plan to overthrow his lord, \%20322.
+@0.49
+And once their lord is overthrown, they wish to make the old lord's younger brother, Lord \#0898, the new head of the \#1322.
+@0.50
+Hmm. And what did the old lord say?
+@0.51
+The old lord seemed to think it dangerous, but Lord \#0898 himself was eager and talked him into agreeing.
+@0.52
+So Lord \#0898 jumped at the chance to become a daimyo...
+@0.53
+If Lord \#0898 goes to the Ouchi, I'll naturally go with him...
+@0.54
+But can we really get on in such a chaotic house...
+@1.1
+So it has finally happened... What exactly was the situation? Tell me in detail.
+@1.2
+So it has finally happened... What exactly was the situation? Please tell me in detail.
+@1.12
+Now that it has come to this, \#0199 will soon be sounding us out...
+@1.13
+My lord, Lord \#034E has come as envoy of Lord \#0199.
+@1.14
+My lord, an envoy of Lord \#0199 has come.
+@1.15
+Mm, show him in. I'll come at once.
+@1.17
+I have come on behalf of \#0199.
+@1.18
+Yes, about \#0898, I take it.
+@1.19
+Yes, just so. I have come to escort him to be head of the \#1322.
+@1.20
+Understood. I'll call him here at once.
+@1.21
+\#0098 is here.
+@1.22
+Mm. You've already heard about the \#1322 clan.
+@1.23
+Yes, I have.
+@1.24
+As promised, I will send you to the \#1322 clan. The envoy for that has come.
+@1.25
+Lord \#0898, I have come to escort you.
+@1.27
+...Then, Brother, I go now to the \#1322 clan.
+@1.29
+Yes. Take care, Brother.
+@1.30
+He's gone... What will become of the \#1322 clan, and of \#0898...
+@1.31
+Now, as arranged, an escort should come from Lord \#0199...
+@1.32
+Lord \#07FE, the old lord is calling for you. Please come to the castle.
+@1.38
+Lord \#0898, I have come to escort you. I will now guide you to \41DE.
+@1.43
+Then, as arranged, I'll be going to the Ouchi with Lord \#0898...
+@1.45
+My lord.
+@1.46
+An escort from the Ouchi has just arrived. You'll come with me.
+@1.48
+And as promised, Lord \#0898 has set off for \41DE to become head of the \#1322 clan.
+@1.49
+Lord \#0898 head of the \#1322... I hope he can get through the turmoil in that house.
+@1.50
+Lord \#0898 head of the \#1322... I do hope he can get through the turmoil in that house.

@@ -1,0 +1,176 @@
+@0.0
+It seems \#0276 is leading his troops himself.
+@0.1
+So it seems.
+@0.2
+Now is the time to wipe out the shame of the night battle at Kawagoe. Let's go!
+@1.0
+So the \#1276 army is in sight... Right, men, this is where we stand firm! Attack!
+@2.4
+In month \M002 of \M001, the \#1320 army defeated the \#1276 army at the Kanna River.
+@2.5
+The \#1320 house upheld its honour as Kanto deputy, and the \#1276 house's ambitions in the Kanto suffered a setback.
+@2.7
+Ugh, beaten by the \#1276 yet again!
+@2.9
+It can't be helped. Fall back!
+@2.10
+In month \M002 of \M001, the \#1320 army was defeated by the \#1276 army at the Kanna River.
+@2.11
+The Kanto deputy's prestige faded, and the \#1276 house's conquest of the Kanto made great strides.
+@2.12
+Report. \#0228 of our \51E8 Castle has gone over to the \#1276 house!
+@2.13
+Report. Our \51E8 Castle has gone over to the \#1276 house.
+@3.0
+Victory is ours! The enemy is retreating.
+@3.1
+We somehow held them off... Everyone, you fought well!
+@3.3
+Right, back to the castle.
+@3.5
+Ugh, we weren't strong enough...
+@3.6
+What will you do?
+@3.7
+Mm, if we dawdle, the \#1276 army will catch us. I cannot let the \#1320 house end in my time.
+@3.8
+Then please flee quickly.
+@3.9
+But even if I flee, where can I go... None of our other castles can hold out now.
+@3.11
+Then how about Echigo?
+@3.12
+Echigo... \#0077, eh? But will he agree?
+@3.13
+I hear \#0877 is a warlord devoted to honour and courtesy. He will surely help us.
+@3.14
+Very well. If you insist, I will go to \#1077.
+@3.15
+There's no time. Take only your attendants and leave the castle.
+@3.19
+They say the old lord has already fled to \#0077 of Echigo.
+@3.20
+What should I do...
+@3.21
+Serve the \#1276
+@3.22
+Become a ronin
+@3.23
+It can't be helped now. I'll serve the \#1276.
+@3.24
+I can't serve our sworn enemy.
+@3.25
+With the old lord gone to Echigo, it seems \#0218 of \41E1 has declared independence and become a daimyo.
+@4.0
+This castle can hold out no longer!
+@4.15
+They say the old lord has already left this castle and fled to \#0077 of Echigo.
+@4.22
+Report. With the fall of \41DF, it seems the old lord fled toward Echigo.
+@4.23
+What! To think the Kanto deputy's house would collapse!
+@4.24
+That Lord \#0B20 had to flee... It's truly pitiful...
+@4.25
+But we will not bow to the \#1276!
+@4.26
+Right, we will declare independence at this castle and be a wall against \#1276 rule in the Kanto!
+@4.27
+We'll hold our castle until the day Lord \#0B20 returns.
+@4.28
+Lord \#0A18 has declared independence and become a daimyo to protect the \#1320 house's lands.
+@4.29
+Oh, that's Lord \#0A18 for you! We must support him too.
+@4.30
+The \#1276 house is calling on the \#1320 retainers to surrender. What shall we do?
+@4.31
+It can't be helped now. I'll serve the \#1276 house.
+@5.1
+Report. The \#1276 army is marching toward our lands!
+@5.2
+What, the \#1276! How many troops?
+@5.3
+Sir, about 20,000, they say.
+@5.4
+Hmph, we'll drive them off at once. We march too!
+@5.7
+Report. The old lord's army fought \#0276's army at the Kanna River.
+@5.9
+Yes. Sadly, we were defeated by the \#1276 army.
+@5.10
+What, luck was against us... But then the \#1276 house's pressure on \41E2 here will surely grow...
+@5.11
+Lord \#07F5, a letter has arrived.
+@5.13
+...This is!
+@5.14
+What is it?
+@5.15
+A letter from the \#1276. It says the Kanto's fate is sealed, so join us.
+@5.16
+They're telling us to change sides?
+@5.17
+Normally I'd reject it outright, but as things stand I must decide carefully.
+@5.18
+If we refuse, the \#1276 will surely turn on this castle first.
+@5.19
+That's right... Now, what should I do...
+@5.20
+Go over to the \#1276
+@5.22
+Mm, I've decided. It can't be helped now. This castle will side with the \#1276.
+@5.24
+Mm, I've decided. It's only right to protect the Kanto deputy, Lord \#0B20.
+@5.26
+That's right.
+@5.28
+Urge going over to the \#1276
+@5.29
+Don't urge it
+@5.30
+Now it can't be helped. I think siding with the \#1276 is wisest.
+@5.31
+I see. Then from now on, this castle will side with the \#1276!
+@5.33
+Things are grim, but I think it's right to protect the Kanto deputy, Lord \#0B20.
+@5.34
+I see. Then let's forget this talk.
+@5.40
+What, luck was against us...
+@5.41
+On hearing of the defeat, \41E2 went over to the \#1276 house.
+@5.42
+On hearing of the defeat, \#07F4 of \41E2 went over to the \#1276 house.
+@5.43
+What a disaster. The Kanto deputy's house grows ever weaker...
+@6.1
+Report. The \#1276 army is closing in on \41DF.
+@6.2
+Hmph, they've come again! We march too!
+@6.3
+But unlike before, we can't match them in numbers. We should hold out in the castle...
+@6.4
+If we can't hope for relief, holding out means dying in the castle. We should go out and fight.
+@6.7
+Report. The old lord's army and the \#1276 army fought again, and the old lord was defeated!
+@6.8
+What, the \#1276 army humiliated us again! And what happened to the old lord?
+@6.9
+They say he took a few attendants and fled to Lord \#0077 in Echigo.
+@6.10
+His heir, Lord Tatsuwakamaru, was captured and executed by the \#1276.
+@6.11
+What a disaster. So the Kanto deputy's house is finished too...
+@6.12
+My lord, what will you do?
+@6.16
+Mm, we will declare independence at this castle and be a wall against \#1276 rule in the Kanto!
+@6.18
+We'll send troops and take the \#1320 house's castles before they fall into \#1276 hands.
+@6.19
+We'll hold our castle until the day Lord \#0B20 returns.
+@6.21
+Mm, there's nothing for it but to serve the \#1276 house...
+@6.23
+On hearing that Lord \#0320 fled, it seems \#0218 of \41E1 has declared independence and become a daimyo.

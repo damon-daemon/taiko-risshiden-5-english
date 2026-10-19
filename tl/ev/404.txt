@@ -1,0 +1,702 @@
+@0.0
+The Yagyu estate, where \#07FE was born and raised...
+@0.1
+Surrounded by many small local families, this land was never free of war, and martial arts flourished as a means of self-defence.
+@0.2
+Training with the sword since childhood, \#0FFE had grown to be acclaimed as the foremost swordsman in the Kamigata.
+@0.3
+Dear! Dear!
+@0.4
+What is it, \#0451? Why the hurry?
+@0.5
+There you are. A messenger from Lord \#0279 came just now...
+@0.6
+Hm, and what does he want?
+@0.7
+Yes, they are holding the opening of the dojo.
+@0.8
+Oh, I see! So the dojo is finally finished.
+@0.9
+I have prepared a congratulatory gift. Please take it with you.
+@0.10
+Hm. Then I'm off.
+@0.11
+Take care, and have a good trip.
+@1.0
+Welcome, \%03. I've been looking forward to this.
+@1.1
+Congratulations on finishing the dojo. Please accept this small gift.
+@1.2
+You handed over a barrel of sake, salted sea bream, kelp and red rice.
+@1.3
+How thoughtful. I'm grateful.
+@1.4
+What a splendid dojo... As one who follows the way of the sword, I'd like to open a dojo myself one day.
+@1.5
+For that, I'd first need a license...
+@1.6
+Ask how to get a license
+@1.7
+Don't ask about it
+@1.8
+Indeed. Nothing begins until you get a license.
+@1.9
+With your talent, \%03, it would be no trouble.
+@1.10
+How does one get a license?
+@1.11
+One way is to become a pupil of someone who holds a license, earn their approval, and be granted one.
+@1.12
+The other way is to found a school of your own. In other words, to create your own license, as I did.
+@1.13
+Ask how to found a school
+@1.14
+Don't ask about it
+@1.15
+I see.
+@1.16
+How does one found a school?
+@1.17
+If you train until people call you a swordsman or a spear master, there is no shame in founding a school.
+@1.19
+Master, it is nearly time.
+@1.20
+Oh, so it is, so it is.
+@1.21
+\%03, I'm about to teach the basics of fighting to the students who enrolled today... Would you like to watch?
+@1.22
+Watch the lesson
+@1.23
+Don't watch
+@1.24
+No, another time.
+@1.25
+Ha ha ha, it may indeed be dull for you.
+@1.26
+Hm, I know! How about we show them a bout between you and me, \%03?
+@1.27
+I'd be glad to watch.
+@1.28
+Then, shall we begin?
+@1.29
+Splendid teaching! I'm impressed.
+@1.30
+You flatter me.
+@1.31
+Next, would you lend a hand too, \%03?
+@1.32
+Oh, it's simple. I'd like you to have a bout with me.
+@1.33
+Have a bout
+@1.34
+Don't have a bout
+@1.35
+I'm still unskilled, so please excuse me.
+@1.36
+No, no, I shouldn't have pressed you.
+@1.37
+If I will do.
+@1.38
+I'm grateful. But don't hold back.
+@1.40
+As expected of you, \%03.
+@1.41
+Ugh... I yield!
+@1.42
+The students must have learned something from this bout.
+@1.43
+I'm sorry to have troubled you to come today. Please visit again.
+@2.0
+Ah, that's right. I must go to \%04279's dojo, not home.
+@4.0
+Hmm. I can't grasp "No-Sword Seize" at all. Maybe it was beyond me after all...
+@4.1
+Dear, what's the matter? You look so gloomy... Are you feeling unwell?
+@4.2
+No, I just have something on my mind...
+@4.3
+My master asked me to master "No-Sword Seize," but no matter how much I meditate, I can't grasp it.
+@4.4
+You've mastered the martial arts, dear. I'm sure you'll grasp it.
+@4.5
+Believe in yourself and do your best.
+@4.6
+You're right, \%03. I was losing heart. I'll try meditating more!
+@4.7
+If you've meditated enough, isn't something else the cause?
+@4.8
+When Lord \#0128 asked you, didn't he say anything else?
+@4.9
+Hmm... Now that you mention it... I think he may have said, "It's also important to hone your Shinkage skills in real combat"...
+@4.10
+Right, I'll gain more real combat experience, then meditate.
+@4.11
+It's a request from someone like Lord \#0128. It can't be done overnight.
+@4.12
+Don't worry about me. Devote yourself to your training.
+@4.13
+I'm sorry to leave you lonely... Right, I'll do my best.
+@5.0
+(My master told me to found my own school...)
+@5.1
+(If I'm going to name it... Yagyu Shinkage would be best.)
+@5.2
+Right, I've decided!!
+@5.3
+Oh, dear, shouting so suddenly... What's the matter?
+@5.4
+Listen, \%03. From today, I'm founding a new school.
+@5.5
+How wonderful. What will you name it?
+@5.6
+The Yagyu Shinkage school.
+@5.7
+What a fine name. I'm sure it will become the finest school in the land!
+@5.8
+Hm. I may cause you all sorts of trouble, \%03, but I'm counting on you.
+@6.0
+Dear... um... there's something I'd like to talk to you about.
+@6.1
+What is it?
+@6.2
+I feel very bad asking something so selfish, but...
+@6.3
+We're husband and wife, aren't we? Don't hold back. Tell me anything.
+@6.4
+I just can't get used to \41DB... Couldn't we go back to the town of Nara, where we used to live?
+@6.5
+You want to move to the town of Nara?
+@6.6
+Yes.
+@7.0
+Dear, have you learned the secret techniques of the Shinkage school?
+@7.1
+Yes, I've learned amazing techniques like Moon Shadow and Floating Boat.
+@7.2
+Yes, I've learned an amazing technique called Moon Shadow.
+@7.3
+The Shinkage school is deep. Every day is fresh for me.
+@7.4
+Oh, how wonderful. You shine so brightly while training in the Shinkage school, dear.
+@7.5
+Just seeing that makes me happy.
+@7.6
+I put you through so much, don't I?
+@7.7
+Don't worry about me. Train in the Shinkage school to your heart's content.
+@7.8
+Thank you. With such a good wife, I'm the happiest man in the land.
+@7.9
+Oh, my...\n(blush)
+@8.0
+D-dear! Someone called \#02AE is here to see you.
+@8.1
+He seems terribly angry... What happened?
+@8.2
+Hm, don't worry. Wait inside.
+@8.3
+\%03, sorry to keep you waiting.
+@8.4
+\%03! I hear you have inherited the true line of the Shinkage school!
+@8.5
+Why!! Why did our master choose you, and not me!!
+@8.6
+Fight me right here, right now!
+@8.7
+Accept the duel
+@8.8
+Refuse the duel
+@8.9
+If that will satisfy you...
+@8.10
+It's pointless... Our master would never want such a thing.
+@8.11
+Enough talk!! Step outside!!
+@8.12
+Hm? You don't seem to be in full health! Here, take this. Drink it.
+@8.13
+You received "Hangontan" and drank it.
+@8.14
+Now, have at you!
+@8.15
+Ugh...\nI yield...
+@8.16
+As expected of the one who inherited the true line...
+@8.17
+But now I feel better.
+@8.18
+Right, I win. Phew, now I feel better.
+@8.19
+Who is the true heir no longer matters.
+@8.20
+One thing I can say for sure: we are both pupils of \#0128.
+@8.21
+Quite right. We must carry on our master's will and hand it down to later ages.
+@8.22
+Um... Have you made up?
+@8.23
+Ah, madam. Forgive me for earlier.
+@8.24
+Right, I've decided. I'll found a school too.
+@8.25
+I'll make it a fine school, as good as Yagyu Shinkage. Ha ha ha!
+@8.26
+Well then, I take my leave.
+@9.0
+\%03, you haven't opened a dojo yet?
+@9.1
+To spread the Yagyu Shinkage school you founded, you should open a dojo.
+@9.2
+Though you'll need 1000 kan to build it...
+@9.3
+I see. I have that much saved.
+@9.4
+Indeed, to hand my school down to later ages, building a dojo may be the quickest way.
+@9.5
+That much... But to spread Yagyu Shinkage, it can't be helped.
+@10.0
+\%03, it's become a fine dojo.
+@10.1
+Your students seem to be growing steadily.
+@10.2
+If you [Expand Dojo] to make it bigger, you'll get even more students.
+@10.3
+Advice from a senior who runs a dojo.
+@10.4
+At this rate, I expect Yagyu Shinkage to spread even more.
+@11.0
+\%03, it's been a while!
+@11.1
+I hear your dojo is doing well.
+@11.2
+I heard you have over \1006,000 students. That encourages me too.
+@11.3
+Oh? Your dojo doesn't seem to have a proper instructor.
+@11.4
+Without instructors, the teaching won't reach everyone, and students will quit.
+@11.5
+It's best to make a pupil you've granted a license your instructor.
+@11.6
+The stronger the pupil's Valor, the more the dojo will prosper.
+@11.7
+But even a pupil has to be a ronin with time on his hands...
+@11.8
+By the way, do you have any pupils?
+@11.9
+No, I'm ashamed to say, not one...
+@11.10
+When you have a [Bout], the opponent may ask to become your pupil.
+@11.11
+It's best to have a [Bout] with someone who doesn't belong to a school yet.
+@11.12
+Oh? Your dojo seems to have only \1006 instructors.
+@11.13
+Unless you add more instructors, the teaching won't reach everyone, and students will quit.
+@11.14
+Well, let us both strive to hand our master's teachings down to later ages.
+@11.15
+Indeed.
+@12.0
+\%03! I hear your dojo is thriving.
+@12.1
+How many students do you have now?
+@12.2
+Over \1006,000. It looks like I can keep my promise to our master.
+@12.3
+Oh, that's amazing! As expected of you, \%03.
+@12.4
+Let me tell you something useful.
+@12.5
+If you serve a daimyo house as martial arts instructor, your dojo's fame will rise and you'll get even more students.
+@12.6
+Of course, the more powerful the daimyo house you serve, the better.
+@12.7
+Hm, I see.
+@12.8
+Right! I won't lose either. Ha ha ha!
+@13.0
+It's been a while, \%03.
+@13.1
+W-why, \%03! How good to see you.
+@13.2
+What a splendid dojo! I was right about you after all.
+@13.3
+But to get more students, why not try the "fukuro-shinai" I devised?
+@13.5
+With this, you can train safely. Townsfolk who hesitated to enrol for fear of injury should become students too.
+@13.8
+Then, make your school prosper. I'm counting on you.
+@14.0
+\#0FFE, we've been expecting you. Please, come inside.
+@14.1
+Ah, you've come, \%03. This is Lord \#0128.
+@14.3
+I am \#0128. I have heard of you, \%03.
+@14.4
+If I may, I humbly ask for a lesson...
+@14.5
+Now, now, \%03. How impatient.
+@14.6
+Very well. First, my student \#0259 will be your opponent.
+@14.7
+(A pupil as my opponent... He means to test my skill.)
+@14.8
+I am \#0259, first pupil of \#0128. Have at you.
+@14.9
+Have at you.
+@14.10
+Hm, I've been careless...
+@14.11
+Oh, to beat \#0A59... Splendid skill.
+@14.12
+Forgive me.
+@14.13
+I yield.
+@14.14
+(Hm, if I can't even beat his student...)
+@14.15
+The depth of the Shinkage school... I, \#0FFE, am impressed.
+@14.16
+\%03, would you like to enrol in the Shinkage school?
+@14.17
+Please, by all means, let me enrol.
+@14.18
+Hm. From today, \%03, you are a student of the Shinkage school. Work hard to learn our school's secret techniques.
+@14.19
+Ask about techniques
+@14.20
+Ask nothing
+@14.21
+I will do my best.
+@14.22
+\%03, how should I go about learning the secret techniques of the Shinkage school?
+@14.23
+Anyone who holds a Shinkage license can let you [Learn Technique].
+@14.24
+\#0A59 here also holds a Shinkage license. When I am away, learn techniques from \#0A59.
+@14.25
+When you have learned every technique that I, your master, know, I will grant you a Shinkage license.
+@14.26
+\%03, would you stay in \41DB for a while and give us lessons?
+@14.27
+Hm. I was thinking of spreading the Shinkage school from \41DB myself.
+@14.28
+Two houses in this town are empty. Please use them.
+@14.29
+I'm grateful. We will stay a while.
+@14.30
+\#0A59, make ready...
+@15.0
+Our master has gone to the town of Kyoto for a while.
+@15.1
+If it's Shinkage techniques you want, I will teach you.
+@16.0
+\%03, our master has returned to \41DB.
+@17.0
+Ah, \%03. \#0A59 tells me you've improved a great deal.
+@17.1
+When you have learned every technique I know, I will grant you a license.
+@17.2
+I will strive.
+@17.3
+Hm. Today I'll introduce you to a new student.
+@17.4
+It's been a while, \%03.
+@17.5
+Oh, \%03! I didn't know you had enrolled in the Shinkage school.
+@17.6
+What, you already know each other?
+@17.7
+I am \#02AE. I live in \41DE. I hope we'll get along...
+@17.8
+I am \#02AE of \C433. I hope we'll get along...
+@17.9
+I am \#02E4.
+@17.10
+I expect great things of you all. Train hard so that you may become heirs of the Shinkage school.
+@17.11
+Heh, \%03. I won't lose to you.
+@17.12
+Well, \%03, I'll be going back now.
+@18.0
+\%03, today I have a proposal.
+@18.1
+Your skill is worthy of a Shinkage license, but I want you to go further.
+@18.2
+One of the secret techniques I have long studied is called "No-Sword Seize."
+@18.3
+It is a technique to stop the opponent's attack and render it harmless. It is what my ideal, "the life-giving sword," needs most.
+@18.4
+I would very much like you to grasp this "No-Sword Seize." What do you say?
+@18.6
+Ask how to grasp it
+@18.8
+What must I do to grasp a secret technique?
+@18.9
+For that, you should [Meditate].
+@18.10
+There are many famous places across the land. Among them, mountains, temples, shrines and waterfalls are well suited to meditation.
+@18.11
+When I was young, I meditated on Mt. Akagi in Kozuke.
+@18.12
+Grasping it may take years.
+@18.13
+And not only meditation: honing your Shinkage skills in real combat is important too.
+@18.14
+Without real combat, you cannot understand the ideals at the root of the Shinkage school.
+@18.15
+I'm setting out on a journey for a while. By the time I next visit \41DB, I want you to have grasped it.
+@18.16
+Thank you for looking after us so long in \41DB. Farewell.
+@18.17
+\#0A59, let us go.
+@19.0
+\%03... There is something I want to warn you about...
+@19.1
+You are full of talent with the sword and have learned many techniques, but you completely lack something.
+@19.2
+That is experience. Knowledge alone, without real combat, is useless when it counts.
+@19.3
+Take jobs at the tavern, have bouts with all sorts of people, and gain more real combat.
+@19.4
+Don't come here again until the world at least calls you a "swordsman."
+@19.6
+You are full of talent with the sword and have learned many techniques, but you lack something.
+@19.8
+Take jobs at the tavern, have bouts with all sorts of people, and gain a bit more real combat.
+@20.0
+Ah, \%03. Are you training hard? I won't lose to you!
+@21.0
+Ah, \%03. Let us both work to spread our schools!
+@22.0
+Ah, \%03. My dojo has gained many students too!
+@22.1
+We must both hand our master's teachings down to later ages.
+@23.0
+Oh, say, you there, samurai sir. You look pretty strong.
+@23.1
+If you're short of money, try the tavern. They'll find you work.
+@23.2
+Ask about tavern work
+@23.5
+Oh, tavern work... What kind is there?
+@23.6
+Bouncer, bandit hunting... You hone your sword and earn money too. Two birds with one stone.
+@23.7
+When you've saved up, come to the back of the tavern. I'll show you a goo-ood time. Ooh, I'll be waiting!
+@23.8
+...A good time?\nWhatever does she mean?
+@23.9
+Dear!
+@23.10
+Hm, \%03? What's the matter?
+@23.11
+You were late coming home, so I was waiting, and...
+@23.12
+Who is that indecent woman!
+@23.13
+Oh, no, er... a girl I don't know.
+@23.14
+And you were going to have a good time with a girl you don't know!
+@23.15
+A good time... W-wait, don't jump to conclusions. She only told me where to find work.
+@23.16
+It seems the tavern has work where I can put my skill to use.
+@23.17
+I'm always putting you through so much, \%03, so I thought it might help a little.
+@23.18
+O-oh, is that so... I jumped to conclusions. How embarrassing...
+@23.19
+Um, I'll go home ahead of you...
+@23.20
+(...Phew, good grief. \%03's hasty temper is a trial.)
+@23.21
+(Now, what to do? Maybe I'll look for work at the tavern? It could be just the thing to test my skill.)
+@24.4
+Ah, \%03, good timing. Do you know \#0128?
+@24.5
+I don't
+@24.6
+I do
+@24.7
+I know of him. They say he's the finest swordsman in the land, of the Shinkage school.
+@24.8
+No, I don't know him.
+@24.9
+His school is Shinkage. He's the finest swordsman in the land. You could call him a sword saint.
+@24.10
+He travels the provinces to spread Shinkage swordsmanship.
+@24.11
+And that \#0128 is visiting this \41DB.
+@24.12
+What, is that true! I'd very much like to learn from him.
+@24.13
+Ha ha ha, I thought you'd say so, so I've invited him to my dojo.
+@24.14
+He should be staying a while. Come to my dojo later.
+@24.15
+Understood.
+@25.0
+(Oh? Our master is over there...)
+@25.1
+Ah, good timing.
+@25.2
+You went to the trouble of finding us houses, and I'm sorry, but I'm going to Kyoto for a while.
+@25.3
+That's sudden. What a pity.
+@25.4
+\#0A59 will stay in this town, so learn techniques from him.
+@25.5
+Thank you for your consideration. Take care on the road.
+@26.0
+(Oh? Isn't that our master over there?)
+@26.1
+(Hm, he's surrounded by several men. I must help him!)
+@26.4
+Hey, hurry up and fight!
+@26.7
+Yeah, yeah, draw your sword!
+@26.10
+Hyahahaha! Scared of us, are you?
+@26.11
+Why do you attack me?
+@26.14
+Isn't it obvious! If we beat you, we'll be famous overnight! Offers of service will come rolling in!
+@26.15
+By beating one man with all of you?
+@26.18
+Heh, dead men tell no tales! We can make up any excuse we like.
+@26.19
+It's no use. Give it up.
+@26.22
+Come on, everyone, get him!!
+@26.23
+It can't be helped...
+@26.24
+Shinkage secret art: Marobashi!!
+@26.27
+Ugh...\nToo strong...\nI couldn't see a thing...
+@26.28
+I struck with the back of the blade. Rest easy.
+@26.29
+(Wh-what!! What was that technique that felled five men in an instant!! Was I dreaming?)
+@26.30
+("Marobashi"... I'd very much like him to teach me that technique.)
+@27.0
+It's been a while.
+@27.1
+Oh, \%03! You've come back to \41DB.
+@27.2
+Hm. I thought by now you might have a grip on "No-Sword Seize."
+@27.3
+Yes, I have grasped "No-Sword Seize."
+@27.4
+Then let me see the results.
+@27.5
+\%03, be his opponent.
+@27.7
+\%03, here I come!
+@27.8
+In the blink of an eye, \#07FE seized \#0259's sword bare-handed.
+@27.9
+Splendid! I have indeed seen it.
+@27.10
+\%03... You have now surpassed me.
+@27.11
+You should not cling to the Shinkage school, but found a school of your own.
+@27.12
+\%03, no... What are you saying?
+@27.13
+I have not yet mastered the Shinkage school.
+@27.14
+No. As far as I know, there is no one who surpasses you.
+@27.15
+You should inherit the true line of the Shinkage school and found your own school as well.
+@27.17
+My soul has passed to you, \%03. Polish it further and hand it on to the next age.
+@27.18
+A man's life has its limits, but the way of the sword has none. I am counting on you.
+@27.20
+\%03, here we too part. From now on, follow your own path.
+@27.22
+\#0259, \#02AE, and \#02E4... All splendid pupils.
+@27.23
+I am the happiest man in the land...
+@27.24
+I have no more regrets. Both of you, live well. Farewell!
+@27.25
+\%03.........
+@27.26
+He's gone...
+@27.27
+\%03, I'll be setting out soon too.
+@27.28
+From now on I mean to open a dojo in \41DE. If you like, drop by.
+@27.29
+Let us both strive on. Farewell.
+@28.0
+\%03... It seems you founded your own school without a word to me.
+@28.1
+\%03... It seems you've switched to another school.
+@28.2
+I had hoped you would succeed me...
+@28.3
+I misjudged you. Farewell.
+@29.2
+\#02E4! Fight me!
+@29.3
+Hm, what is the meaning of this!
+@29.6
+Enough talk!
+@29.9
+Hmm, as expected of you, \%03.
+@29.10
+Forgive me. I am \#00EC, pupil of \#0279.
+@29.11
+My master always praises you as a splendid martial artist, so I just had to fight you.
+@29.12
+By way of apology, please accept this.
+@29.13
+You received the "Kikuchi Spear."
+@29.14
+I live in \41DE. When you come near \41DE, please drop by.
+@29.15
+I serve \C433.
+@29.16
+When you come near \41DE, please drop by.
+@29.19
+Hm, you're not as good as they say.
+@29.20
+Heh, forgive me. I am \#00EC, pupil of \#0279.
+@29.21
+My master always praises you as an amazing martial artist, so I just had to fight you.
+@29.22
+I have no more business here. Farewell.
+@30.0
+Ah, that's right. Before leaving town, I must go to \%04279's dojo.
+@31.0
+Now, I'd like to grasp "No-Sword Seize" somehow, but where should I train...
+@31.3
+Well, I'll manage on my own.
+@31.4
+Shall I ask someone? Hey, you there!
+@31.7
+Ya want somethin' with me? Hey! Don't step there!! That's my precious field!
+@31.8
+Oops, sorry. Do you know a good place near here for sword training?
+@31.11
+What're ya on about... sword trainin'... Ya must have time on yer hands.
+@31.14
+What's the matter, Pa?
+@31.17
+Oh, this fella's askin' for a place to train.
+@31.20
+A place to train...?
+@31.23
+I know! How about a waterfall? I've seen people training there a few times.
+@31.26
+Go far south of the town of Nara and there's Shingu Castle. Nachi Falls is to the northwest of it.
+@31.29
+There's a river, so if you follow it upstream, I think you'll find it.
+@31.30
+Northwest of Shingu Castle, then. I'm grateful.

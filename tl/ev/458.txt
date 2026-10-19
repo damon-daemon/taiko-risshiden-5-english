@@ -1,0 +1,478 @@
+@1.1
+Old lord! A letter has come from Lord \#01FA...
+@1.2
+What... Let me see it.
+@1.3
+Hmm............ hmm.
+@1.4
+What does Lord \#11FA say?
+@1.5
+He says he wishes to come here to \41DE to pay his respects and celebrate the fall of the \#11BF house...
+@1.6
+A good chance to show our ally \#09FA the splendour of my castle. Let us give him a lavish welcome.
+@1.7
+An excellent idea, my lord.
+@1.8
+Then... I'll appoint a suitable vassal as host to entertain Lord \#09FA.
+@1.9
+What about Lord \#000E?
+@1.10
+Hm... \#080E. He knows court custom and etiquette well. He'd be the right man, I suppose...
+@1.11
+But there was that business when I punished him during the \#11BF campaign... I hope he isn't holding a grudge.
+@1.12
+Hmm... I can think of no one else. I'll leave it to \#080E.
+@1.13
+With a senior vassal like Lord \#100E as host, Lord \#11FA will surely see our sincerity.
+@1.14
+Yes... you're right. I'll make \#080E host. Issue the orders at once.
+@2.0
+T-terrible news!!
+@2.1
+What is it! What's happened?!
+@2.2
+Th-the old lord has passed away...!!
+@2.3
+What...!! Father?! Impossible...!! I can't believe it!
+@2.4
+It is true! He was taken by a sudden illness and breathed his last!
+@2.5
+Lies! You're joking!
+@2.6
+No one would say such a thing as a lie or a joke.
+@2.10
+Owari isn't even united yet... Why did you die... Old man...
+@2.11
+The funeral will be held at Banshoji. You must lead the mourners, young lord... Please hurry to Banshoji.
+@2.12
+Funerals... I don't care. Father wouldn't be pleased by such a thing.
+@2.13
+That won't do. Come now, hurry!
+@3.0
+A row of monks' heads won't please Father...
+@3.1
+Better I send the old man off to the other shore my own way, with a bang!
+@3.2
+Hasn't the service started yet?
+@3.3
+Not yet... Lord \#08C3 hasn't arrived!
+@3.4
+He's late! Where has my brother gone?! Someone! Go find him!
+@3.5
+Young lord! He has just arrived!
+@3.6
+Show my brother in at once! ...Eh?
+@3.7
+Y-young lord... what are you wearing?!
+@3.8
+Where's... the old man's memorial tablet?!
+@3.10
+Brother! What on earth are you wearing...!
+@3.12
+A-anyway, please offer incense.
+@3.13
+...Father. Why did you die...
+@3.14
+Give me the incense!!
+@3.15
+Y-yes!
+@3.16
+\#00C3 opened his fist and grabbed\nas much incense as he could hold.
+@3.17
+Th-that much...!\n\n...Ah!!
+@3.18
+Take that!!
+@3.19
+Ah!!
+@3.20
+Brother! Have you gone mad?! Throwing incense at Father's memorial tablet! Is that how a son behaves?!
+@3.21
+Farewell!! Old man!!
+@3.22
+Ah! M-my lord! Where are you going? The service isn't over yet!
+@3.23
+I've done my mourning! I'm going back!
+@3.25
+What on earth...
+@3.26
+Well, well... That "fool" truly is...
+@3.27
+Next to \#08BE, who carried out the funeral\ncalmly, \#08C3, the new head, ran wild,\nand thoughtful \#10C3 vassals despaired...
+@3.28
+Fearing for the house of \#10C3, some moved\nto make his brother \#08BE head instead.\nIt was only natural...
+@3.29
+Father... I, Saburo \#08C3, will surely make the dream you could not fulfil come true!
+@4.1
+Oh, isn't it Gramps. What is it?
+@4.2
+"What is it" indeed! Do you know what the samurai, townsfolk, even the peasants of Owari call you, my lord...
+@4.3
+"The Fool", I suppose? Well, it's true enough, isn't it. Ha ha ha!
+@4.4
+This is no laughing matter! A ruler must have dignity! Ever since the late lord passed away...
+@4.5
+Never mind that, \%03. Your son Goroemon's horse... that's a fine horse. Give it to me.
+@4.6
+Eh? Goroemon's horse?
+@4.7
+Hirate Goroemon was \#0B25's eldest son\nand a childhood friend of \#08C3.
+@4.8
+I don't know where he got it, but it's a fine horse. I'll ride it... Tell him to hand it over.
+@4.10
+What's the matter, Gramps?
+@4.11
+I cannot. I cannot have my son give his horse to his lord.
+@4.12
+What are you saying?! \#0B25!
+@4.13
+A vassal keeps horses so that, in an emergency, he can be the first to rush to his lord's side. Not to collect them out of greed.
+@4.14
+What do you take your vassals for, my lord!
+@4.16
+My lord, think a little of how we vassals feel, serving a lord his own people call a fool! And besides...
+@4.17
+All right, enough!
+@4.19
+Goroemon is disowned. Tell him not to show his face before me for a while!
+@4.20
+My lord! Do you still not understand my heart?!
+@4.21
+Enough! Withdraw, \#0B25!
+@4.24
+I understand... It seems I too said too much... I humbly beg your pardon.
+@4.25
+As long as you understand. Farewell.
+@5.0
+Old lord! Everything is ready to welcome Lord \#11FA.
+@5.5
+Lord \#09FA will arrive soon... Once you've shown him around the castle town, bring him up to the keep.
+@5.7
+(It was right to leave this\n to \#080E after all...)
+@5.9
+Why, Lord \#10C3... What a splendid castle town.
+@5.10
+Ah, \%03. You've come. What do you think of my castle?
+@5.11
+I'm truly impressed. My own castle cannot compare.
+@5.15
+How about it, Lord \#09FA? The view from this keep is the finest.
+@5.33
+Lord \#10C3, there was no need to be so angry... That has completely shamed Lord \#100E.
+@5.34
+No... that man has grown arrogant lately. There was trouble with him in camp during the \#11BF campaign too... Perhaps he looks down on me.
+@5.35
+No... that man has grown arrogant lately. Perhaps he looks down on me.
+@5.36
+Surely not... Aren't you reading too much into it?
+@5.38
+At any rate, for my sake, please forgive Lord \#100E.
+@5.39
+If you insist, \%03, I'll let it go...
+@5.41
+Old lord! May I have a moment?!
+@5.42
+What is it! I'm entertaining Lord \#11FA!
+@5.43
+It seems to be urgent... Don't mind me.
+@5.44
+What do you want!
+@5.45
+Yes, sir! An urgent letter has come from Lord \#0205 in the west!
+@5.46
+What? ...From the Monkey? Let me see it, quickly.
+@5.55
+Hmm... Well, considering his position, I suppose I'll go out to him...\n\nLord \#11FA, I'm sorry, but I must march now. Forgive me for being such a poor host.
+@5.56
+Not at all. We'll rest a while, then see the sights of Sakai and go home. Lord \#10C3... take care on your way.
+@5.59
+Show Lord \#11FA and his party to their lodgings. And call \#080E back. He'll join the reinforcements too.
+@5.61
+Then, Lord \#09FA, farewell.
+@5.62
+Old lord! You have need of me?
+@5.77
+Good... I'll be leaving right away too. We'll meet in the west.
+@5.79
+What's wrong? \#080E?
+@5.80
+N-no, it's nothing. Then...
+@5.81
+......?
+@5.82
+Old lord, Lord \#01FA and his vassals have been shown to their lodgings to rest. Tomorrow, as planned, they go to see Sakai.
+@5.83
+Good... I see. For now, I'll leave command of these reinforcements to \#08C2...
+@5.84
+These reinforcements are mostly for show... We won't need many troops. A small force will do; have them gathered quickly.
+@5.85
+I'll go ahead and wait in the capital. Tell \#08C2 that.
+@6.8
+Then let's add troops
+@6.9
+There's no need
+@6.10
+Well, I don't see much need, but if you insist, we'll bring more troops.
+@6.11
+Very good... Then I'll return to my castle and bring troops with all speed.
+@6.12
+From \51E5... That will take time.
+@6.13
+I'll be as quick as I can... Father, you're lodging at Honnoji for now, so please wait there at your ease.
+@6.14
+Good, understood. Come back as soon as you can.
+@6.16
+Then, old lord... to Honnoji.
+@6.18
+Old lord... I hear the Hakata merchant Lord \#0181 is in the capital with some rare tea ware...
+@6.19
+Old lord... I hear the Sakai tea master Lord \#01AA is in the capital with some rare tea ware...
+@6.20
+Oh... that's interesting. Then I'll hold a tea gathering tonight and invite him.
+@6.21
+Then I'll send him an invitation at once.
+@6.22
+Good... I'm looking forward to it.
+@6.25
+Ha ha ha, you worry too much, \#08C2! Well, I'll rest at my lodgings at Honnoji. You stay at Myokakuji.
+@6.43
+What is it! What's all the noise!
+@6.44
+Old lord! Terrible news! This temple is surrounded!
+@6.45
+Don't be absurd! This is the heart of my domain! Who would attack me?!
+@6.46
+It's a rebellion!
+@6.47
+A rebellion...?! Who! Who dares turn his blade on me!
+@6.48
+Their banner... the pale blue bellflower! It must be... a rebellion by \#100E... Lord \#080E!
+@6.49
+\#080E?! That baldpate! Idiot!
+@6.50
+Bring my bow! Curse it, as if I'd let the likes of \#080E strike me down!!
+@6.51
+Wicked demon king \#00C3! I, \#000E, shall punish you in Heaven's place... Everyone, attack!
+@6.52
+Tch! If I'd known, I wouldn't have sent \#08C2 away...
+@6.53
+Bah, no use crying over it now. As if I'd give my head to the likes of \#080E!
+@6.54
+Tch! If I'd known, I'd have brought more troops, as \#08C2 said...
+@7.0
+\#100E's men will have reached the area around Nijo Castle... \#08C2, we head south.
+@7.1
+\#08C3 and his son broke out of the siege\nof Honnoji and entered Toji, at the\nsouthern edge of the capital.
+@7.2
+Father, now that we've made it this far, we can breathe a little easier.
+@7.3
+But \#080E still has troops at every road out of the capital. We must beat them to get back to \51E5.
+@7.4
+\%03, how many troops did you bring?
+@7.5
+Well... it was so sudden that I couldn't gather as many as I'd hoped. I brought only about 6,000...
+@7.6
+And since we didn't know what the disturbance in the city was, I left some outside the capital. We have only about 3,500 with us now...
+@7.7
+That's plenty! \#080E's army will be searching frantically for me now. His troops must be scattered...
+@7.8
+Where might \#080E's headquarters be...
+@7.9
+Never mind \#080E's main army. I can take the capital back any time. Let him have it for now...
+@7.10
+Our aim is to get back to \51E5... That alone!
+@7.11
+Awataguchi to the west will be heavily guarded... Shall we slip out south toward Toba...
+@7.12
+I report! \#100E's army is surrounding this temple! Old lord, young lord, flee quickly!
+@7.13
+Curse it... \#080E. He's a quick-witted one, I'll give him that. So he's noticed!
+@7.14
+We must break through this siege... with the 3,500 we have!
+@7.15
+Right, we'll sally forth and stake everything on it! \#08C2, whatever you do, don't die!
+@7.16
+Nor you, Father!
+@7.17
+Now, strike down the traitor \#000E!
+@7.19
+After such a disaster, sending reinforcements to \%04205 is out of the question...
+@7.20
+Tell \%04205 at once that reinforcements are impossible!
+@7.22
+Even so... losing \#08C2 is a great blow... Curse you, \#080E!
+@7.23
+With the defeat and death of \#000E,\n"the Honnoji Incident" came to an end...
+@7.24
+From then on, \#00C3 took care to guard\nhis person and pressed on ever harder\nwith the great work of uniting the realm...
+@7.25
+But there was a hint of sorrow\nin the face of the conqueror...
+@8.0
+Well, well... that was a narrow escape!
+@8.1
+I'm so glad you are safe...
+@8.2
+I report! \#000E has declared the restoration of the shogunate in \41DE!
+@8.4
+It seems he brought Lord \#001D, who had been confined at \=07A, to \41DE and set him up!
+@8.5
+Curse him... So that rotten Shogun was pulling the strings! Unforgivable!
+@8.6
+Father! What shall we do?
+@8.7
+Obviously... However many times the likes of \#081D crawls back, I'll show him his own powerlessness again!
+@8.8
+Tell every general in the house! Bring me the heads of both \#001D and \#000E!
+@8.10
+Having driven \#00C3 from the capital,\n\#000E pressed the court almost by force\nand restored \#001D as Shogun...
+@8.11
+\#08C3 at once ordered all his armies\nto hunt down \#100E, and commanded the utter\ndestruction of the shogunate's ghost...
+@9.0
+Wicked demon king \#00C3! So there you are! Fall quietly before my blade!
+@9.1
+Silence, traitor! Whom do you owe your position to?! I'll cut down an ingrate like you!
+@9.2
+Attack!!
+@10.0
+So this is the end...
+@10.1
+My life... cut short by the likes of \#080E...
+@10.4
+Bring a drum! I will dance the Atsumori!
+@10.5
+Old lord! Never mind that, flee quickly!
+@10.6
+There isn't a gap for an ant to crawl through... Clinging to life would only make me a laughing stock. I'll fall here... Set fire to the temple!
+@10.7
+Old lord...!!
+@10.8
+Man's fifty years, set against the world below, are but a dream, an illusion...
+@10.9
+Once born, is there one~ who shall not perish~...
+@10.11
+Heh...
+@10.12
+Father! Are you still alive?! It's \#08C2!
+@10.13
+!? \#08C2?!
+@10.14
+Young lord! The old lord is here!!
+@10.15
+Father!! You're safe! I'm late, but I, \#08C2, have come with troops!
+@10.16
+Yes!! Well done for coming back!
+@10.17
+What on earth has happened! Look at this!
+@10.18
+\#000E has rebelled... Has that baldpate lost his mind...
+@10.19
+Anyway, Father! It's dangerous here. Our army will escort you, so let us move somewhere safe...
+@10.20
+Right, get out of Honnoji without \#080E's army noticing!
+@10.24
+At this rate, \#08C2 at Myokakuji won't escape either... It's a pity I couldn't see him one last time...
+@10.25
+As if the likes of \#080E could rule the realm... What a stupid thing he's done...
+@10.27
+Once born...... is there one who shall not...... perish.........
+@10.30
+Death is certain for all...
+@10.32
+He made Okehazama the turning point of the\nWarring States, and with revolutionary\nreforms opened the door to a new age... \#08C3
+@10.33
+But his glory came to an abrupt end\nwith \#000E's unexpected rebellion...\nHe was \1009.
+@10.34
+\#080E, you idiot! Now you know you're no match for me!
+@10.35
+Old lord! Thank heaven you're safe!
+@10.36
+That's right... What became of \#08C2 at Myokakuji?!
+@10.37
+Well... just like Honnoji, \#080E's army surrounded it... Lord \#08C2 fled toward Nijo Castle, but...
+@10.38
+That too was surrounded, and he took his own life...
+@10.39
+Ngh...! I'm sorry, \#08C2... I should have at least got you away...
+@10.40
+Had nothing happened, he would have ruled the\nrealm as \#00C3's heir: the young\nwarrior \#00C2...
+@10.41
+In the calamity at Honnoji, his young\nlife was cut short... He was \1009.
+@10.42
+Still, sending \#08C2 away from the capital was the right thing... Father and son would both have been killed.
+@10.44
+Even so, \#080E is unforgivable. Send word to the nearby provinces at once! Don't let \#080E escape, whatever happens!
+@10.45
+No need to take him alive! Whoever kills him will be rewarded!
+@10.51
+\%01! You lot! Who are you?!
+@10.54
+\%01!!
+@11.0
+Fall back!! I won't lose my life in a place like this! Fall back!
+@11.1
+Stop! \#080E! You coward!
+@11.2
+Father, don't chase him too far! We've done what we came for. We can get back to \41DE now!
+@11.3
+Yes, so we can... \#080E! I'll leave that head of yours with you a while longer! Wash your neck and wait!
+@11.4
+Everyone, back to \41DE!
+@11.6
+Grr... how bitter! Beaten twice by the likes of \#080E...
+@11.7
+Father! Flee! \#08C2 will hold them here!
+@11.8
+\#08C2!! Don't do anything rash!
+@11.9
+I am \#00C3! Traitor \#000E! Come and get me!
+@11.10
+Oh, \#08C3, you say?! Have at you!
+@11.12
+Hey, this one's too young... He's not \#08C3!
+@11.13
+\#08C2!!
+@11.14
+Hm, then the real \#08C3 is over there!!
+@11.15
+Stand back, wretches!! I am \#10C3 Saburo \#08C3!
+@11.16
+Man's fifty years... set against the world below... are but a dream... an illusion...
+@11.18
+Once... born... is there one... who shall not... perish...
+@11.21
+I have slain \#00C3, the Demon King of the Sixth Heaven! Men, raise the victory cry!
+@11.22
+Y-you fools...!
+@11.25
+\41DE, \#08C3's base for conquering the realm,\nwas soon burned by \#100E's men, and his\nformer glory vanished without a trace...
+@12.1
+Mock Shogun... have you anything to say?
+@12.2
+...M-my life, at least!
+@12.3
+Your Highness... Do not disgrace yourself at a time like this! You are, after all, the head of the warrior houses.
+@12.4
+I-I know nothing... I had nothing to do with it! \#080E did it on his own! Spare me, at least!!
+@12.5
+...Cut off his head!
+@12.6
+Eeek!!
+@12.7
+Fifteen generations and over two hundred years of glory since Lord Tojiin, thrown away by your disgraceful conduct! Let the blood of \#101D die out!
+@12.8
+Gwaaah!!
+@12.9
+Have you anything to say for yourself, \#080E!
+@12.10
+Nothing! I regret nothing I have done...!! Take my head and be quick!
+@12.11
+Very well! As you wish...
+@12.12
+\#000E, the rebel general who rose\nagainst \#00C3, dreaming of\nrestoring the \#101D shogunate...
+@12.13
+His head was exposed at Sanjo riverbed in the\ncapital, and moved all who saw it to pity...\nHe was \1009.
+@0.1
+What is it? What's all the noise? What has happened?
+@0.12
+Ah! My lord... where are you going?
+@0.13
+Ah! \%03! Have you heard about Lord \#1325...

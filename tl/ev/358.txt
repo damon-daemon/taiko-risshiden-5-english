@@ -1,0 +1,460 @@
+@0.0
+My lord, \#01B1 of \A3A4 requests an audience.
+@0.7
+I have come with a proposal concerning three houses: our \#106E, the \#1276 and the \#11C1.
+@0.13
+True... if we, who aim to unite Kanto, join hands with the \#11C1 of Kai and the \#106E of the Tokai like a three-legged cauldron, we'd be strong...
+@0.19
+Then I shall go and speak to the \#11C1 clan at once.
+@1.0
+Hm, someone of the \#1276 clan... I have nothing to say to the \#1276.
+@2.1
+What happened?
+@2.2
+What has happened?
+@2.3
+There was a battle between the \#1276 and \#11C1 armies at Mimase Pass, and the \#1276 army led by the old lord was badly defeated!
+@2.4
+What!? Tell me everything!
+@2.5
+What!? Tell me everything!
+@2.12
+And having suffered a heavy blow in this battle, the \#1276 clan was forced onto the defensive...
+@2.14
+What a thing... But the enemy was \#01C1, a master of war. Perhaps it couldn't be helped.
+@2.15
+\#09C1 will surely attack again. We must strengthen our defences...
+@2.16
+What a thing... But the enemy was \#01C1, a master of war. Perhaps it couldn't be helped...
+@2.17
+\#09C1 will surely attack again. We must strengthen our defences...
+@4.0
+My lord, \#01B1 is waiting for you.
+@4.2
+Why, Lord \#1276. I trust you are well.
+@4.4
+It went well. Lord \#11C1 has gladly agreed.
+@4.14
+So our house, \A3A3 and \A3A4 have formed a three-way alliance...
+@5.4
+Lord \#09C1, you have arrived.
+@6.0
+\%03, an envoy has come from Lord \#006D.
+@6.1
+Oh, from my son-in-law? What could it be?
+@6.3
+Oh, so the envoy is you, \%03. What brings you to me today?
+@6.4
+It is an honour to meet you. I am \#07F0, retainer of the \#106D clan.
+@6.5
+Yes. And what brings you to me?
+@6.6
+You are Lord \#0276, I take it. Lord \#006D has entrusted me with a message.
+@6.8
+Yes, sir. Our \#106D clan is hard-pressed by the attacks of the \#11C1 clan.
+@6.9
+So, taking advantage of the fact that the \#11C1 lands are in the mountains, we are planning a salt embargo.
+@6.10
+A salt embargo... You mean the \#106D clan's lands will sell no salt to the \#11C1 lands...
+@6.11
+Yes. But if salt is brought into the \#11C1 lands from the \#1276 clan's lands, the plan will have no effect at all.
+@6.12
+We humbly ask that the \#1276 clan, too, join in this salt embargo.
+@6.13
+(Hmm... I doubt it will do much except earn the hatred of the \#11C1 men...)
+@6.14
+(But it would be hard to turn down my son-in-law flatly. Perhaps I should cooperate...)
+@6.15
+Very well, I will cooperate. I will also ask our ally Lord \#0077 to help.
+@6.16
+Thank you, sir. Then I leave it in your hands.
+@6.17
+Lord \#006D has asked the old lord to help with a salt embargo on the \#11C1 clan!
+@6.18
+A salt embargo? You mean no salt is to be sold to the \#11C1 clan's lands?
+@6.19
+Yes. The old lord says he will help Lord \#006D and enforce the salt embargo.
+@6.20
+He has also asked our ally Lord \#0077 to help with the salt embargo on the \#11C1 clan.
+@6.21
+Hmm... I wonder if it will have any effect.
+@6.22
+...I wonder if it will have any effect.
+@7.0
+\%03, about the salt embargo we asked Lord \#0077 to help with...
+@7.1
+Yes. Lord \#0877 will surely have agreed gladly?
+@7.2
+No, well... He said, "We fight with bows and arrows, not with salt and rice"...
+@7.3
+What! He refused, you say!
+@7.5
+Hmm... Fearsome as an enemy, and unreliable as an ally...
+@7.6
+That \#0877! What a troublesome man!
+@7.7
+Honestly, fearsome as an enemy, and unreliable as an ally...
+@7.8
+That \#0877! What a troublesome man!
+@8.0
+Lord \#07FE, it seems \#0077, who had marched into Kanto, has returned to \41DE.
+@8.1
+What!? Already...... So, how did it turn out? Tell me exactly what happened.
+@8.2
+What!? Already...... So, how did it turn out? Please tell me exactly what happened.
+@8.5
+The \#1077 army swept across the Kanto plain heading south, and closed in on \41E0, \#0276's castle.
+@8.18
+I see. With \#0877 now Kanto deputy, he will march into Kanto more often. We must strengthen our defences all the more...
+@8.20
+Yes. With \#0877 now Kanto deputy, he will march into Kanto more often. We must strengthen our defences all the more...
+@9.0
+If I'm out wandering at a time like this, I may not be there when I'm needed. I'd better stay in the castle for now.
+@9.1
+If I'm out wandering at a time like this, I may not be there when I'm needed. I'd better stay in the castle for now.
+@11.0
+It seems the \#1320 army has come out too.
+@11.1
+Yes, sir. \#0320 seems to be leading the troops himself.
+@11.2
+Hmph. Let's show him that a poor general gains nothing however many men he gathers. Forward!
+@13.0
+A great victory for our side! The \#11C1 army is destroyed!
+@13.1
+Well done, everyone! Raise a victory cry!
+@13.3
+Thus the Battle of Mimase Pass ended in victory for the \#1276.
+@13.6
+I must report! Our army is routed!
+@13.7
+Hmm, so they were lying in wait...
+@13.8
+\%03! There's not a moment to lose! Retreat!
+@13.9
+Hurry back to Odawara Castle and strengthen its defences!
+@13.13
+Having suffered a heavy blow in this battle, the \#1276 clan was forced onto the defensive...
+@14.0
+Victory is ours! The enemy is routed!
+@14.1
+Well done, everyone! Raise a victory cry!
+@14.2
+Ei, ei, oh!
+@14.3
+If we pursue them now, could we not destroy them at one stroke?
+@14.4
+No, the outcome is already decided. There's no need to rush the attack here. We can wait for the next chance.
+@14.6
+Right, we turn back.
+@14.7
+Month \M002 of year \M001: the \#1276 army defeated the \#1320 army at the Kanna River.
+@14.8
+The \#1276 clan drew a step closer to mastery of Kanto, while the prestige of its rival, the Kanto deputy \#1320 clan, fell to the ground.
+@14.9
+Thanks to this victory, \#0228, lord of the \#1320 clan's \51E8 Castle, has defected to our house.
+@14.10
+Thanks to this victory, the \#1320 clan's \51E8 Castle has defected to our house.
+@14.12
+Hmm, I underestimated the \#1320's strength.
+@14.13
+Anyway, please flee, my lord.
+@14.14
+It can't be helped. Retreat!
+@15.0
+After the Imagawa fell and the Kai-Sagami-Suruga alliance collapsed, \#01C1 invaded the lands of his former ally, the \#1276 clan...
+@15.1
+Setting out from Tsutsujigasaki, the \#11C1 army surrounded \41DE with a great host.
+@15.2
+And the reinforcements \#0276 had counted on from the \#1077 clan never came...
+@15.3
+Damn that \#0877! To send no reinforcements even when my castle is under attack...
+@15.4
+There's no use regretting that now. Give the order to march at once!
+@15.5
+Yes! Even if no help comes from the \#1077, this Odawara Castle is impregnable!
+@15.6
+Throw everything we have at the \#11C1 army and drive them off!
+@16.0
+Right! Let's win this battle and show that our \#1276 clan are the masters of Kanto! Attack!
+@16.1
+Ohhhhh!
+@17.0
+The Kanto lords rallied to \#0077, who had crossed the mountains for the Kanto deputy \#0320. His army reached 100,000...
+@17.1
+The \#1077 army swept south across the Kanto plain and besieged \41DE with its great host...
+@17.2
+This attack is just \#0877 lashing out in impatience! The Kanto lords will surely sit back and watch!
+@17.3
+But if we lose these battles, our \#1276 has no future! Men, throw everything at \#0877's army and drive it off!
+@18.0
+Victory is ours!
+@18.1
+Yes. What of \#0320?
+@18.2
+Well, sir, word is he had already fled the castle and escaped towards Echigo.
+@18.3
+Hmm, so we couldn't catch him. Well, no matter. The Kanto deputy's house is as good as dead. We'll return to \41DE in triumph!
+@18.5
+My lord, a man calling himself Mekata Shinsuke has come to see Lord \#0A76.
+@18.8
+I am Mekata Shinsuke. When Lord \#0320 left, Lord \#0B20 entrusted the castle to me.
+@18.9
+I see. And what do you want?
+@18.12
+Yes, sir. The truth is, I have in my care Lord \#0B20's heir, young Lord Tatsuwakamaru.
+@18.13
+What!? \#0B20's heir, you say?
+@18.16
+That is so. I will hand over Lord Tatsuwakamaru, so I beg you to show mercy to the people of the castle...
+@18.17
+You fool!
+@18.20
+Eek!
+@18.21
+A retainer should protect his lord's child even at the cost of his own life! To hand him to the enemy to save yourself is unforgivable!
+@18.25
+Take this disloyal wretch away! Parade him through the town and crucify him!
+@18.28
+C-crucify! Please, anything but that...
+@18.29
+Come on, get up! Move!
+@18.30
+What shall we do with Tatsuwakamaru?
+@18.31
+It is a pity, but if we let him live he'll be trouble in the future. Put him to the sword as well.
+@18.33
+Month \M002 of year \M001: \41DF, seat of the Kanto deputy \#0320, fell to the fierce assault of the \#1276 army.
+@18.34
+\#0B20 abandoned even his family and fled with a handful of attendants to \#0077 in Echigo...
+@18.35
+Hearing that \#0320 had fled, \#0218 of \41E1 seems to have declared independence and become a daimyo.
+@18.36
+Our army is routed!
+@18.37
+Hmm, we couldn't take it. It can't be helped, we'll withdraw.
+@19.0
+My lord, it seems that when \41DF fell, \#0320 fled towards Echigo.
+@19.1
+Hmm, so that is the end of the Kanto deputy's house...
+@19.3
+My lord, it seems \#0320 has fled towards Echigo.
+@19.4
+So that is the end of the Kanto deputy's house...
+@20.1
+Ugh! \#0077... as brave as they say. To think this \41DE would fall......
+@20.2
+Now there's nothing for it but to escape for now and plan a comeback.
+@20.3
+Spurred on by \#0877's victory, the Kanto lords fought hard, and before \#0077's 100,000 men even impregnable \41DE fell...
+@20.4
+But realising he could advance no further, \#0877 led his troops back to Kamakura and became Kanto deputy at Tsurugaoka Hachimangu.
+@20.6
+Yes! Well done, everyone! If we beat \#0877, the Kanto lords will lose heart too!
+@20.8
+Yes! Well done, everyone. Even if we didn't win, as long as we didn't lose, it's a victory for us in the end.
+@20.9
+Even \#0077's valour and his 100,000 men could not take the famous impregnable castle of \41DE.
+@20.10
+The Kanto lords lost heart. Seeing a long siege was hopeless, \#0877 went back to Kamakura and became Kanto deputy at Tsurugaoka.
+@20.23
+Well, with \#0877 gone, it's our \#1276's turn next. What was taken must be taken back.
+@21.0
+I must report! The \#11C1 army has begun to retreat!
+@21.1
+Congratulations, my lord. Victory is ours.
+@21.2
+Now \#09C1 won't be able to invade our lands for a while.
+@21.3
+Indeed. But the \#11C1 army retreated with strength to spare.
+@21.4
+As things stand, they may well invade our lands again some day.
+@21.5
+Yes. Now is the perfect chance to pursue the retreating \#11C1 army and deal it a heavy blow!
+@21.6
+Form a pursuit force at once!
+@22.0
+Lord \#07FE! \#01C1 has invaded our lands with a great army!
+@22.1
+What!? \#01C1 has invaded! We must strengthen our defences at once...
+@22.2
+What!? \#01C1 has invaded? We must strengthen our defences at once...
+@22.4
+Grave news! \#01C1 of Kai appears to be marching on Odawara!
+@22.5
+What! \#09C1!?
+@22.6
+Damn you, \#09C1! Not content with destroying the Imagawa, you attack our house too!
+@22.7
+Ever since he broke the alliance, I knew it would come to this.
+@22.8
+That is exactly why I gave \#0875 up for adoption and made the alliance with the \#1077.
+@22.9
+Send an envoy to the \#1077 clan at once to ask for reinforcements!
+@22.11
+Lord \%04276, Odawara Castle is impregnable. I believe our best plan is to hold out in the castle, wait for reinforcements, then catch them in a pincer.
+@22.12
+Yes. Have every castle strengthen its defences. Even if \#09C1 attacks, they are not to strike back; if in danger, they are to fall back to \51E6. Those are strict orders.
+@22.14
+Even \#0077 couldn't make a dent in it. Let's show them how strong Odawara Castle is!
+@22.15
+Yes. Everyone, rest well to be ready for battle. That ends today's council!
+@23.0
+We've done all we can. Now we just wait for the \#11C1 army. There's nothing left to discuss!
+@24.0
+Now, let us begin the council. Today I have something important to tell you all.
+@24.1
+Something important? What is it?
+@24.2
+Yes. At last the time is ripe. Now is the time to bring down the Kanto deputy's house and win mastery of Kanto!
+@24.3
+Oh! So at last we raise troops to overthrow the \#1320!
+@24.4
+Exactly. Prepare to march at once.
+@24.6
+Now, let us begin the council.
+@24.7
+I must report. The old lord's army has fought \#0320's army at the Kanna River.
+@24.8
+What, the old lord! And what happened?
+@24.9
+Yes, sir. He drove off the \#1320 army splendidly. Victory to our \#1276 army!
+@24.10
+As one would expect of the old lord... Now the Kanto deputy's prestige has fallen, and more lords will side with the \#1276 clan.
+@24.11
+Yes, \41E2 has already defected to our house.
+@24.12
+Yes, \#07F4 of \41E2 has already defected to our house.
+@24.13
+Our house's campaign in Kanto will advance all the more now.
+@25.1
+Our preparations are complete. At last, let us deal the \#1320 the final blow.
+@25.2
+Oh! So the time has come at last.
+@25.3
+Yes. I hear that since the battle at the Kanna River, morale at \41DF has fallen and men keep deserting.
+@25.4
+So now is the time to strike?
+@25.5
+Exactly. Everyone, prepare to march!
+@25.9
+My lord, the old lord attacked the \#1320 clan's \41DF and took it.
+@25.10
+What, the old lord! And what became of \#0320?
+@25.11
+He fled to Echigo to seek refuge with \#0077.
+@26.0
+As you know, our \#1276 clan has broken its alliance with the \#11C1 clan.
+@26.1
+But \#01C1 is one of the finest generals of our age. Even with my son-in-law \#006D and our house combined, I'm not sure we can stand against him.
+@26.2
+But \#01C1 is one of the finest generals of our age. Taking him on alone is very risky.
+@26.4
+So I intend to send an envoy to \#0077 and propose an alliance.
+@26.5
+But, \%03! We have fought \#0077 for years over control of Kanto.
+@26.6
+He is sure to make impossible demands!
+@26.7
+Yes. But \#0077 has also fought \#01C1 to the death many times over Shinano.
+@26.8
+If it means settling things with \#09C1, even \#0877 will be willing to join hands with us.
+@26.9
+Even if the talks fail, nothing changes from how things are now. So it's worth a try.
+@26.11
+Everyone seems agreed. Then I shall send an envoy to \#0077 to propose an alliance.
+@26.12
+As you all know, our house has broken its alliance with the \#11C1 clan and cut off relations.
+@26.13
+The old lord says he will negotiate an alliance with \#0077 to fight \#01C1. Everyone, act with that in mind.
+@27.0
+About the alliance with \#0077: a reply has come from \#0877.
+@27.1
+What does \#0877 say?
+@27.2
+He broadly agrees to an alliance against \#01C1.
+@27.3
+But there is one condition... He wishes to adopt one of my sons.
+@27.4
+But that... They may call it adoption, but it's a hostage by another name!
+@27.5
+That \#0877! Is he mocking us!?
+@27.6
+Calm down, all of you!
+@27.7
+\#0877 is unmarried. They say he has sworn lifelong celibacy, so he is unlikely ever to take a wife.
+@27.8
+So \#0877 has no heir. If one of the \#1276 is adopted now, he may well inherit the \#1077 clan.
+@27.9
+Seen that way, it's not such a bad offer. If one is to be adopted, it would be \#0875...
+@27.12
+Give up the alliance
+@27.13
+\%03, it is your life. I leave the choice to you.
+@27.14
+I will go to Lord \#0877.
+@27.15
+It will benefit the \#1276 clan, and for me it's a fine chance to watch Lord \#0877, one of the finest generals of our age, command up close.
+@27.16
+This is a most welcome offer. Please accept it.
+@27.17
+Very well. From now on, we join with Lord \#0077 against \#01C1.
+@27.22
+No, let us forget this offer after all. We don't need \#0877; we will never bow to \#09C1!
+@27.23
+\#0875, it is your life. I leave the choice to you.
+@27.25
+Be adopted
+@27.26
+Stay with the \#1276
+@27.31
+That is all for today's council. Dismissed!
+@27.36
+The \#1077 clan was originally the house of the Kanto deputy, the enemy every head of the \#1276 has sworn to overthrow.
+@27.37
+What good would the headship of such a house do me? I would ask you to decline this offer...
+@27.38
+Very well, let us forget this offer. We don't need \#0877; we will never bow to \#09C1!
+@27.47
+As for the alliance talks with Lord \#0077, they succeeded, and the alliance has been concluded.
+@27.48
+As part of the alliance, the old lord's youngest son, Lord \#0875, has been adopted by Lord \#0077...
+@27.49
+He has taken the name Uesugi Kagetora and become heir to the \#1077 clan.
+@27.50
+Kagetora... wasn't that the name Lord \#0077 once used himself?
+@27.51
+Yes, to give him his own former name... Lord \#0877 must have high hopes for Lord \#0875.
+@29.0
+Lord \#07FE! It seems \#0077 is marching into Kanto in the name of the Kanto deputy \#0320, now in exile in Echigo!
+@29.1
+What!? \#0077 is crossing the mountains into Kanto! Then we must strengthen our defences...
+@29.2
+Is that true!? \#0077 is crossing the mountains into Kanto? Then we must strengthen our defences...
+@29.3
+Now, let us begin the council.
+@29.4
+Grave news! It seems \#0077 is marching into Kanto in the name of the Kanto deputy \#0320, now in exile in Echigo!
+@29.5
+What!? \#0077 is crossing the mountains into Kanto!
+@29.6
+Yes! It seems he has sent out a call to the Kanto lords to join a campaign against the \#1276!
+@29.7
+Lord \%027F0, as long as we hold this \41DF, our \#1276 cannot be defeated! What is \#0077 to us?
+@29.8
+\#0877 took over his house as a young man and pacified all Echigo in no time. He's a brave general... we mustn't underestimate him!
+@29.10
+But \#0FF3 has a point. \#0877 is a hot-blooded, hot-tempered warrior, but in time his courage cools and he becomes cautious.
+@29.11
+In other words, we strengthen our defences, don't strike back, and let him wrestle with thin air until he's had enough. Then he'll go home.
+@29.12
+And \#0877 values righteousness over profit, but men are moved by profit... Those who follow him now will desert him in droves later.
+@29.13
+As expected of Lord \%027F0. A keen analysis. So, how shall we deal with it?
+@29.14
+Have every castle strengthen its defences. Even if \#0877 attacks, they are not to strike back; if in danger, they are to fall back to \51E6. Those are strict orders.
+@29.16
+And call up every warrior around \51E6. Tell them to stay in \41DF until I give leave!
+@29.18
+Everyone, rest well to be ready for battle. That's all for today. Dismissed.
+@30.0
+We've done all we can. Now we just wait for the \#1077 army. There's nothing left to discuss!

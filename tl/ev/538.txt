@@ -1,0 +1,496 @@
+@0.1
+...Hm?
+@0.3
+Hmm... I can't find the kogai from my sword... Do you know where it is?
+@0.4
+A kogai... that's what you use to smooth your hair, isn't it? You usually keep it in the sword guard?
+@0.5
+Yes... and I can't find it. That kogai had very fine patterned work on it. I was fond of it...
+@0.6
+Well... I don't know where it is.
+@0.7
+Hmm... I wonder if I dropped it somewhere.
+@0.8
+Phew... Hm?
+@0.9
+I can't find the kogai I keep in my sword...?
+@0.10
+A kogai is a thin metal rod used for smoothing\nthe hair and the like, usually kept in a slot\nin the sword's guard.
+@0.11
+Hmm... I can't find it. That kogai had very fine patterned work on it. I was fond of it...
+@0.14
+What, the old lord...? I wonder what it is...?
+@0.15
+Ah, you've come, \#0FFE.
+@0.16
+My lord... what do you wish of me?
+@0.17
+Not me... Juami here says he has business with you.
+@0.18
+Ju... ami?
+@0.21
+My name is Juami. Lord \#17FE... do you recognise this kogai?
+@0.22
+Ah! That's my...!
+@0.23
+So it is yours.
+@0.24
+Then, Juami, you found it for me?
+@0.27
+No, no, I stole it, Lord \#1293.
+@0.28
+Wh-what?!
+@0.31
+Lord \#1293, the master of the spear... and a fine swordsman too, they say... I had heard of your prized kogai...
+@0.34
+So I thought I'd put you to the test, Lord \#1293. I waited for an opening and crept up softly from behind.
+@0.38
+And you never noticed me, Lord \#1293. You were completely off guard... so on a whim...
+@0.39
+Wh-why, you!
+@0.40
+Now, now, \#0A93. He's only a page. Let it go this once.
+@0.41
+...But, my lord!
+@0.44
+Though it's not for the thief to say... I never thought the famous Lord \#1293 would leave himself so open...
+@0.45
+Ha ha... Even \#0A93 lets his guard down when he's resting. He's only human.
+@0.48
+Heh heh... Oh, forgive me. It's just that you're quite different from the Lord \#1293 of the rumours...
+@0.49
+You... that's enough! Mocking me before my lord goes too far! On your knees! I'll punish you myself!
+@0.53
+S-stop it! \#0A93!!
+@0.54
+Punish him anyway
+@0.55
+Sheathe the sword
+@0.56
+I will not! Otherwise, \#0293's honour as a samurai is lost!
+@0.59
+Eeek! My lord, help me!
+@0.60
+Curse you, if you'll beg the lord for help now, you shouldn't have mocked me in the first place! Prepare yourself!
+@0.63
+Ugh...
+@0.64
+Hah, hah, hah... Learned your lesson?! Insolent wretch!
+@0.65
+You fool!!
+@0.67
+You have some nerve, cutting down a page before your lord's eyes! \#0FFE! As of today, you are disowned!!
+@0.68
+D-disowned?!
+@0.69
+I never want to see your face again! Get out of my sight!
+@0.70
+My lord! But it was Juami who...
+@0.71
+I'll hear no excuses! Get out! Out, I say!!
+@0.73
+What have I done... I lost my temper and committed an unforgivable offence before my lord...
+@0.74
+Disowned by my lord... What do I do now...
+@0.75
+Dear... I heard the rumours. What happened?!
+@0.76
+What happened, \%047FE? They say you cut down the old lord's favourite page, in front of him...!
+@0.77
+I'm sorry... \#0FF2. I've incurred the old lord's wrath... For a while we'll live as ronin...
+@0.78
+So... the rumours are true.
+@0.79
+Yes... I'm sorry. I have no excuse...
+@0.81
+W-well, until the old lord's mood improves, all you can do is accept your punishment quietly...
+@0.82
+Yes... For now I'll lie low in some town or other...
+@0.83
+Dear, I'll follow you wherever you go.
+@0.84
+\#0FF2... I'm putting you through so much.
+@0.85
+We'll put in a quiet word with the old lord for you... Bear with it for a while.
+@0.86
+Thank you...
+@0.87
+Don't lose heart...
+@0.88
+Then, \%047F1... Farewell!!
+@0.90
+\#07FE's base moves\nto the town of Kiyosu.
+@0.92
+I had no choice... I cut him down for my honour as a samurai.
+@0.93
+\%047FE...
+@0.102
+T-\#0FFE!!
+@0.103
+Ngh... Beaten even by a mere page... \#07FE's greatest disgrace!!
+@0.104
+W-wait! Don't do anything rash!
+@0.105
+My lord! Farewell! Gurgh!
+@0.106
+\#07FE cut his belly and died before\nhis lord, Nobunaga...\nHe was \1009...
+@0.107
+...If my lord commands it, I'll sheathe my sword. But otherwise my honour as a samurai is lost!
+@0.108
+...You're right. Juami, return the kogai to \#0FFE and apologise.
+@0.111
+Yes... I-I'm sorry, Lord \#17FE... I'll never do it again, so please forgive me.
+@0.112
+Good. Withdraw... You're confined for a while. \#0A93, does that satisfy you?
+@0.113
+Yes... I'm sorry to have shown my lord such an ugly scene.
+@0.114
+Good... You may withdraw too. Cool your head for a while.
+@1.0
+Sigh... How long will this ronin life go on? Will Lord \#08C3's anger never fade...
+@1.1
+Dear, it's terrible! The whole town is talking about it!
+@1.2
+What is it?
+@1.3
+They say Lord \#006E's great army has invaded the \#10C3 lands...
+@1.5
+What will Lord \#08C3 do...
+@1.6
+They say the castle is arguing over whether to hold out or sally forth...
+@1.7
+Grr... I can't just sit here! My lord's house is in danger! I'm going!
+@1.8
+Eh...? But dear, aren't you disowned...?
+@1.9
+In an emergency like this, who cares about disowning! My lord's safety comes first!
+@1.10
+Ah... dear!
+@1.11
+Damn... I have to hurry!
+@1.12
+Lord \#07FE, terrible news! \#006E's great army has invaded the \#10C3 lands!
+@1.14
+They say the castle is arguing over whether to hold out or sally forth!
+@1.16
+Eh...? But Lord \#17FE, aren't you disowned...?
+@1.18
+Ah... Lord \#17FE!
+@1.19
+Damn... I have to hurry!
+@2.1
+Hey! How's the war going?!
+@2.2
+Wh-what's this?! Who are you, all of a sudden?
+@2.3
+I heard my lord has marched out!
+@2.4
+Ch-choking... Damn it, let go!
+@2.5
+Forget it! You're no use! I'm coming through!
+@2.6
+Ah! Hey, stop!! Intruder!!
+@2.11
+...Death is certain for all, is it.
+@2.13
+\#0444, my armour! And rice with hot water!
+@2.14
+Y-yes!
+@2.17
+We march! Tell the generals in the castle town!
+@2.19
+My lord!! I'm here! It's \#07FE! It's your Inuchiyo!
+@2.20
+Hm! \#0FFE! What have you come for?!
+@2.21
+Though I've been disowned by my lord! When I heard the \#106E forces had invaded, I couldn't hold back and came anyway!
+@2.22
+...Hm, a commendable spirit. Very well! Your disowning is lifted! Show me what your spear can do!
+@2.23
+Yes, sir! Then I'm ready to die before my lord's horse!
+@2.24
+Then follow me!
+@3.1
+Oh! \#0FF1! You came! He killed \#006E! Our old lord! He killed \#106E!
+@3.3
+The old lord they called the Fool of Owari, beating \#106E, known as the finest bowman of the Tokaido... A splendid feat!
+@3.5
+To think I'd bring down \#106E with my own hands...
+@3.6
+\#0FFE, well done!
+@3.8
+For his merit at the battle of Okehazama,\n\#07FE was formally pardoned and\nrestored as a vassal of the Oda house...
+@3.12
+\#0FFE, keep serving me from now on!
+@4.0
+Welcome home. You're back very early.
+@4.1
+Yes... we pulled back without really fighting.
+@4.3
+\#0FF1, I've made up my mind. I'm giving up on Lord \#117B. From now on I'll serve \#0205.
+@4.4
+Lord \#0A05...?
+@4.6
+I report! Lord \#017B is here.
+@4.7
+What?! B-bring him in at once!
+@4.9
+\#0FF1, keep what I said just now to yourself.
+@4.11
+\#0A93, thank you for your work in this battle.
+@4.12
+Not at all, I did nothing worth mentioning. I'm sorry...
+@4.13
+Yes, your withdrawal sealed our army's defeat... You could call it the key to our collapse.
+@4.14
+To \#0A05, you must be the man of the hour...
+@4.15
+Lord \#097B...
+@4.16
+But victory and defeat are matters of fortune... I bear you no grudge.
+@4.17
+Now I must hurry back to \51E8, gather my troops and meet \#0A05...
+@4.18
+This castle lay on my way... so I just came to see your face.
+@4.20
+My lady... I'm hungry after the battle. Forgive the imposition, but might I have a bowl of rice with hot water?
+@4.21
+Oh, yes! Just a moment, please...
+@4.22
+Lord \#097B... I...
+@4.23
+Say no more, \#0A93... I understand...
+@4.24
+My luck has run out... Even if I go back to \51E8, nothing awaits me but taking my own life...
+@4.26
+But you served me well and did your duty as my vassal... I thank you.
+@4.27
+Not at all... I couldn't even serve you properly...
+@4.28
+From now on, side with \#0A05... Even in the next world, I won't resent you in the least.
+@4.29
+Lord \#097B...
+@4.30
+Sorry to keep you waiting. Here is your rice.
+@4.31
+Ah, thank you. I'll have it at once.
+@4.33
+Ah, that was good. My lady, thank you for the meal.
+@4.34
+Not at all... I'm sorry it was so plain.
+@4.35
+Well... I'd best be heading back to \51E8...
+@4.36
+Lord \#097B... take care...
+@4.37
+...Yes. Farewell.
+@4.39
+Lord \#097B knew everything... But what cruel times these are... to drive such a righteous man to his death.
+@4.41
+\#07FE became a vassal\nof \#0205.
+@4.42
+I report! Lord \#0205 is here.
+@4.43
+What... and now Lord \#0A05...
+@4.44
+Ah, \#0FFE. It's been a while... Good to see you well. And your wife is as lovely as ever.
+@4.45
+Oh my... Lord \#1205, really. Is Lady \#0435 well?
+@4.46
+Ah... well indeed. Just the other day she said she wanted to see you, Lady \#0FF1.
+@4.47
+Lord \#0205!
+@4.48
+What is it, so formal...
+@4.49
+From now on, allow me to call you my lord.
+@4.50
+What... So you are on my side after all.
+@4.52
+Oh, really! I'm grateful. You know, at Shizugatake your withdrawal decided the battle, so I came to thank you...
+@4.53
+And now you'll join my camp too... Thank you... You are a rare friend.
+@4.54
+So... Lord \#117B must after all...
+@4.55
+I'm sorry for you... but he must be destroyed... It's for the peace of the realm. Bear with me.
+@4.56
+No, I've made my peace with it. I even have Lord \#117B's own blessing... Don't worry about me...
+@4.57
+...Understood. Then that's all for today. Farewell.
+@4.59
+Dear... I think you made the right decision.
+@4.60
+\#0FF1... I've put you through so much.
+@4.61
+\#07FE's change of sides\nbroke the balance between\n\#0205 and \#017B...
+@4.62
+And \#0205's conquest of the\nrealm would move forward...
+@5.0
+Ah, \#0FFE. Thank you... I'm sorry to put you through such a painful time...
+@5.1
+Not at all... If my lord commands it, I won't refuse to march, but...
+@5.2
+I want you in the rear guard. If we break the \#1205 army, take advantage and attack too.
+@5.3
+But if we're beaten instead, your army will be our hope... Is that acceptable?
+@5.4
+Your consideration touches me deeply...
+@5.5
+Yes, I understand you don't want to cross blades with a friend...
+@5.6
+\%04293, we will settle the battle on our own, so rest easy and hold the rear.
+@5.7
+\%04155, don't let your guard down. Whatever you do, don't put the old lord in a tight spot.
+@5.8
+I know, I know!
+@5.10
+Then we march... I'm counting on you to hold the rear.
+@6.0
+All troops, halt!!
+@6.1
+What is it, my lord?!
+@6.2
+We'll pray for victory at Atsuta Shrine. Order all troops to rest!
+@6.3
+At Atsuta Shrine...? But my lord doesn't usually believe in gods or Buddhas... Why?
+@6.4
+Some say \#00C3 visited Atsuta Shrine\nto wait for his following troops\nto catch up...
+@6.5
+It is also said that in answer to \#08C3's\nprayer, the jingle of a horse's bit sounded\nfrom deep within the shrine...
+@6.6
+The jingle of a bit before battle! That's a fine omen!
+@6.7
+Listen, all of you! Don't think about coming back alive! The god of Atsuta watches over us! Go to your deaths, every one of you!
+@6.9
+\#00C3 army morale rose.
+@6.10
+I report! The \#106E vanguard, \#01FA's unit, has attacked and Narumi Castle has fallen!
+@6.12
+...And \#0FF3?
+@6.13
+The castle commander, Lord \#07F3, held the castle prepared to die, but luck was against him, and he fell defending it...
+@6.14
+...I see.
+@6.15
+Men! A battle of vengeance for \#0FF3! Let's go!
+@6.16
+...A small matter before a great one! For now, think only of killing \#086E!
+@7.7
+Got him... That fool \#086E, resting in such a narrow place... We can win... We can win!
+@7.8
+I never thought we'd come back alive, but we have a chance! On this narrow road, his great army can't move!
+@7.9
+Listen! Close in quietly, throw the enemy into confusion and split their army! Then make straight for \#086E's headquarters!
+@7.10
+Our target is \#006E's head alone! Ignore everyone else! Throw away your lives and go for \#086E's head!
+@7.13
+It seems... it's a surprise attack by the \#10C3 army!
+@7.14
+Wh-what?! How can that be?!
+@7.20
+Now is the time to repay our lord's favour! Men, charge!!
+@8.6
+We did it! A great victory for our side!
+@8.7
+We took \#006E too! First spear: Mori Shinsuke! The head taken by Hattori Koheita!
+@8.9
+It's no good! We can't hold back the \#106E army's attack!
+@8.10
+Grr! Curse you, \#086E!
+@8.11
+For now, fall back!
+@8.12
+Despite the surprise attack, the \#106E army\nkept its order and defeated\nthe \#10C3 army...
+@8.13
+\#00C3's surprise attack\nhad utterly failed...
+@8.14
+How can I show my face to my lord now...
+@8.15
+Disowned, I joined the army against orders, and in the end did nothing of note and lost to the enemy...
+@8.16
+\#07FE's honour is lost... All that's left is to die and apologise to my lord.
+@8.17
+My lord... Inuchiyo goes ahead of you. Gurgh.
+@8.18
+With the \#106E army trampling\nOkehazama around him,\n\#07FE took his own life...
+@8.19
+It's no good! Our army is collapsing!
+@9.0
+But the battle of Shizugatake, between\n\#1205 and \#117B, ended far more\nquickly than anyone expected...
+@9.1
+\#017B's army struck at the garrison\nleft behind while \#0205\nwas attacking another castle.
+@9.2
+\#117B's vanguard, \#0155,\nbadly beat the \#1205 army\nin the first clash, but...
+@9.3
+Returning at lightning speed, faster even\nthan the Great Return from the Chugoku, the\n\#1205 army caught \#117B off guard...
+@9.4
+In an instant the tide turned... and\nevery unit, \#1155's first,\ncollapsed.
+@9.5
+I report! Our army is collapsing!
+@9.6
+The old lord begs you to move the rear guard and save our side from disaster.
+@9.8
+...My lord?
+@9.9
+...We withdraw.
+@9.11
+We withdraw! Pull back the army!
+@9.12
+Wh-what are you saying! Our side is waiting for your reinforcements, Lord \#17FE!!
+@9.13
+...The outcome is already decided. Even if I move my troops now, \#1205's victory is certain...
+@9.14
+But... then...
+@9.15
+Victory and defeat are matters of fortune... Lord \#117B was out of luck... That is all.
+@9.16
+Withdraw the army! But do not attack the retreating \#117B army!
+@9.18
+Lord \#117B... forgive me. I choose my friend...
+@10.0
+I report!! A message from the old lord.
+@10.1
+Yes, what is it?!
+@10.2
+His order is that Lord \#07FE be appointed lord of \41DF!
+@10.3
+What, me... of \41DF?
+@10.4
+Clashes with the \#1205 house may come... Placing you, Lord \#17FE, at a key position...
+@10.5
+So he's testing me... Understood! Tell him I accept!
+@10.7
+Good, everyone is here. Then let the council begin. \#07FE!
+@10.9
+I appoint you lord of \41DF!
+@10.11
+I know you and \#0205 are good friends... and that is exactly why I want to entrust the castle to you.
+@10.13
+Govern \41DF well...
+@10.15
+\#07FE became lord\nof \51E6 Castle.
+@11.0
+My lord! The old lord has finally raised an army to subdue \#0205!
+@11.1
+What...! How rash...
+@11.2
+I expect \%04155 or someone, eager for glory, pressed my lord into it...
+@11.3
+You are called to march too, Lord \#07FE!
+@11.4
+It can't be helped... It pains me to make an enemy of \%04205, but...
+@11.5
+My lord! A secret letter from Lord \#0205!
+@11.7
+The secret letter said: "I don't want to be\n your enemy... If you can, will you come\n over to my side?"
+@11.8
+"If you can't, at least stand aside\n and keep your troops still."
+@11.9
+Hmm! What a fix... I can abandon neither my lord \#017B nor my friend \#0205.
+@11.10
+Duty to my lord, faith with my friend... Keep duty and I break faith... keep faith and I fail my duty...
+@11.11
+My lord! There's no time to hesitate! The old lord has sent another call to march!
+@11.12
+It can't be helped... We march!

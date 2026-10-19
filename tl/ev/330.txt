@@ -1,0 +1,368 @@
+@0.6
+But \#09FA could not touch the \#118B clan, which had stayed neutral, and its strength was left intact.
+@3.8
+Our \#118B clan must move its army too. Gather everyone in the Council Chamber!
+@3.10
+On this matter, our lord is holding an emergency council. Please hurry.
+@3.11
+Understood. I'll hurry to the Council Chamber.
+@3.12
+Understood. I will hurry to the Council Chamber.
+@3.13
+As you have all heard, \%201FA is sending an army against \%20074. I intend for our \#118B clan to send troops too.
+@3.14
+But our lands have been in disorder these past years. We cannot field a very large army...
+@3.15
+Yes, but the number of men hardly matters now. What matters is that \#118B sent an army.
+@3.16
+By sending troops we show that we honour our debt to the \#1206 clan. That is enough.
+@3.19
+The old lord bids you, too, my lord, to lead troops up to \41DF.
+@3.20
+Very well. Then gather everyone in the Council Chamber!
+@3.22
+So our lord is holding an emergency council. Everyone is to gather at once...
+@3.25
+As you have all heard, I am to lead an army up to \41DF.
+@3.26
+We cannot take many men, but should it come to war, we will show all Japan the valour of the Satsuma warriors!
+@3.27
+As you have all heard, I am to lead an army up to \41DF.
+@3.28
+We cannot take many men, but should it come to war, let us show all Japan the valour of the Satsuma warriors!
+@3.31
+And so, small though it was, the mighty army that was the \#118B clan's pride set out straight for \41DF.
+@4.1
+Yes. Thank you for coming to meet me.
+@4.2
+Yes, sir. And... a letter has arrived from Lord \#02D1.
+@4.7
+As an exception, however, the \#118B clan was confirmed in its home provinces of Satsuma and Osumi.
+@4.8
+The matchless courage the \#118B force showed in breaking through the enemy had struck fear even into \#01FA, master of the realm.
+@4.9
+Moriatsu... Thanks to you, the \#118B were saved...
+@4.10
+\%03... Thanks to you, the \#118B were saved...
+@4.11
+The matchless courage the \#118B force showed in its retreat from Sekigahara had struck fear even into \#01FA, master of the realm.
+@5.14
+I have no objection.
+@5.15
+I have no objection either.
+@5.42
+Splendid! With this plan, I am satisfied.
+@5.46
+In that case, this time we truly crush \#11FA!
+@6.8
+As I thought... There was no way \Z003 would accept that order...
+@6.9
+My lord! A letter has come from the Five Regents.
+@6.10
+Let's see... Hm, they are raising an army to punish \#11FA, and ask us to join...
+@6.11
+Tell everyone to gather in the Council Chamber!
+@6.13
+The old lord is holding a council to join the campaign against \#11FA.
+@6.17
+We must strike down \Z003 at all costs and end this war!
+@7.8
+\%0418B! You struck down \#09FA, well done!
+@7.22
+That's the old lord for you! I wish I had marched with him...
+@8.0
+\%03, welcome.
+@8.1
+\%03, I had no idea you were here.
+@8.2
+Yes. I am off to subdue \#1074, so I came to pay my respects to Lord \#0A06.
+@8.3
+After all, I hold the command as Lord \#0A06's proxy.
+@8.4
+I see... Then please use my army too against \#1074.
+@8.5
+I am grateful, but... in truth, there is a rumour that troubles me.
+@8.6
+It is this: while I, \#09FA, am away fighting \#1074, someone may raise troops with Lord \#0A06 as their figurehead.
+@8.7
+Oh... That is a dangerous tale indeed.
+@8.8
+Yes. And so I would like your army, \%03, to stay behind and keep order in the capital region.
+@8.9
+Should anything happen, it would be best to hold out in \41DF.
+@8.10
+I see... Very well. Leave it to me.
+@8.11
+Then I am counting on you.
+@8.12
+Perhaps I should go to \41DF once and confer with its commander...
+@8.13
+Ah, I have been waiting. Thank you for the journey.
+@8.14
+\%03 has asked us to keep order in the capital region.
+@8.15
+There are rumours that rogues will exploit \%041FA's absence and raise troops with Lord \#0A06 as their figurehead.
+@8.16
+Should anything happen, we will hold out in \41DF.
+@8.17
+I'll go to \41DF now and make arrangements with its commander. Let's go!
+@9.0
+This castle is cut off. If the rumours of an uprising prove true, it will be a hard fight...
+@9.1
+Halt! What business have you at this castle?
+@9.2
+I am \#018B. \%041FA asked me to keep order in the capital region.
+@9.3
+He advised me to hold out here should anyone raise troops as rumoured, so I came to make arrangements.
+@9.4
+Arrangements? I am afraid I cannot let you into the castle.
+@9.5
+When my master \#09FA stopped here the other day on his way to the Kanto, he said not a word of this.
+@9.6
+Wh-what?! But \%041FA definitely asked me...
+@9.8
+Those siding with \#084B are powerful daimyo: \#00A5, \#007D, \#0138, \#01CA, \#013B and more...
+@9.9
+Their supreme commander is said to be \#02D1! They claim 200,000 men!!
+@9.10
+Hmm, so the rumours were true... But \#084B is not the supreme commander himself?
+@9.11
+a mere province lord
+@9.12
+a mere castle lord
+@9.13
+a mere chief retainer
+@9.14
+a mere officer
+@9.15
+\#084B is only \Z001 of the \#1206 clan. He could hardly serve as supreme commander.
+@9.16
+There is something in that. But the truth is that \#084B lacks the virtue to stand above others.
+@9.17
+In that case, we of the \#118B will help too. Let us defend this castle!
+@9.18
+Lord \#17F1! In that case, we of the \#118B will help too. Let us hold this castle to the end!
+@9.19
+No... There is no need for that.
+@9.20
+But then...!
+@9.21
+I am grateful for your kindness, \%03. But it is all right...
+@9.22
+For us on the \#11FA side, this castle stands alone. We long ago resolved to die with it if it came to that.
+@9.23
+Now that it has come to this, our wish is to keep faith and die here with honour.
+@9.24
+But you, \%03, have no ties to this castle. Please act as your heart tells you...
+@9.25
+Even if you side with \#084B and attack this castle, we shall bear you no grudge.
+@9.28
+\%03! What will you do?
+@9.29
+(\41DF is the only \#11FA base in the capital region. Since I have been refused entry, I cannot side with \#11FA.)
+@9.30
+(That leaves joining \#084B's side, or going home and staying neutral... What to do...)
+@9.31
+Join \#084B's side
+@9.32
+Go home, stay neutral
+@9.33
+Hmm... It can't be helped. I'll join \#084B's side!
+@9.34
+To \41E0!
+@9.35
+\#004B has raised troops, but they say the supreme commander is \#02D1.
+@9.36
+An alliance whose mastermind is not its commander is badly put together.
+@9.37
+So I judge \#084B's side cannot win. Best go home and watch how things go! We withdraw, hurry!
+@10.0
+What?! A daimyo's mansion seems to be on fire...
+@10.1
+What is this? ...A fire?!
+@10.2
+\%03, the burning house is Lord \#027C's mansion!
+@10.3
+What on earth happened?!
+@10.4
+What on earth is going on?!
+@10.5
+Lord \37F1 asked Lord \#0A7C's wife to move into the castle, but she flatly refused.
+@10.6
+Lord \37F1 grew angry and forced his way into the house, whereupon she set it on fire and took her own life!
+@10.8
+The fool! \#0A7C is famous for loving his wife. In his rage he will side with \#09FA.
+@10.9
+It did not end with the \#127C. On learning of the affair at the \#127C mansion, \#004B changed his policy on hostages...
+@10.10
+Instead of gathering hostages in the castle, he switched to merely watching them.
+@10.11
+There is more to report. Lord \#004B has taken \41E2!
+@10.12
+Also, \#09FA has turned back and begun marching west!
+@10.13
+There is more to report. \#09FA has turned back and begun marching west!
+@10.14
+Lord \#004B has taken \41E2!
+@10.16
+\#09FA has turned back and begun marching west!
+@10.17
+What? And he left the \#1074 clan alone?
+@10.18
+No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back the \#1074 clan.
+@10.19
+Hmm... He left just enough men to keep \#1074 from attacking, and comes to crush us with all the rest...
+@10.20
+Surely he has not just left the \#1074 alone?
+@10.21
+No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back the \#1074 clan.
+@10.22
+He leaves just enough men to keep \#1074 from attacking and strikes us with all the rest. That is his aim...
+@10.24
+Have you heard? \#09FA is heading this way.
+@10.25
+We must gather all our strength too. Let us go to \51E6!
+@10.27
+I owe the late Lord Taiko a debt I can never repay. Now is the time to repay it!
+@10.29
+\%03, Lord \#0167 and Lord \#0969 have blocked the Nakasendo and are holding up \#01FC's army.
+@10.30
+\%04167 has...
+@11.0
+\%03, thank you for joining this righteous cause!
+@11.1
+Not at all... So, how far has the \#11FA army come?
+@11.2
+They say they have already reached Ogaki.
+@11.3
+Then the enemy will be tired from the long march. A night attack would surely succeed.
+@11.4
+A night attack... Hmm...
+@11.5
+A night attack needs few men. We would gladly do it on our own...
+@11.7
+No, I think we had better not attack by night.
+@11.8
+Wh-what are you saying?!
+@11.9
+This is a righteous war to punish \#09FA's tyranny. A night attack would make us a laughing stock for ages to come.
+@11.11
+(This man is an amateur at war... He does not understand that war is the art of deception...)
+@11.12
+(This man is an amateur at war... He doesn't seem to understand that war is the art of deception...)
+@11.13
+(Can we really win like this...?)
+@11.14
+(Perhaps I should think less about winning and more about showing the \#118B spirit.)
+@11.15
+Insist on victory
+@11.16
+Show our spirit
+@11.17
+(No, a war is meaningless unless won. I hate \#084B, but I will not spare myself.)
+@11.18
+(In that case, all I can do is show the \#118B spirit and might, chill \#09FA's blood, and secure our lands.)
+@12.0
+\%03! Thank you for coming!
+@12.2
+We have \41DF surrounded.
+@12.4
+I will take it to heart.
+@13.0
+Hear me, all of you! We will lose this battle on \#084B's side. With an amateur in command, we cannot win!
+@13.1
+So we will stand only on the \#118B pride! We side with no one!!
+@13.2
+Strike back without mercy at anyone who attacks our lines! But we do not attack first.
+@13.4
+Month \M002 of year \M001. At Sekigahara in Mino, the Eastern Army under \#01FA clashed with the Western Army under \#004B.
+@13.5
+This was the famous Battle of Sekigahara...
+@13.6
+\%03, how do you read the battle?
+@13.7
+Well, as I see it, the Western Army seems to have the edge.
+@13.8
+The \#107D force is pushing back the \#1267 force, and the \#104B force is holding even against twice its numbers.
+@13.9
+You are still green... Look well. Of the armies on the Western side, only a third are fighting.
+@13.10
+Neither \#12D1 on Mt. Nangu nor \#113B on Mt. Matsuo has moved... They are waiting to see which way it goes.
+@13.11
+When those fighting now are too tired to move, it will all collapse. Just watch...
+@13.12
+Hm! The \#11FA gunners are heading for Mt. Matsuo!
+@13.14
+The \#113B force... The \#113B force is turning on the \#10A5 force!!
+@13.15
+It's over... The rout is near.
+@13.16
+Then what will you do? Withdraw to Mt. Ibuki?
+@13.17
+No, we must not! In the mountains, the trees would hamper our men.
+@13.18
+Besides, our \#118B clan has yet to show its pride and might!
+@13.19
+We feint at \#09FA's headquarters and break straight through to the Ise road!
+@13.20
+Y-you mean to break through the enemy lines?!
+@13.21
+Yes! Everyone, steel yourselves!! Let's go!
+@13.23
+Whoa, look at them all! Friend and foe alike, so many it's absurd!
+@13.25
+That banner with the nine-star crest... It's \#027C! The \#127C force is coming at us!
+@15.0
+We have shaken off the enemy!
+@15.1
+Good, hurry to \41E2!
+@15.3
+We can't shake off the enemy!
+@15.6
+So this is it... My lord, I will take on the sutegamari!
+@15.7
+The sutegamari was a tactic of the \#118B clan, used when defeat was certain and the general's life in danger.
+@15.8
+A small band of gunners formed the rear guard, sniping at the pursuers one after another while the main force retreated.
+@15.9
+Born of the \#118B code, for which losing the general was the worst disgrace, it meant near-certain death for the rear guard...
+@15.12
+One last request. Grant me your war fan and battle surcoat...
+@15.13
+Moriatsu, you...
+@15.16
+Then, farewell!!
+@15.19
+I am \#018B! If you do not fear the demon \#118B, come at me!!
+@15.20
+\#018B's close retainer Chojuin Moriatsu covered the main force's retreat as its sutegamari...
+@15.21
+He dealt the pursuers heavy losses, but at last his strength gave out and he fell. He was 53.
+@15.22
+Thanks to Chojuin Moriatsu's sacrifice, \#018B's main force escaped Sekigahara: the famous "Shimazu breakthrough".
+@15.23
+Moriatsu... Your sacrifice will not be in vain. I will protect the \#118B clan whatever it takes.
+@15.24
+So this is it... \%03, I will take on the sutegamari!
+@15.28
+\%03, stop! What good is it if a young man like you dies?! I will do it myself...
+@15.29
+The \#118B need your strategy, \%03. I leave the rest to you! Farewell!!
+@15.31
+\#0188 became the sutegamari himself and covered the main force's retreat...
+@15.32
+He dealt the pursuers heavy losses, but at last his strength gave out and he fell, aged \1006...
+@15.33
+Thanks to the sacrifice of \#0188 and his men, \#018B's main force escaped: the famous "Shimazu breakthrough".
+@15.34
+\%03... Your sacrifice will not be in vain. I will protect the \#118B clan whatever it takes.
+@15.35
+Good, the \#127C force is beaten! How goes the battle?!
+@15.36
+The \#113B force is charging down on the \#1267 force!
+@15.37
+The \#12D1 force on Mt. Nangu is striking the \#11FA rear too! A great victory for our side!!
+@15.40
+\#013B has betrayed us!! Our side is routed!
+@15.48
+The daimyo who sided with the \#1206 army were all but wiped out.

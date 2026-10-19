@@ -1,0 +1,688 @@
+@0.0
+This is Gassan-Toda Castle in Izumo, long the seat of the Amago clan.
+@0.1
+In Tsunehisa's day, the Amago took Gassan-Toda Castle with the help of the Yamanaka family and made it their foothold for conquering Izumo.
+@0.2
+And their head, Tsunehisa, crushed the powerful local lords around him with his cunning and conquered nearly all of Izumo in one generation.
+@0.3
+But when the Amago passed to Tsunehisa's grandson \#082D, and \#02D2 rose in Aki, everything changed...
+@0.4
+The Mori had once been a mere local family under the Amago, but grew powerful through ties with the Ouchi.
+@0.5
+The Mori army swept all before it, taking Amago castles one after another.
+@0.6
+Meanwhile, the new Amago head, \#082D, grew suspicious of his retainers and killed the powerful Amago kinsmen called the Shingu Clique.
+@0.7
+From then on, the Amago clan fell into steady decline.
+@0.8
+Nothing of its former glory remained in this land, and the Amago clan could only wait for its end...
+@0.9
+But in the midst of this, at Gassan-Toda Castle, there was one young man who swore to restore the Amago clan.
+@0.10
+His family name was \#12F4, his given name \#0AF4.
+@0.11
+He was a descendant of the Yamanaka family, who had served the Amago since Tsunehisa's time.
+@0.12
+The Amago clan, whom my family has served from my ancestors to this day...
+@0.13
+At this rate the Amago will be destroyed by the upstart \#12D2 clan.
+@0.14
+No matter what, I must restore the Amago with my own hands!
+@0.15
+Heaven, grant me seven hardships and eight sufferings!
+@0.16
+I will overcome them all. Test the strength of my body and spirit to the full!
+@0.17
+I will never forget the words I swore to the moon that day, whatever hardships await me...
+@1.0
+\#17FE, I am sorry. My lord will see no one... Please leave for today.
+@1.1
+...Is that so. Then I take my leave.
+@2.0
+Ah, good of you to come, \#0AF4. Your deeds on the battlefield have reached my ears too.
+@2.1
+You honour me.
+@2.2
+They say in the last battle you slew the enemy general Kikuchi Otohachi, famed for his bravery.
+@2.3
+...Indeed, I slew that man on the battlefield.
+@2.4
+Well done, \#0AF4. To think the \A3A2 clan has a retainer like you...
+@2.5
+Your work this time was splendid. I shall reward you.
+@2.6
+With respect... I wish to decline the reward.
+@2.7
+What are you saying? Don't hold back. Name anything.
+@2.8
+Then... I shall speak. I have only one wish: the restoration of the \#102E.
+@2.9
+The restoration... of the \#102E...
+@2.10
+So I cannot rejoice over a single enemy general.
+@2.11
+For my true wish lies beyond that.
+@2.12
+......Well said! I shall engrave your devotion to the \#102E on my heart.
+@2.13
+Then let the restoration of the \#102E be your reward. Will that do?
+@2.14
+Those words please me more than any reward.
+@2.15
+I am glad to have had such a talk with you.
+@2.16
+You must be tired today. Go back and rest well.
+@2.17
+Thank you very much. Then I take my leave.
+@3.0
+Ah, \#0AF4. It's been a while.
+@3.1
+I'm glad to see you looking well, \%03.
+@3.2
+\#0AF4, you came at a good time. We were just talking about you.
+@3.3
+Why, \%03, you're here too.
+@3.4
+Talk of you has reached me too.
+@3.5
+That \#02F4, though young, is deeply loyal to his lord's house, and has a bright future, they say.
+@3.6
+Having known you since you were a child, I feel somehow proud.
+@3.7
+Your late father must be glad that you now serve the \A3A2 clan.
+@3.8
+You are too kind. Thank you very much.
+@3.9
+Listen, \#0AF4. As you know, our \A3A2 clan faces an unprecedented crisis.
+@3.10
+Outside, the Mori watch the \A3A2 like a tiger, and I hear there is unrest even within our own \A3A2 clan.
+@3.11
+To serve the \A3A2 clan, you must be ready for great hardship.
+@3.12
+That is just what I wish.
+@3.13
+Walking a level road is utterly dull. Surely only a steep road is worth travelling.
+@3.14
+Well said! Spoken like a man of the \#12F4, who have served the \A3A2 for generations.
+@3.15
+You have only just come of age, so there must be much you still do not know.
+@3.16
+I am like a father to you. Don't hesitate to rely on me.
+@3.17
+Of course I will help too. Let us support the \A3A2 clan together.
+@4.0
+You are of the Amago clan... The Amago are enemies of our Mori. Good day.
+@4.1
+Why has someone of the Amago come to a place like this? Kindly leave.
+@5.0
+Ah, \%03. Good of you to come.
+@5.1
+Why, it's \%03.
+@5.2
+Oh, Lord \#0809... So \%03 already had a guest today.
+@5.3
+Forgive me for intruding while you are busy.
+@5.4
+No, this is good timing. I want you here too. I'd like to borrow your wisdom, \%03.
+@5.5
+The matter is none other than the \A3A2 clan these days: whether there is some new way to stand against the Mori.
+@5.6
+A new way...
+@5.7
+As you know, the Mori mean to take this province of Izumo.
+@5.8
+But the Mori are not a threat to the \A3A2 alone.
+@5.9
+They are a threat to the daimyo houses around Izumo as well.
+@5.10
+So I have been working in secret to see if we could join with other daimyo against the Mori, but...
+@5.11
+My plans came to nothing...
+@5.12
+Came to nothing, you say?
+@5.13
+No daimyo will stand against the Mori now, they say. Not only that, quite a few daimyo see this as a chance to go after our Amago...
+@5.14
+In other words, our clan stands alone.
+@5.15
+For the \A3A2 clan, things only grow worse. It is truly all over...
+@5.16
+...With respect, \%03, if that is so, there is still a way.
+@5.17
+Oh, there is still a way, you say!
+@5.18
+Daimyo houses are not the only ones with the strength to oppose the Mori. Thinking of it that way, naturally...
+@5.19
+I see...\nThe ninja bands, and the pirate bands!
+@5.20
+Just so. Do you know of any ninja or pirate bands friendly to the Amago?
+@5.21
+I will go and negotiate with them.
+@5.22
+Hmm... For ninja, \37F1 of \D079.
+@5.23
+Hmm... There are no ninja bands...
+@5.24
+For pirates, \37F2 of \;1FA might listen to us.
+@5.25
+The pirate bands... that will be hard.
+@5.26
+Then I will go and negotiate with \37F1 of \D079 and \37F2 of \;1FA.
+@5.27
+Oh, you'll go, \#0FFE!
+@5.28
+If \D079 and \E079 join us, that is a great force. \%03, I'm counting on you.
+@5.29
+If I tell them of my devotion to the Amago, surely they will agree.
+@5.30
+Then I will go to \D079 and negotiate with \37F1.
+@5.32
+It would be reassuring if \D079 joined us.
+@5.34
+Then I will go to \;1FA and negotiate with \37F2.
+@5.36
+It would be reassuring if \E079 joined us.
+@5.38
+...It seems we must support the \A3A2 clan with our own hands after all.
+@5.39
+It is a pity... but it can't be helped.
+@5.40
+......Understood. Then at least I will devote myself all the more to training.
+@6.0
+Oh, if it isn't Lord \#12F4.
+@6.1
+Today I have a serious request for you, \%03.
+@6.2
+Oh, and who might you be?
+@6.3
+I am \#07FE, a retainer of the \A3A2 clan.
+@6.4
+Forgive my boldness, \%03. Today I have a serious request for you.
+@6.5
+...And what is your business?
+@6.6
+Our \A3A2 clan's lands are threatened by our neighbours, the Mori.
+@6.7
+If things go on like this, our two houses will soon be at open war.
+@6.8
+So I have come to ask that \E079 lend us its strength when the \A3A2 go to battle!
+@6.9
+True, \E079 sides with the \A3A2... But the Mori are strong.
+@6.10
+Can you win?
+@6.11
+With the Amago troops and yours, \%03, we will surely drive off the Mori!
+@6.12
+...They say the Mori grow stronger by the day. Even together, our troops are far fewer!
+@6.13
+I don't believe our Amago troops or yours, \%03, are any worse than a hastily gathered Mori army!
+@6.14
+Talk is cheap... That proves nothing about the strength of Amago troops.
+@6.15
+...Then why not test the strength of the Amago troops yourself?
+@6.16
+If I will do, I will prove the strength of the Amago troops right here.
+@6.17
+Grr, if you go that far, I'll show no mercy. Have at you!
+@6.18
+...Hmm, it seems your words were true.
+@6.19
+Then, about what we discussed...
+@6.20
+When you fight the Mori, I will send troops. \%03, use them as you like.
+@6.21
+Th-thank you! On behalf of all Amago retainers, I thank you from the bottom of my heart!
+@6.22
+...No, it is not for the Amago. I just want to see what becomes of you.
+@6.23
+If you get killed fighting the Mori too soon, the fun will be over.
+@6.24
+Don't rush to your death, whatever you do, \%03!
+@6.25
+...I will take those words to heart!
+@6.26
+Ugh, how bitter...
+@6.27
+...I'm sorry, but let us forget this conversation.
+@7.0
+Why, if it isn't Lord \#12F4. Welcome.
+@7.1
+\%03, today I have a serious request.
+@7.3
+It is an honour to meet you. I am \#07FE, a retainer of the \A3A2 clan.
+@7.6
+Our \A3A2 clan has ruled this province of Izumo and prospered together with \D079.
+@7.7
+But lately, under fierce attack from the Mori, risen from Aki, our clan has been hard pressed.
+@7.8
+So I have come to ask that \D079 lend us its strength when open war with the Mori begins!
+@7.9
+...True, \D079 has walked with the \A3A2 since long ago.
+@7.10
+But I must ask you to wait for my answer to that offer.
+@7.12
+On that matter, opinion is divided even within our \D079. Please leave for today.
+@7.13
+...No, I cannot leave until you promise!
+@7.14
+...I hear that many retainers of the \A3A2 have gone over to the Mori.
+@7.15
+In that case, who knows how long you will follow the \A3A2... I cannot answer here and now.
+@7.16
+Those with doubts about our clan have already left. Those who remain are truly loyal to the Amago.
+@7.17
+And I am resolved to live with the Amago and share the Amago's fate.
+@7.18
+I have come here at the risk of my life. So I will not back down. Please, think it over once more!
+@7.19
+...Then may I test whether those words, "at the risk of my life," are true?
+@7.20
+I want to know how resolved you are.
+@7.21
+I am ready from the start. Please, test me as you will!
+@7.22
+Then, here I come!
+@7.23
+Hm... Your devotion to the Amago is indeed unshakeable.
+@7.24
+Then... will you help us?
+@7.25
+When you fight the Mori, we will rush to your side. Will that do?
+@7.26
+Th-thank you very much!
+@7.27
+It is I who should thank you. You showed me the \A3A2 are worth walking with.
+@7.28
+You may go home with your mind at ease.
+@7.30
+Are you satisfied now?
+@7.31
+Whose side \D079 takes is for \D079 to decide. Let us end this talk here.
+@8.0
+The Mori army at \51E5 Castle...
+@8.1
+Not only \51E7 Castle, but even \51E5 Castle threatened by the \A3A3...
+@8.2
+At this rate, it won't be long before the fighting reaches \51E6 Castle.
+@8.3
+Ah, if I could move a great army, I would drive \#12D2's troops out of Izumo at once...
+@8.4
+In my present position, I don't have that power...
+@8.5
+How frustrating not to be able to act freely...
+@8.6
+No matter what, I must drive out \#12D2's troops with my own hands.
+@9.0
+Ah, \%047FE. The Mori army is already marching on this castle.
+@9.1
+That being so, we can only meet the enemy at this castle. Rest well and be ready for the day of battle.
+@11.0
+Before leaving the castle, shall I greet \%041CB... It was Lord \#01CB's samurai residence, I believe...
+@12.0
+The Mori troops draw closer to this castle by the moment... I'd better rest well for the battle now.
+@13.0
+\#07FE! My lord calls for you at the castle.
+@14.0
+How's that! \#0AD2's troops are nothing to fear!
+@14.1
+Not yet...\nI'm not beaten yet!
+@14.2
+...So there were still \#0AD2's troops left.
+@14.3
+Fight me!
+@14.4
+As expected of \#0AD2. He's not easily beaten.
+@14.5
+I must pull back the troops for now and regroup...
+@14.6
+Who's there...\nTroops of the \A3A3, eh?
+@14.7
+Hm, you're \#0AD2's troops!
+@14.8
+The last battle ended in a draw, but let's settle it here, you and I.
+@14.9
+Have at you!!
+@14.10
+So this is the strength of \#0AD2...
+@14.13
+Damn, \#0AD2's troops!
+@14.14
+Now that you've found me, I can't just let you go.
+@14.15
+Here I come!!
+@14.16
+Ugh... Well done...
+@14.17
+To think the \A3A3 had someone like you...
+@14.18
+I will surely restore the \A3A3. I cannot lose here.
+@14.19
+Take credit for your work... Say that you slew me...
+@14.20
+My name is... Kikuchi Saemon-no-jo Otohachi...
+@14.21
+Kikuchi... Otohachi...
+@14.22
+S-so strong...
+@14.23
+I'll grant you have spirit, but you're still far too green!!
+@14.24
+I won't take your life, but don't count on that every time.
+@14.25
+Farewell!
+@14.26
+He let me go...
+@14.27
+This won't do... At this rate, restoring the \A3A3 will end as a dream...
+@15.0
+So the battle is at hand...... Mori troops, I'll teach you a lesson!
+@15.3
+You there, \#07FE!
+@15.7
+I am the one who will devour your life. If your name is \#0FFE, then call me... "Okaminosuke." The wolf to your deer.
+@15.8
+Oh, interesting... But I won't hand my life over to you!
+@15.11
+Then I'll take it by force! Prepare yourself!!
+@15.14
+W-well done... \#02F4...
+@15.15
+...Why were you after my life?
+@15.18
+The only threat among the Amago is you... With you gone, the Amago will collapse without our even attacking...
+@15.19
+Without attacking... So you are a Mori agent after all...
+@15.23
+\%03, what happened!
+@15.24
+Ah, \%03!
+@15.25
+Hm, this man is...!?
+@15.26
+An assassin from the Mori, it seems... He appears to have come for my life.
+@15.27
+What! \%03, are you all right?
+@15.28
+No need to worry. More to the point, what of the Mori army?
+@15.29
+They'll soon reach the castle. Let's go, \%03!
+@15.31
+Before the battle, in a place like this...
+@15.34
+With you gone, the Amago are finished too. Farewell, \#07FE.
+@15.36
+In \M001, \#07FE ended his life without seeing the day the Amago clan was restored.
+@15.37
+After this, despite the struggles of its loyal retainers, Gassan-Toda Castle fell, and the Amago clan was destroyed...
+@17.0
+Victory is ours! The Amago have driven off the Mori!
+@17.2
+Ah, \%03! I'm glad you're safe.
+@17.3
+And you, \%03! No, no, your work leaves me in awe.
+@17.4
+This too was possible only because the Amago stood united.
+@17.5
+Hm! Then I will withdraw first.
+@17.6
+Understood. Go on ahead.
+@17.7
+Thus \#02F4 withstood the fierce Mori assault and took the first step toward restoring the Amago.
+@18.0
+How bitter... My strength fell short, and the Amago will not be restored......
+@18.1
+Shikanosuke!
+@18.2
+Ah, \%03! You are safe.
+@18.3
+Yes. Our lord is safe too. It seems he surrendered.
+@18.4
+Lord \#11CB said he would stay at our lord's side.
+@18.5
+Lord \#108B seems to have taken his own life. They say it was a splendid end.
+@18.6
+Is that so...
+@18.7
+And Shikanosuke, what will you do now?
+@18.8
+Now that we've lost our lord, I have nowhere to go. Perhaps I'll leave Izumo for now...
+@18.9
+If you leave Izumo, where will you go?
+@18.10
+I thought I'd head for Kyoto first, where there are many people...
+@18.11
+I see. Then I'll come too.
+@19.0
+Victory for our house! We've driven off the Mori!
+@19.2
+Ah, \%03! I'm glad you're safe.
+@19.3
+A great feat, \%03. Your work leaves me in awe.
+@19.4
+No, this too was possible only because everyone stood together.
+@19.5
+Hm! Then I will withdraw first.
+@20.8
+The last battle ended in a draw, but let's settle it here.
+@21.0
+It seems everyone is here. Thank you for coming. Let us begin the council.
+@21.1
+I hear that our neighbours, the Mori, are preparing to invade our Izumo.
+@21.2
+I want to hear everyone's plans against this.
+@21.3
+In my view, Mitoya Castle, close to the Mori, is the key to our defence. First, it is vital to strengthen Mitoya Castle.
+@21.4
+Hm, quite right. Send supplies to Mitoya Castle at once. We prepare for war.
+@21.5
+My lord! Grave news!
+@21.6
+Hm?\nWhat is it? Such a racket.
+@21.7
+Lord \#02B7, lord of Mitoya Castle, has gone over to the Mori!
+@21.8
+What!\nIs that true?
+@21.9
+Yes. It seems Mitoya Castle let in the Mori army without a fight.
+@21.10
+That's strange...
+@21.11
+My lord, this surrender of Mitoya Castle may be a Mori scheme.
+@21.12
+Send me to Mitoya Castle. I will find out \%042B7's true intentions.
+@21.13
+No. You will not.
+@21.14
+Why not! \%042B7 owes much to the Amago. That he would open his castle of his own will is hard to believe...
+@21.15
+It means \#12B7 owed only my predecessor. It seems he will not follow me.
+@21.16
+In any case, I have no wish to hear the excuses of a man who gave his castle to the Mori for nothing.
+@21.18
+Besides, if I carelessly send someone to a Mori castle now, more fools may follow Mitoya's lead.
+@21.19
+Wh-what are you saying! I would go to Mitoya Castle for the Amago, never to defect to the Mori...
+@21.20
+I said no and I mean no! Or will you say that, like \#12B7, you won't follow me either!
+@21.21
+No, nothing like that...
+@21.23
+Nothing but annoyances. I don't want to see your faces for a while. Leave.
+@21.24
+My lord, what of our missions?
+@21.25
+That is all for today.
+@21.27
+I said leave!
+@21.30
+Hmm, \%03, things have become serious.
+@21.31
+With Mitoya Castle in enemy hands, the Mori are...
+@21.32
+Right under our noses.
+@21.33
+And our lord is in that state. If the Mori attack now, this castle won't last a...
+@21.34
+What are you saying!
+@21.35
+The Mori grew strong only recently. Their army is a rabble, no match for our Amago.
+@21.36
+\%03... You say the Amago as they are now can win?
+@21.37
+For someone like you, \%03, to sound so faint-hearted before the battle!
+@21.38
+Isn't this a fine chance to defeat our old enemy, the Mori!
+@21.39
+I'm no match for you, \%03...
+@21.40
+Thank you, \%03. Your words have filled me with spirit too!
+@22.1
+My lord!\nGrave news!
+@22.2
+Word has come that the Mori army is ready to set out!
+@22.4
+They are expected to arrive here in \101D days!
+@22.5
+Grr, so they've come at last...
+@22.6
+You all heard. Tell the castle to prepare for war! We will meet the invading Mori army at the main castle.
+@22.7
+Details will follow. Until then, wait in the castle! Understood!
+@22.9
+So the time for the decisive battle has come...
+@22.10
+\%03! Reinforcements from \D079 are heading here!
+@22.11
+Oh! \#07F1 remembered the promise of reinforcements!
+@22.12
+\%042F4! We've come from \E079 to keep our promise!
+@22.14
+\1006 troops! We entrust them to this castle!
+@22.16
+Then we can only meet the Mori at Gassan-Toda, this proud and mighty castle!
+@23.0
+...Hm? Not everyone is here yet? What of \#1006 and \#1159?
+@23.1
+Indeed, it is strange... I haven't seen them either...
+@23.2
+Bah, what are they doing at a time like this! \%03, go and fetch them both.
+@23.4
+\%01, \#1006 and \#1159 seem to have already left the main castle! Both their residences are empty!
+@23.5
+What!
+@23.6
+What's more, someone saw the two of them heading for a \#12D2 castle...
+@23.7
+Grr, every last one of them, men who know nothing of loyalty! Have they forgotten what they owe the \A3A2!
+@23.8
+Enough!
+@23.9
+My lord! Where are you going?
+@23.10
+Tell everyone: whoever wants to go to the \#12D2, leave now! The council comes after that.
+@23.12
+\%03, the \A3A2 face their worst plight since the clan began...
+@23.13
+Truly...
+@23.14
+Ever since our late lord, \#002D, put down the Shingu Clique, the chief Amago kinsmen, many retainers have distrusted our clan.
+@23.15
+For this to happen before the showdown with the \#12D2...
+@23.16
+With respect, I, \#0FFE, humbly offer my counsel.
+@23.17
+Oh, \%03, what is it?
+@23.18
+If those who doubted our clan are gone, then, put the other way, those here now are truly loyal to the Amago.
+@23.19
+Now at last the true retainers of the \#102E can stand united.
+@23.20
+...There is something in what you say. But we have lost too many senior retainers.
+@23.21
+Spirit alone won't defeat the \#12D2...
+@23.22
+Then this will be quick. I have a request for you, \%03, as chief retainer.
+@23.23
+Oh, what request?
+@23.24
+Lord \#1009 and I, \#0FFE, are second to no one, \%03, in our wish to restore the \A3A2.
+@23.25
+But we are of low rank and lead few troops, so we cannot do all we could.
+@23.26
+So, \%03, before the battle with the Mori, could you arrange for us both to be raised in rank?
+@23.27
+What!\n\%03, \%01...
+@23.28
+W-well, hmm, that is...
+@23.29
+I know it is a rude request. But we, no, the \A3A2, have no time left.
+@23.30
+\%03, all of this is for the restoration of the \A3A2!
+@23.32
+\%03, with respect, I ask you as well.
+@23.33
+The strength of \#0FFE and \#0809 is vital to our \A3A2. \%03, please put in a word...
+@23.34
+...It seems there is no choice. These two will not fall short.
+@23.35
+I shall advise Lord \#082E to make \#0FFE and \#0809 Samurai Generals.
+@23.36
+Lead your troops as you see fit.
+@23.37
+Oh! \%03, we are most grateful!
+@23.38
+We will surely drive the \#12D2 troops out of Izumo!
+@23.39
+I, \#0809, am honoured beyond my due. We two will strive so as not to shame the name of Samurai General!
+@23.40
+\#07FE was promoted to Samurai General.
+@23.43
+I, \#0FFE, am second to no one, \%03, in my wish to restore the \A3A2.
+@23.44
+But I am of low rank and lead few troops, so I cannot do all I could.
+@23.45
+So, \%03, before the battle with the Mori, could you arrange for me to be raised in rank?
+@23.48
+I know it is a rude request. But I, no, the \A3A2, have no time left.
+@23.52
+The strength of \#0FFE is vital to our \A3A2. \%03, please put in a word...
+@23.53
+...It seems there is no choice. \%03 will not fall short.
+@23.54
+I shall advise Lord \#082E to make \#0FFE a Samurai General. Lead your troops as you see fit.
+@23.60
+It concerns Lord \#0009. Lord \#1009 is second to no one, \%03, in his wish to restore the \A3A2.
+@23.61
+But Lord \#1009 is of low rank and leads few troops, so he cannot do all he could.
+@23.62
+So, \%03, before the battle with the Mori, could you arrange for Lord \#1009 to be raised in rank?
+@23.65
+I know it is a forward request. But we, no, the \A3A2, have no time left.
+@23.69
+The strength of \#0809 is vital to our \A3A2. \%03, please put in a word...
+@23.70
+...It seems there is no choice. \#0809 will not fall short.
+@23.71
+I shall advise Lord \#082E to make \#0809 a Samurai General. Lead your troops as you see fit.
+@23.73
+I, \#0809, will strive so as not to shame the name of Samurai General!
+@23.74
+\%03, I am grateful. It is thanks to you!
+@23.75
+Now we can both pour our hearts into serving the \A3A2.
+@23.76
+\#0009 was promoted to Samurai General.
+@23.77
+It is not spirit alone. Our \A3A2 have \%03, Lord \#09CB, and Lord \#0009.
+@23.78
+All are warriors famed in Izumo. \#0AD2's troops are nothing to them.
+@23.79
+Oh, quite so! Above all, do we not have \#02F4, whose feats are remarkable?
+@23.80
+...Indeed, \#0AF4 has done great things. Depending on his work from now on, he may more than make up for those who left.
+@23.81
+So the strength of the \A3A2 has not faded yet...
+@23.82
+Right. Then we will show the \#12D2 the new strength of the \#102E ourselves!
+@23.83
+Now, missions are put off, but the Mori threat has not gone. Each of you, train hard and prepare for battle.

@@ -1,0 +1,62 @@
+@0.0
+\%03, an envoy from \%2001D has come to see \%04287.
+@0.1
+To see me? What could it be?
+@0.2
+To see \%02287? What could it be?
+@0.5
+I am Isshiki Fujinaga, retainer of \#001D.
+@0.6
+Yes, thank you for the long journey. So, what does the Shogun (\#001D) say?
+@0.9
+Sir. He asks you to lend your strength to overthrow \#00C3.
+@0.10
+\%040C3? But didn't the Shogun become Shogun through \%040C3's power?
+@0.13
+In the end, \#08C3 is a country bumpkin. He knows nothing of respecting the Shogun.
+@0.16
+He laid down the so-called Five Articles of the palace, making clear his intent to make the Shogun his puppet.
+@0.19
+The Shogun was furious and resolved to break with \#08C3.
+@0.22
+This is no one else's affair to you either, Lord \#0A87.
+@0.25
+\#08C3 means to take this \51E6 for himself.
+@0.26
+What! The Ishiyama Honganji, founded by the eighth patriarch Rennyo, is the head temple of the Ikko sect!
+@0.27
+What! This castle is a vital stronghold for the \#1287!
+@0.28
+We cannot give it to \#08C3!
+@0.31
+Then you will help overthrow \#08C3?
+@0.32
+Yes, agreed. I will call on the faithful everywhere to rise.
+@0.35
+Thank you. The Shogun will be delighted.
+@0.39
+So we're to fight the \#10C3 clan. My arm itches for it.
+@0.40
+So we're to fight the \#10C3 clan... We must win whatever it takes.
+@0.41
+They say an envoy from the Shogun (\#001D) has come to \%04287.
+@0.42
+What does the Shogun say?
+@0.43
+He asked for help to overthrow \#00C3, they say.
+@0.44
+\%040C3? But didn't the Shogun take his seat through \%040C3's power?
+@0.45
+\#08C3 tried to limit the Shogun's powers, and the Shogun, angered, resolved to overthrow \#08C3, they say...
+@0.46
+And how did \%02287 answer?
+@0.47
+Hearing that \#08C3 had designs on \51E6, he offered to help the Shogun, they say.
+@0.52
+Resolved to fight \#00C3, \#0287 called on believers across the land to rise.
+@0.53
+His call to arms was extremely harsh: "Whoever does not rise shall be excommunicated."
+@0.58
+In \51E7 too, once held by the \#1287 and occupied by \#08C3, the faithful rose up and seized it.
+@1.0
+They say \51E6, under siege, is about to fall, and its commander, Lord \#00F9, has escaped from the castle.

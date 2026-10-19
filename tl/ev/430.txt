@@ -1,0 +1,126 @@
+@0.1
+Hm, is that so? I'll come at once.
+@0.2
+My lord, \#0048 is here.
+@0.3
+Ah, \%03. The fact is, a gift has arrived from Lord \#0205.
+@0.4
+Oh... From Lord \#1205.
+@0.5
+Having received a gift, we must send one in return... So I'd like you to go as envoy.
+@0.6
+(As I thought, the old lord isn't swayed\n by idle rumours and trusts me.\n I'm grateful.)
+@0.7
+An easy task. Then I'll set off for \51E6 now.
+@1.0
+Ah, Lord \#1048...
+@1.1
+Hm? ...What is it?
+@1.2
+No... Excuse me.
+@1.7
+Oh, a page boy?
+@1.8
+Excuse me.
+@1.9
+What is going on?? What's got into everyone? They're all so standoffish...
+@1.10
+Lord \#1048, haven't you heard the rumour?
+@1.11
+Rumour?
+@1.12
+Well... but I don't know whether I should tell you.
+@1.13
+What? What kind of rumour?
+@1.14
+The fact is... lately there's been a lot of talk that you, Lord \#1048, are secretly in league with \A3A3.
+@1.15
+Me, with \A3A3?! Nonsense! What an absurd rumour.
+@1.16
+But... a good many people have heard it. It may already have reached the old lord's ears.
+@1.17
+The old lord surely trusts me. I am a senior retainer who has served him for years. He'd never listen to idle rumours.
+@1.18
+I hope so...
+@1.19
+In any case, it's outrageous! Spreading groundless rumours... Is someone trying to bring me down?
+@2.0
+Ah, you must be Lord \#0048. We have been expecting you. Please, this way.
+@2.1
+How very courteous...
+@2.2
+My master, \#0205, should be here shortly. Please make yourself comfortable for a while.
+@2.4
+Ah, sorry, sorry. I've been a bit busy.
+@2.5
+Lord \#1205. I have come today on my master's behalf to thank you for your recent gift.
+@2.6
+Let's skip the stiff greetings. First, some sake... How about it? Hey, bring the sake.
+@2.8
+I heard you were coming today, so I've prepared all sorts of good things. Enjoy yourself.
+@2.9
+Lord \#0A05... Why go to such lengths for me, a retainer of the \#11FA?
+@2.10
+Why, I think highly of your talents. I'd like you as my own retainer if I could. Well, that can't be, but at least I can give you a drink.
+@2.11
+Lord \#0A05...
+@2.12
+Hm...? What's wrong? Are you crying?
+@2.13
+Ah... forgive me. It's been a long time since I felt human warmth.
+@2.15
+Lately I have been slandered by strange rumours and made to feel unwelcome in my own house.
+@2.17
+The rumours are groundless, but they seem to have reached the old lord too... I have felt as if sitting on a bed of needles.
+@2.18
+But when I came to this castle on my lord's orders, I was treated like an honoured guest... and then those warm words just now.
+@2.19
+Compared with how uncomfortable my own house has been lately, I feel like I've come back to life. Thank you.
+@2.20
+\#0848, here's a proposal... Will you become my retainer?
+@2.21
+Me, join the \#1205?! W-well, that...
+@2.22
+If you feel unwelcome in the \#11FA house, will you not come to us and work for me...
+@2.24
+Switch sides
+@2.26
+Gracious words... I am an unworthy man, but I put myself in your hands from now on.
+@2.27
+Oh! You'll come and serve me!
+@2.31
+Truly gracious words, but I am still a retainer of the \#11FA... I cannot betray my lord.
+@2.32
+I-I see... A pity, but it can't be helped.
+@2.33
+From now on, I would like to work as a bridge of friendship between the \#1205 and \#11FA houses.
+@2.34
+Mm, I'm counting on you. Give my regards to Lord \#11FA.
+@2.35
+Yes, my lord! Then I take my leave...
+@2.36
+Mm. Thank you for coming so far.
+@2.37
+It was a bit of a waste, though...
+@2.38
+No, no, I mustn't. I'm a retainer of the \#11FA. I must report to the old lord at once.
+@3.0
+\#0048 has just returned.
+@3.2
+Lord \#1205 was in an excellent mood and treated me like an honoured guest.
+@3.3
+Mm... I see.
+@3.4
+I must confess: at that banquet, Lord \#1205 offered to take me into his service.
+@3.5
+!! What!
+@3.6
+But I am a retainer of the \#11FA... I refused at once and came back.
+@3.7
+I see... The truth is, \#0848, I had heard that rumour too. That's why I chose you as envoy this time.
+@3.9
+I'm sorry for testing you. Thank you for your service. From now on, I'll never believe such outrageous rumours.
+@3.11
+\#0048 is a loyal retainer. Keep supporting me.
+@3.13
+After this, it is said, the strange rumours about \#0048 died away...

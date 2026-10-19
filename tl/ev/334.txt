@@ -1,0 +1,650 @@
+@0.0
+The year is Tensho 10. The allied armies of \#10C3 and \#11FA were preparing to subjugate the \#11BF clan.
+@0.1
+Won over by \#10C3, \#00FE, lord of \51E8 Castle and brother-in-law of \#09BF, head of the \#11BF clan, defected to the \#10C3 with his castle.
+@0.2
+More than ten years had passed since \#09C1, the late head of the \#11BF clan, set out for the capital with his mighty army...
+@0.3
+The \#11BF clan, once the power of Kai and Shinano, was now in dire straits...
+@0.4
+Now that \51E8 Castle is in \#10C3 hands, it's only a matter of time before the \#10C3-\#11FA allies march here on \51E9...
+@0.5
+If I stay in \51E9 Castle, I'm sure to die defending it. What should I do...
+@1.0
+\#07FE, the \#11FA army is marching on \51E6 Castle!
+@1.2
+What!\nIs that true?
+@1.3
+What!\nReally?
+@1.4
+There is no mistake. What's more, they say \#0029 is to be taken into the service of the \#11FA clan.
+@1.5
+What! You mean he has defected! Curse you, \#0829, a man of the clan's own kin...
+@1.6
+\#0028, who served under \#0029, escaped the castle and has returned to \51E6.
+@1.7
+What! You mean he has defected! After \#00FE, another traitor from the \#11BF kin...
+@1.8
+What! You mean he has defected! After \#00FE, another traitor from the \#11BF kin...
+@2.0
+My lord.
+@2.1
+\#0FF1, is it? So you've come.
+@2.2
+Yes. I have hurried here for no other reason.
+@2.3
+The enemy is already close enough to threaten this castle, \51E5.
+@2.4
+I know.
+@2.5
+I believe we should gather the clan and discuss what to do next.
+@2.6
+Hm, very well. We will hold a war council at once.
+@2.7
+Let the war council begin. The enemy could appear before this castle, \51E5, at any moment now.
+@2.9
+So I wish to discuss what we should do. Does anyone have an opinion?
+@2.10
+My lord, I think we have no choice but to hold out in the castle.
+@2.11
+May I suggest, my lord, that you move your seat to my castle, \51E7?
+@2.12
+At \51E7 we could hold off the enemy a while longer.
+@2.13
+And as it is near \51E8 Castle, we could turn to the \#1275 clan if need be.
+@2.14
+My lord, please come to my castle, \51E6. Surely the enemy will not attack as far as Kozuke.
+@2.15
+I believe we should build up our strength there and then retake Kai and Shinano.
+@2.16
+...It seems every opinion has been heard.
+@2.17
+My lord, what will you do?
+@2.18
+Stay in \51E5 Castle
+@2.19
+Move to \51E7 Castle
+@2.20
+Move to \51E6 Castle
+@2.21
+My mind is made up. We stay in this castle and meet the enemy! Everyone, look to the defences!
+@2.23
+hold out in \51E5 Castle
+@2.24
+Every opinion has merit. But I will take \#08D1's advice and move to \51E7 Castle.
+@2.25
+Yes, my lord. As you command.
+@2.26
+I will return to \51E7 Castle at once to prepare to receive you, my lord. With your leave.
+@2.27
+Good, the council is over. Everyone, prepare to move at once.
+@2.29
+move to \51E7 Castle
+@2.30
+It pains me to leave Kai, but I will do as \#0967 says and move to \51E6 Castle.
+@2.31
+Yes, my lord. I am grateful you have accepted my advice.
+@2.32
+I will return to \51E6 Castle at once to prepare to receive you, my lord. With your leave.
+@2.35
+move to \51E6 Castle
+@2.49
+My lady, I have something serious to tell you.
+@2.51
+You will have heard that it is only a matter of time before the enemy reaches this castle, \51E5.
+@2.52
+So the clan has decided that we will \Z001.
+@2.53
+But I cannot bear to drag you into this.
+@2.54
+So I want you to turn to your own brother, Lord \#0A75, and return to the \#1275 clan.
+@2.56
+That I cannot do.
+@2.57
+My lady, do not be unreasonable. If this goes on, harm may come to you too.
+@2.58
+I am prepared for that from the start. I wish to go with you wherever you go.
+@2.59
+My lady...
+@2.60
+\#07FE, an emergency war council is being held. Please come to the castle at once.
+@2.61
+Understood. I'll come right away.
+@2.66
+May I suggest, my lord, that you move your seat to my castle, \51E7?
+@2.77
+(My lord chose to move to \51E7 Castle...)
+@2.78
+(...perhaps also so that, should the worst happen, our lady, sister of Lord \#0275, could flee to the \#1275 clan...)
+@2.79
+(I only hope our lord's kindness does not cost him his life when it counts...)
+@2.81
+(...perhaps also so that, should the worst happen, our lady, sister of Lord \#0275, could flee to the \#1275 clan...)
+@2.82
+(I only hope our lord's kindness does not cost him his life when it counts...)
+@3.0
+News, my lord! The \#10C3 army has begun marching on \51E5 Castle!
+@3.1
+What, they are moving already!
+@3.2
+In any case, give the order to head for \51E6 Castle as decided in the council.
+@3.4
+Our lord has given the order to head for \51E6 Castle as first planned.
+@3.5
+I must go with him.
+@3.6
+In any case, give the order to hold out in the castle as decided in the council.
+@3.8
+My lord, someone has sabotaged \51E5 Castle and done damage.
+@3.9
+What! Agents of \#10C3!
+@3.10
+Yes, most likely.
+@3.11
+Hmm, what impudent tricks...
+@3.12
+Our lord has given the order to hold out in the castle as first planned.
+@3.13
+We must hold it somehow.
+@3.14
+\#07FE, someone has sabotaged \51E5 Castle and done damage.
+@4.0
+News! The \#10C3 army has begun moving toward our lands!
+@4.1
+We also hear that \#00C3 is leading the army himself.
+@4.2
+Right, a war council! Call the clan together at once!
+@4.4
+You will all have heard: the \#10C3 army is moving again. And \#08C3 himself is in command.
+@4.5
+We should stake everything on a battle in the field.
+@4.6
+That is reckless. Surely we should meet them from the castle.
+@4.7
+...I mean to leave the castle and fight.
+@4.8
+B-but then...
+@4.9
+The last siege taught me a great deal.
+@4.10
+Even if we shut ourselves in the castle and hold them off for a while, fresh troops will keep coming. That is no true victory.
+@4.11
+Seek battle outside, guard what is within: was that not my late father's teaching?
+@4.12
+The teaching of Lord \#09C1... Perhaps you are right.
+@4.13
+Good, no objections! We march at once!
+@4.16
+The \#10C3 army is coming again!
+@4.18
+Hm, the last defeat seems to have made them furious.
+@4.19
+The last defeat seems to have made them furious.
+@4.20
+A war council is being held. Please come to the castle at once.
+@4.23
+We should stake everything on a battle in the field.
+@5.0
+News! Our lord was defeated in battle with the \#10C3 army and took his own life!
+@5.1
+What! What happened? Tell me everything.
+@5.2
+What! What happened? Please tell me everything.
+@5.3
+With the \#10C3 army closing on \51E5, his main castle, our lord left it and tried to reach \51E7 Castle.
+@5.4
+But leading his family along the mountain roads, he was caught by the \#10C3 army and made a stand at Mt. Tenmoku.
+@5.5
+The \#11BF army fought hard but was routed. Our lord took his life with his lady, and his retainers died with them.
+@5.6
+Hmm, how terrible...
+@5.7
+In month \M002 of \M001, \#01BF took his life at Mt. Tenmoku, and many retainers, with his wife Lady Sagami, died with him...
+@5.9
+Our lord's house is gone. What will become of us now...
+@5.14
+But \#00D1, lord of \51E7 Castle, defected to the \#10C3, so he could not enter the castle.
+@5.15
+\#08D1 defected! How could he!
+@5.16
+\#08D1 defected... How could he!
+@5.17
+With no choice, our lord climbed Mt. Tenmoku to meet the \#10C3 army, but despite a hard fight, they were routed...
+@5.18
+Our lord took his life with his lady, and his retainers died with them.
+@5.21
+(For the \#11BF clan to fall like this... it is beyond bitter.)
+@5.22
+(But this too is the way of the warring age. I cannot dwell on grief forever.)
+@5.23
+...Gather the clan at once.
+@5.25
+For the \#11BF clan to fall like this...
+@5.26
+Our lord is holding a council on the matter. Please come to the castle at once.
+@5.28
+It seems everyone is here. You will all have heard the news.
+@5.29
+Yes, my lord. It is truly unexpected.
+@5.30
+Hm, I feel the same. But we have no time to dwell on grief.
+@5.31
+My lord, what will you do now?
+@5.32
+If things go on like this, we will be swallowed up by the \#10C3. But I will not allow it.
+@5.34
+From today, we raise the Sanada banner here in \41DF!
+@5.36
+My lord, we will follow you.
+@5.37
+Hm, we will be busy from now on.
+@5.38
+First, we should make ties with the powerful daimyo around us.
+@5.39
+I know. I'll make arrangements at once. All of you, work even harder.
+@5.41
+Yes, my lord. I'm itching to get to work.
+@5.54
+Having thus become independent, the \#1167 clan at once hurried in all directions on diplomacy with other clans, to survive...
+@5.55
+First it succeeded in an alliance with the \#11FA clan, and steadily strengthened its footing.
+@5.56
+News! It seems Lord \#0167 has become independent and founded a new daimyo house!
+@5.57
+What! How bold, in the midst of this chaos.
+@5.58
+And it seems he has already secured an alliance with the \#11FA clan.
+@5.59
+Hmm, that's Lord \#0167 for you. He misses nothing...
+@6.0
+My lord, a letter has come from the \#11FA army.
+@6.1
+Hm...\n...What, this is!
+@6.2
+What is it, my lord?
+@6.3
+If I surrender the castle quietly, they will spare the garrison, and take me into the \#11FA clan's service too.
+@6.4
+Surrender without a fight... In other words, they want you to defect?
+@6.5
+Indeed, even if we survive this, we can never hold back the \#10C3 and \#11FA armies forever.
+@6.6
+And the \#11BF clan has been shaken to its roots by the defection at \51E8 Castle.
+@6.7
+Even if we stand firm here, it would be all but impossible to turn the tide.
+@6.8
+But I am kin of the \#11BF clan. Can I simply abandon my lord's house?
+@6.10
+Defect to the Tokugawa
+@6.11
+Do not defect
+@6.12
+It cannot be helped. Rather than let my men die in vain, I will surrender with grace.
+@6.13
+I will go to the \#11FA camp myself. Tell them so.
+@6.15
+A meeting was held at a temple near \51E6 Castle.
+@6.16
+Lord \#1029, good of you to come. May I hear your answer?
+@6.22
+Lord \#1029, good of you to come. May I hear your answer?
+@6.26
+Of course, Lord \#1029, we welcome you into the \#11FA clan.
+@6.27
+Yes, my lord. From today I shall serve the \#11FA clan.
+@6.28
+News! \#0028 has escaped \51E6 Castle and fled.
+@6.29
+\#0828, eh...\nLet him go. No need to pursue him.
+@6.30
+I, \#0029, cannot abandon my lord's house! Look to the defences everywhere!
+@6.32
+\#17FE, have you heard?
+@6.33
+What is it? Why the panic?
+@6.34
+It seems the castle lord, \#0029, has decided to hand over this castle without a fight.
+@6.36
+What's more, they say \#0829 is to be taken into the \#11FA clan's service.
+@6.37
+Then it's plainly a defection!
+@6.38
+It seems arrangements are being made to open the castle tomorrow.
+@6.39
+And \#0829 is kin of the \#11BF clan. What treachery...
+@6.40
+Rather than submit to the \#11FA clan, I'd sooner become a ronin.
+@6.41
+What do you intend to do?
+@6.42
+Nothing to it. I'll slip away while they hand over the castle.
+@6.43
+Phew, I made it out. First, I'll head for \51E5.
+@6.45
+What is it? Why the panic?
+@6.46
+It seems the castle lord, \#1029, has decided to hand over this castle without a fight.
+@6.48
+What's more, they say \#1029 is to be taken into the \#11FA clan's service.
+@6.49
+A defection, then... In times like these, it can't be helped. I'll follow our lord, that's all.
+@6.50
+What is it? Why the panic?
+@6.54
+A defection, then... In times like these, it can't be helped. I'll follow our lord, that's all.
+@7.0
+Good, we reached \51E6 Castle before the \#10C3 army caught us. Send a runner to have the gates opened.
+@7.1
+Our lord has arrived! Open the gates!
+@7.3
+Strange. Why is there no answer?
+@7.4
+Our lord has arrived...\n!?
+@7.5
+Bang! Bang!
+@7.7
+M-my lord! The garrison's guns are aimed at us!
+@7.8
+What! You dare this outrage, knowing I am \#01BF!
+@7.9
+Look out!
+@7.11
+F-first, you must get away from here!
+@7.12
+Curse you, \#08D1! You've betrayed us!
+@7.13
+What will you do, my lord?
+@7.14
+Nothing for it. Fall back for now!
+@7.15
+B-but if we turn back, the \#10C3 army is closing in!
+@7.16
+Hm, we can only head for the nearby mountains.
+@7.17
+Then what of Mt. Tenmoku? There, a large army could hardly attack all at once.
+@7.18
+Very well. To Mt. Tenmoku, then.
+@7.19
+My lord, up this road is the gate of \51E6 Castle.
+@7.20
+Good, we got here before the \#10C3 army caught us. Send a runner to have the gates opened.
+@7.27
+L-look there! The garrison's guns are aimed at our lord!
+@7.28
+What! They dare this outrage, knowing our lord is here!
+@7.32
+My lord, what will you do?
+@8.1
+What is it, my lord? If we stop in a place like this, the \#10C3 army will catch us.
+@8.2
+The women seem to be falling behind.
+@8.3
+But if we keep waiting for them, it will be too late. I think we must leave the women behind...
+@8.4
+Do not talk nonsense! If \#09BF fled and abandoned women and children, I would be a laughing stock for ages to come.
+@8.5
+Then I will command the rear guard. My lord, take the women and flee.
+@8.6
+No. I will run no further.
+@8.7
+My lord...
+@8.8
+My late father's words... I feel I understand them only now...
+@8.9
+"People are the castle, people are the stone walls, people are the moat..." Without care for every retainer and every subject, you cannot wage war.
+@8.10
+Forgetting that is surely what brought about today's plight.
+@8.12
+We will head for the nearby mountains, and meet the \#10C3 army there.
+@9.0
+Right. Begin the siege of \51E8 Castle.
+@9.1
+The castle commander, \#00B7, is nothing much... We take it fast, then meet the \#10C3-\#11FA relief army!
+@9.3
+Ah, \%047F0. So you've arrived.
+@10.0
+Heh heh, the \#11BF army is a rat in a sack now. Everyone, there is only one target: the head of \#09BF. Steel yourselves!
+@10.1
+Right, I'll show them the pride of the \#11BF army!
+@11.0
+That Takeda brat, he shows his face here, does he? This time I'll crush him!
+@11.1
+Right, our only target is \#08C3! Throw everything into this battle. Forward!
+@12.0
+Hm? I see something like a fence... And there seem to be a strange number of gunners.
+@12.1
+The enemy seems to have prepared something, but such petty tricks don't matter. We'll scatter them!
+@13.0
+My lord, a great victory for our side!
+@13.1
+Everyone, splendid work! With this we have repaid Nagashino.
+@13.3
+Now, let us return to \51E5 Castle for the time being. More mountain crossings would be too cruel for the women.
+@13.5
+Victorious at what was called the Battle of Mt. Tenmoku, \#01BF succeeded in repaying his great defeat at Nagashino.
+@13.6
+From then on, the \#10C3 clan began to lose its strength rapidly...
+@13.7
+We somehow drove off the \#10C3 army.
+@13.8
+Everyone, good work! Let us return to \51E5 Castle for the time being. More mountain crossings would be too cruel for the women.
+@13.10
+Victorious at what was called the Battle of Mt. Tenmoku, \#01BF found a moment's peace.
+@13.11
+But \#00C3, enraged by news of the defeat, now led his army himself against the \#11BF clan...
+@13.12
+My lord! Our forces are routed!
+@13.13
+So this is the end... Then I'll charge into the enemy camp and make one last stand!
+@13.14
+My lord, wait. I will hold them here, so in the meantime...
+@13.15
+...Hm, I understand. You need say no more. I leave the rest to you!
+@13.17
+Heaven's favour was not with us. I am ready. But there should be a little time left...
+@13.18
+My lady.
+@13.20
+It is not too late. Flee to Lord \#0275.
+@13.21
+No. I do not wish to leave your side, my lord.
+@13.22
+Please understand, my lady. My mind is made up, but I cannot bear to take you with me.
+@13.23
+No. Our days as husband and wife in this world were short, but I wish to live with you long in the next.
+@13.24
+So you will not go, no matter what...
+@13.25
+...My lady, I understand. I'll say no more. We are husband and wife forever.
+@13.26
+Yes. Those words make me happy...
+@13.27
+\#01BF took his own life, and his wife Lady Sagami died with him. \#09BF was \1009...
+@13.34
+Come, men of \#10C3! Tsuchiya Sozo Masatsune is your opponent!
+@13.35
+He's just one man, all of you, get him!
+@13.36
+Gwaaah!
+@13.37
+Hmph, you're no match for me!
+@13.38
+Curse you!
+@13.40
+What a pack of cowards!
+@13.41
+(Good, I've bought enough time. Our lord must have taken his life by now.)
+@13.42
+Men of \#10C3, watch well. This is how a samurai dies!
+@13.43
+After a fierce fight that, they say, stained the nearby river red for three days, \#01EB took his own life. He was \1009...
+@13.44
+By this struggle, later called "a thousand slain with one hand," \#01BF gained the time to take his own life.
+@13.47
+Yeah! Leave this one's head. There must be bigger game up ahead, hurry!
+@13.48
+M-my lord... Did I buy enough time...?
+@13.49
+During the struggle of \#01EB, later called "a hundred slain with one hand," \#01BF took his own life.
+@13.51
+\#01EB too died following his lord. He was \1009...
+@13.54
+M-my lord... I could not buy much time. Forgive me...
+@13.55
+\#01BF was found by foot soldiers and, with no time to take his own life, gave up his head in vain.
+@13.60
+I know... All of this is my doing. At least let me fall with honour.
+@13.61
+My lord, I will go with you.
+@13.62
+\#01BF took his own life, and \37F2 died with him. \37F2 was \1009...
+@14.1
+Everyone, splendid work! With this we have repaid Nagashino. \#08C3 won't make a peep now!
+@14.3
+Having prevailed in the death struggle with \#00C3, \#01BF succeeded in repaying his great defeat at Nagashino.
+@14.4
+As if the tables had turned, the \#10C3 clan then began to lose its strength rapidly...
+@14.5
+My lord, our forces are routed!
+@14.6
+Curses, we fell just short...
+@14.7
+You must be Lord \#01BF. Your head is mine!
+@14.8
+Remnants of the \#11BF army, don't let them escape!
+@14.10
+Ugh... H-how bitter...
+@14.11
+Despite a hard fight, \#01BF was slain. He was \1009...
+@14.12
+Despite a hard fight, \#01BF was slain, and \#07FE died with his lord. He was \1009...
+@15.0
+We won! I've beaten \#08C3 and \#09FA in one stroke, which even my father \#09C1 could not!
+@15.1
+\%03! Congratulations!
+@15.2
+Everyone, raise the victory cry!! Proclaim aloud that the age of the \#11BF clan has come!
+@15.9
+\#07F0 has fallen in battle!
+@15.10
+\#07F1 has fallen in battle!
+@15.11
+\#07F2 has fallen in battle!
+@15.12
+\#07F3 has fallen in battle!
+@15.13
+No... impossible! Why... why!
+@17.0
+Look, my lord, the enemy is retreating! Victory is ours!
+@17.1
+Good, thanks to everyone's work, we held out somehow!
+@17.2
+Victorious in the siege, \#01BF found a moment's peace.
+@17.4
+M-my lord! The enemy seems to have entered the main keep too. Please flee at once!
+@17.5
+Very well. You must flee quickly too.
+@17.6
+Yes, my lord. Farewell!
+@17.7
+My lady, my lady, are you there!
+@17.9
+My lady, it is not too late. Flee to Lord \#0275.
+@17.11
+Please understand, my lady. My mind is made up, but I cannot bear to take you with me.
+@18.12
+At the fall of \51E5, \#01BF took his own life, and his wife Lady Sagami died with him. \#09BF was \1009...
+@18.13
+Lady Sagami's death poem: "Endless is this world, tangled as my black hair; my life, a dewdrop, fades in sorrow"......
+@18.15
+...Victory and defeat are the soldier's lot, but I could not hold the clan together after my father died. The blame is all mine...
+@18.16
+I could not face my father in the next world...
+@18.17
+Still, I, \#01BF, will not botch my own end...
+@18.18
+With the pride of \#11BF, main line of the Genji, I will fall with honour!
+@18.21
+At the fall of \51E5, \#01BF took his own life. He was \1009...
+@18.23
+My lord, the enemy seems to have entered the main keep too. Please flee at once!
+@18.27
+I could not face my father in the next world...
+@18.32
+In month \M002 of \M001, at the fall of \51E5, \#01BF took his own life. He was \1009...
+@18.34
+Ah, how can this be...... That the end should come for the \#11BF clan, a noble Genji house......
+@18.38
+Our lord held out in \51E5 Castle, but despite a hard fight he was defeated and, refusing to fall into enemy hands, took his own life.
+@18.43
+(But this too is the way of the warring age. I cannot dwell on grief forever.)
+@18.44
+Right, tell the clan: we will become independent here in \41DF!
+@18.47
+A message from \#0167: "We become independent in \41DF and a daimyo house. All of you, work even harder."
+@18.48
+What... Very well. From now on, let us build up the \#1167 clan.
+@18.49
+Ah, how can this be...... That the end should come for the \#11BF clan, a noble Genji house......
+@18.52
+News! Lord \#0167 has become independent and founded a new daimyo house!
+@18.54
+And it seems he has already secured an alliance with the \#11FA clan.
+@19.0
+Hmm... The garrison is doing well. I can't afford to spend time on a castle like this...
+@19.1
+The garrison's morale seems high... They hold together, believing \#01FA's main army will surely come to relieve them.
+@19.2
+Hmm... The loyalty of the \#11FA samurai is remarkable...
+@19.3
+\%03, we've caught a suspicious man!
+@19.4
+A suspicious man? Who is he!
+@19.10
+You there, who are you! Why is a man of the garrison outside the castle? Did you desert?
+@19.38
+Wait! As \#0FF1 says, we cannot fully trust a man we have only just met... So
+@19.57
+Lord \#17F4...
+@19.59
+Commander, Lord \#17F4... and all the officers and men in the castle! It is \#0207!
+@19.80
+\#00C3, \#01FA... What are they up to! Men, take their heads!
+@21.0
+Now that everyone is here, I have a grave matter to announce.
+@21.1
+What is it, my lord?
+@21.2
+I intend to attack \51E8 of the \#11FA clan.
+@21.3
+My late father, Lord \#09C1, wished to conquer the Tokai and to march on the capital... I want to carry that on. To that end...
+@21.4
+...those who stand in the way of that path, \#01FA and \#00C3, must be struck down!
+@21.6
+As the opening battle, we will take \51E8... Naturally, \#09FA and \#08C3 will come to retake it.
+@21.7
+So in this battle, we will send our pride, the elite cavalry, to the front and crush the cowardly \#11FA and \#10C3 troops!
+@21.8
+Everyone, compete for glory!
+@21.10
+Right! We march!!
+@21.12
+\#07F0! Urgent news from the great lord!
+@21.14
+Yes... The great lord has decided to attack \51E8 of the \#11FA clan and has set out!
+@21.16
+Naturally, the \#11FA main army and the \#10C3 clan will send relief forces.
+@21.17
+He says the aim of this battle is to throw the whole strength of the \#11BF clan into crushing \#01FA and \#00C3...
+@21.18
+The great lord requests that you, \#07F0 of \41E2, join the campaign without fail!
+@21.19
+Hm... \%021BF's resolve seems uncommon.
+@21.20
+But \#09FA and \#08C3 are both formidable men...
+@21.21
+I hope \%041BF does not let hot blood get the better of him...
+@21.22
+In any case, prepare to march!
+@21.23
+Right! We set out at once and join the great lord's army!

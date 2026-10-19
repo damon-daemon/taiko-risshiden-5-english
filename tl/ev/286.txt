@@ -1,0 +1,1410 @@
+@0.0
+Has it already been \1009 years since, still a young man, I received the headship of the Echigo Nagao from my brother, Lord Harukage...?
+@0.1
+After taming Echigo I went to Kyoto, met the \#101F shogun and the Emperor, and was made lord of Echigo... My late brother must be glad.
+@0.2
+But there are still many enemies all around... \#0276 of Sagami, who drove out Lord \#0320, the Kanto deputy, and would make the Kanto his own!
+@0.3
+\#01C1 of Kai, with whom I first crossed blades at Kawanakajima last year! I must crush his ambition to swallow Shinano.
+@0.4
+\#01C1 of Kai, with whom I have crossed blades again and again at Kawanakajima! I must crush his ambition to swallow Shinano.
+@0.5
+To that end, what matters most is to govern the land from this \41DF, hold councils, and grow our power still further.
+@0.6
+Ah, Lord \#0877! You are back.
+@0.7
+Lord \#0B20. Is anything troubling you at the Otate residence?
+@0.8
+No, no. You have built me, \#0B20, a residence, Lord \#0877, and I want for nothing...
+@0.9
+But it has been \1008 years since \#0276 drove me to flee to Echigo...
+@0.10
+The Kanto lords have left me, the Kanto deputy of the Yamanouchi \#1320, and gone their own way. Only \#0218 still seems willing to obey my orders.
+@0.11
+And how long can \#0A18 hold out against \#1276's attacks? It may be a shameless request from a guest, but will you not march into the Kanto to punish \#1276?
+@0.18
+I see... Then I shall wait a little longer.
+@0.19
+Lord \#0877...
+@0.23
+When Hirai fell, \#1276's men killed my third son Tsuruwakamaru, my second son vanished, and my heir Tatsuwakamaru was executed at Odawara.
+@0.24
+Now there is no one left to carry on the Yamanouchi \#1320, the Kanto deputies... Yet to let the noble \#1320 house die out in my generation is too bitter!
+@0.29
+Our lord inherited the headship of the Echigo \#1077 clan as a young man and pacified all of Echigo in no time. A brave general...
+@0.30
+He also went to Kyoto, met the shogun and the court, and was formally made lord of the province. Truly the leader of Echigo.
+@0.31
+I must serve him all the more faithfully.
+@0.32
+He also went to Kyoto, met the shogun and the court, and was formally made lord of the province. Truly the leader of Echigo.
+@0.33
+I must serve him all the more faithfully.
+@0.34
+\#07FE, it seems Lord \#0320, the Kanto deputy, has asked Lord \#0877 to march into the Kanto.
+@0.35
+Yes, ever since Lord \#0B20 came to Echigo, I thought we would one day march into the Kanto...
+@0.36
+And lately \#01C1 of Kai keeps sending troops into northern Shinano... Great battles will surely follow.
+@0.37
+I must hone my skill in war so as not to fall behind when that time comes.
+@0.38
+Yes, ever since Lord \#0B20 came to Echigo, I thought we would one day march into the Kanto...
+@0.39
+And lately \#01C1 of Kai keeps sending troops into northern Shinano... Great battles will surely follow.
+@0.40
+I must hone my skill in war so as not to fall behind when that time comes...
+@1.0
+Lord \#0877, are the preparations for the Kanto campaign going well?
+@1.1
+Ah, \#0FFE, are the preparations for the Kanto campaign going well?
+@3.1
+Once again the \#1276 army won, and they say \%20320 abandoned his castle and fled.
+@4.0
+\#07FE, Lord \#0320 is here to see you.
+@4.1
+What, Lord \#0B20, the Kanto deputy! I understand, I will come at once.
+@4.4
+\#07FE, Lord \#0320 has come to the castle.
+@4.5
+What, Lord \#0B20, the Kanto deputy who was recently driven from his castle!
+@4.6
+Yes. You are asked to come to the castle to greet him.
+@4.7
+I understand. I will go at once.
+@4.9
+Lord \#0B20, I never imagined you would come all the way to \41DF.
+@4.37
+Have you heard? They say Lord \#0320, who fled after losing to the \#1276 clan, has come to our lord for help.
+@4.38
+What! And what did our lord do?
+@4.39
+Yes, our lord received Lord \#0B20 with every courtesy.
+@4.40
+It seems Lord \#0B20 wishes our lord to raise an army to win back the Kanto, and in return he will hand over the post of Kanto deputy.
+@4.41
+Hmm, that is quite something. What did our lord answer?
+@4.42
+Yes. It seems he answered that he cannot do it right away, but would gladly do so once he is ready.
+@4.43
+Our lord is a man of honour. He will surely keep his promise one day. I wonder how it will turn out...
+@5.0
+\#07FE! Our lord has clashed with the \#11C1 army at Kawanakajima!
+@5.13
+I see. It is a pity we could not strike down \#09C1, but above all I am glad \%027F0 is safe. Thank you for the report.
+@5.14
+I see. It is a pity we could not strike down \#09C1, but above all I am glad \%027F0 is safe. Thank you for the report.
+@6.1
+Ah, \%03. Fine weather today.
+@6.2
+Oh, \%03...\n..........
+@6.3
+\%03, what were you thinking about as you watched the sky?
+@6.4
+Mm... It has been more than fifty years since I became Kanto deputy...
+@6.5
+Mm... It has been more than forty years since I became Kanto deputy...
+@6.6
+Mm... It has been more than thirty years since I became Kanto deputy...
+@6.7
+Mm... It has been more than twenty years since I became Kanto deputy...
+@6.8
+Mm... It has been more than ten years since I became Kanto deputy...
+@6.9
+I have made it my aim to restore peace to the Kanto and revive the shogunate, but I have not yet achieved it.
+@6.10
+While I still live, I must bring order to the land, whatever it takes, with the strength of our \#1077 clan.
+@6.11
+Indeed.
+@6.13
+\%03, what is wrong?
+@6.14
+I-I am fine... Just a little dizzy...
+@6.15
+*Thud*
+@6.16
+Ah! \%03!!
+@6.17
+Someone! Is anyone there?!
+@6.18
+What is it?
+@6.19
+Grave news! \%03 has collapsed!
+@6.20
+What?! We must carry him to his bed at once!
+@6.21
+Ugh... ugh...
+@6.22
+\%03! You are awake?!
+@6.23
+Ugh... There is still... something... I must do...
+@6.24
+As Kanto deputy, bring peace to the Kanto... and then revive the shogunate, and bring order to the land...
+@6.25
+\%03, you must not move! It is bad for you!
+@6.28
+...Bishamonten...\n...Echigo......Kan...to...\n......Katsu......tiger......vanguard...
+@6.29
+\%03!!
+@6.31
+\%03 has not regained consciousness. And these are the signs of a stroke...
+@6.32
+...In which case, nine times out of ten, \%03 will...
+@6.33
+How can this be! Just now, of all times, \%03... Ugh...
+@6.34
+But we cannot simply grieve. We must think of what comes next...
+@6.35
+Yes, that is right. First, the question will be the heir.
+@6.36
+The candidates to succeed \%03 are his nephew and adopted son Lord \#0874, and Lord \#0875, adopted from the \#1275 clan...
+@6.37
+First we must inform those two.
+@6.38
+...Then I will go and tell Lord \#0874.
+@6.39
+Mm... Then I will tell Lord \#0875.
+@6.40
+Let me say it to be sure: that \%03 has collapsed must be kept strictly secret.
+@6.41
+Yes! I understand.
+@6.42
+(There is no one but Lord \#0874 to succeed \%03. I must hurry...)
+@6.43
+Lord \#0874, grave news! \%03 has collapsed!
+@6.44
+What!! And how is \%03?!
+@6.45
+He collapsed and has not regained consciousness. I hardly dare say it... but he will most likely...
+@6.46
+What?! How can this be, \%03... Ugh...
+@6.47
+Lord \#0874... I understand how you feel, but now is no time to grieve.
+@6.48
+What do you mean?
+@6.49
+\%03 has not declared whether Lord \#0874 or Lord \#0875 is to be his heir.
+@6.50
+At this rate, the household will split into supporters of Lord \#0874 and supporters of Lord \#0875.
+@6.51
+And Lord \#0875 is the younger brother of \#0275. If Lord \#0875 succeeds to the \#1077 clan, our \#1077 will be at the mercy of the \#1275.
+@6.52
+Whatever it takes, the \#1077 name must pass to Lord \#0874, who is of \%03's blood.
+@6.53
+To that end, we must quickly seize the inner keep and declare to the household that Lord \#0874 is \%03's heir.
+@6.54
+Mm, I understand. Then let us go to the inner keep.
+@6.55
+Wait! Lord \#17F2, where are you going at this hour?
+@6.56
+Oh, I have some advice for \%03 about our future course.
+@6.57
+I see. Then take care.
+@6.58
+Mm. Good work.
+@6.59
+(Phew... We managed to get into the inner keep without the other generals noticing.)
+@6.60
+\%03! It is Kiheiji, \#0874! \%03!!
+@6.62
+How is \%03?
+@6.63
+He still has not regained consciousness. The end is near...
+@6.64
+(I know it is a stretch... but there is no help for it. It is now or never!)
+@6.65
+\%03! Who is to be your heir? Is it Lord \#0874?!
+@6.67
+Oh, our lord's face seemed to move slightly...
+@6.68
+Did you all see that?! \%03 declares that his heir is Lord Kagekatsu!
+@6.69
+Ah! Our lord...
+@6.70
+!? ...Lord \#0874, \%03 has passed away...
+@6.71
+F-Father!! Your dream will surely be fulfilled by me, \#0874...
+@6.72
+Thus \#0077, feared as the Dragon of Echigo, passed away... aged \1006.
+@6.73
+\#0877's successor was settled as \#0874 by force, but \#0875's supporters naturally did not accept it.
+@6.74
+When \#0877's death became known, \#0875's supporters shut themselves in Tochio Castle and sent secret envoys to the \#1275 and \#11BF clans for help.
+@6.75
+Lord \#0874, grave news. Lord \#0875's faction has shut itself in Tochio Castle and demands the headship of the \#1077 clan.
+@6.77
+They have asked the \#1275 clan, Lord \#0875's own family, and the \#11BF clan, his in-laws, for help, and seem ready to fight to the end.
+@6.78
+We must calm this turmoil quickly...
+@6.79
+Yes. To that end, force may be unavoidable.
+@6.80
+Lord \#0875 and I are brothers by marriage... If I can, I would rather not fight, but there is no help for it...
+@6.81
+\#0A0E! For your service in this succession, I appoint you chief retainer.
+@6.82
+Go on being my right hand and help me build up the \#1074 clan.
+@6.83
+Ha! I am most grateful. For Lord \#0874's sake, I, \#0A0E, will go through fire and water!
+@6.84
+\#0A0E! Go on being my right hand and help me build up the \#1074 clan.
+@6.85
+Ha! For Lord \#0874's sake, I, \#0A0E, will go through fire and water!
+@6.86
+Thus, after \#0877's death, his two adopted sons, \#0874 and \#0875, came to fight over the succession.
+@6.94
+Ah, Lord \#0874! Grave news! \%03 has collapsed!
+@6.122
+F-Father!!
+@6.135
+\#020E was promoted to chief retainer.
+@6.145
+(Lord \#0875 would be the fitting heir to \%03...)
+@6.146
+Oh, Lord \#0875! Grave news! \%03 has collapsed!
+@6.147
+What!! And how is \%03?!
+@6.149
+What?! How can this be, \%03...
+@6.150
+Lord \#0875... I understand how you feel, but now is no time to grieve.
+@6.152
+We should not talk standing in a place like this. Shall we speak at your residence, Lord \#0875?
+@6.153
+Mm, very well.
+@6.154
+Lord \#0875, the question now is who will be \%03's heir.
+@6.157
+At this rate, the household will split into supporters of Lord \#0875 and supporters of Lord \#0874.
+@6.159
+I believe that you, Lord \#0875, are the fitting heir to \%03.
+@6.160
+Oh, I am glad you say so, but why? Lord \#0874 is of \%03's blood, is he not?
+@6.161
+True, Lord \#0874 is the son of Lady Sentoin, \%03's elder sister, who married Lord \#0210, so he is close kin.
+@6.162
+But Lord \#0875, did you not take Lord \#0874's younger sister as your wife?
+@6.163
+Your children, Lord \#0875, would be just as close in blood to \%03 as Lord \#0874's.
+@6.164
+Also, Lord \#0874's father, Lord \#0A10, is already dead; he has no powerful kin behind him. But Lord \#0875 is a son of the \#1275, masters of the Kanto!
+@6.165
+Thinking of the \#1077 clan's future, it is plain which of you is the fitting heir.
+@6.167
+What is more, that \%03 gave Lord \#0875 his own first name, "\#0875", proves he saw Lord \#0875 as his heir.
+@6.168
+Among us retainers it was rumoured that he meant to give Lord \#0875 the post of Kanto deputy, and Lord \#0874 his own family, the Nagao \#1077.
+@6.169
+I see. Very well, I will succeed \%03 and make the \#1077 clan flourish!
+@6.170
+Oh, Lord \#0875! That is the spirit. Now, let us go to the inner keep.
+@6.172
+Wait! No one may enter the inner keep now! Anyone who tries to force his way through will be cut down!
+@6.173
+What?! On whose orders?
+@6.174
+Lord \#07F2's.
+@6.175
+What?! \#0FF2... He was supposed to go and tell Lord \#0874...
+@6.176
+...I see. Curses! I have been outdone!!
+@6.177
+What is it, \#0FF1?
+@6.178
+Only I and \#07F2 knew that \%03 had collapsed.
+@6.179
+No doubt \#0FF2 urged Lord \#0874 on and hurried to seize the inner keep so that Lord \#0874 would succeed \%03.
+@6.180
+Curse you, \#0FF2! Lord \#0875, we can only wait and see. Please go back to your residence for now.
+@6.182
+But, Lord \#0875, keep a close guard!
+@6.184
+So Lord \#0874 and \#020E have seized the inner keep... What will they do next?
+@6.185
+Lord \#0875, this is terrible!
+@6.186
+\#0FF1, what is it?!
+@6.187
+\%03's death has been announced! And it has been proclaimed that Lord \#0874 succeeds to the \#1077 clan by \%03's last will!
+@6.188
+At this rate, your life is in danger, Lord \#0875. Lord \#0874 could send troops at any moment...
+@6.189
+But armed men are posted and the guard is tight. And Lord \#0874 and I are brothers by marriage. First, let us send an envoy to negotiate.
+@6.190
+If that is your wish...
+@6.191
+*BOOM!*
+@6.192
+Wh-what was that?!
+@6.193
+I-I have a report! A great gun has fired on us from the inner keep!
+@6.194
+What?! S-surely not...
+@6.195
+Now we see what Lord \#0874 truly intends. He clearly means to kill you, Lord \#0875, and root out the source of trouble!
+@6.196
+Curse you, \#0874! Would you kill your own brother-in-law?!
+@6.197
+Lord \#0875, it is dangerous to stay in the residence. Let us flee to Tochio Castle for now!
+@6.198
+There is no help for it. I will ask my brother \#0275 and my sister's husband, Lord \#01BF, for reinforcements, and strike back!
+@6.199
+You will pay for this, \#0874!
+@6.203
+Thus, after \#0877's death, his two adopted sons, \#0875 and \#0874, came to fight over the succession.
+@6.217
+We should not talk standing in a place like this. Shall we speak at my residence?
+@6.245
+Curse you, \#0FF2! Lord \#0875, we can only wait and see. Please wait at my residence.
+@6.247
+I will have armed men keep a close guard around the residence.
+@6.269
+For now, why not go back to your residence and call the senior retainers to a council tomorrow morning?
+@6.270
+Mm... I suppose there is nothing else for it.
+@6.271
+Listen, everyone. That \%03 has collapsed must be kept strictly secret until tomorrow morning.
+@6.272
+...Yes, sir.
+@6.273
+Now, which of them will be the heir...?
+@6.274
+\#07FE, this is terrible!
+@6.275
+What is it?!
+@6.276
+Our lord's death has been announced! And it has been proclaimed that Lord \#0874 succeeds to the \#1077 clan by our lord's last will!
+@6.277
+It seems Lord \#07F3 told Lord \#0874 before anyone else, seized the inner keep and arranged all this.
+@6.278
+Then what of Lord \#0875?!
+@6.279
+Sensing danger, he seems to have shut himself in Tochio Castle.
+@6.280
+I cannot stay idle! I must head for Tochio Castle at once!
+@6.281
+Hmm... Things have moved fast. Now that it has come to this, there is nothing for it but to side with Lord \#0874, who has been declared \%04077's successor.
+@6.285
+Thus, after \#0877's death, his two adopted sons, \#0874 and \#0875, came to fight over the succession.
+@6.287
+\#0077, feared as the Dragon of Echigo, suddenly collapsed at his castle, \41DF...
+@6.288
+...and passed away...\n...aged \1006.
+@6.289
+I, \#07FE, have succeeded our lord. I must make our power grow more and more!
+@6.290
+I, \#07FD, have succeeded our lord. Everyone, I count on you from now on!
+@7.0
+Our \#1077 clan has already conquered Hokuriku. The time is ripe. We now begin our campaign to march on Kyoto.
+@7.1
+We have already conquered most of Hokuriku. The time is ripe. We now begin our campaign to march on Kyoto.
+@7.2
+Oh, \%03! At last we march on Kyoto?!
+@7.3
+Yes! We go west along the Hokuriku road, through Echizen and Omi, and into Kyoto!
+@7.4
+Echizen is held by \#10C3, is it not?
+@7.5
+Echizen is held by \#10C3.
+@7.6
+The likes of \#10C3 we will trample in one stroke.
+@7.7
+Let \#10C3's soldiers see for themselves the strength of the army they call the mightiest in the land!
+@7.8
+Oh! My arm itches for battle!
+@7.9
+Yes! My arm itches for battle!
+@7.10
+If we strike down \#10C3 and enter Kyoto, the lords of the land will flock to our \#1077. I expect great things of you all.
+@7.13
+\%03, \#00C3 has sent \#0205 to \51E8 Castle to stop our army.
+@7.14
+\51E8 Castle... the seat of \#017B, the fiercest general of the \#10C3 clan. So \#08C3 means to resist to the end.
+@7.15
+\51E8 Castle... the seat of \#017B, the fiercest general of the \#10C3 clan. Let us show \#08C3 the strength of our Echigo army.
+@8.0
+It seems to me that many in the household have been grumbling lately...
+@8.1
+That cannot be. Under our lord, we serve him loyally.
+@8.2
+That may be so for you, Lord \#17FE, but I hear some senior retainers are at odds with one another.
+@8.3
+...At odds?
+@8.4
+Come to think of it... ever since our lord's father, Lord Tamekage, set out from his post as deputy governor to unite Echigo, our house has taken in many new retainers.
+@8.6
+Local strongmen from all over Echigo, men who served the old governors, the Uesugi... and men who served the Nagao from the start...
+@8.7
+With our house's rapid growth, these old and new retainers have greatly increased in number, and they have yet to learn to trust one another.
+@8.9
+Our lord worries about this too, and they say he has been gloomy of late...
+@8.10
+..........\nBut surely time will settle all that.
+@8.11
+I hope so.
+@9.0
+Th-this is terrible!
+@9.1
+What is it?
+@9.2
+Our lord... has disappeared.
+@9.3
+Wh-what?! What do you mean?!
+@9.4
+I do not know! According to his page, he suddenly said, "I am going to Mount Koya to become a monk and leave the world," and left...
+@9.5
+Leave the world...?! Does he mean to give up being daimyo and live as a mere monk?!
+@9.6
+S-surely he does not mean it. Is he not testing us? Where is \%04077 now?
+@9.7
+...We have no idea at all. We are searching everywhere, but...
+@9.8
+Hmm... Is there nowhere our lord might have gone?
+@9.9
+We searched the castle, the drill ground, and the roads around...
+@9.10
+A-anyway, the castle is in uproar. Lord \#0FFE, please hurry to the Council Chamber!
+@9.12
+What is it?
+@9.14
+What! Wha-at?! What do you mean?
+@9.15
+I do not know! According to his page, he suddenly said, "I am going to Mount Koya to leave the world," and left...
+@9.16
+Leave the world...?! Does he mean to give up being daimyo and live as a mere monk?!
+@9.17
+S-surely he does not mean it. He may be testing us... Where is \%04077 now?
+@9.19
+Hmm... Is there nowhere our lord might have gone?
+@9.22
+Have you all heard? Our lord suddenly declared he would retire from the world, and has fled!
+@9.23
+What will become of the \#1077 clan now...?
+@9.24
+Wait, we have not yet accepted our lord's retirement.
+@9.25
+Just so! We must persuade him to give it up and return to his seat as lord of the province!
+@9.26
+But... even if we want him back, we do not know where he is...
+@9.29
+What is it?! We are in the middle of something important!
+@9.30
+This is grave too! Lord \#009E has rebelled!
+@9.31
+Wh-what?!
+@9.32
+\#089E has...
+@9.33
+Hearing the rumour of our lord's retirement, Lord \#109E used the confusion to defect to the \#11C1 clan, of all things!
+@9.34
+How base... To pick a moment when the household is so shaken...!
+@9.35
+There is not a moment to lose! We must find our lord and bring him back, whatever it takes!
+@9.36
+But we have no clue at all...
+@9.37
+...I believe \%04077 studied at Rinsenji temple as a boy.
+@9.38
+Yes? Indeed, our lord once studied under \#0464 of Rinsenji...
+@9.39
+Perhaps... Abbot \#1464 might know where \%04077 is.
+@9.41
+Good! Then I will go to Rinsenji right now and ask the abbot if he knows anything.
+@9.42
+\%03, I am counting on you! Find out what has become of our lord!
+@9.43
+I will surely find him and bring him back. Wait here, everyone!
+@9.49
+(\%04077... What can he be thinking?)
+@10.0
+Is Zen master \#1464 here?
+@10.1
+What is the matter?
+@10.2
+The truth is... \%04077 suddenly left word that he was retiring from the world, and has fled!
+@10.3
+Ah, that.
+@10.4
+Abbot, do you know anything about where \%04077 has gone?
+@10.5
+Before he left, our lord stopped by this temple and left me a letter.
+@10.6
+A-a letter? May I see it?
+@10.7
+Here.
+@10.9
+"...I have worked hard until now, but my retainers do not heed me, and affairs of state stall. So I have resolved to leave the world.
+@10.10
+From now on, I believe all will go well if the senior hereditary retainers consult together and govern.
+@10.11
+I mean to become a monk on Mount Koya and watch over the \#1077 clan's future from afar..."
+@10.12
+It seems our lord grew sick of the quarrels among his retainers and came to loathe everything.
+@10.14
+In the \#1077 clan, the old retainers and the new ones never stop quarrelling. He said no one obeys his orders.
+@10.15
+He said the old retainers in particular would not heed him... Lord \#009E, for one, had long complained that our lord favoured the new retainers.
+@10.16
+I have nothing to say in reply... Indeed, the old retainer \#009E has used this retirement uproar to rebel...
+@10.17
+With his retainers like that, no wonder our lord wants to leave the world...
+@10.18
+Did you not stop him, Zen master?
+@10.19
+Of course I scolded him... But our lord's distress was greater than I imagined. He seemed to have lost all hope.
+@10.20
+...To think our own failings as retainers drove \%04077 so far.
+@10.22
+But if \%04077 suddenly leaves now, Echigo will fall apart! \#109E's rebellion has shaken the household. He must come back, whatever it takes!
+@10.23
+For that, all the retainers must be of one mind.
+@10.24
+This must have woken the retainers up. We swear never to defy \%04077's orders!
+@10.25
+That resolve is what matters... Then I will tell you where our lord is.
+@10.26
+!! ...You know, Zen master?
+@10.27
+Mm... Even our lord would not do anything so rash as to head straight for Mount Koya. He is calming his mind in a small hall within the province.
+@10.28
+And... where is it?
+@10.29
+Near \41DF... at the foot of Mount Myoko. He is in retreat at a small hall of the Sekiyama Gongen shrine. You should still be in time.
+@10.30
+Thank you! I will go at once! I am in your debt.
+@10.31
+Lord and vassal should be as close as fish and water. Never forget that...
+@10.32
+Near \41DF... the Sekiyama Gongen shrine.
+@11.0
+The Sekiyama Gongen shrine...
+@11.1
+\%03!!
+@11.2
+Hm... \%03.
+@11.3
+Please come back at once! All your retainers are longing for \%04077's return.
+@11.4
+Do not lie... My retainers only quarrel among themselves, and my orders go unheeded.
+@11.5
+That is not so! Under \%03's command, we mean to give our all in your service...
+@11.6
+...Yet did not even \#009E, who served me longest of all, go over to the \#11C1?
+@11.7
+Th... that is...
+@11.8
+I knew it: the household thinks little of me. No one listens to what I say.
+@11.9
+Not at all! When they heard \%04077 was retiring, the household fell into chaos, as if it had lost its central pillar...
+@11.10
+Then came word of \#109E's rebellion, and all agreed there was no way but for our lord to return to his seat... So I asked Abbot \#0464 where you were and came here!
+@11.12
+Echigo cannot stand without \%04077! Please come back to \41DE with me at once!
+@11.13
+Then you swear that the retainers, the local lords and everyone else will never defy my orders?
+@11.14
+I swear by heaven and earth!
+@11.15
+...Very well. If you all go so far as to say that, I will return.
+@11.16
+You will come back!
+@11.17
+I did not try to retire to cause trouble for the \#1077 house or my retainers.
+@11.18
+I simply did not know what you all thought of me, and lost my way. Forgive me.
+@11.20
+What \#009E did cannot be undone... But from now on I will not forgive anyone who defies me!
+@11.21
+I will engrave that on my heart!
+@11.22
+Good. Then we return to \41DE.
+@12.0
+Our lord has returned!
+@12.1
+My lord! You have come back!
+@12.2
+Mm... I have caused you all trouble.
+@12.3
+There is no master of this castle but you, my lord! Please never do such a thing again!
+@12.4
+I know.
+@12.5
+From now on, every one of us retainers will follow you, my lord, even at the cost of our lives!
+@12.6
+Here is a sworn pledge from all of us retainers.
+@12.7
+Oh... Sealed even in blood... I was a fool. I never knew my retainers cared for me so much.
+@12.8
+I am ashamed to have doubted my retainers at all. I want to apologise to you all... Forgive me.
+@12.9
+Not at all!
+@12.10
+Ha ha ha... Torachiyo... I mean, my lord! That will do.
+@12.11
+Abbot \#1464!
+@12.12
+I have caused you trouble too this time, Zen master.
+@12.13
+When all is said and done, lord and vassals alike merely saw demons in their own doubts. Speak with open hearts and you will understand each other.
+@12.14
+This has taught me that to the bone. I will never again speak of abandoning these retainers to retire!
+@12.15
+Mm... At your age it is too early to devote yourself to the Buddha's way. As lord of this province, you still have much to do.
+@12.16
+Yes...!
+@12.17
+I feel that this has drawn lord and vassals closer together.
+@12.18
+Well, all is settled for now.
+@12.19
+Thus ended the uproar over \#0077's flight, which had shaken Echigo.
+@12.20
+It cost the defection of \#009E to the \#11C1 clan...
+@12.21
+...but in return, the \#1077 clan was more united than ever before.
+@12.22
+The loyalty of all \#1077 clan retainers rose.
+@13.0
+\#07FE, Lord \#02CC is here to see you.
+@13.1
+What, Lord \#0ACC! I will see him at once.
+@13.2
+I am \#02CC.
+@13.3
+The fall of your house was truly a grievous thing.
+@13.4
+Yes, your kind words touch me. It was all due to my own lack of virtue.
+@13.5
+And what brings you here today?
+@13.6
+Yes, it is this alone: I, \#02CC, have come wishing to serve under you, Lord \#0877.
+@13.7
+Lord \#12CC, joining this \#1077 clan...
+@13.8
+Yes. I will work myself to the bone, so I beg you.
+@13.9
+Mm. Sooner or later we must settle things with the \#11C1. Having you, who know the \#11C1 well, would be a great help, Lord \#12CC.
+@13.10
+Ha! Thank you for those kind words. I will do my very best.
+@13.11
+\#02CC, whose house \#01C1 destroyed, has come to \41E0 to seek our lord's help.
+@14.2
+Thanks to you all, I have at last achieved my long-cherished wish of marching on Kyoto... I thank you.
+@14.9
+In month \1007 of \1006, \#0077 at last achieved his long-cherished march on Kyoto...
+@14.10
+The court too welcomed the rising \#1077, and it was only a matter of time before \#0077 would rule the realm...
+@14.12
+\#0077 was appointed Minister of the Left.
+@14.19
+In month \M002 of \M001, \#0077 at last achieved his long-cherished march on Kyoto...
+@15.0
+An envoy has come from \#0276.
+@15.1
+What? An envoy of \#1276? What could he want with me?
+@15.5
+Oh, so the envoy is you, \%03! And what is your business this time?
+@15.6
+An honour to meet you. I am \#07F1, retainer of the \#1276 clan.
+@15.7
+Yes, I am \#07FE. And what does the \#1276 clan want of me?
+@15.8
+I have come as the envoy of Lord \#0276. You are Lord \#0077?
+@15.10
+\%03, an envoy from \#0276 has come to our lord!
+@15.11
+\#0276? He is the enemy our \#1077 clan has fought for years over the Kanto!
+@15.12
+What is he scheming...?
+@15.13
+Our lord says everyone is to gather in the Council Chamber.
+@15.14
+I understand. I will come at once.
+@15.17
+Yes, I am \#0077. And what does the \#1276 clan want of me?
+@15.20
+Yes. \#01C1 has broken his alliance with \#006D and revealed his ambition to push south.
+@15.21
+The \#1276 clan has been bound to the \#106D by marriage for generations. We cannot bear to abandon them.
+@15.22
+To help the \#106D clan, we of the \#1276 clan have broken our alliance with the \#11C1 clan.
+@15.23
+And the \#1077 clan has crossed swords with the \#11C1 clan many times over Shinano, yet it remains unsettled.
+@15.24
+Now is the chance for the three houses of \#1276, \#1077 and \#106D to join forces and crush \#01C1's ambitions.
+@15.25
+\#01C1 has conquered Kai and Shinano and watches like a tiger for new lands to take.
+@15.26
+Facing him alone would cost much and gain little, so the \#1276 clan has been seeking an ally.
+@15.28
+Now is the chance for the two houses of \#1276 and \#1077 to join forces and crush \#01C1's ambitions.
+@15.29
+This is no time for \#1276 and \#1077 to fight each other.
+@15.30
+Let us make peace, swear an alliance, and face \#01C1 together!
+@15.31
+True, settling things with \#01C1 is one of my long-cherished wishes.
+@15.32
+But our war with the \#1276 clan has gone on for years. When peace and alliance are offered so suddenly, I must say I doubt your true intentions.
+@15.33
+If you seek peace and alliance, Lord \#0A76 must show his good faith.
+@15.34
+Good faith, you say?
+@15.35
+Well then, I have no heir. I would like a son of \#0A76's as my adopted son.
+@15.36
+I cannot agree to an adoption on my own. Let me consult my master, \#0A76.
+@15.37
+Very well. Then I look forward to a good answer.
+@15.38
+Will \#0276 accept the terms...?
+@15.39
+\%03, an envoy from \#0276 has come to our lord!!
+@15.42
+Yes, well... \#0A76 says it is time for the \#1077 and \#1276 clans to join forces against \#01C1...
+@15.43
+...and has offered peace and an alliance.
+@15.45
+To test the \#1276 clan's good faith, our lord answered that he will accept if he may adopt a son of \#0A76's.
+@15.46
+I see... But will \#0276 really accept those terms...?
+@15.47
+I understand. Thank you for the report.
+@15.48
+I understand. Thank you for the report.
+@16.0
+An envoy has come from the \#1276 clan!
+@16.1
+Oh, then the matter of the alliance will be settled now!
+@16.2
+\%03, it has been a long time.
+@16.3
+Yes, good of you to come.
+@16.4
+An honour to meet you. I am \#07F1.
+@16.5
+Yes, I am \#0077.
+@16.6
+\%03! An envoy has come from the \#1276 clan!
+@16.8
+Our lord says everyone is to gather in the Council Chamber.
+@16.10
+Then the matter of the alliance will be settled now!
+@16.13
+I conveyed \%03's terms to my master, \#0A76, and he gladly agreed.
+@16.14
+And for \#0A76's son \#0875 to become the adopted son of so famed a general as Lord \#0877 is more than we could hope for.
+@16.15
+He wishes the adoption to take place as soon as possible, so his son has come with me.
+@16.16
+I am \#0075. I humbly ask for your guidance.
+@16.17
+Yes! Now that you are my son, the \#1276 name will not do.
+@16.18
+You had better change your given name too... Very well! From now on your name is "Uesugi Kagetora"!
+@16.19
+"Kagetora" is the name \%03... I mean, Father once bore... I am most grateful and honoured!!
+@16.20
+I will strive all the harder to be worthy of the name "Kagetora"!!
+@16.25
+Yes, \%03, I expect great things of you.
+@16.26
+\%03! Word has come that the alliance with the \#1276 clan we have been negotiating is concluded.
+@16.27
+Oh, then the time has come at last to settle things with the \#11C1!
+@16.28
+Also, along with this, Lord \#0276's son, Lord \#0875, has become our lord's adopted son and changed his name to "Uesugi Kagetora".
+@16.29
+Oh, to receive our lord's former name...
+@16.30
+Our lord must have uncommon hopes for Lord \#0875... I mean, Lord Kagetora.
+@16.31
+Thank you for the report!
+@17.0
+My lord, an envoy has come from the \#106D clan. What shall we do?
+@17.1
+What could the \#106D clan want with me...?
+@17.2
+Oh, so the envoy from the \#106D clan is you, Lord \#17F3. It has been a long time.
+@17.3
+Yes! Today I come as the envoy of my master, \#006D.
+@17.4
+I am \#07F3, retainer of the \#106D clan. Today I come as the envoy of my master, \#006D.
+@17.5
+\%03, an envoy from the \#106D clan has come to our lord. Everyone is to gather in the Council Chamber.
+@17.9
+And what is your business?
+@17.10
+Yes! My master says that \#01C1 of Kai cruelly killed \#09C5, his own son and my master \#086D's brother-in-law...
+@17.11
+...and has unilaterally broken the alliance to invade the Tokai lands ruled by our \#106D clan.
+@17.12
+At this conduct of \#09C1's, my master \#086D and his ally \#0276 are furious, and have decided to stop shipments of salt to Kai.
+@17.13
+And so I have come to ask your house to join in the salt embargo on Kai.
+@17.14
+Hmm, I understand your business. But I cannot accept that request.
+@17.15
+Why not? Surely your house too has suffered at \#09C1's hands...
+@17.16
+\%03, accept this offer, join with the \#106D and \#1276, and destroy the \#11C1 now!
+@17.17
+\#01C1's cruelty is hard to forgive. But we fight with bow and arrow, not with salt and rice.
+@17.18
+I mean to settle things with that monk \#09C1 fairly and squarely, bow against bow. So I must ask you to leave.
+@17.19
+Is that so... A pity, but it cannot be helped. Then, farewell!
+@17.20
+\%03, since the Kai-Sagami-Suruga alliance collapsed, \#106D and \#1276 have made a pact and stopped salt shipments to Kai.
+@17.21
+Hmm. Kai is a mountain land and produces no salt, and people cannot live without salt. A clever revenge.
+@17.22
+The \#106D clan has also asked our lord to stop exporting salt to Kai and Shinano.
+@17.23
+And what did our lord answer? Surely he agreed, to join with \#106D and \#1276 and strike down the \#11C1?
+@17.24
+No.
+@17.25
+Then what did he answer?
+@17.26
+"We fight with bow and arrow, not with salt and rice," he said...
+@17.27
+Hmm, just like our lord, whom they call the righteous general.
+@17.28
+Just like our lord, whom they call the righteous general.
+@18.0
+\#07FE, Lord \#0877, who marched into the Kanto, has returned to \41DE!
+@18.1
+Oh!! And how did the campaign go? Tell me all about it.
+@18.2
+Oh!! And how did the campaign go? Tell me all about it.
+@18.4
+\#0077 crossed into the Kanto with the deputy \#0320. At \41DF the Kanto lords joined him, 100,000 strong...
+@18.5
+Sweeping through the Kanto unstoppably, \#0877's army took one \#1276 castle after another and closed on \#0276's seat, \41E0.
+@18.6
+\#0877 besieged \41E0 with a great host, but \#0A76 kept to the defence in his impregnable castle, and \51E7 never fell.
+@18.7
+Seeing the cost of a long campaign, \#0877 led his men back to Kamakura and became Kanto deputy at the Tsurugaoka Hachiman shrine.
+@18.8
+\#0320 also passed on the \#1320 name, and with a character of his name took the name "Uesugi Masatora".
+@18.9
+With \#0877 heir to the \#1320 house, \#0076, first of his kin, also took the \#1320 name.
+@18.19
+I see. It is a pity we could not strike down \#0A76, but above all I am glad \%027F0 is safe. Thank you for the report.
+@18.20
+I see. It is a pity we could not strike down \#0A76, but above all I am glad \%027F0 is safe. Thank you for the report.
+@19.0
+Listen, all of you! This is a righteous war!! Steel yourselves, every one of you!
+@19.1
+Fortune lies with heaven! Armour lies on the breast! Glory lies in the feet!
+@19.2
+He who means to die shall live; he who means to live shall surely die.
+@19.3
+Leave home thinking never to return, and you will return. Think to return, and you will not.
+@19.4
+They say all things are uncertain, but the way of the warrior must not think so. Think always that victory is certain!
+@19.5
+On beishiramandaya sowaka,\nOn beishiramandaya sowaka,\nOn beishiramandaya sowaka!
+@19.6
+Bishamonten, behold our righteous war! We march!
+@20.0
+\#09C1! Next time I will settle things for sure!
+@20.1
+It seems \#09C1 has already marched into northern Shinano.
+@20.2
+Yes. We hurry to Kawanakajima too.
+@20.3
+That monk \#09C1! Next time I will settle things for sure!
+@20.4
+My lord, it seems the \#11C1 army has reached \51E7 Castle.
+@20.5
+Yes! The time has come at last to settle things with \#09C1. And how strong is the enemy?
+@20.6
+I estimate about 20,000, counting the army \#09C1 leads himself and the garrison of \51E7 Castle!
+@20.7
+We have 13,000... They outnumber us. In a straight fight we would be at a disadvantage...
+@20.8
+Yet for some reason the \#11C1 army, which should have the advantage in numbers, stays holed up in \51E7 Castle.
+@20.9
+Yes. I camped on Mount Saijo to show \#09C1 my unyielding resolve, but he keeps his head pulled in like a turtle.
+@20.10
+(Hmm... What is \#09C1 after...?)
+@20.11
+Hm?! What is that smoke?
+@20.12
+That is cooking smoke rising from \51E7. They must be preparing supper. We see it every evening...
+@20.13
+Yes, but today there seems to be more smoke than usual. And the way it rises is unnatural.
+@20.14
+Now that you mention it... Perhaps it rises so oddly because they do not want us to see it?
+@20.15
+I see... Yes, I understand now!
+@20.16
+What is it?
+@20.17
+The way it rises is as you say. And there is more smoke than usual because they are cooking more rice than usual!
+@20.18
+I see! Besides the usual supper, they are cooking field rations for after they march out!
+@20.19
+Yes! In other words, the enemy moves tonight!!
+@20.20
+\%03, does the \#11C1 army mean to attack our camp under cover of night?
+@20.21
+No, this is Shingen. It will not be so simple a plan. There must be something we do not know yet...
+@20.22
+\%03, bring me a local farmer, someone who knows the land and the weather. Hurry!
+@20.25
+\%03, I have brought one.
+@20.26
+Yes. You there, do you live around here?
+@20.27
+Aye, I've lived in Hachimanbara all my born days.
+@20.28
+I see. Then what do you make of the weather here from tonight until tomorrow morning?
+@20.29
+Aye, there'll be thick fog from midnight. The curtain fog, we call it. It covers all of Kawanakajima, and won't lift till morning.
+@20.30
+!? Fog!! Yes, you have told me something useful. My thanks.
+@20.31
+Ohh! You're too kind!
+@20.32
+(Shall I give this man a reward?)
+@20.33
+Give a reward
+@20.34
+No reward
+@20.35
+A small reward. Take it.
+@20.36
+The farmer was given a reward of 100 kan.
+@20.37
+O-ohh!! I'd heard the \#1077 lord was a good lord... Thank you, thank you kindly.
+@20.38
+My lord, it seems the \#11C1 army has split into two and is preparing to leave \51E7 Castle.
+@20.39
+Now I see \#09C1's plan! They split in two; a detached force attacks our camp and drives us out to Hachimanbara...
+@20.40
+...while the main force waits at Hachimanbara to catch us between them as we are driven out.
+@20.41
+Good! We will outwit \#09C1. Under cover of tonight's thick fog, our army too will advance to Hachimanbara!
+@20.42
+Oh! So we attack the \#11C1 main force before the \#11C1 detached force reaches Mount Saijo!
+@20.43
+Yes. Tomorrow morning, the moment the fog lifts, we strike the thinly manned \#11C1 main force!
+@20.44
+Let us go!!
+@21.0
+So the \#11C1 clan has fallen... Then the campaign is off. We return!
+@21.1
+That monk \#09C1! Does he not come out for fear of an all-or-nothing battle? The campaign is off. We return!
+@21.2
+Our ninja have reported that the \#11C1 army has marched, but it seems they have not arrived yet.
+@21.3
+Good. Then we will camp on Mount Saijo, watch Kaizu Castle, and wait for \#09C1's main force to arrive.
+@21.4
+That monk \#09C1! Did he flee for fear of an all-or-nothing battle? The campaign is off. We return!
+@21.5
+That monk \#09C1! It seems he was waiting for us.
+@21.6
+Now, men, listen well! This battle is no squabble over land! It is a holy war to strike down the traitor \#09C1!!
+@21.7
+There is only one target: the head of the enemy general \#09C1! Begin the advance!!
+@21.8
+Hurrah!!
+@22.0
+\%03, the \#10C3 clan has already been destroyed.
+@22.1
+Mm. Then we will regroup. Tell the whole army to withdraw.
+@22.4
+\%03, it seems the \#10C3 forces have withdrawn.
+@22.5
+I meant to show those weaklings of \#10C3 the strength of our Echigo army, but they turned tail and fled.
+@22.6
+Then we too will withdraw for now to regroup.
+@22.14
+\%03, our ninja report that the \#10C3 army has marched, but it seems the \#10C3 forces have not arrived yet.
+@22.15
+Hmm... Then we will watch the enemy from around here. Once we find them, we will fight and scatter them.
+@22.21
+\%03, our ninja report movement by the \#10C3 army in Echizen. What will the \#10C3 army do?
+@22.22
+Hmm. If the enemy comes out, so much the better. But if they hold out in the castle, we will need a plan of our own.
+@22.23
+I have a report! \#017B, general of the \#10C3 army, seems set to sally from the castle!
+@22.24
+Good news. Anything else of note?
+@22.25
+\#0205, commander of the \#10C3 reinforcements, opposed \#097B's plan to sally, and urged holding out in \51E8.
+@22.26
+But he clashed head-on with the commander, \#097B, and unhappy that his advice was rejected, seems to be withdrawing his reinforcements to \51E7!
+@22.27
+Good! This battle is won! And where did \#097B seem to be making camp?
+@22.28
+It seems they are preparing to camp after crossing the Tedori River.
+@22.29
+Good! Then our army marches for the Tedori River!!
+@23.0
+\#08C3! Next time I will settle things for sure.
+@23.5
+It seems \#0205 has reached \51E8.
+@23.6
+Yes. We hurry too.
+@23.12
+I have a report! \#017B, general of the \#10C3 army, seems to mean to sally from the castle.
+@24.1
+My lord, it seems the garrison of \41E0 has abandoned the castle and fled.
+@24.2
+Oh! To win without a fight is a good omen.
+@24.3
+Indeed... From now on, this \41E0 will be our base for pacifying the Kanto.
+@24.4
+Yes, a good idea.
+@24.5
+I have news. Lord \#0218 has come.
+@24.8
+Hearing that Lord \#1077 has crossed the mountains into the Kanto with Lord \#0320, the Kanto deputy, I, \#0218, have come to join this righteous cause.
+@24.9
+\#0A18... Good of you to come. It has been long since we met. Have you been well?
+@24.10
+Yes! And you too, Lord \#0B20, are unchanged... I rejoice at your safe return.
+@24.11
+Good of you to come, Lord \#1218.
+@24.12
+Lord \#1077, thank you for marching out. I, \#0A18, admire Lord \#1077's righteous cause.
+@24.13
+And so, please use this \41E0 as your base for pacifying the Kanto.
+@24.14
+What! You mean to give me this castle?!
+@24.15
+Indeed! And from now on I will look to you, Lord \#1077, as our leader and help you pacify the Kanto!
+@24.16
+From now on I will look to you, Lord \#1077, as our leader and help you pacify the Kanto!
+@24.17
+Oh! That is reassuring! Lord \#1218, I count on you.
+@24.19
+Good! Then we now head for \41E1.
+@24.20
+Hurrah!!
+@25.1
+My lord, \41E0 has surrendered without a fight!
+@25.2
+My lord, we will soon reach \41E0!
+@25.3
+\41E0 is an impregnable castle built in the marshes between the Tone and Ara rivers... Now, how shall we attack it...?
+@25.4
+I have news! Lord \#0228, lord of \41E0, has come.
+@25.5
+What, \#1228 of \41E0... Yes, show him in!
+@25.7
+I am \#0228. We once belonged to the Yamanouchi \#1320 house, but had no choice but to bow before \#1276's attacks...
+@25.8
+But hearing of this Kanto campaign, I have come to serve Lord \#0320, the Kanto deputy.
+@25.9
+Yes! Your loyalty is truly admirable, Lord \#1228. I count on you!
+@26.1
+I have news! Lord \#00A4, lord of \41E0, has come.
+@26.2
+Yes, show him in!
+@26.4
+\#08A4, you have come too! I am glad.
+@26.5
+Lord \#0B20, how good to see you. I, \#08A4, burning to defeat \#1276, have come to join you!
+@26.6
+Good of you to come, Lord \#10A4.
+@26.7
+After the defeat at Kawagoe, my master's house, the Ogigayatsu Uesugi, was destroyed... Since then I have endured \#1276's pressure and waited for my chance.
+@26.8
+So when I received your call to arms for the Kanto, I came to lead your vanguard, Lord \#0877.
+@26.9
+Yes! Then I ask you, Lord \#10A4, to lead the vanguard. I count on you!
+@26.18
+After the defeat at Kawagoe, my master's house, the Ogigayatsu Uesugi, was destroyed... Then \#1276 attacked, and our \#10A4 house too was at last forced to surrender.
+@26.19
+But receiving your call to arms for the Kanto, I have broken with \#1276 and come to lead your vanguard, Lord \#0877.
+@26.22
+I have news! Lord \#0160 has come.
+@26.23
+Lord \#1077, I have brought troops to help defeat \#1276 together.
+@26.24
+Oh, Lord \#1160! Thank you for joining us. I expect great things of your skill in war.
+@26.25
+Ha, kind words! We will show the \#1276 forces a thing or two!
+@26.26
+I have news! Lord \#0161 has come.
+@26.28
+Oh, Lord \#1161! Thank you for joining us. I expect great things of your skill in war.
+@26.30
+My lord, the Satake clan has sent reinforcements!
+@26.31
+Thus the Kanto lords gathered under \#0077, a host of 100,000...
+@26.32
+Good! We now head for \41E1.
+@26.33
+Before attacking \41E2, we will crush them in one go!
+@27.1
+My lord, there is not a single enemy soldier left in \41E0! They seem to have pulled back to \41E1.
+@27.2
+Hmm, so \#0A76 abandoned his branch castle to strengthen the defences of \51E8...
+@27.3
+Then at last we attack \41E1, where \#0276 is holding out. Men, we march!!
+@28.1
+My lord! \41E0 is in sight!
+@28.2
+Oh, so that is... \41E0! What a huge castle... The whole castle town is enclosed within its outer walls...
+@28.3
+Good, we hold a war council! \#0FF0, gather the generals!
+@28.5
+...Now, how to attack that huge castle. I want to hear your views.
+@28.6
+They say \#0A76 is holding out in \41E0 with a great host... We have no choice but to besiege it.
+@28.7
+Hmm... So it cannot be taken by force...
+@28.8
+\51E7 is a great castle, 50 cho east to west, 70 cho north to south, 3 ri around, with deep moats and towers packed along its walls.
+@28.9
+An assault would only add to our losses for nothing...
+@28.10
+Good! Then we surround \41E0, and whenever the enemy shows an opening, the units will strike key points together and break it down bit by bit.
+@28.12
+Thus \#0077 surrounded \#0276 at \51E7 with a great army...
+@28.13
+But \41E0, expanded by the \#1276 over three generations, showed no sign of falling.
+@28.14
+We came all the way to \51E7... \#0A76 is a stubborn one.
+@28.15
+My lord, a long siege is against us. There are rumours that the \#11C1 is marching on the Shinano-Echigo border again...
+@28.16
+My lord, a long siege is against us. We left Echigo long ago, and provisions are becoming a worry...
+@28.17
+Hmm... This time we must be content with having shown \#0A76 our strength.
+@28.18
+Very well, we withdraw to Kamakura!
+@28.19
+Then I will command the rear guard! Lord \#1077, please withdraw at your ease.
+@28.20
+Yes! Then I leave it to you, Lord \#1218. We withdraw!
+@29.0
+Lord \#0877, as I said before, I mean to hand you the post of Kanto deputy and the \#1320 name...
+@29.1
+Lord \#0B20! But... we have not yet defeated \#1276.
+@29.2
+No. To have shown such might in the Kanto is work truly worthy of the name Kanto deputy.
+@29.3
+Besides, I have already received the \#101F shogun's permission to pass on the post. Come, let us hold the ceremony at the Tsurugaoka Hachiman shrine.
+@29.4
+Yes...! It is an honour beyond my deserts.
+@29.5
+On day \M003 of month \M002 of \M001, \#0077 was installed as Kanto deputy at the Tsurugaoka Hachiman shrine in Kamakura.
+@29.6
+\#0877 also received the \#1320 crest, genealogy and heirlooms from \#0320, and with a character of his name became "Uesugi Masatora".
+@29.12
+At this time, a small incident occurred...
+@29.13
+The Kanto lords awaited \#0877 before the shrine, but by custom handed down since the Kamakura era, \#0228 alone stayed on his horse.
+@29.14
+Taking this as an insult, \#0877 knocked off \#0A28's court cap with his fan, and \#0A28 is said to have turned red with shame and rage...
+@29.19
+From now on I will live out my days in retirement at the Otate residence. I leave the rest to you, \#0877.
+@29.20
+Yes. Now that I have inherited the \#1077 name and the post of Kanto deputy, restoring peace to the Kanto is my mission!
+@29.21
+I will surely fulfil this duty, Father, you will see!
+@29.22
+Mm! Most reassuring.
+@29.23
+Everyone, we return to \41DE in triumph!
+@30.0
+Shingen, today I will have that head of yours! Now! Attack!!
+@30.2
+The fog will soon lift. That is the signal to attack.
+@30.3
+\%03! The \#11C1 army is right before us.
+@30.4
+Heh heh heh, just as I expected.
+@30.5
+\#09C1! You meant to use this fog to outwit us, but you have fallen into your own trap!
+@30.6
+The \#11C1 army is shaken by our sudden appearance!
+@30.7
+Now! Attack!!
+@31.0
+\%03! \#017B's army is closing in on us.
+@31.1
+Good! We scatter them in one stroke!! Charge!!
+@31.2
+Hurrah!
+@32.0
+Hmm, we could not finish them! If only the \#11C1 detached force had not come...
+@32.1
+I would like to give \#09C1 one more taste of my blade, but as things are we will only wear ourselves out. There is no help for it; fall back slowly!
+@32.5
+The \#1077 and \#11C1 armies clashed at Kawanakajima, but the battle ended with no decision.
+@32.11
+That monk \#09C1! Now you know the strength of our Echigo army!
+@32.12
+Even so, our losses are not small.
+@32.13
+Yes. I would like to give \#09C1 one more taste of my blade, but as things are we will only wear ourselves out.
+@32.14
+There is no help for it; fall back slowly!
+@32.21
+\%03, our army is all but destroyed! Throw off your heavy gear and flee to \51E6 Castle!
+@32.22
+Ugh!! Curse you, \#09C1! To think the \#11C1 detached force would arrive so soon! I will never forget this shame! One day, without fail...
+@32.25
+The Echigo and Kai armies clashed at Kawanakajima, and the Kai army, with its detached force, caught the Echigo army between them and crushed it.
+@32.26
+With this, a shadow fell over the martial fame of \#0077, Kanto deputy.
+@32.28
+Hmm, we could not finish them! As things are, we will only wear ourselves out. There is no help for it; fall back slowly!
+@32.34
+Victory is ours! The \#11C1 army is in flight.
+@32.35
+That monk \#09C1! Now you know the strength of our Echigo army!
+@32.36
+But it is a great pity we could not take \#09C1's head. The great serpent has slipped away...
+@32.37
+Men, we return to \51E6 Castle in triumph!
+@32.39
+The Echigo and Kai armies clashed at Kawanakajima.
+@32.40
+The Echigo army struck like lightning and crushed the Kai army, weakened by sending out a detached force, before that force arrived.
+@32.44
+Ugh!! Curse you, \#09C1! I will not forget this shame! One day, without fail...
+@32.48
+The Echigo army was crushed by the Kai main force before its own detached force could arrive.
+@32.49
+With this, the martial fame of \#0077, Kanto deputy, fell to the ground.
+@33.0
+\%03, we are defeated. Throw off your heavy gear and flee to \41DE!
+@33.1
+Ugh! Curse you, \#097B! I will not forget this shame! \%03, we return to \41DE.
+@33.4
+In month \M002 of \M001, \#0077 and \#017B fought at the Tedori River.
+@33.5
+\#097B, called the Demon \#117B, splendidly defeated \#0077, the Dragon of Echigo.
+@33.6
+Even this rare hero was losing ground before \#08C3's sheer numbers.
+@33.7
+Victory is ours! The \#10C3 army is in flight.
+@33.8
+Good! Well done! \#08C3, wash your neck and wait for me!
+@33.9
+Everyone, raise a victory cry! We return to \41DE in triumph!
+@33.12
+Even \#097B, called the Demon \#117B, was helpless before \#0077, the Dragon of Echigo.
+@33.13
+\#08C3, who had been about to come up in support himself, hastily retreated on hearing of the defeat.
+@33.14
+Kyoto mocked his retreat in verse:\n"Meet Uesugi, and Oda comes undone;\nKenshin leaps and Nobunaga runs."
+@33.15
+When \#0877 heard the verse...
+@33.16
+Ha ha ha ha ha ha... However high I may leap, I am no match for how fast Nobunaga flies!
+@33.17
+...he is said to have roared with laughter.
+@33.18
+A rare hero was about to join the struggle for the realm.
+@33.19
+Hmm, we could not finish them! As things are, our army will only wear itself out. There is no help for it; fall back for now!
+@33.23
+\#097B, called the Demon \#117B, and \#0877, the Dragon of Echigo...
+@33.24
+The battle between \#00C3 and \#0077 ended with heavy losses on both sides.
+@34.0
+I have a report. It seems \%20320 lost to \%20276 and fled towards Echigo.
+@34.1
+Following that, \#0218 of \41E1 seems to have declared independence and become a daimyo.
+@36.0
+\#07FE! Our lord has marched for Kawanakajima to punish the \#11C1!
+@36.1
+Oh!! The day to destroy the \#11C1 clan has finally come! I pray for \%027F0's fortune in war.
+@36.2
+Really!! The day to destroy the \#11C1 clan has finally come! I pray for \%027F0's fortune in war.
+@36.3
+Then let us begin the council.
+@36.4
+\%03!! I have a proposal!
+@36.5
+What is it, \#0FF1? Speak.
+@36.6
+Yes, allow me to give my humble view. As Kanto deputy, \%03 governs the eight Kanto provinces and even Oshu...
+@36.7
+What is more, you were ordered by the Emperor to pacify the enemies around you, and granted a cup and a sword! Anyone who opposes \%03 is a traitor!!
+@36.8
+Yet \#01C1 of Kai, with no fear of \%03's authority, tramples Shinano as he pleases.
+@36.9
+To my deep shame, I, \#0FF1, was also driven from northern Shinano by \#09C1 and came to Echigo relying on \%03's mercy.
+@36.10
+I beg you, I beg you: raise a righteous army, strike down the traitor \#09C1, and bring peace to Shinano!!
+@36.11
+\#0FF1, well said!
+@36.12
+Ever since \#09C1 built \51E7 Castle, showing he means to conquer Shinano and eyes Echigo too, I have been waiting for the time to ripen.
+@36.13
+Then, \%03, will you finally fight a decisive battle with the \#11C1?
+@36.14
+Yes! Now the time is ripe. We march to Kawanakajima and fight \#09C1 to the death!!
+@36.16
+Men, prepare to march!
+@37.0
+\#01C1, who long crossed swords with our \#1077 clan, is already dead. No one stands in our way.
+@37.1
+From this moment we aim to march on Kyoto!
+@37.2
+First we secure the road to Kyoto. From now on, keep that in mind as you carry out your duties.
+@37.3
+Oh, the time has come at last for us to march on Kyoto! A fine decision!
+@37.4
+The time has come at last for us to march on Kyoto! A fine decision!
+@37.5
+My lord! Then let us prepare to march at once! I long to see the capital.
+@37.10
+\#07FE, it seems our lord has begun preparing to march on Kyoto.
+@37.13
+Oh, so the time has come at last for our \#1077 to march on Kyoto!
+@37.14
+So the time has come at last for our \#1077 clan to march on Kyoto!
+@37.15
+In month \M002 of \M001, \#0077 at last began preparing to march on Kyoto.
+@37.16
+The "Dragon of Echigo", feared by all the lands, was about to take flight and ride the clouds.
+@39.0
+\#07FE! The other day Lord \#0877 marched into the Kanto with Lord \#0320, the Kanto deputy!
+@39.1
+Oh, is that so!! The day to conquer the Kanto has finally come! I pray for Lord \#0877's fortune in war.
+@39.2
+Really!! The day to conquer the Kanto has finally come! I pray for Lord \#0877's fortune in war.
+@39.4
+I have news. Lord \#0320 is here.
+@39.5
+Yes, show him in.
+@39.7
+It has been a while, Lord \#0877.
+@39.8
+Ah, Lord \#0B20. You have come at a good time.
+@39.9
+Lord \#0877, what do you mean, a good time?
+@39.10
+About the Kanto campaign we spoke of before: at last the time is ripe.
+@39.11
+Th-then...!!
+@39.12
+Yes... I have the \#101F shogun's permission, and the daimyo opposed to \#1276, such as \#1160 and \#115A, have asked me to march into the Kanto...
+@39.13
+Now is our chance! We march into the Kanto to punish \#1276!
+@39.14
+Yes... We march into the Kanto to punish \#1276!
+@39.15
+Oh!! My lord, at last we strike \#1276?!
+@39.16
+Yes! Send word to the Kanto lords who oppose \#1276! Tell them to rally to Lord \#0320, the Kanto deputy!
+@39.18
+Oh, I am so grateful! Thank you, Lord \#0877!!
+@39.19
+Lord \#0B20, please make ready to march too.
+@39.20
+Yes, I will!
+@39.21
+At last we cross the mountains... My arm itches for battle!

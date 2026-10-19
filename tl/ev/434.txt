@@ -1,0 +1,162 @@
+@0.0
+Lord \#0A06 must be downcast at losing his guardian, Lord \#0A93.
+@0.1
+I must go to \41DF and comfort him.
+@1.0
+I must go to the castle and pay my respects to Lord \#0A06...
+@1.1
+\%03, grave news!
+@1.3
+There is a rumour that \#00E6, \#0267, \#0125 and others mean to attack you, \%03.
+@1.4
+Don't say such pointless things. Isn't it just a rumour?
+@1.5
+I thought so too... but word has just come that soldiers led by \#0125 have surrounded your mansion, \%03!
+@1.7
+\#0125's confederates are seven: \#00E6, \#0267, \#001A, \#027C, \#0043 and \#00E9!
+@1.8
+It is dangerous here!! Please flee!
+@1.9
+Grr... Insolent dogs! It can't be helped. Shall I take refuge in \41E0...
+@1.10
+\%03! This is a private feud! You must not drag Lord \#0A06 into it!
+@1.11
+Yes, you are right... But where can I flee...
+@1.12
+That's it! \%041FA came to \41DF, didn't he?
+@1.13
+Yes, I hear it was to attend Lord \#0293's funeral...
+@1.14
+Surely you don't mean to take refuge with \%041FA?
+@1.16
+Th-that won't do!
+@1.17
+\%041FA is your enemy, my lord. He may confine you, or hand you over to the Seven Generals... Either way, you won't get off lightly.
+@1.18
+No, I see it now! This is \%041FA's scheme to split us officers indebted to the \#1206!
+@1.20
+To push his scheme forward, he needs me, whom everyone resents. \%041FA won't kill me now.
+@1.21
+If I die, the officers indebted to the \#1206 will unite... \%041FA must fear that.
+@1.22
+To leave seeds of strife in the \#1206 clan, he will do all he can to keep me alive.
+@1.24
+Then there is no safer place than with \%041FA. I must hurry!
+@2.0
+Good, I've reached \41DF. I must hurry and ask to see \%041FA...
+@2.1
+Well, well, if it isn't \%0404B. What brings you here?
+@2.2
+I am being hunted by insolent dogs and am in some difficulty. May I see \%041FA?
+@2.3
+Then this way...
+@2.4
+\%0404B, what a misfortune. But once inside the castle of \#09FA, you are safe. Rest easy.
+@2.6
+Indeed... I will have a word with the Seven Generals, so rest easy.
+@2.7
+But that settles today. What will you do from tomorrow on?
+@2.10
+The nail that sticks out gets hammered down, as they say. Perhaps you should resign as magistrate and go back to your lands for a while.
+@2.11
+I was thinking that would be best.
+@2.12
+(The old raccoon dog... Just as I thought, he did not kill me.)
+@2.13
+(War with \%041FA can't be avoided in the end. So I must go back to \41DE and build up my forces...)
+@3.2
+\%03, Lord \#020E is here to see you.
+@3.3
+\%0420E? What could he want?
+@3.4
+\%0404B, it has been a long time.
+@3.5
+\%0420E, what brings you all this way?
+@3.6
+It concerns \#09FA. \Z003 has been arranging marriages between daimyo without leave.
+@3.7
+What? Isn't it the rule that marriages between daimyo must be reported in advance?!
+@3.8
+\Z003 plays dumb and says he forgot, but clearly it is to gain more allies.
+@3.9
+He has also been carving up Lord \#0A06's lands and handing them out as "rewards".
+@3.10
+...Buying gratitude without spending a coin of his own. How like the stingy \Z003. Unbelievable.
+@3.11
+This is no time to be astonished. At this rate, \Z003 will steal the realm from the \#1206!
+@3.12
+Hm... But \Z003 is a raccoon dog to the core. No ordinary plan will bring him down...
+@3.13
+Then I will go home and advise Lord \#0074 to build up his forces.
+@3.14
+\Z003, who means to steal the realm, is sure to pick a quarrel to bring the \#1074 clan to its knees.
+@3.15
+But our \#1074 clan has honoured arms since Lord \#0877... We will pay no heed to \Z003's quarrel.
+@3.17
+And then I rise up and we catch \Z003 between us... Is that the plan?
+@3.18
+Exactly right! What say you?
+@3.20
+\%0420E, to protect the \#1206 realm, we will surely destroy \Z003!
+@3.21
+\%0404B, let us both give our all!
+@6.6
+My lord! Lord \#00A5 is here to see you.
+@6.7
+What, \Z001!
+@6.8
+Good, I'll see him. \Z001 will surely join this righteous army.
+@6.10
+Come now, we are old friends. I was passing nearby, so I dropped in.
+@6.36
+My illness is incurable. I don't have long... but I'll give you the time I have left!
+@6.49
+\41DE is a wedge driven in by \Z003. If we leave it, it will only trouble us.
+@6.51
+\Z001, go and see Lord \#0A06 and tell him why we have raised troops.
+@6.52
+Understood. But will you be all right attacking \41DE by yourself?
+@6.53
+\41DE stands alone. If I can't take it, I could never hold my head up as a samurai.
+@6.54
+Very well. Then I'll await good news.
+@7.17
+Also, I have had the daimyo who sided with us gather their armies here at \41DF.
+@7.30
+What?! You mean he foresaw that I would raise troops?!
+@8.4
+Yes, sir. And... a letter has arrived from Lord \#007D.
+@8.6
+Yes. The aim is to show the unity and prestige of our Western Army so no one goes over to \Z003...
+@9.9
+Oh, \%047FE! To beat \Z003... you are quite the general after all!
+@9.10
+No... It was just luck.
+@9.11
+(After sitting on the fence... If we weren't on the eve of great things, I'd give him a piece of my mind!)
+@10.9
+Tell the members of the new Five Regents!
+@10.10
+We are raising an army to punish \#11FA. They are asked to join...
+@11.8
+\%047FE! You struck down \#09FA, well done!
+@12.0
+\%03! You came!
+@12.5
+Hm... \#09FA has \41DF surrounded. If we advance now, we may catch him between us.
+@13.0
+Looking around like this, how many daimyo indebted to the Toyotomi have sided with the East...
+@13.1
+\#0267, \#027C, \#0125, \#00E9... Even \#01D4 has sided with \#09FA. Unforgivable!!
+@13.3
+That banner with the wisteria crest... It's \#0125! The \#1125 force is coming at us!
+@15.31
+\#004B fled the battlefield vowing to rise again, but a few days later he was caught by Eastern pursuers.
+@15.32
+The other Western commanders were caught one after another and met harsh fates: execution, seppuku or loss of their domains...
+@15.39
+A man who aims at great deeds never forgets to look after his health, whatever the moment. Remember that...
+@17.5
+Before the feats of \#07FE and \#00A5, \#01FA, who had half the realm in hand, fell at last, aged \1006...
+@18.12
+\#07FE raised troops under the banner of overthrowing \#01FA, but was easily killed in the siege of \41DF...

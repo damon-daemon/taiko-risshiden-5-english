@@ -1,0 +1,276 @@
+@0.0
+Four years had passed since \#0199, a senior Ouchi retainer, rebelled against his effete lord Ouchi Yoshitaka and drove him to his death...
+@0.1
+\#0999 adopted Haruhide of the \#10A7 of Bungo, renamed him \#0898 and made him lord, keeping the \#1098 going peacefully on the surface...
+@0.2
+But the warriors of Chugoku and northern Kyushu who had served the \#1098 gave up on the \#1098 and turned to the \#12D2 and others...
+@0.3
+The fall of a great house had begun...
+@0.4
+I was adopted into the \#1098 house, but my men are all abandoning me...
+@0.5
+What have I done? Could it be because of \#0199...?
+@0.6
+I was not wrong to strike down Lord Yoshitaka...
+@0.7
+Lord Yoshitaka's pleasures made Yamaguchi splendid, but the \#1098 house declined. He would not listen to my counsel.
+@0.8
+Why am I called wicked for removing such a lord by force...?
+@0.9
+I have no intention of taking the \#1098's place. As proof, I serve Lord \#0898, whom I brought from the Otomo, as my lord.
+@0.10
+I have done nothing to be called a heartless traitor... Yet the \#1098's warriors...
+@0.11
+They abandon the \#1098 and run to the \#12D2... Do they not understand the way of Heaven?
+@0.12
+It is certain that Lord \#0199 brought on the \#1098 house's decline...
+@0.13
+But it is just as certain that our house could not manage without \%04199...
+@0.14
+What will become of the \#1098 now...?
+@1.0
+My lord! \#02D2 is trying to build a new castle near Itsukushima!
+@1.1
+At Itsukushima? Why on earth there...? Is he provoking us?
+@1.2
+Well... his true intent is unknown, but Lord \#0199 says we should be on our guard.
+@1.3
+You reported to \#0999 before me, the head of this house?
+@1.4
+...F-forgive me!
+@1.5
+...Well, never mind. It's true that \#0999 knows more of war than anyone in our house.
+@1.7
+But I am the head of the \#1098 house. Do not forget that.
+@1.9
+Lord \#07FE! \#02D2 is trying to build a new castle near Itsukushima!
+@1.10
+At Itsukushima? Why on earth there...? \#0AD2 is a master schemer, not to be taken lightly... Is it some plot?
+@1.11
+Well... his true intent is unknown, but our scouts say the purpose of the castle is being kept strictly secret.
+@1.12
+So it's a castle of great importance... True, Itsukushima may be a key stepping stone for an attack on Yamaguchi...
+@1.13
+If possible, I'd like to crush it before it is finished... Perhaps I'll advise our lord at the next council...
+@1.14
+But attacking Itsukushima will need a navy. The one who leads the Seto Inland Sea navy is... \#02CA.
+@1.15
+But will \#02CA really side with the \#1098...?
+@1.16
+Perhaps I should meet \%042CA once...
+@1.17
+Lord \#07FE, \#02D2 is trying to build a new castle near Itsukushima!
+@1.20
+Hmm... What is \#02D2 thinking...?
+@2.0
+It's been a long time... Lord \#02CA.
+@2.1
+...Well, well, Lord \#1199, who rules the \#1098. What brings you here?
+@2.2
+In truth, I wish to apologise for what happened some years ago...
+@2.3
+............ What has changed your tune?
+@2.4
+Some time ago, as chief retainer of the \#1098, \#0199 tried to unite the Inland Sea pirates and allied with the \#12CA navy...
+@2.5
+But the sea clans, robbed of their freedom and rights under \#1098 rule, soon came into conflict with the \#1098...
+@2.6
+And it was \#0199 who crushed by force the pirates who defied the \#1098...
+@2.7
+Back then we did not know the ways of the pirate clans... We never meant to take your rights.
+@2.9
+Can we not join hands again...? We of the \#1098 have learned we cannot survive with the pirates against us...
+@2.10
+...For Lord \#0199, steward of the \#1098, to humble himself so far, there must be something behind it.
+@2.12
+Hahaha, you're too sharp for me. Just so... The truth is, the \#12D2 are acting strangely.
+@2.13
+They probably mean to make war on us soon... That is why I came like this.
+@2.14
+In short, I'm preparing for war.
+@2.15
+Heh heh... You're honest.
+@2.16
+So, will you side with us? You may name your reward.
+@2.17
+The truth is, Lord \#1199... the \#12D2 sent me exactly the same request.
+@2.18
+What!? I thought so. Quick as ever, that \#02D2... And what is the \#12CA navy's answer?
+@2.19
+I haven't answered yet... It is a decision that will decide the \#12CA navy's fate... In truth I was torn.
+@2.20
+I beg you, Lord \#0ACA! Even if you won't side with the \#1098, will you at least not help the \#12D2?
+@2.23
+Hahaha! Lord \#1199... The \#12CA navy will send help to neither side. Will that do?
+@2.24
+Oh! I'm grateful... Do you mean it!?
+@2.25
+Mm... To tell the truth, I was thinking of siding with the \#12D2...
+@2.26
+But Lord \#1199 came all this way to see me.
+@2.27
+I'm obliged! I'm in your debt!
+@2.28
+Well, let the \#1098 and the \#12D2 fight to their hearts' content. We'll watch from the sidelines.
+@2.29
+We'll see who becomes master of Chugoku.
+@2.30
+Mm! Then I'll take my leave!
+@3.0
+Old lord, Lord \#0199 has returned.
+@3.1
+My lord, I have defeated \#02D2!
+@3.2
+Oh, you're back. Well done! You truly are the guardian of the \#1098.
+@3.3
+Thank you for those words... I, \#0999, am resolved to serve the \#1098 house with all my strength from now on!
+@3.4
+Mm, reassuring words! You did well!
+@3.5
+The \#1098 once hailed as the mightiest in the west, who escorted the Shogun to the capital... their revival was at hand...
+@3.6
+Ah, Lord \#0199! Welcome back! My lord! My lord!
+@3.10
+Mm, reassuring words! Good work!
+@4.0
+Lord \#07FE! Our army and the \#12D2 army clashed at Itsukushima!
+@4.2
+Our side lost... It seems our general, Lord \#0199, was killed...
+@4.3
+What... What will become of the Ouchi house now...
+@4.5
+\#02D2, long under the \#1098, slowly gathered strength and at last surpassed his former masters, the Ouchi...
+@5.0
+We have arrived at \41DE. The retainers are already waiting in the castle for Lord \#0898.
+@5.1
+Mm, let us go at once.
+@5.2
+\#0FFE, you come with me.
+@5.4
+Lord \#0898, we have been expecting you.
+@5.5
+Mm, thank you all. I am Otomo Haruhide... from now on, Ouchi Haruhide. From now on I lead the \#1098 house.
+@5.7
+First I wish to end the turmoil in the house and spread the \#1098 house's glory. Lend me your strength, all of you.
+@5.8
+Yes, sir! We will all serve you as one!
+@5.9
+And \#0999, I give you a character of my name. From now on, call yourself Sue Harukata.
+@5.14
+Yes, sir! I am deeply honoured!
+@5.15
+Then that is all for today.
+@6.0
+Around this time, \#07FE changed his name to Yoshinaga.
+@6.1
+Ouchi Yoshinaga... A name fit for the head of the \#1098 house. I must strive all the harder.
+@6.2
+Lord \#07FE, the old lord has changed his name to Ouchi Yoshinaga.
+@7.0
+What! The enemy came by sea! A surprise attack! Everyone, be careful!
+@7.1
+Ah! Lord \#1199! There's a fleet out at sea!
+@7.2
+Damn...! So the \#12CA navy did side with the \#12D2.
+@7.3
+Then we are at a serious disadvantage.
+@7.4
+Bah, enough whining! Scatter the likes of the \#12D2 without a word!
+@7.6
+It seems we have more troops than the \#12D2.
+@7.7
+Mm! As promised, the \#12CA navy stayed neutral and did not join the \#12D2!
+@7.8
+Right! We'll throw back this cowardly surprise attack! We'll rout them instead!
+@9.0
+It's hopeless! Our army is collapsing!!
+@9.1
+Ugh...! How bitter!
+@9.2
+Lord \#1199! Escape this way...
+@9.3
+N-no... There are enemies here too. Our retreat is cut off...
+@9.4
+How bitter...
+@9.5
+My luck has run out here... There is nothing left but to kill myself... Be my second.
+@9.6
+...As you wish.
+@9.7
+...Even in the next world, I won't be able to face the late Lord Yoshitaka...
+@9.12
+Report! Lord \#0199's army has been defeated by \#02D2 at Itsukushima!
+@9.13
+What!? And \%04199?
+@9.14
+His retreat was cut off by the \#12D2 army and the Murakami navy, and he took his own life!
+@9.15
+Ugh... What a disaster. Without \%04199, what will become of the \#1098...
+@9.18
+We did it! A great victory for our side!
+@9.19
+Mm! Good! What of \#02D2!?
+@9.20
+\#0AD2 appears to have been killed!
+@9.21
+Well done! Now no one is left to harm the \#1098...
+@9.22
+Congratulations!
+@9.23
+Mm. We can report to our lord with pride.
+@9.24
+From Yoshida-Koriyama Castle, \#02D2 rose from a petty lord until he could stand against great daimyo like the Ouchi and Amago...
+@9.25
+But he was no match for \#0199, the guardian of the \#1098, victor of many battles...
+@9.26
+Having lost its pillar, \#02D2, the \#12D2 house never expanded its lands again...
+@9.27
+Right! We return!
+@9.28
+Report! Lord \#0199's army has won a great victory over \#02D2 at Itsukushima!
+@9.29
+What! That is splendid!!
+@9.30
+The enemy general, \#02D2, appears to have been killed!
+@9.31
+Excellent... A great stroke of luck for our house!
+@10.2
+Come to think of it... what was my life? After \#0199 killed Lord Ouchi Yoshitaka, he brought me from the \#10A7 and made me his adopted lord...
+@10.8
+My lord... It cannot be helped. That is the way of the warring age... the fate of one who inherits a daimyo house...
+@10.19
+My lord! I am coming too!
+@11.1
+My lord, there is something I must tell you!
+@11.2
+What is it? Speak...
+@11.3
+\#02D2 is trying to build a castle at Miyao, near Itsukushima!
+@11.4
+It is probably a castle of strategic importance to the enemy. If so, we must crush it before it is finished.
+@11.5
+What do you propose?
+@11.6
+Give me an army. Before it is finished, its garrison will surely be small. I will scatter them, you'll see.
+@11.7
+Are you really sure...?
+@11.8
+My lord! Do you not trust me?
+@11.9
+...It's not that, but...
+@11.10
+Allow the attack
+@11.11
+Refuse
+@11.12
+...Very well. Then go and defeat \#02D2!
+@11.15
+No, you may not! It is surely a trap. Otherwise he would not build a castle so openly.
+@11.16
+............ As you wish.
+@11.18
+This decision by \#0098 was not a mistake at all...
+@11.19
+Seeing that the \#1098 had no intention of attacking, \#02D2 stopped building the castle.
+@11.20
+And so a decisive battle between the \#1098 and the \#12D2 was avoided...

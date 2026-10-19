@@ -1,0 +1,20 @@
+@0.0
+\%01,\nLord \#0293 has passed away!
+@0.1
+I see, \%04293 is gone... You know, \%03, I was fond of the loyal \%04293.
+@0.2
+With the death of \%04293, the storm raging across the land will only grow worse...
+@0.3
+We must weather this storm, whatever it takes.
+@0.4
+As you wish.
+@0.5
+\%03, grave news! Lord \#0293 has passed away!
+@0.6
+I heard it on my travels: Lord \#0293 has passed away.
+@0.7
+What? \%04293 is dead?!
+@0.8
+\%04293 was the one man who, together with \%041FA, could hold the daimyo loyal to the Toyotomi in check...
+@0.9
+What will happen now that \%04293 is gone...

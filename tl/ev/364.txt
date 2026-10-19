@@ -1,0 +1,46 @@
+@0.0
+\%03, grave news! The old lord has collapsed.
+@0.1
+Wh-what! A doctor, where's the doctor!
+@0.2
+Well... The doctor who came only shakes his head... He says it's only a matter of time.
+@0.3
+What...
+@0.4
+Wh-what! A doctor, where's the doctor!
+@0.6
+No...
+@0.7
+My lord...
+@0.8
+Mm... \%03, is it...
+@0.9
+It seems I've reached my end... I never thought I'd die on the tatami...
+@0.10
+My one regret is Lord \#0A06... but now I can only rely on \%041FA...
+@0.11
+I'm tired... I'll rest a little...
+@0.12
+.....................
+@0.14
+My lord, my lord!
+@0.15
+My lord!
+@0.16
+\%03, grave news! The old lord has passed away.
+@0.17
+Wh-what!
+@0.18
+Wh-what!
+@0.19
+Middle Counsellor
+@0.21
+Minister of the Right
+@0.22
+Minister of the Left
+@0.23
+Councillor
+@0.24
+On this day, \#0293, \Z001 of Kaga, passed away. Age \1006...
+@0.25
+The death of the one man who could keep both the Toyotomi daimyo and \#01FA in check would shake the realm...

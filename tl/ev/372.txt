@@ -1,0 +1,116 @@
+@0.6
+But the \#12F8 clan, which had stayed neutral, was left untouched by \#09FA, and its strength remained intact.
+@2.13
+Our house has been transferred to Tosa!
+@2.14
+Our house is now a great daimyo house! And it's all thanks to your lady wife. Congratulations!!
+@3.0
+\%03, thank you for coming. We are holding a council of war at once, so please come into the castle.
+@3.1
+\%03, you come too.
+@4.0
+Excuse me, but are you not Lord \#02F8?
+@4.1
+Mm, I am.
+@4.2
+Oh, so it is you. I have brought a letter box and a letter from your lady wife.
+@4.3
+A letter box and a letter? What could it be? Let's see...
+@4.4
+The letter with the box said to hand the box to \#09FA just as it was.
+@4.5
+It was also full of \#0447's advice to side with \#09FA no matter what.
+@4.6
+The box to \%041FA?
+@4.10
+...\%03, what is it?
+@4.11
+\%03, my wife has asked me to present this letter box to you.
+@4.12
+A letter box? It's very tightly sealed...
+@4.13
+...There, it's open... Hm, this is...
+@4.14
+Inside the box was an unopened secret letter...
+@4.15
+Th-this is...! A secret letter from \#004B!!
+@4.16
+"...\#01FA's tyranny cannot be tolerated. I will raise troops to strike him down. I beg your help..." Hmm!!
+@4.18
+\%03, a great service! You have a fine wife!!
+@4.19
+\%03, grave news! \#004B has raised an army!
+@4.20
+I know already! What are the details?
+@4.21
+Sir. \#084B has made \#02D1 commander-in-chief, and many follow him: \#007D, \#0138, \#0036, \#00A5 and others!
+@4.28
+Those who wish to side with \#084B may return home as they are. I, \#09FA, will bear them no grudge...
+@4.34
+I too will side with you!
+@5.0
+My lord! \41E2 has fallen to the \#004B army!
+@5.2
+Hmm... Is \%041FA not here yet!
+@6.0
+Gentlemen, I'm sorry to have kept you waiting.
+@6.6
+The Nakasendo... It runs through Lord \#0167's lands. Could it be...
+@6.7
+Mm, \#0167 vanished at the Oyama council. So he has sided with the Western Army.
+@6.8
+The \#1167 are bad luck for \%041FA...
+@7.0
+Oh, look at them all! Both armies are huge, enough to make you gape!
+@7.1
+Who is deployed in front of us!?
+@7.2
+I believe it's the \#0138 unit!
+@7.3
+Right, we attack the \#0138 unit! Charge!!
+@8.0
+Good, we've beaten the \#0138 unit! How goes the battle!?
+@8.1
+Our side is pushing them back!
+@8.2
+Then there's no better time to take \#084B's head! Charge!!
+@8.3
+Ugh, fall back once and re-form!
+@8.4
+Ah! \#013B is charging down on our unit!
+@8.5
+What! Damn you, \#013B!!
+@8.12
+The Battle of Sekigahara ended in victory for the Western Army, thanks to the \#013B army's charge...
+@8.13
+The Eastern Army daimyo were all but wiped out.
+@8.14
+\#07FE's retreat was cut off by the Western Army, and he died in the melee. Age \1006...
+@9.1
+After him! Don't let \#084B escape!
+@9.5
+Lord \#01FA's gunners are firing at \#013B!
+@9.7
+Hmph, that \#013B... What a disgraceful turncoat.
+@10.0
+It seems everyone is here. Then...
+@10.1
+My lord, Lord \#01FA has ordered a campaign against the \#1074!
+@10.2
+What! What on earth happened!?
+@10.9
+\%03, what will you do?
+@10.11
+Attack the \#1074
+@10.12
+Send no troops
+@10.13
+\%041FA is the senior regent. We should obey him.
+@10.14
+It also says that when joining the campaign, we must send our wives and children to Osaka as hostages...
+@10.15
+Understood. Then I'll go to Osaka.
+@10.16
+Right, to arms!
+@10.18
+The \#1074 and the \#11FA are both regents. This campaign is nothing but \%041FA's private war. We shouldn't move troops lightly.

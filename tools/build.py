@@ -5,7 +5,7 @@ usage: .venv/bin/python tools/build.py [clean.iso] [out.iso]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import battlename, datafile, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
+import battlename, datafile, evtl, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ELF = 'SLPM_656.74'
@@ -37,6 +37,9 @@ def main():
     datafile.apply(data, elf, scenarios.apply(data, elf))
     datafile.apply(data, elf, menugfx.apply(data, elf, lambda i: datafile.entry(data, clean_elf, i)))
     datafile.apply(data, elf, gfx.apply(elf, lambda i: datafile.entry(data, clean_elf, i)))
+    ev = evtl.apply_all()
+    datafile.apply(data, elf, ev)
+    print('events: %d entries' % len(ev))
     msgwindow.apply(elf)
     seg = elfseg.Segment()
     n = names.apply(elf, data, seg, clean_elf)

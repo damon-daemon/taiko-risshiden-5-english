@@ -1,0 +1,428 @@
+@0.2
+What! The \#1287 have risen up!?
+@0.3
+"If they have time to hold spears and guns, they can chant the nembutsu instead!"
+@0.4
+...is what Lord \#08C3 will be saying in his fury.
+@0.5
+The one behind it is probably Lord \#001D.
+@0.8
+We may be asked to send troops too.
+@1.0
+Report! Chief, the old lord of \A3A2 asks for reinforcements to take \51E7 Castle!
+@1.1
+Right, understood! Gather everyone at the house!
+@1.2
+You may have heard already, but the old lord of \A3A2 has asked us for reinforcements.
+@1.3
+This time we attack Nagashima Castle... Let's show them what the Kumano navy can do!
+@2.0
+Chief! You've got a visitor!
+@2.1
+A visitor? Who?
+@2.2
+Dunno, he's wearing a hood... Looks like some samurai come in secret.
+@2.3
+Hmm... I wonder who it is.
+@2.4
+Hm...? Where is the visitor...?
+@2.5
+\#0917, it's me. \#08C3!
+@2.6
+Oh, the old lord of the \#10C3! What brings you to a place like this?
+@2.7
+I have something to discuss with you in person.
+@2.8
+On your own...?
+@2.9
+My attendants are waiting outside. More to the point, I have a request for you.
+@2.10
+Yes, what might it be?
+@2.11
+\%03, do you remember what we talked about that time?
+@2.12
+That time?
+@2.13
+That tall tale you told me... about the giant ship!
+@2.14
+Ah, now that you mention it, I did say something like that...
+@2.15
+You're the master of the \E07A now, a fine pirate chief... What do you say? Will you make that dream come true?
+@2.16
+You mean you want me to build a giant ship...?
+@2.17
+Yes... I'd like to say that with our house and the \E07A together we fear nothing, but for that we need a powerful weapon.
+@2.18
+Well, \%03? Will you hear my proposal?
+@2.19
+Yes, what is it?
+@2.20
+Will you build me a giant warship?
+@2.21
+A giant... warship?
+@2.22
+A giant warship, like a moving island.
+@2.24
+I am working to unite the realm... but the land keeps my hands full. I want to leave the sea to you.
+@2.25
+To us, the \E07A?
+@2.26
+Yes... and for that, the \E07A must be head and shoulders above the rest.
+@2.27
+Build a mighty warship that no other pirate band can have, and our strength will ring out across the land.
+@2.29
+A giant warship that overwhelms the other bands just by existing. And what's more...
+@2.30
+Arrows and bullets can't pierce it, it won't burn or sink, it carries many great cannon... a giant ship like a moving island...
+@2.31
+Will you build me such a ship!?
+@2.32
+But such a giant ship... building it would take a vast sum of money and time... and a great deal of skill as well...
+@2.33
+The \E07A can do it. That's exactly why I came all this way to ask in person!
+@2.34
+Yes, sir! You honour me...
+@2.35
+If you can build that giant ship, the fame of the \E07A will surpass the other pirate bands! You'll be the finest pirate band in Japan!
+@2.36
+Understood. I'll ask our shipwrights.
+@2.37
+Ah, my lord! Have you finished your private talk?
+@2.38
+Not yet! Wait out there a little longer!
+@2.40
+...My lord, this way.
+@2.41
+So this is the \E07A shipyard.
+@2.42
+Chief, who's the samurai?
+@2.43
+Idiot! It's the old lord of the \#10C3! Show some respect!
+@2.44
+Eek! The old lord of the \#10C3...!? The one they say is so terrifying!?
+@2.45
+Hahaha. I'm not such a terrifying man. More importantly, I have a request.
+@2.46
+Huh!?
+@2.47
+The old lord wants a giant ship like a moving island, clad in iron so no arrow or bullet can pierce it...
+@2.48
+Th-that's crazy... For one thing, make a ship out of iron and it'll sink in no time!
+@2.49
+Making it so it doesn't sink is your job!
+@2.50
+That's easy for a samurai who knows nothing about ships to say... but those of us who have to build it can't promise lightly.
+@2.51
+Hey! Mind your manners! Nobody's saying build it all out of iron. You put iron plates on a wooden ship.
+@2.52
+Ah, I see...
+@2.53
+All it needs is to stop arrows and matchlock bullets. And clad in iron, it won't burn either. That's the ship he wants.
+@2.54
+And I want several cannon mounted on it. Well... can it be done?
+@2.55
+I can't say I'm sure... but when it's the chief and the old lord of the \#10C3 asking, I can't say no.
+@2.56
+Good... I look forward to good news. That's all I came for! Farewell, then.
+@2.57
+Ah! My lord! ......He's gone. What an impatient man.
+@2.58
+But... if such a ship really can be built, the \E07A's name will rise. I'm counting on you!
+@2.59
+Aye!
+@3.23
+\%03, well done! That's the \E07A for you! Splendid!
+@3.24
+I just saw it at the shipyard. Better than I ever hoped... Remarkable!
+@3.26
+Now it's no longer a dream for our house and the \E07A to join hands and control the sea lanes!
+@3.33
+Y-yes! \%03, I pray for your fortune in battle! Show them the power of the new ship!
+@4.0
+Chief! The old lord of \A3A2 is asking for reinforcements!
+@4.2
+Lord \#07FE! \A3A2 has asked for reinforcements. The chief orders everyone to gather at his house at once!
+@4.5
+This time it's an attack on the Honganji, I hear... Then \A3A4, the Honganji's ally, is sure to send help too...
+@4.6
+In that case the \E07B, under \A3A4, may well come out too.
+@4.7
+Holding them back will be our job. Now, we march!
+@4.10
+They say the chief was besieging the Honganji at the old lord of the \#10C3's request when \A3A4's \E07B attacked him.
+@4.12
+They say even the chief was helpless before the great fleet of the \E07B...
+@5.11
+\#0917, you remember that defeat the other day, don't you?
+@5.13
+\#0917, you remember that sea battle the other day? The fight with the \E07B.
+@5.15
+But I don't think training alone will beat the \E07B... We need something new. I want a plan to solve this.
+@5.16
+Without the strength to beat the \E07B, we can never attack the Honganji. Can't you do something, \#0917?
+@5.24
+If you can build that giant ship, the \E079's fame will surpass the \E07B! You'll be the finest pirate band in Japan!
+@5.30
+So this is the \E079 shipyard.
+@5.47
+But... if such a ship really can be built, the \E079's name will rise. I'm counting on you!
+@5.53
+They say the chief is having the shipyard at this fort build an enormous, invincible iron ship...
+@5.54
+An enormous... invincible iron ship? What could that be, I wonder?
+@5.56
+Hmm... A few years ago, an army led by the chief himself was beaten by the \E07B.
+@5.57
+He's probably having a warship built that outdoes the \E07B, to avenge that defeat.
+@5.58
+Hmm... He's probably having a warship built that can stand up to the \E07B.
+@5.59
+Lord \#17FE, have you heard? About a giant iron ship...
+@5.60
+No... I haven't heard. A giant... iron ship?
+@5.65
+He's probably having a warship built that outdoes the \E07B, to avenge that defeat.
+@5.66
+Hmm... He's probably having a warship built that can stand up to the \E07B.
+@6.8
+Good... The old lord of the \#10C3 will surely be satisfied with this. Send word to \51E5 at once!
+@6.10
+And gather everyone! Prepare to march! I want to try it in real battle as soon as possible!
+@6.12
+Lord \#07FE! Good news! That giant iron-clad ship is finished!
+@6.13
+What! Right, let's go and see it.
+@6.14
+So where is this giant ship?
+@6.15
+Look, over there!
+@6.18
+Oh! Th-this is...!
+@6.19
+They say it carries cannon too... Truly a majestic sight...
+@6.20
+...With this, I feel we could even beat the \E07B.
+@6.21
+The chief has ordered everyone to gather at his house.
+@6.22
+I must hurry there!
+@6.23
+You may have seen it already: the ironclad we built at the request of the old lord of the \#10C3 is finished!
+@6.24
+Let's use it in battle at once!
+@6.26
+Report! The old lord of the \#10C3 is delighted the ironclad is finished, and has given the order to march at once!
+@6.27
+He says the \E079 are to join him with the ironclad immediately!
+@6.28
+Right! Then everyone, we march! This time we'll smash those \E07B bastards once and for all!
+@6.33
+Ah, it's Lord \#07FE.
+@6.35
+The Battle of Kizugawa...? The one where our band and \A3A2 fought the \E07B before...
+@6.38
+They say it was a victory. This time we had a secret weapon.
+@6.42
+They say the ship our chief had specially built on the orders of the old lord of \A3A2 proved unbeatable.
+@7.3
+It's only natural for a samurai to keep war in mind even in peacetime, but these rumours are worrying...
+@7.5
+I hope nothing comes of it...
+@8.0
+\%03, Lord \#01FA has ordered a punitive campaign against the \#1074!
+@8.1
+What! What on earth happened!?
+@8.2
+What!? What on earth happened!?
+@8.3
+The envoy sent to the \#1074 clan has returned with a reply from Lord \#020E...
+@8.4
+This letter was the famous "Naoe Letter".
+@8.6
+It also mocked the many ways \#09FA overstepped his authority after \#0205's death, and ended with open provocation.
+@8.7
+Reading the letter, \#01FA judged the \#1074's intent to rebel beyond doubt, and ordered a punitive campaign.
+@8.8
+Lord \#11FA has ordered the daimyo to lead their armies to \41DF.
+@8.9
+Lord \#0116 has also set out with his army for \41DF.
+@8.10
+So another war is starting...
+@9.0
+Report! At Sekigahara in Mino, the \#01FA army has defeated the \#004B army!
+@9.1
+I see. So \#084B was defeated...
+@9.2
+Lord \#004B was captured and executed! The daimyo who sided with Lord \#084B have been punished as well.
+@9.7
+The Kumano navy, which had joined the Western Army, was no exception and was severely called to account by \#01FA.
+@9.8
+For a time \#0117 was in danger of being ordered to commit seppuku...
+@9.9
+...but thanks to \#0116's desperate pleading, his life was barely spared...
+@9.10
+Lord \#07FE! At last Lord \#004B and Lord \#01FA have fought the decisive battle at Sekigahara!
+@9.14
+Lord \#01FA has punished the daimyo who sided with Lord \#084B.
+@9.16
+But \#09FA could not touch the Kumano navy, which had stayed neutral, and its strength was left intact.
+@10.3
+An order has come for you, \%03, to commit seppuku!
+@10.4
+Me? Seppuku?
+@10.5
+Yes, sir. Lord \%041FA greatly fears the finest pirate captain in Japan, and says leaving you alive would only breed trouble...
+@10.6
+Heh... Hahahahahaha...
+@10.7
+Wh-what is it?
+@10.8
+If I've made \#01FA, the next ruler of the realm, fear me that much, I'm content! \#09FA can have this wrinkled old head!
+@10.9
+Hmph!
+@10.11
+Ahh! \%03!
+@10.12
+Month \M002 of year \M001: \#0117, once called the finest pirate captain in Japan, took his own life... Aged \1006...
+@11.0
+\%03! The Western Army has taken \41E2!
+@11.1
+A good start. \#004B isn't bad at all!
+@11.2
+But that's not the only news. \#01FA left 18,000 men at Utsunomiya in Shimotsuke and has turned back!
+@11.3
+Both Eastern and Western Armies are massing around Sekigahara in Mino!
+@11.4
+So it's the decisive battle at last... Very well, I understand. Thank you for your trouble.
+@12.0
+Oh, \#0917! You came!
+@12.1
+When the old lord of the \#10C3 asks, how could I not?
+@12.2
+Right, we now begin the siege of \41DE! The Kumano navy will surround it from the sea!
+@13.0
+Hm! \#0917, you've come!
+@13.1
+Ah, my lord! Sorry to keep you waiting. The giant iron-clad ship, which we've named the "ironclad", is finished!
+@14.0
+Hm, that army... Isn't that the seven-star crest of the \#1116 clan on their banners?
+@14.1
+So it seems...
+@14.2
+\%03! I don't know why you sided with the Western Army, but we have no wish to fight you!
+@14.3
+I think it best that we only pretend to fight, so we both keep face with our allies. What do you say!?
+@14.6
+Fight for real
+@14.7
+That's probably best. We'd gain nothing by fighting...
+@14.8
+Right then, load the guns with powder only and fire without shot! Shoot your arrows off in the wrong direction too!
+@14.9
+Don't you dare hit the enemy!
+@14.11
+Month \M002 of year \M001: the forces of \#0117 and \#0116 appeared to fight...
+@14.12
+But it was all for show on both sides, and not a single man was killed or wounded.
+@14.13
+Once we're on opposite sides, I'm no father of yours and you're no son of mine!
+@14.14
+Stop dithering and come at me!!
+@14.15
+Ngh!
+@20.10
+\#0117 paid for it with his life, and the \E079 suffered a crushing defeat.
+@20.11
+\#0117 paid for it with his life, and the \E079 suffered a crushing defeat. What became of \#07FE, no one knows...
+@21.0
+Gahahahaha... You're a hundred years too early to beat me at sea!!
+@21.1
+So we couldn't win after all... It's bitter, but it can't be helped. We return!
+@21.2
+Yes! We've beaten \%03, called the finest admiral in Japan!
+@21.3
+Impossible... That I should be beaten at sea... So the times have changed...
+@22.0
+I thank the Kumano navy for its help. Some will try to escape; cut them all down too.
+@22.1
+Even those who no longer have the will or the means to fight?
+@22.2
+Of course. Women and children too: cut them down without mercy.
+@22.3
+In time, the will and the means to fight will return. Those holed up in \51E6 are people who will never side with me, \#08C3.
+@22.4
+If we don't cut them down now, one day they'll turn their blades on us.
+@22.6
+Then I leave it to you. As a reward this time, I give you 20,000 kan.
+@22.7
+Yes, sir! Most grateful, sir.
+@22.8
+The allied forces of \A3A2 and the \E079 took \51E6 and seized the \A3A3's bridgehead.
+@22.9
+But \#00C3 waged a war of total annihilation and did not even allow anyone to flee.
+@22.10
+It is said that even his own side shuddered at what he did.
+@22.11
+Merciless... Killing every last one, even those who had already lost the will to fight...
+@22.12
+They say those trying to leave the castle were shot, and those who survived were thrown into the river.
+@22.13
+And many more were shut inside the castle and burned alive...
+@22.14
+So this is how Lord \#08C3 does things...
+@23.6
+Ugh... Those Seto Inland Sea pirates!! Prepare to meet them! \#0117!
+@24.0
+It seems everyone is here...
+@24.1
+Chief, an envoy has come from Lord \#004B!
+@24.2
+From \%0404B? What could it be...
+@24.3
+I am honoured to be granted an audience.
+@24.4
+Yes. And what is your business?
+@24.5
+Yes, sir. My master, \#004B, has raised an army to overthrow \#01FA, who has acted as a tyrant since the death of Lord Taiko.
+@24.6
+Many have joined this righteous cause: Lord \#01CA, Lord \#00A5, Lord \#0138, Lord \#007D and more...
+@24.7
+With Lord \#02D1 as commander-in-chief and 200,000 men, we mean to catch \#01FA in a pincer with Lord \#0074.
+@24.8
+I have come to ask that you, Lord \#0117, join us as well.
+@24.9
+My son, \#0916, is with \#09FA. You know that?
+@24.10
+I do. In these troubled times it's not rare for father and son to end up on opposite sides.
+@24.11
+If you join us in the Western Army, \%03, Lord \#0116's crime of siding with the Eastern Army will be overlooked.
+@24.14
+Side with \#004B
+@24.15
+Stay neutral
+@24.16
+Hmph, you've thought of everything... Very well, I'll help \%0404B.
+@24.17
+Oh, you've decided! My master asks that you take control of Ise Bay, \%03.
+@24.18
+Yes, leave it to me!
+@24.19
+Then I take my leave.
+@24.20
+Was that wise? What will you do if you end up fighting Lord \#0916?
+@24.21
+I'll think about that when the time comes. Whichever side wins, as long as the \#1116 clan survives, that's enough.
+@24.22
+Set sail!
+@24.24
+As long as my son is with \#09FA, I can't help you!
+@24.26
+Enough!
+@24.27
+It can't be helped... Then I take my leave.
+@24.28
+Was that wise?
+@24.29
+Hmph, \#004B can't beat \#01FA. Well, just watch.
+@24.30
+...That put a damper on things. That's all for today. Dismissed!

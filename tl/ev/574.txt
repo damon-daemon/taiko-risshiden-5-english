@@ -1,0 +1,38 @@
+@0.0
+Lord \#07FE, Lord \#0B47 has been urgently summoned by the old lord of \41DF.
+@0.1
+What, Father has been urgently summoned?
+@0.3
+Hmm... Anyway, I'll go to Father.
+@0.4
+Father, this summons from our lord...
+@1.2
+They say Lord \#0B47 and the Shingu Clique are slighting Lord \#082D...
+@1.3
+Nonsense...! Father has never slighted \%0402D!
+@1.8
+I will not believe such rumours. Our lord and I are cousins. Blood is thicker than water.
+@1.10
+...Grandfather Tsunehisa entrusted the Shingu Clique, the \#102D elite, to Father... \#082D, my brother Masahisa's son, must know that.
+@1.12
+What are you saying?! Is it not all thanks to the Shingu Clique that the \#102D now stand as masters of the San'in?!
+@1.14
+Tell our lord and the main house: if they treat us coldly, the Shingu Clique will go its own way!
+@1.16
+The root of such rumours is that our lord has forgotten our deeds and finds us a nuisance!
+@1.19
+(Or perhaps some spy is spreading strange rumours to drive a wedge between our lord and the Shingu Clique...)
+@1.20
+(But either way, if our lord believes such rumours so easily, his trust in us of the Shingu Clique must be thin...)
+@2.4
+\#0B48?! Y-you scum! How dare you!!
+@2.8
+Are you all right, \#0B48?!
+@2.9
+I-I'm all right.
+@2.10
+Grr, so \#082D was after our lives after all.
+@2.13
+Ugh... we're surrounded. Father, we must break out at all costs!
+@3.5
+What? An envoy from the \#12D2 clan? Father...

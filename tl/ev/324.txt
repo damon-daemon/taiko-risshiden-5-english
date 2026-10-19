@@ -1,0 +1,1228 @@
+@0.0
+Everyone! We now attack \41DE!
+@0.1
+Look! The \#1167 men mean to hole up in the castle!
+@0.2
+Listen, the \#1167 clan is nothing to fear! Finish them in one stroke and show them the full glory of Lord \#09FA!
+@0.3
+Right, forward!!
+@0.5
+Bang! Bang-bang-bang!
+@0.7
+An ambush! Fall back, fall back!
+@0.8
+Don't flinch, there are only a few of them!
+@0.9
+\#1167 retainer \#07F3, at your service!
+@0.10
+Grr, what impudence! Cut him down!
+@0.11
+Whoa, that's dangerous.
+@0.12
+Don't let him escape! After him!
+@0.13
+Wh-what... The streets of \41DE are a perfect maze!
+@0.14
+Take this, you minions of the hateful \#09FA!
+@0.16
+Nngh!
+@0.17
+What, from the houses?! Damn that \#0967, he disguised his soldiers as townsfolk!
+@0.18
+The enemy is in full rout! Press the pursuit! Our target is \#07F0's head!
+@0.19
+Raaah!
+@0.20
+Eeek, run!
+@0.21
+N-no! The river is swollen from days of rain!
+@0.22
+Stop! Stop!
+@0.23
+Waaah!
+@0.24
+Splash! Sploosh!
+@0.25
+H-help, I'm being swept away... glub, glub glub glub
+@0.26
+You won't get away! Where is the \#11FA general? \#07FE is here!
+@0.27
+Oh! That's \#07FE! Everyone, hold your ground! I'll cut down anyone who falls back!
+@0.28
+Right, fall back!
+@0.29
+So the \#1167 troops mean to flee into the castle. Good, after them!
+@1.0
+Lord \#07FE, \#01FC's army has come close to the castle!
+@1.1
+Hmm, so they've come.
+@1.2
+Hm, so they've come.
+@1.3
+Good, gather the household at once.
+@1.5
+Our lord orders you to come to the castle at once.
+@1.6
+Very well, I will come at once.
+@1.7
+Good, is everyone here?
+@1.8
+Now, how shall we play with \#11FC's army?
+@1.9
+A report! \#11FC's soldiers are reaping the rice in the fields!
+@1.10
+A report! \#11FC's soldiers are digging up the crops in the fields!
+@1.11
+Oh, so that's their game.
+@1.12
+This is no time to be so calm! Our precious food will be lost!
+@1.13
+So the enemy means to lure us out... Then we'll turn it against them.
+@1.14
+Good! Lead the gunners out of the castle and open fire on those soldiers.
+@1.15
+\#0FF2! Lead the gunners out of the castle and open fire on those soldiers.
+@1.17
+\#11FC's army will move at once, and when it does, hurry back into the castle. Understood?
+@1.18
+Understood!
+@1.19
+\#0969 and I will handle the rest. Go!
+@1.20
+There we go, chop, chop.
+@1.21
+Hey! Don't you ruin my rice paddy!
+@1.22
+Oh, the enemy's come out!
+@1.23
+Aim at the ones reaping our rice! Fire!
+@1.24
+Hey! Don't you ruin my field!
+@1.26
+Aim at the ones ruining the fields! Fire!
+@1.27
+Bang, bang!
+@1.28
+Gyah!
+@1.29
+Now! Attack!
+@1.30
+Eek, this is too much! Fall back, fall back!
+@1.31
+Good, after them! We follow them right into the castle!
+@1.32
+Yeah! I'll be first in!
+@1.33
+Right, I'm first in!
+@1.34
+Hmm, the main gate has opened.
+@1.35
+Good, fire, fire, fire!
+@1.36
+Gwaah!
+@1.37
+N-no, we charged ahead too far! Without the troops behind us we don't stand a chance!
+@1.38
+Now, trample the enemy!
+@1.39
+Guh!
+@1.40
+This is too much, fall back!
+@1.41
+Don't let them get away! After them!
+@1.42
+Eek! Help!
+@1.43
+The ones who charged ahead are in full rout!
+@1.44
+Fools! There are only a few of them! Stand and fight!
+@1.45
+Men, stand your ground! I'll cut down anyone who falls back!
+@1.46
+Good, that should do. Fall back!
+@1.47
+The plan worked beautifully!
+@1.48
+Yes. Anyone who tries petty tricks against me only gets hurt.
+@2.0
+A report! \#11FA's army is closing in on \41E0!
+@2.1
+So they've come at last. All is ready, I trust?
+@2.2
+Yes, my lord. Everything is proceeding as you ordered.
+@2.3
+Good. We'll teach them well that war is not decided by numbers alone.
+@2.5
+Yes, my lord. Everything is proceeding as the old lord ordered.
+@2.6
+Good. We'll give those \#11FA men a nasty surprise or two.
+@2.7
+So they've come at last... All is ready, I trust?
+@2.9
+We'll give those \#11FA men a nasty surprise or two.
+@2.10
+Also, about the alliance with \#0074: \#1074 has agreed.
+@2.11
+Good, then our rear is safe for now.
+@2.12
+Good, then our rear is safe for now.
+@2.13
+A report! \#11FA's army has surrounded \41E0!
+@2.14
+What?! And what happened?
+@2.15
+What?! And what happened?
+@2.16
+It seems the old lord gave the \#11FA army a thorough beating, and the \#11FA army fled home in disarray.
+@2.17
+As expected of \%04167... He didn't even let the \#11FA army get near.
+@2.18
+Also, before the fighting began, the old lord proposed an alliance to \#0074, and \#1074 agreed.
+@3.0
+\%03, Lord \#01FA is secretly arranging marriages with the daimyo!
+@3.1
+What? Isn't it the rule that marriages between daimyo must be reported in advance?
+@3.2
+Lord \#09FA plays dumb and claims it was an oversight...
+@3.3
+Hmm, what is Lord \#09FA plotting...?
+@3.4
+Hmm, something smells fishy. I hope nothing comes of it...
+@3.5
+Hmm, something smells fishy. I hope nothing comes of it...
+@4.3
+(Hmph, things are getting fishier and fishier.)
+@4.5
+I hope it's only a rumour...
+@5.8
+Hmm, at this rate it's only a matter of time before I'm called...
+@5.10
+So another war is starting... When will an age of peace ever come...?
+@5.12
+Lord \#01FA has asked the \#1167 clan to send troops as well to punish the \#1074.
+@5.13
+Very well, gather the household at once.
+@5.16
+My dear, Lord \#11FA is raising troops to punish the \#1074.
+@5.17
+Oh, is that so...
+@5.18
+\#0965's wife, Lady Komatsu, was the daughter of \#028C of the \#11FA clan, and had married \#0965 as \#09FA's adopted daughter.
+@5.19
+Most likely \#004B will raise troops while \%041FA has his army turned east.
+@5.20
+If that happens, what will the \#1167 clan do?
+@5.21
+I don't know. But Father will most likely say he sides with \#084B.
+@5.22
+That cannot be!
+@5.23
+I know. I won't let it turn out badly, so don't worry.
+@5.24
+Yes, I trust you.
+@5.25
+Lord \#0FF1 orders you to come to the castle at once about this.
+@5.26
+Very well, I will come at once.
+@5.27
+Good, it seems everyone is here.
+@5.28
+As you have all heard, Lord \#11FA is raising troops to punish the \#1074.
+@5.29
+We have been asked to join the campaign as well.
+@5.30
+And what will you do, my lord?
+@5.31
+Yes, we have no choice but to obey.
+@5.32
+We first go to \41E2, join up with \#0965's army there, and wait for Lord \#11FA's main force to arrive.
+@5.33
+Everyone, make ready!
+@5.35
+Word has come from \%02167 that this castle must send troops as well.
+@5.36
+The plan is to go first to \41E2, join up with \%02167's army there, and wait for Lord \#11FA's main force to arrive.
+@6.0
+Learning that Lord \#004B has risen, Lord \#01FA has turned his army back from the \#1074 campaign and begun marching west!
+@6.1
+Lord \#09FA is leading the daimyo of the Tokai region along the Tokaido.
+@6.2
+Meanwhile, Lord \#09FA's heir, Lord \#09FC, is marching along the Nakasendo.
+@6.3
+So he has finally moved... The Nakasendo means passing through \41DE here.
+@6.4
+So we are to face \#09FC's army.
+@6.5
+So he has finally moved... The Nakasendo means passing through \41DE.
+@6.6
+So he's finally moved... The Nakasendo means passing through \41DE here.
+@6.7
+So we'll be fighting \#09FC's army?
+@6.8
+So he's finally moved... The Nakasendo means passing through \41DE.
+@6.13
+It seems everyone is here.
+@6.14
+As you will have heard, \#09FA has turned back his army from the \#1074 campaign and is marching along the Tokaido.
+@6.15
+And \#09FC's army is marching along the Nakasendo.
+@6.16
+If they take the Nakasendo, they cannot avoid passing this castle.
+@6.17
+Where is \#09FC's army now?
+@6.18
+Sir, word has come that it has entered \41E0.
+@6.19
+Hmm, so it is almost upon us.
+@6.20
+What do you intend to do, my lord?
+@6.21
+Now, don't panic. It won't be too late to act once we see what they do.
+@6.22
+My lord, a letter has come from Lord \#09FC.
+@6.23
+Yes, show me.
+@6.24
+...I see.
+@6.25
+Father, what does \#09FC say?
+@6.26
+Yes, he tells us to quietly surrender \41DE.
+@6.27
+A call to surrender, then?
+@6.28
+Good, write a reply. It goes like this:
+@6.29
+"I will not simply hand this castle we built to some \#11FA whelp. If you want it, come and take it by force."
+@6.30
+\#09FC will be steaming with rage.
+@6.31
+That's the idea. We'll pin them down here at \51E5.
+@6.32
+That is all. You may go!
+@6.33
+Just as \#0967 intended, \#09FC flew into a rage on reading the reply.
+@6.34
+And ignoring all who tried to calm him, he ordered his army to attack \41DE.
+@6.40
+As you will have heard, \%041FA has turned back his army from the \#1074 campaign and is marching along the Tokaido.
+@6.41
+And Lord \#09FC's army is marching along the Nakasendo.
+@6.42
+So the time has come?
+@6.43
+Yes. Since we side with \%041FA, we must send troops!
+@6.44
+But taking the Nakasendo means passing the old lord's \41DE.
+@6.45
+That's right.
+@6.46
+I would not want us to cross blades with the old lord.
+@6.47
+Nor would I, but this is beyond our power to decide...
+@6.48
+Lord \#07F0 has come from the \#11FC army.
+@6.49
+Lord \#0FF0? Show him in at once.
+@6.51
+I am \#07F0 of the \#11FC clan.
+@6.52
+I am honoured that you came all this way.
+@6.53
+I hear your father, Lord \#0967, is siding with \#084B.
+@6.54
+...That is so.
+@6.55
+No, I do not blame you.
+@6.56
+On the contrary, \%041FA praised you for parting ways with your father to rush to our side.
+@6.57
+Sir, I am most grateful.
+@6.58
+As you know, we plan to take the Nakasendo, securing the provinces along the way, and head for the place of the decisive battle.
+@6.59
+I understand.
+@6.60
+\%03, we would like you to stay here in \41DF and keep watch so that Lord \#0967 and \#1074 do not join hands.
+@6.61
+Understood.
+@6.62
+Then I shall take my leave...
+@6.63
+Oh yes, we intend to call on \41DE to submit.
+@6.64
+Seeing our great army, even Lord \#0967 will hardly put up a useless fight.
+@6.66
+Then, farewell.
+@6.67
+My lord, it seems we won't have to cross blades with the old lord.
+@6.68
+Yes, that's good, but would Father really submit so easily...?
+@6.69
+That is all for now. You may go!
+@6.70
+But \#0167 did not answer \#01FC's call to submit.
+@6.71
+On the contrary, he goaded \#09FC with words and deeds, and the furious \#09FC began an attack on Ueda Castle.
+@6.72
+A report! \#01FC's army has begun its attack on \41DE!
+@6.73
+What?! Good, gather the household at once.
+@6.79
+It seems everyone is here. How do things stand?
+@6.80
+We hear \#11FC's army numbers 38,000.
+@6.81
+38,000! That's a huge force...
+@6.82
+Indeed. An ordinary castle wouldn't stand a chance.
+@6.83
+But \41DE will be fine. Not only is the castle strong, the old lord is there, after all...
+@6.84
+Still, will it really be all right?
+@6.85
+Don't worry. The old lord himself told us not to fret and to guard \41E1 well.
+@6.86
+Besides, it was the old lord who goaded \#11FC's army into attacking \41DE.
+@6.87
+What?! Surely not...
+@6.88
+Think about it. \#11FC didn't send out a great army to attack \41DE. It was to fight Lord \#084B.
+@6.89
+True...
+@6.90
+If they waste time attacking \41DE, they won't make it to the battle that matters.
+@6.91
+That is the old lord's true aim...
+@6.92
+Exactly. I wanted everyone to know that. Now, you may go!
+@7.0
+My lord! Congratulations on your great victory!
+@7.1
+Yes, thank you for coming to greet me.
+@7.3
+Oh, \#0965 is here too.
+@7.4
+Father, I have lost. I will return \41E0 to you and stay in confinement until judgment is passed...
+@7.5
+What are you saying? The \#1165 clan needs your strength. Go on ruling \41E0 as before.
+@7.6
+Do you truly mean it?!
+@7.7
+Of course. You did nothing of particular note in this war, so if I put in a word, you will be pardoned.
+@7.8
+Father... Thank you.
+@7.9
+Hah, I'll have you, \#0965, work harder than ever.
+@7.10
+Understood!
+@7.11
+My lord, a letter has arrived from Lord \#004B.
+@7.12
+Let's see... He will deal with the Eastern daimyo, so I am to hurry to \41DF...
+@7.13
+Hmm, so he means to show the unity and authority of us in the West, so that no one goes over to \#09FA...
+@7.14
+I had better go.
+@7.15
+\%03, you come with me.
+@8.6
+Lord \#17FE, we have been expecting you.
+@8.7
+Oh! Thank you for coming to greet me. And where are the other lords?
+@8.8
+Thank you for coming to greet me. So, where are the other lords?
+@8.9
+They have all entered the castle already. Please, Lord \#17FE, you too...
+@8.10
+This decisive victory is thanks to all of you... and to the protection of the late Lord Taiko.
+@8.12
+Now, what shall we do with the Eastern daimyo?
+@8.13
+Those who sided with \Z003 must be punished severely!
+@8.14
+Yes. Then let us confiscate the Eastern lords' domains and share them among the daimyo loyal to the \#1206. Agreed?
+@8.15
+Yes, I have no objection.
+@8.16
+And so the Western daimyo stripped the daimyo who sided with the East of their domains and built a new Toyotomi government...
+@8.29
+Now... the \#11FA clan remains. What shall we do?
+@8.30
+We beat them at Sekigahara, but the \#11FA clan still holds formidable power...
+@8.31
+\#01FC's army, which was marching along the Nakasendo, turned back at news of the defeat and is almost untouched...
+@8.32
+Even so, we cannot leave things as they are...
+@8.33
+I have a plan.
+@8.34
+Oh? Let us see it.
+@8.35
+One: \#01FA and his son \#09FC are to commit seppuku.
+@8.36
+second son, Yuki Hideyasu,
+@8.37
+fourth son, Matsudaira Tadayoshi,
+@8.38
+sixth son, Matsudaira Tadateru,
+@8.39
+One: the \#11FA clan is to be inherited by \#09FA's \Z001
+@8.40
+One: the \#11FA clan's lands are to be cut to the two provinces of Musashi and Sagami.
+@8.41
+We present this settlement, and if they accept, we allow the \#11FA clan to survive...
+@8.42
+Interesting. With this plan, I am satisfied too.
+@8.43
+Lord \#0AFC was once Lord Taiko's adopted son, so he would be easier for us to deal with.
+@8.44
+Let us put this in the form of an order, signed jointly by the new Five Regents, and send it to \#01FA.
+@8.45
+But such terms... Lord \#11FA will most likely refuse.
+@8.46
+In that case, this time we truly crush \#11FA, that's all.
+@8.47
+At any rate, let's send it and await a reply.
+@8.48
+Then we shall take our leave...
+@9.8
+\%04167! You struck down \#09FA splendidly!
+@9.9
+\%0404B, thank you for coming all this way.
+@9.10
+As for the \#11FA clan, it has been decided, after all, to abolish it.
+@9.14
+As for the \#11FA clan, it has been decided to let \37F1 succeed and allow the house to survive.
+@9.16
+In the end it is much the same as the orders we sent \#09FA before, but...
+@9.17
+Lord \#0A06 was set on crushing the old man of Edo's house, so it could not be helped...
+@9.20
+\%03, the old lord's army and \#09FA's army fought a decisive battle at the Fuji River!
+@9.21
+And who won?
+@9.22
+Sir, \#01FA and his son \#09FC both lost their lives. A great victory for our side!
+@9.23
+As expected of \%03! I wish I had gone with them.
+@10.0
+Lord \#07FE! \#004B and \#01FA have finally fought a great battle at Sekigahara!
+@10.1
+Oh! ...And the outcome?
+@10.2
+Lord \#004B was easily defeated, and \#01FA won a great victory!
+@10.3
+What?! Then all our efforts came to nothing...
+@10.4
+Lord \#01FA is punishing the daimyo who sided with \#084B.
+@10.5
+Victorious at Sekigahara, \#01FA crushed the Western daimyo and divided their lands between himself and the Eastern lords.
+@10.6
+\#09FA was furious with \#0167, who had pinned down \#09FC's army and made it late for the decisive battle.
+@10.7
+But \#0165, who sided with \#11FA, and \#028C, father of his wife Lady Komatsu, begged desperately, and \#0967 was spared.
+@10.8
+In the end \#0965 became head of the \#1167 clan, and \#0967 and \#0969 were exiled to Kishu...
+@10.9
+Gather the household at once.
+@10.14
+Now, as you will have heard, \#0969 and I are to be exiled to Kishu.
+@10.15
+How sad...
+@10.16
+Well, by rights I meant to be the one sending \#09FA into exile, but this is how it turned out.
+@10.17
+Now that it has come to this, all of you support \#0965, the new head of the \#1165.
+@10.19
+Well then, farewell.
+@10.20
+\#0FFE.
+@10.22
+You will stay here.
+@10.23
+Please let me go with you!
+@10.24
+No! Stay here and support my brother. I beg you.
+@10.25
+...As you wish.
+@10.26
+Lord \#07FE! \#01FC's army has given up its attack on \41DE!
+@10.27
+I see. Unable to take it, they saw they would miss the decisive battle and withdrew.
+@10.28
+But \#09FC's army wasted still more time on the march afterwards, and in the end missed the decisive battle...
+@10.29
+\#0167 had single-handedly kept about a third of the \#11FA side's strength out of the fight.
+@10.30
+As expected of \%02167, I suppose...
+@10.32
+What?! ...And the outcome?
+@10.33
+Lord \#004B was easily defeated, and Lord \#01FA won a great victory!
+@10.34
+Just as I feared...
+@10.35
+What?! Then all \%02167's efforts came to nothing...
+@10.36
+Lord \#01FA has punished the daimyo who sided with \#084B.
+@10.47
+The \#1167 clan, which declared for the \#11FA side and kept \#1074 in check, kept its lands.
+@10.57
+Brother!
+@10.58
+\%03, I have come to say goodbye.
+@10.59
+Father! \#0969!
+@10.60
+Thanks to \%04165, I keep my head. I thank you.
+@10.61
+No, not at all...
+@10.62
+Well, I had hoped to be the one sending \#09FA into exile, but now it has come to this, it can't be helped.
+@10.64
+At any rate, I leave the \#1167 clan in your hands.
+@10.65
+Yes, Father, I will. ...Both of you, take care of yourselves.
+@10.67
+Farewell, Brother.
+@10.69
+\%047FE!
+@10.70
+\%047FE, I have come to say goodbye.
+@10.71
+Old lord! \%04169!
+@10.72
+I am no longer your old lord. From now on, give \#0965 your full support.
+@10.73
+...As you wish. Both of you, take care of yourselves.
+@10.74
+Yes, I'll take good care of myself until the day I can do the same to \#09FA.
+@10.76
+Well, farewell.
+@10.77
+(...How sad.)
+@10.78
+Now, off to Kishu, I suppose.
+@11.0
+Good, we've arrived. It seems \#0965's army got here first.
+@11.2
+Good, we've arrived. It seems \%02167's army got here first.
+@11.3
+Ah, you've come. I've been waiting.
+@11.4
+Our preparations are complete.
+@11.5
+Now, when will the main punitive force arrive...
+@11.6
+My lord, a letter has arrived from \%0404B.
+@11.7
+From \%0404B... So it has come at last?!
+@11.8
+It was \#004B's call to arms.
+@11.9
+It listed the many abuses of power \#01FA had committed since the death of \#0205...
+@11.10
+declared that he would raise troops to strike down \#09FA, and called on the daimyo indebted to the Toyotomi to rise with him.
+@11.11
+Hmm, so it has come at last.
+@11.12
+This is no small matter. \#0965, \#0969!
+@11.15
+I wish to talk with the three of us alone. We'll borrow the outbuilding of that house over there. Come.
+@11.16
+Understood.
+@11.17
+...Now, there are two paths we can take.
+@11.18
+Answer \%0404B's call, leave here and return to our domain,
+@11.19
+or stay as we are and side with \#11FA...
+@11.20
+Either way, it is clear that whichever side wins this war will hold real power over the realm.
+@11.21
+\#0969, what do you think?
+@11.22
+I will follow you, Father.
+@11.23
+I see... And \#0965, what will you do?
+@11.24
+\#0965, what do you think?
+@11.25
+Having come this far following Lord \#11FA, changing sides now would be dishonourable.
+@11.26
+Hmm, but listen. If \#11FA wins, the \#1206 clan will be crushed.
+@11.27
+Surely not...
+@11.28
+I'm not joking. This whole war is \#09FA's doing, meant to crush the \#1206 clan.
+@11.29
+But it was \%0404B who rose first...
+@11.30
+It may look that way from outside, but \#09FA arranged it all. He cannot fool my eyes.
+@11.31
+I stand corrected.
+@11.32
+If \%0404B wins, the \#1206 clan will of course be preserved.
+@11.33
+But even if he wins, \%0404B could never hold the daimyo together.
+@11.34
+\%041FA would surely bring peace to the realm.
+@11.35
+If we think of what is good for the realm, I believe we should side with \#11FA.
+@11.36
+Hmph, it may be good for the realm, but it won't be good for the \#1167 clan...
+@11.37
+At any rate, I have heard everyone's views.
+@11.38
+(Now, what to do...)
+@11.39
+Side with \#084B
+@11.40
+Side with \#09FA
+@11.41
+Good, my mind is made up! Our house will join \%0404B!
+@11.42
+Yes, my lord!
+@11.43
+Good, my mind is made up! As \#0965 says, our house will join \%041FA!
+@11.44
+Yes, my lord!
+@11.45
+At any rate, I have heard everyone's views. Our house will join \%0404B! Is that all right?
+@11.48
+Urge joining \#084B
+@11.49
+Urge joining \#09FA
+@11.50
+I believe we should join \%0404B.
+@11.51
+Yes, the same as me. Good, our house will join \%0404B!
+@11.53
+I believe we should do as my brother says and join \%041FA.
+@11.54
+Even \#0969 says so... Very well, then our house will join \%041FA.
+@11.56
+I... still believe we should join \%041FA.
+@11.58
+It seems nothing will change \#0965's mind.
+@11.59
+...Then so be it.
+@11.61
+Father and son fighting on opposite sides is the way of this age of war. Whichever wins keeps the family name alive.
+@11.62
+Go, \#0965.
+@11.63
+Yes, then... Take care, Father.
+@11.65
+\#0969, look after Father.
+@11.66
+Yes... Stay well, Brother.
+@11.67
+Farewell, then!
+@11.68
+Listen, everyone! We now return to \41DE and wait there for orders from \%041FA.
+@11.69
+So our house is to side with the \#11FA?
+@11.70
+...No, Father and \#0969 are joining \%0404B.
+@11.71
+What?! Then father and son will be on opposite sides?!
+@11.72
+Don't worry, the three of us talked it over and decided. Now, let's go!
+@11.74
+Listen, everyone! We are joining \%0404B. We leave here at once.
+@11.76
+However, \#0965 will go on fighting alongside the \#11FA side.
+@11.77
+B-but...
+@11.78
+Hah, in an age of war, such things happen.
+@11.79
+Good, back to \41DE!
+@11.81
+...Or so I thought, but first, shall I stop by \41DF and see my grandchildren's faces?
+@11.85
+...They're taking a long time.
+@11.86
+...Indeed.
+@11.87
+Shall I go and see how it's going?
+@11.88
+...They're taking a long time.
+@11.90
+Shall I go and see how it's going?
+@11.91
+But \%04167 said no one was to come...
+@11.92
+Even so, this is far too long...
+@11.93
+Go and look
+@11.95
+I'll go and see after all.
+@11.96
+Excuse me!
+@11.97
+You there! Didn't I tell you not to come in?!
+@11.98
+Father, calm down. This is good timing. I want to hear your opinion.
+@11.100
+Right now Father, \#0969 and I are divided.
+@11.101
+Father and \#0969 say we should join \%0404B.
+@11.102
+But I think we should join \%041FA.
+@11.103
+\%03, what do you think we should do?
+@11.104
+Your wife, my lord, is \%041FA's adopted daughter, so surely what to do is clear.
+@11.105
+Yes, I thought so too. Good, my mind is made up!
+@11.108
+Right now Father and my brother are divided.
+@11.109
+Father says we should join \%0404B.
+@11.110
+But my brother thinks we should join \%041FA.
+@11.115
+I think we should do as \%02167 says and join \%0404B.
+@11.116
+Yes, it's reassuring that you think so too.
+@11.117
+Father, I believe we should join \%0404B.
+@11.120
+I think we should do as \%04165 says and join \%041FA.
+@11.121
+Hmm, so that's your view... Very well.
+@11.122
+Father, I believe we should join \%041FA here.
+@11.141
+Don't worry, the three of us talked it over and decided. Now, let's go!
+@11.150
+Good, back to \41DF!
+@11.152
+...No, I'd better not.
+@11.153
+Hm... They're back.
+@11.155
+So our house is to side with the \#11FA?
+@11.170
+Afterwards \#09FA's main force advanced as far as \41E2, where word reached it that \#084B had risen.
+@11.171
+\#09FA held a council there, and decided to turn back with the daimyo who followed him and strike \#084B.
+@11.172
+\#09FA gave the \#1167 clan the task of returning to its castle and standing by to keep \#1074 in check.
+@12.0
+Good, we're here. Have them open the gate!
+@12.1
+The old lord has arrived! Open the gate!
+@12.3
+What on earth is going on?
+@12.4
+What on earth is going on?
+@12.5
+Open the gate! The old lord has arrived!
+@12.6
+Is that my father-in-law of Ueda?
+@12.7
+Oh, yes, it's me!
+@12.8
+Is my husband, Lord \#0965, with you?
+@12.9
+No, he's not here.
+@12.10
+I cannot open the gate without the leave of \#0165, master of this castle!
+@12.11
+Wh-what are you saying...
+@12.12
+A letter just came from my husband. He says father and son are to fight on opposite sides.
+@12.14
+I cannot let an enemy into the castle. Please leave!
+@12.15
+Now, don't say that. I only wanted to see my grandchildren. Won't you let me in, just me?
+@12.16
+I will not!
+@12.17
+How strict...
+@12.18
+Father, let us withdraw.
+@12.19
+...Very well. Then, Lady Komatsu, give my regards to the grandchildren...
+@12.20
+Yes. Thank you for your kind words.
+@12.21
+Well then, back to \51E5.
+@12.22
+Lady Komatsu's words made sense, but wasn't she terribly rude to you, Father?
+@12.23
+Now, don't say that. A woman that strong-willed may be just right for \#0965.
+@12.24
+...Hahaha. Perhaps you're right.
+@12.25
+Ha ha ha! Right, things will get busy once we're back in \41DE. Be ready!
+@13.0
+\%03! I've been waiting for you!
+@13.2
+It seems he's besieging \41DF.
+@13.3
+\#09FA may have been beaten at Sekigahara, but he is a seasoned veteran. Drop our guard and it will be our heads that roll.
+@13.4
+Yes. Let us proceed with care.
+@13.5
+Very well, we advance!
+@14.0
+Good, we managed to get close without being noticed.
+@14.1
+With both sides lined up like this, it's truly a magnificent sight.
+@14.2
+Listen, do not move from here until the signal.
+@14.3
+Once the battle starts, we wait for the right moment and spread rumours.
+@14.4
+Yes... that \#0125 and \#0267 have turned traitor and are heading for \#09FA's headquarters.
+@14.5
+And when \#09FA's headquarters loses its nerve, we charge in.
+@14.6
+Yes. We are outnumbered. Know that unless everyone moves as one, we will be wiped out.
+@14.8
+So they've begun... Right, let's go!
+@16.0
+Good, the enemy is in chaos! We have achieved our goal!
+@16.1
+How goes the battle?!
+@16.2
+With their headquarters in confusion, the enemy has lost all order and is collapsing. A great victory for our side!!
+@16.3
+Yes! Raise a victory cry!
+@16.5
+Ugh, as expected of \#09FA. Rumours and a surprise attack didn't shake him!
+@16.6
+Our side is in full rout!
+@16.7
+We're surrounded on all sides! Our retreat is cut off!
+@16.8
+Ugh! So this is the end!
+@16.9
+Then I'll take as many enemies as I can with me to the underworld!
+@16.10
+\%03! I'll go with you!
+@16.11
+Yes, let's go!
+@16.12
+Raaah!
+@16.13
+The Battle of Sekigahara ended in an Eastern victory, thanks to the betrayal of the \#013B army...
+@16.14
+The Western daimyo were all but wiped out.
+@16.15
+His retreat cut off by the Eastern Army, \#07FE died in the melee.
+@16.16
+He was aged \1006......
+@17.5
+Before the deeds of \#018B, \#07F1 and the rest, \#01FA, who had half the realm in his grasp, finally fell, aged \1006...
+@17.11
+\#0167 and the rest staked all on a decisive battle to slay \#01FA in one blow, but fell easily before \#09FA's counterattack.
+@18.0
+Attacking the castle any further will only add to our losses...
+@18.1
+I agree.
+@18.2
+True... We have no choice but to withdraw.
+@18.3
+Look! The \#11FA army is running home with its tail between its legs!
+@18.4
+Those \#11FA samurai may be many, but they're all useless cowards!
+@18.5
+Wahahaha!
+@18.6
+Grr, what humiliation... I can't face Lord \#09FA......
+@19.0
+Ugh, it still hasn't fallen?
+@19.1
+\%03, if we spend any more time taking this castle, we will miss the coming decisive battle.
+@19.2
+Grr... After suffering such humiliation, if I can't even take the castle, I can't face Father...
+@19.3
+Then you need only win glory on the field of the decisive battle. Please withdraw for now.
+@19.4
+Grr... Then there's no help for it. Lift the siege! We hurry to Mino!
+@19.6
+A great victory for our side.
+@19.7
+Yes. Now they won't make it to the decisive battle.
+@19.8
+Having cut away this much of the \#11FA side's strength, we can say \%0404B's victory is assured.
+@19.9
+Oh, that it is.
+@19.10
+A report! \#09FC's army seems to be crossing the Daimon Pass toward the Kiso Road.
+@19.11
+The Daimon Pass?! Not the Wada Pass?!
+@19.12
+The Wada Pass had been used as a route into Shinano in \#01C1's lifetime and was suited to large armies.
+@19.13
+But the Daimon Pass that \#09FC's army chose was a narrow, steep cliff path, unfit for a large army.
+@19.14
+With that army, the Daimon Pass will be nothing but trouble. They are certain to miss the decisive battle.
+@19.15
+Yes, just so, but it seems something even more interesting could be done here...
+@19.16
+Oh? What are you thinking, Father?
+@19.17
+What if we cross the Wada Pass in \#09FC's place?
+@19.18
+You don't mean...
+@19.19
+Yes, we lead an army there and reach the battlefield before \#09FC.
+@19.20
+What?! What an outrageous idea!
+@19.21
+There, \#09FA will naturally camp at the very rear. We strike him there by surprise!
+@19.22
+At the same time, if we spread rumours that someone on the \#11FA side has turned traitor or that \#09FA has been killed, chaos is certain.
+@19.23
+A tactic worthy of the \#1167. Truly tempting, but also very dangerous.
+@19.24
+Just so. For a surprise attack we cannot take too many men.
+@19.25
+Whereas \#11FA's headquarters will have plenty of men. Is it still worth doing...?
+@19.26
+What to do...
+@19.27
+Do it
+@19.28
+Don't
+@19.29
+Right, I've decided! We'll do it!
+@19.30
+Oh, truly?
+@19.31
+Yes, prepare at once.
+@19.32
+Yes, quite an interesting idea, if I say so myself, but there's no need to carry it out.
+@19.33
+Just so. Even as things stand, \%0404B will win.
+@19.35
+Urge doing it
+@19.36
+Urge against it
+@19.37
+Your idea is most interesting, my lord. I think we should certainly try it.
+@19.38
+You think so? Right, I've decided! We'll do it!
+@19.41
+Your idea is interesting, my lord, but I think we should hold back.
+@19.42
+I see, you may be right. I'll leave it as a thought.
+@19.44
+Indeed. Now we just wait for good news.
+@20.0
+My lord, a letter has arrived from \#01FA.
+@20.1
+Yes, let me see it.
+@20.5
+What is this?!
+@20.7
+What is it? Nothing good! That \#09FA tells me to hand over our \41DF to \#0275!
+@20.9
+In exchange, he'll give me other land of \#09FA's as soon as some becomes free! What nonsense!
+@20.10
+That \#09FA...
+@20.11
+My lord, \#09FA can no longer be trusted.
+@20.12
+Joining hands with the \#1275 clan and then demanding \#1167 lands is outrageous. We should break the alliance with \#11FA at once.
+@20.13
+But the \#11FA clan is formidable. We must think carefully about how to respond.
+@20.14
+If I may, I see three ways we could respond.
+@20.15
+\#0969, is it? Very well, speak.
+@20.16
+The first is to accept the demand.
+@20.17
+We endure for now and plan to rise again someday.
+@20.18
+The second is to reject the demand.
+@20.19
+We would break with \#11FA and must be ready to die defending the castle.
+@20.20
+The third is to ignore the demand.
+@20.21
+We buy time for now and build up our forces.
+@20.22
+As \#0969 says, this may be the time for a decision...
+@20.23
+\#0FFE, what would you do in my place?
+@20.24
+If I were you...
+@20.25
+Accept the demand
+@20.26
+Reject the demand
+@20.27
+Ignore the demand
+@20.28
+Hmm, it can't be helped. Now is the time to endure.
+@20.29
+\41DF was handed over to \#0275.
+@20.30
+Good, my mind is made up!
+@20.31
+Write a reply saying \41DF was never the \#11FA clan's to give!
+@20.33
+But though I'm ready to fight \#09FA, I'd like to secure our rear.
+@20.34
+...Then it would be wise to make friends with \#1074.
+@20.35
+Yes, send an envoy to \#1074 to propose an alliance.
+@20.37
+Good, I've decided!
+@20.38
+We will ignore the \#11FA clan's demand! A decisive battle can't be avoided in the end, so we must build up our forces before then.
+@20.39
+Everyone, I'm counting on you!
+@20.47
+\#01FA ordered us to hand \41DF over to \#0275, but the old lord rejected it.
+@20.48
+Hmm, there may be war soon...
+@20.49
+There may be war soon...
+@21.0
+\#0205 has sent a letter through the \#1074 clan.
+@21.1
+Oh, from \#1205... And what does it say?
+@21.2
+"Save my face and make peace with \#09FA."
+@21.3
+He offers to mediate a peace, then.
+@21.4
+We drove them off this time, but the \#11FA army is powerful and not to be underestimated.
+@21.5
+I found out when we clashed: the \#11FA army is powerful and not to be underestimated.
+@21.6
+If \#09FA takes the field himself, the \#1167 clan will be in real trouble.
+@21.7
+......That may be so. And how will you answer?
+@21.8
+Accept, make peace with \#01FA
+@21.15
+A report: peace has been made between our house and the \#11FA clan.
+@21.16
+Oh, I'm surprised they managed to make peace.
+@21.17
+\#0205 urged peace through the \#1074 clan, and we followed his advice.
+@21.18
+Oh, \#0205 did...
+@21.19
+My, I'm surprised they managed to make peace.
+@21.21
+My, \#0205 did...
+@22.0
+A letter has come from \#01FA.
+@22.3
+...Hmm, what to do?
+@22.4
+What is it?
+@22.5
+He proposes a bride for \#0965.
+@22.6
+Oh, that is... And who is the lady?
+@22.7
+She is \#0448, daughter of \#11FA retainer \#028C, and she would marry as \#09FA's adopted daughter.
+@22.8
+For binding the \#1167 and \#11FA houses together, it's a golden opportunity.
+@22.9
+Yes, I suppose so. But to be honest, having that \#09FA as my son's father-in-law is not very pleasant.
+@22.10
+What do you intend to do?
+@22.11
+Accept the match
+@22.12
+Refuse the match
+@22.13
+Yes, my own likes and dislikes aside, we must accept. Tell \#11FA we agree.
+@22.15
+\#0965, you have no objection?
+@22.16
+None. I intend to do my best to be a bridge between the \#1167 and \#11FA clans.
+@22.18
+In month \1007 of \1006, \#0165 married Komatsu, adopted daughter of \#01FA.
+@22.19
+......I look forward to a long life together.
+@22.20
+Yes, likewise, I'm sure...
+@22.21
+(I wasn't keen at first, but she's quite a fine bride.)
+@22.22
+I still don't like it. Tell them he has another match and turn them down.
+@22.25
+Yes, as you command.
+@22.26
+\#0965, what do you think of this?
+@22.29
+Sir, I think it would be good to accept.
+@22.30
+Yes, if \#0965 has no objection, we must accept. Tell \#11FA we agree.
+@22.34
+Likewise, I'm sure...
+@22.36
+Like you, Father, I'm not keen on it.
+@22.37
+I thought so. Very well, tell them he has another match and turn them down.
+@22.45
+Yes, truly a joyous day! Everyone, tonight we drop all formalities!
+@22.46
+(Well, well, the old lord seems not entirely displeased.)
+@22.47
+(Well, well, the old lord seems not entirely displeased...)
+@22.48
+I hear \#11FA has proposed a match for me.
+@22.49
+Is that so? And who is the lady?
+@22.50
+She is Lady \#0448, daughter of \#11FA retainer \#028C, and she would marry as \#09FA's adopted daughter.
+@22.52
+That's right. But Father doesn't think much of \#01FA.
+@22.53
+Father asked me whether I should accept.
+@22.54
+And how did you answer, my lord?
+@22.55
+Said to accept
+@22.56
+Said to refuse
+@22.57
+I told him I humbly accept.
+@22.58
+Is that so? Things will get busy from now on.
+@22.65
+Like Father, I wasn't keen, so I told him to refuse.
+@22.67
+A report: the \#11FA clan has proposed a match for Lord \#0965.
+@22.68
+She is Lady \#0448, daughter of \#11FA retainer \#028C, and she would marry as \#09FA's adopted daughter.
+@22.69
+Hmm, and the old lord's answer?
+@22.70
+He says he humbly accepts.
+@22.71
+Knowing the old lord, it's to keep ties between the \#1167 and \#11FA, but deep down he surely wasn't keen.
+@23.0
+Now, it seems everyone is here. Then...
+@23.1
+\%03, a report! \#01FA has rejected the orders sent by the Five Regents.
+@23.2
+The \#11FA clan is gathering all its strength and preparing for war.
+@23.3
+As I thought... There was no way \#09FA would accept those orders.
+@23.4
+Sir, and so they ask Lord \#0967 to lead the vanguard in the campaign against \#11FA!
+@23.5
+As you have all heard, the rebel \#01FA is to be punished, and we have been ordered to march.
+@23.6
+This time I'll finish \#09FA off for good!
+@23.8
+On the orders of the Five Regents, the old lord has led an army out to punish \#09FA.
+@23.9
+Understood. Thank you for the report.

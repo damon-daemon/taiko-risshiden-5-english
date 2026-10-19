@@ -1,0 +1,142 @@
+@0.6
+But \#09FA could not touch the \#1116 clan, which had stayed neutral, and its strength was preserved intact.
+@2.16
+My lord! A grave matter! Your father, Lord \#0117, has been ordered to commit seppuku!!
+@2.18
+Lord \#0917 is renowned as the greatest pirate captain in Japan.
+@2.19
+\%041FA says that if the greatest pirate captain in Japan would turn against him when it counts, he cannot be left alive.
+@2.20
+Grr, there's no time to lose!! I must beg \%041FA to spare \%03's life!
+@3.0
+I must hurry...
+@3.1
+Oh, \%03. Why so pale?
+@3.2
+I have come today with a request for \%041FA.
+@3.3
+Oh, a request? Ah yes, you are to receive an extra castle.
+@3.4
+My request is not about rewards! It is about my father \#0917's seppuku! I beg you, spare my father's life!
+@3.5
+If you spare my father, \#0917... I want no reward! No reward at all!
+@3.6
+No! Now is the time to harden my heart so the realm does not fall into chaos again!
+@3.7
+Even if he is the greatest pirate captain in Japan... no, precisely because he is, those who turn against me must be punished!
+@3.8
+Give up on your father and accept the castle quietly...
+@3.9
+I cannot do that! If I abandon the father who built our house in one generation, I could never hold the house together!
+@3.10
+If you will not pardon him whatever I say, I intend to shut myself in his fort with him and die fighting at his side!
+@3.11
+Bah! The son of the \#1165, the son of the \#1116... What a pack of stubborn fools!
+@3.12
+Do you think it right, \%041FA, for a son to sell his father's life for a reward?!
+@3.13
+Can a man who would govern the realm keep the land in order by urging sons to betray their fathers?! Can he?!
+@3.15
+...You win. For your sake, I pardon \#0917's seppuku.
+@3.16
+I am deeply grateful!
+@3.17
+\#0917 is a lucky man to have a son like you. Hurry and tell him.
+@3.18
+Yes, my lord! Then, excuse me.
+@4.0
+I must tell Father quickly.
+@4.1
+Wh-what on earth is going on?!
+@4.2
+Don't stop me, \%03! If this wrinkled old neck can save the \#1116 house, I'll die content!
+@4.3
+I'll gladly cut my belly!
+@4.4
+Father, don't be rash! I begged \%041FA to spare you, and your seppuku has been pardoned!
+@4.5
+What! That old raccoon dog did... I can't believe it...
+@4.6
+Phew, to think it had come to this... I'm glad I made it in time...
+@4.7
+Perhaps thanks to a fine horse, \#0116's plea for his father's life arrived just in time...
+@4.8
+Ah, Lord \#0916! Something terrible has happened... The chief... the chief...
+@4.9
+What has happened to my father?!
+@4.10
+Deciding it was the end, he took his own life...!
+@4.11
+Wh-what a rash thing to do... I had begged \%041FA to spare him, and he was pardoned...
+@4.12
+The chief left this for you, Lord \#0916...
+@4.13
+This is... Father's last letter!
+@4.14
+"\#0916, by the time you read this, I will no longer be in this world..."
+@4.15
+"Ever since I learned you would side with the Eastern Army, I have been thinking how to protect the \#1116 house..."
+@4.16
+"I sided with the Western Army so that even if the West won, no harm would come to the \#1116 house."
+@4.17
+"Since the West has lost, I was prepared for this."
+@4.18
+"If this wrinkled old neck can save the \#1116 house, I gladly cut my belly... \#0916, I leave the \#1116 house to you. \#0917"
+@4.19
+Grr... Fatherrr!!
+@4.21
+\#0116's plea for his father's life came just a little too late...
+@5.0
+\%03, thank you for coming. We'll hold a war council at once, so please come into the castle.
+@5.1
+\%03, you come too.
+@6.12
+Those who wish to side with \#084B may return to their home provinces. I, \#09FA, will hold no grudge...
+@6.18
+I too will be on your side!
+@6.27
+Ah, \%03, I have a special favour to ask. I'd like you to take control of Ise Bay.
+@6.28
+If those siding with \#084B, the Western Army, cross over to Owari and Mikawa and run riot, no one can fight with peace of mind.
+@6.29
+Understood!
+@7.0
+\%03! \41E2 has fallen to \#004B's army!
+@8.0
+Hm?! That ship... My lord, it's a ship of \E07A!
+@8.1
+Why would a ship of \E07A be in a place like this... Surely not!!
+@8.2
+That's right, \%03. I have decided to side with the Western Army!
+@8.3
+Even if the West wins, I've got a sworn pledge that your siding with the East will be overlooked and you'll be rewarded!
+@8.4
+Now whether the East or the West wins, the \#1116 house is safe!
+@8.5
+That being so, it's pointless for men of the same \#1116 to fight and wound each other.
+@8.6
+Why not just pretend to fight, so that both of us save face?
+@8.11
+Yes, that would be best...
+@8.12
+Right, then we load the guns with powder only and fire without shot.
+@8.13
+And we shoot our arrows off in the wrong direction. Agreed?
+@8.14
+Agreed.
+@8.15
+Month \M002 of \M001: the forces of \#0116 and \#0117 appeared to fight a sea battle.
+@8.17
+No, I too have my pride as a warrior. I cannot collude with the enemy!
+@8.18
+Oh, you think you can beat me? Very well, let's have a go!
+@9.0
+Yes! I've beaten \%03, called the greatest pirate captain in Japan!
+@10.9
+\%03, what will you do?
+@10.11
+Join against \#1074
+@10.12
+Send no troops
+@10.16
+Both \#1074 and \#11FA are regents. This campaign is nothing but \%041FA's private war. We should not move our army lightly.

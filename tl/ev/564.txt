@@ -1,0 +1,60 @@
+@0.0
+Are you well, \#0FF1?
+@0.1
+Ah...! F-forgive me. Our lord has ordered us to have nothing to do with Lord Nobutora...
+@1.1
+Father... what have you come for?
+@1.2
+Does a father need a reason to see his son?
+@1.3
+Father, you were banished from this house... Do not come and go in our castles so freely.
+@1.5
+Father... please leave. My brother has strictly ordered me to have nothing to do with you.
+@1.6
+How cold... Though we are father and son, of the same blood...
+@2.0
+Well, Harunobu? How does it feel to be a prisoner?
+@2.2
+You banished me from my own lands, calling me a lord who did nothing but make war... Yet look, you made far more war than I did.
+@2.3
+Banished by my own son, unable to return to my lands... You could never understand what I went through.
+@2.5
+But it's the wheel of karma after all. Those who stray from the path are always punished.\nThat you stand here now as a defeated general is your own doing.
+@2.6
+But such is the way of the warring age. Harunobu... your father will see you off. Cut your belly here and now.
+@2.7
+Lord \#0B21! Is this truly right?
+@2.8
+What do you mean?!
+@2.9
+A father ordering his son to die and a son banishing his father: I believe both go against human decency!
+@2.10
+What! What does a mere foot soldier know?!
+@2.11
+Foot soldier... that's enough. I did as much to my father...
+@2.13
+Make him cut his belly
+@2.14
+Spare his life
+@2.15
+Very well... It's true, a parent ordering his child to die goes against human decency...
+@2.16
+Harunobu... are you ready to serve once more as my right hand, and work yourself to the bone...?!
+@2.17
+Then, Father... you would forgive this unworthy son?!
+@2.18
+I am... your father.
+@2.19
+Father! Harunobu was wrong...! I am so sorry! From now on I will obey you in everything.
+@2.21
+\1009 years after \#09C1 banished his father \#0B21 in Tenbun 10, the bond of father and son was at last restored...
+@2.22
+It is said the daimyo were in awe of the might of this father, once famed throughout Kai and Shinano, and his son, feared as a giant of the east, now reconciled.
+@2.27
+Father... farewell.
+@2.28
+Mm...! Wait for me in the next world! Your father will follow before long.
+@2.29
+\#01C1, who spread his power through Kai and Shinano in the warring age and made his name known across the land...
+@2.30
+...met his end in a fierce seppuku, watched over by the father he had banished. He was \1009...

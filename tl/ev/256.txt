@@ -1,0 +1,80 @@
+@0.1
+Oh, it's \&01.
+@0.2
+I've just been working up a sweat at the dojo.
+@0.3
+Oh... You work hard. Are you studying tactics too?
+@0.4
+Yes. Though I'm no match for you yet, Father.
+@0.5
+What are you saying... I know my own measure. Your talent is several times mine.
+@0.6
+Father, really...
+@0.7
+I couldn't do much to build up this house I inherited from my father... But with you, the Azai house can prosper...
+@0.8
+No, I'm still... still in training.
+@0.9
+No, you are the son I'm proud of... And so, \#0810, there's something I want to discuss...
+@0.11
+I mean to hand the headship of the \#1010 to you... I mean to retire.
+@0.12
+You, retire, Father!? You mean to hand the headship to me!?
+@0.13
+That's right... Any objection?
+@0.14
+But... you're still in good health, Father! Why retire...
+@0.15
+As I said earlier... I'm sure the \#1011 house will prosper more with you at its head than with me.
+@0.17
+Are you ready to inherit the \#1011 house of northern Omi that my father, Sukemasa, built...?
+@0.20
+\#0011 compared his own talent with that of his heir \#0810, and resolved to hand the headship to \#0810...
+@0.21
+\#0010 becomes daimyo in place of \#0011.
+@0.22
+Lord \#07FE, the old lord is calling for you.
+@0.23
+What, Father? I wonder what it is...
+@0.24
+Ah, \#0810! You've come.
+@0.25
+Father, what is it?
+@0.26
+The truth is, I mean to hand the headship of the \#1010 to you... I mean to retire.
+@0.30
+I know my own measure. Your talent is several times mine.
+@0.32
+As head of the house, I couldn't do much to build up what I inherited from my father... But with you, the Azai house can prosper...
+@0.34
+No, you are the son I'm proud of... I'm sure the \#1011 house will prosper more with you at its head than with me.
+@0.41
+I... am head of the house. From now on I must be on my mettle...
+@0.43
+Now... I wonder what it is?
+@0.44
+Is everyone here?
+@0.45
+Why this sudden summons... What on earth is it?
+@0.46
+The truth is, I mean to hand the headship of the \#1010 to \#0810... I mean to retire.
+@0.61
+So Lord \#0810 is head of the house now... I must do my best too, so the \#1010 house prospers all the more...
+@1.0
+Lord \#07FE! We've been waiting for you! The old lord is here.
+@1.2
+Ah, \#0810! You're back.
+@1.19
+\#07FE's base becomes \41DF.
+@1.21
+Lord \#07FE, the old lord has retired.
+@1.22
+What, the old lord!? What do you mean?
+@1.23
+He has handed the headship to the young lord, Lord \#0810.
+@1.24
+But... the old lord is still in good health. Why retire...
+@1.25
+The old lord thinks the \#1010 house will prosper more with the young lord at its head than with himself...
+@1.26
+Hmm, I see... True, the young lord is very able... Perhaps the old lord's decision is right...
