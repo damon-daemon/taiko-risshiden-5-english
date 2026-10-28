@@ -386,6 +386,7 @@
 592088	Time
 592090	%3dh %02dm
 5920a0	New
+5920a8	%s %s
 5920b0	Location
 5920b8	In Battle
 5920c0	Saved
