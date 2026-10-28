@@ -52,8 +52,10 @@ BOXES[23] = (360, 5)   # msg23 card descriptions (same panel as msg22; see NOT_W
 BOXES[25] = (396, 11)  # msg25 battle advisor panel: widest Japanese line / most lines in the block
 BOXES[26] = (420, 9)   # msg26 battle advisor (castle defense lines)
 BOXES[27] = (420, 9)   # msg27 #0-165 battle advisor (low-troop lines); see NOT_WINDOW/ENTRY_BOXES
-# msg28-32 = officer bios in a fixed panel: Japanese lines reach 516 px, 6-7 lines (504 for a margin)
-for _n in range(28, 33): BOXES[_n] = (504, 7)
+# msg28-32 = officer bios on the main-menu Card List hero cards (dates line, then a paragraph):
+# a 20px-font panel that wraps by character at ~440 px and holds 6 lines (measured 2026-10-28).
+# More lines run off the panel and corrupt memory (issue #8: menus vanish, loading hangs).
+for _n in range(28, 33): BOXES[_n] = (410, 6, 'small')
 # Entries of window blocks shown elsewhere (FIT mode instead of the window box):
 # msg08 #402-438 = main-menu / new-officer help panels, msg10 #350+ = facility guide,
 # msg11 #531-603 = battle and merchant-war guide, #789-822 = aptitude results, duel guide.
@@ -72,6 +74,10 @@ ENTRY_BOXES = {27: [(range(181, 1000), WINDOW)], 0: [(range(445, 450), (336, 3))
 # 2026-10-18: "Seng|oku"), 12 lines fit (no scrolling: more run off the panel).
 for _n in range(17, 21):
     ENTRY_BOXES.setdefault(_n, []).append((range(0, 200), (216, 12, "small")))
+# msg23 #84-423 = card texts (titles, sights, techniques, battle tactics, other cards) on the
+# main-menu Card List: a 20px-font panel that wraps by character at 320 px and holds 5 lines
+# (measured 2026-10-28, issue #8); no dates line.
+ENTRY_BOXES.setdefault(23, []).append((range(84, 424), (310, 5, 'small', 0)))
 LINE_BYTES = 120          # layout warning only: msgwindow caps a run at 127 bytes in code
 FULL_PX, HALF_PX = 24, 12  # full-width / half-width (kana) cells in the 24px font
 VAR_PX, VAR_BYTES = 120, 20   # an inserted name or number ({02} print)
@@ -258,7 +264,8 @@ class Box:
             # the window wraps long lines itself: count the lines as shown
             w, page = fixed[:2]
             if len(fixed) > 2:          # a fixed panel: page = all the lines it holds
-                return w, page + 1, page    # + the dates line, which goes to its own field
+                head = fixed[3] if len(fixed) > 3 else 1
+                return w, page + head, page  # + the dates line (bios), which goes to its own field
             shown = sum(max(1, -(-x // w)) for x in jl)
             return w, -(-shown // page) * page, page
         manual = [x for x in jl if x <= FLOW_PX]
@@ -487,8 +494,11 @@ def apply(n, batch=None, check=True):
             if b == n:
                 return text.encode(rows[i]['en'] or rows[i]['jp']) if i < len(rows) else None
             return base(b, i)
-        for x in overflow.check_messages(get, overflow.clean_elf()):
-            log('ERROR ' + x, True)
+        elf = overflow.clean_elf()
+        known = set(overflow.check_messages(base, elf))   # other blocks' errors are theirs
+        for x in overflow.check_messages(get, elf):
+            if x not in known or x.startswith('msg%02d ' % n):
+                log('ERROR ' + x, True)
     if bad and batch:
         print('msg%02d: %d errors: nothing written' % (n, len(bad)))
     else:
