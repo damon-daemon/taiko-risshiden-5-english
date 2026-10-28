@@ -174,6 +174,41 @@ class Measure:
             best = max(best, v)
         return best
 
+# Fixed text panels that must not get more lines than they hold: a text object wraps by
+# character at its own width and keeps drawing lines past its height, which corrupts
+# memory (issue #8: Card List hero cards, msg28-32 = dates line + 6 body lines; after
+# ~20 overflowing cards the menus vanish and loading a save hangs).
+# msg23 #84-423 = the other card types' texts: a narrower panel, 5 lines (no dates line).
+# block: [(entries, body lines, object wrap width px, font, lines before the body)]
+PANELS = {n: [(range(1000), 6, 440, 'small', 1)] for n in range(28, 33)}
+PANELS[23] = [(range(84, 424), 5, 320, 'small', 0)]
+
+@functools.lru_cache(None)
+def _font_widths(font):
+    import latinfont
+    return {ord(c): g[1] for c, g in latinfont.render(font).items() if len(c) == 1}
+
+def panel_lines(b, width, font):
+    """Lines of a message as its text object shows them (explicit lines plus the
+    object's own character wrap at width)."""
+    w = _font_widths(font)
+    out = []
+    for part in b.split(b'\n'):
+        x, n, i = 0, 1, 0
+        while i < len(part):
+            c = part[i]
+            if c < 0x20:                        # control codes: no width
+                i += 1; continue
+            if 0x81 <= c <= 0x9F or 0xE0 <= c <= 0xFC:
+                cw, i = 20, i + 2
+            else:
+                cw, i = w.get(c, 10), i + 1
+            if x + cw > width:
+                n, x = n + 1, 0
+            x += cw
+        out.append(n)
+    return out
+
 # ---------------------------------------------------------------- checks
 
 def check_messages(get, elf, blocks_count=33, sizes=None):
@@ -188,6 +223,16 @@ def check_messages(get, elf, blocks_count=33, sizes=None):
             v = m.msg(n, i)
             if v > MSG_BUF:
                 errs.append('msg%02d #%d: expands to %d bytes > %d (message buffer)' % (n, i, v, MSG_BUF))
+    for n, panels in sorted(PANELS.items()):
+        for ids, limit, width, font, head in panels:
+            for i in ids:
+                b = get(n, i) if not sizes or i < sizes[n] else None
+                if b is None:
+                    continue
+                v = sum(panel_lines(b, width, font)[head:])
+                if v > limit:
+                    errs.append('msg%02d #%d: %d lines > %d (fixed panel: text past it corrupts memory)'
+                                % (n, i, v, limit))
     for mid, (limit, where) in sorted(SITES.items()):
         v = m.msg(*split_id(mid))
         if v > limit:
