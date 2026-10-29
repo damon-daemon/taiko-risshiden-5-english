@@ -417,7 +417,7 @@ Who can teach Building or Speech?
 @208
 {1B}C1●Who can teach Building or Speech?{1B}C0\nAnyone in your own power or an allied (backed or vassal) power, or a ronin, whose friendship with you is high.\n\n{1B}C3◆Example{1B}C0\nIf the hero is a merchant whose house is purveyor to the Oda, you can train under Oda officers as well as your colleagues.
 @209
-Become castle lord?
+How do I become a castle lord?
 @210
 {1B}C1●How do I become a castle lord?{1B}C0\nRise to Chief Retainer and raise your samurai merit to 4500 or more, and you may be made castle lord. But if there are few officers below Chief Retainer, or the daimyo has few direct-rule castles, it may take a long time.
 @211
@@ -425,7 +425,7 @@ Can't a castle lord leave service?
 @212
 {1B}C1●Can't a castle lord leave service?{1B}C0\nOnce you're put in charge of a base, as a rule you can't leave. This goes for squad chiefs, fleet captains and managers too, not just castle lords. But lose a battle and your castle, and you may drop back to Chief Retainer.
 @213
-Raise court rank?
+How do I raise my court rank?
 @214
 {1B}C1●How do I raise my court rank?{1B}C0\nOnly daimyo heads can gain new ranks; other powers can't. Even a daimyo won't get one by waiting: you need the strength to match the rank, and the court's favour. To win it, visit the nobles' houses in Kyoto and ask Kikutei Harusue to [Put in a Word]. The court will ask for donations: be generous. Befriending Harusue first helps.
 @215
@@ -441,7 +441,7 @@ My recruiting keeps failing!
 @220
 {1B}C1●My recruiting keeps failing!{1B}C0\nSuccess at [Recruit] depends on the hero's Speech, your friendship and how well you get on. You can't change how you get on, but training Speech and raising friendship improve your odds. But everyone has a "career leaning", and some can't be recruited into certain careers.
 @221
-Become a ninja or pirate?
+How do I become a ninja or pirate?
 @222
 {1B}C1●How do I become a ninja or pirate?{1B}C0\nYou can only belong to one power, so first leave any power you serve. As a ronin you can join like this:\n\n{1B}C3◆Visit a drill ground{1B}C0\nGo to the "village drill ground" or "fort drill ground" at a base of the power you want, and choose [Become Ninja] or [Become Pirate] to join. But with low Ninjutsu (ninja) or Navy (pirate) skill you'll be turned down, so train first at a "village training ground" or "fort training ground".
 @223
@@ -455,13 +455,13 @@ How do I head a ninja or pirate band?
 @227
 {1B}C1●How do I head a ninja or pirate band?{1B}C0\nYou can become head of a power when:\n\n{1B}C3◆The head dies of old age{1B}C0\nIf your power's head dies of old age with no heir, and your merit is high, the power may pass to you.\n\n{1B}C3◆You rebel and break away{1B}C0\nOnce you rise to holder (squad chief or fleet captain) in a ninja or pirate band, you can break away (rebel) with your base as your seat. But your old power will hate you.
 @228
-Lead a merchant house?
+How do I head a merchant house?
 @229
 {1B}C1●How do I head a merchant house?{1B}C0\nYou can become head of a merchant house when:\n\n{1B}C3◆You're set up on your own{1B}C0\nAs Manager, earn still more merit and the head will call you in to propose setting you up with your own shop. Accept and you head a house of your own. As Manager you earn merit by:\n1. raising your routes' profits,\n2. paying more at year's end,\n3. developing specialties, and so on.
 @230
 {1B}C3◆The head dies of old age{1B}C0\nIf your house's head dies of old age with no heir, and your merit is high, the house may pass to you.
 @231
-People with no surname?
+Who are the people with no surname?
 @232
 {1B}C1●Who are the people with no surname?{1B}C0\nIn ninja villages and pirate forts there are people with no surname: nameless folk lost in the dark of history... In play they act like anyone else on missions and in battle, but they never give a hero card however friendly, can't be invited into other careers, and their stats change every new game. Their stats aren't high, but there is one, just one, with every stat 90 or more...
 @233
@@ -511,7 +511,7 @@ Where can I collect iron sand and herbs?
 @255
 {1B}C1●Where can I collect iron sand and herbs?{1B}C0\nIn mountains away from castles and towns you'll gather the most. The amount also varies by province, so if you get little, try another province.
 @256
-Build a home workplace?
+How do I build a workplace at home?
 @257
 {1B}C1●How do I build a workplace at home?{1B}C0\nThe conditions for each:\n\n{1B}C3◆"Open Dojo"{1B}C0\nGet the "Swordsman" or "Spear Master" card (title). Ronin only.\n{1B}C3◆"Open Tea Room"{1B}C0\nGet the "Tea Sage" card (title).\n{1B}C3◆"Open Clinic"{1B}C0\nGet the "Treatment" card.\n{1B}C3◆"Open Forge"{1B}C0\nGet a "... Tradition" or "Gunsmithing" card.
 @258
@@ -519,7 +519,7 @@ Pirates seem strong in duels
 @259
 {1B}C1●Pirates seem strong in duels{1B}C0\nIn duels on board ship the hero's defense drops, so even weak foes deal heavy damage. Get the "Sea Legs" card and your defense won't drop at sea. You get it by training Navy at a pirate fort's training ground.
 @260
-Can't discover a technique!
+I can't discover a technique!
 @261
 {1B}C1●I can't discover a technique!{1B}C0\n[Meditate] at famous sites on the map (waterfalls, mountains, shrines) to discover new techniques. But you must belong to a school, and with low Martial Arts you can't discover advanced ones.\n\nDiscovery takes time. But if nothing comes however long you meditate, your school may have no more to offer. Join another school and meditate again to discover new techniques.
 @262

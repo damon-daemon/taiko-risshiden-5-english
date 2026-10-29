@@ -1485,7 +1485,7 @@ Negotiate with the enemy commander. If talks succeed, the siege ends on the term
 @566
 After battle, the unit commanders' merits are announced. First to third place earn honours. Press ② to return to the travel screen.\n\n{1B}C1● Earning Merit{1B}C0\nDamaging enemy units and gates earns merit; wiping out a unit or breaking a gate earns much more. Succeeding as the envoy in siege talks also earns a lot.
 @567
-Merchant Chief Contest
+Contest
 @568
 About the Contest
 @569
@@ -1499,15 +1499,15 @@ Just as daimyo battle to unify the realm, merchant houses fight "Merchant Chief 
 @573
 {1B}C3◆ Improving Tasks{1B}C0\nEach member takes one task to develop the town; every task lasts one month. Working develops the town, but improving the task brings bigger results. You may leave town only once to do so, and must be back when the month ends. * For details, see the "Improving Tasks" help.
 @574
-Temple Revival Tasks
+Temple Tasks
 @575
-School Building Tasks
+School Tasks
 @576
-Townhouse Building Tasks
+Town Tasks
 @577
 Festival Tasks
 @578
-Grand Tea Gathering Tasks
+Tea Party
 @579
 Free Market Tasks
 @580
@@ -1933,11 +1933,11 @@ Result
 @790
 {1B}C1● Heroic Daimyo{1B}C0\nWalk the path of conquest with your talent.\n{1B}C3◆ Your Role Models{1B}C0\nOda Nobunaga, Takeda Shingen, Uesugi Kenshin, Hojo Ujiyasu, Chosokabe Motochika, Shimazu Yoshihisa
 @791
-{1B}C1● Cunning Daimyo{1B}C0\nBury your foes with schemes and intrigue.\n\n{1B}C3◆ Your Role Models{1B}C0\nMori Motonari, Ukita Naoie, Saito Dosan, Date Masamune, Tsugaru Tamenobu, Ando Chikasue
+{1B}C1● Cunning Daimyo{1B}C0\nBury your foes with schemes.\n{1B}C3◆ Your Role Models{1B}C0\nMori Motonari, Ukita Naoie, Saito Dosan, Date Masamune, Tsugaru Tamenobu, Ando Chikasue
 @792
-{1B}C1● Weak Daimyo{1B}C0\nEndure, and even you may bloom...\n\n{1B}C3◆ Your Role Models{1B}C0\nMatsumae Yoshihiro, Oda Ujiharu, Yuki Harutomo, Mimura Motochika, Sagara Yoshihi
+{1B}C1● Weak Daimyo{1B}C0\nEndure, and even you may bloom...\n{1B}C3◆ Your Role Models{1B}C0\nMatsumae Yoshihiro, Oda Ujiharu, Yuki Harutomo, Mimura Motochika, Sagara Yoshihi
 @793
-{1B}C1● Noble Daimyo{1B}C0\nRestore the glory of your great house.\n{1B}C3◆ Your Role Models{1B}C0\nAshikaga Yoshiteru, Kitabatake Tomonori, Asakura Yoshikage, Yamana Suketoyo, Ichijo Kanesada, Osaki Yoshitaka
+{1B}C1● Noble Daimyo{1B}C0\nRestore your house's glory.\n{1B}C3◆ Your Role Models{1B}C0\nAshikaga Yoshiteru, Ichijo Kanesada, Kitabatake Tomonori, Osaki Yoshitaka, Asakura Yoshikage, Yamana Suketoyo
 @794
 {1B}C1● Strategist{1B}C0\nBe your lord's right arm on the path of conquest.\n{1B}C3◆ Your Role Models{1B}C0\nTakenaka Hanbee, Naoe Kanetsugu, Yamamoto Kansuke, Usami Sadamitsu, Tsunokuma Sekiso
 @795
@@ -1953,7 +1953,7 @@ Result
 @800
 {1B}C1● Rear Vassal{1B}C0\nServe loyally and your day may come...\n\n{1B}C3◆ Your Role Models{1B}C0\nMurai Nagayori, Menju Katsuteru, Akechi Hidemitsu, Hori Naomasa, Iida Kakubee
 @801
-{1B}C1● Ronin{1B}C0\nEach day a journey, the journey your home...\n\n{1B}C3◆ Your Role Models{1B}C0\nMaeda Keiji, Mishuku Kanbee, Kuki Hirotaka, Goto Matabee, Ban Naoyuki
+{1B}C1● Ronin{1B}C0\nEach day a journey, the road your home...\n{1B}C3◆ Your Role Models{1B}C0\nMaeda Keiji, Mishuku Kanbee, Kuki Hirotaka, Goto Matabee, Ban Naoyuki
 @802
 {1B}C1● Ninja Boss{1B}C0\nLead the ninja and work in the shadows.\n\n{1B}C3◆ Your Role Models{1B}C0\nMomochi Sandayu, Fuma Kotaro, Ideura Morikiyo, Seki Masatoki, Hattori Hanzo
 @803
@@ -1963,19 +1963,19 @@ Result
 @805
 {1B}C1● Swordsman{1B}C0\nDevote your life to the way of the sword.\n{1B}C3◆ Your Role Models{1B}C0\nYagyu Sekishusai, Kamiizumi Nobutsuna, Tsukahara Bokuden, Miyamoto Musashi, Ito Ittosai, Yagyu Toshitoshi
 @806
-{1B}C1● Merchant{1B}C0\nBuild a vast fortune with your flair for trade.\n\n{1B}C3◆ Your Role Models{1B}C0\nImai Sokyu, Yodoya Joan, Kamiya Sotan, Yasui Doton, Suminokura Ryoi
+{1B}C1● Merchant{1B}C0\nBuild a vast fortune by trade.\n{1B}C3◆ Your Role Models{1B}C0\nImai Sokyu, Yodoya Joan, Kamiya Sotan, Yasui Doton, Suminokura Ryoi
 @807
 {1B}C1● Tea Master{1B}C0\nBring calm to a chaotic age with wabi-sabi.\n\n{1B}C3◆ Your Role Models{1B}C0\nSen no Rikyu, Imai Sokyu, Furuta Oribe, Tsuda Sogyu, Oda Urakusai
 @808
 {1B}C1● Physician{1B}C0\nMaster medicine and save the people.\n\n{1B}C3◆ Your Role Models{1B}C0\nManase Dosan, Nagata Tokuhon, Seyakuin Zenso, Otsuki Kagehide
 @809
-{1B}C1● ??{1B}C0\nWalk your own way, answerable to none.\n\n{1B}C3◆ Your Role Models{1B}C0\nKashin Koji, Yasui Doton, Shishido Baiken, Yamada Nagamasa, Ishikawa Goemon
+{1B}C1● ??{1B}C0\nWalk your own way, bowing to none.\n{1B}C3◆ Your Role Models{1B}C0\nKashin Koji, Yasui Doton, Shishido Baiken, Yamada Nagamasa, Ishikawa Goemon
 @810
 {1B}C1● Smith{1B}C0\nMaster your craft and leave your name to posterity.\n\n{1B}C3◆ Your Role Models{1B}C0\nKunitomo Zenbee, Shibatsuji Seiemon, Yaita Kinbee
 @811
-{1B}C1● ??{1B}C0\nWalk your own way, answerable to none.\n\n{1B}C3◆ Your Role Models{1B}C0\nKashin Koji, Yasui Doton, Shishido Baiken, Yamada Nagamasa, Ishikawa Goemon
+{1B}C1● ??{1B}C0\nWalk your own way, bowing to none.\n{1B}C3◆ Your Role Models{1B}C0\nKashin Koji, Yasui Doton, Shishido Baiken, Yamada Nagamasa, Ishikawa Goemon
 @812
-{1B}C1● Taiko{1B}C0\nClimb to the top of the Sengoku world.\n\n{1B}C3◆ Your Role Models{1B}C0\nKinoshita Tokichiro (Toyotomi Hideyoshi)
+{1B}C1● Taiko{1B}C0\nRise to the top of the age.\n{1B}C3◆ Your Role Models{1B}C0\nKinoshita Tokichiro (Toyotomi Hideyoshi)
 @813
 Duel
 @814

@@ -933,13 +933,13 @@ In {02}{15}e, goods like {02}Ge are short,\nand prices may soar.\nI hope the peo
 @350
 Facility Guide
 @351
-Town Facilities
+In Town
 @352
-Castle Town Facilities
+Castle Town
 @353
-Ninja Village Facilities
+Ninja Village
 @354
-Pirate Fort Facilities
+Pirate Fort
 @355
 Travel Screen
 @356

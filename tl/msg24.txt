@@ -1209,7 +1209,7 @@ Missions you can get as Commander.\n※ You can also get Ashigaru Captain to Sam
 @248
 {1B}C1●Diplomacy: Court{1B}C0\nDonate to the court to raise court standing.\n{1B}C3◆How to do it{1B}C0\nVisit a noble's house in Kyoto and ask them to [Put in a Word]. The closer you are to the noble, the better, and the bigger the donation, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\nEtiquette skill, "Court Speech" card
 @249
-Chief Ret.
+Chief Retainer
 @250
 Missions you can get as Chief Retainer.\n※ Commander missions and below too.\n\n{1B}C1●Expand{1B}C0\nRaise the size of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and expand it.\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding, "Trade Network" card
 @251

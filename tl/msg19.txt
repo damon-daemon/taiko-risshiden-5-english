@@ -467,7 +467,7 @@ Life as a Smith
 @233
 {1B}C1●Life as a Smith{1B}C0\nA smith lives for his craft alone. Forge the finest arms to reach an ending.\n\n{1B}C1●Smith's Training{1B}C0\nDoing [Odd Jobs] at a town smithy earns you the many cards a smith needs.\n\n{1B}C1●Opening a Forge{1B}C0\nWith a "... Tradition" card or the "Gunsmithing" card you can [Open Forge] at home, to make arms and mix gunpowder.
 @234
-Info Screens
+About the Info Screens
 @235
 Person Info
 @236
@@ -479,7 +479,7 @@ Other Info
 @239
 Personal
 @240
-Stat
+Abilities
 @241
 Skills
 @242
@@ -535,9 +535,9 @@ Pirate Fort Info
 @267
 {1B}C3◆Sekibune{1B}C0\nSekibune held. [Build Ships] at the shipyard.\n{1B}C3◆Large Ships{1B}C0\nLarge ships held. [Build Large Ship] at the shipyard; needs the skill.\n{1B}C3◆Ironclads{1B}C0\nIronclads held. [Build Ironclad] at the shipyard; needs the skill.
 @268
-Daimyo Info
+Daimyo House Info
 @269
-Merchants
+Merchant House Info
 @270
 Ninja Band Info
 @271
@@ -569,9 +569,9 @@ Pirate Band Info
 @284
 {1B}C1●Diplomacy (daimyo, merchant and ninja){1B}C0\n{1B}C3◆Feeling{1B}C0\nDiplomatic feeling. Longer blue is better, longer red worse.\n{1B}C3◆Relation{1B}C0\nWhether they are your vassals or you theirs.
 @285
-Route Info
+Trade Route Info
 @286
-Title Info
+Court Rank Info
 @287
 School Info
 @288

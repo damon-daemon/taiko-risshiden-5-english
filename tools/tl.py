@@ -84,6 +84,10 @@ ENTRY_BOXES.setdefault(22, []).append((range(0, 458), (310, 5, 'small', 0)))
 STRICT = {**{n: range(200, 1000) for n in range(17, 21)}, 22: range(458, 1000),
           23: {*range(0, 84), *range(424, 1000)}, 24: range(215, 1000),
           25: range(1000), 26: range(1000), 27: range(181)}
+STRICT.update({n: NOT_WINDOW[n] for n in (8, 10, 11)})   # window blocks' help/guide panels
+# Help indexes: their one-line topic headings are items of one list, drawn in a column as wide
+# as its widest item, so a heading may be as wide as the widest one-line Japanese unit there.
+STRICT_COLUMN = {8, 10, 11, 19, 20, 24}
 LINE_BYTES = 120          # layout warning only: msgwindow caps a run at 127 bytes in code
 FULL_PX, HALF_PX = 24, 12  # full-width / half-width (kana) cells in the 24px font
 VAR_PX, VAR_BYTES = 120, 20   # an inserted name or number ({02} print)
@@ -274,6 +278,15 @@ class Box:
                     ws += [measure(l)[0] for l in ls if measure(l)[0] <= FLOW_PX]
         ws.sort()
         self.floor = ws[len(ws) * 3 // 4] if ws else 0
+        self.column = 0
+        if n in STRICT_COLUMN:
+            for r in rows:
+                if r['id'] in STRICT[n]:
+                    toks, spans = msgscript.units(text.encode(r['jp']))
+                    for a, z in spans:
+                        ls = lines_of(toks[a:z])
+                        if len(ls) == 1:
+                            self.column = max(self.column, jp_px(ls[0]))
 
     def limits(self, jp_toks, entry=None):
         """(width px, max lines, lines per page or 0) for a unit."""
@@ -287,6 +300,8 @@ class Box:
             manual = [x for x in jl if x <= FLOW_PX]
             if len(manual) < len(jl):
                 return max([self.floor] + manual) * 20 // 24, 10 ** 6, 0
+            if len(jl) == 1 and self.column:
+                return self.column * 20 // 24, 1, 0
             return max(jl) * 20 // 24, len(jl), 0
         fixed = next((b for r, b in ENTRY_BOXES.get(self.n, ()) if entry in r), None)
         if not fixed and entry not in NOT_WINDOW.get(self.n, ()):
