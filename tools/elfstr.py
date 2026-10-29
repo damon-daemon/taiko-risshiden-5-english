@@ -6,7 +6,11 @@ plus the controller button marks ①②④⑤⑥ of the font). English that fits
 the string's slot (its bytes plus the zero padding up to the next non-zero byte) is
 written in place. Longer English goes into the English data segment and every
 reference is repointed:
-  - 32-bit data words equal to the address (pointer tables, outside the code),
+  - 32-bit data words equal to the address inside a reviewed pointer table
+    (POINTER_TABLES). Any other word with that value is an error until it has been
+    checked: numbers can look like addresses (0x5258C4, an edge of the road graph
+    u16 0 | u16 0x58, equals the address of 兵法書; repointing it broke long-distance
+    travel, issue #7),
   - lui/addiu (or load/store) pairs in the code that build the address, when that lui
     has no other user (else the pair cannot be changed alone: shorten the English).
 A string with no reference found must fit its slot. printf conversions must match.
@@ -23,6 +27,17 @@ TL = os.path.join(ROOT, 'tl', 'elfstr.txt')
 SCRIPT = os.path.join(ROOT, 'script', 'elfstr.json')
 CODE_END = 0x51CF80                 # vaddr where the data starts (file 0x41D000)
 DATA_LO, DATA_HI = 0x51CF80, 0x5B1F80
+# [lo, hi) vaddr ranges of data checked to be pointer tables (string pointers bounded by
+# zeros or other fields); 0x64DBA0 is a single pointer (save data title 太閤立志伝Ｖ)
+POINTER_TABLES = [(0x51D1A0, 0x51D1C8), (0x51EE40, 0x51EF84), (0x5213D8, 0x521418),
+                  (0x521C00, 0x521D58), (0x521FAC, 0x522034), (0x5223A0, 0x5223B0),
+                  (0x5224B0, 0x5224C4), (0x5260C4, 0x5260D4), (0x527FF8, 0x528034),
+                  (0x528DB0, 0x528DB8), (0x52C848, 0x52C858), (0x52D3E0, 0x52D3F0),
+                  (0x54A360, 0x54A3B4), (0x54A4F0, 0x54A510), (0x64DAE0, 0x64DAE8),
+                  (0x64DBA0, 0x64DBA4), (0x64DCE4, 0x64DD98)]
+# words that equal a string address but are numbers: road graph edges 0x525840
+# (6-byte records), a field of the records at 0x57A1F4
+NOT_POINTERS = {0x5258C4, 0x57A224}
 FMT = ui.FMT
 
 def _f(va):
@@ -91,6 +106,9 @@ def data_words(elf):
             out[v].append(va)
     return out
 
+def in_pointer_table(va):
+    return any(lo <= va < hi for lo, hi in POINTER_TABLES)
+
 def slot(elf, va):
     """(Japanese bytes, room) of the string at va: room = bytes up to the next 8-byte
     boundary after its NUL (the compiler's padding; zeros beyond it may be constants),
@@ -130,7 +148,13 @@ def apply(elf, clean_elf, seg):
             o = _f(va)
             elf[o:o + room + 1] = b + bytes(room + 1 - len(b))
             continue
-        code, data = pairs.get(va, []), words.get(va, [])
+        code, data = pairs.get(va, []), [a for a in words.get(va, []) if a not in NOT_POINTERS]
+        unknown = [a for a in data if not in_pointer_table(a)]
+        if unknown:
+            errors.append('elfstr %x: %d bytes, room %d; data words %s equal its address outside '
+                          'POINTER_TABLES: check whether they are pointers (add the table) or '
+                          'numbers (NOT_POINTERS)' % (va, len(b), room, ' '.join('%x' % a for a in unknown)))
+            continue
         if not code and not data:
             errors.append('elfstr %x: %d bytes, room %d and no reference to repoint' % (va, len(b), room))
             continue
