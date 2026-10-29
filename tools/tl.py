@@ -297,9 +297,6 @@ class Box:
             # narrower than that in the 24px font too
             FONT = 'small'
             jl = [jp_px(l) for l in lines_of(jp_toks)]
-            manual = [x for x in jl if x <= FLOW_PX]
-            if len(manual) < len(jl):
-                return max([self.floor] + manual) * 20 // 24, 10 ** 6, 0
             if len(jl) == 1 and self.column:
                 return self.column * 20 // 24, 1, 0
             return max(jl) * 20 // 24, len(jl), 0
@@ -487,6 +484,12 @@ def build_entry(jp, units_en, box, tag, log):
         if strict:
             errs += [w for w in warns if ' px > ' in w]
             warns = [w for w in warns if ' px > ' not in w]
+            FONT = 'large'      # the same lines in the 24px font (spaces don't scale 20/24)
+            for i, l in enumerate(lines):
+                px = measure(l)[0]
+                if px * 20 > width * 24 + 19:
+                    errs.append('line %d is %d px > %d in the 24px font' % (i + 1, px, width * 24 // 20))
+            FONT = 'small'
         if len(lines) > max_lines:
             (errs if strict else warns).append('%d lines > %d%s' % (len(lines), max_lines, ' (%d a page)' % page if page else ''))
         if errs:
@@ -541,8 +544,10 @@ def apply(n, batch=None, check=True):
     # from the first (silent) pass, not as its Japanese
     for r in rows:
         r['en'] = ''
-    first = {e: build_entry(rows[e]['jp'], dict(us), box, 'msg%02d@%d' % (n, e), lambda m, err: None)
-             for e, us in per.items() if e < len(rows)}
+    targets = {target(t[2], t[3])[1] for r in rows for k, t in msgscript.tokens(text.encode(r['jp']))
+               if k == 'inline' and t[:2] == b'\x01C' and len(t) == 4 and target(t[2], t[3])[0] == n}
+    first = {e: build_entry(rows[e]['jp'], dict(per[e]), box, 'msg%02d@%d' % (n, e), lambda m, err: None)
+             for e in targets if e in per and e < len(rows)}
     for e, en in first.items():
         rows[e]['en'] = en
     for e, us in sorted(per.items()):

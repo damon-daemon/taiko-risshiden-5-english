@@ -5,21 +5,7 @@ import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__fil
 import tl, msgscript, text
 
 def jp_px(toks, full):
-    px = 0
-    for kind, t in toks:
-        if kind == 'text':
-            i = 0
-            while i < len(t):
-                c = t[i]
-                if msgscript._sjis_lead(c) and i + 1 < len(t):
-                    px += full; i += 2; continue
-                if 0xA1 <= c <= 0xDD: px += full
-                elif c in (0xDE, 0xDF): pass
-                else: px += full // 2
-                i += 1
-        elif kind == 'inline':
-            px += tl.insert_size(t)[0] * full // 24
-    return px
+    return tl.jp_px(toks) * full // 24
 
 def en_px(toks, font):
     tl.FONT = font
@@ -40,7 +26,7 @@ def main():
       for e in json.load(open(tl.setup.msg_json(n), encoding='utf-8')):
           i = e['id']
           if not e['en'] or verified(n, i): continue
-          jt = msgscript.tokens(text.encode(e['jp'])) if True else None
+          jt = msgscript.tokens(text.encode(e['jp']))
           et = msgscript.tokens(text.encode(e['en']))
           jl = [l for l in tl.lines_of([t for t in jt if t[0] in ('text','inline','nl')])]
           el = [l for l in tl.lines_of([t for t in et if t[0] in ('text','inline','nl')])]

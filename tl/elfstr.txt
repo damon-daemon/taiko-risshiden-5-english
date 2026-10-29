@@ -130,7 +130,7 @@
 57fe60	Genin
 57fe68	Chunin
 57fe70	Jonin
-57fe78	Boss
+57fe78	Sq. Chief
 57fe80	Boss
 57fe88	Sailor
 57fe90	Bosun

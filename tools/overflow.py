@@ -95,6 +95,19 @@ def _tree(toks):
             stack[-1].append(('t', b, kind))
     return root
 
+def _paths(nodes, pre=b''):
+    """-> ([shown text of each way through the message], ends). A taken IF shows the
+    text before it plus its body and ends there; a skipped one goes on after it."""
+    out = []
+    for node in nodes:
+        if node[0] == 'if':
+            out += _paths(node[1], pre)[0]
+        elif node[0] == 'ret':
+            return out + [pre], True
+        else:
+            pre += node[1]
+    return out + [pre], False
+
 class Measure:
     """Longest expansion of TAI5MSG messages; get(block, entry) -> bytes or None."""
 
@@ -230,9 +243,12 @@ def check_messages(get, elf, blocks_count=33, sizes=None):
                 b = get(n, i) if not sizes or i < sizes[n] else None
                 if b is None:
                     continue
-                # IF bodies (05 05 04 ... 05 05 05) are alternatives: the longest counts
-                v = max(sum(panel_lines(part, width, font)[head:])
-                        for part in re.split(rb'\x05\x05[\x04\x05]', b))
+                # each way through the IFs (05 05 04 ... 05 05 05): shared text + one body
+                try:
+                    parts = _paths(_tree(msgscript.tokens(b)))[0]
+                except msgscript.ParseError:
+                    parts = [b]
+                v = max(sum(panel_lines(part, width, font)[head:]) for part in parts)
                 if v > limit:
                     errs.append('msg%02d #%d: %d lines > %d (fixed panel: text past it corrupts memory)'
                                 % (n, i, v, limit))

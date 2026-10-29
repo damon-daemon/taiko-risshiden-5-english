@@ -56,6 +56,14 @@ def load_tl(sites=False):
 
 GP, SETTER = 0x653FF0, 0x340E80
 
+def _writes_a0(w):
+    """Whether an instruction writes a0 (R-type rd, or rt of an immediate op / load)."""
+    op = w >> 26
+    if op == 0:
+        return w >> 11 & 0x1F == 4
+    return (op in range(0x08, 0x10) or op in range(0x18, 0x1A) or op in range(0x20, 0x28)
+            or op in (0x1E, 0x37)) and w >> 16 & 0x1F == 4
+
 def apply_sites(elf, seg):
     """index@site lines: point one gp load of a UI string at a site-specific string."""
     w = lambda va: struct.unpack_from('<I', elf, _f(va))[0]
@@ -66,8 +74,11 @@ def apply_sites(elf, seg):
         rt, src = lw >> 16 & 0x1F, mv >> 21 & 0x1F
         assert mv & 0xFC1FFFFF == 0x0000202D, 'ui %d@%x: no move a0 after the load' % (i, site)
         assert w(site - 8) == 0x0C000000 | SETTER >> 2, 'ui %d@%x: no setter call before' % (i, site)
-        assert any(w(site - 8 - 4 * k) == 0x0000202D | src << 21 for k in range(1, 5)), \
-            'ui %d@%x: a0 not set before the setter call' % (i, site)
+        k = next((k for k in range(1, 5) if w(site - 8 - 4 * k) == 0x0000202D | src << 21), None)
+        assert k, 'ui %d@%x: a0 not set before the setter call' % (i, site)
+        # nothing between that move and the load (the call's delay slot included) changes a0
+        assert not any(_writes_a0(w(a)) for a in range(site - 8 - 4 * k + 4, site, 4)
+                       if a != site - 8), 'ui %d@%x: a0 changed after the move' % (i, site)
         addr = seg.add(text.encode('ascii') + b'\0', 1)
         hi, lo = (addr + 0x8000) >> 16, addr & 0xFFFF
         elf[_f(site):_f(site) + 8] = struct.pack('<2I', 0x3C000000 | rt << 16 | hi,
@@ -76,22 +87,32 @@ def apply_sites(elf, seg):
 def fmts(b):
     return [m.group() for m in FMT.finditer(b)]
 
+def _conv_error(i, jp, en):
+    jf = [f.replace(b'%y', b'%d') for f in fmts(jp)]
+    if [f.replace(b'%y', b'%d') for f in fmts(en)] != jf:
+        return 'ui %d: conversions %s, Japanese has %s' % (i, fmts(en), fmts(jp))
+
 def apply(elf, seg):
     tl = load_tl()
     errors, n = [], 0
-    for i, p, jp in strings(elf):
-        if i not in tl or not p:
+    jps = {i: jp for i, p, jp in strings(elf) if p}
+    for i, jp in jps.items():
+        if i not in tl:
             continue
         en = tl[i].encode('ascii')
-        jf = [f.replace(b'%y', b'%d') for f in fmts(jp)]
-        if [f.replace(b'%y', b'%d') for f in fmts(en)] != jf:
-            errors.append('ui %d: conversions %s, Japanese has %s' % (i, fmts(en), fmts(jp)))
+        e = _conv_error(i, jp, en)
+        if e:
+            errors.append(e)
             continue
         addr = seg.add(en + b'\0', 1)
         elf[_f(TABLE + 4 * i):_f(TABLE + 4 * i) + 4] = struct.pack('<I', addr)
         n += 1
     import overflow                 # buffer limits of the copies that receive these strings
     errors += overflow.check_ui(tl)
+    for (i, site), text in sorted(load_tl(sites=True).items()):   # site strings: same checks
+        e = _conv_error(i, jps.get(i, b''), text.encode('ascii'))
+        errors += ['%s (site %x)' % (e, site)] if e else []
+        errors += ['%s (site %x)' % (x, site) for x in overflow.check_ui({i: text})]
     if errors:
         raise ValueError('\n'.join(errors))
     apply_sites(elf, seg)
