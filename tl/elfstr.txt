@@ -41,6 +41,8 @@
 5460f8	Return to Base
 546108	Choose Target
 546118	Army Info
+546648	Snow
+546650	Rain
 546658	Barrel
 546660	Fuse
 5466a0	No more troops can be added.
@@ -76,7 +78,14 @@
 54a488	Ninja
 54a490	Pirate
 54a4a8	Highland
+54a4b0	Sea
+54a4b8	Mountain
+54a4c0	Forest
 54a4c8	Plains
+54a4d0	Bridge
+54a4d8	Road
+54a4e0	River
+54a520	Castle
 54a528	 Combat
 54a538	--
 54a548	Troops
@@ -122,6 +131,7 @@
 57fe68	Chunin
 57fe70	Jonin
 57fe78	Boss
+57fe80	Boss
 57fe88	Sailor
 57fe90	Bosun
 57fe98	Skipper
@@ -148,10 +158,14 @@
 57ff40	Servant
 57ff48	Page
 57ff50	Ninja
+57ff58	Girl
+57ff60	Bandit
 57ff78	Sword
+57ff80	Spear
 57ff88	Kunai
 57ff90	Chain-Sickle
 57ff98	Matchlock
+57ffa0	Bow
 57ffa8	Armour
 57ffb0	Fine Horse
 57ffb8	Scroll
@@ -178,6 +192,7 @@
 580070	Cold Remedy
 580078	Tonic
 580080	Panacea
+580088	Poison
 580fa0	Mini-Games
 5810d0	Sound Output
 5810e0	Vibration
@@ -491,6 +506,7 @@
 59fe18	%8s  -%5d kan
 59fe28	- %4d kan
 59fe30	 %4d kan
+59ff98	Province
 59ffa0	Region
 59ffa8	Power
 59ffb0	Take Region
@@ -595,12 +611,15 @@
 5abb30	Job
 5abb38	Budget
 5abb68	Choose Job
+5abb78	60 days
+5abb80	20 days
 5abbc8	Choose Office
 5acbf0	%d-%d%s
 5acf08	Last Sword Shogun
 5acf18	Farewell, Father
 5acf28	End of Yoshitaka
 5acf38	Mitsuhide Beaten
+5acf48	?
 5acf60	⑥Select ②Back ①Zoom
 5acf78	Trade's Glory
 5acf90	⑤Select ②Back ①OK

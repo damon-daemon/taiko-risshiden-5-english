@@ -799,6 +799,7 @@
 798	Horses
 799	Cannon
 800	Trade Area
+800@334d88	Area
 801	Investment
 802	Sekibune
 803	Large Ships
@@ -974,6 +975,7 @@
 973	%s  Qty: %y
 974	Ruling Power
 975	Merchant Chief
+975@334e50	Chief
 976	Leading Daimyo
 977	Stay as you are
 978	Follow %s

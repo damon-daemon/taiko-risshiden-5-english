@@ -329,8 +329,9 @@ UI_LIMITS = {i: (8, 'temporary speaker name part, 9-byte record field (0x302140)
 UI_FORMATS = {482: (47, TOWN_ROOM, 'sprintf into a 48-byte stack buffer (0x3C2294)'),
               483: (47, TOWN_ROOM, 'sprintf into a 48-byte stack buffer (0x3C22AC)')}
 # elfstr: strcpy(16-byte buffer, terrain) + strcat(" Combat") at 0x254678
-ELFSTR_PAIRS = [((0x54A4A8, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)'),
-                ((0x54A4C8, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)')]
+# terrain name (table 0x54A4F0, or ' 城' 0x54A520) + ' Combat' (0x54A528)
+ELFSTR_PAIRS = [((va, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)')
+                for va in (0x54A4A8, 0x54A4B0, 0x54A4B8, 0x54A4C0, 0x54A4C8, 0x54A4D0, 0x54A4D8, 0x54A4E0, 0x54A520)]
 # record tables (elftables.py): bytes of an English name
 TABLE_LIMITS = {'techniques': (15, 'technique rename: strcpy into 16-byte stack buffers (0x32B488)')}
 PRINT_BUF = 63           # {02} prints go to a 64-byte stack buffer (0x347CAC)
