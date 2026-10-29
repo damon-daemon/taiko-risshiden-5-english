@@ -6,7 +6,10 @@ plus the controller button marks ①②④⑤⑥ of the font). English that fits
 the string's slot (its bytes plus the zero padding up to the next non-zero byte) is
 written in place. Longer English goes into the English data segment and every
 reference is repointed:
-  - 32-bit data words equal to the address (pointer tables, outside the code),
+  - 32-bit data words equal to the address in a pointer table (a neighbouring word
+    also points into the data) or listed in LONE_POINTERS: a lone word with that value
+    can be numbers (0x5258C4 is an edge of the road graph, u16 0 | u16 0x58, and equals
+    the address of 兵法書; repointing it broke long-distance travel, issue #7),
   - lui/addiu (or load/store) pairs in the code that build the address, when that lui
     has no other user (else the pair cannot be changed alone: shorten the English).
 A string with no reference found must fit its slot. printf conversions must match.
@@ -23,6 +26,7 @@ TL = os.path.join(ROOT, 'tl', 'elfstr.txt')
 SCRIPT = os.path.join(ROOT, 'script', 'elfstr.json')
 CODE_END = 0x51CF80                 # vaddr where the data starts (file 0x41D000)
 DATA_LO, DATA_HI = 0x51CF80, 0x5B1F80
+LONE_POINTERS = {0x64DBA0}          # verified single pointers (save data title 太閤立志伝Ｖ)
 FMT = ui.FMT
 
 def _f(va):
@@ -82,13 +86,14 @@ def code_pairs(elf):
     return pairs, users
 
 def data_words(elf):
-    """{value: [vaddr]} of the aligned words of the data (pointer candidates)."""
+    """{value: [vaddr]} of the aligned words of the data that are pointers: in a table
+    (a neighbouring word points into the data too) or in LONE_POINTERS."""
     out = collections.defaultdict(list)
     end = elfseg.VBASE + struct.unpack_from('<I', elf, struct.unpack_from('<I', elf, 0x1C)[0] + 16)[0]
+    ptr = lambda va: CODE_END <= va < end - 3 and DATA_LO <= _w(elf, va) < DATA_HI
     for va in range(CODE_END, end - 3, 4):
-        v = _w(elf, va)
-        if DATA_LO <= v < DATA_HI:
-            out[v].append(va)
+        if ptr(va) and (ptr(va - 4) or ptr(va + 4) or va in LONE_POINTERS):
+            out[_w(elf, va)].append(va)
     return out
 
 def slot(elf, va):
