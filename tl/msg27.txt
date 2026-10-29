@@ -55,7 +55,7 @@ Right now we are behind in numbers.\n{02}{15}n's defense is not high,\nbut I bel
 @9
 Right now we are ahead in numbers.\nOnly the main keep remains, so shall we\nask for reinforcements and scatter them\nin a field battle?
 @9.1
-Right now we are ahead in numbers.\nOnly the main keep remains, so shall we\nask for reinforcements and scatter them\nin a field battle?
+We're ahead in numbers and only the main keep remains. Shall we get reinforcements and rout them in the field?
 @9.2
 Right now we are ahead in numbers.\nOnly the main keep remains, so shall we\nask for reinforcements and scatter them\nin a field battle?
 @10
@@ -121,7 +121,7 @@ Right now we are ahead in numbers.\nBut our defense is not high, so\nI believe w
 @20
 Right now we vastly outnumber the defenders.\nOnly the main keep remains and they have\nfew troops, so we need no clever tricks.\nLet us crush them in one go.
 @20.1
-Right now we vastly outnumber the defenders.\nOnly the main keep remains and they have\nfew troops, so we need no clever tricks.\nLet's crush them in one go.
+We vastly outnumber the defenders now. Only the keep remains and they're few: no tricks needed. Crush them in one go.
 @20.2
 Right now we vastly outnumber the defenders.\nOnly the main keep remains and they have\nfew troops, so we need no clever tricks.\nLet us crush them in one go.
 @21
@@ -231,7 +231,7 @@ Right now we are hopelessly outnumbered.\nOur defense is not high and we have\nf
 @39
 Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso the outcome is still uncertain.\nShall we ask for reinforcements\nto strengthen our forces?
 @39.1
-Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso the outcome is still uncertain.\nShall we ask for reinforcements\nto strengthen our forces?
+We have the upper hand in numbers now. Only the main keep remains, but {02}{15}n's defense is high, so the outcome is uncertain. Shall we ask for reinforcements?
 @39.2
 Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high,\nso the outcome is still uncertain.\nShall we ask for reinforcements\nto strengthen our forces?
 @40
@@ -243,7 +243,7 @@ Right now we have the upper hand in numbers.\nOnly the main keep remains, but {0
 @41
 Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso the outcome is still uncertain.\nShall we ask for reinforcements\nto strengthen our forces?
 @41.1
-Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low,\nso the outcome is still uncertain.\nShall we ask for reinforcements\nto strengthen our forces?
+We have the upper hand in numbers now. Only the main keep remains, but {02}{15}n's defense isn't low, so the outcome is uncertain. Shall we ask for reinforcements?
 @41.2
 Right now we have the upper hand in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low,\nso the outcome is still uncertain.\nShall we ask for reinforcements\nto strengthen our forces?
 @42
@@ -269,7 +269,7 @@ Right now we have the upper hand in numbers.\nOnly the main keep remains, but th
 @46
 Right now we have the upper hand in numbers.\nThe defenders are few, but we are not\nmany either, and {02}{15}n's defense is high.\nI believe we should ask for reinforcements\nto strengthen our forces.
 @46.1
-Right now we have the upper hand in numbers.\nThe defenders are few, but we aren't\nmany either, and {02}{15}n's defense is high.\nI think we should ask for reinforcements\nto strengthen our forces.
+We have the upper hand in numbers. The defenders are few, but so are we, and {02}{15}n's defense is high. We should ask for reinforcements.
 @46.2
 Right now we have the upper hand in numbers.\nThe defenders are few, but we are not\nmany either, and {02}{15}n's defense is high.\nI believe we should ask for reinforcements\nto strengthen our forces.
 @47
@@ -281,7 +281,7 @@ Right now we have the upper hand in numbers.\nThe defenders are few, but we are 
 @48
 Right now we have the upper hand in numbers.\nThe defenders are few, but we are not\nmany either, and {02}{15}n's defense is not low.\nI believe we should ask for reinforcements\nto strengthen our forces.
 @48.1
-Right now we have the upper hand in numbers.\nThe defenders are few, but we aren't\nmany either, and {02}{15}n's defense isn't low.\nI think we should ask for reinforcements\nto strengthen our forces.
+We have the upper hand in numbers. The defenders are few, but so are we, and {02}{15}n's defense isn't low. We should ask for reinforcements.
 @48.2
 Right now we have the upper hand in numbers.\nThe defenders are few, but we are not\nmany either, and {02}{15}n's defense is not low.\nI believe we should ask for reinforcements\nto strengthen our forces.
 @49
@@ -385,11 +385,11 @@ Right now we are outnumbered.\nOur defense isn't high and we have\nfew troops, a
 @66.2
 Right now we are outnumbered.\nOur defense is not high and we have\nfew troops, and we are in great danger.\nI expect a hard fight.
 @67
-Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and we\nhave few troops ourselves.\nThere is no guarantee we can take it\nwith the troops we have.\nI believe we should ask for reinforcements\nto strengthen our forces.
+We are slightly ahead in numbers. Only the main keep remains, but {02}{15}n's defense is high and we have few troops ourselves. We may not take it as we are. I believe we should ask for reinforcements.
 @67.1
-Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and we\nhave few troops ourselves.\nThere's no guarantee we can take it\nwith the troops we have.\nI think we should ask for reinforcements\nto strengthen our forces.
+We're slightly ahead in numbers. Only the main keep remains, but {02}{15}n's defense is high and we have few troops. We may not take it as we are. We should ask for reinforcements.
 @67.2
-Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and we\nhave few troops ourselves.\nThere is no guarantee we can take it\nwith the troops we have.\nI believe we should ask for reinforcements\nto strengthen our forces.
+We are slightly ahead in numbers. Only the main keep remains, but {02}{15}n's defense is high and we have few troops ourselves. We may not take it as we are. I believe we should ask for reinforcements.
 @68
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is high and we\nhave few troops ourselves.\nTaking it like this may be difficult.
 @68.1
@@ -399,7 +399,7 @@ Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02
 @69
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low and we\nhave few troops ourselves.\nThere is no guarantee we can take it\nwith the troops we have.\nI believe we should ask for reinforcements\nto strengthen our forces.
 @69.1
-Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense isn't low and we\nhave few troops ourselves.\nThere's no guarantee we can take it\nwith the troops we have.\nI think we should ask for reinforcements\nto strengthen our forces.
+We're slightly ahead in numbers. Only the main keep remains, but {02}{15}n's defense isn't low and we have few troops. We may not take it as we are. We should ask for reinforcements.
 @69.2
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02}{15}n's\ndefense is not low and we\nhave few troops ourselves.\nThere is no guarantee we can take it\nwith the troops we have.\nI believe we should ask for reinforcements\nto strengthen our forces.
 @70
@@ -411,13 +411,13 @@ Right now we are slightly ahead in numbers.\nOnly the main keep remains, but {02
 @71
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but we have\nfew troops ourselves.\nShall we ask for reinforcements\nto strengthen our forces?
 @71.1
-Right now we are slightly ahead in numbers.\nOnly the main keep remains, but we have\nfew troops ourselves.\nShall we ask for reinforcements\nto strengthen our forces?
+We're slightly ahead in numbers. Only the main keep remains, but we have few troops. Shall we ask for reinforcements?
 @71.2
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but we have\nfew troops ourselves.\nShall we ask for reinforcements\nto strengthen our forces?
 @72
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but we have\nfew troops ourselves, so the outcome\nis still uncertain.
 @72.1
-Right now we are slightly ahead in numbers.\nOnly the main keep remains, but we have\nfew troops ourselves, so the outcome\nis still uncertain.
+We're slightly ahead in numbers. Only the main keep remains, but we have few troops, so it's uncertain.
 @72.2
 Right now we are slightly ahead in numbers.\nOnly the main keep remains, but we have\nfew troops ourselves, so the outcome\nis still uncertain.
 @73.*
@@ -453,11 +453,11 @@ Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't very high
 @78.2
 Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut with our present troops it may be\na hard fight.\nShall we ask for reinforcements?
 @79
-Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut with our present troops it may be\na hard fight.
+We are slightly ahead in numbers, and {02}{15}n's defense is not very high, but with our troops it may be a hard fight.
 @79.1
-Right now we are slightly ahead in numbers.\n{02}{15}n's defense isn't very high either,\nbut with our present troops it may be\na hard fight.
+We're slightly ahead in numbers, and {02}{15}n's defense isn't very high, but with our troops it may be a hard fight.
 @79.2
-Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not very high either,\nbut with our present troops it may be\na hard fight.
+We are slightly ahead in numbers, and {02}{15}n's defense is not very high, but with our troops it may be a hard fight.
 @80
 Right now we are slightly ahead in numbers.\n{02}{15}n's defense is not high either,\nbut with our present troops it may be\na hard fight.\nShall we ask for reinforcements?
 @80.1
@@ -563,7 +563,7 @@ Right now we are behind in numbers.\nI believe we should urgently ask for\nreinf
 @97
 Right now we are behind in numbers.\nI believe we should urgently ask for\nreinforcements.
 @97.1
-Right now we are behind in numbers.\nI think we should urgently ask for\nreinforcements.
+We're behind in numbers now.\nWe must ask for reinforcements.
 @97.2
 Right now we are behind in numbers.\nI believe we should urgently ask for\nreinforcements.
 @98
@@ -617,11 +617,11 @@ The battle is going overwhelmingly\nin our favour.\nIf we negotiate now, we can 
 @106.2
 The battle is going overwhelmingly\nin our favour.\nIf we negotiate now, we can easily\ngain {02}{15}n.
 @107
-The battle is going overwhelmingly\nin our favour.
+The battle is going\nhugely in our favour.
 @107.1
-The battle is going overwhelmingly\nin our favour.
+The battle is going\nhugely in our favour.
 @107.2
-The battle is going overwhelmingly\nin our favour.
+The battle is going\nhugely in our favour.
 @108.*
 The battle is going well in our favour.\nEven by negotiation, I believe\nwe can gain {02}{15}n.
 @109
@@ -697,11 +697,11 @@ The battle is going overwhelmingly\nagainst us.\nTo end the fighting by negotiat
 @122.2
 The battle is going overwhelmingly\nagainst us.\nTo end the fighting by negotiation,\nwe will have to hand over {02}{15}n.
 @123
-The battle is going overwhelmingly\nagainst us.
+The battle is going\nhugely against us.
 @123.1
-The battle is going overwhelmingly\nagainst us.
+The battle is going\nhugely against us.
 @123.2
-The battle is going overwhelmingly\nagainst us.
+The battle is going\nhugely against us.
 @124
 The battle is going badly against us.\nMaking peace without giving up {02}{15}n\nwill be very difficult.
 @124.1
@@ -801,7 +801,7 @@ We have dealt {02}yd heavy damage.\nLet us keep this up and take it.
 @140
 {02}yd has taken heavy damage.\nLet us defend it firmly.
 @140.1
-{02}yd has taken heavy damage.\nLet's defend it firmly.
+{02}yd is badly hit. Hold it firm.
 @140.2
 {02}yd has taken heavy damage.\nLet us defend it firmly.
 @141
@@ -813,31 +813,31 @@ We have dealt {02}yd heavy damage.\nLet us keep this up and take it.
 @142
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or pull back to the siege lines and wait.
 @142.1
-{01}C1{00}, your unit's morale seems low.\nI think you should use a morale-raising\nskill, or pull back to the siege lines and wait.
+{01}C1{00}, your unit's morale is low. Use a morale skill, or pull back to the siege lines and wait.
 @142.2
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or pull back to the siege lines and wait.
 @143
 Our unit's morale seems low.\nMay we pull back to the siege lines and wait?
 @143.1
-Our unit's morale seems low.\nMay we pull back to the siege lines and wait?
+Our unit's morale is low. May we pull back to the siege lines?
 @143.2
 Our unit's morale seems low.\nMay we pull back to the siege lines and wait?
 @144
 {02}yd's morale seems low.\nI believe it should pull back to\nthe siege lines and wait.
 @144.1
-{02}yd's morale seems low.\nI think it should pull back to\nthe siege lines and wait.
+{02}yd's morale is low. It should pull back to the siege lines.
 @144.2
 {02}yd's morale seems low.\nI believe it should pull back to\nthe siege lines and wait.
 @145
 {01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe siege lines and wait.
 @145.1
-{01}C8{00}'s unit's morale seems low.\nI think they should pull back to\nthe siege lines and wait.
+{01}C8{00}'s morale is low. Pull back to the siege lines.
 @145.2
 {01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe siege lines and wait.
 @146
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or wait.
 @146.1
-{01}C1{00}, your unit's morale seems low.\nI think you should use a morale-raising\nskill, or wait.
+{01}C1{00}, your unit's morale is low. Use a morale skill, or wait.
 @146.2
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or wait.
 @147
@@ -867,19 +867,19 @@ Our unit's morale seems low.\nMay we stand by and wait?
 @151
 Our unit's morale seems low.\nMay we pull back to the main keep and wait?
 @151.1
-Our unit's morale seems low.\nMay we pull back to the main keep and wait?
+Our unit's morale is low. May we pull back to the main keep?
 @151.2
 Our unit's morale seems low.\nMay we pull back to the main keep and wait?
 @152
 {02}yd's morale seems low.\nI believe it should pull back to\nthe main keep and wait.
 @152.1
-{02}yd's morale seems low.\nI think it should pull back to\nthe main keep and wait.
+{02}yd's morale is low. It should pull back to the main keep.
 @152.2
 {02}yd's morale seems low.\nI believe it should pull back to\nthe main keep and wait.
 @153
 {01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe main keep and wait.
 @153.1
-{01}C8{00}'s unit's morale seems low.\nI think they should pull back to\nthe main keep and wait.
+{01}C8{00}'s morale is low. Pull back to the main keep.
 @153.2
 {01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe main keep and wait.
 @154
@@ -913,11 +913,11 @@ Our army's morale is falling.
 @158.2
 Our army's morale is falling.
 @159
-Our army's morale is enough\nto keep fighting.
+Our army's morale will hold.
 @159.1
-Our army's morale is enough\nto keep fighting.
+Our army's morale will hold.
 @159.2
-Our army's morale is enough\nto keep fighting.
+Our army's morale will hold.
 @160
 Our army's morale is high.
 @160.1
@@ -933,7 +933,7 @@ Our army can attack the rear gate.\nShall we take the castle from the rear?
 @162
 {02}yd is the only gate we can attack.\nLet us concentrate our attack there.
 @162.1
-{02}yd is the only gate we can attack.\nLet's concentrate our attack there.
+{02}yd is the only gate we can attack. Focus there.
 @162.2
 {02}yd is the only gate we can attack.\nLet us concentrate our attack there.
 @163
@@ -971,17 +971,17 @@ Choose the craftsman to commission.
 @173
 Enter the cost of making it.\nAt least {02}o{C8} is needed.
 @174
-{02}{7B}d will make {02}yd's\n{02}zd for 100 kan in 30 days.\nIs that all right?
+{02}{7B}d makes {02}yd's {02}zd: 100 kan, 30 days. All right?
 @175
 Stopped. The {02}yd\nbeing made was lost.
 @176
 If you stop making it, the {02}yd\nnow being made will be lost.\nReally stop?
 @177
-{01}C*j{01}C+jPrice {02}q{C8}: the {02}yd is finished.
+{01}C*j{01}C+j{02}yd done. Price {02}q{C8}
 @178
-Value {02}od,
+Val {02}od,
 @179
-Charm +{02}pd,\n
+Charm+{02}pd,\n
 @180
 Named it {02}yd.
 @181

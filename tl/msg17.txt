@@ -401,7 +401,7 @@
 @200
 Mini-Games
 @201
-Haggling
+Deal
 @202
 {1B}C1●Rules{1B}C0\nUse the roulette to haggle over prices and the like. When haggling begins, the reels start spinning. Stop them from left to right: if two or more symbols match on the middle row, or at least one jackpot symbol appears, you succeed.\n\n{1B}C3◆Controls{1B}C0\nEach press of ① stops the next reel from the left.
 @203
@@ -431,25 +431,25 @@ Joinery
 @215
 {1B}C3◆Start with the sure ones{1B}C0\nLeave gaps with several candidates till later. Fill first the gaps where only one timber fits! As timbers run out, the other gaps become easy to fill.\n\n{1B}C1●Abilities and skills{1B}C0\nHigher Politics and Intellect give more time. Higher Building skill gives more timbers to fit, for bigger results.
 @216
-Quick Count
+Tally
 @217
 {1B}C1●Rules{1B}C0\nJudge whether the numbers on your cards or on your rival's add up to more. A right answer in time costs your rival points; no answer or a wrong one costs you. Win by bringing your rival to 0, or by having more points when all questions are done.\n\n{1B}C3◆Controls{1B}C0\nPress ① if yours add up to more,\n④ if your rival's do,\n③ if the totals are the same.
 @218
 {1B}C3◆Calm counting{1B}C0\nNo answer in time: -2 points. A wrong answer: -3 points. If you really can't tell, passing may be better than guessing.\n\n{1B}C1●Abilities and skills{1B}C0\nHigher Intellect and Charm give more time. Higher Speech skill makes the questions harder.
 @219
-Face Search
+Find Face
 @220
 {1B}C1●Rules{1B}C0\nFind the person shown on the scroll. The scroll opens slowly, revealing the face from the bottom up. Find the same person within the time limit; depending on your speed you get "◎", "○" or "×". The more "◎", the better the result.\n\n{1B}C3◆Controls{1B}C0\nChoose a face with ⑤ and confirm with ①.
 @221
 {1B}C3◆Watch the clothes!{1B}C0\nThe scroll opens from the bottom, so the clothes are the key. Don't be fooled by faces: compare colour, shape and direction of the clothes to find the person quickly.\n\n{1B}C1●Abilities and skills{1B}C0\nHigher Valor and Intellect give more time. Higher Ninjutsu skill adds more candidates, making it harder but the result bigger.
 @222
-Tea Ware Order
+Tea Ware
 @223
 {1B}C1●Rules{1B}C0\nLine up the tea ware in the order shown. For a moment you see the ware in the boxes; once hidden, line it up in the same order. Accuracy decides "◎", "○", "△" or "×". The more "◎", the better the result.\n\n{1B}C3◆Controls{1B}C0\nMove the cursor with ⑦ and place a piece with ①. Pieces go in from the left; ② steps back one.
 @224
 {1B}C3◆Remember by colour{1B}C0\nJust staring won't do. There are six colours: blue, yellow, black, white, brown and green. Call them B, Y, K, W, N, G and say the order as a word:\nyellow-black-white-brown = "YKWN",\nblue-yellow-blue-white = "BYBW", and so on.\n\n{1B}C1●Abilities and skills{1B}C0\nHigher Charm shows the boxes longer. Higher Tea skill adds more boxes.
 @225
-Medicine Mixing
+Mixing
 @226
 {1B}C1●Rules{1B}C0\nScoop herbs with ladles to mix medicine. The large, medium and small ladles hold different amounts. Scoop from the left, then pour just the amount needed into the bowl on the right. You can also pour from ladle to ladle. The more doses you complete, the better the result.\n\n{1B}C3◆Controls{1B}C0\nMove the cursor with ⑤. Press ① on the left jar to scoop, and ① on the bowl or another ladle to pour.
 @227
@@ -457,19 +457,19 @@ Medicine Mixing
 @228
 {1B}C1●Abilities and skills{1B}C0\nHigher Intellect and Charm give more time. Higher Medicine skill adds more herbs and more doses to mix.
 @229
-Square Breaker
+Square Break
 @230
 {1B}C1●Rules{1B}C0\nClear tiles by pairing them. Choose two tiles of the same colour and number that meet the conditions, and they vanish; tiles above fall into the gap. The more tiles you clear in time, the better the result.\n\n{1B}C3◆Controls{1B}C0\nMove the cursor with ⑤ and pick two tiles with ①.
 @231
 {1B}C3◆When tiles clear{1B}C0\nTwo tiles of the same colour and number clear only if:\n1. they are next to each other, or\n2. they can be joined through empty spaces\n    with one or two turns.\n\n{1B}C3◆Abilities and skills{1B}C0\nHigher Leadership and Intellect give more time and fewer tile types. Higher Tactics skill gives less time and more tile types.
 @232
-Gun Target
+Gun Range
 @233
 {1B}C1●Rules{1B}C0\nShoot the targets with a gun. Set the angle, aim at targets flying up from below and time your shot. Bullets pass through, so one shot can hit several. The more hits within the shots allowed, the better the result.\n\n{1B}C3◆Controls{1B}C0\nSet the angle with ⑥ and fire with ①.
 @234
 {1B}C3◆Two or more with one shot!{1B}C0\nThe four targets each fly up at set intervals. When two or more line up with your angle, fire!\n\n{1B}C1●Abilities and skills{1B}C0\nHigher Leadership and Valor make the targets bigger. Higher Gunnery skill gives more shots.
 @235
-Bow Target
+Archery
 @236
 {1B}C1●Rules{1B}C0\nShoot arrows at the targets. Set the angle and the draw, aim and shoot. Arrows pass through, so one can hit several. The more hits within the shots allowed, the better the result.\n\n{1B}C3◆Controls{1B}C0\nSet the angle with ⑥ and the draw with ⑦. Shoot with ①.
 @237
@@ -567,11 +567,11 @@ Help
 @335
 OK
 @336
-Release
+Undo
 @346
 Help
 @349
-Rival's more
+Rival more
 @350
 Same
 @351
@@ -599,7 +599,7 @@ Clear all
 @383
 OK
 @384
-Correct
+Fix
 @389
 Cursor
 @390
@@ -615,7 +615,7 @@ Empty ladles
 @399
 OK
 @400
-Drop ladle
+Drop
 @405
 Cursor
 @406
@@ -667,7 +667,7 @@ Clear all
 @463
 OK
 @464
-Correct
+Fix
 @469
 Cursor
 @470

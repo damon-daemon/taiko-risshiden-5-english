@@ -1143,17 +1143,17 @@ Threw away {02}od {02}3g.
 @215
 Doing Missions
 @216
-Samurai Missions
+Samurai
 @217
-Ninja Missions
+Ninja
 @218
-Pirate Missions
+Pirate
 @219
-Merchant Missions
+Merchant
 @220
-Ashigaru Captain Missions
+Ashigaru Captain
 @221
-Missions you can get as Ashigaru Captain.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+Missions you can get as Ashigaru Captain.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nTrain under a teacher of the skill. More gain, better rating. Where:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort grounds, Medicine: doctors\n  Martial Arts: dojos, Ninjutsu: village grounds, Farming: Nanban temples\n  Accounting: merchants, Etiquette: temples, Tea: tea masters
 @222
 {1B}C1●Sell Rice{1B}C0\nSell the rice you're given at a better price.\n{1B}C3◆How to do it{1B}C0\nSell it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so buying low and selling high again and again raises your results; sell where rice is dear.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @223
@@ -1167,7 +1167,7 @@ Missions you can get as Ashigaru Captain.\n\n{1B}C1●Training{1B}C0\nTrain to r
 @227
 {1B}C1●Talent Search{1B}C0\nFind ronin you haven't met yet.\n{1B}C3◆How to do it{1B}C0\nVisit common homes and the like in towns to find ronin you don't know. The more you find, the better the rating.
 @228
-Ashigaru General Missions
+Ashigaru General
 @229
 Missions you can get as Ashigaru General.\n※ You can also get Ashigaru Captain missions.\n\n{1B}C1●Raise Funds{1B}C0\nIncrease the money you're given.\n{1B}C3◆How to do it{1B}C0\nUse it as capital, trading goods at town guilds and the like, to make more.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @230
@@ -1175,7 +1175,7 @@ Missions you can get as Ashigaru General.\n※ You can also get Ashigaru Captain
 @231
 {1B}C1●Scout Base{1B}C0\nSneak into the base named for information.\n{1B}C3◆How to do it{1B}C0\nSneak into its drill ground and learn its strength and supplies.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, "Silent Step" card
 @232
-Samurai General Missions
+Samurai General
 @233
 Missions you can get as Samurai General.\n※ Ashigaru Captain/General missions too.\n\n{1B}C1●Keep Order{1B}C0\nRaise public order in the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and work on public order.\n{1B}C3◆Useful skills etc.{1B}C0\nCharm; Speech to preach, Martial Arts vs. bandits
 @234
@@ -1187,7 +1187,7 @@ Missions you can get as Samurai General.\n※ Ashigaru Captain/General missions 
 @237
 {1B}C1●Arson{1B}C0\nReduce the supplies held by the base named.\n{1B}C3◆How to do it{1B}C0\nGo to the base and set fires. The result depends on the mini-game "Sabotage".\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Fire Setting" card
 @238
-Commander Missions
+Commander
 @239
 Missions you can get as Commander.\n※ You can also get Ashigaru Captain to Samurai General missions.\n\n{1B}C1●New Fields{1B}C0\nRaise the yield of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and develop new fields. The result depends on the mini-game "Irrigation".\n{1B}C3◆Useful skills etc.{1B}C0\nFarming skill, "Better Tools" card
 @240
@@ -1209,13 +1209,13 @@ Missions you can get as Commander.\n※ You can also get Ashigaru Captain to Sam
 @248
 {1B}C1●Diplomacy: Court{1B}C0\nDonate to the court to raise court standing.\n{1B}C3◆How to do it{1B}C0\nVisit a noble's house in Kyoto and ask them to [Put in a Word]. The closer you are to the noble, the better, and the bigger the donation, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\nEtiquette skill, "Court Speech" card
 @249
-Chief Retainer Missions
+Chief Retainer
 @250
 Missions you can get as Chief Retainer.\n※ Commander missions and below too.\n\n{1B}C1●Expand{1B}C0\nRaise the size of the castle named.\n{1B}C3◆How to do it{1B}C0\nGo to the castle and expand it.\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding, "Trade Network" card
 @251
 {1B}C1●Recruit{1B}C0\nRecruit a ronin as a direct retainer.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
 @252
-Castle and Province Lord Missions
+Castle/Prov. Lord
 @253
 Missions you can get as castle or province lord from the daimyo.\n\n{1B}C1●Take Base{1B}C0\nCapture the base named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target base.\n\n{1B}C1●Take Province{1B}C0\nCapture every castle in the province named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at castles in the target province.
 @254
@@ -1223,9 +1223,9 @@ Missions you can get as castle or province lord from the daimyo.\n\n{1B}C1●Tak
 @255
 {1B}C1●Develop Town{1B}C0\nDevelop your own castle.\n{1B}C3◆How to do it{1B}C0\nIn the council chamber, give your officers domestic missions (Keep Order, New Fields, Mine Work), or do [Domestic] work in town yourself.\n\n{1B}C1●Build Up Army{1B}C0\nBuild up your own castle's forces.\nIn the council chamber, give your officers military missions (Conscript, Drill, Repair, Expand, Buy Horses, Buy Guns, Buy Cannon), or build up yourself.
 @256
-Genin Missions
+Genin
 @257
-Missions you can get as Genin.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+Missions you can get as Genin.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nTrain under a teacher of the skill. More gain, better rating. Where:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort grounds, Medicine: doctors\n  Martial Arts: dojos, Ninjutsu: village grounds, Farming: Nanban temples\n  Accounting: merchants, Etiquette: temples, Tea: tea masters
 @258
 {1B}C1●Buy Rice{1B}C0\nBuy as much rice as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so selling high and buying low again and again raises your results; buy where rice is cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @259
@@ -1251,7 +1251,7 @@ Missions you can get as Genin.\n\n{1B}C1●Training{1B}C0\nTrain to raise the he
 @269
 {1B}C1●Spy on Strategy{1B}C0\nLearn the strategy of the power named.\n{1B}C3◆How to do it{1B}C0\nVisit the base named and lie in hiding. Overhear the head's strategy and the mission is done.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu skill, "Silent Step" card
 @270
-Chunin Missions
+Chunin
 @271
 Missions you can get as Chunin.\n※ You may also be given Genin missions.\n\n{1B}C1●Steal Rice{1B}C0\nSteal rice from a rice shop.\n{1B}C3◆How to do it{1B}C0\nSneak into a town rice shop and steal rice. The bigger the town, the more you can steal.\n{1B}C3◆Useful skills etc.{1B}C0\nNinjutsu, Martial Arts etc.
 @272
@@ -1269,7 +1269,7 @@ Missions you can get as Chunin.\n※ You may also be given Genin missions.\n\n{1
 @278
 {1B}C1●Recruit{1B}C0\nRecruit a ronin into the ninja band.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
 @279
-Jonin Missions
+Jonin
 @280
 Missions you can get as Jonin.\n※ You may also be given Genin and Chunin missions.\n\n{1B}C1●Expand{1B}C0\nRaise the size of the ninja village.\n{1B}C3◆How to do it{1B}C0\nExpand the village named. The result depends on the mini-game "Joinery".\n{1B}C3◆Useful skills etc.{1B}C0\nBuilding skill, "Trade Network" card
 @281
@@ -1281,13 +1281,13 @@ Missions you can get as Jonin.\n※ You may also be given Genin and Chunin missi
 @284
 {1B}C1●Diplomacy: Goodwill{1B}C0\nDeepen friendship with another power.\n{1B}C3◆How to do it{1B}C0\nVisit a base of the power named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
 @285
-Squad Chief Missions
+Squad Chief
 @286
 Missions you can get as Squad Chief from the boss.\n\n{1B}C1●Take Base{1B}C0\nCapture the base named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target base.\n\n{1B}C1●Destroy Power{1B}C0\nCapture every ninja village of the power named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target power's villages.
 @287
-Boatman Missions
+Boatman
 @288
-Missions you can get as Boatman.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+Missions you can get as Boatman.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nTrain under a teacher of the skill. More gain, better rating. Where:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort grounds, Medicine: doctors\n  Martial Arts: dojos, Ninjutsu: village grounds, Farming: Nanban temples\n  Accounting: merchants, Etiquette: temples, Tea: tea masters
 @289
 {1B}C1●Buy Rice{1B}C0\nBuy as much rice as you can with the money given.\n{1B}C3◆How to do it{1B}C0\nBuy it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so selling high and buying low again and again raises your results; buy where rice is cheap.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @290
@@ -1325,7 +1325,7 @@ Missions you can get as Bosun.\n※ You can also get Boatman missions.\n\n{1B}C1
 @306
 {1B}C1●Recruit{1B}C0\nRecruit a ronin into the pirate band.\n{1B}C3◆How to do it{1B}C0\nVisit the common home in town where the person named lives. When you meet, choose [Recruit]. The closer you are, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Virtuous Heart" and "Suggestion" cards
 @307
-Ship Captain Missions
+Ship Captain
 @308
 Missions you can get as Ship Captain.\n※ You can also get Boatman and Bosun missions.\n\n{1B}C1●Blockade{1B}C0\nBlockade a merchant house's trade route.\n{1B}C3◆How to do it{1B}C0\nHead for the route named with four companions. Hold there for a set time while fighting the route's escort to complete the mission.\n{1B}C3◆Useful skills etc.{1B}C0\nNavy skill, field (sea) battle cards
 @309
@@ -1347,13 +1347,13 @@ Missions you can get as Ship Captain.\n※ You can also get Boatman and Bosun mi
 @316
 {1B}C1●Diplomacy: Goodwill{1B}C0\nDeepen friendship with another power.\n{1B}C3◆How to do it{1B}C0\nVisit a base of the power named and choose [Diplomacy]. The closer you are to them, the likelier it works.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill, "Selfless Heart" card
 @317
-Fleet Captain Missions
+Fleet Captain
 @318
 Missions you can get as Fleet Captain from the chief.\n\n{1B}C1●Take Base{1B}C0\nCapture the base named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target base.\n\n{1B}C1●Destroy Power{1B}C0\nCapture every pirate fort of the power named.\n{1B}C3◆How to do it{1B}C0\nStart a [Battle] at the target power's forts.
 @319
-Apprentice Missions
+Apprentice
 @320
-Missions you can get as Apprentice.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nVisit a facility with someone who can teach the skill, and train. The more you raise it, the better the rating. Where you can train depends on the skill:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort training grounds,\n  Martial Arts: dojos, Ninjutsu: village training grounds, Farming: Nanban temples,\n  Accounting: merchant houses, Etiquette: temples, Tea: tea masters', Medicine: physicians'
+Missions you can get as Apprentice.\n\n{1B}C1●Training{1B}C0\nTrain to raise the hero's skill levels.\n{1B}C3◆How to do it{1B}C0\nTrain under a teacher of the skill. More gain, better rating. Where:\n  Infantry, Archery, Tactics, Building, Mining, Speech: samurai or common homes\n  Cavalry: stables, Gunnery: smithies, Navy: fort grounds, Medicine: doctors\n  Martial Arts: dojos, Ninjutsu: village grounds, Farming: Nanban temples\n  Accounting: merchants, Etiquette: temples, Tea: tea masters
 @321
 {1B}C1●Sell Rice{1B}C0\nSell the rice you're given at a better price.\n{1B}C3◆How to do it{1B}C0\nSell it at a town rice shop. The price of rice differs by town. Within the deadline you can buy and sell as often as you like, so buying low and selling high again and again raises your results; sell where rice is dear.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @322
@@ -1383,7 +1383,7 @@ Missions you can get as Apprentice.\n\n{1B}C1●Training{1B}C0\nTrain to raise t
 @334
 {1B}C1●Sell Treasure{1B}C0\nSell a valuable to the person named.\n{1B}C3◆How to do it{1B}C0\nVisit the person's home and sell it. The result depends on the mini-game "Haggling".\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @335
-Clerk Missions
+Clerk
 @336
 Missions you can get as Clerk.\n※ You can also get Apprentice missions.\n\n{1B}C1●Gift Funds{1B}C0\nSend war funds to the power named to deepen friendship.\n{1B}C3◆How to do it{1B}C0\nVisit the facility at its seat where the head is (castle, ninja house or pirate house) and choose [Diplomacy]. The more you give, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\n"Selfless Heart" card
 @337
@@ -1395,7 +1395,7 @@ Missions you can get as Clerk.\n※ You can also get Apprentice missions.\n\n{1B
 @340
 {1B}C1●Invest{1B}C0\nInvest money in a town.\n{1B}C3◆How to do it{1B}C0\nVisit the guild of the town named and [Invest]. The more you invest, the better the result.\n{1B}C3◆Useful skills etc.{1B}C0\nAccounting and Speech skills
 @341
-Head Clerk Missions
+Head Clerk
 @342
 Missions you can get as Head Clerk.\n※ You can also get Apprentice and Clerk missions.\n\n{1B}C1●Bribe{1B}C0\nSend a bribe to keep your go-between (the officer who helped you become a purveyor) sweet.\n{1B}C3◆How to do it{1B}C0\nVisit the home of the person named and give the gift.\n{1B}C3◆Useful skills etc.{1B}C0\nSpeech skill
 @343

@@ -1,57 +1,57 @@
 @0
-Attacks one enemy
+Hits one foe
 @1
-Attacks one enemy
+Hits one foe
 @2
-Attacks one enemy
+Hits one foe
 @3
-Attacks enemies on three sides
+Attacks 3 sides
 @4
 Attacks all enemies in a circle
 @5
-Attacks one enemy. Poison saps stamina
+Hits one foe. Poison saps stamina
 @6
-Attacks enemies on three sides
+Attacks 3 sides
 @7
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @8
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @9
-Hits one enemy. Undodgeable
+Hits one foe. Undodgeable
 @10
-Attacks all enemies
+Attacks all foes
 @11
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @12
-Attacks one enemy
+Hits one foe
 @13
 Attacks all enemies in a circle
 @14
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @15
-Attacks one enemy
+Hits one foe
 @16
-Attacks enemies on three sides
+Attacks 3 sides
 @17
-Attacks one enemy
+Hits one foe
 @18
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @19
-Attacks one enemy
+Hits one foe
 @20
-Attacks one enemy
+Hits one foe
 @21
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @22
-Attacks one enemy. Stuns for a while
+Hits one foe. Stuns for a while
 @23
-Attacks one enemy
+Hits one foe
 @24
-Attacks one enemy
+Hits one foe
 @25
-Attacks one enemy. Poison saps stamina
+Hits one foe. Poison saps stamina
 @26
-Attacks one enemy. Poison saps stamina
+Hits one foe. Poison saps stamina
 @27
 Attacks all enemies in a circle
 @28
@@ -71,7 +71,7 @@ Attacks all enemies in a line
 @35
 Attacks random enemies. Hits up to luck
 @36
-Attacks enemies on four sides
+Attacks 4 sides
 @37
 Attacks random enemies. Hits up to luck
 @38
@@ -117,7 +117,7 @@ Creates 3 doubles
 @58
 Ninja dog hits the target's row
 @59
-Teleports to a chosen spot
+Teleports to a set spot
 @60
 Heals self or an ally next to you a little
 @61
@@ -135,7 +135,7 @@ Enrages one enemy into chasing you
 @67
 Pays 10 kan to turn an enemy
 @68
-Controls one enemy as an ally
+Makes one enemy an ally
 @69
 Cancels all enemy boosts
 @70
@@ -147,19 +147,19 @@ Lowers one enemy's spirit
 @73
 Throws 5 kan of coins to lure enemies
 @74
-Attacks enemies on two sides
+Attacks 2 sides
 @75
-Attacks enemies on two sides
+Attacks 2 sides
 @76
 Attacks all enemies in a line
 @77
-Hits one enemy. Undodgeable
+Hits one foe. Undodgeable
 @78
-Attacks one enemy
+Hits one foe
 @79
-Hits one enemy. Undodgeable
+Hits one foe. Undodgeable
 @80
-Attacks one enemy. Poison saps stamina
+Hits one foe. Poison saps stamina
 @81
 Raises hit chance a lot
 @82
@@ -847,25 +847,25 @@ Touring famous sites and ruins. You can tell where famous sites are on the map.\
 @423
 A sharp sixth sense beyond taste, sight, smell, touch and hearing. Inspiration may strike when you're stuck (watch for the cursor blinking...).
 @424
-????-1579\nHead of the Yamanouchi Uesugi. Kanto deputy. Allied with the Imagawa and Ogigayatsu Uesugi against the Hojo of Kanto. At Kawagoe he attacked the Hojo with a huge army, but was crushed by Hojo Ujiyasu's surprise attack. His castle then fell too and he fled to Echigo, where he gave the Uesugi name and the Kanto deputyship to Nagao Kagetora (Uesugi Kenshin).
+????-1579\nHead of the Yamanouchi Uesugi. Kanto deputy. Allied with the Imagawa and Ogigayatsu Uesugi against the Hojo. At Kawagoe his huge army was crushed by Hojo Ujiyasu's surprise attack. Losing his castle too, he fled to Echigo and gave the Uesugi name and the deputyship to Nagao Kagetora (Uesugi Kenshin).
 @425
-1494-1574\nHead of the Takeda. Governor of Kai. Destroyed his rivals in the house and united Kai. He made Tsutsujigasaki his seat and stood against the Imagawa and Hojo. But his harsh rule set him against his heir Harunobu (Shingen), who schemed to banish him to Suruga. He lived under Imagawa Yoshimoto's protection, and wandered after Yoshimoto died.
+1494-1574\nHead of the Takeda. Governor of Kai. Crushed his rivals and united Kai, made Tsutsujigasaki his seat and stood against the Imagawa and Hojo. His harsh rule set him against his heir Harunobu (Shingen), who had him banished to Suruga. He lived under Imagawa Yoshimoto's protection, then wandered.
 @426
-1507-1551\n31st Ouchi head. Governor of seven provinces including Suo, Nagato and Aki, he subdued Chikuzen and Hizen and ruled northern Kyushu. He drove off Amago Haruhisa's invasion of Aki and marched into Izumo, but failed to take Gassan-Toda Castle and lost his heir Harumochi. He then turned to culture, until his senior retainer Sue Harukata rebelled and he killed himself.
+1507-1551\n31st Ouchi head. Governor of seven provinces including Suo, Nagato and Aki, he took Chikuzen and Hizen and ruled northern Kyushu. He drove Amago Haruhisa out of Aki and marched into Izumo, but failed at Gassan-Toda Castle and lost his heir. He then turned to culture, until Sue Harukata rebelled and he killed himself.
 @427
-1510-1551\nHead of the Oda. Father of Nobunaga. A fierce general called "the Tiger of Owari". Born to a house of mere rear vassals of the Owari governors, he outgrew even them and became a Sengoku daimyo. Seeking to unite Owari, he fought clans at home and neighbours like the Imagawa and Saito without rest, but died suddenly of an epidemic with his goal unmet.
+1510-1551\nHead of the Oda. Father of Nobunaga. A fierce general called "the Tiger of Owari". Born to rear vassals of the Owari governors, he outgrew them and became a Sengoku daimyo. Seeking to unite Owari, he fought local clans and neighbours like the Imagawa and Saito, but died suddenly of an epidemic.
 @428
-1526-1549\nHead of the Matsudaira. Father of Ieyasu. Inherited when his father Kiyoyasu died violently in camp in Owari. Driven from Okazaki Castle for a time, he wandered, then regained his lands under Imagawa Yoshimoto. When Oda Nobuhide invaded Mikawa he could not resist alone and submitted to the Imagawa. His house split into Imagawa and Oda factions, and pro-Oda attendants murdered him.
+1526-1549\nHead of the Matsudaira. Father of Ieyasu. Inherited when his father Kiyoyasu was killed in camp in Owari. Driven from Okazaki Castle for a time, he regained his lands under Imagawa Yoshimoto. When Oda Nobuhide invaded Mikawa he submitted to the Imagawa. His house split, and pro-Oda attendants murdered him.
 @429
-1492-1553\nOda vassal. Second elder. Tutor to Nobuhide's heir Nobunaga from his birth. Active in diplomacy, he arranged Nobunaga's marriage to Kicho, Saito Dosan's daughter. He often reproved the young Nobunaga's wild ways in vain, and at last killed himself to take a tutor's blame. Nobunaga mourned him and built a temple in his memory.
+1492-1553\nOda vassal. Second elder. Tutor to Nobunaga from his birth. Active in diplomacy, he arranged Nobunaga's marriage to Kicho, Saito Dosan's daughter. He often reproved the young Nobunaga's wild ways in vain, and at last killed himself to take a tutor's blame. Nobunaga built a temple in his memory.
 @430
 ????-1560\n6th Kuki head. Held a navy based in Shima. When the Seven Island lords of Shima attacked with the help of the Kitabatake governors of Ise, he and his brother Yoshitaka held out bravely, but he died in the fighting at the castle. Yoshitaka, driven from Shima, fled to Owari, served Oda Nobunaga and came to lead the Oda navy.
 @431
-????-1573\nHead of the Kawachi Hatakeyama. Lord of Takaya Castle. Son of Masakuni. When his brother Takamasa, the head, was banished to Kii after clashing with the senior retainers Yusa Nobunori and Yasumi Naomasa, Nobunori and the others set him up as head. Like his brother he later fell out with Nobunori and plotted to kill him, but was assassinated himself.
+????-1573\nHead of the Kawachi Hatakeyama. Lord of Takaya Castle. Son of Masakuni. When his brother Takamasa was banished to Kii after clashing with the senior retainers Yusa Nobunori and Yasumi Naomasa, they made him head. Like his brother he later fell out with Nobunori and plotted to kill him, but was killed himself.
 @432
-1513-????\nHead of the Akamatsu. Governor of Harima. Set up as a puppet after his father Yoshimura was killed by the senior retainer Uragami Muramune. To take back power he allied with Hosokawa Harumoto and killed Muramune at the Daimotsu rout. But Amago Haruhisa invaded soon after and he fled to Sakai. He returned to Harima through the shogunate, but fell out with his heir Yoshisuke and was banished.
+1513-????\nHead of the Akamatsu. Governor of Harima. A puppet after his father was killed by the retainer Uragami Muramune. Allied with Hosokawa Harumoto, he killed Muramune at the Daimotsu rout. When Amago Haruhisa invaded he fled to Sakai; back in Harima, he fell out with his heir Yoshisuke and was banished.
 @433
-1527-1559\n17th Shoni head. Resisted Ouchi Yoshitaka's invasion of Hizen. When his vassal Ryuzoji Iekane rose, he murdered Iekane's kin and banished him to Chikugo. Iekane fought back with Nabeshima Kiyohisa, and Iekane's heir Takanobu brought Fuyuhisa down. He tried to rise again with the lords of eastern Hizen, but Takanobu attacked and he killed himself.
+1527-1559\n17th Shoni head. Resisted Ouchi Yoshitaka in Hizen. When his vassal Ryuzoji Iekane rose, he killed Iekane's kin and banished him to Chikugo. Iekane struck back with Nabeshima Kiyohisa, and his heir Takanobu brought Fuyuhisa down. He tried to rise again in eastern Hizen, but Takanobu attacked and he killed himself.
 @434
 1521-1576\nLord of Shimabara, Hizen. A companion of shogun Ashikaga Yoshiharu. After inheriting he encouraged Nanban trade and ruled well. He fought the fast-rising Ryuzoji Takanobu again and again, but kept losing and finally lost most of his lands. In old age he devoted himself to supporting Christianity and to poetry, they say.
 @435
@@ -875,103 +875,103 @@ A sharp sixth sense beyond taste, sight, smell, touch and hearing. Inspiration m
 @437
 ????-1581\nDewa clan chief. Born a Muto. Took over from his cousin Harutoki as lord of Oura Castle. Endless fights with the Sagoshi branch wore out his lands, but joining Uesugi Kenshin calmed the feud. He sided briefly with Honjo Shigenaga's revolt against the Uesugi, but soon made peace, giving his heir Michiyo (Yoshiuji) as hostage.
 @438
-????-1554\nHead of the Shiba. Governor of Owari. Set up in Kiyosu Castle by the deputy Oda Nobutomo, he had no real power as governor and was Nobutomo's puppet. When Nobutomo plotted to kill Nobunaga of the rising Oda branch line, he secretly warned Nobunaga. Because of this Nobutomo attacked his mansion and drove him to suicide.
+????-1554\nHead of the Shiba. Governor of Owari. Set up in Kiyosu Castle by the deputy Oda Nobutomo, he had no real power and was Nobutomo's puppet. When Nobutomo plotted to kill Nobunaga, of the rising Oda branch line, he secretly warned Nobunaga. For this Nobutomo attacked his mansion and drove him to suicide.
 @439
-????-1555\nShiba vassal of Owari. Deputy governor. Lord of Kiyosu Castle. With the under-deputy Sakai Daizen he set up Shiba Yoshimune as a puppet and wielded power. When Yoshimune sided with Nobunaga of the Oda branch line, he stormed his mansion and killed him. Taking this chance, Nobunaga's uncle Nobumitsu attacked Kiyosu on Nobunaga's orders; beaten, he killed himself.
+????-1555\nShiba vassal. Deputy governor of Owari, lord of Kiyosu Castle. With Sakai Daizen he set up Shiba Yoshimune as a puppet and wielded power. When Yoshimune sided with Nobunaga, he stormed his mansion and killed him. Then Nobunaga's uncle Nobumitsu attacked Kiyosu, and he killed himself.
 @440
 ????-1563\nThe last Muromachi deputy shogun. Allied with Hatakeyama Masakuni and Yusa Naganori against Hosokawa Harumoto and Miyoshi Nagayoshi. When Nagayoshi switched to him, he drove Harumoto to Omi and entered Kyoto as deputy. But Nagayoshi held the power, leaving him a puppet; moved to Yodo Castle, he died there.
 @441
-1495-1552\nHead of the Sasaki Rokkaku. Governor of half of Omi. Attended the 10th shogun Ashikaga Yoshitane and aided the shogunate. He later set up Ashikaga Yoshiharu with Hosokawa Takakuni. Deeply trusted by Yoshiharu, he was treated next to the deputy and given Junior Fourth Rank, Lower. He crowned Ashikaga Yoshiteru as shogun, and worked to get him back to Kyoto when he fled to Omi.
+1495-1552\nHead of the Sasaki Rokkaku. Governor of half of Omi. Served the 10th shogun Yoshitane, then set up Yoshiharu with Hosokawa Takakuni. Trusted by Yoshiharu, he was ranked next to the deputy, Junior Fourth Lower. He crowned Yoshiteru as shogun and helped him back to Kyoto from Omi.
 @442
-1503-1573\n14th Shimazu head. Third son of Tadamasa, he became governor when his brother Tadataka died young. Pressed by the regent Shimazu Sanehisa to yield the post, he refused and left rule to Tadayoshi and Takahisa of the Soshu Shimazu. But he tried to return to power backed by Sanehisa and clashed with Takahisa. Later he broke with Sanehisa too and was driven from Kagoshima.
+1503-1573\n14th Shimazu head. Third son of Tadamasa, he became governor when his brother died young. Pressed by the regent Shimazu Sanehisa to yield the post, he left rule to Tadayoshi and Takahisa of the Soshu Shimazu. Later he tried to return with Sanehisa's backing, fell out with both and was driven from Kagoshima.
 @443
-1523-1550\nYamato lord. Father of Junkei. Grew strong allied with Hatakeyama Tanenaga, but fell ill on the verge of uniting Yamato. He left the house to the young Junkei, asking that a double stand in for him for a year after his death. Mokuami, a monk of like age and looks, played the double, then went back to being a monk after the first memorial. This is said to be the source of the saying "back to Mokuami".
+1523-1550\nYamato lord. Father of Junkei. Grew strong allied with Hatakeyama Tanenaga, but fell ill as he was about to unite Yamato. He left the house to the young Junkei and had a double stand in for him for a year after his death. The monk Mokuami played the part, then went back to being a monk: the source of "back to Mokuami".
 @444
 ????-1581\n18th Nikaido head. First fought Ashina Moriuji, then surrendered, giving his son Moritaka as hostage. When Moritaka was later adopted and became Ashina head, the Nikaido revived for a time with his help. But when Ashina retainers murdered Moritaka, he lost his backer, lost to Date Masamune's invasion, and the Nikaido fell.
 @445
-????-????\nImagawa vassal. Of unknown origin, a master archer who founded his own school. Wandering in Kyoto, he was spotted and hired by shogun Ashikaga Yoshiteru. After Yoshiteru's violent death he went to Suruga and joined Imagawa Ujizane's companions. When Takeda Shingen invaded Suruga he joined the Imagawa force that met him, and is said to have died in the defeat.
+????-????\nImagawa vassal. Of unknown origin, a master archer who founded his own school. Wandering in Kyoto, he was hired by shogun Ashikaga Yoshiteru. After Yoshiteru's death he went to Suruga and joined Imagawa Ujizane's companions. He is said to have died fighting Takeda Shingen's invasion of Suruga.
 @446
-1483-1566\nLord of Shimabara, Hizen. First named Katasumi, he became Harusumi with a character from shogun Ashikaga Yoshiharu. He spread his power over five districts of Hizen, and set up family rule of Hizen by placing his second son Sumitada in the Omura and the like, bringing the Arima to their peak. After handing over to his heir Yoshisada he retired and lived to 84.
+1483-1566\nLord of Shimabara, Hizen. First named Katasumi, he became Harusumi with a character from shogun Ashikaga Yoshiharu. He spread over five districts of Hizen and placed his second son Sumitada in the Omura, bringing the Arima to their peak. After handing over to his heir Yoshisada he retired and lived to 84.
 @447
 1513-1555\nHead of the Higo Sagara. Son of Uemura Yorioki, adopted by Sagara Yoshishige to inherit. Allied with Ouchi Yoshitaka against Otomo invasions. In ruling his lands he built the trade ship "Ichikimaru" and sent it to Ming, and added twenty articles to the Sagara house law, working hard to strengthen his rule.
 @448
-????-????\nHead of the Innoshima Murakami. A brave commander of the Murakami navy that ruled the Inland Sea; with the Noshima main line and the Kurushima line, they were the Three Islands Murakami. Won over by Kobayakawa Takakage, he came under the Mori, aided the Itsukushima battle and formed part of the Kobayakawa navy. His wife was the sister of Nomi Munekatsu, a Kobayakawa naval commander.
+????-????\nHead of the Innoshima Murakami. A brave commander of the Murakami navy of the Inland Sea; with the Noshima and Kurushima lines they were the Three Islands Murakami. Won over by Kobayakawa Takakage, he joined the Mori, aided them at Itsukushima and served in the Kobayakawa navy. He wed Nomi Munekatsu's sister.
 @449
-????-????\nSwordsman. Student of Morooka Ippa. Nursed his master to the end when he fell ill. By the time Ippa died, his fellow student Negishi Tokaku, who had left the dojo long before, had made his name with a dojo in Edo. Enraged, Koguma went to Edo and dueled Tokaku. He won and took over Tokaku's dojo, but was killed by Tokaku's students.
+????-????\nSwordsman. Student of Morooka Ippa, he nursed his master to the end. By then his fellow student Negishi Tokaku, who had left the dojo, had made his name with a dojo in Edo. Enraged, Koguma went to Edo and dueled Tokaku. He won and took over Tokaku's dojo, but was killed by Tokaku's students.
 @450
-????-????\nSatake vassal. Lord of Oda Castle. Second son of Ota Sukemasa. He served the Ogigayatsu Uesugi, but he and his father were driven out by his brother Ujisuke and turned to the Satake. He fought well against the Oda, known for routing Oda Ujiharu from Kidayu Castle to Tsuchiura in the 7th month of 1578. He later left the Satake, served Yuki Hideyasu and fought at Osaka.
+????-????\nSatake vassal. Lord of Oda Castle. Second son of Ota Sukemasa. He served the Ogigayatsu Uesugi until his brother Ujisuke drove him and his father out, then turned to the Satake. Fighting the Oda, he routed Oda Ujiharu from Kidayu Castle in 1578. He later served Yuki Hideyasu and fought at Osaka.
 @451
-????-????\nMiyoshi vassal. Brother of Hisahide. Married the daughter of Naito Kunisada, deputy governor of Tanba, and took the Naito name. Serving Miyoshi Nagayoshi against Hosokawa Harumoto, he attacked Yakami Castle, held by Harumoto's man Hatano Harumichi. When Kunisada fell in that fight, he took the name Naito Munekatsu and inherited the deputyship. He later died fighting Akai Naomasa.
+????-????\nMiyoshi vassal. Brother of Hisahide. Married the daughter of Naito Kunisada, deputy governor of Tanba, and took the Naito name. Under Miyoshi Nagayoshi he attacked Yakami Castle, held by Hosokawa Harumoto's man Hatano Harumichi. Kunisada fell there, and as Naito Munekatsu he became deputy. Later killed by Akai Naomasa.
 @452
 1579-1650\nMori kinsman. Son of Hoida Motokiyo, Motonari's fourth son. Adopted by Terumoto, he led the Mori as commander in Terumoto's place in the Korean campaigns, winning merit relieving Ulsan Castle. When Terumoto had a son, Hidenari, he founded a branch with lands in Suo and Nagato. At Sekigahara too he led the Mori army for Terumoto.
 @453
-1521-1578\nYamanouchi Uesugi vassal. After his house fell he turned to Yura Narishige, who invited him to Tatebayashi Castle. Known for reclaiming wasteland, planting forests and building irrigation, he did much to improve farming in Kozuke. He is still counted among Gunma's great figures, and in 1916 was granted Junior Fifth Rank posthumously.
+1521-1578\nYamanouchi Uesugi vassal. After his house fell he turned to Yura Narishige, who invited him to Tatebayashi Castle. Known for reclaiming wasteland, planting forests and irrigation, he did much for farming in Kozuke. He is still counted among Gunma's great figures, and in 1916 was granted Junior Fifth Rank.
 @454
-????-1572\nHatakeyama vassal. Deputy governor of Kawachi. Son of Yusa Naganori. The Yusa were stewards to the Hatakeyama deputies from the early Nanbokucho era, until they outgrew their lords. Nobunori banished his lord Takamasa and set up his brother Akitaka. Later he fell out with Akitaka too and killed him, but was attacked by Oda Nobunaga and killed.
+????-1572\nHatakeyama vassal. Deputy governor of Kawachi. Son of Yusa Naganori. The Yusa were stewards to the Hatakeyama from the Nanbokucho era, until they outgrew their lords. Nobunori banished his lord Takamasa and set up his brother Akitaka. He later killed Akitaka too, and fell to Oda Nobunaga.
 @455
-????-1580\nOtomo branch line. Son of Akinari. Named Akishige. Adopted his brother Shigechika. He fought well against Ohara Akimoto's revolt and won merit against the Mori, mainly in Buzen. But when Shigechika fell at Mimigawa, feeling against the Otomo main line rose in his house. Slandered as a traitor too, he finally rose, lost and was killed.
+????-1580\nOtomo branch line. Son of Akinari. Named Akishige. Adopted his brother Shigechika. He fought well against Ohara Akimoto's revolt and the Mori in Buzen. When Shigechika fell at Mimigawa, his house turned against the Otomo main line. Slandered as a traitor too, he finally rose, lost and was killed.
 @456
 1513?-1551\nOuchi vassal. Often reproved Yoshitaka as he sank into pleasures. He also warned that Sue Harukata was dangerous and urged that he be killed, in vain. Even so, when Harukata rebelled he fought hard to protect Yoshitaka, acted as his second when he killed himself, and died in rage himself. A fine poet, they say.
 @457
-????-1551\nOuchi vassal. Versed in court customs, he won Ouchi Yoshitaka's trust. But he came to clash with the senior retainer Sue Harukata. Taketo planned to flee, but was held in Chikuzen by Sugi Okikazu, and killed at Hanao Castle when Harukata rebelled. Before dying he wrote "Sagara Taketo's Statement" to explain himself.
+????-1551\nOuchi vassal. Versed in court customs, he won Ouchi Yoshitaka's trust, but clashed with the senior retainer Sue Harukata. Taketo planned to flee, but was held in Chikuzen by Sugi Okikazu, and killed at Hanao Castle when Harukata rebelled. He left "Sagara Taketo's Statement" to explain himself.
 @458
 ????-????\nOuchi vassal. Served from Yoshioki's time and went with him to Kyoto when he set up the former shogun Ashikaga Yoshitane. Under Yoshitaka he fought in northern Kyushu. But when Sue Harukata rebelled he joined him and served Ouchi Yoshinaga, whom Harukata set up. Said to be versed in the customs of archery and riding.
 @459
-1513-1586\nMori vassal. Son of Motozane. Recommended by his brother Naritada, Motonari's aide, he was valued by Motonari. He led the Kawanouchi band, the Mori's own navy, and was made keeper of Kusatsu Castle, key to Hiroshima Bay. He then fought at sea across northern Kyushu and San'in. His son Narihide is known for beating Nobunaga's navy at Kizugawaguchi.
+1513-1586\nMori vassal. Son of Motozane. Recommended by his brother Naritada, he was valued by Motonari. He led the Kawanouchi band, the Mori's own navy, and kept Kusatsu Castle on Hiroshima Bay, fighting at sea off northern Kyushu and San'in. His son Narihide beat Nobunaga's navy at Kizugawaguchi.
 @460
-????-????\nOuchi vassal. First a naval commander under the Takeda governors of Aki, he switched to the Ouchi under Yoshioki and became part of the Ouchi navy. But Katatane joined Sue Harukata's revolt and fought for Sue at Itsukushima. After Harukata fell he served Ouchi Yoshinaga, but later surrendered to Kobayakawa Takakage.
+????-????\nOuchi vassal. First a naval commander under the Takeda governors of Aki, he went over to the Ouchi under Yoshioki and joined their navy. He took part in Sue Harukata's revolt and fought for Sue at Itsukushima. After Harukata fell he served Ouchi Yoshinaga, then surrendered to Kobayakawa Takakage.
 @461
 ????-1555\nBrother of Nobuhide, uncle of Nobunaga. Led the rearguard of the routed army at Azukizaka, one of its Seven Spears. After Nobuhide died he backed Nobunaga, helped take Kiyosu Castle and gave it to him, moving to Nagoya Castle. Soon after he was killed by his retainer Sakai Magohachiro; some whispered Nobunaga was behind it.
 @462
-????-1552\nTakeda vassal. Father of Nobushige. The Oyamada were a clan of Tsuru in Kai. Even under the Takeda they kept their independence, and he ruled his lands well, they say. He joined the attack on Murakami Yoshikiyo at Toishi Castle in Shinano, but the Takeda failed to take it and were crushed by a Murakami counterattack. Nobuari died in that battle.
+????-1552\nTakeda vassal. Father of Nobushige. The Oyamada were a clan of Tsuru in Kai who kept their independence under the Takeda; he ruled his lands well, they say. He joined the attack on Murakami Yoshikiyo's Toishi Castle in Shinano, but the Takeda were crushed by a counterattack and Nobuari died.
 @463
-????-1554\nAmago kinsman. Son of Tsunehisa. His clan, the Shingu band, were famed for strength and upheld the Amago under Tsunehisa and Haruhisa. But their violent ways set Haruhisa and the house against them. Mori Motonari exploited this, and Haruhisa, taken in by his divisive scheme, killed him. This began the Amago decline.
+????-1554\nAmago kinsman. Son of Tsunehisa. His clan, the Shingu band, were famed for strength and upheld the Amago. But their violent ways set Haruhisa and the house against them. Taken in by Mori Motonari's divisive scheme, Haruhisa killed him. This began the Amago decline.
 @464
-????-1554\nAmago kinsman. Son of Kunihisa. A brave Shingu band general. But he boasted of his clan's feats and beat retainers, and his violence made him hated. In the end his lord Haruhisa, taken in by Mori Motonari's scheme, sent assassins to kill him. His father Kunihisa and brother Takahisa were killed too, and the Shingu band was wiped out.
+????-1554\nAmago kinsman. Son of Kunihisa. A brave Shingu band general, he boasted of his clan's feats and beat retainers, and was hated for it. His lord Haruhisa, taken in by Mori Motonari's scheme, had him killed. His father Kunihisa and brother Takahisa were killed too, ending the Shingu band.
 @465
-????-????\nOld retainer of the deputy governor Oda Yamato-no-kami. After Oda Nobuhide died he opposed Nobunaga's bid to unite Owari. He and Sakai Jinsuke tried to kill Nobunaga, but failed. Later, on his lord Oda Nobutomo's orders, he killed the governor Shiba Yoshimune, giving Nobunaga a pretext to attack Kiyosu. Driven from Kiyosu, he fled to Suruga and the Imagawa.
+????-????\nOld retainer of the deputy Oda Yamato-no-kami. After Oda Nobuhide died he opposed Nobunaga's bid to unite Owari, and with Sakai Jinsuke tried to kill him, but failed. On his lord Oda Nobutomo's orders he killed the governor Shiba Yoshimune, giving Nobunaga a pretext to take Kiyosu. He fled to the Imagawa.
 @466
-1502-1563\nSon of Norisada. Also Muraharu. With Yanagimoto Kataharu's help he fought the Ito, whom Uragami Muramune backed. Muramune's scheme got Kataharu assassinated, and Naruharu even had to flee his Miki Castle for a time. He later won it back. For siding with the Amago when they invaded Harima, Miyoshi Nagayoshi attacked, but he held Miki Castle.
+1502-1563\nSon of Norisada. Also Muraharu. With Yanagimoto Kataharu he fought the Ito, backed by Uragami Muramune. When Muramune had Kataharu killed, Naruharu even lost Miki Castle for a time, but won it back. For siding with the invading Amago, he was attacked by Miyoshi Nagayoshi, but held Miki.
 @467
 1467-1557\nMori vassal. Son of Motoyoshi, brother of Kuchiba Michiyoshi. Regent from the time of Motonari's brother Okimoto. Deeply trusted, he had the 17-year-old Motonari say, "If I overreach in my youth, Hiroyoshi, tell me." In the succession question after Komatsumaru died he strongly backed Motonari and made him Mori head.
 @468
-????-????\nSecond son of Kiyohisa, father of Naoshige. When Ouchi Yoshitaka's army came to destroy the Shoni, Ryuzoji Iekane and others met it at Tadenawate on orders. Kiyofusa and his father led the red-bear troop in a surprise attack on the Ouchi and helped win. For this he married Ryuzoji Iekane's granddaughter and became guardian of the head Takanobu.
+????-????\nSecond son of Kiyohisa, father of Naoshige. When Ouchi Yoshitaka came to destroy the Shoni, Ryuzoji Iekane and others met him at Tadenawate. Kiyofusa and his father led the red-bear troop in a surprise attack that won the day. He then wed Iekane's granddaughter and became guardian of Takanobu.
 @469
 ????-????\n5th head of the Kamiya, great merchants of Hakata. The 2nd head, Kazue, was captain of the Ouchi tally ships to Ming, and the 4th, Jutei, opened the Iwami silver mine: generations built the family's capital. But Hakata was ever at war, with the Otomo and Mori fighting and the Ryuzoji invading, and Shosaku fled to Karatsu with his son Sotan.
 @470
 ????-1554\nOuchi vassal. Deputy governor of Nagato. Went to Kyoto with Ouchi Yoshioki and often fought the Amago and others. He joined Sue Harukata's revolt, but did little. His grandson Takayo, though, acted for Harukata, splitting the house. Also a man of letters held in high esteem, they say.
 @471
-1510-????\nSatsu-shu Shimazu. Son of Tadaoki. Grew strong helping Katsuhisa, 14th head of the main Shimazu line, but fell out with him when Katsuhisa refused to make him heir. He drove Katsuhisa to Bungo and fought fiercely with Tadayoshi and Takahisa, who aided Katsuhisa. After defeat upon defeat he finally surrendered in 1539 and retired to Izumi, they say.
+1510-????\nSatsu-shu Shimazu. Son of Tadaoki. Grew strong helping Katsuhisa, 14th head of the main line, but fell out with him when Katsuhisa refused to make him heir. He drove Katsuhisa to Bungo and fought Tadayoshi and Takahisa, his backers. Beaten again and again, he surrendered in 1539 and retired to Izumi.
 @472
 ????-1550\nMori vassal. Son of Mitsukane. The Inoue had long been powerful in the Mori house, and Motokane's great part in Motonari's succession made his power huge. But he came to slight Motonari's authority, and Motonari, fearing an overthrow, chose a purge. Over thirty of his clan were put to death.
 @473
 1504-1566\nHead of the Tennojiya, great merchants of Sakai. Father of Sokyu. Learned tea from Takeno Joo, knew the Shimotsuma and Miyoshi, and owned much tea ware. As one of the 36 he helped govern Sakai, and was purveyor to the Miyoshi. The "Tennojiya Records", kept for three generations from Sotatsu, are a valuable source.
 @474
-1493-1559\nAso high priest. Lord of Iwao Castle. Took the high priesthood from his brother Korenaga and grew strong from Hamanoyakata. When Korenaga came home and drove him from Yabe, he won it back with help from Kai Chikanori (Soun's father), the great general of Kuraoka in Hyuga. He gave ten thousand hiki for palace repairs, rose to Junior Second Rank and received an imperial envoy.
+1493-1559\nAso high priest. Lord of Iwao Castle. Took the priesthood from his brother Korenaga and grew strong. When Korenaga came back and drove him from Yabe, he won it back with help from Kai Chikanori of Hyuga. He gave ten thousand hiki for palace repairs and rose to Junior Second Rank.
 @475
-1500-1568\nKenmotsu. Founder of the Tsuda school of gunnery. Also Suginobo. Went to Tanegashima, bought a gun from Tanegashima Tokitaka and learned to shoot. He had the smith Shibatsuji Seiemon copy the gun he brought home, making it at home and in bulk. Kazunaga formed the Negoro gunners and fought on many fronts, but lost his lands to Hideyoshi's Kii campaign and served Hidenaga and others.
+1500-1568\nFounder of the Tsuda school of gunnery. Went to Tanegashima, bought a gun from Tanegashima Tokitaka and learned to shoot. He had the smith Shibatsuji Seiemon copy it and make guns in bulk. Kazunaga formed the Negoro gunners and fought on many fronts, but lost his lands to Hideyoshi in Kii.
 @476
-????-1551\nOuchi vassal. Deputy governor of Bungo. Cousin of Ouchi Yoshitaka. First opposed Sue Harukata and urged Yoshitaka to remove him, in vain. To save himself he came to side with Harukata, but after Harukata killed Yoshitaka they fell out again; attacked, he killed himself in Nagato. This was the start of the collapse of Harukata's power.
+????-1551\nOuchi vassal. Deputy governor of Bungo, cousin of Ouchi Yoshitaka. He urged Yoshitaka to remove Sue Harukata, in vain, then sided with Harukata to save himself. After Harukata killed Yoshitaka they fell out; attacked, he killed himself in Nagato. Harukata's power began to collapse.
 @477
-????-????\nSon of Masafusa. The Kii were a branch of the Utsunomiya of Shimotsuke, a noble line that led Kyushu warriors in the Kamakura era. They long served the Ouchi; Nagafusa's father Masafusa won merit under Ouchi Yoshioki and Yoshitaka, then joined the Otomo when the Ouchi fell. Nagafusa left the domain to his son Shigefusa and worked to settle the main house's turmoil.
+????-????\nSon of Masafusa. The Kii were a branch of the Utsunomiya of Shimotsuke, leaders of Kyushu warriors in the Kamakura era. They long served the Ouchi; his father won merit under Yoshioki and Yoshitaka, then joined the Otomo when the Ouchi fell. Nagafusa left the domain to his son and worked to calm the main house.
 @478
-1497-1555\n15th head of the Oshu Kasai. Moriyoshi, heir of the previous head Harushige, died before inheriting, and his son Harukiyo died young too, so Moriyoshi's brother Harutane succeeded. Date records call Harutane the sixth son of Date Tanemune, but many hold that it was Harukiyo, who died young, who was Tanemune's son.
+1497-1555\n15th head of the Oshu Kasai. The heir Moriyoshi died before inheriting and his son Harukiyo died young, so Moriyoshi's brother Harutane succeeded. Date records call Harutane the sixth son of Date Tanemune, but many hold it was Harukiyo who was Tanemune's son.
 @479
-????-????\nOf Murakami descent. Son of Murakami Okitane. Took the name Egami on moving to Chikugo. In 1558 he backed Shoni Fuyuhisa and fought Oda Masamitsu of the Ryuzoji side, who died in the battle. He later yielded to the Ryuzoji and was treated well, marrying Ryuzoji Tanehisa's daughter and adopting Takanobu's second son Ietane. One of the Nineteen Castle Lords of eastern Hizen.
+????-????\nOf Murakami descent, son of Okitane. Took the name Egami in Chikugo. In 1558 he backed Shoni Fuyuhisa and fought Oda Masamitsu of the Ryuzoji, who died. He later yielded to the Ryuzoji, married Tanehisa's daughter and adopted Takanobu's son Ietane. One of the Nineteen Lords of eastern Hizen.
 @480
-????-1578\nOtomo vassal. When Otomo Yoshiaki tried to disinherit his heir Yoshishige (Sorin) in the Nikai Kuzure incident, he backed Yoshishige and seized Funai. He once fell out with Yoshishige and served the Saionji of Iyo, but later returned and attacked the Saionji on his orders. He fought in the decisive Otomo-Shimazu battle at Taka Castle in Hyuga and died.
+????-1578\nOtomo vassal. When Otomo Yoshiaki tried to disinherit his heir Yoshishige (Sorin), he backed Yoshishige and seized Funai. He fell out with Yoshishige for a time and served the Saionji of Iyo, but returned and attacked them on his orders. He died at Taka Castle in Hyuga, fighting the Shimazu.
 @481
-1548-1612\nFirst lord of Fukue domain, Hizen. Of a branch of the Matsura band. Uncle of the previous head Uku Sumiharu, he inherited when Sumiharu died young of smallpox. Under Sumiharu the house had submitted to Hideyoshi and taken the Goto name, laying the base for an early-modern daimyo. He went to Korea on Hideyoshi's orders too, receiving the Toyotomi name and court rank and office.
+1548-1612\nFirst lord of Fukue domain, Hizen, of a branch of the Matsura band. Uncle of the head Uku Sumiharu, he inherited when Sumiharu died young of smallpox. The house had submitted to Hideyoshi and taken the Goto name. He went to Korea on Hideyoshi's orders and received the Toyotomi name and court rank.
 @482
-????-????\nOgasawara vassal. At the battle of Shiojiri pass between Ogasawara Nagatoki and Takeda Shingen, he fought under Nagatoki but switched to the Takeda at the climax, causing Nagatoki's defeat. But afterwards he went back to Nagatoki and served him loyally, and was allowed the Futatsugi name. After Nagatoki fled to Echigo he served Shingen.
+????-????\nOgasawara vassal. At Shiojiri pass between Ogasawara Nagatoki and Takeda Shingen, he switched to the Takeda at the climax, causing Nagatoki's defeat. Afterwards he went back to Nagatoki, served him loyally and was allowed the Futatsugi name. When Nagatoki fled to Echigo he served Shingen.
 @483
-1589-1671\nFounder of the Takada spear school. Born in Iga, gifted at arms from childhood, he learned the spear from Hozoin In'ei. He fought hard for the Toyotomi at Osaka, then became a ronin and opened a dojo in Edo. Later he entered Ogasawara service and went to Kokura in Buzen, fighting in the Shimabara rebellion too. So famed was his skill that he showed it before the shogun Iemitsu.
+1589-1671\nFounder of the Takada spear school. Born in Iga, he learned the spear from Hozoin In'ei. He fought for the Toyotomi at Osaka, then opened a dojo in Edo as a ronin. Later he served the Ogasawara at Kokura and fought in the Shimabara rebellion. His skill was so famed he showed it before the shogun Iemitsu.
 @484
 ????-????\nOrigin unknown.\nA mysterious adventurer who appeared in the age of war, with no backing, relying on wits alone. Does glory lie ahead, or ruin? Only history knows...
 @485
-????-????\n{02}{01}i of {02}{10}e.
+????-????\n{02}{01}i.
 @485.1
-????-????\n{02}{01}{81}, {02}{01}i of {02}{10}e.
+????-????\n{02}{01}{81}, {02}{01}i.
 @486
 1539-1606\nPainter. Tea master. Said to be a Kyoto townsman, he served Oda Nobunaga as a deputy. When Honnoji struck he was quick to send a runner to warn Hashiba Hideyoshi, they say. He later served Hideyoshi and Ieyasu, becoming a daimyo of 10,000 koku. As a painter he was given the rank of Hogen.
 @487
@@ -1099,27 +1099,27 @@ A sharp sixth sense beyond taste, sight, smell, touch and hearing. Inspiration m
 @548
 \nThis message is a dummy.
 @549
-1536-1643\nTendai monk. Studied doctrine on Mt. Hiei and won Ieyasu's devotion. As Ieyasu's aide he helped in government and was involved in the Hokoji bell inscription affair. After Ieyasu's death he served four shoguns, Hidetada, Iemitsu and Ietsuna, and was called "the Black-Robed Prime Minister". Legend even says he was Akechi Mitsuhide. He was posthumously titled Jigen Daishi.
+1536-1643\nTendai monk. Studied on Mt. Hiei and won Ieyasu's devotion. As his aide he helped govern and was involved in the Hokoji bell affair. He served three more shoguns and was called "the Black-Robed Prime Minister"; legend even says he was Akechi Mitsuhide. Posthumously titled Jigen Daishi.
 @550
 1530-1611\n6th head priest of Rinsenji, Echigo. Raised Uesugi Kenshin when he was placed at Rinsenji as a child. His noble character deeply shaped Kenshin, who trusted him greatly. When Kenshin, sick of ruling, left in 1556, he is said to have sent Tenshitsu a letter giving his reasons and asked him to explain to the retainers.
 @551
-1470-1563\nRinzai monk. From Mino, he studied under Kaisen Joki and was head student of his school. Later invited by Date Terumune, he became head priest of Shifukuji: this was to make Kosai the teacher of Terumune's heir Masamune. Masamune revered Kosai and was shaped by him. In later years he founded Kakuhanji for Terumune, who died a violent death.
+1470-1563\nRinzai monk from Mino, head student of Kaisen Joki. Invited by Date Terumune, he became head priest of Shifukuji to teach Terumune's heir Masamune. Masamune revered him and was shaped by him. In later years he founded Kakuhanji for Terumune, who died a violent death.
 @552
-1533-1615\nPainter. Founder of the Kaiho school. Son of the Azai vassal Kaiho Tsunachika, he was in Kyoto when the Azai fell and escaped. He learned painting from Kano Motonobu. A friend of the Akechi vassal Saito Toshimitsu, when Toshimitsu's head was displayed after Yamazaki, he attacked the guards, took the head and buried it, they say. His samurai birth and spirit made his painting unique.
+1533-1615\nPainter. Founder of the Kaiho school. Son of the Azai vassal Kaiho Tsunachika, he was in Kyoto when the Azai fell. He learned painting from Kano Motonobu. When his friend Saito Toshimitsu's head was displayed after Yamazaki, he took it and buried it, they say. His samurai spirit made his art unique.
 @553
-????-????\nReishoin. Daughter of Imagawa Yoshimoto. When Joke-in, Shingen's sister married to Yoshimoto, died young, she was married to the Takeda heir Yoshinobu to strengthen the Takeda-Imagawa alliance. But Yoshinobu opposed Shingen's plan to attack the Imagawa, and they fell out; Yoshinobu was confined and killed himself, and Reishoin was sent back to Suruga.
+????-????\nReishoin. Daughter of Imagawa Yoshimoto. When Shingen's sister, Yoshimoto's wife, died young, she wed the Takeda heir Yoshinobu to bind the alliance. But Yoshinobu opposed Shingen's plan to attack the Imagawa; he was confined and killed himself, and Reishoin was sent back to Suruga.
 @554
 ????-????\nDaughter of Ando Morinari. Married Takenaka Hanbee and bore Shigekado. Hanbee is famous for seizing Inabayama Castle, and his father-in-law Ando Morinari took part. There was every risk of being punished for rebellion; that he still lent a hand must be because Morinari thought so highly of his son-in-law.
 @555
-????-????\nDaughter of Saito Dosan. Elder sister of Kicho, Oda Nobunaga's wife. She married Anegakoji Yoritsuna. The Anegakoji were first called Mitsuki, until his father Yoriyori took over the extinct Furukawa Anegakoji name. Yoritsuna destroyed the Ema in 1582 and held all Hida, but lost to Kanamori Nagachika of Hideyoshi's army and surrendered.
+????-????\nDaughter of Saito Dosan, elder sister of Kicho, Nobunaga's wife. She married Anegakoji Yoritsuna, whose father had taken over the extinct Anegakoji name. Yoritsuna destroyed the Ema in 1582 and held all Hida, but lost to Kanamori Nagachika of Hideyoshi's army and surrendered.
 @556
-????-????\nDaughter of Ishigai Mitsumasa, sister-in-law of Saito Toshimitsu. Became the wife of Chosokabe Motochika. Through her, Motochika drew close to Nobunaga via Akechi Mitsuhide, so Mitsuhide was seen as the Oda's go-between with the Chosokabe. But Nobunaga ignored Mitsuhide and planned to invade Shikoku, shaming him; this too is called a cause of Mitsuhide's revolt.
+????-????\nDaughter of Ishigai Mitsumasa, sister-in-law of Saito Toshimitsu. Wife of Chosokabe Motochika, who drew close to Nobunaga through her via Akechi Mitsuhide. But Nobunaga ignored Mitsuhide and planned to invade Shikoku, shaming him; this is called one cause of Mitsuhide's revolt.
 @557
 ????-1606\nLady Shinjo. Daughter of Kumagai Nobunao. Wife of Kikkawa Motoharu and mother of Motonaga, married at Motoharu's own wish. She was known to be plain, and when those around him, amazed, asked why, Motoharu said it was to win Nobunao's loyalty. Indeed Nobunao was moved, and served Motoharu and the Mori faithfully, they say.
 @558
-????-1613\nWife of Sanada Masayuki. Said to be a daughter of Uda Yoritada and sister of Ishida Mitsunari's wife, but there are other theories: daughter of Kikutei Harusue, of Ogimachi Sanehiko, or of the Takeda vassal Toyama; the truth is unknown. Mother of Nobuyuki and Yukimura. When Masayuki was confined at Kudoyama after Sekigahara, she became a nun called Kanshoin.
+????-1613\nWife of Sanada Masayuki. Said to be a daughter of Uda Yoritada and sister of Ishida Mitsunari's wife, though other origins are claimed; the truth is unknown. Mother of Nobuyuki and Yukimura. When Masayuki was confined at Kudoyama after Sekigahara, she became the nun Kanshoin.
 @559
-????-1571\nZuikei-in. Daughter of Imagawa Ujichika, sister of Yoshimoto. Through the Imagawa-Hojo alliance she became the wife of Hojo Ujiyasu. Of Ujiyasu's fifteen children she bore twelve, including Ujimasa and Ujiteru. Born of one mother, the siblings got along well, and the daughters married key generals, binding alliances that upheld Hojo power.
+????-1571\nZuikei-in. Daughter of Imagawa Ujichika, sister of Yoshimoto. Through the Imagawa-Hojo alliance she wed Hojo Ujiyasu and bore twelve of his fifteen children, including Ujimasa and Ujiteru. The siblings got along well, and the daughters' marriages bound alliances that upheld Hojo power.
 @560
 1518-1550\nJoke-in. Daughter of Takeda Nobutora, sister of Shingen. In the "Hanakura revolt", the succession war after Imagawa Ujiteru's death, Nobutora backed Yoshimoto, and the Takeda and Imagawa allied. So Joke-in went to Suruga as Yoshimoto's wife. She bore Ujizane and Reishoin (Takeda Yoshinobu's wife), but died young at 33.
 @561

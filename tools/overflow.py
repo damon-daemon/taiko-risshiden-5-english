@@ -95,6 +95,19 @@ def _tree(toks):
             stack[-1].append(('t', b, kind))
     return root
 
+def _paths(nodes, pre=b''):
+    """-> ([shown text of each way through the message], ends). A taken IF shows the
+    text before it plus its body and ends there; a skipped one goes on after it."""
+    out = []
+    for node in nodes:
+        if node[0] == 'if':
+            out += _paths(node[1], pre)[0]
+        elif node[0] == 'ret':
+            return out + [pre], True
+        else:
+            pre += node[1]
+    return out + [pre], False
+
 class Measure:
     """Longest expansion of TAI5MSG messages; get(block, entry) -> bytes or None."""
 
@@ -182,6 +195,7 @@ class Measure:
 # block: [(entries, body lines, object wrap width px, font, lines before the body)]
 PANELS = {n: [(range(1000), 6, 440, 'small', 1)] for n in range(28, 33)}
 PANELS[23] = [(range(84, 424), 5, 320, 'small', 0)]
+PANELS[22] = [(range(0, 458), 5, 320, 'small', 0)]   # item descriptions (same panel)
 
 @functools.lru_cache(None)
 def _font_widths(font):
@@ -229,7 +243,12 @@ def check_messages(get, elf, blocks_count=33, sizes=None):
                 b = get(n, i) if not sizes or i < sizes[n] else None
                 if b is None:
                     continue
-                v = sum(panel_lines(b, width, font)[head:])
+                # each way through the IFs (05 05 04 ... 05 05 05): shared text + one body
+                try:
+                    parts = _paths(_tree(msgscript.tokens(b)))[0]
+                except msgscript.ParseError:
+                    parts = [b]
+                v = max(sum(panel_lines(part, width, font)[head:]) for part in parts)
                 if v > limit:
                     errs.append('msg%02d #%d: %d lines > %d (fixed panel: text past it corrupts memory)'
                                 % (n, i, v, limit))
@@ -329,8 +348,9 @@ UI_LIMITS = {i: (8, 'temporary speaker name part, 9-byte record field (0x302140)
 UI_FORMATS = {482: (47, TOWN_ROOM, 'sprintf into a 48-byte stack buffer (0x3C2294)'),
               483: (47, TOWN_ROOM, 'sprintf into a 48-byte stack buffer (0x3C22AC)')}
 # elfstr: strcpy(16-byte buffer, terrain) + strcat(" Combat") at 0x254678
-ELFSTR_PAIRS = [((0x54A4A8, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)'),
-                ((0x54A4C8, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)')]
+# terrain name (table 0x54A4F0, or ' 城' 0x54A520) + ' Combat' (0x54A528)
+ELFSTR_PAIRS = [((va, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)')
+                for va in (0x54A4A8, 0x54A4B0, 0x54A4B8, 0x54A4C0, 0x54A4C8, 0x54A4D0, 0x54A4D8, 0x54A4E0, 0x54A520)]
 # record tables (elftables.py): bytes of an English name
 TABLE_LIMITS = {'techniques': (15, 'technique rename: strcpy into 16-byte stack buffers (0x32B488)')}
 PRINT_BUF = 63           # {02} prints go to a 64-byte stack buffer (0x347CAC)

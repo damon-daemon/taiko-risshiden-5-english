@@ -45,9 +45,8 @@ TL = setup.TL
 # their Japanese (lines <= ~400 px, <= 3 lines); check them in the emulator.
 WINDOW = (480, 3)
 BOXES = {n: WINDOW for n in list(range(17)) + [21, 24]}
-# msg22 = item/treasure descriptions: a panel of <=15 full-width chars x 5 lines in the
-# Japanese (assumed from the text; check in the emulator).
-BOXES[22] = (360, 5)
+# msg22 #0-457 = item/treasure descriptions: the same 20px-font panel as the card texts
+# (wraps by character at 320 px, 5 lines; measured 2026-10-28 on the Valuables detail).
 BOXES[23] = (360, 5)   # msg23 card descriptions (same panel as msg22; see NOT_WINDOW)
 BOXES[25] = (396, 11)  # msg25 battle advisor panel: widest Japanese line / most lines in the block
 BOXES[26] = (420, 9)   # msg26 battle advisor (castle defense lines)
@@ -78,6 +77,17 @@ for _n in range(17, 21):
 # main-menu Card List: a 20px-font panel that wraps by character at 320 px and holds 5 lines
 # (measured 2026-10-28, issue #8); no dates line.
 ENTRY_BOXES.setdefault(23, []).append((range(84, 424), (310, 5, 'small', 0)))
+ENTRY_BOXES.setdefault(22, []).append((range(0, 458), (310, 5, 'small', 0)))
+# Panels not measured yet: text past a fixed panel corrupts memory (issue #8), so these units
+# keep to their Japanese: no line wider than its widest line in the 24px or the 20px font, and
+# no more lines. (msg24 #0-214 is the message window, which pages itself.)
+STRICT = {**{n: range(200, 1000) for n in range(17, 21)}, 22: range(458, 1000),
+          23: {*range(0, 84), *range(424, 1000)}, 24: range(215, 1000),
+          25: range(1000), 26: range(1000), 27: range(181)}
+STRICT.update({n: NOT_WINDOW[n] for n in (8, 10, 11)})   # window blocks' help/guide panels
+# Help indexes: their one-line topic headings are items of one list, drawn in a column as wide
+# as its widest item, so a heading may be as wide as the widest one-line Japanese unit there.
+STRICT_COLUMN = {8, 10, 11, 19, 20, 24}
 LINE_BYTES = 120          # layout warning only: msgwindow caps a run at 127 bytes in code
 FULL_PX, HALF_PX = 24, 12  # full-width / half-width (kana) cells in the 24px font
 VAR_PX, VAR_BYTES = 120, 20   # an inserted name or number ({02} print)
@@ -161,6 +171,23 @@ def measure(toks, depth=0):
             p, b = insert_size(t, depth)
             px += p; nb += b
     return px, nb
+
+def jp_px(toks):
+    """Width of a Japanese line in the 24px font as the game shows it: half-width kana stand
+    for full-width hiragana, the voicing marks combine with them."""
+    px = 0
+    for kind, t in toks:
+        if kind == 'text':
+            i = 0
+            while i < len(t):
+                c = t[i]
+                if msgscript._sjis_lead(c) and i + 1 < len(t):
+                    px += FULL_PX; i += 2; continue
+                px += FULL_PX if 0xA1 <= c <= 0xDD else 0 if c in (0xDE, 0xDF) else HALF_PX
+                i += 1
+        elif kind == 'inline':
+            px += insert_size(t)[0]
+    return px
 
 _ENDS = {}
 
@@ -251,14 +278,31 @@ class Box:
                     ws += [measure(l)[0] for l in ls if measure(l)[0] <= FLOW_PX]
         ws.sort()
         self.floor = ws[len(ws) * 3 // 4] if ws else 0
+        self.column = 0
+        if n in STRICT_COLUMN:
+            for r in rows:
+                if r['id'] in STRICT[n]:
+                    toks, spans = msgscript.units(text.encode(r['jp']))
+                    for a, z in spans:
+                        ls = lines_of(toks[a:z])
+                        if len(ls) == 1:
+                            self.column = max(self.column, jp_px(ls[0]))
 
     def limits(self, jp_toks, entry=None):
         """(width px, max lines, lines per page or 0) for a unit."""
         jl = [measure(l)[0] for l in lines_of(jp_toks)]
+        global FONT
+        if entry in STRICT.get(self.n, ()):
+            # wrapped in the 20px font at the Japanese width in that font: the English is
+            # narrower than that in the 24px font too
+            FONT = 'small'
+            jl = [jp_px(l) for l in lines_of(jp_toks)]
+            if len(jl) == 1 and self.column:
+                return self.column * 20 // 24, 1, 0
+            return max(jl) * 20 // 24, len(jl), 0
         fixed = next((b for r, b in ENTRY_BOXES.get(self.n, ()) if entry in r), None)
         if not fixed and entry not in NOT_WINDOW.get(self.n, ()):
             fixed = self.fixed
-        global FONT
         FONT = fixed[2] if fixed and len(fixed) > 2 else 'large'
         if fixed:
             # the window wraps long lines itself: count the lines as shown
@@ -404,6 +448,7 @@ def check_unit(jp_toks, en):
 
 def build_entry(jp, units_en, box, tag, log):
     """Substitute English units into one message. -> en string ('' if none)."""
+    global FONT
     jb = text.encode(jp)
     toks, spans = msgscript.units(jb)
     out = [t for k, t in toks]
@@ -435,8 +480,24 @@ def build_entry(jp, units_en, box, tag, log):
                 warns.append('line %d is %d px > %d' % (i + 1, px, width))
             if nb > LINE_BYTES:
                 warns.append('line %d is %d bytes > %d' % (i + 1, nb, LINE_BYTES))
+        strict = int(tag.split('@')[1]) in STRICT.get(box.n, ())
+        if strict:
+            errs += [w for w in warns if ' px > ' in w]
+            warns = [w for w in warns if ' px > ' not in w]
+            FONT = 'large'      # the same lines in the 24px font (spaces don't scale 20/24)
+            for i, l in enumerate(lines):
+                px = measure(l)[0]
+                if px * 20 > width * 24 + 19:
+                    errs.append('line %d is %d px > %d in the 24px font' % (i + 1, px, width * 24 // 20))
+            FONT = 'small'
         if len(lines) > max_lines:
-            warns.append('%d lines > %d%s' % (len(lines), max_lines, ' (%d a page)' % page if page else ''))
+            (errs if strict else warns).append('%d lines > %d%s' % (len(lines), max_lines, ' (%d a page)' % page if page else ''))
+        if errs:
+            for e in errs:
+                log('%s.%d ERROR %s' % (tag, u, e), True)
+            for w in warns:
+                log('%s.%d warn  %s' % (tag, u, w), False)
+            continue
         for w in warns:
             log('%s.%d warn  %s' % (tag, u, w), False)
         new = join_lines(lines)
@@ -479,8 +540,16 @@ def apply(n, batch=None, check=True):
         print(msg)
         if err:
             bad.append(msg)
+    # two passes: an insert of a later entry of this block is measured as its English
+    # from the first (silent) pass, not as its Japanese
     for r in rows:
         r['en'] = ''
+    targets = {target(t[2], t[3])[1] for r in rows for k, t in msgscript.tokens(text.encode(r['jp']))
+               if k == 'inline' and t[:2] == b'\x01C' and len(t) == 4 and target(t[2], t[3])[0] == n}
+    first = {e: build_entry(rows[e]['jp'], dict(per[e]), box, 'msg%02d@%d' % (n, e), lambda m, err: None)
+             for e in targets if e in per and e < len(rows)}
+    for e, en in first.items():
+        rows[e]['en'] = en
     for e, us in sorted(per.items()):
         if e >= len(rows):
             log('msg%02d@%d ERROR no such entry' % (n, e), True); continue

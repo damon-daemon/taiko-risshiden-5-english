@@ -117,6 +117,7 @@ FULL_NAME = 0x301720
 SPRINTF = 0x3488A0
 RANK_FAMILY = [(0x4D6EC8, 's1'), (0x4DA5E4, 's2'), (0x4E06AC, 's3')]   # rank + family sprintf
 HERO_CARD = 0x2D3B34             # hero-select card name text object
+SAVE_HEADER = 0x30C398           # save header 0x30C280: strcpy of the record parts (+0x1C, +0x28)
 BUTTON_NAME = 0x38B18C           # jal strcpy(obj + 0x44 + i * 17, full name): person buttons
 STRLEN, STRNCPY = 0x33DF20, 0x33DFB0     # STRNCPY = SJIS-aware, writes n bytes + NUL
 MSG_FAMILY, MSG_FAMILY_FALLBACK, MSG_GIVEN = 0x2F2B9C, 0x2F2BBC, 0x2F2BE0
@@ -374,6 +375,22 @@ def apply(elf, data, seg, clean_elf):
     at = seg.end + (-seg.end % 4)
     seg.add(asm.assemble(at, fit17_code()), 4)
     p(BUTTON_NAME, [('jal', at)])
+    # save header (0x30C280, shown on the Save / Load screens with "%s %s"): family and
+    # given fields of 12 bytes got the record parts (cut forms) -> en_part, at most 11
+    # bytes each (SJIS strncpy writes n bytes + NUL)
+    o = SAVE_HEADER - elfseg.VBASE + elfseg.FOFF
+    assert struct.unpack_from('<7I', elf, o) == (0x8E850004, 0x0C0CF7DC, 0x2644001C, 0x8E820004,
+                                                 0x26440028, 0x0C0CF7DC, 0x24450009), 'save header names'
+    at = seg.end + (-seg.end % 4)
+    seg.add(asm.assemble(at, [
+        ('addiu', 'sp', 'sp', -32), ('sd', 'ra', 0, 'sp'), ('sd', 's0', 8, 'sp'), ('sd', 's1', 16, 'sp'),
+        ('addu', 's0', 'a0', 'zero'), ('addu', 's1', 'a1', 'zero'),
+        ('jal', labels['en_part']), ('addu', 'a1', 'zero', 'zero'),
+        ('addu', 'a1', 'v0', 'zero'), ('addiu', 'a0', 's1', 0x1C), ('jal', STRNCPY), ('addiu', 'a2', 'zero', 11),
+        ('addu', 'a0', 's0', 'zero'), ('jal', labels['en_part']), ('addiu', 'a1', 'zero', 1),
+        ('addu', 'a1', 'v0', 'zero'), ('addiu', 'a0', 's1', 0x28), ('jal', STRNCPY), ('addiu', 'a2', 'zero', 11),
+        ('ld', 'ra', 0, 'sp'), ('ld', 's0', 8, 'sp'), ('ld', 's1', 16, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 32)]), 4)
+    p(SAVE_HEADER, [('lw', 'a0', 4, 's4'), ('jal', at), ('addu', 'a1', 's2', 'zero'), ('nop',), ('nop',), ('nop',), ('nop',)])
     p(OFFICER_NAME, [('jal', labels['officer_name'])])
     # event text expander 0x233270: \#XXXX with the given / family form copied the
     # record part (cut form) -> en_part(record, kind); v0 = person object

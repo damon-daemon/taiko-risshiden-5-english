@@ -1,5 +1,5 @@
 @0.*
-There is no officer to ask for advice.
+No officer to ask for advice.
 @1
 We have plenty of rice, so we can\nfocus on the attack without worry.
 @1.1
@@ -13,11 +13,11 @@ The attackers seem to have brought plenty of rice.\nWe've got to be ready for a 
 @2.2
 The attackers seem to have brought plenty of rice.\nWe must be ready for a long siege.
 @3
-The attackers still seem to have plenty of rice.\nWe cannot hope they will retreat for lack of food.
+The attackers still have plenty of rice.\nThey won't retreat for want of food.
 @3.1
-The attackers still seem to have plenty of rice.\nWe can't hope they'll retreat for lack of food.
+The attackers still have plenty of rice.\nThey won't retreat for want of food.
 @3.2
-The attackers still seem to have plenty of rice.\nWe cannot hope they will retreat for lack of food.
+The attackers still have plenty of rice.\nThey won't retreat for want of food.
 @4
 The attackers still seem to have plenty of rice.
 @4.1
@@ -27,7 +27,7 @@ The attackers still seem to have plenty of rice.
 @5
 We have enough rice; I believe\nthere is no need to worry about supplies.
 @5.1
-We have enough rice; I believe\nthere is no need to worry about supplies.
+We've enough rice; no need to worry about supplies.
 @5.2
 We have enough rice; I believe\nthere is no need to worry about supplies.
 @6
@@ -37,11 +37,11 @@ The attackers seem to have brought enough rice.\nThis may become a long siege.
 @6.2
 The attackers seem to have brought enough rice.\nThis may become a long siege.
 @7
-The attackers still seem to have enough rice.\nWe cannot hope they will retreat for lack of food.
+The attackers still have enough rice.\nThey won't retreat for want of food.
 @7.1
-The attackers still seem to have enough rice.\nWe can't hope they'll retreat for lack of food.
+The attackers still have enough rice.\nThey won't retreat for want of food.
 @7.2
-The attackers still seem to have enough rice.\nWe cannot hope they will retreat for lack of food.
+The attackers still have enough rice.\nThey won't retreat for want of food.
 @8
 The attackers still seem to have enough rice.
 @8.1
@@ -103,11 +103,11 @@ Our rice is running quite low.\nWe have no choice but to storm them at once.
 @17.2
 Our rice is running quite low.\nWe have no choice but to storm them at once.
 @18
-The attackers seem short of rice.\nIf we hold the gates firmly until their rice runs out,\nthey will have to withdraw.
+The attackers seem short of rice. If we hold the gates until it runs out, they must withdraw.
 @18.1
-The attackers seem short of rice.\nIf we hold the gates firmly until their rice runs out,\nthey'll have to withdraw.
+The attackers seem short of rice. Hold the gates till it runs out and they'll have to withdraw.
 @18.2
-The attackers seem short of rice.\nIf we hold the gates firmly until their rice runs out,\nthey will have to withdraw.
+The attackers seem short of rice. If we hold the gates until it runs out, they must withdraw.
 @19
 The attackers seem short of rice,\nbut we have little to spare ourselves.\nIt would be wise to attack actively.
 @19.1
@@ -135,7 +135,7 @@ The defenders seem to have more than a month of rice.\nStarving them out would t
 @23
 Our rice will last more than a month.\nUnless the siege drags on,\nthere is no need to worry about supplies.
 @23.1
-Our rice will last more than a month.\nUnless the siege drags on,\nthere is no need to worry about supplies.
+Our rice will last over a month. Unless the siege drags on, there's no need to worry.
 @23.2
 Our rice will last more than a month.\nUnless the siege drags on,\nthere is no need to worry about supplies.
 @24
@@ -395,7 +395,7 @@ Right now we have the upper hand in numbers.\nOnly the main keep remains, but th
 @67
 Right now we have the upper hand in numbers.\nThe defenders are many, but only their main keep\nremains, and their defense is not very high,\nso let us crush them in one go.
 @67.1
-Right now we have the upper hand in numbers.\nThe defenders are many, but only their main keep\nremains, and their defense isn't very high,\nso let us crush them in one go.
+Right now we have the upper hand in numbers. The defenders are many, but only their main keep remains, and their defense isn't high, so let's crush them in one go.
 @67.2
 Right now we have the upper hand in numbers.\nThe defenders are many, but only their main keep\nremains, and their defense is not very high,\nso let us crush them in one go.
 @68.*
@@ -409,11 +409,11 @@ Right now we have the upper hand in numbers.\nThe defenders are many, but only t
 @70.*
 Right now we have the upper hand in numbers.\nThe defenders are many, but only their main keep\nremains, and their defense is low,\nso let us crush them in one go.
 @71
-Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso i believe we should call reinforcements\nto strengthen our forces.
+Right now we have the upper hand in numbers. But the defenders are many and their defense is high, so I believe we should call reinforcements.
 @71.1
-Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso i believe we should call reinforcements\nto strengthen our forces.
+We have the upper hand in numbers now. But the defenders are many and their defense is high, so we should call reinforcements.
 @71.2
-Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso i believe we should call reinforcements\nto strengthen our forces.
+Right now we have the upper hand in numbers. But the defenders are many and their defense is high, so I believe we should call reinforcements.
 @72
 Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso we must be ready for heavy losses.
 @72.1
@@ -473,7 +473,7 @@ Right now we have the upper hand in numbers.\nBut the defenders are many, and th
 @82
 Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso i expect more losses yet.\nI believe we should call reinforcements\nto strengthen our forces.
 @82.1
-Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso i expect more losses yet.\nI think we should call reinforcements\nto strengthen our forces.
+Right now we have the upper hand in numbers. But the defenders are many and their defense is high, so expect more losses yet. We should call reinforcements.
 @82.2
 Right now we have the upper hand in numbers.\nBut the defenders are many, and their defense is high,\nso i expect more losses yet.\nI believe we should call reinforcements\nto strengthen our forces.
 @83
@@ -485,7 +485,7 @@ Right now we have the upper hand in numbers.\nBut the defenders are many, and th
 @84
 Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot very high.\nBut the defenders are many, so I expect more losses yet.\nShall we call reinforcements\nto strengthen our forces?
 @84.1
-Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot very high.\nBut the defenders are many, so I expect more losses yet.\nShall we call reinforcements\nto strengthen our forces?
+Right now we have the upper hand in numbers, and {02}{15}n's defense isn't very high. But the defenders are many, so expect more losses yet. Shall we call reinforcements?
 @84.2
 Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot very high.\nBut the defenders are many, so I expect more losses yet.\nShall we call reinforcements\nto strengthen our forces?
 @85.*
@@ -499,7 +499,7 @@ Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot 
 @87
 Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot very high.\nBut the defenders are many, so I expect more losses yet.\nShall we call reinforcements\nto strengthen our forces?
 @87.1
-Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot very high.\nBut the defenders are many, so I expect more losses yet.\nShall we call reinforcements\nto strengthen our forces?
+Right now we have the upper hand in numbers, and {02}{15}n's defense isn't very high. But the defenders are many, so expect more losses yet. Shall we call reinforcements?
 @87.2
 Right now we have the upper hand in numbers.\nAlso, {02}{15}n's defense is\nnot very high.\nBut the defenders are many, so I expect more losses yet.\nShall we call reinforcements\nto strengthen our forces?
 @88
@@ -677,7 +677,7 @@ Right now we are slightly ahead in numbers.\nThe defenders are many, but only th
 @118
 Right now we are slightly ahead in numbers.\nThe defenders are many, but only their main keep\nremains, and {02}{15}n's defense is low,\nso i believe we can take the keep with what we have.
 @118.1
-Right now we are slightly ahead in numbers.\nThe defenders are many, but only their main keep\nremains, and {02}{15}n's defense is low,\nso i believe we can take the keep with what we have.
+Right now we are slightly ahead in numbers. The defenders are many, but only the main keep remains and {02}{15}n's defense is low: we can take it with what we have.
 @118.2
 Right now we are slightly ahead in numbers.\nThe defenders are many, but only their main keep\nremains, and {02}{15}n's defense is low,\nso i believe we can take the keep with what we have.
 @119
@@ -903,7 +903,7 @@ Right now we are slightly outnumbered.\nOur defense is not high either,\nbut we 
 @159
 Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but there is no\nguarantee we can take it like this.\nI believe we should call reinforcements at once.
 @159.1
-Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but there is no\nguarantee we can take it like this.\nI think we should call reinforcements at once.
+Right now we are hopelessly outnumbered. Only the main keep remains, but we may not take it like this. Call reinforcements at once.
 @159.2
 Right now we are hopelessly behind in numbers.\nOnly the main keep remains, but there is no\nguarantee we can take it like this.\nI believe we should call reinforcements at once.
 @160
@@ -927,7 +927,7 @@ Right now we are hopelessly behind in numbers.\nI believe we should call reinfor
 @163
 Right now we are hopelessly behind in numbers.\nI believe we should call reinforcements at once.
 @163.1
-Right now we are hopelessly behind in numbers.\nI think we should call reinforcements at once.
+Right now we are hopelessly outnumbered.\nWe should call reinforcements at once.
 @163.2
 Right now we are hopelessly behind in numbers.\nI believe we should call reinforcements at once.
 @164
@@ -939,7 +939,7 @@ Right now we are hopelessly behind in numbers.\nI believe we should retreat for 
 @165
 Right now we are hopelessly behind in numbers.
 @165.1
-Right now we are hopelessly behind in numbers.
+Right now we are hopelessly outnumbered.
 @165.2
 Right now we are hopelessly behind in numbers.
 @166
@@ -951,7 +951,7 @@ Right now we vastly outnumber the attackers.\nBut only the main keep is left, so
 @167
 Right now we vastly outnumber the attackers.\nI believe we can drive them off\neven without reinforcements.
 @167.1
-Right now we vastly outnumber the attackers.\nI think we can drive them off\neven without reinforcements.
+Right now we vastly outnumber them. We can drive them off without reinforcements.
 @167.2
 Right now we vastly outnumber the attackers.\nI believe we can drive them off\neven without reinforcements.
 @168
