@@ -58,6 +58,7 @@ def assemble(origin, lines):
             'b': lambda: _i(0x04, 'zero', 'zero', off(a[0])),
             'j': lambda: 0x02 << 26 | (tgt(a[0]) >> 2) & 0x3FFFFFF,
             'jr': lambda: _r(a[0], 'zero', 'zero', 0, 0x08),
+            'jalr': lambda: _r(a[0], 'zero', 'ra', 0, 0x09),
             'addu': lambda: _r(a[1], a[2], a[0], 0, 0x21),
             'sll': lambda: _r('zero', a[1], a[0], a[2], 0x00),
             'movz': lambda: _r(a[1], a[2], a[0], 0, 0x0A),
