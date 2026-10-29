@@ -182,6 +182,7 @@ class Measure:
 # block: [(entries, body lines, object wrap width px, font, lines before the body)]
 PANELS = {n: [(range(1000), 6, 440, 'small', 1)] for n in range(28, 33)}
 PANELS[23] = [(range(84, 424), 5, 320, 'small', 0)]
+PANELS[22] = [(range(0, 458), 5, 320, 'small', 0)]   # item descriptions (same panel)
 
 @functools.lru_cache(None)
 def _font_widths(font):
@@ -229,7 +230,9 @@ def check_messages(get, elf, blocks_count=33, sizes=None):
                 b = get(n, i) if not sizes or i < sizes[n] else None
                 if b is None:
                     continue
-                v = sum(panel_lines(b, width, font)[head:])
+                # IF bodies (05 05 04 ... 05 05 05) are alternatives: the longest counts
+                v = max(sum(panel_lines(part, width, font)[head:])
+                        for part in re.split(rb'\x05\x05[\x04\x05]', b))
                 if v > limit:
                     errs.append('msg%02d #%d: %d lines > %d (fixed panel: text past it corrupts memory)'
                                 % (n, i, v, limit))

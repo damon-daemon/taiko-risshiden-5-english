@@ -45,9 +45,8 @@ TL = setup.TL
 # their Japanese (lines <= ~400 px, <= 3 lines); check them in the emulator.
 WINDOW = (480, 3)
 BOXES = {n: WINDOW for n in list(range(17)) + [21, 24]}
-# msg22 = item/treasure descriptions: a panel of <=15 full-width chars x 5 lines in the
-# Japanese (assumed from the text; check in the emulator).
-BOXES[22] = (360, 5)
+# msg22 #0-457 = item/treasure descriptions: the same 20px-font panel as the card texts
+# (wraps by character at 320 px, 5 lines; measured 2026-10-28 on the Valuables detail).
 BOXES[23] = (360, 5)   # msg23 card descriptions (same panel as msg22; see NOT_WINDOW)
 BOXES[25] = (396, 11)  # msg25 battle advisor panel: widest Japanese line / most lines in the block
 BOXES[26] = (420, 9)   # msg26 battle advisor (castle defense lines)
@@ -78,6 +77,7 @@ for _n in range(17, 21):
 # main-menu Card List: a 20px-font panel that wraps by character at 320 px and holds 5 lines
 # (measured 2026-10-28, issue #8); no dates line.
 ENTRY_BOXES.setdefault(23, []).append((range(84, 424), (310, 5, 'small', 0)))
+ENTRY_BOXES.setdefault(22, []).append((range(0, 458), (310, 5, 'small', 0)))
 LINE_BYTES = 120          # layout warning only: msgwindow caps a run at 127 bytes in code
 FULL_PX, HALF_PX = 24, 12  # full-width / half-width (kana) cells in the 24px font
 VAR_PX, VAR_BYTES = 120, 20   # an inserted name or number ({02} print)

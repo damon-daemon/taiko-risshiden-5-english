@@ -57,7 +57,7 @@ Light armour worn by foot soldiers. Easy to move in, but little use for protecti
 @28
 Honda Tadakatsu's spear. A dragonfly that landed on its tip fell cut in two, hence the name: "dragonfly cutter".
 @29
-A spear over 3 m long, carved with Kurikara, a dragon king and avatar of Fudo Myoo. Famous as the spear Mori Tahee, one of Kuroda's 24 Riders, won from Fukushima Masanori in a drinking bout.
+A spear over 3 m long, carved with Kurikara, a dragon king and avatar of Fudo Myoo. Famed as the spear Mori Tahee of Kuroda's 24 Riders won from Fukushima Masanori in a drinking bout.
 @30
 Yuki Harutomo's spear, one of the Three Great Spears of the realm with Nihongo and Tonbogiri. It burned in an air raid in the war and no longer survives.
 @31
@@ -135,7 +135,7 @@ Sasaki Kojiro's sword, said to be by Nagamitsu of Osafune, Bizen, and about 93 c
 @67
 Made by Tsunetsugu of Bitchu. One of the Five Great Swords, given by a believer to Saint Nichiren of Minobu. Used against evil with a rosary hung on it, hence "Juzumaru".
 @68
-Made by Chikuzen Saemon-no-jo Yasuyoshi. Miyoshi Masanaga (Sozo) gave it to Takeda Nobutora, who gave it to Imagawa Yoshimoto. Then it passed to Nobunaga, Mitsuhide, Hideyoshi and Ieyasu.
+Made by Chikuzen Saemon-no-jo Yasuyoshi. Miyoshi Masanaga gave it to Takeda Nobutora, who gave it to Imagawa Yoshimoto; then it passed to Nobunaga, Mitsuhide, Hideyoshi and Ieyasu.
 @69
 A rusty sickle with a token chain and weight. Not very powerful.
 @70
@@ -327,7 +327,7 @@ First of the Four Books, the Confucian canon. Said to be the sayings of Confuciu
 @163
 A book of war said to be by Wei Liao, strategist of the First Emperor of Qin.
 @164
-A Confucian classic, one of the Four Books with the Analects, Great Learning and Doctrine of the Mean. Mencius's dialogues with lords and students. Mencius is famed for teaching that human nature is good.
+A Confucian classic, one of the Four Books with the Analects, Great Learning and Doctrine of the Mean: Mencius's talks with lords and students. Mencius taught that human nature is good.
 @165
 An anthology by Prince Zhaoming of Liang, 6th century: a thousand years of fine writing by style and era.
 @166
@@ -425,7 +425,7 @@ One of the Three Tea Jars of the Realm, named for its many lumps like the island
 @212
 One of Murata Juko's treasures and of the Four Eggplants of the Realm. Takigawa Kazumasu famously asked Nobunaga for it as a reward and was crushed to be refused. Lost at Honnoji.
 @213
-A great leaf-tea jar, one of the Three Tea Jars of the Realm, named for its seven lumps and slight tilt. It passed from Ashikaga Yoshimasa and Miyoshi Yoshikata to Nobunaga, and burned at Honnoji.
+A great leaf-tea jar, one of the Three Tea Jars of the Realm, named for its seven lumps and slight tilt. Owned by Ashikaga Yoshimasa, Miyoshi Yoshikata and Nobunaga; burned at Honnoji.
 @214
 One of the Three Great Shouldered Caddies, said to be Yang Guifei's oil jar. Ashikaga Yoshimasa named it "First Flower" for its noble beauty. Nobunaga bought it from a Kyoto merchant.
 @215
@@ -903,7 +903,7 @@ Firewood baked without air, used for watch fires in castles and camps.
 @432
 As times grew settled from the Azuchi-Momoyama to Edo eras, many new women's hairstyles appeared, and demand for combs and hairpins rose.
 @433
-Tatami were once precious; samurai and commoners sat cross-legged on round cushions on wooden floors. From the Sengoku era, partly through tea, they spread fast, and kneeling became the norm.
+Tatami were once precious; samurai and commoners sat cross-legged on round cushions on wooden floors. From the Sengoku era, helped by tea, they spread fast and kneeling became the norm.
 @434
 Mostly oiled paper on a frame of bamboo or wood. Merchant houses made umbrellas with their shop names to advertise.
 @435
