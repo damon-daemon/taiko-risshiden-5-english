@@ -15,7 +15,7 @@ import datafile, latinfont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'scenarios.txt')
-FIRST = 5                       # TAI5DATA entry of scenario 1
+FIRST = 10                       # TAI5DATA entry of scenario 1
 TITLE, TITLE_LEN = 0x05, 17
 INTRO, INTRO_LEN = 0x16, 400
 WIDTH = 236

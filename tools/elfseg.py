@@ -1,26 +1,27 @@
 """English data segment: code and data the patches need, loaded at the end of the BSS.
 
-The ELF has two PT_LOAD program headers; the second (at _end = 0x8B3380) is empty.
+The ELF has two PT_LOAD program headers; the second (at _end = 0x8B7700) is empty.
 Filling it makes the loader place our bytes right after the BSS. The heap starts at
 _end, so crt0 is patched to start it after the segment instead:
 
   0x1001D0/0x1001D8  lui/addiu a0 = _end   SetupHeap syscall (0x3D): heap start
-  0x1005A4/0x1005B0  lui/addiu a0 = _end   size of the one big malloc arena
-  0x1005F4/0x100600  lui/addiu a1 = _end   (same, second copy)
+  0x1005C8/0x1005D4  lui/addiu v1 = _end   size of the one big malloc arena
+  0x100618/0x10062C  lui/addiu a0 = _end   (same, second copy)
 
-  0x5142B4           word = _end           libkernel sbrk's heap pointer (sbrk 0x10F4C0)
+  0x51D034           word = _end           libkernel sbrk's heap pointer (read at 0x10F568)
 
-0x100120/0x100128 (BSS clear end) stays: the BSS still ends at 0x8B3380.
+0x100120/0x100128 (BSS clear end) stays: the BSS still ends at 0x8B7700.
+(Koei the Best addresses; the original edition had _end = 0x8B3380.)
 """
 import struct, sys, os
 
 sys.path.insert(0, os.path.dirname(__file__))
 import asm
 
-BASE = 0x8B3380
+BASE = 0x8B7700
 FOFF, VBASE = 0x80, 0x100000
-HEAP_SITES = [(0x1001D0, 0x1001D8, 'a0'), (0x1005A4, 0x1005B0, 'a0'), (0x1005F4, 0x100600, 'a1')]
-HEAP_WORDS = [0x5142B4]
+HEAP_SITES = [(0x1001D0, 0x1001D8, 'a0'), (0x1005C8, 0x1005D4, 'v1'), (0x100618, 0x10062C, 'a0')]
+HEAP_WORDS = [0x51D034]
 
 class Segment:
     def __init__(self, base=BASE):
@@ -63,6 +64,8 @@ def apply(elf, seg):
     struct.pack_into('<8I', elf, phoff + 32, 1, off, BASE, BASE, size, size, 7, 0x10)
     end = (BASE + size + 0xFF) & ~0xFF
     for lui, addiu, reg in HEAP_SITES:
+        assert elf[lui - VBASE + FOFF:lui - VBASE + FOFF + 4] == asm.assemble(lui, [('lui', reg, asm.hi(BASE))])
+        assert elf[addiu - VBASE + FOFF:addiu - VBASE + FOFF + 4] == asm.assemble(addiu, [('addiu', reg, reg, asm.lo(BASE))])
         patch(elf, lui, asm.assemble(lui, [('lui', reg, asm.hi(end))]))
         patch(elf, addiu, asm.assemble(addiu, [('addiu', reg, reg, asm.lo(end))]))
     for va in HEAP_WORDS:

@@ -1,9 +1,9 @@
 """Battle titles: "Battle of <place>" instead of "<place>の戦い".
 
-0x253460 builds the battle title in a 28-byte stack buffer (sp+0x60) with
+0x2522C0 builds the battle title in a 28-byte stack buffer (sp+0x60) with
 strcpy(buf, place) and strcat(buf, "の戦い") (four sites: named battles, castles,
 provinces, towns). The strcat calls are replaced by prefix(buf, s), which puts s
-(tl/elfstr.txt 54a3c8 = "Battle of ") in front of the place name and cuts the result
+(tl/elfstr.txt 553138 = "Battle of ") in front of the place name and cuts the result
 to 27 characters. The suffix string stays the argument, so its English is the prefix.
 """
 import os, sys
@@ -11,7 +11,8 @@ import os, sys
 sys.path.insert(0, os.path.dirname(__file__))
 import asm, elfseg
 
-STRCAT_CALLS = [0x253570, 0x2535B0, 0x25365C, 0x2536B4]
+STRCAT = 0x12BE90
+STRCAT_CALLS = [0x2523AC, 0x2523F0, 0x252548, 0x25257C]    # Koei the Best
 MAX = 27
 
 def code(tmp):
@@ -36,5 +37,5 @@ def apply(elf, seg):
     at = seg.end + (-seg.end % 4)
     seg.add(asm.assemble(at, code(tmp)), 4)
     for call in STRCAT_CALLS:
-        assert elf[call - elfseg.VBASE + elfseg.FOFF:][:4] == asm.assemble(call, [('jal', 0x12BE10)])
+        assert elf[call - elfseg.VBASE + elfseg.FOFF:][:4] == asm.assemble(call, [('jal', STRCAT)])
         elfseg.patch(elf, call, asm.assemble(call, [('jal', at)]))

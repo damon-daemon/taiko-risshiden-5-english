@@ -1,12 +1,12 @@
 """Money in messages: "500 mon", "3 kan 500 mon" instead of "500文", "3貫500文".
 
-The game's printf (0x340xxx) prints %m / %M (money, half- / full-width digits) with
-0x33FC10(emit, value, width, fullwidth): for each unit (index 0 = 貫, 1 = 文) it
+The game's printf prints %m / %M (money, half- / full-width digits) with
+0x344FB0(emit, value, width, fullwidth) (Koei the Best): for each unit (index 0 = 貫, 1 = 文) it
 prints the number, then the unit as one SJIS character from the word table at
 gp-0x6438 (two emit calls), and stops when the rest is 0. The two emit calls are
 replaced by unit(index, emit, value, divisor), which emits " kan" or " mon" and,
 after " kan", a space when a mon part follows (rest = value % divisor, as the
-caller computes next with 0x1201C8). It returns the bytes emitted; the caller
+caller computes next with 0x120248). It returns the bytes emitted; the caller
 counts 2 per unit, so the patch adds the difference.
 """
 import os, sys
@@ -14,8 +14,8 @@ import os, sys
 sys.path.insert(0, os.path.dirname(__file__))
 import asm, elfseg
 
-SITE = 0x33FD38          # unit index -> word table -> two jalr emit calls (10 words)
-MOD = 0x1201C8           # 64-bit remainder (a0 % a1)
+SITE = 0x3450A8          # unit index -> word table -> two jalr emit calls (10 words)
+MOD = 0x120248           # 64-bit remainder (a0 % a1)
 UNITS = (b' kan', b' mon')
 ORIGINAL = (0x0011103C, 0x0002103F, 0x00021880, 0x2782 << 16 | 0x9BC8, 0x0043A821,
             0x8EA20000, 0x0280F809, 0x00022203, 0x0280F809, 0x92A40000)

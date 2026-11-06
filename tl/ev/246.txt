@@ -323,9 +323,9 @@ Bandits haunt the remote mountains. Heading into the mountains to take a shortcu
 @3.45
 On busy highways, on the other hand, you're seldom attacked... though it can happen.
 @3.46
-In case you do meet mountain bandits, you can also hire a bouncer.
+In case you do meet mountain bandits, you can also hire a bodyguard.
 @3.47
-You can hire bouncers at the tavern in each town. The bigger the town, the better the bouncers may be.
+You can hire bodyguards at the tavern in each town. The bigger the town, the better the bodyguards may be.
 @3.48
 They may cost a bit, but your life is worth more.
 @3.49
@@ -373,7 +373,7 @@ Well, it has nothing to do with a wandering ronin like me... I'll go my own way.
 @5.16
 \#07FE went on living a carefree life and left this world at the age of \1007...
 @6.0
-In \M001, month \M002, the \B079 became merchant chief of every trade area in the land and came to be called "the greatest merchant in the land."
+In \M001, month \M002, the \B079 became merchant chief of every trade area and was called "the greatest merchant in the land."
 @6.1
 To think the day would come when my \B079 would control every market in the land...
 @6.2
@@ -479,7 +479,7 @@ As the age of war drew to an end, the \B079 took control of the nation's trade, 
 @7.19
 \#07FE, too, was allowed to open a shop under the same name and lived on as a merchant of the new age.
 @8.0
-In \M001, month \M002, the \E079 brought all the seas around Japan under its control and came to be called "the greatest pirate band in the land."
+In \M001, month \M002, the \E079 ruled all the seas around Japan and was called "the greatest pirate band in the land."
 @8.1
 At last my \E079 has become the ruler of the seas, a pirate band without equal in Japan...
 @8.2
@@ -545,13 +545,13 @@ Thanks to all of you, the ninja of this land are united as one. I'm counting on 
 @9.6
 No... ninja are creatures of the shadows. We must never step into the light. Never forget that.
 @9.8
-After that the \D079 devoted itself to secret work in support of the \A3A2, but in real power, master and servant were already trading places...
+After that the \D079 kept to secret work for the \A3A2, but in real power, master and servant were already trading places...
 @9.9
 Some in the \D079, aware of their strength, began to resent working behind the scenes, and an uneasy mood spread through the \D079.
 @9.10
 Unable to resist those voices, \#07F0 gradually began pressing the \A3A2 for better treatment.
 @9.11
-In time a mood took hold in which even the \A3A2 could not go against the \D079's wishes, and master and servant changed places completely.
+In time even the \A3A2 could not go against the \D079's wishes, and master and servant changed places completely.
 @9.12
 Later the \D079 backed no clan at all, but expanded its own power and reigned over the world of shadows...
 @9.13
@@ -1267,7 +1267,7 @@ The dojo of \#0FFE, famed as the finest martial master in the land, drew many st
 @11.430
 and flourished as the official martial art of the \Z002...
 @11.431
-Submitting to Lord \#17F5 was the right choice... We are outside lords, but the \Z002 will not treat our house lightly...
+Submitting to Lord \#17F5 was right... We are outside lords, but the \Z002 will not treat our house lightly...
 @11.432
 The \Z002 reassigned the daimyo of the land; the \A3A4 was moved to \51E7 and given \1009 ten-thousand koku.
 @11.433
@@ -1289,7 +1289,7 @@ Indeed... your foresight is profound, my lord.
 @11.443
 Though an outside daimyo, the \A3A4 had a part in the \Z002's government, heading the Samurai Office at \51E5,
 @11.444
-Though an outside daimyo, the \A3A4 was allowed a part in the government of the \Z002, held high office and attended court at \51E5,
+Though an outside daimyo, the \A3A4 had a part in the \Z002, held high office and attended court at \51E5,
 @11.445
 and the great task of guarding and governing \51E7 in its absence was entrusted to \#07FE...
 @11.448
@@ -1297,7 +1297,7 @@ To think Lord \#17F5 would take the realm... Perhaps we should have followed him
 @11.449
 The \A3A4 naturally had no choice but to submit to \#07F5, ruler of the realm.
 @11.451
-Though bound into the order of the \Z002 as an outside daimyo, \#07FE left a name to later ages as a tea-master daimyo...
+Though bound into the \Z002 as an outside daimyo, \#07FE left a name to later ages as a tea-master daimyo...
 @11.452
 And as just another outside daimyo, the house became a pawn in the order of the \Z002...
 @11.454
@@ -1411,7 +1411,7 @@ The \E079 changed its role to that of a coast guard keeping the peace at sea, an
 @11.524
 Sea traffic and the flow of goods came under the sole control of the \E079, which held the great artery of the sea...
 @11.526
-The \E079 was forced to disband, \;1FA came under direct rule of the \A3A2, and \#07FE and the rest were driven out...
+The \E079 was disbanded, \;1FA came under direct rule of the \A3A2, and \#07FE and the rest were driven out...
 @11.527
 Some in the \E079 resisted stubbornly, but were helplessly defeated by the great army of the \Z002...
 @11.528
@@ -1427,7 +1427,7 @@ and lived on only in people's memories...
 @11.536
 \#07FE won the reverence of the lords as martial arts instructor to the \A3A2, with a fame in martial skill that none could match...
 @11.537
-The dojo of \#0FFE, which produced many students, prospered greatly under the patronage of the \Z001, and even commoners flocked to join.
+The dojo of \#0FFE, which produced many students, prospered under the patronage of the \Z001, and even commoners flocked to it.
 @11.538
 \#0FFE's books on martial arts also influenced warriors everywhere and laid the foundations of modern budo...
 @11.539
@@ -1463,7 +1463,7 @@ After that, \#07FE taught \Z004 to students at the dojo and spread the \F03D.
 @11.554
 There were many students, and many of them went on to found new schools.
 @11.555
-The \F03D and the name of \#07FE left a brilliant mark on the history of modern martial arts and were handed down to later ages...
+The \F03D and the name of \#07FE left a brilliant mark on the history of martial arts and were handed down to later ages...
 @11.556
 After that, \#07FE taught \Z004 at the dojo and raised many students...
 @11.557
@@ -1577,7 +1577,7 @@ Though the \Z002 had united the realm, there were many who did not accept its ru
 @11.617
 None of them came close to overthrowing the \Z002, but little by little they sapped its strength...
 @11.618
-The \Z002, which had produced able \Z001s for several generations, came in time to be inherited by dull rulers who knew no hardship,
+The \Z002, which had produced able \Z001s for generations, in time passed to dull rulers who knew no hardship,
 @11.619
 and in the end, unable to hold down the revolts, it died out after only eighty years.
 @11.620
@@ -1601,7 +1601,7 @@ Instead, petty daimyo allied with foreigners sprang up everywhere, and Japan bec
 @11.629
 And no government to unite Japan appeared for a long time after...
 @11.631
-It went on even after the death of \#07F5, and the people, weary of endless strife, were at last giving up on the \Z002.
+It went on after the death of \#07F5, and the people, weary of endless strife, were at last giving up on the \Z002.
 @11.632
 Just then, a shocking event occurred: the assassination of the \Z001...
 @11.633
@@ -1949,15 +1949,15 @@ Thank you.\nPlease do.
 @19.5
 Let's see, where to start...
 @19.6
-At the tavern you can [Hire bouncer], [Fire bouncer], [Work], [Drink], [Gamble], and talk to other customers.
+At the tavern you can [Hire bodyguard], [Fire bodyguard], [Work], [Drink], [Gamble], and talk to other customers.
 @19.7
-If you [Hire bouncer], they'll fight beside you when bandits attack.
+If you [Hire bodyguard], they'll fight beside you when bandits attack.
 @19.8
-The bigger the town, the stiffer the competition, so the bouncers are better. Hiring in some backwater town isn't a good idea.
+The bigger the town, the stiffer the competition, so the bodyguards are better. Hiring in some backwater town isn't a good idea.
 @19.9
-[Fire bouncer] is obvious, right? When you have a bouncer, you send them packing.
+[Fire bodyguard] is obvious, right? When you have a bodyguard, you send them packing.
 @19.10
-A bouncer's contract lasts 60 days, so when that's up they'll leave on their own...
+A bodyguard's contract lasts 60 days, so when that's up they'll leave on their own...
 @19.11
 But if you want to hire another, or they get in the way of the [Work] I'll explain next, you can end the contract early.
 @19.12
@@ -1965,7 +1965,7 @@ With [Work] you take a job that's come to the tavern and get paid for it.
 @19.13
 You can take jobs at the guilds too, but tavern jobs are a different sort.
 @19.14
-Some jobs don't allow bouncers, so be careful not to waste your bouncer's fee.
+Some jobs don't allow bodyguards, so be careful not to waste your bodyguard's fee.
 @19.15
 With [Drink] you can buy sake. Some towns sell local brews. They might make good gifts.
 @19.16
@@ -1979,7 +1979,7 @@ Oh, and don't forget: chips sell back for less than they cost, so they lose valu
 @19.20
 If you buy 100 chips, you have to grow them to 125 before cashing in just to break even.
 @19.21
-You can only bet so many chips at a time anyway, so buy only what you'll bet, bother as it is, and avoid needless losses.
+You can only bet so many chips at a time anyway, so it's a bother, but buy only what you'll bet and avoid needless losses.
 @19.22
 It's a long explanation, but this is the last part. Samurai and famous people sometimes come to the tavern to drink.
 @19.23
@@ -19207,7 +19207,7 @@ Once you win the duel, the job is done. Don't forget to report to the tavern and
 @565.0
 Bodyguard, they say... Where do I go and what do I do?
 @565.4
-Mm, Bodyguard, is it? You must stay at the tavern as a bouncer and drive off rowdy drunks in fights.
+Mm, Bouncer, is it? You must stay at the tavern as a bouncer and drive off rowdy drunks in fights.
 @565.6
 Once you've served as bouncer for the set time, the job is done. Don't forget to report to the tavern and collect your pay.
 @566.0

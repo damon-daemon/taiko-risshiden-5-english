@@ -29,6 +29,7 @@ usage:
 import functools, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
+import edition
 import evscript, setup, text, tl
 
 ROOT = setup.ROOT
@@ -42,11 +43,18 @@ NAME_BYTES = 8                  # 5A speaker / 3C names: 9-byte fields
 LINE_BYTES = tl.LINE_BYTES
 FULL_PX, HALF_PX = 24, 12
 NAME_PX, NAME_BYTES_DEFAULT = 150, 20     # a person whose English name is unknown (hero...)
-VAR_PX, VAR_BYTES = 80, 12                # \Xnnn values (numbers, places, dates)
+VAR_PX, VAR_BYTES = 80, 12                # \Xnnn values (numbers, dates)
+# \Xnnn kinds that are names (3 = person, A clan, B/C merchant houses, D ninja, E pirates,
+# F school, 4/5/6/=/</;/N/e places, > item, G region): English is far wider than 80 px
+# (the game broke "Lord \37F0 has his eye on you" mid-word).  Z00n = text slot n set
+# by op 1E: measured from the 1E strings (of the entry if it sets the slot, else all).
+NAME_VAR_PX = {'3': NAME_PX}
+NAME_VAR_PX.update((c, 120) for c in '456=<;NeABCDEFG>')
+_entry = [None]                 # entry being measured (for \Z00n)
 
 ESC = re.compile(rb'\\(#[0-9A-Fa-f]{4}|%(?:02|04|20)[0-9A-Fa-f]{3}|%[0-9A-Fa-f]{2}|&[0-9A-Fa-f]{2}'
                  rb'|[0-9;<=>?A-Za-z][0-9A-Fa-f]{3})')
-PRONOUN = 0x547720              # jump table of the \% cases: index -> msg00 entry
+PRONOUN = 0x5504A0              # jump table of the \% cases: index -> msg00 entry
 FULL_LATIN = re.compile('[０-９Ａ-Ｚａ-ｚ]')
 
 # ---------------------------------------------------------------- data access
@@ -57,7 +65,7 @@ def _source():
     ext = os.path.join(ROOT, 'extract')
     import datafile, iso
     if os.path.exists(os.path.join(ext, 'TAI5DATA.DAT')):
-        elf = open(os.path.join(ext, 'SLPM_656.74'), 'rb').read()
+        elf = open(os.path.join(ext, edition.ELF), 'rb').read()
         f = open(os.path.join(ext, 'TAI5DATA.DAT'), 'rb')
         rows = datafile.toc(elf)
         def get(i):
@@ -66,7 +74,7 @@ def _source():
             return f.read(z)
         return get, elf
     recs = iso.records(setup.CLEAN)
-    elf = iso.read_file(setup.CLEAN, 'SLPM_656.74', recs)
+    elf = iso.read_file(setup.CLEAN, edition.ELF, recs)
     data = iso.read_file(setup.CLEAN, 'TAI5DATA.DAT', recs)
     return (lambda i: datafile.entry(data, elf, i)), elf
 
@@ -201,7 +209,39 @@ def esc_size(e):
         return tl.insert_size(b'\x01C' + bytes([mid & 0xFF, mid >> 8]))
     if c == b'&':
         return NAME_PX, NAME_BYTES_DEFAULT
+    if c == b'Z':
+        slots = z_slots()
+        w = slots.get((_entry[0], int(e[1:], 16))) or slots.get((None, int(e[1:], 16)))
+        return w or (VAR_PX, VAR_BYTES)
+    if chr(c[0]) in NAME_VAR_PX:
+        return NAME_VAR_PX[chr(c[0])], NAME_BYTES_DEFAULT
     return VAR_PX, VAR_BYTES
+
+_z_busy = [False]
+
+@functools.lru_cache(None)
+def z_slots():
+    """{(entry or None, slot): (px, bytes)} = widest English an op 1E puts in \\Z00<slot>
+    (slot = head byte 1), per entry and over all entries."""
+    if _z_busy[0]:
+        return {}
+    _z_busy[0] = True
+    out, mem, own = {}, memory(), set(tl_entries())
+    try:
+        for entry in script_entries():
+            en = parse_tl(tl_path(entry)) if entry in own else {}
+            for k, n, ins, j in units(entry)[1]:
+                if ins.op != 0x1E:
+                    continue
+                src = en.get((k, n)) or mem.get((kind(ins, j), ins.strs[j]))
+                b = english_bytes(src) if src and src.strip() != '=' else ins.strs[j]
+                px, nb = measure(b)
+                for key in ((entry, ins.head[1]), (None, ins.head[1])):
+                    o = out.get(key, (0, 0))
+                    out[key] = (max(o[0], px), max(o[1], nb))
+    finally:
+        _z_busy[0] = False
+    return out
 
 def measure_text(b):
     W = tl.widths()
@@ -358,6 +398,8 @@ def english_entry(entry, units_en, log, use_memory=True):
     e, us = units(entry)
     index = {(k, n): (ins, j) for k, n, ins, j in us}
     changed = False
+    z_slots()
+    _entry[0] = entry
     rec = record_names()
     for k, n, ins, j in us:
         if ins.op in (0x5A, 0x3C) and j == 0:

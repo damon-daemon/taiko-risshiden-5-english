@@ -1,16 +1,18 @@
 """TAI5DATA.DAT: 584 entries addressed by a table of contents inside the ELF.
 
-TOC at ELF file offset 0x41F1F0 (vaddr 0x51F170): 584 x (u32 sector, u32 size, u32 0),
-sectors relative to the start of TAI5DATA.DAT. Known entries:
-  0 half-width font 12x24, 4bpp (low nibble first), 140 glyphs
-  1 full-width font 24x24, 4bpp, 3809 glyphs in JIS order
-  3 full-width font 20x20, 4bpp, 3809 glyphs
+TOC at ELF file offset 0x427F70 (vaddr 0x527EF0): 584 x (u32 sector, u32 size, u32 0),
+sectors relative to the start of TAI5DATA.DAT. Known entries (Koei the Best numbering:
+the original edition's entries 81-85 come first, so its 0-80 are 5-85 here):
+  5 half-width font 12x24, 4bpp (low nibble first), 140 glyphs
+  6 full-width font 24x24, 4bpp, 3809 glyphs in JIS order
+  8 full-width font 20x20, 4bpp, 3809 glyphs
+  10-17 scenario files (ILNK)
   244-577 event scripts (every other entry) and their companion data
 """
 import struct
 
 SECTOR = 2048
-TOC = 0x41F1F0
+TOC = 0x427F70
 COUNT = 584
 SHIFT_FROM = 243            # entries from here on make room by shifting the ones after them
 

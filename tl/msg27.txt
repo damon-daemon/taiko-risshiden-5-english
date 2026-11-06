@@ -1173,9 +1173,9 @@ Oh, this {02}3g was made by our host!\nThe tea is especially fine today.
 @221.1
 (Perhaps I should\n recommend them to\n {01}C{AE}{01}?)
 @222
-(No, this is {01}C{AE}{01}'s own affair...\n Not something for {01}C{0E}{00} to meddle in.\n Better not interfere.)
+(No, this is {01}C{AE}{01}'s own affair...\n Not something for me to meddle in.\n Better not interfere.)
 @222.1
-(No, this is {01}C{AE}{01}'s own affair...\n Not something for {01}C{0E}{00} to meddle in.\n Better not interfere.)
+(No, this is {01}C{AE}{01}'s own affair...\n Not something for me to meddle in.\n Better not interfere.)
 @223
 {01}C1{00}, this too is fate.\nWhy not take {01}C{AE}{01}\ninto your service?
 @223.1
@@ -1237,9 +1237,9 @@ Splendid!\nIt was worth bringing\nyou two together.
 @234.1
 (A good chance.\n Shall I recommend {02}{03}{EC} to\n {02}{04}{EC} as purveyor?)
 @235
-(No, this is {02}{03}{EC}'s affair...\n Not for {01}C{0E}{00} to butt into.\n Better not interfere.)
+(No, this is {02}{03}{EC}'s affair...\n Not for me to butt into.\n Better not interfere.)
 @235.1
-(No, this is {02}{03}{EC}'s affair...\n Not for {01}C{0E}{00} to butt into.\n Better not interfere.)
+(No, this is {02}{03}{EC}'s affair...\n Not for me to butt into.\n Better not interfere.)
 @236
 {01}C1{00}, this too is fate.\nWhy not make {02}{03}{EC}\nyour purveyor?
 @236.1

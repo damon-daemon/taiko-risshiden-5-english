@@ -975,19 +975,19 @@ Whose rumours\nshall I tell you?
 @124.2
 {01}C8{00}...\nneither short-tempered nor easygoing...\nthat sort of person.
 @125
-{01}C8{00}, is it...\nShould be fond of arms,\nlike swords and armour.
+{01}C8{00}, is it...\nFond of arms, I'd say,\nlike swords and armour.
 @125.1
-{01}C8{00}, is it...\nShould be fond of art,\nlike tea ware and screens.
+{01}C8{00}, is it...\nFond of art, I'd say,\nlike tea ware and screens.
 @125.2
-{01}C8{00}, is it...\nShould be fond of books,\nlike war tales and military texts.
+{01}C8{00}, is it...\nFond of books, I'd say,\nlike war tales and military texts.
 @125.3
-{01}C8{00}, is it...\nShould be fond of\ngoods from the Nanban lands.
+{01}C8{00}, is it...\nFond of goods from\nthe Nanban lands, I'd say.
 @126
 {01}C8{00}...\nlikes arms, I believe,\nlike swords and armour.
 @126.1
 {01}C8{00}...\nlikes art, I believe,\nlike tea ware and screens.
 @126.2
-{01}C8{00}...\nliked books, I believe,\nlike war tales and military texts.
+{01}C8{00}...\nlikes books, I believe,\nlike war tales and military texts.
 @126.3
 {01}C8{00}...\nis fond, I hear, of goods\nfrom the Nanban lands.
 @127

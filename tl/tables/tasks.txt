@@ -5,7 +5,7 @@
 4	Dun Debts
 5	Find Goods
 6	Help Fight
-7	Bodyguard
+7	Bouncer
 8	Helper
 9	Bandits
 10	Escort

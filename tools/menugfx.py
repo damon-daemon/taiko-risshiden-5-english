@@ -1,6 +1,6 @@
-"""Main-menu card labels (TAI5DATA entry 18): English redrawn into the textures.
+"""Main-menu card labels (TAI5DATA entry 23): English redrawn into the textures.
 
-Textures 1-9 of entry 18 are strips of 230-px cards (normal, highlighted, then the
+Textures 1-9 of entry 23 are strips of 230-px cards (normal, highlighted, then the
 locked '???' pair); each card has its label in a framed box at the bottom left
 (x = 12, 2-px border, paper gradient inside, 26 rows of text). The box of the first
 two cards is redrawn: border kept (widened to the English if needed), the inside
@@ -13,11 +13,12 @@ tl/menu.txt: "texture<TAB>English" lines.
 import os, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
+import edition
 import latinfont, tk5p
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'menu.txt')
-ENTRY = 18
+ENTRY = 23
 CARD, X0 = 230, 12
 PAD = 8
 GLOW = 3                      # highlighted cards: light glow around the box
@@ -147,7 +148,7 @@ if __name__ == '__main__':
     # menugfx.py preview out.png: the relabelled cards
     import datafile, mmap
     from PIL import Image
-    elf = bytearray(open(os.path.join(ROOT, 'extract', 'SLPM_656.74'), 'rb').read())
+    elf = bytearray(open(os.path.join(ROOT, 'extract', edition.ELF), 'rb').read())
     f = open(os.path.join(ROOT, 'extract', 'TAI5DATA.DAT'), 'rb')
     d = mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ)
     clean_elf = bytes(elf)

@@ -1039,7 +1039,7 @@ Oh... wonderful.\nSo our house's ability was recognized.\nI must thank our lord 
 @236
 {02}{0B}e was not appointed\nmerchant chief of {02}yd.
 @237
-This time, the top performer is... {01}C{0E}{00}.\nWell, fine... Dismissed!
+This time, the top performer is... me.\nWell, fine... Dismissed!
 @237.1
 This time, the top performer is... {01}C1{00}.\nWell done.\n...Dismissed!
 @238
@@ -1333,9 +1333,9 @@ I can't let one without resolve\ninto this village.\nLeave at once.
 @351
 What business have you\nwith our {02}{15}e, Lord {02}{02}g?
 @352
-...You know of {01}C{0E}{00}?
+...You know of me?
 @352.1
-So you already know\nthe name of {01}C{0E}{00}.
+So you already know\nmy name.
 @353
 Heh heh, nothing escapes us.\nBut {01}C{19}{00} is a merchant;\nyou can't join our village.
 @353.1

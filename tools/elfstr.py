@@ -8,7 +8,7 @@ written in place. Longer English goes into the English data segment and every
 reference is repointed:
   - 32-bit data words equal to the address inside a reviewed pointer table
     (POINTER_TABLES). Any other word with that value is an error until it has been
-    checked: numbers can look like addresses (0x5258C4, an edge of the road graph
+    checked: numbers can look like addresses (in the original edition 0x5258C4, an edge of the road graph
     u16 0 | u16 0x58, equals the address of 兵法書; repointing it broke long-distance
     travel, issue #7),
   - lui/addiu (or load/store) pairs in the code that build the address, when that lui
@@ -20,24 +20,26 @@ A string with no reference found must fit its slot. printf conversions must matc
 import collections, json, os, re, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
+import edition
 import asm, elfseg, elftables, names, ui
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'elfstr.txt')
 SCRIPT = os.path.join(ROOT, 'script', 'elfstr.json')
-CODE_END = 0x51CF80                 # vaddr where the data starts (file 0x41D000)
-DATA_LO, DATA_HI = 0x51CF80, 0x5B1F80
+CODE_END = 0x525D00                 # vaddr where the data starts (file 0x425D80)
+DATA_LO, DATA_HI = 0x525D00, 0x5BAD80
 # [lo, hi) vaddr ranges of data checked to be pointer tables (string pointers bounded by
-# zeros or other fields); 0x64DBA0 is a single pointer (save data title 太閤立志伝Ｖ)
-POINTER_TABLES = [(0x51D1A0, 0x51D1C8), (0x51EE40, 0x51EF84), (0x5213D8, 0x521418),
-                  (0x521C00, 0x521D58), (0x521FAC, 0x522034), (0x5223A0, 0x5223B0),
-                  (0x5224B0, 0x5224C4), (0x5260C4, 0x5260D4), (0x527FF8, 0x528034),
-                  (0x528DB0, 0x528DB8), (0x52C848, 0x52C858), (0x52D3E0, 0x52D3F0),
-                  (0x54A360, 0x54A3B4), (0x54A4F0, 0x54A510), (0x64DAE0, 0x64DAE8),
-                  (0x64DBA0, 0x64DBA4), (0x64DCE4, 0x64DD98)]
-# words that equal a string address but are numbers: road graph edges 0x525840
-# (6-byte records), a field of the records at 0x57A1F4
-NOT_POINTERS = {0x5258C4, 0x57A224}
+# zeros or other fields); 0x651F20 is a single pointer (save data title 太閤立志伝Ｖ)
+POINTER_TABLES = [(0x525F20, 0x525F48), (0x527BC0, 0x527D04), (0x52A158, 0x52A198),
+                  (0x52A980, 0x52AAD8), (0x52AD2C, 0x52ADB4), (0x52B120, 0x52B130),
+                  (0x52B230, 0x52B244), (0x52EE44, 0x52EE54), (0x530D78, 0x530DB4),
+                  (0x531B30, 0x531B38), (0x5355C8, 0x5355D8), (0x536160, 0x536170),
+                  (0x5530E0, 0x553134), (0x553270, 0x553290), (0x651E60, 0x651E68),
+                  (0x651F20, 0x651F24), (0x652064, 0x652118)]
+# words that equal a string address but are numbers (the original edition had two: road
+# graph edges 0x52E5C0 (6-byte records) and a field of the records at 0x582F64; Best's
+# collisions depend on its own string addresses: data_words reports them)
+NOT_POINTERS = set()
 FMT = ui.FMT
 
 def _f(va):
@@ -243,6 +245,6 @@ def export(elf):
     return rows
 
 if __name__ == '__main__':
-    elf = open(os.path.join(ROOT, 'extract', 'SLPM_656.74'), 'rb').read()
+    elf = open(os.path.join(ROOT, 'extract', edition.ELF), 'rb').read()
     if sys.argv[1:] == ['export']:
         print(len(export(elf)), 'strings ->', SCRIPT)

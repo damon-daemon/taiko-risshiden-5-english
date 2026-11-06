@@ -1,18 +1,25 @@
 """Proportional Latin text: new half-width fonts and the ELF changes that use them.
 
 The game draws text one character at a time; layout, wrapping and box sizing all ask
-one function for a character's advance (0x467A80: half-width codes get the cell
+one function for a character's advance (0x470D30: half-width codes get the cell
 advance 12/10/8 for the three font sizes, full-width ones 24/20/16). Half-width
-glyphs are found by a linear search of a 140-entry code list (0x5290D0).
+glyphs are found by a linear search of a 140-entry code list (0x531E50).
 
 Changes:
-- fonts (TAI5DATA entries 0 and 2) are rebuilt in code order: glyph i = code 0x20+i
+- fonts (TAI5DATA entries 5 and 7) are rebuilt in code order: glyph i = code 0x20+i
   for 0x20-0x7F (our own Latin font, tools/latinfont.py) and code 0x40+i for
   0xA0-0xDF (the disc's half-width kana glyphs, copied at build time);
 - glyph lookup for half-width codes becomes direct arithmetic (code placed at
-  0x467A88, inside the old width function), which frees the code list;
+  0x470D38, inside the old width function), which frees the code list;
 - the code list space holds two width tables (24px and 20px text, codes 0x20-0x7F)
-  and the new width function; 0x467A80 jumps there.
+  and the new width function; 0x470D30 jumps there;
+- the string width function 0x470D70 (widest line of a string) returns an even
+  width: labels sized to their text (Oicho-Kabu player names) were drawn sheared
+  when the width was odd (texture row stride mismatch). Japanese widths are always
+  even (12/24/10/20 px cells), so only odd English widths grow, by 1 px.
+
+Addresses and registers are Koei the Best's (the lookup 0x4711F0 keeps the code in s2
+and the glyph index in s3; the original edition used s0/s1).
 """
 import struct
 
@@ -20,13 +27,15 @@ import latinfont
 from asm import assemble, hi, lo
 
 BASE, FOFF = 0x100000, 0x80
-HALF_LIST = 0x5290D0          # old half-width code list (140 x u16 + 0xFFFF), 288 bytes free
+HALF_LIST = 0x531E50          # old half-width code list (140 x u16 + 0xFFFF), 288 bytes free
 WIDTHS = HALF_LIST            # 96 bytes per size: large, then small
-WIDTH_FN = HALF_LIST + 0xC0   # 24 instructions, up to 0x5291F0
-OLD_WIDTH_FN = 0x467A80       # 16 instruction slots
-LOOKUP_HALF = 0x468060        # glyph lookup: 'code < 0x100' branch target
-LOOKUP_DONE = 0x4681B8        # continues with s1 = glyph index (or -1)
-FONT_ENTRIES = {'large': (0, 24), 'small': (2, 20)}     # TAI5DATA entry, cell height
+WIDTH_FN = HALF_LIST + 0xC0   # 24 instructions, up to 0x531F70
+OLD_WIDTH_FN = 0x470D30       # 16 instruction slots (13 used by the game + padding)
+LOOKUP_HALF = 0x4712A0        # glyph lookup: half-width list case (lui a2 / b / addiu a2)
+LOOKUP_DONE = 0x471340        # continues with s3 = glyph index (or -1)
+STR_WIDTH_END = 0x470E08      # string width fn: s0 = max(s0, s1); b epilogue; v0 = s0
+STR_WIDTH_EPILOGUE = 0x470ECC
+FONT_ENTRIES = {'large': (5, 24), 'small': (7, 20)}     # TAI5DATA entry, cell height
 OLD_CODES = 140
 
 # --- code -----------------------------------------------------------------------
@@ -63,27 +72,45 @@ def width_fn():
     ])
 
 def old_width_fn():
-    """0x467A80: jump to the new width function, then the direct half-width lookup
-    (entered from LOOKUP_HALF with s0 = code; leaves s1 = glyph index or -1)."""
+    """OLD_WIDTH_FN: jump to the new width function, then the direct half-width lookup
+    (entered from LOOKUP_HALF with s2 = code; leaves s3 = glyph index or -1)."""
     return assemble(OLD_WIDTH_FN, [
         ('j', WIDTH_FN),
         ('nop',),
         'direct:',
-        ('addiu', 'v1', 's0', -0x20),
+        ('addiu', 'v1', 's2', -0x20),
         ('sltiu', 'at', 'v1', 0x60),
         ('bnez', 'at', 'done'),                 # 0x20-0x7F -> 0-95
-        ('addu', 's1', 'v1', 'zero'),
-        ('addiu', 'v1', 's0', -0xA0),
+        ('addu', 's3', 'v1', 'zero'),
+        ('addiu', 'v1', 's2', -0xA0),
         ('sltiu', 'at', 'v1', 0x40),
         ('beqz', 'at', 'done'),                 # not a glyph -> -1
-        ('addiu', 's1', 'zero', -1),
-        ('addiu', 's1', 'v1', 0x60),            # 0xA0-0xDF -> 96-159
+        ('addiu', 's3', 'zero', -1),
+        ('addiu', 's3', 'v1', 0x60),            # 0xA0-0xDF -> 96-159
         'done:',
         ('j', LOOKUP_DONE),
         ('nop',),
     ])
 
 DIRECT = OLD_WIDTH_FN + 8
+
+def even_width():
+    """End of the string width function: the same max in one instruction (pmaxw), then
+    round up to even (widths are small and positive)."""
+    return assemble(STR_WIDTH_END, [
+        ('pmaxw', 's0', 's0', 's1'),
+        ('andi', 'at', 's0', 1),
+        ('b', STR_WIDTH_EPILOGUE),
+        ('addu', 'v0', 's0', 'at'),
+    ])
+
+def even_width_original():
+    return assemble(STR_WIDTH_END, [
+        ('sltu', 'at', 's1', 's0'),
+        ('movz', 's0', 's1', 'at'),
+        ('b', STR_WIDTH_EPILOGUE),
+        ('daddu', 'v0', 's0', 'zero'),
+    ])
 
 def lookup_branch():
     return assemble(LOOKUP_HALF, [('b', DIRECT), ('nop',)])
@@ -131,9 +158,15 @@ def apply(elf, entry):
         elf[va - BASE + FOFF:va - BASE + FOFF + len(data)] = data
     blob = width_tables() + width_fn()
     assert len(blob) <= 288, len(blob)
+    assert struct.unpack_from('<I', elf, OLD_WIDTH_FN - BASE + FOFF)[0] == 0x3083FFFF, 'OLD_WIDTH_FN is not andi v1, a0, 0xffff'
+    assert struct.unpack_from('<I', elf, LOOKUP_HALF - BASE + FOFF)[0] == 0x3C060053, 'LOOKUP_HALF is not lui a2, 0x53'
+    assert struct.unpack_from('<I', elf, LOOKUP_DONE - BASE + FOFF)[0] == 0x2403FFFF, 'LOOKUP_DONE is not addiu v1, zero, -1'
     put(HALF_LIST, blob.ljust(288, b'\0'))
     code = old_width_fn()
     assert len(code) <= 64
     put(OLD_WIDTH_FN, code)
     put(LOOKUP_HALF, lookup_branch())
+    o = STR_WIDTH_END - BASE + FOFF
+    assert elf[o:o + 16] == even_width_original(), 'string width fn end not found'
+    put(STR_WIDTH_END, even_width())
     return fonts

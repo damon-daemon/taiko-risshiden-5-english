@@ -68,6 +68,9 @@ NOT_WINDOW = {8: range(402, 439), 10: range(350, 1000), 11: {*range(531, 604), *
 # msg00 #445-449 = profession blurbs on the hero-select screen (panel wraps at ~340 px, 3 lines;
 # measured 2026-10-18).
 ENTRY_BOXES = {27: [(range(181, 1000), WINDOW)], 0: [(range(445, 450), (336, 3))]}
+# msg21 #44-61 = mini-game descriptions in the main-menu Mini-Games list: a panel that wraps by
+# character between 340 and 349 px (seen 2026-11-05: "lon|ger") and holds the Japanese's 8 lines.
+ENTRY_BOXES[21] = [(range(44, 62), (336, 8))]
 # msg17-20 #0-199 = officer bios (dates line, then a paragraph): shown in the hero/officer
 # Biography tab, a 20px-font panel that wraps by character at ~220 px (measured
 # 2026-10-18: "Seng|oku"), 12 lines fit (no scrolling: more run off the panel).

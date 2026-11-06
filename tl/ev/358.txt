@@ -293,7 +293,7 @@ Send an envoy to the \#1077 clan at once to ask for reinforcements!
 @22.11
 Lord \%04276, Odawara Castle is impregnable. I believe our best plan is to hold out in the castle, wait for reinforcements, then catch them in a pincer.
 @22.12
-Yes. Have every castle strengthen its defences. Even if \#09C1 attacks, they are not to strike back; if in danger, they are to fall back to \51E6. Those are strict orders.
+Yes. Have every castle strengthen its defences. Even if \#09C1 attacks, they must not strike back; if in danger, they fall back to \51E6. Strict orders.
 @22.14
 Even \#0077 couldn't make a dent in it. Let's show them how strong Odawara Castle is!
 @22.15
@@ -451,7 +451,7 @@ And \#0877 values righteousness over profit, but men are moved by profit... Thos
 @29.13
 As expected of Lord \%027F0. A keen analysis. So, how shall we deal with it?
 @29.14
-Have every castle strengthen its defences. Even if \#0877 attacks, they are not to strike back; if in danger, they are to fall back to \51E6. Those are strict orders.
+Have every castle strengthen its defences. Even if \#0877 attacks, they must not strike back; if in danger, they fall back to \51E6. Strict orders.
 @29.16
 And call up every warrior around \51E6. Tell them to stay in \41DF until I give leave!
 @29.18

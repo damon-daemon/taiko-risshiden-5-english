@@ -1988,11 +1988,11 @@ Really? I didn't see one...\n...A rather unsettling tale.\nLet's continue anothe
 @544.1
 (...They seem to have noticed!)
 @545
-Why won't you drink it?\nWhat did you mean by plotting against {01}C{0E}{00}?!
+Why won't you drink it?\nWhat did you mean by plotting against me?!
 @545.1
-Why won't you drink it?\nWhat did you mean by plotting against {01}C{0E}{00}?!
+Why won't you drink it?\nWhat did you mean by plotting against me?!
 @545.2
-Why won't you drink it?\nWhat did you mean\nby plotting against {01}C{0E}{00}?!
+Why won't you drink it?\nWhat did you mean\nby plotting against me?!
 @546
 I can't let {01}C{19}{00} go just like that.\nNow, you will take responsibility.
 @546.1
@@ -2200,11 +2200,11 @@ Really?!\nI'm overjoyed.\nIt shall be our heirloom forever!
 @585.2
 Really?!\nI'm overjoyed.\nIt shall be our heirloom forever.
 @586
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to {01}C{0E}{00}.
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to me.
 @586.1
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to {01}C{0E}{00}.
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to me.
 @586.2
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you give it to {01}C{0E}{00}?
+By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you give it to me?
 @587
 If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nWell? Not a bad deal, is it?
 @587.1

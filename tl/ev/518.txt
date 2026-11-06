@@ -169,7 +169,7 @@ How can I stay calm after that?!
 @10.17
 Retreat
 @10.18
-Keep attacking \41E0
+Attack \41E0 again
 @10.19
 How bitter... Truly bitter, but it can't be helped. We withdraw and head for Ogaki!
 @10.21
@@ -224,3 +224,5 @@ Keep attacking!
 What, from Father! Let's see... Hm, "Hurry west", he says.
 @12.2
 It ends here. I think we should give up the siege.
+@11.52
+Attack \41E0 again

@@ -462,8 +462,8 @@
 461	Oicho-Kabu
 462	Pinkoro
 463	pcs
-464	Hire bouncer
-465	Fire bouncer
+464	Hire bodyguard
+465	Fire bodyguard
 466	Work
 467	Drink
 468	Gamble
@@ -799,7 +799,7 @@
 798	Horses
 799	Cannon
 800	Trade Area
-800@334d88	Area
+800@339f84	Area
 801	Investment
 802	Sekibune
 803	Large Ships
@@ -922,14 +922,14 @@
 920	To %s: %s x%u
 921	To Lord %s: %s x%u
 922	From %s: %u kan
-923	Bouncer
+923	Bodyguard
 924	%y days
 925	Info
 926	Functions
 927	%4d/%2d/%2d
 928	%6d kan %3d mon
 929	Job
-930	Deadline
+930	Term
 931	Goal
 932	Results
 933	Site
@@ -975,7 +975,7 @@
 973	%s  Qty: %y
 974	Ruling Power
 975	Merchant Chief
-975@334e50	Chief
+975@33a04c	Chief
 976	Leading Daimyo
 977	Stay as you are
 978	Follow %s
@@ -1368,7 +1368,7 @@
 1367	Danger
 1368	Land
 1369	Water
-1370	Status
+1370	State
 1371	Normal
 1372	Confused
 1373	Panicked

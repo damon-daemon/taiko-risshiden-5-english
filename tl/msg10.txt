@@ -237,9 +237,9 @@ So {01}C8{00} has finally become {02}{03}i...
 @70
 {02}{02}g and others followed {02}{01}g\nand left {02}{0B}e.
 @71
-{01}C1{00}, what will you do?\nSide with {01}C{0E}{00} and I promise\nyou the rank of {02}yd...
+{01}C1{00}, what will you do?\nSide with me and I promise\nyou the rank of {02}yd...
 @71.1
-{01}C1{00}, what will you do?\nSide with {01}C{0E}{00}, or with them?
+{01}C1{00}, what will you do?\nSide with me, or with them?
 @72
 It goes without saying.\nThe only one I serve\nis {01}C8{00}!
 @72.1
@@ -981,7 +981,7 @@ A shop dealing in warhorses. You can buy and\nsell horses, check prices and trai
 @374
 Tavern
 @375
-Where locals come to drink.\nBesides drinking, you can take jobs and gamble.\n\n{1B}C1● Tavern Commands{1B}C0\n{1B}C3◆ Hire Bodyguard{1B}C0\nHire a bodyguard. They help you when bandits\nattack on the travel screen and so on.\nThey leave when the agreed period ends.\n{1B}C3◆ Dismiss Bodyguard{1B}C0\nDismiss your bodyguard. The fee you paid\nis not refunded.
+Where locals come to drink.\nBesides drinking, you can take jobs and gamble.\n\n{1B}C1● Tavern Commands{1B}C0\n{1B}C3◆ Hire Bodyguard{1B}C0\nHire a bodyguard. They help you when bandits\nattack on the travel screen and so on.\nThey leave when the agreed period ends.\n{1B}C3◆ Fire Bodyguard{1B}C0\nDismiss your bodyguard. The fee you paid\nis not refunded.
 @376
 {1B}C3◆ Jobs{1B}C0\nTake tavern jobs to earn money.\nSome jobs can't be taken with a bodyguard.\n* For details on tavern jobs, see\n"Doing Jobs" in Help.\n{1B}C3◆ Drink{1B}C0\nHave a drink. You can also buy sake.\n{1B}C3◆ Gamble{1B}C0\nEarn money by gambling.
 @377
