@@ -9,9 +9,9 @@ import os, struct, sys
 import capstone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ELF = open(os.path.join(ROOT, 'extract', 'SLPM_656.74'), 'rb').read()
+ELF = open(os.path.join(ROOT, 'extract', 'SLPM_662.67'), 'rb').read()
 BASE, FOFF = 0x100000, 0x80
-TEXT_END = 0x41D000 - FOFF + BASE          # code ends where the data starts (survey)
+TEXT_END = 0x425D80 - FOFF + BASE          # code ends where the data starts (Best: file 0x425D80)
 md = capstone.Cs(capstone.CS_ARCH_MIPS, capstone.CS_MODE_MIPS64 | capstone.CS_MODE_LITTLE_ENDIAN)
 REG = ['zero', 'at', 'v0', 'v1', 'a0', 'a1', 'a2', 'a3', 't0', 't1', 't2', 't3', 't4', 't5', 't6', 't7',
        's0', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 't8', 't9', 'k0', 'k1', 'gp', 'sp', 'fp', 'ra']

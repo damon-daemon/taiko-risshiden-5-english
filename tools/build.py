@@ -5,10 +5,10 @@ usage: .venv/bin/python tools/build.py [clean.iso] [out.iso]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import battlename, datafile, money, evtl, overflow, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
+import battlename, spritetext, datafile, edition, money, evtl, overflow, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ELF = 'SLPM_656.74'
+ELF = edition.ELF
 DATA = 'TAI5DATA.DAT'
 
 def build_messages(clean_msg):
@@ -55,6 +55,7 @@ def main():
     n_str, n_moved = elfstr.apply(elf, clean_elf, seg)
     battlename.apply(elf, seg)
     money.apply(elf, seg)
+    spritetext.apply(elf, seg)
     nameentry.apply(elf)
     msgbuf.apply(elf, seg)
     print('elf strings: %d (%d moved)' % (n_str, n_moved))

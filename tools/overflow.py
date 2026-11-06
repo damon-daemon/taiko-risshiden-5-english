@@ -6,6 +6,11 @@ tools/dev/flow.py) found the buffers below; this module measures the longest
 possible expansion of every message / string that reaches one and fails the build
 when it would not fit.
 
+The audit was done on the original edition (SLPM-65674): code addresses in the
+comments below are that edition's. Koei the Best is the same source recompiled, so
+the buffer sizes carry over; the data this module reads (menu tables, strings) uses
+Best's addresses.
+
 Expansion model (TAI5MSG, interpreter 0x347940/0x347A60): text bytes count as is,
 {02} prints and %-fields count VAR bytes (the longest English name or table
 entry), {02}xd prints a number (at most 11 bytes), {01}C inserts count the longest expansion of the inserted
@@ -52,12 +57,12 @@ for _i in [1093, 1102, 1147, 1256, 1271, 1356, 1386, 1388, 1391, 14020]:
     SITES[_i] = (RING, 'format of ring_sprintf (256-byte ring buffer)')
 
 # menus built by 0x4FE920 (ELF tables of u32 message ids: address, count)
-MENU_TABLES = [(0x52DC80, 138), (0x52E0E0, 6), (0x52E100, 4), (0x52E110, 4), (0x52E120, 3),
-               (0x52E130, 20), (0x52E180, 5), (0x52E1A0, 6), (0x52E1C0, 7), (0x52E1E0, 3),
-               (0x52E1F0, 6), (0x52E208, 3), (0x52E220, 4), (0x52E230, 4), (0x52E240, 3),
-               (0x52E250, 8), (0x52E270, 4), (0x52E280, 3), (0x52E290, 5), (0x653FF0 - 24880, 2),
-               (0x52E2B0, 5), (0x653FF0 - 24872, 2), (0x52E2D0, 4), (0x52E2E0, 26),
-               (0x52E350, 18), (0x52E3A0, 11)]
+MENU_TABLES = [(0x536A00, 138), (0x536E60, 6), (0x536E80, 4), (0x536E90, 4), (0x536EA0, 3),
+               (0x536EB0, 20), (0x536F00, 5), (0x536F20, 6), (0x536F40, 7), (0x536F60, 3),
+               (0x536F70, 6), (0x536F88, 3), (0x536FA0, 4), (0x536FB0, 4), (0x536FC0, 3),
+               (0x536FD0, 8), (0x536FF0, 4), (0x537000, 3), (0x537010, 5), (0x658370 - 24880, 2),
+               (0x537030, 5), (0x658370 - 24872, 2), (0x537050, 4), (0x537060, 26),
+               (0x5370D0, 18), (0x537120, 11)]
 
 def menu_ids(elf):
     out = set()
@@ -348,9 +353,9 @@ UI_LIMITS = {i: (8, 'temporary speaker name part, 9-byte record field (0x302140)
 UI_FORMATS = {482: (47, TOWN_ROOM, 'sprintf into a 48-byte stack buffer (0x3C2294)'),
               483: (47, TOWN_ROOM, 'sprintf into a 48-byte stack buffer (0x3C22AC)')}
 # elfstr: strcpy(16-byte buffer, terrain) + strcat(" Combat") at 0x254678
-# terrain name (table 0x54A4F0, or ' 城' 0x54A520) + ' Combat' (0x54A528)
-ELFSTR_PAIRS = [((va, 0x54A528), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)')
-                for va in (0x54A4A8, 0x54A4B0, 0x54A4B8, 0x54A4C0, 0x54A4C8, 0x54A4D0, 0x54A4D8, 0x54A4E0, 0x54A520)]
+# terrain name (table 0x553270, or ' 城' 0x5532A0) + ' Combat' (0x5532A8)
+ELFSTR_PAIRS = [((va, 0x5532A8), 15, 'strcpy + strcat into a 16-byte stack buffer (0x254678)')
+                for va in (0x553228, 0x553230, 0x553238, 0x553240, 0x553248, 0x553250, 0x553258, 0x553260, 0x5532A0)]
 # record tables (elftables.py): bytes of an English name
 TABLE_LIMITS = {'techniques': (15, 'technique rename: strcpy into 16-byte stack buffers (0x32B488)')}
 PRINT_BUF = 63           # {02} prints go to a 64-byte stack buffer (0x347CAC)

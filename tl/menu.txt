@@ -1,4 +1,4 @@
-# Main-menu card labels (TAI5DATA entry 18, texture index): tools/menugfx.py
+# Main-menu card labels (TAI5DATA entry 23, texture index): tools/menugfx.py
 1	Music Room
 2	Card List
 3	Event Gallery

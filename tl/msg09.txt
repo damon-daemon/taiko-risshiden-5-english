@@ -397,7 +397,7 @@ I'll be blunt.\nI want to take {01}C1{00}\non as my {01}C{AA}{01}.
 @125.1
 I'll be blunt.\nI wish to invite {01}C1{00}\nas my {01}C{AA}{01}.
 @125.2
-I'll be blunt.\n{01}C1{00}, I'd like to invite you\nas {01}C{0E}{00}'s {01}C{AA}{01}.
+I'll be blunt.\n{01}C1{00}, I'd like to invite you\nas my {01}C{AA}{01}.
 @126
 I'll be blunt.\nWon't you put {01}C{19}{00}'s strength\nto use under Lord {02}{03}f?
 @126.1
@@ -417,11 +417,11 @@ It's sudden, but\nplease give me a good answer.
 @128.2
 It's sudden, but\nplease give me a good answer.
 @129
-Just what I hoped for!\nPlease make {01}C{0E}{00}\na member of {02}{02}{EC}.
+Just what I hoped for!\nPlease make me\na member of {02}{02}{EC}.
 @129.1
-I'm deeply grateful!\nPlease add {01}C{0E}{00}\nto the lowest seat of {02}{02}{EC}.
+I'm deeply grateful!\nPlease add me\nto the lowest seat of {02}{02}{EC}.
 @129.2
-Such gracious words.\nPlease add {01}C{0E}{00}\nto the lowest seat of {02}{02}{EC}.
+Such gracious words.\nPlease add me\nto the lowest seat of {02}{02}{EC}.
 @130
 Oh! I was waiting for that answer!\nWith {01}C{19}{00}, we're a hundred strong.\nMost reassuring.
 @130.1
@@ -2507,7 +2507,7 @@ The rogue ninja {02}{02}g breathed their last.
 @586
 Ugh!
 @587
-Now...\n\n\nNow is the time!\n\n\n{01}C1{00}... please marry {01}C{0E}{00}!
+Now...\n\n\nNow is the time!\n\n\n{01}C1{00}... please marry me!
 @588
 Hmm... it can't be helped.
 @589
@@ -2669,7 +2669,7 @@ Hmm, well done, {01}C1{00}.\nYou've surpassed {01}C{0E}{00} now.\nHeh, I'm both 
 @630.3
 Hmm, I lost...\nBut losing to a fellow student,\nI can accept it.
 @630.4
-For {01}C{0E}{00} to...\nI've stained\nthe name of {02}{01}{C7}...
+For me to...\nI've stained\nthe name of {02}{01}{C7}...
 @630.5
 Curses...\nBut losing to a samurai\nof {02}{01}{EC}, I have no regrets...
 @630.6
@@ -2691,7 +2691,7 @@ Phew, well done, {01}C1{00}.\nYou've surpassed {01}C{0E}{00} now.\nHeh, I'm both
 @630.14
 Oh, I lost...\nBut losing to a fellow student,\nI can accept it.
 @630.15
-For {01}C{0E}{00} to...\nI've stained\nthe name of {02}{01}{C7}...
+For me to...\nI've stained\nthe name of {02}{01}{C7}...
 @630.16
 Oh, I lost...\nBut losing to a samurai\nof {02}{01}{EC}, I have no regrets...
 @630.17

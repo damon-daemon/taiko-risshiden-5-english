@@ -1615,13 +1615,13 @@ Yes, then I'll say it.\n{01}C1{00}, I believe you should break\naway here and ha
 @308.1
 Then I'll say it.\n{01}C1{00}, I believe you should break\naway here and have your own shop.
 @309
-What!\n{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal?!
+What!\n{01}C{19}{00} would have me\nbecome a disloyal vassal?!
 @309.1
-What!\n...{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal?!!
+What!\n...{01}C{19}{00} would have me\nbecome a disloyal vassal?!!
 @310
-What are you saying!\n...{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal...?
+What are you saying!\n...{01}C{19}{00} would have me\nbecome a disloyal vassal...?
 @310.1
-Wh-what...\n{01}C{19}{00} would have {01}C{0E}{00}\nbecome a disloyal vassal?!
+Wh-what...\n{01}C{19}{00} would have me\nbecome a disloyal vassal?!
 @311
 What are you saying!\nYou know the ninja code forbids betrayal.\nWould you make me a traitor?!
 @311.1
@@ -1799,15 +1799,15 @@ No, thinking of {01}C{19}{00},\nit was only natural.
 @355.1
 I'm honored\nby your praise!
 @356
-In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting {01}C{0E}{00}.
+In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting me.
 @356.1
 In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
 @357
-In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting {01}C{0E}{00}.
+In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting me.
 @357.1
 In praise of {01}C{19}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
 @358
-Oh! Thank you!\nLeave it to {01}C{0E}{00}!
+Oh! Thank you!\nLeave it to me!
 @358.1
 Y-yes, sir!\nAn honor beyond my station!
 @359
@@ -1815,11 +1815,11 @@ Oh, how wonderful!\nI humbly accept.
 @359.1
 Oh! I'm so glad.\nI humbly accept.
 @360
-In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nPlease keep supporting {01}C{0E}{00}.
+In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nPlease keep supporting me.
 @360.1
 In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nKeep serving our house loyally.
 @361
-In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nPlease keep supporting {01}C{0E}{00}.
+In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nPlease keep supporting me.
 @361.1
 In praise of {01}C{19}{00}'s merit, I grant\n{01}C{19}{00} my {02}3g.\nKeep serving our house loyally.
 @363
@@ -1835,9 +1835,9 @@ Then, dismissed!
 @365.1
 Then, we are dismissed.
 @366
-Oho, you'll recommend {01}C{19}{00}'s\nsubordinate as {01}C{0E}{00}'s direct vassal?\nMuch appreciated.
+Oho, you'll recommend {01}C{19}{00}'s\nsubordinate as my direct vassal?\nMuch appreciated.
 @366.1
-My, you'll recommend {01}C{19}{00}'s\nsubordinate as {01}C{0E}{00}'s direct vassal?\nHow kind.
+My, you'll recommend {01}C{19}{00}'s\nsubordinate as my direct vassal?\nHow kind.
 @367
 Whom will you recommend?
 @367.1
@@ -1851,33 +1851,33 @@ Whom will you recommend?
 @369.1
 {01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @369.2
-You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+You recommend {01}C8{00} as\nMy direct vassal?
 @369.3
-You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+You recommend {01}C8{00} as\nMy direct vassal?
 @370
 {01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @370.1
 {01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @370.2
-You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+You recommend {01}C8{00} as\nMy direct vassal?
 @370.3
-You recommend {01}C8{00} as\n{01}C{0E}{00}'s direct vassal?
+You recommend {01}C8{00} as\nMy direct vassal?
 @371
-I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+I see.\nThen {01}C8{00} returns\nto be my direct vassal.
 @371.1
-I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+I see.\nThen {01}C8{00} returns\nto be my direct vassal.
 @371.2
-I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+I see.\nThen from now on {01}C8{00}\nwill be my direct vassal.
 @371.3
-I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+I see.\nThen from now on {01}C8{00}\nwill be my direct vassal.
 @372
-I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+I see.\nThen {01}C8{00} returns\nto be my direct vassal.
 @372.1
-I see.\nThen {01}C8{00} returns\nto be {01}C{0E}{00}'s direct vassal.
+I see.\nThen {01}C8{00} returns\nto be my direct vassal.
 @372.2
-I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+I see.\nThen from now on {01}C8{00}\nwill be my direct vassal.
 @372.3
-I see.\nThen from now on {01}C8{00}\nwill be {01}C{0E}{00}'s direct vassal.
+I see.\nThen from now on {01}C8{00}\nwill be my direct vassal.
 @373
 Hm? I sense someone...\nSo, someone's there?\nWho are you! Come out.
 @373.1
@@ -1913,7 +1913,7 @@ A ronin, it seems.\nWhat were the gate guards doing...
 @377.4
 ...My, {01}C1{00}?\nSo sudden; what is it?
 @378
-What business with {01}C{0E}{00}?
+What business with me?
 @378.1
 What business\nbrings you here?
 @379
@@ -2083,7 +2083,7 @@ This money will go to expanding the village.\n
 @417
 ...Thank you for your trouble,\nbut money won't move my heart.
 @417.1
-...Thank you for your trouble,\nbut money won't move {01}C{0E}{00}'s heart.
+...Thank you for your trouble,\nbut money won't move my heart.
 @419
 What! {02}{0B}e wants us\nto surrender?
 @419.1

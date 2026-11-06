@@ -25,11 +25,11 @@ Good of you to come to my dojo.
 @5.1
 Good of you to come to my dojo.
 @5.2
-Welcome to {01}C{0E}{00}'s dojo.
+Welcome to my dojo.
 @6
 Welcome to my dojo.
 @6.1
-Welcome to {01}C{0E}{00}'s dojo.
+Welcome to my dojo.
 @7
 What brings you today?
 @7.1
@@ -1029,11 +1029,11 @@ I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI want a match w
 @331.5
 I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI seek a lesson from this dojo's master.\nA fair match, a match!
 @332
-I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from {01}C{0E}{00}.\nFace me in a fair match!
+I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from me.\nFace me in a fair match!
 @332.1
-I've waited long enough, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to settle the score.\nI want a match with {01}C{0E}{00}.\nFace me in a fair match!
+I've waited long enough, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to settle the score.\nI want a match with me.\nFace me in a fair match!
 @332.2
-I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from {01}C{0E}{00}.\nA fair match, a match!
+I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from me.\nA fair match, a match!
 @333
 I'm sorry,\nI can't accept challenges now.\nPlease leave.
 @333.1
@@ -1067,11 +1067,11 @@ Today is the last day\n{02}yd lords it over anyone. Here I come!
 @338.2
 The fame of {02}yd ends today...\nHere I come!
 @339
-There's no need for {01}C{0E}{00} to face you.\nOne of my students will take you on.
+There's no need for me to face you.\nOne of my students will take you on.
 @339.1
-There's no need for {01}C{0E}{00} to face you.\nI'll have a student take you on.
+There's no need for me to face you.\nI'll have a student take you on.
 @339.2
-There's no need for {01}C{0E}{00} to face you.\nOne of my students will take you on.
+There's no need for me to face you.\nOne of my students will take you on.
 @340
 There's no one here worth fighting.\nI have no interest in small fry.\n\nI won't discuss this further.\nNow, {01}C1{00},\nface me in a fair match!
 @340.1
@@ -1079,11 +1079,11 @@ There's no one here worth fighting.\nI have no interest in small fry.\n\nThere's
 @340.2
 There's no one here worth fighting.\nI have no interest in small fry.\n\nI won't discuss this further.\nNow, {01}C1{00},\nface me in a fair match!
 @341
-{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to {01}C{0E}{00}.
+{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to me.
 @341.1
-{01}C{19}{00} is ill.\nNo need to trouble yourself.\nLeave this to {01}C{0E}{00}.
+{01}C{19}{00} is ill.\nNo need to trouble yourself.\nLeave this to me.
 @341.2
-{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to {01}C{0E}{00}.
+{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to me.
 @342
 Sending someone of lower rank...\nyou underestimate me. Here I come!
 @342.1
@@ -1091,11 +1091,11 @@ Sending someone of lower rank...\nyou underestimate me. Here I come!
 @342.2
 Sending someone of lower rank...\nyou underestimate me. Here I come!
 @343
-{01}C1{00},\nplease leave this to {01}C{0E}{00}.
+{01}C1{00},\nplease leave this to me.
 @343.1
-{01}C1{00},\nleave this to {01}C{0E}{00}.
+{01}C1{00},\nleave this to me.
 @343.2
-{01}C1{00},\nplease leave this to {01}C{0E}{00}.
+{01}C1{00},\nplease leave this to me.
 @344
 The result of the bout...
 @345
@@ -1159,7 +1159,7 @@ Oh, {01}C1{00} of {02}yd.\nWelcome to my dojo.
 @357.1
 Oh, {01}C1{00} of {02}yd!\nWelcome to my dojo.
 @357.2
-Oh, {01}C1{00} of {02}yd!\nWelcome to {01}C{0E}{00}'s dojo.
+Oh, {01}C1{00} of {02}yd!\nWelcome to my dojo.
 @359
 I'm ashamed before my student, but I'm unwell...\nCough, cough.\nI'll face you once I'm better.
 @359.1
@@ -1265,11 +1265,11 @@ My, you'll personally\nteach me {02}yd?
 @393
 You want to challenge\nyour teacher {01}C{0E}{00} to a bout?
 @393.1
-You wish a bout\nwith your teacher {01}C{0E}{00}?
+You wish a bout\nwith your teacher?
 @393.2
 You want to challenge\nyour teacher to a bout?
 @395
-You want a bout\nwith your student {01}C{0E}{00}?
+You want a bout\nwith your student?
 @395.1
 Master, you wish\na bout?
 @395.2
@@ -1469,7 +1469,7 @@ Oh, how lovely!
 @461
 Received {02}3g.
 @463
-Today I, {02}{01}f, am deeply impressed.\nWill you make {01}C{0E}{00}\n{01}C1{00}'s student?
+Today I, {02}{01}f, am deeply impressed.\nWill you make me\n{01}C1{00}'s student?
 @463.1
 I, {02}{01}f, am deeply impressed today.\nWould you make me {01}C1{00}'s student?
 @463.2
@@ -1555,21 +1555,21 @@ You're famous as {02}=e now,\nand I'm proud of you.\nThis is a token of respect 
 @485.1
 Meeting you, famed as {02}=e,\nmade my work more worthwhile.\nThis is a token of respect and thanks. Take it.
 @485.2
-Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of {01}C{0E}{00}'s life.\nAccept this token of respect and thanks.
+Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of my life.\nAccept this token of respect and thanks.
 @485.3
-Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of {01}C{0E}{00}'s life...\nAccept this token of respect and thanks.
+Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of my life...\nAccept this token of respect and thanks.
 @485.4
-Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of {01}C{0E}{00}'s life.\nAccept this token of respect and thanks.
+Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of my life.\nAccept this token of respect and thanks.
 @486
 Whoa, you made this?!\nAmazing, that's something...\nThis is from me. Take it.
 @486.1
 Whoa, you made this?!\nTo make a thing like this, amazing...\nThis is from me. Take it.
 @486.2
-What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept {01}C{0E}{00}'s thanks.
+What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
 @486.3
-What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept {01}C{0E}{00}'s thanks.
+What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
 @486.4
-My, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept {01}C{0E}{00}'s thanks.
+My, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
 @487
 Say, you sure know a lot.\nIt's like there's nothing\nyou don't know.\nTell you what, let me test\nyour learning a bit......
 @487.1
@@ -1669,11 +1669,11 @@ But you don't even know me...\nIs that all our bond is worth...?\nThat's kind of
 @514.1
 But you don't even know me...\nIs that all our bond is worth...
 @514.2
-But not to know {01}C{0E}{00}...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+But not to know me...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
 @514.3
-But not to know {01}C{0E}{00}...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+But not to know me...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
 @514.4
-But not to know {01}C{0E}{00}...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+But not to know me...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
 @515
 But you don't know\nabout our {02}{01}{EC}...\nIs that all our bond is worth...?
 @515.1
@@ -1737,11 +1737,11 @@ I know!\nShall I make {02}{02}{EC} a purveyor\nto our {02}{01}{EC}?
 @519.2
 Let's see...\nHow about making {02}{02}{EC}\na purveyor to our {02}{01}{EC}?
 @519.3
-I know, on {01}C{0E}{00}'s word I'll\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}. How about it?
+I know, on my word I'll\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}. How about it?
 @519.4
-I know, on {01}C{0E}{00}'s word shall I\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}?
+I know, on my word shall I\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}?
 @519.5
-I know, on {01}C{0E}{00}'s word I'll\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}. What do you say?
+I know, on my word I'll\nrecommend {02}{02}{EC} as purveyor\nto our {02}{01}{EC}. What do you say?
 @520
 What, you don't want to be a purveyor?! ...Unbelievable.
 @520.1
@@ -1797,11 +1797,11 @@ Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on y
 @526.2
 Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
 @526.3
-Received.\nLeave the rest to {01}C{0E}{00}.
+Received.\nLeave the rest to me.
 @526.4
-Received.\nPlease leave the rest to {01}C{0E}{00}.
+Received.\nPlease leave the rest to me.
 @526.5
-Received.\nPlease leave the rest to {01}C{0E}{00}.
+Received.\nPlease leave the rest to me.
 @527
 {02}{02}{EC} became a purveyor\nto {02}{01}{EC}.
 @528

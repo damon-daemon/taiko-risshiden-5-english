@@ -4,7 +4,7 @@ Entry: u8 0, u8 id, u8 f0/f1/f2.., u8 group | u32 n | u32 off[n+1] (off[n] = siz
 The game reads the whole entry into the heap (0x4675A0) and copies script k into a
 buffer of its own size (0x234B20), so scripts may grow.
 
-Script bytecode (interpreter 0x23B780, handlers in the jump table 0x5487C0): a list of
+Script bytecode (interpreter 0x23B780, handlers in the jump table 0x551540): a list of
 instructions ended by a 00 word. The first byte is the opcode; most instructions are 4
 bytes. Block instructions run a nested list (their body) and store their total length
 (header + body + the body's 00 word) in the header, so rebuilding recomputes it:
@@ -33,6 +33,7 @@ usage: evscript.py check            # parse + rebuild every entry (identity)
 import os, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
+import edition
 
 FIRST, LAST = 244, 574          # script entries: FIRST, FIRST + 2, ... LAST
 
@@ -219,7 +220,7 @@ def strings(items, path=()):
 def _open():
     import datafile
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    elf = open(os.path.join(root, 'extract', 'SLPM_656.74'), 'rb').read()
+    elf = open(os.path.join(root, 'extract', edition.ELF), 'rb').read()
     f = open(os.path.join(root, 'extract', 'TAI5DATA.DAT'), 'rb')
     rows = datafile.toc(elf)
     def get(i):

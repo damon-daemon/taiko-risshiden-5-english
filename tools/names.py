@@ -16,16 +16,17 @@ romanize (Hepburn, long vowels short, as in Nobunaga DS 2).
 import json, os, re, struct, sys, unicodedata
 
 sys.path.insert(0, os.path.dirname(__file__))
+import edition
 import asm, datafile, elfseg
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'names_persons.json')
 SCRIPT = os.path.join(ROOT, 'script', 'names_persons.json')
-SCENARIOS = range(5, 13)            # TAI5DATA entries, scenario s1..s8
+SCENARIOS = range(10, 18)           # TAI5DATA entries, scenario s1..s8
 SUB, REC, COUNT = 16, 24, 1200
 READ_SUB, READ_REC = 15, 44           # half-width kana readings
 COPY_ENTRY = 86                     # holds a copy of scenario 4's name records
-OFFICERS, OFF_REC, OFF_COUNT = 0x453FE0, 176, 860
+OFFICERS, OFF_REC, OFF_COUNT = 0x45CD50, 176, 860
 
 def field(b):
     return b.split(b'\0')[0].decode('cp932', 'replace')
@@ -108,25 +109,43 @@ def romaji(kana):
 # the English instead; unknown pairs are shown as stored.
 #
 #   en_part(a0 = record, a1 = 0 family / 1 given) -> v0 = string
-#   msg fields 'e'/'f' (0x2F2AD0) copy en_part(); 'g' and the 143 other callers of the
-#   full-name getter 0x301720 get family + ' ' + given; the officer-table name path
-#   of 0x28B910 (flag set) gets the canonical English name of person a0 < 860.
+#   msg fields 'e'/'f' (switch 0x2F62E0, person object in s3) copy en_part(); 'g' and the 143 other callers of the
+#   full-name getter 0x3057B0 get family + ' ' + given; the officer-table name path
+#   of 0x28B6A0 (flag set) gets the canonical English name of person a0 < 860.
 
-STRCPY, STRCAT, NAMEBUF, GETBUF = 0x33DF70, 0x12BE10, 0x753150, 0x348870
-FULL_NAME = 0x301720
-SPRINTF = 0x3488A0
-RANK_FAMILY = [(0x4D6EC8, 's1'), (0x4DA5E4, 's2'), (0x4E06AC, 's3')]   # rank + family sprintf
-HERO_CARD = 0x2D3B34             # hero-select card name text object
-SAVE_HEADER = 0x30C398           # save header 0x30C280: strcpy of the record parts (+0x1C, +0x28)
-BUTTON_NAME = 0x38B18C           # jal strcpy(obj + 0x44 + i * 17, full name): person buttons
-STRLEN, STRNCPY = 0x33DF20, 0x33DFB0     # STRNCPY = SJIS-aware, writes n bytes + NUL
-MSG_FAMILY, MSG_FAMILY_FALLBACK, MSG_GIVEN = 0x2F2B9C, 0x2F2BBC, 0x2F2BE0
-OFFICER_NAME = 0x28B948          # jal 0x28B340 (officer record) in 0x28B910
-OFFICER_RECORD = 0x28B340
+STRCPY, STRCAT, NAMEBUF, GETBUF = 0x343340, 0x12BE90, 0x7540D0, 0x34DB50   # Koei the Best addresses
+FULL_NAME = 0x3057B0
+SPRINTF = 0x34DB90                # ring sprintf(ring, fmt, ...)
+RANK_FAMILY = [0x4DF7A4, 0x4E2DBC, 0x4E9A74]   # rank + family sprintf ("%s %s", rank getter 0x307600)
+HERO_CARD = 0x2D6204             # hero-select card name text object
+TEXT_OBJECT = 0x473060           # text object creator (called by the hero card code)
+SAVE_HEADER = 0x310678           # save header: strcpy of the record parts (+0x1C, +0x28); person s0, header s4
+BUTTON_NAME = 0x390CF8           # jal strcpy(obj + 0x44 + i * 17, full name): person buttons
+LIST_NAME, MEMCPY = 0x2FFB98, 0x12A7F0   # jal memcpy(obj + 0x90 + i * 17, full name, 17): person list rows
+STRLEN, STRNCPY = 0x3432F0, 0x343370     # STRNCPY = SJIS-aware, writes n bytes + NUL
+MSG_FAMILY, MSG_FAMILY_FALLBACK, MSG_GIVEN = 0x2F62F8, 0x2F6318, 0x2F6338
+MSG_OBJ = 's3'                  # the person object in the field handler (s2 in the original edition)
+OFFICER_NAME = 0x28B6E0          # jal 0x28B0E0 (officer record) in 0x28B6A0
+OFFICER_RECORD = 0x28B0E0
+STR_WIDTH = 0x470D70             # widest line of a string (a0 str, a1 full px, a2 half px, a3 &lines)
+# full_name calls feeding a text object of fixed max width (t0 = 120 px, 5 kanji):
+# 0x1DF9EC, 0x2CE974 (text object creation), battle panel updates 0x25408C (name) and 0x253E50 ("%s Army": 144 px - " Army") -> fit_name
+# battle unit panel name 0x253F08 (20px font, panel ~134 px; 132 in the 24px widths keeps a margin)
+FIT_SITES = [(0x1DF9EC, 120), (0x2CE974, 120), (0x253E50, 100), (0x25408C, 120), (0x253F08, 132)]
+# person-id name getter 0x2AFDA0 feeding a text object of max width 120 (it squeezes wider
+# text): siege intro plates, defender 0x1DD5FC and attackers 0x1DD908 -> fit_str
+NAME_BY_ID = 0x2AFDA0
+FIT_ID_SITES = [(0x1DD5FC, 120), (0x1DD908, 120)]
+# Save / Load slot buttons: sprintf(sp+0xC0 [24 bytes], "%s %s", header family, given) feeds a
+# 120-px text object (0x30D550, 20px font) that squeezed "Kinoshita Tokichiro" until stems
+# vanished -> after the sprintf, the buffer gets fit_str's short form ("K. Tokichiro")
+SLOT_LABEL, SPRINTF_PLAIN, SLOT_PX = 0x30F7DC, 0x345F50, 124
+ARMY_FAMILY = 0x253E20           # "%s Army" set from the name record (cut family) -> en_part family
+CLAN_NAME, STRCMP = 0x28E694, 0x343470   # clan name method 0x28E640 reads the head's record -> en_part family
 
 FNV_BASIS, FNV_PRIME = 0x811C9DC5, 0x01000193
 PART_MARK = 0xFD                 # + 0 family / 1 given: hash prefix of a single part
-POOL, POOL_REC, POOL_COUNT = 0x41DFE0, 19, 200   # ELF: generated given names (name[9], reading[9], kind)
+POOL, POOL_REC, POOL_COUNT = 0x426D60, 19, 200   # ELF: generated given names (name[9], reading[9], kind)
 POOL_TL = os.path.join(ROOT, 'tl', 'names_pool.txt')
 
 def part_hash(kind, b):
@@ -209,6 +228,38 @@ def lookup_code(table, count, parts, nparts):
         'fn_given:', ('addu', 'a0', 's0', 'zero'), ('jal', STRCAT), ('addu', 'a1', 's2', 'zero'),
         'fn_end:', ('addu', 'v0', 's0', 'zero'), ('ld', 'ra', 0x20, 'sp'), ('ld', 's0', 0, 'sp'),
         ('ld', 's1', 8, 'sp'), ('ld', 's2', 0x10, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 0x30),
+        # fit_name (a0 = person object, a1 = max px in the 24px font) = fit_str(full_name)
+        # fit_str (a0 = string, a1 = max px) -> v0 = the string if it fits, else a new
+        # buffer with "F. Given" (first character + the text after the first space),
+        # else the text after the first space (fixed name slots)
+        'fit_name:', ('addiu', 'sp', 'sp', -0x10), ('sd', 'ra', 0, 'sp'), ('sw', 'a1', 8, 'sp'),
+        ('jal', 'full_name'), ('nop',),
+        ('addu', 'a0', 'v0', 'zero'), ('jal', 'fit_str'), ('lw', 'a1', 8, 'sp'),
+        ('ld', 'ra', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 0x10),
+        'fit_str:', ('addiu', 'sp', 'sp', -0x30), ('sd', 'ra', 0x20, 'sp'), ('sd', 's0', 0, 'sp'),
+        ('sd', 's1', 8, 'sp'), ('sd', 's2', 0x10, 'sp'), ('sd', 's3', 0x18, 'sp'),
+        ('addu', 's0', 'a0', 'zero'), ('addu', 's1', 'a1', 'zero'),
+        ('beqz', 's0', 'fit_end'), ('addu', 's3', 's0', 'zero'),
+        ('jal', 'fit_width'), ('addu', 'v0', 's0', 'zero'),
+        ('sltu', 't0', 's1', 'v0'), ('beqz', 't0', 'fit_end'),
+        ('lbu', 't0', 0, 's0'), ('sltiu', 't1', 't0', 0x80), ('beqz', 't1', 'fit_end'),
+        ('addu', 's2', 's0', 'zero'), ('addiu', 't2', 'zero', ord(' ')),
+        'fit_sp:', ('lbu', 't1', 0, 's2'), ('beqz', 't1', 'fit_end'), ('nop',),
+        ('bne', 't1', 't2', 'fit_sp'), ('addiu', 's2', 's2', 1),
+        ('lbu', 't1', 0, 's2'), ('beqz', 't1', 'fit_end'), ('nop',),
+        ('lui', 'a0', asm.hi(NAMEBUF)), ('jal', GETBUF), ('addiu', 'a0', 'a0', asm.lo(NAMEBUF)),
+        ('addu', 's3', 'v0', 'zero'), ('lbu', 't0', 0, 's0'), ('sb', 't0', 0, 's3'),
+        ('addiu', 't1', 'zero', ord('.')), ('sb', 't1', 1, 's3'),
+        ('addiu', 't1', 'zero', ord(' ')), ('sb', 't1', 2, 's3'),
+        ('addiu', 'a0', 's3', 3), ('jal', STRCPY), ('addu', 'a1', 's2', 'zero'),
+        ('jal', 'fit_width'), ('addu', 'v0', 's3', 'zero'),
+        ('sltu', 't0', 's1', 'v0'), ('beqz', 't0', 'fit_end'), ('nop',),
+        ('addu', 'a0', 's3', 'zero'), ('jal', STRCPY), ('addu', 'a1', 's2', 'zero'),
+        'fit_end:', ('addu', 'v0', 's3', 'zero'), ('ld', 'ra', 0x20, 'sp'), ('ld', 's0', 0, 'sp'),
+        ('ld', 's1', 8, 'sp'), ('ld', 's2', 0x10, 'sp'), ('ld', 's3', 0x18, 'sp'),
+        ('jr', 'ra'), ('addiu', 'sp', 'sp', 0x30),
+        'fit_width:', ('addu', 'a0', 'v0', 'zero'), ('addiu', 'a1', 'zero', 24),
+        ('addiu', 'a2', 'zero', 12), ('j', STR_WIDTH), ('addu', 'a3', 'zero', 'zero'),
         # officer_name (a0 = person id) -> canonical English name, else the officer record
         'officer_name:', ('sltiu', 't0', 'a0', OFF_COUNT), ('beqz', 't0', 'on_rec'),
         ('lui', 't1', asm.hi(CANON_ADDR[0])), ('addiu', 't1', 't1', asm.lo(CANON_ADDR[0])),
@@ -231,7 +282,7 @@ def name_pairs(data, clean_elf, tl=None, extra=True):
         for i, (fa, gi) in enumerate(scenario_names(datafile.entry(data, clean_elf, s))):
             if i in tl and (fa or gi):
                 key = (fa.encode('cp932'), gi.encode('cp932'))
-                en = english(tl[i], s - 4)
+                en = english(tl[i], s - 9)
                 if pairs.setdefault(key, en) != en:
                     print('names: %s%s is %s and %s' % (fa, gi, pairs[key], en))
     if extra:
@@ -253,7 +304,8 @@ def name_pairs(data, clean_elf, tl=None, extra=True):
             raise ValueError('names: no unique 8-byte form for %s' % (en,))
     return pairs, cut
 
-EV_GIVEN, EV_FAMILY = 0x233478, 0x233490     # event text \#XXXX +0x800 / +0x1000 forms
+EV_GIVEN, EV_FAMILY = 0x2324E0, 0x2324F8     # event text \#XXXX +0x800 / +0x1000 forms
+EV_COPY, EV_NEXT = 0x232190, 0x232310        # append-copy (returns length), expander loop
 
 def apply(elf, data, seg, clean_elf):
     """Add the English name tables and lookup code to seg and hook the getters."""
@@ -268,7 +320,7 @@ def apply(elf, data, seg, clean_elf):
         for i in range(min(COUNT, (b - a) // REC)):
             fa, gi = field(e[a + i * REC:a + i * REC + 9]), field(e[a + i * REC + 9:a + i * REC + 18])
             if i in tl and (fa or gi):
-                cf, cg = cut[tuple(english(tl[i], s - 4))]
+                cf, cg = cut[tuple(english(tl[i], s - 9))]
                 e[a + i * REC:a + i * REC + 18] = cf.ljust(9, b'\0') + cg.ljust(9, b'\0')
         k = e86.find(old)
         if k >= 0:
@@ -333,9 +385,9 @@ def apply(elf, data, seg, clean_elf):
     seg.add(code, 4)
     p = lambda va, lines: elfseg.patch(elf, va, asm.assemble(va, lines))
     # msg field 'e': (delay slot of 'beqz s1') a1 = dst; copy_family(obj = s2)
-    p(MSG_FAMILY, [('addu', 'a1', 's1', 'zero'), ('jal', labels['copy_family']), ('addu', 'a0', 's2', 'zero'), ('nop',)])
-    p(MSG_FAMILY_FALLBACK, [('addu', 'a1', 's1', 'zero'), ('jal', labels['copy_given']), ('addu', 'a0', 's2', 'zero'), ('nop',)])
-    p(MSG_GIVEN, [('addu', 'a1', 's1', 'zero'), ('jal', labels['copy_given']), ('addu', 'a0', 's2', 'zero'), ('nop',)])
+    p(MSG_FAMILY, [('addu', 'a1', 's1', 'zero'), ('jal', labels['copy_family']), ('addu', 'a0', MSG_OBJ, 'zero'), ('nop',)])
+    p(MSG_FAMILY_FALLBACK, [('addu', 'a1', 's1', 'zero'), ('jal', labels['copy_given']), ('addu', 'a0', MSG_OBJ, 'zero'), ('nop',)])
+    p(MSG_GIVEN, [('addu', 'a1', 's1', 'zero'), ('jal', labels['copy_given']), ('addu', 'a0', MSG_OBJ, 'zero'), ('nop',)])
     p(FULL_NAME, [('j', labels['full_name']), ('nop',)])
     # rank + family name: sprintf(NAMEBUF, "%s %s", rank, record) reads the cut family
     # part; rank_family(fmt, rank, record) formats with en_part(record, family)
@@ -346,17 +398,20 @@ def apply(elf, data, seg, clean_elf):
         ('addu', 'a3', 'v0', 'zero'), ('lw', 'a2', 12, 'sp'), ('lw', 'a1', 8, 'sp'),
         ('lui', 'a0', asm.hi(NAMEBUF)), ('jal', SPRINTF), ('addiu', 'a0', 'a0', asm.lo(NAMEBUF)),
         ('ld', 'ra', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 32)]), 4)
-    for at, reg in RANK_FAMILY:
+    for at in RANK_FAMILY:
         o = at - elfseg.VBASE + elfseg.FOFF
         w = struct.unpack_from('<7I', elf, o)
-        assert w[0] == 0x3C040075 and w[1] == 0x3C05005B and w[5] == 0x0C0D2228, hex(at)
+        assert (w[0] == 0x3C040000 | asm.hi(NAMEBUF) and w[1] >> 16 == 0x3C05 and w[2] & 0xFC1FFFFF == 0x0000382D
+                and w[5] == 0x0C000000 | SPRINTF >> 2 and w[6] == 0x0040302D), hex(at)
+        reg = {v: k for k, v in asm.R.items()}[w[2] >> 21 & 0x1F]   # move a3, sN: the person record
         lo = w[4] & 0xFFFF
-        p(at, [('lui', 'a0', 0x5B), ('addu', 'a1', 'v0', 'zero'), ('addu', 'a2', reg, 'zero'),
+        p(at, [('lui', 'a0', w[1] & 0xFFFF), ('addu', 'a1', 'v0', 'zero'), ('addu', 'a2', reg, 'zero'),
                ('addiu', 'a0', 'a0', lo - 0x10000 if lo & 0x8000 else lo), ('nop',), ('jal', stub), ('nop',)])
-    # hero-select card (0x2D3B34): text object made with "%s %s" and the person's
+    # hero-select card (HERO_CARD): text object made with "%s %s" and the person's
     # record parts (8-byte cut forms) -> "%s" with full_name(person s4)
     o = HERO_CARD - elfseg.VBASE + elfseg.FOFF
-    assert bytes(elf[o:o + 8]) == struct.pack('<2I', 0x0040202D, 0x3C0B0058)   # move a0, v0; lui t3, 0x58
+    assert bytes(elf[o:o + 8]) == struct.pack('<2I', 0x0040202D, 0x3C0B0059)   # move a0, v0; lui t3, 0x59
+    assert struct.unpack_from('<I', elf, o + 48)[0] == 0x0C000000 | TEXT_OBJECT >> 2, 'hero card text object call'
     fmt = seg.add(b'%s\0', 1)
     at = seg.end + (-seg.end % 4)
     seg.add(asm.assemble(at, [('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'), ('sw', 'a0', 8, 'sp'),
@@ -365,22 +420,27 @@ def apply(elf, data, seg, clean_elf):
     p(HERO_CARD, [('jal', at), ('addu', 'a0', 'v0', 'zero'), ('lui', 't3', asm.hi(fmt)),
                   ('addu', 'a1', 'zero', 'zero'), ('addu', 'a2', 'zero', 'zero'), ('addu', 'a3', 'zero', 'zero'),
                   ('addu', 't0', 'zero', 'zero'), ('addu', 't1', 'zero', 'zero'), ('addiu', 't2', 'zero', 1),
-                  ('addiu', 't3', 't3', asm.lo(fmt)), ('sd', 'v0', 0, 'sp'), ('nop',), ('jal', 0x469E50), ('nop',)])
-    # person buttons (0x38B020, "(%s)ボタン作成"): strcpy(obj + 0x44 + i * 17, full name)
+                  ('addiu', 't3', 't3', asm.lo(fmt)), ('sd', 'v0', 0, 'sp'), ('nop',), ('jal', TEXT_OBJECT), ('nop',)])
+    # person buttons ("(%s)ボタン作成"): strcpy(obj + 0x44 + i * 17, full name)
     # into name[4][17], which the button object pointers (+0x88) follow: an English
     # name over 16 bytes overwrote them. fit17 copies the name if it fits, else
     # "F. Given" cut to 16 bytes (SJIS strncpy writes n bytes + NUL).
     o = BUTTON_NAME - elfseg.VBASE + elfseg.FOFF
-    assert struct.unpack_from('<2I', elf, o) == (0x0C0CF7DC, 0x26640044), 'button name copy'
+    assert struct.unpack_from('<2I', elf, o) == (0x0C000000 | STRCPY >> 2, 0x26640044), 'button name copy'
     at = seg.end + (-seg.end % 4)
     seg.add(asm.assemble(at, fit17_code()), 4)
     p(BUTTON_NAME, [('jal', at)])
-    # save header (0x30C280, shown on the Save / Load screens with "%s %s"): family and
+    # person list rows 0x2FFB50: memcpy(obj + 0x90 + i * 17, full name, 17) -> a name of
+    # 17+ bytes leaves no NUL in its slot (the row shows the next name appended) -> fit17
+    o = LIST_NAME - elfseg.VBASE + elfseg.FOFF
+    assert struct.unpack_from('<2I', elf, o) == (0x0C000000 | MEMCPY >> 2, 0x24440090), 'list name copy'
+    p(LIST_NAME, [('jal', at)])
+    # save header (shown on the Save / Load screens with "%s %s"): family and
     # given fields of 12 bytes got the record parts (cut forms) -> en_part, at most 11
     # bytes each (SJIS strncpy writes n bytes + NUL)
     o = SAVE_HEADER - elfseg.VBASE + elfseg.FOFF
-    assert struct.unpack_from('<7I', elf, o) == (0x8E850004, 0x0C0CF7DC, 0x2644001C, 0x8E820004,
-                                                 0x26440028, 0x0C0CF7DC, 0x24450009), 'save header names'
+    assert struct.unpack_from('<7I', elf, o) == (0x8E050004, 0x0C000000 | STRCPY >> 2, 0x2684001C, 0x8E020004,
+                                                 0x26840028, 0x0C000000 | STRCPY >> 2, 0x24450009), 'save header names'
     at = seg.end + (-seg.end % 4)
     seg.add(asm.assemble(at, [
         ('addiu', 'sp', 'sp', -32), ('sd', 'ra', 0, 'sp'), ('sd', 's0', 8, 'sp'), ('sd', 's1', 16, 'sp'),
@@ -390,21 +450,76 @@ def apply(elf, data, seg, clean_elf):
         ('addu', 'a0', 's0', 'zero'), ('jal', labels['en_part']), ('addiu', 'a1', 'zero', 1),
         ('addu', 'a1', 'v0', 'zero'), ('addiu', 'a0', 's1', 0x28), ('jal', STRNCPY), ('addiu', 'a2', 'zero', 11),
         ('ld', 'ra', 0, 'sp'), ('ld', 's0', 8, 'sp'), ('ld', 's1', 16, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 32)]), 4)
-    p(SAVE_HEADER, [('lw', 'a0', 4, 's4'), ('jal', at), ('addu', 'a1', 's2', 'zero'), ('nop',), ('nop',), ('nop',), ('nop',)])
+    p(SAVE_HEADER, [('lw', 'a0', 4, 's0'), ('jal', at), ('addu', 'a1', 's4', 'zero'), ('nop',), ('nop',), ('nop',), ('nop',)])
     p(OFFICER_NAME, [('jal', labels['officer_name'])])
-    # event text expander 0x233270: \#XXXX with the given / family form copied the
+    # battle panel "%s Army" label: lw a3, 4(v0) (record) / lw a0, 0x3C(s4) / lw a2, ui 63 /
+    # jal set_text / move a1, zero -> one stub call with en_part(record, family)
+    o = ARMY_FAMILY - elfseg.VBASE + elfseg.FOFF
+    w = struct.unpack_from('<5I', elf, o)
+    assert w[0] == 0x8C470004 and w[1] == 0x8E84003C and w[3] == 0x0C000000 | 0x472E60 >> 2 and w[4] == 0x0000282D, 'army label'
+    at = seg.end + (-seg.end % 4)
+    seg.add(asm.assemble(at, [
+        ('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'),
+        ('lw', 'a0', 4, 'v0'), ('jal', labels['en_part']), ('addu', 'a1', 'zero', 'zero'),
+        ('addu', 'a3', 'v0', 'zero'), ('lw', 'a0', 0x3C, 's4')]) + struct.pack('<I', w[2]) + asm.assemble(at + 32, [
+        ('jal', 0x472E60), ('addu', 'a1', 'zero', 'zero'),
+        ('ld', 'ra', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 16)]), 4)
+    p(ARMY_FAMILY, [('jal', at), ('nop',), ('nop',), ('nop',), ('nop',)])
+    # clan name (clan vtable +0x24 = 0x28E640: Bases list, castle info, Person Info):
+    # lw s0, 4(v0) (head's record) / lw a1, ui 19 / jal strcmp / move a0, s0 -> the cut
+    # family ("Chosokab"); the stub puts en_part(record, family) in s0 before the strcmp
+    o = CLAN_NAME - elfseg.VBASE + elfseg.FOFF
+    w = struct.unpack_from('<4I', elf, o)
+    assert w[0] == 0x8C500004 and w[1] >> 16 == 0x8F85 and w[2] == 0x0C000000 | STRCMP >> 2 and w[3] == 0x0200202D, 'clan name'
+    at = seg.end + (-seg.end % 4)
+    seg.add(asm.assemble(at, [
+        ('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'),
+        ('lw', 'a0', 4, 'v0'), ('jal', labels['en_part']), ('addu', 'a1', 'zero', 'zero'),
+        ('addu', 's0', 'v0', 'zero')]) + struct.pack('<I', w[1]) + asm.assemble(at + 28, [
+        ('jal', STRCMP), ('addu', 'a0', 's0', 'zero'),
+        ('ld', 'ra', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 16)]), 4)
+    p(CLAN_NAME, [('jal', at), ('nop',), ('nop',), ('nop',)])
+    for va, px in FIT_ID_SITES:
+        o = va - elfseg.VBASE + elfseg.FOFF
+        assert struct.unpack_from('<I', elf, o)[0] == 0x0C000000 | NAME_BY_ID >> 2, 'fit id site %x' % va
+        at = seg.end + (-seg.end % 4)
+        seg.add(asm.assemble(at, [
+            ('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'), ('jal', NAME_BY_ID), ('nop',),
+            ('addu', 'a0', 'v0', 'zero'), ('jal', labels['fit_str']), ('addiu', 'a1', 'zero', px),
+            ('ld', 'ra', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 16)]), 4)
+        p(va, [('jal', at)])
+    o = SLOT_LABEL - elfseg.VBASE + elfseg.FOFF
+    assert struct.unpack_from('<I', elf, o)[0] == 0x0C000000 | SPRINTF_PLAIN >> 2, 'slot label sprintf'
+    at = seg.end + (-seg.end % 4)
+    seg.add(asm.assemble(at, [
+        ('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'), ('sw', 'a0', 8, 'sp'),
+        ('jal', SPRINTF_PLAIN), ('nop',),
+        ('lw', 'a0', 8, 'sp'), ('jal', labels['fit_str']), ('addiu', 'a1', 'zero', SLOT_PX),
+        ('lw', 'a0', 8, 'sp'), ('beq', 'v0', 'a0', 'sl_end'), ('addu', 'a1', 'v0', 'zero'),
+        ('jal', STRCPY), ('nop',),
+        'sl_end:', ('ld', 'ra', 0, 'sp'), ('jr', 'ra'), ('addiu', 'sp', 'sp', 16)]), 4)
+    p(SLOT_LABEL, [('jal', at)])
+    for va, px in FIT_SITES:
+        o = va - elfseg.VBASE + elfseg.FOFF
+        jal, mov = struct.unpack_from('<2I', elf, o)       # jal full_name / move a0, <person>
+        assert jal == 0x0C000000 | FULL_NAME >> 2 and mov & 0xFC1FFFFF == 0x0000202D, 'fit site %x' % va
+        at = seg.end + (-seg.end % 4)
+        seg.add(asm.assemble(at, [('j', labels['fit_name']), ('addiu', 'a1', 'zero', px)]), 4)
+        p(va, [('jal', at)])
+    # event text expander: \#XXXX with the given / family form copied the
     # record part (cut form) -> en_part(record, kind); v0 = person object
     o = EV_GIVEN - elfseg.VBASE + elfseg.FOFF
     assert struct.unpack_from('<7I', elf, o)[::6] == (0x8C420004, 0x8C450004), 'event name hooks'
+    assert struct.unpack_from('<I', elf, o + 8)[0] == 0x0C000000 | EV_COPY >> 2, 'event copy call'
     for va, kind in (EV_GIVEN, 1), (EV_FAMILY, 0):
         at = seg.end + (-seg.end % 4)
         seg.add(asm.assemble(at, [
             ('addiu', 'sp', 'sp', -16), ('sd', 'ra', 0, 'sp'), ('lw', 'a0', 4, 'v0'),
             ('jal', labels['en_part']), ('addiu', 'a1', 'zero', kind),
             ('addu', 'a1', 'v0', 'zero'), ('addu', 'a0', 's1', 'zero'),
-            ('ld', 'ra', 0, 'sp'), ('j', 0x233180), ('addiu', 'sp', 'sp', 16)]), 4)
-        p(va, [('jal', at), ('nop',)] + ([('b', 0x233EB0), ('addu', 's1', 's1', 'v0')] if kind else []))
-    # The ELF officer table itself (read directly by 0x28B340's callers: hero cards,
+            ('ld', 'ra', 0, 'sp'), ('j', EV_COPY), ('addiu', 'sp', 'sp', 16)]), 4)
+        p(va, [('jal', at), ('nop',)] + ([('b', EV_NEXT), ('addu', 's1', 's1', 'v0')] if kind else []))
+    # The ELF officer table itself (read directly by 0x28B0E0's callers: hero cards,
     # lists): name[17] = English (short form "F. Given" when over 16 characters),
     # reading[17] cleared (English shows no kana reading line).
     # The 7 per-scenario full-name slots (+0x28, 17 bytes each; hero cards) get the
@@ -471,7 +586,7 @@ def export(elf, data):
     offi = officers(elf)
     rows = []
     for i in range(COUNT):
-        jp = {'s%d' % (s - 4): list(scen[s][i]) for s in SCENARIOS}
+        jp = {'s%d' % (s - 9): list(scen[s][i]) for s in SCENARIOS}
         r = {'id': i, 'jp': jp}
         if i in offi:
             r['officer'] = list(offi[i])
@@ -483,7 +598,7 @@ def export(elf, data):
 
 if __name__ == '__main__':
     import mmap
-    elf = open(os.path.join(ROOT, 'extract', 'SLPM_656.74'), 'rb').read()
+    elf = open(os.path.join(ROOT, 'extract', edition.ELF), 'rb').read()
     f = open(os.path.join(ROOT, 'extract', 'TAI5DATA.DAT'), 'rb')
     data = mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ)
     if sys.argv[1:] == ['export']:

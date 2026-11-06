@@ -72,6 +72,8 @@ def assemble(origin, lines):
             'mult': lambda: _r(a[1], a[2], a[0], 0, 0x18),     # R5900: rd = LO = rs * rt
             'div': lambda: _r(a[0], a[1], 'zero', 0, 0x1A),
             'mflo': lambda: _r('zero', 'zero', a[0], 0, 0x12),
+            'pmaxw': lambda: 0x1C << 26 | _r(a[1], a[2], a[0], 3, 0x08),   # R5900 MMI0
+            'daddu': lambda: _r(a[1], a[2], a[0], 0, 0x2D),
             'jal': lambda: 0x03 << 26 | (tgt(a[0]) >> 2) & 0x3FFFFFF,
             'lw': lambda: _i(0x23, a[2], a[0], a[1]),
             'sw': lambda: _i(0x2B, a[2], a[0], a[1]),

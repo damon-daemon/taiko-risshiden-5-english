@@ -559,9 +559,9 @@ A kind offer, but I must decline.
 @198.1
 A kind offer, but I must decline.
 @199
-So you won't serve {01}C{0E}{00}?\nThen I trust you're ready to commit seppuku.
+So you won't serve me?\nThen I trust you're ready to commit seppuku.
 @199.1
-So you say you won't serve {01}C{0E}{00}?\nThen I trust you're ready to commit seppuku.
+So you say you won't serve me?\nThen I trust you're ready to commit seppuku.
 @200
 This is your last chance.\nWill you truly not serve our house?
 @200.1

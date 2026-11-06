@@ -88,35 +88,35 @@ Save the game.\nIs this all right?
 @43
 Choose the person who will play the mini-game.
 @44
-Spin the reels and line up the pictures.\nThe higher your Accounting and Speech,\nthe more winning pictures appear.\nPlayed at shops.
+Spin the reels and line up the pictures.\nHigher Accounting and Speech give more winning pictures.\nPlayed at shops.
 @45
-Bounce the ball with the bar and break\nthe blocks within the time limit.\nHigher Ninjutsu adds blocks; higher Valor and Intellect\nmake the bar bigger.\nPlayed at castles, ninja villages and pirate forts.
+Bounce the ball with the bar and break the blocks within the time limit.\nHigher Ninjutsu adds blocks; higher Valor and Intellect make the bar bigger.\nPlayed at castles, ninja villages and pirate forts.
 @46
-Lay water channel panels and connect\nthe channel within the time limit.\nHigher Politics adds time;\nhigher Farming adds panels.\nPlayed at castles and Nanban temples.
+Lay water channel panels and connect the channel within the time limit.\nHigher Politics adds time; higher Farming adds panels.\nPlayed at castles and Nanban temples.
 @47
-Find as many gold nuggets as you can\nwhile digging within the time limit.\nHigher Politics makes gold appear more often;\nhigher Mining adds time.\nPlayed at castles and samurai houses.
+Find as many gold nuggets as you can while digging within the time limit.\nHigher Politics makes gold appear more often; higher Mining adds time.\nPlayed at castles and samurai houses.
 @48
-Place building materials and fill every\nhole in the building within the time limit.\nHigher Politics and Intellect\ngive more time;\nhigher Building gives more materials.\nPlayed at castles, ninja villages,\npirate forts and samurai houses.
+Place building materials and fill every hole in the building within the time limit.\nHigher Politics and Intellect give more time; higher Building gives more materials.\nPlayed at castles, ninja villages, pirate forts and samurai houses.
 @49
-Judge whose cards add up\nto more: yours or your opponent's.\nCharm and Intellect above your opponent's add time;\nhigher Speech gives more cards, numbers to choose\nand starting points.\nPlayed at castles and samurai houses.
+Judge whose cards add up to more: yours or your opponent's.\nCharm and Intellect above your opponent's add time; higher Speech gives more cards, numbers to choose and starting points.\nPlayed at castles and samurai houses.
 @50
-Find the person you are told to among the\ncandidates within the time limit.\nHigher Politics and Intellect give more time;\nhigher Ninjutsu adds candidates.\nPlayed at ninja villages.
+Find the person you are told to among the candidates within the time limit.\nHigher Politics and Intellect give more time; higher Ninjutsu adds candidates.\nPlayed at ninja villages.
 @51
-Choose tea utensils and repeat\nthe order you were shown.\nHigher Charm\ngives more time;\nhigher Tea adds utensils.\nPlayed at tea masters' houses.
+Choose tea utensils and repeat the order you were shown.\nHigher Charm gives more time; higher Tea adds utensils.\nPlayed at tea masters' houses.
 @52
-Mix the requested medicine from amounts and\ningredients within the time limit.\nHigher Intellect and Charm give more time; higher\nMedicine adds ingredients and medicines.\nPlayed at physicians' houses.
+Mix the requested medicine from amounts and ingredients within the time limit.\nHigher Intellect and Charm give more time; higher Medicine adds ingredients and medicines.\nPlayed at physicians' houses.
 @53
-Choose panels and clear all of them\nwithin the time limit.\nHigher Intellect and Leadership\ngive more time;\nhigher Tactics adds panels.\nPlayed at samurai houses.
+Choose panels and clear all of them within the time limit.\nHigher Intellect and Leadership give more time; higher Tactics adds panels.\nPlayed at samurai houses.
 @54
-Adjust the firing angle and hit as many\ntargets as you can in a limited number of shots.\nHigher Leadership and Valor\nmake the targets bigger;\nhigher Gunnery gives more shots.\nPlayed at smithies.
+Adjust the firing angle and hit as many targets as you can with limited shots.\nHigher Leadership and Valor make the targets bigger; higher Gunnery gives more shots.\nPlayed at smithies.
 @55
-Adjust the angle and the draw\nand hit as many targets as you can\nin a limited number of shots.\nHigher Leadership and Valor\nmake the targets bigger;\nhigher Archery gives more shots.\nPlayed at samurai houses.
+Adjust the angle and the draw and hit as many targets as you can with limited shots.\nHigher Leadership and Valor make the targets bigger; higher Archery gives more shots.\nPlayed at samurai houses.
 @56
-Choose numbers from 1 to 9 and complete\nthe equations within the time limit.\nHigher Intellect and Politics\ngive more time;\nhigher Accounting makes the equations longer.\nPlayed at merchant houses.
+Choose numbers from 1 to 9 and complete the equations within the time limit.\nHigher Intellect and Politics give more time; higher Accounting makes the equations longer.\nPlayed at merchant houses.
 @57
-Rotate the rows and columns\nto line up the nine pictures.\nHigher Etiquette adds card types and\nbasic turns.\nHigher Charm\nadds extra turns.\nPlayed at temples.
+Rotate the rows and columns to line up the nine pictures.\nHigher Etiquette adds card types and basic turns; higher Charm adds extra turns.\nPlayed at temples.
 @58
-Steer your horse left and right\nto dodge the flying arrows.\nHigher Leadership and Valor\nallow more misses;\nhigher Cavalry adds time.\nPlayed at stables.
+Steer your horse left and right to dodge the flying arrows.\nHigher Leadership and Valor allow more misses; higher Cavalry adds time.\nPlayed at stables.
 @59
 Take turns rolling three dice\nand compete for the best combination.\nPlayed at taverns.
 @60

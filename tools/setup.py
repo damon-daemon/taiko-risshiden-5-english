@@ -9,13 +9,13 @@ usage: .venv/bin/python tools/setup.py [clean.iso]
 import hashlib, json, os, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import iso, msgfile, text
+import edition, iso, msgfile, text
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCRIPT = os.path.join(ROOT, 'script')
 TL = os.path.join(ROOT, 'tl')
-CLEAN = os.path.join(ROOT, 'taiko_risshiden_5.iso')
-CLEAN_SHA1 = '9d8bc973f6dca388a6982bc55d1ff76e0c9e34d3'
+CLEAN = edition.CLEAN
+CLEAN_SHA1 = edition.CLEAN_SHA1
 MSG = 'TAI5MSG.DAT'
 
 def sha1(path):

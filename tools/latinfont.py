@@ -11,8 +11,8 @@ import math
 from PIL import Image, ImageDraw
 
 SIZES = {
-    'large': (12, 24, 19.6, 15.0, 1.35, 14),    # TAI5DATA entry 0 (24px text)
-    'small': (12, 20, 16.6, 13.0, 1.75, 15),    # TAI5DATA entry 2 (20px text)
+    'large': (12, 24, 19.6, 15.0, 1.35, 14),    # TAI5DATA entry 5 (24px text)
+    'small': (12, 20, 16.6, 13.0, 1.75, 15),    # TAI5DATA entry 7 (20px text)
     'label': (16, 26, 20.5, 16.0, 2.0, 15),     # labels drawn into textures (menugfx.py)
 }
 

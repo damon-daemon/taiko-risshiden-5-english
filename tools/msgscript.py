@@ -2,7 +2,7 @@
 
 Worked out from the message interpreter (0x347940 reads a character, 0x347A60
 handles bytes < 0x20) and the expression evaluator of the game's message object
-(vtable 0x648590). Bytes >= 0x20 are text, except where a code consumes them as
+(vtable 0x64C940). Bytes >= 0x20 are text, except where a code consumes them as
 arguments:
 
   0A                  newline              08 09        passed to the renderer
@@ -37,7 +37,7 @@ A message is a block: (IF cond block)* text END. Text runs between structural co
 class ParseError(ValueError):
     pass
 
-# functions 02 C8 f: number of expression arguments (handler 0x2F7710, table 0x588780)
+# functions 02 C8 f: number of expression arguments (handler 0x2F7710, table 0x5914F0)
 FUNC_ARGS = {**{f: 2 for f in range(0x6E, 0x92)}, 0x64: 1, 0x65: 1, 0x8B: 1, 0x96: 1}
 
 def _var_cat(x):

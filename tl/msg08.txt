@@ -175,7 +175,7 @@ Oh, customer?!\nI brought the sake you ordered...\nWhat a waste.
 @37.1
 (Oh, not enough money.)
 @38
-{01}C1{00}, let's drink together.\nIt's on {01}C{0E}{00}.
+{01}C1{00}, let's drink together.\nIt's on me.
 @38.1
 {01}C1{00}, let's drink together.\n{01}C{0E}{00} will pay.
 @39
@@ -183,21 +183,21 @@ Oh, how kind!
 @39.1
 Oh, how lovely!
 @40
-......By the way, {01}C1{00},\nI have a favor to ask.\nWould you take {01}C{0E}{00} into your service?
+......By the way, {01}C1{00},\nI have a favor to ask.\nWould you take me into your service?
 @40.1
-By the way, {01}C1{00},\nI have a favor to ask...\nWould you take {01}C{0E}{00} into your service?
+By the way, {01}C1{00},\nI have a favor to ask...\nWould you take me into your service?
 @41
-{01}C{0E}{00} can't stay idle forever.\nWon't you take {01}C{0E}{00}\ninto your service?
+{01}C{0E}{00} can't stay idle forever.\nWon't you take me\ninto your service?
 @41.1
-{01}C{0E}{00} am getting tired\nof this life...\nWon't you take {01}C{0E}{00} into your service?
+{01}C{0E}{00} am getting tired\nof this life...\nWon't you take me into your service?
 @42
 Sadly, {01}C{0E}{00} am not yet\nof a rank to have subordinates.
 @42.1
-I'm sorry, at {01}C{0E}{00}'s rank\nI can't have subordinates yet.
+I'm sorry, at my rank\nI can't have subordinates yet.
 @43
-I see......\nThen when you rise in the world,\ndo call on {01}C{0E}{00}.
+I see......\nThen when you rise in the world,\ndo call on me.
 @43.1
-Too bad...\nThen when you rise in the world,\nplease call on {01}C{0E}{00}.
+Too bad...\nThen when you rise in the world,\nplease call on me.
 @44
 (Shall I take {01}C1{00}\n into my service?)
 @44.1
@@ -231,7 +231,7 @@ Whoa~, my head's spinning......\nI seem to have drunk a bit much.\nI'll take my 
 @51.1
 Mmm, my head's spinning......\nMaybe I drank a bit much.\nI'll take my leave for today.
 @52
-Today's sake is on {01}C{0E}{00}.\nNo need to hold back.\nCome, let's drink.
+Today's sake is on me.\nNo need to hold back.\nCome, let's drink.
 @52.1
 Please let {01}C{0E}{00} pay for today's sake.\nNo need to hold back.\nCome, another cup.
 @53
@@ -1041,7 +1041,7 @@ What can I do for you today?
 @261
 Don't you have another job right now?\nHalf-done work is a nuisance.\nFinish it first and then come.
 @262
-Hey, the deadline for the job\nhas passed.\nThat leaves a hole in {01}C{0E}{00}'s work.
+Hey, the deadline for the job\nhas passed.\nThat leaves a hole in my work.
 @263
 Is the job I asked for done?
 @264

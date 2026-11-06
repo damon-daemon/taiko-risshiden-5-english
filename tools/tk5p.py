@@ -1,9 +1,9 @@
-"""TK5P textures (TAI5DATA entries 15-102 and others).
+"""TK5P textures (TAI5DATA entries 0-4, 20-85, 86-102 and others).
 
 Header (16 bytes): 'TK5P', u16 type, u16 palette count, u16 width, u16 height, u32 data
 size. type & 0xF = pixel format (0 = 32bpp, 1 = 16bpp, 2 = 8bpp, 3 = 4bpp); 8/4bpp data is
 the pixels followed by the palettes (256 / 16 x RGBA each, alpha 0-0x80). Some sheets have
-2-18 palettes (entries 15, 85, 88, 93, 94, 96, 101), each used by different sprites: a
+2-18 palettes (entries 4, 20, 88, 93, 94, 96, 101), each used by different sprites: a
 rebuilt texture must keep them all (with one, the game uploads the missing palette from
 past the data: the duel HUD then sends garbage to VIF1 and every frame times out).
 type & 0x10 = the data is compressed (decoder 0x477060): then u32 size, then a stream of 32-bit words
@@ -175,9 +175,9 @@ def offsets(entry):
 
 def pack_table(elf, entry):
     """(ELF file offset, stride) of the table that locates the textures of a pack:
-    u32 offsets (stride 4, followed by the entry size; e.g. entry 18 -> 0x422630) or
+    u32 offsets (stride 4, followed by the entry size; e.g. entry 23 -> 0x42B3B0) or
     (u32 offset, u32 0) pairs (stride 8, mini-game packs). (None, None) if there is
-    none (e.g. entry 67, sector-aligned uncompressed textures)."""
+    none (e.g. entry 72, sector-aligned uncompressed textures)."""
     offs = offsets(entry)
     for stride in (4, 8):
         seq = b''.join(struct.pack('<I', o) + bytes(stride - 4) for o in offs)

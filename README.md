@@ -10,9 +10,33 @@ The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.10.3).** All of the game's text is now in English, including the story
+> **This is a beta (v0.11.0).** All of the game's text is now in English, including the story
 > event scenes, but the event scenes have not been played through much yet. Expect
 > text that overflows its window, odd line breaks or untested scenes.
+
+> **Check which disc you have before downloading.** The game exists in two Japanese
+> editions, and each patch works with **only one** of them. See the table below.
+
+## Which version for which disc
+
+| Your disc | Serial | Patch versions that work |
+|---|---|---|
+| **Koei the Best** re-release (2005) | `SLPM-66267` | **v0.11.0 and later** |
+| Standard edition, original release (2004) | `SLPM-65674` | **v0.9 to [v0.10.3](https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.3)** (v0.10.3 is the last one) |
+
+- A patch made for one edition **will not apply** to the other: the xdelta tool refuses it
+  or produces a broken image. There is no patch that covers both.
+- New fixes and translation work only go into the Koei the Best patches. The standard
+  edition stays on v0.10.3.
+- The Koei the Best edition is recommended. It fixes bugs of the first printing, for
+  example the Date succession event that does not fire in 1582.
+- **How to tell them apart:** the serial is printed on the disc and on the case spine.
+  The Koei the Best edition has the "Koei the Best" logo on its cover. In a disc image,
+  the file `SYSTEM.CNF` names the program: `SLPM_662.67` is Koei the Best, `SLPM_656.74`
+  is the standard edition. The checksums of both unmodified images are listed under
+  [Applying the patch](#applying-the-patch-players).
+- Memory card saves are separate. The two editions file their saves under different
+  names, so a game started on the standard edition does not carry over to Koei the Best.
 
 This repository contains the English text and the tools that build the patch.
 It does **not** contain the game, any of its data, or the Japanese script — you need
@@ -52,24 +76,31 @@ Long names and labels are shortened where the game's boxes are too small.
 
 1. Download the release zip (`Taiko_Risshiden_V_English_v<version>.zip`) from the
    Releases page. It contains the patch, `taiko_risshiden_5_en_v<version>.xdelta`.
-2. You need an unmodified image of the Japanese disc (serial `SLPM-65674`):
+2. Check your unmodified disc image against this table to see which edition it is:
 
-   | | |
-   |---|---|
-   | Size  | 1,555,234,816 bytes |
-   | CRC32 | `FC665CCE` |
-   | MD5   | `2add4b7c455c8641543a4f6201f9dc23` |
-   | SHA-1 | `9d8bc973f6dca388a6982bc55d1ff76e0c9e34d3` |
+   | | **Koei the Best** (`SLPM-66267`): v0.11.0 and later | Standard edition (`SLPM-65674`): v0.10.3 and earlier |
+   |---|---|---|
+   | Size  | 1,576,206,336 bytes | 1,555,234,816 bytes |
+   | CRC32 | `45C7D445` | `FC665CCE` |
+   | MD5   | `cd37b6da12cf2e66fedbc02314a75a0e` | `2add4b7c455c8641543a4f6201f9dc23` |
+   | SHA-1 | `345e3c2d28e5ce035c36b1709b08f826e5899bc9` | `9d8bc973f6dca388a6982bc55d1ff76e0c9e34d3` |
+
+   If your image matches neither column, it has been modified or is a different dump,
+   and the patch will not apply.
 
 3. Apply it with an xdelta tool, e.g. [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher)
    or the command line:
 
    ```
-   xdelta3 -d -s taiko_risshiden_5.iso taiko_risshiden_5_en_v<version>.xdelta taiko_risshiden_5_en_v<version>.iso
+   xdelta3 -d -s taiko_risshiden_5_best.iso taiko_risshiden_5_en_v<version>.xdelta taiko_risshiden_5_en_v<version>.iso
    ```
 
 The patched image has the same serial, so it uses the same memory card saves as the
-Japanese game.
+Japanese game of the same edition.
+
+The instructions in this README are for the current releases (Koei the Best). Each
+standard-edition release (v0.10.3 and earlier) has its own README.txt in its zip, with
+the matching file names.
 
 ## Building from source
 
@@ -78,7 +109,7 @@ Requirements: Python 3.10+, `xdelta3` (for the patch file).
 ```
 python -m venv .venv
 .venv/bin/pip install -r requirements.txt
-cp /path/to/your/disc.iso taiko_risshiden_5.iso   # must match the checksums above
+cp /path/to/your/disc.iso taiko_risshiden_5_best.iso   # must match the checksums above
 .venv/bin/python tools/setup.py                   # extracts script/ from your disc, applies tl/
 .venv/bin/python tools/build.py                   # writes build/taiko_risshiden_5_en.iso + .xdelta
 ```
@@ -88,8 +119,8 @@ Japanese text from your disc with the English from `tl/`. `script/` and `build/`
 never committed. Re-run `setup.py` after editing anything in `tl/`.
 The build is reproducible: the same disc and sources give a byte-identical patch.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.10.3` after building:
-it writes `release/<name>_v0.10.3.zip` with the versioned xdelta patch and a plain-text
+To make a release package, run `.venv/bin/python tools/package.py 0.11.0` after building:
+it writes `release/<name>_v0.11.0.zip` with the versioned xdelta patch and a plain-text
 README.txt. The disc image itself is never packaged.
 
 ## Repository layout
@@ -122,13 +153,13 @@ README.txt. The disc image itself is never packaged.
   the text is clean. In PCSX2, open the game's Properties >
   Graphics, enable manual hardware fixes, and set **Round Sprite** to **Full**
   (in the Upscaling Fixes tab).
-- The name plate next to the hero's portrait at home cuts long names and repeats their
-  first letters.
 - Officer and castle lists may be sorted by the Japanese reading of names.
 - Help, guide and advisor texts on panels not yet checked in the game were shortened to
   the length of the Japanese, so a few labels are abbreviated (e.g. "Sq. Chief").
-- Saves made with earlier versions show the hero's name cut short on the Load screen
-  until the game is saved again.
+- Saves from the standard-edition patch (v0.10.3 and earlier) are not visible to the
+  Koei the Best edition; the game keeps the two editions' saves apart.
+- Long hero names are shortened on the Save / Load slot buttons ("K. Tokichiro"); the
+  slot details show the full name.
 - Some vertical labels drawn in calligraphy (location names, town facility cards) are
   left in Japanese.
 - The reading fields in name entry still take Japanese kana.

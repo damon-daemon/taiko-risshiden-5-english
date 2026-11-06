@@ -9,12 +9,15 @@ packaged.
 """
 import hashlib, os, re, sys, textwrap, zipfile, zlib
 
+sys.path.insert(0, os.path.dirname(__file__))
+import edition
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TITLE = 'Taiko Risshiden V - English Translation'
 ZIP_NAME = 'Taiko_Risshiden_V_English'
-CLEAN = 'taiko_risshiden_5.iso'
+CLEAN = os.path.basename(edition.CLEAN)
 PATCHED = 'taiko_risshiden_5_en.iso'
-GAME_CODE = 'SLPM-65674'
+GAME_CODE = edition.SERIAL
 
 def sums(path):
     """Checksums, read in chunks (disc images are 1.5 GB)."""
@@ -66,7 +69,10 @@ def main():
             out += [textwrap.fill(' '.join(plain(m.group(0)).split()), 78), '']
     out += [heading("What's translated"), plain(section(md, "What's translated")), '']
     out += [heading('How to patch'),
-            'You need an unmodified image of the Japanese disc (serial %s):' % GAME_CODE, '',
+            textwrap.fill('This patch does NOT work with the standard edition, the original 2004 release '
+                          '(serial SLPM-65674). For that disc use v0.10.3, the last release for it: '
+                          'https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.3', 78), '',
+            'You need an unmodified image of the Japanese "Koei the Best" disc (serial %s):' % GAME_CODE, '',
             table(sums(clean)), '',
             'Apply %s to it with an xdelta tool, e.g. Delta Patcher' % patch_name,
             '(https://github.com/marco-calautti/DeltaPatcher), or on the command line:', '',

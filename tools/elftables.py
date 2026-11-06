@@ -11,6 +11,7 @@ tl/tables/<table>.txt: "index<TAB>English" lines; missing indexes keep the Japan
 import json, os, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
+import edition
 import elfseg
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -19,25 +20,25 @@ SCRIPT = os.path.join(ROOT, 'script', 'tables')
 
 # name: (file offset of record 0, stride, count, name offset, reading offset)
 TABLES = {
-    'towns':      (0x44D870, 24, 310, 1, 12),
-    'sights':     (0x478F20, 40, 58, 4, 19),
-    'techniques': (0x479A10, 40, 84, 0, 15),
-    'battleskills': (0x47B44C, 34, 64, 4, 20),
-    'cards':      (0x47BCD0, 31, 55, 0, 15),
-    'provinces':  (0x47CB60, 24, 66, 0, 11),
-    'items':      (0x482C60, 40, 350, 0, 15),
-    'ninja':      (0x489160, 22, 30, 0, 9),
-    'seas':       (0x489660, 28, 20, 0, 11),
-    'offices':    (0x48A6B0, 26, 150, 0, 11),
-    'schools':    (0x493010, 22, 24, 0, 9),
-    'shops':      (0x493510, 18, 41, 0, 7),    # shop-name stems (UI #25 '%sya')
-    'pirates':    (0x493F20, 18, 30, 0, 7),    # pirate band names (UI #24 '%s navy')
-    'courtranks': (0x422930, 20, 15, 0, 9),
-    'goods':      (0x423BF0, 26, 100, 0, 9),
-    'titles':     (0x47A730, 32, 105, 0, 16),  # honorary titles (剣豪, 茶聖 ...) and schools
-    'missions':   (0x4865F0, 28, 150, 0, 0),   # mission (主命) names per role
-    'tasks':      (0x487680, 12, 18, 0, 0),    # trade/production commands
-    'regions':    (0x494610, 11, 19, 0, 0),
+    'towns':      (0x4565E0, 24, 310, 1, 12),
+    'sights':     (0x481C90, 40, 58, 4, 19),
+    'techniques': (0x482780, 40, 84, 0, 15),
+    'battleskills': (0x4841BC, 34, 64, 4, 20),
+    'cards':      (0x484A40, 31, 55, 0, 15),
+    'provinces':  (0x4858D0, 24, 66, 0, 11),
+    'items':      (0x48B9D0, 40, 350, 0, 15),
+    'ninja':      (0x491ED0, 22, 30, 0, 9),
+    'seas':       (0x4923D0, 28, 20, 0, 11),
+    'offices':    (0x493420, 26, 150, 0, 11),
+    'schools':    (0x49BD90, 22, 24, 0, 9),
+    'shops':      (0x49C290, 18, 41, 0, 7),    # shop-name stems (UI #25 '%sya')
+    'pirates':    (0x49CCA0, 18, 30, 0, 7),    # pirate band names (UI #24 '%s navy')
+    'courtranks': (0x42B6B0, 20, 15, 0, 9),
+    'goods':      (0x42C970, 26, 100, 0, 9),
+    'titles':     (0x4834A0, 32, 105, 0, 16),  # honorary titles (剣豪, 茶聖 ...) and schools
+    'missions':   (0x48F360, 28, 150, 0, 0),   # mission (主命) names per role
+    'tasks':      (0x4903F0, 12, 18, 0, 0),    # trade/production commands
+    'regions':    (0x49D390, 11, 19, 0, 0),
 }
 
 def _cstr(elf, o):
@@ -90,10 +91,10 @@ def apply(elf, clean_elf):
         raise ValueError('\n'.join(errors))
     return done
 
-# Town reading (0x27FAA0: kana reading of town a1 + "じょう"/"のまち"... suffix, shown under
+# Town reading (0x27F2F0: kana reading of town a1 + "じょう"/"のまち"... suffix, shown under
 # castle names and used by 8 callers). The English name runs on into the reading field,
 # so the reading is garbage: the function returns an empty string instead.
-TOWN_READING = 0x27FAA0
+TOWN_READING = 0x27F2F0
 
 def apply_code(elf, seg):
     import asm
@@ -113,7 +114,7 @@ def export(elf):
                   open(os.path.join(SCRIPT, name + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 
 if __name__ == '__main__':
-    elf = open(os.path.join(ROOT, 'extract', 'SLPM_656.74'), 'rb').read()
+    elf = open(os.path.join(ROOT, 'extract', edition.ELF), 'rb').read()
     if sys.argv[1:] == ['export']:
         export(elf)
         for name in TABLES:
