@@ -65,6 +65,8 @@ your own copy of the game.
 - All story event scenes: the opening, tutorials, career and historical events
   (about 55,000 lines of event-script dialogue, narration and choices)
 - Scenario titles and introductions
+- The kanji-reading quiz: the names stay in kanji behind an English label
+  ("Castle: 「高天神」"), the answers are romaji readings
 - Graphics: main-menu cards, banners, buttons and labels, redrawn at build time with an
   original English font
 - A proportional English font with word wrap, and longer message lines
