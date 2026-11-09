@@ -65,13 +65,13 @@ Hm? Who are you?
 @23.1
 Oh, who are you?
 @24
-I see, this is the first time\nI've met {01}C{19}{00}.\n{01}C{0E}{00} am {02}{01}g.
+I see, this is the first time\nI've met you.\n{01}C{0E}{00} am {02}{01}g.
 @24.1
 A pleasure to meet you.\nI am {02}{01}g.
 @24.2
 A pleasure to meet you.\nI am {02}{01}g.
 @25
-This is the first time\nI've met {01}C{19}{00}.\n{01}C{0E}{00} am {02}{01}g.
+This is the first time\nI've met you.\n{01}C{0E}{00} am {02}{01}g.
 @25.1
 How do you do?\nI am {02}{01}g.
 @25.2
@@ -93,7 +93,7 @@ Oh, forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nI am {02}{01}g.
 @28.3
 Oho, so it's {01}C1{00}.\nI look forward to knowing you.
 @28.4
-Oho, so {01}C{19}{00} is {02}{02}g.\nWhat a surprising place to meet.
+Oho, so you are {02}{02}g.\nWhat a surprising place to meet.
 @28.5
 {01}C1{00}... of {02}{02}{EC}?\nForgive me, I don't know you...\nI am {02}{01}g of {02}{01}{EC}.
 @28.6
@@ -111,7 +111,7 @@ Oh! Forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nI am {02}{01}g.
 @29.3
 Ah, it's {01}C1{00}.\nPlease remember me from now on.
 @29.4
-My, {01}C{19}{00} is {02}{02}g?\nWhat a surprising place to meet.
+My, you are {02}{02}g?\nWhat a surprising place to meet.
 @29.5
 {01}C1{00} of {02}{02}{EC}?\nForgive me, I don't know you...\nI am {02}{01}g of {02}{01}{EC}.
 @29.6
@@ -125,13 +125,13 @@ You've got some nerve, wretch!!\nI'll cut you down!!
 @30.1
 Y-you've got some nerve...\nI'll punish you right here!!
 @31
-What do you want?\nI have nothing to say to {01}C{19}{00}.\nFarewell.
+What do you want?\nI have nothing to say to you.\nFarewell.
 @31.1
-What do you want?\nI have nothing to say to {01}C{19}{00}.\nFarewell.
+What do you want?\nI have nothing to say to you.\nFarewell.
 @31.2
-What do you want?\nI have nothing to say to {01}C{19}{00}.\nFarewell.
+What do you want?\nI have nothing to say to you.\nFarewell.
 @31.3
-What do you want!\nI don't even want to see {01}C{19}{00}'s face.\nFarewell!
+What do you want!\nI don't even want to see your face.\nFarewell!
 @31.4
 Oh, it's {01}C1{00}.
 @31.5
@@ -141,11 +141,11 @@ Isn't that {01}C1{00}?\nWhat a coincidence.
 @31.7
 Oh, isn't that {01}C1{00}?\nWhat a coincidence.
 @32
-I have nothing to say to {01}C{19}{00}.\nExcuse me.
+I have nothing to say to you.\nExcuse me.
 @32.1
-I have nothing to say to {01}C{19}{00}.\nExcuse me.
+I have nothing to say to you.\nExcuse me.
 @32.2
-I have nothing to say to {01}C{19}{00}.\nExcuse me.
+I have nothing to say to you.\nExcuse me.
 @32.3
 I was just about to go home.\nExcuse me.
 @32.4
@@ -339,7 +339,7 @@ That's {02}o{C8}.\nI'm putting my life on the line,\nso I need something in retu
 @78
 That's {02}o{C8}.\nSorry, but I don't take cheap jobs.
 @79
-That would be {02}o{C8}.\nIs {01}C{19}{00}'s life\nworth only that much?
+That would be {02}o{C8}.\nIs your life\nworth only that much?
 @80
 Hehehe...\nThe fee's {02}p{C8} for {02}od days.\nPaid up front. All right?
 @81
@@ -347,7 +347,7 @@ The fee's {02}p{C8} for {02}od days.\nPaid up front, got it?
 @82
 Huh? {01}C{0E}{00} don't come cheap.\nThe fee's {02}p{C8} for {02}od days.\nPaid up front. Can you pay?
 @83
-I will protect {01}C{19}{00}'s life\nfor {02}p{C8} for {02}od days.\nPaid in advance. Is that all right?
+I will protect your life\nfor {02}p{C8} for {02}od days.\nPaid in advance. Is that all right?
 @84
 Oh, you'll pass?\nDidn't you like them?
 @85
@@ -395,7 +395,7 @@ Gufshhh
 @95.1
 (Not a single opening......\n  This one is good!)
 @96
-Thank you very much.\nI shall take charge of {01}C{19}{00}'s life.
+Thank you very much.\nI shall take charge of your life.
 @97
 (After paying this much...\n  they'd better work for it,\n  or it won't be worth it.)
 @97.1
@@ -651,11 +651,11 @@ Today makes the {02}od days we agreed.\nYou were a big help.\nHere, {02}p{C8}.
 @178.1
 (...Mmm, I'm getting nothing.\n If I ask more they'll get suspicious...\n Oh well, I'll give up.)
 @179
-Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
+Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
 @179.1
-Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
+Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
 @179.2
-Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
+Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
 @180
 {01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nPlease remember me.
 @180.1
@@ -665,7 +665,7 @@ Oh, could {01}C{19}{00} be...\nthe {01}C{06} \_{01}C1{00}?
 @181
 Oh, that face, could it be...\nthe {01}C{06} \_{01}C1{00}?\nWelcome! Drinks are half price for you.
 @182
-Rumor has it a person called {01}C>{00}\nbears {01}C{19}{00} a great grudge...\nBe careful when you're out.
+Rumor has it a person called {01}C>{00}\nbears you a great grudge...\nBe careful when you're out.
 @183
 It's the season of {02}=e again.\n{01}C{0E}{00} can't resist it...\nEven when traveling, I stop to see it.
 @184
@@ -763,11 +763,11 @@ I see...\nA great pity...
 @203.2
 I see...\nWhat a pity...
 @204
-Hmm, I won't be led around\nby {01}C{19}{00} again.\nI must decline this offer.
+Hmm, I won't be led around\nby you again.\nI must decline this offer.
 @204.1
-Hmm, I won't be led around\nby {01}C{19}{00} again.\nI must decline the offer.
+Hmm, I won't be led around\nby you again.\nI must decline the offer.
 @204.2
-Mmm, I won't be led around\nby {01}C{19}{00} again.\nI decline the offer.
+Mmm, I won't be led around\nby you again.\nI decline the offer.
 @205
 It's a great honor...\nbut we have our own circumstances...\nI must decline this offer.
 @205.1
@@ -775,11 +775,11 @@ It is truly an honor,\nbut we have our own circumstances...\nPlease forgive us t
 @205.2
 It's a great honor...\nbut we have our own circumstances...\nPlease forgive us.
 @206
-That's just what I hoped for.\nFrom now on I'll help {01}C{19}{00}\nconquer the realm.
+That's just what I hoped for.\nFrom now on I'll help you\nconquer the realm.
 @206.1
-That's just what I hoped for.\nFrom now on please let me help\n{01}C{19}{00} conquer the realm.
+That's just what I hoped for.\nFrom now on please let me help\nyou conquer the realm.
 @206.2
-That's just what I hoped for.\nFrom now on I'll help\n{01}C{19}{00} conquer the realm.
+That's just what I hoped for.\nFrom now on I'll help\nyou conquer the realm.
 @207
 Oh, much appreciated.\nI'm counting on you.
 @207.1
@@ -835,13 +835,13 @@ I can't buy what you have equipped.
 @218
 I can't buy what you have equippeeed.
 @219
-{01}C{19}{00} is with {02}{02}{EC}, aren't you...\nSorry, I haven't a single gun\nto sell to a business rival.
+You are with {02}{02}{EC}, aren't you...\nSorry, I haven't a single gun\nto sell to a business rival.
 @219.1
 Aren't you with {02}{02}{EC}...?\nI'm afraid I haven't a single gun\nto sell to a business rival.
 @219.2
 Aren't you with {02}{02}{EC}...?\nI'm afraid I haven't a single gun\nto sell to a business rival.
 @220
-{01}C{19}{00} is with {02}{02}{EC}, aren't you...\nI can't sell to those at odds\nwith {02}{0B}e, whom we serve.
+You are with {02}{02}{EC}, aren't you...\nI can't sell to those at odds\nwith {02}{0B}e, whom we serve.
 @220.1
 Aren't you with {02}{02}{EC}...?\nWe can't sell to those at odds\nwith {02}{0B}e, whom we serve.
 @220.2
@@ -889,11 +889,11 @@ Let me see...\nWould you take it on\nfor {02}o{C8} a month?
 @232.2
 Let me see...\nWould you take it on\nfor {02}o{C8} a month?
 @233
-{01}C{19}{00} drives a hard bargain...\nThen how about\n{02}o{C8} a month?
+You drive a hard bargain...\nThen how about\n{02}o{C8} a month?
 @233.1
-{01}C{19}{00} drives a hard bargain...\nThen how about\n{02}o{C8} a month?
+You drive a hard bargain...\nThen how about\n{02}o{C8} a month?
 @233.2
-{01}C{19}{00} drives a hard bargain...\nThen how about\n{02}o{C8} a month?
+You drive a hard bargain...\nThen how about\n{02}o{C8} a month?
 @234
 Good grief, is that so... then\nlet's forget this talk.\nFarewell.
 @234.1
@@ -935,9 +935,9 @@ To be called a great doctor\nyou need, besides great skill,\na spirit of compass
 @237.12
 Even with a clinic at home\nyou can still move or take service.\nUnlike a dojo, no need to close it.
 @238
-What, wandering around a place like this...\n\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for {01}C{19}{00}... Oops, no reason to stay. Farewell.
+What, wandering around a place like this...\n\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for you... Oops, no reason to stay. Farewell.
 @238.1
-My my, what are you doing\nin a place like this?\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for {01}C{19}{00}...\n...Oh, was that a bit vulgar?\nWell, bye now~
+My my, what are you doing\nin a place like this?\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for you...\n...Oh, was that a bit vulgar?\nWell, bye now~
 @239
 What, wandering around a place like this...\n\n\nGoing to learn etiquette?\nHaha, how amusing.\nLike reciting sutras to a horse.\nOops, no reason to stay. Farewell.
 @239.1
@@ -951,9 +951,9 @@ Oh, you'll make an offering?\nWe accept from 1 kan.\nHow much will you donate?
 @241.1
 Oh, you'll make an offering?\nWe accept from 1 kan.\nHow much would you donate?
 @242
-Ah, a worthy deed.\nThe Buddha will surely watch over\n{01}C{19}{00}'s merit.
+Ah, a worthy deed.\nThe Buddha will surely watch over\nyour merit.
 @242.1
-Thank you very much.\nThe Buddha will surely see\n{01}C{19}{00}'s merit.
+Thank you very much.\nThe Buddha will surely see\nyour merit.
 @243
 Ah, a worthy deed.\nThe Buddha will be grateful too.
 @243.1
@@ -963,9 +963,9 @@ You want a letter of introduction\nfrom {01}C{0E}{00} to make peace with {02}{0B
 @244.1
 You want a letter of introduction\nfrom {01}C{0E}{00} to make peace with {02}{0B}e?
 @245
-Even if I wrote one,\nI don't know {01}C{19}{00} well.\nSorry, I can't help.
+Even if I wrote one,\nI don't know you well.\nSorry, I can't help.
 @245.1
-Even if I wrote one,\nI don't know {01}C{19}{00} well.\nI'm sorry, but I must decline.
+Even if I wrote one,\nI don't know you well.\nI'm sorry, but I must decline.
 @246
 {02}{0B}e's base is far away,\nso I have no close ties.\nSorry, I can't help.
 @246.1
@@ -1193,9 +1193,9 @@ sword
 @321.1
 gun
 @323
-What, wandering around a place like this...\n\n\nGoing to learn to handle guns?\nHow alarming... give {01}C{19}{00} a gun\nand our own side's lives are in danger.\nOops, no reason to stay. Farewell.
+What, wandering around a place like this...\n\n\nGoing to learn to handle guns?\nHow alarming... give you a gun\nand our own side's lives are in danger.\nOops, no reason to stay. Farewell.
 @323.1
-My my, what are you doing\nin a place like this?\n\nGoing to learn to handle guns?\nHow alarming... give {01}C{19}{00} a gun\nand our own side's lives are in danger...\nWell, no reason to stay. Bye now~
+My my, what are you doing\nin a place like this?\n\nGoing to learn to handle guns?\nHow alarming... give you a gun\nand our own side's lives are in danger...\nWell, no reason to stay. Bye now~
 @324
 With this {02}=e,\nit should help with\nopening new fields.
 @325
@@ -1255,7 +1255,7 @@ Right, a fresh start.
 @343.1
 Right, a fresh start.
 @344
-Haven't I already granted\n{01}C{19}{00} a request this month...?\n\nHis Majesty is busy too...\nBetter make it another time.
+Haven't I already granted\nyou a request this month...?\n\nHis Majesty is busy too...\nBetter make it another time.
 @345
 You wish His Majesty to grant\njust cause to attack a daimyo house?
 @346
@@ -1269,7 +1269,7 @@ With {02}{0B}e named an enemy of the court,\nyou now have just cause to attack {
 @350
 I am not very close to you...\nTo intercede with His Majesty,\nI must first know you well.
 @350.1
-Hmm, that is impossible.\n{02}{0B}e far surpasses {01}C{19}{00}\nin loyalty to His Majesty.
+Hmm, that is impossible.\n{02}{0B}e far surpasses you\nin loyalty to His Majesty.
 @351
 Hmm, that is difficult.\n{02}{0B}e has not yet contributed\nenough to His Majesty.
 @352

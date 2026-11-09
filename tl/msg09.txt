@@ -1,11 +1,11 @@
 @0
 Hm, {01}C1{00}...\nWhat a coincidence,\nmeeting in a place like this.\nWell, do your best.\nI look forward to the next council.\nFarewell, then.
 @0.1
-Hm, {01}C1{00}...\nOf all places,\nto meet {01}C{19}{00} here.\nWell, we know how {01}C{19}{00} will do.\nI look forward to the next council.\nNo reason to stay. Farewell.
+Hm, {01}C1{00}...\nOf all places,\nto meet you here.\nWell, we know how you will do.\nI look forward to the next council.\nNo reason to stay. Farewell.
 @1
 Oh, {01}C1{00}...\nI never thought\nwe'd meet here.\nWell, do your best.\nI look forward to the next council.\nExcuse me, then.
 @1.1
-Oh, {01}C1{00}...\nOf all places,\nto meet {01}C{19}{00} here.\nWell, we know how {01}C{19}{00} will do.\nI look forward to the next council.\nNo reason to stay. Bye now~
+Oh, {01}C1{00}...\nOf all places,\nto meet you here.\nWell, we know how you will do.\nI look forward to the next council.\nNo reason to stay. Bye now~
 @2
 Hm, {01}C1{00}...\nWhat a coincidence,\nmeeting you in a place like this.\nWell, do your best.\nI look forward to the next council.\nFarewell, then.
 @2.1
@@ -399,11 +399,11 @@ I'll be blunt.\nI wish to invite {01}C1{00}\nas my {01}C{AA}{01}.
 @125.2
 I'll be blunt.\n{01}C1{00}, I'd like to invite you\nas my {01}C{AA}{01}.
 @126
-I'll be blunt.\nWon't you put {01}C{19}{00}'s strength\nto use under Lord {02}{03}f?
+I'll be blunt.\nWon't you put your strength\nto use under Lord {02}{03}f?
 @126.1
-I'll be blunt.\nWould you not put {01}C{19}{00}'s strength\nto use under Lord {02}{03}f?
+I'll be blunt.\nWould you not put your strength\nto use under Lord {02}{03}f?
 @126.2
-I'll be blunt.\nWon't you try putting {01}C{19}{00}'s\nstrength to use under Lord {02}{03}f?
+I'll be blunt.\nWon't you try putting your\nstrength to use under Lord {02}{03}f?
 @127
 {01}C{0E}{00}...?\nIs that true?
 @127.1
@@ -423,11 +423,11 @@ I'm deeply grateful!\nPlease add me\nto the lowest seat of {02}{02}{EC}.
 @129.2
 Such gracious words.\nPlease add me\nto the lowest seat of {02}{02}{EC}.
 @130
-Oh! I was waiting for that answer!\nWith {01}C{19}{00}, we're a hundred strong.\nMost reassuring.
+Oh! I was waiting for that answer!\nWith you, we're a hundred strong.\nMost reassuring.
 @130.1
-Oh! I'm grateful!\nWith {01}C{19}{00} joining us,\nwe're a hundred strong.
+Oh! I'm grateful!\nWith you joining us,\nwe're a hundred strong.
 @130.2
-Thank you very much!\nWith {01}C{19}{00} joining us,\nwe're a hundred strong.
+Thank you very much!\nWith you joining us,\nwe're a hundred strong.
 @134
 Who's there?\n...Oh, {01}C1{00}! It's {01}C1{00}!
 @134.1
@@ -443,7 +443,7 @@ How do you do?\nI am {02}{01}g.
 @136
 Coming home so suddenly,\nyou gave me a fright!\nWell, come on, come in.
 @136.1
-Oh, so {01}C{19}{00} is......\nI've heard about you from Tokichiro.\nThank you for always looking after him.
+Oh, so you are......\nI've heard about you from Tokichiro.\nThank you for always looking after him.
 @136.2
 Oh, it's {01}C{B4}#?\nWelcome to a place like this.
 @137
@@ -461,7 +461,7 @@ What brings you here today?
 @139.1
 Is Tokichiro working properly?\nEven at his age,\nI still worry......
 @139.2
-Does {01}C{19}{00} have a dream?
+Do you have a dream?
 @139.3
 {01}C{B4}#, there's nothing\nhere for you, you know.
 @140
@@ -635,7 +635,7 @@ I'm very sorry.\nWe're out of guns at the moment.
 @166.2
 I'm sorry.\nWe're out of guns at the moment.
 @167
-{01}C{19}{00}'s castle\nhas plenty of guns.
+Your castle\nhas plenty of guns.
 @167.1
 Forgive me, but Lord {02}{02}e's castle\nhas plenty of guns.
 @167.2
@@ -2511,7 +2511,7 @@ Now...\n\n\nNow is the time!\n\n\n{01}C1{00}... please marry me!
 @588
 Hmm... it can't be helped.
 @589
-M-my!\n\n\nWh-what are you saying, {01}C{19}{00}!\nThat, that is a path never to be forgiven...\nI'll pretend I never heard this.
+M-my!\n\n\nWh-what are you saying!\nThat, that is a path never to be forgiven...\nI'll pretend I never heard this.
 @590
 M-my!\n\n\n...I'm happy you feel so, but\ndon't we need more time\nto understand each other?
 @591
@@ -2523,15 +2523,15 @@ M-my!\n\n\n...I'm happy you feel so, but\nthe memory of betrayal between us\nwil
 @594
 M-my!\n\n\n...Marriage is a decision that shapes a life.\nIf I can, I wish to marry\nsomeone who has seen much of the world.
 @595
-Yes!\n\n\n{01}C{0E}{00} have traveled all over Japan\nand burned the famous sights into my eyes.\n\nI wish {01}C{19}{00} could know\ntheir beauty and wonder too.
+Yes!\n\n\n{01}C{0E}{00} have traveled all over Japan\nand burned the famous sights into my eyes.\n\nI wish you could know\ntheir beauty and wonder too.
 @595.1
-Yes!\n\n\n{01}C{0E}{00} have gone to many battlefields\nand drilled strategy into this head.\n\nEven in this age of war,\nwith these wits I'll surely protect {01}C{19}{00}!
+Yes!\n\n\n{01}C{0E}{00} have gone to many battlefields\nand drilled strategy into this head.\n\nEven in this age of war,\nwith these wits I'll surely protect you!
 @595.2
-Yes!\n\n\n{01}C{0E}{00} have fought many strong foes\nand honed my martial arts single-mindedly.\n\nEven in this age of war,\nwith these arms I'll surely protect {01}C{19}{00}!
+Yes!\n\n\n{01}C{0E}{00} have fought many strong foes\nand honed my martial arts single-mindedly.\n\nEven in this age of war,\nwith these arms I'll surely protect you!
 @595.3
-Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave earned many titles.\n\nIn this age of war, from every misfortune\nI'll surely protect {01}C{19}{00}!
+Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave earned many titles.\n\nIn this age of war, from every misfortune\nI'll surely protect you!
 @595.4
-Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave learned many things.\n\nIn this age of war, from every misfortune\nI'll surely protect {01}C{19}{00}!
+Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave learned many things.\n\nIn this age of war, from every misfortune\nI'll surely protect you!
 @596
 Why would I hesitate to marry\none who has seen so much?\nI humbly accept.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
 @597

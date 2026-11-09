@@ -179,11 +179,11 @@ Hear me, all!\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
 @66
 I entrust a unit to each of the above!
 @67
-{01}C{19}{00}, thank goodness you're safe...
+Thank goodness you're safe...
 @67.1
 {01}C1{00}, good, you're back.
 @67.2
-{01}C{19}{00}, thank goodness you're safe...
+Thank goodness you're safe...
 @68
 We must ready our forces at once!
 @68.1
@@ -193,9 +193,9 @@ Right, ready our forces at once!
 @69.1
 {01}C1{00} isn't back yet...\nThen {01}C{0E}{00} will command in their place.
 @70
-Then, {01}C{19}{00}, I entrust you\nwith a unit too. We must hold at all costs!
+Then I entrust you\nwith a unit too. We must hold at all costs!
 @70.1
-Then, {01}C{19}{00}, I entrust you\nwith a unit too. We must hold at all costs!
+Then I entrust you\nwith a unit too. We must hold at all costs!
 @71
 We now begin the attack\non {02}{15}e!\n\nI'm counting on you all!
 @71.1
@@ -547,9 +547,9 @@ The fighting goes on and the troops\nare growing tired.\n\nPerhaps we should go 
 @194.1
 The fighting goes on and the troops\nseem to be growing tired.\n\nPerhaps we should go back\nto {02}{15}n for now...
 @195
-{02}{02}g,\nit would be a shame to kill\na talent like {01}C{19}{00} here.\nWill you serve our house?
+{02}{02}g,\nit would be a shame to kill\na talent like you here.\nWill you serve our house?
 @195.1
-{02}{02}g,\nit would be a shame to kill\na talent like {01}C{19}{00} here.\nWhat say you? Will you serve our house?
+{02}{02}g,\nit would be a shame to kill\na talent like you here.\nWhat say you? Will you serve our house?
 @196
 Serve {02}{0B}e?
 @197

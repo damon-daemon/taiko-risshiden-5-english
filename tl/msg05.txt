@@ -3,7 +3,7 @@ For the next month, we will work\nto develop {02}{15}e.\nThere are several ways 
 @1
 This time I mean to carry out "{02}yd".\nI'd like you all to share the work.
 @2
-{01}C1{00},\nwhat will {01}C{19}{00} take charge of?
+{01}C1{00},\nwhat will you take charge of?
 @3
 {02}yd is an important job...\nMore worshippers means more demand for food, souvenirs, offerings and all sorts of goods, and the town prospers. This job is to hold votive sumo tournaments and such to draw more worshippers.
 @3.1
@@ -1245,7 +1245,7 @@ Fool! Your report is late!\nIf you can't finish a mission in time,\nyou're no ni
 @309
 ...I am very sorry.
 @310
-As punishment, {01}C{19}{00} is demoted!\nStart over!
+As punishment, you are demoted!\nStart over!
 @311
 Y-yes, sir!
 @312
@@ -1285,31 +1285,31 @@ Yes, sir.
 @329
 Don't let this go to your head;\nkeep training.
 @330
-It seems the job isn't done.\nYou say {01}C{19}{00} can't do it?
+It seems the job isn't done.\nYou say you can't do it?
 @331
 ...Pathetic.\nFor a ninja, the mission comes first.\nEngrave that on your heart!
 @332
-Who'd have thought I'd meet\n{01}C{19}{00} again as a ronin.
+Who'd have thought I'd meet\nyou again as a ronin.
 @333
 Yes, my post didn't suit me...
 @334
 I won't ask more.\nThen from today, work\nfor this village again.
 @335
-I heard from the others\nthat {01}C{19}{00} wishes to train here?
+I heard from the others\nthat you wish to train here?
 @335.1
-I am the head of {02}{15}e.\nHas {01}C{19}{00} come to train?
+I am the head of {02}{15}e.\nHave you come to train?
 @336
 That is so.\nI wish to hone the ninja arts.
 @337
-...Did you think I wouldn't know?\n{01}C{19}{00} is one of {02}{17}e, are you not?
+...Did you think I wouldn't know?\nYou are one of {02}{17}e, are you not?
 @337.1
-...I know a little\nabout {01}C{19}{00}.\nYou are one of {02}{17}e, are you not?
+...I know a little\nabout you.\nYou are one of {02}{17}e, are you not?
 @338
 So you knew.
 @339
-From now on, {01}C{19}{00} will be hunted\nby {02}{17}e as a rogue ninja.\nAre you prepared for that?
+From now on, you will be hunted\nby {02}{17}e as a rogue ninja.\nAre you prepared for that?
 @340
-...Hm, a fine spirit, but\ndoes {01}C{19}{00} know the ninja code?
+...Hm, a fine spirit, but\ndo you know the ninja code?
 @341
 I see. Then I've nothing more to say.\nTrain to your heart's content.
 @342
@@ -1325,7 +1325,7 @@ Anyone who betrays this village\nis dealt with at once by our hands.\nDeath to t
 @347
 Running is useless.\nWhoever shames the name of {02}{15}e\nis hunted to the ends of the earth as a rogue ninja.
 @348
-...What of {01}C{19}{00}?\nAre you ready to accept the ninja code?
+...What of you?\nAre you ready to accept the ninja code?
 @349
 I can't let one who won't accept the code\ninto this village.\nLeave at once.
 @350
@@ -1337,13 +1337,13 @@ What business have you\nwith our {02}{15}e, Lord {02}{02}g?
 @352.1
 So you already know\nmy name.
 @353
-Heh heh, nothing escapes us.\nBut {01}C{19}{00} is a merchant;\nyou can't join our village.
+Heh heh, nothing escapes us.\nBut you are a merchant;\nyou can't join our village.
 @353.1
-Heh heh, nothing escapes us.\nBut {01}C{19}{00} is a commander;\nyou can't join our village.
+Heh heh, nothing escapes us.\nBut you are a commander;\nyou can't join our village.
 @353.2
 How could I not know\na member of our own village?
 @353.3
-Heh heh, nothing escapes us.\nSo, has {01}C{19}{00} come to train?
+Heh heh, nothing escapes us.\nSo, have you come to train?
 @354
 I do.
 @354.1
@@ -1355,7 +1355,7 @@ That is so.\nI wish to hone the ninja arts.
 @355
 Train as much as you like.\nI'll ask nothing about it.
 @355.1
-Request work from us\nas {01}C{19}{00} needs.\nInvestment is welcome too.
+Request work from us\nas you need.\nInvestment is welcome too.
 @355.2
 When your lord's orders require it,\nrequest work from us.\nInvestment is welcome too.
 @355.3
@@ -1461,7 +1461,7 @@ Understood.\nWe'll get to work at once.
 @386.1
 Understood.\nWe'll get to work at once.
 @387
-{01}C{19}{00} will wait here 20 days.\nIt'd be trouble if the client betrayed us.\nIs that all right?
+You will wait here 20 days.\nIt'd be trouble if the client betrayed us.\nIs that all right?
 @387.1
 Then please wait here 20 days.\nIt'd be trouble if the client betrayed us...\nIs that all right?
 @388
@@ -1511,9 +1511,9 @@ Thanks for the offer of investment,\nbut this village already has enough money.\
 @399.1
 I'm glad of the offer of investment,\nbut this village already has enough money.\nThe thought is enough.
 @400
-Thanks for the offer of investment,\nbut {01}C{19}{00} has no money, surely?
+Thanks for the offer of investment,\nbut you have no money, surely?
 @400.1
-I'm glad of the offer of investment,\nbut doesn't {01}C{19}{00} lack money?
+I'm glad of the offer of investment,\nbut don't you lack money?
 @401
 Oho, you'll invest in our village?\nMuch appreciated.
 @401.1
@@ -1531,17 +1531,17 @@ Ah, much appreciated.\nWe'll put it to good use.
 @404.1
 My, thank you very much.\nWe'll put it to good use.
 @405
-After all this help,\nwe must support {01}C{19}{00}'s\n{02}{0B}e.
+After all this help,\nwe must support your\n{02}{0B}e.
 @405.1
-After all this help,\nwe must support {01}C{19}{00}'s\n{02}{0B}e.
+After all this help,\nwe must support your\n{02}{0B}e.
 @406
 Ah, then...
 @406.1
 My, then...
 @407
-Yes, from now on our {02}{15}e\nwill support {01}C{19}{00}'s {02}{0B}e.
+Yes, from now on our {02}{15}e\nwill support your {02}{0B}e.
 @407.1
-Yes, from now on our {02}{15}e\nwill support {01}C{19}{00}'s {02}{0B}e.
+Yes, from now on our {02}{15}e\nwill support your {02}{0B}e.
 @408
 Much appreciated!
 @408.1
@@ -1559,9 +1559,9 @@ Yes. Selfish as it is,\nI have my reasons,\nand wish to leave this village.
 @411.1
 Yes. Selfish as it is,\nI have my reasons,\nand mean to leave this village.
 @412
-{01}C{19}{00} is a ninja of this village.\nDid you think defying the code\nwould be forgiven?
+You are a ninja of this village.\nDid you think defying the code\nwould be forgiven?
 @412.1
-{01}C{19}{00} is a ninja of this village.\nIf you defy the village code,\nyou won't get off lightly.
+You are a ninja of this village.\nIf you defy the village code,\nyou won't get off lightly.
 @413
 I never thought\nI'd be let off lightly.
 @413.1
@@ -1571,9 +1571,9 @@ I never thought\nI'd be let off lightly.
 @414.1
 ...Hmm, I see.\nIt seems you're resolved.
 @415
-One last time I ask {01}C{19}{00}:\nyou won't reconsider?
+One last time I ask you:\nyou won't reconsider?
 @415.1
-One last time I ask {01}C{19}{00}:\nyou won't reconsider?
+One last time I ask you:\nyou won't reconsider?
 @416
 I see. That is wise.\nThis time I'll treat it as a jest.\nNever get such ideas again.
 @416.1
@@ -1583,17 +1583,17 @@ I see. A wise decision.\nThis time I'll treat it as a jest.\nNever get such idea
 @417.1
 ...Fool.\nEven if you beat me,\nthere's nowhere you can live in peace!
 @418
-S-splendid...\n...But why not finish me?\nFrom now on {01}C{19}{00} is a rogue ninja.
+S-splendid...\n...But why not finish me?\nFrom now on you are a rogue ninja.
 @418.1
-S-splendid...\n...But why not finish me?\nFrom now on {01}C{19}{00} is a rogue ninja.
+S-splendid...\n...But why not finish me?\nFrom now on you are a rogue ninja.
 @419
-...I dislike needless killing.\nBesides, killing {01}C{19}{00}\nwould change nothing.
+...I dislike needless killing.\nBesides, killing you\nwould change nothing.
 @419.1
-...I dislike needless killing.\nBesides, killing {01}C{19}{00}\nwould change nothing.
+...I dislike needless killing.\nBesides, killing you\nwould change nothing.
 @420
-...You don't fear for your life?\nBut don't think everything\nwill go as {01}C{19}{00} wishes...
+...You don't fear for your life?\nBut don't think everything\nwill go as you wish...
 @420.1
-...You don't fear for your life?\nBut don't think everything\nwill go as {01}C{19}{00} wishes...
+...You don't fear for your life?\nBut don't think everything\nwill go as you wish...
 @421
 ...No reason to stay longer.\nFarewell!
 @421.1
@@ -1651,39 +1651,39 @@ Good of you to come.\nBut there's nothing left to teach.\nNow just put your skil
 @435.1
 Welcome.\nBut there's nothing left to teach.\nNow just put your skills to use.
 @436
-Good of you to come.\n{01}C{19}{00} has already passed this test.\nTrain elsewhere.
+Good of you to come.\nYou have already passed this test.\nTrain elsewhere.
 @436.1
-Welcome. {01}C{19}{00} has already\npassed this test.\nTrain elsewhere.
+Welcome. You have already\npassed this test.\nTrain elsewhere.
 @437
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a samurai,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a samurai,\nso you can't train here.
 @437.1
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a samurai,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a samurai,\nso you can't train here.
 @437.2
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a pirate,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a pirate,\nso you can't train here.
 @437.3
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a pirate,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a pirate,\nso you can't train here.
 @437.4
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a merchant,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a merchant,\nso you can't train here.
 @437.5
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a merchant,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a merchant,\nso you can't train here.
 @437.6
-Only those seeking to be ninja come here.\n{01}C{19}{00} is a ronin,\nso you can't train here.
+Only those seeking to be ninja come here.\nYou are a ronin,\nso you can't train here.
 @438
 Beyond this is taught only to villagers.\nA samurai has no need to know\nthe secret ninja arts.
 @438.1
 Beyond this is taught only to villagers.\nA samurai has no need\nof the secret ninja arts.
 @438.2
-Beyond this is taught only to villagers.\n{01}C{19}{00} is a pirate and has no need\nto know the secret ninja arts.
+Beyond this is taught only to villagers.\nYou are a pirate and have no need\nto know the secret ninja arts.
 @438.3
-Beyond this is taught only to villagers.\n{01}C{19}{00} is a merchant and has no need\nto know the secret ninja arts.
+Beyond this is taught only to villagers.\nYou are a merchant and have no need\nto know the secret ninja arts.
 @438.4
-Beyond this is taught only to villagers.\n{01}C{19}{00} is a ronin and has no need\nto know the secret ninja arts.
+Beyond this is taught only to villagers.\nYou are a ronin and have no need\nto know the secret ninja arts.
 @439
-This is where ninja ranks are granted.\n{01}C{19}{00} is too green to take the test.\nTrain first.
+This is where ninja ranks are granted.\nYou are too green to take the test.\nTrain first.
 @439.1
-This is where ninja ranks are granted.\n{01}C{19}{00} is too green to take the test.\nTrain first.
+This is where ninja ranks are granted.\nYou are too green to take the test.\nTrain first.
 @440
-This is the place to become a jonin.\n{01}C{19}{00} is still a genin.\nTrain elsewhere.
+This is the place to become a jonin.\nYou are still a genin.\nTrain elsewhere.
 @441
 Here we teach only those\nwho hold a ninja rank.\nTrain first at the village training ground.
 @442
@@ -1703,11 +1703,11 @@ Training here takes {02}od days.\nWith the next council in mind,\nbetter hold of
 @445.1
 Training takes {02}od days.\nWith the next council in mind,\nyou should hold off for now.
 @446
-You mean to train here?\nHm, with {01}C{19}{00}'s skill, I don't mind...\nBut does {01}C{19}{00} know the ninja code?
+You mean to train here?\nHm, with your skill, I don't mind...\nBut do you know the ninja code?
 @447
 I see. Then I'll say no more.
 @448
-Then I'll teach {01}C{19}{00} the ninja code.\n\nIf you overcome this trial, we'll recognize {01}C{19}{00} as a member of {02}{15}e and grant the rank of genin. Higher ranks bring more work, and the rewards grow the village and add training grounds.\nBut once a member, you work only for this village. Visiting other villages is forbidden: that is the ninja code. You can leave the village only by force. But don't get ideas: we always hunt down rogue ninja.\nKnowing this code, are you resolved to train here and become a true ninja?
+Then I'll teach you the ninja code.\n\nIf you overcome this trial, we'll recognize you as a member of {02}{15}e and grant the rank of genin. Higher ranks bring more work, and the rewards grow the village and add training grounds.\nBut once a member, you work only for this village. Visiting other villages is forbidden: that is the ninja code. You can leave the village only by force. But don't get ideas: we always hunt down rogue ninja.\nKnowing this code, are you resolved to train here and become a true ninja?
 @449
 One who can't accept the code\ncould never endure this trial.\nLeave.
 @450
@@ -1893,11 +1893,11 @@ Ill as you are,\nyou couldn't bear a trip abroad.\nPlease talk to me once you've
 @481.2
 In your condition,\nyou couldn't bear a trip abroad.\nPlease talk to me once you've recovered.
 @482
-To trade abroad you need diplomatic\npapers such as seals or passes.\n\nUnless {01}C{0E}{00}, {01}C{19}{00} or the lord of the daimyo house we back has such papers, no ship goes abroad.
+To trade abroad you need diplomatic\npapers such as seals or passes.\n\nUnless {01}C{0E}{00}, you or the lord of the daimyo house we back has such papers, no ship goes abroad.
 @482.1
-To trade abroad you need\ndiplomatic papers such as\nseals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00} or the lord of the daimyo house we back has such papers, no ship goes abroad.
+To trade abroad you need\ndiplomatic papers such as\nseals or passes.\nUnless {01}C{0E}{00}, you or the lord of the daimyo house we back has such papers, no ship goes abroad.
 @482.2
-To trade abroad you need\ndiplomatic papers such as\nseals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00} or the lord of the daimyo house we back has such papers, no ship can go abroad.
+To trade abroad you need\ndiplomatic papers such as\nseals or passes.\nUnless {01}C{0E}{00}, you or the lord of the daimyo house we back has such papers, no ship can go abroad.
 @483
 You want a ship to trade abroad?\nSorry, but our band has no ship\nbig enough to sail abroad.
 @483.1
@@ -1917,11 +1917,11 @@ A ship to trade abroad?\nOur band is at war right now.\nPlease, another time.
 @485.2
 A ship to trade abroad?\nOur band is at war right now.\nPlease, another time.
 @486
-Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let's get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serves as purveyor.
+Neither {01}C{0E}{00} nor you have papers...\n\n\nThen let's get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom you serve as purveyor.
 @486.1
-Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serves as purveyor.
+Neither {01}C{0E}{00} nor you have papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom you serve as purveyor.
 @486.2
-Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serves as purveyor.
+Neither {01}C{0E}{00} nor you have papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom you serve as purveyor.
 @487
 The lord of {02}{03}{EC} has granted\npermission to sail abroad.
 @487.1
@@ -1929,11 +1929,11 @@ The lord of {02}{03}{EC} has granted\npermission to sail abroad.
 @487.2
 The lord of {02}{03}{EC} has granted\npermission to sail abroad.
 @488
-Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let's get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
+Neither {01}C{0E}{00} nor you have papers...\n\n\nThen let's get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
 @488.1
-Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
+Neither {01}C{0E}{00} nor you have papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
 @488.2
-Neither {01}C{0E}{00} nor {01}C{19}{00} has papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
+Neither {01}C{0E}{00} nor you have papers...\n\n\nThen let us get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve.
 @489
 For Naha, no papers are needed.
 @489.1
@@ -2007,11 +2007,11 @@ You'll send a ship to trade abroad?\n\n\nBut you don't seem to have\nthe skill t
 @499.2
 You'll send a ship to trade abroad?\n\n\nForgive me, but you don't seem to have\nthe skill to build ocean-going ships...
 @500
-You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00}\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
+You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, you\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
 @500.1
-You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00}\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
+You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, you\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
 @500.2
-You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, {01}C{19}{00}\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
+You'll send a ship to trade abroad?\n\n\nTo trade abroad you need\ndiplomatic papers such as seals or passes.\nUnless {01}C{0E}{00}, you\nor the lord of the daimyo house we back\nhas papers, no ship can sail.
 @501
 You'll send a ship to trade abroad?\n\n\nYou seem to be at war right now.\nSadly, overseas trade will have\nto wait for another time.
 @501.1
@@ -2019,11 +2019,11 @@ You'll send a ship to trade abroad?\n\n\nYou seem to be at war right now.\nSadly
 @501.2
 You'll send a ship to trade abroad?\n\n\nYou seem to be at war right now.\nSadly, overseas trade will have\nto wait for another time.
 @502
-You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor you have papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
 @502.1
-You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor you have papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
 @502.2
-You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor you have papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{0E}{00} serve as purveyor.
 @503
 I've received permission to sail\nfrom the lord of {02}{03}{EC}.
 @503.1
@@ -2031,11 +2031,11 @@ I've received permission to sail\nfrom the lord of {02}{03}{EC}.
 @503.2
 I've received permission to sail\nfrom the lord of {02}{03}{EC}.
 @504
-You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serve.
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor you have papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom you serve.
 @504.1
-You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serve.
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor you have papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom you serve.
 @504.2
-You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor {01}C{19}{00} has papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom {01}C{19}{00} serve.
+You'll send a ship to trade abroad?\nNeither {01}C{0E}{00} nor you have papers.\n\nThen I'll get permission to sail\nfrom the lord of {02}{03}{EC},\nwhom you serve.
 @505
 For Naha, no papers are needed.
 @505.1
@@ -2085,11 +2085,11 @@ Phew... we've arrived.\nThanks for your trouble.
 @511.2
 Phew... we've arrived.\nThank you very much.
 @512
-Oh yes, I must sell the souvenirs\n{01}C{19}{00} bought...\nLet's see...
+Oh yes, I must sell the souvenirs\nyou bought...\nLet's see...
 @512.1
-Right, I must sell the souvenirs\n{01}C{19}{00} bought...\nLet's see...
+Right, I must sell the souvenirs\nyou bought...\nLet's see...
 @512.2
-Oh yes, I must sell the souvenirs\n{01}C{19}{00} bought...\nLet's see...
+Oh yes, I must sell the souvenirs\nyou bought...\nLet's see...
 @513
 ...Then I'll sell the souvenirs here\nand deliver the money to your fort.\nYes, I'll add a little extra.\nWell, I'll take my leave.
 @513.1
@@ -2111,11 +2111,11 @@ A ship to trade abroad?\nSorry, but our band lacks the skill to build ships that
 @517.1
 A ship to trade abroad?\nSorry, but our band lacks the skill to build ships that can sail abroad.
 @518
-Sending ships to trade abroad\ncosts a lot of money...\n\nI'd want 100,000 kan for now,\nbut sadly {01}C{19}{00}'s castle\ndoesn't seem to have that much.
+Sending ships to trade abroad\ncosts a lot of money...\n\nI'd want 100,000 kan for now,\nbut sadly your castle\ndoesn't seem to have that much.
 @518.1
-Sending ships to trade abroad\ncosts a lot of money...\n\nI'd ask 100,000 kan for now,\nbut sadly {01}C{19}{00}'s castle\ndoesn't seem to have that much...
+Sending ships to trade abroad\ncosts a lot of money...\n\nI'd ask 100,000 kan for now,\nbut sadly your castle\ndoesn't seem to have that much...
 @518.2
-Sending ships to trade abroad\ncosts a lot of money...\n\nI'd like 100,000 kan for now,\nbut sadly {01}C{19}{00}'s castle\ndoesn't seem to have that much...
+Sending ships to trade abroad\ncosts a lot of money...\n\nI'd like 100,000 kan for now,\nbut sadly your castle\ndoesn't seem to have that much...
 @519
 We're busy too...\nKind as the offer is, we can't spare\nships to send abroad.
 @519.1
@@ -2131,9 +2131,9 @@ Oho... trade abroad?\nSo, where should we go?
 @521.2
 Oho... trade abroad?\nSo, where should we go?
 @522
-Neither {01}C{19}{00} nor {01}C{0E}{00}\nhas papers for trading there...\nTo trade in {02}{15}f you'll need\n{02}3g, {02}4g or {02}5g.
+Neither you nor {01}C{0E}{00}\nhave papers for trading there...\nTo trade in {02}{15}f you'll need\n{02}3g, {02}4g or {02}5g.
 @522.1
-Neither {01}C{19}{00} nor {01}C{0E}{00}\nhas papers for trading there...\nTo trade in {02}{15}f you'll need\n{02}3g, {02}4g or {02}5g.
+Neither you nor {01}C{0E}{00}\nhave papers for trading there...\nTo trade in {02}{15}f you'll need\n{02}3g, {02}4g or {02}5g.
 @523
 ...Understood.\nThen we leave for {02}{15}f.\n\nWe'll come back with plenty of profit.\nWe'll take 100,000 kan as funds.
 @523.1

@@ -269,11 +269,11 @@ The master...?\nWhat could it be?\nRight, let's go.
 @82
 Master, you sent for me so suddenly.\nWhat is it?
 @83
-Ah, you've come! It's sudden, but\nI think it's about time {01}C{19}{00}\nwent independent with a shop.
+Ah, you've come! It's sudden, but\nI think it's about time you\nwent independent with a shop.
 @84
 Meaning...?
 @85
-In short, starting a branch shop of your own.\nDon't you want a shop\nof your own by now, {01}C{19}{00}?
+In short, starting a branch shop of your own.\nDon't you want a shop\nof your own by now?
 @86
 I'm deeply grateful for the offer,\nbut I'm resolved to spend my life at {02}{0B}e...\nPlease let me work in this shop all my life.
 @87
@@ -283,7 +283,7 @@ Then I'll take my leave.
 @89
 Thank you very much!\nI too have long wanted\na shop of my own.
 @90
-I see... then I grant {01}C{19}{00}\na branch shop!\n\nWe may become rivals from now on,\nbut follow the way of trade as you see fit.
+I see... then I grant you\na branch shop!\n\nWe may become rivals from now on,\nbut follow the way of trade as you see fit.
 @91
 Yes... Master, your great kindness\nI, {02}{01}f, will never forget!
 @92

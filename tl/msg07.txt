@@ -61,7 +61,7 @@ Appraisal costs {02}o{C8},\nbut you seem short of money...
 @11.2
 Appraisal costs {02}o{C8},\nbut you seem short of money...
 @12
-An appraisal? Very well.\nBetween {01}C{19}{00} and me...\nI'll do it for free.
+An appraisal? Very well.\nBetween you and me...\nI'll do it for free.
 @12.1
 An appraisal? Very well.\nGiven our relationship...\nI'll appraise it for free.
 @12.2
@@ -409,11 +409,11 @@ A draft needs 3000 kan.\nYou can't hold one.
 @83
 This castle's troops are already at maximum.\nNo more can be drafted.
 @85
-I won't let {01}C{19}{00} cross\nthe threshold of {02}yd.\nGet out!
+I won't let you cross\nthe threshold of {02}yd.\nGet out!
 @85.1
 I won't let an ill-mannered lout cross\nthe threshold of {02}yd.\nPlease leave!
 @86
-I won't let {01}C{19}{00} cross\nthe threshold of {02}yd.\nGet out!
+I won't let you cross\nthe threshold of {02}yd.\nGet out!
 @88
 Well, well, Master.\nWelcome.
 @89
@@ -625,53 +625,53 @@ You can learn techniques from students.\nTaking students to learn\nmight be good
 @162
 You can learn techniques from students.\nTaking students to learn\nmight be good.
 @165
-{01}C{19}{00} has no students yet, it seems.\nOnce licensed,\nyou should have at least one...
+You have no students yet, it seems.\nOnce licensed,\nyou should have at least one...
 @165.1
-{01}C{19}{00} has {02}od students now.
+You have {02}od students now.
 @165.2
-{01}C{19}{00} has {02}od students now.\nQuite something... I'm impressed.
+You have {02}od students now.\nQuite something... I'm impressed.
 @165.3
-{01}C{19}{00} has {02}od students now.\nFew have so many students...\nI'm proud of you.
+You have {02}od students now.\nFew have so many students...\nI'm proud of you.
 @166
-{01}C{19}{00} has no students yet?\nOnce licensed,\nyou should have at least one...
+You have no students yet?\nOnce licensed,\nyou should have at least one...
 @166.1
-{01}C{19}{00} has {02}od students now.
+You have {02}od students now.
 @166.2
-{01}C{19}{00} has {02}od students now.\nQuite something.
+You have {02}od students now.\nQuite something.
 @166.3
-{01}C{19}{00} has {02}od students now.\nFew have so many students.
+You have {02}od students now.\nFew have so many students.
 @167
-{01}C{19}{00} has no students yet?\nOnce licensed,\nyou should have at least one...
+You have no students yet?\nOnce licensed,\nyou should have at least one...
 @167.1
-{01}C{19}{00} has {02}od students now.
+You have {02}od students now.
 @167.2
-{01}C{19}{00} has {02}od students now.\nQuite something.
+You have {02}od students now.\nQuite something.
 @167.3
-{01}C{19}{00} has {02}od students now.\nFew people have so many students.
+You have {02}od students now.\nFew people have so many students.
 @169
-{01}C{19}{00} is a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
+You are a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
 @169.1
-{01}C{19}{00} is a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
+You are a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
 @170
-{01}C{19}{00} seems to have become a master\nbeyond the bounds of {02}yd...\nWon't you found a new school?
+You seem to have become a master\nbeyond the bounds of {02}yd...\nWon't you found a new school?
 @172
-{01}C{19}{00}'s teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
+Your teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
 @172.1
-{01}C{19}{00}'s teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
+Your teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
 @173
-{01}C{19}{00}'s teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
+Your teacher, {01}C>{00},\nhas passed away.\nWe've lost a fine person.
 @175
-{01}C{19}{00} doesn't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
+You don't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
 @175.1
-{01}C{19}{00} doesn't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
+You don't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
 @176
-{01}C{19}{00} doesn't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
+You don't seem to follow\na teacher of any school......\nWhy not become someone's student?\n...Well, there's also the path\nof having no teacher and following your own way.
 @178
-{01}C{19}{00} seems to have mastered every art...\nThere's nothing left to learn from others.\n\nIf you want more, why not shut\nyourself away in the mountains to train?
+You seem to have mastered every art...\nThere's nothing left to learn from others.\n\nIf you want more, why not shut\nyourself away in the mountains to train?
 @178.1
-{01}C{19}{00} seems to have mastered every art.\nThere's nothing left to learn from others.\nIf you want more, why not shut\nyourself away in the mountains to train?
+You seem to have mastered every art.\nThere's nothing left to learn from others.\nIf you want more, why not shut\nyourself away in the mountains to train?
 @179
-{01}C{19}{00} seems to have mastered every art.\nThere's nothing left to learn from others.\nIf you want more, why not shut\nyourself away in the mountains to train?
+You seem to have mastered every art.\nThere's nothing left to learn from others.\nIf you want more, why not shut\nyourself away in the mountains to train?
 @181
 I sparred with {01}C>{00} the other day\nand she scored a point on me...\nDon't underestimate her for a woman.
 @181.1
@@ -807,11 +807,11 @@ Obtained {02}o{C8}.
 @242
 The {02}yd sign was split in two.
 @244
-Such an insult to my dojo's pride...\nHave {01}C{19}{00} no mercy?!
+Such an insult to my dojo's pride...\nHave you no mercy?!
 @244.1
-How cruel... the dojo's pride...\nDoes {01}C{19}{00} have\nno mercy at all?!
+How cruel... the dojo's pride...\nDo you have\nno mercy at all?!
 @245
-How cruel... the dojo's pride...\nDoes {01}C{19}{00} have no mercy?!
+How cruel... the dojo's pride...\nDo you have no mercy?!
 @246
 Defeated {02}yd!
 @248
@@ -919,7 +919,7 @@ Really close the dojo?\nThe students and instructors will leave.\nIs that all ri
 @291
 ...A wise decision, I think.
 @293
-Understood.\nIt's a shame, but\nit's {01}C{19}{00}'s decision as master...
+Understood.\nIt's a shame, but\nit's your decision as master...
 @293.1
 Understood.\nIt's a shame, but\nthe master must have reasons...
 @294
@@ -933,7 +933,7 @@ The students are gone, but now it's\nthe easy ronin life again... you can\n[Move
 @298
 The students are gone, but now it's\nthe easy ronin life again... you can\n[Move] and [Serve] as well.\nPlease call me if you open a dojo again.
 @299
-Ah, we've been waiting. Our dojo has\nlost four straight, up to the vice-captain...\n{01}C{19}{00} is our last hope.
+Ah, we've been waiting. Our dojo has\nlost four straight, up to the vice-captain...\nYou are our last hope.
 @300
 I beg you!\nAt least strike one blow for us!
 @301
@@ -945,7 +945,7 @@ What, three in a row! Well done!\nNow to show your skill... next is the vice-cap
 @304
 Four in a row, splendid!\nAt last, the captain's bout.\nThe very last one!
 @305
-I'm glad I asked {01}C{19}{00}.\nTo beat five people alone...\nGet your reward from the tavern mistress.
+I'm glad I asked you.\nTo beat five people alone...\nGet your reward from the tavern mistress.
 @306
 What, not a single win?\nYour training is clearly lacking.
 @307
@@ -987,15 +987,15 @@ What! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
 @319
 What?! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
 @321
-...Very well.\nAs of now, {01}C{19}{00} is\nexpelled from our {02}yd.\n...Now I have no reason\nto refuse {01}C{19}{00}'s challenge.\nIf it's a match, state your name properly!
+...Very well.\nAs of now, you are\nexpelled from our {02}yd.\n...Now I have no reason\nto refuse your challenge.\nIf it's a match, state your name properly!
 @321.1
-...Understood.\nAs of now, {01}C{19}{00} is\nexpelled from our {02}yd.\n...Now there's no reason\nto refuse {01}C{19}{00}'s challenge.\nIf it's a match, state your name properly!
+...Understood.\nAs of now, you are\nexpelled from our {02}yd.\n...Now there's no reason\nto refuse your challenge.\nIf it's a match, state your name properly!
 @322
-...Understood.\nAs of this moment, {01}C{19}{00} is\nexpelled from our {02}yd.\n...Now there's no reason\nto refuse {01}C{19}{00}'s challenge.\nIf you want a match, state your name properly!
+...Understood.\nAs of this moment, you are\nexpelled from our {02}yd.\n...Now there's no reason\nto refuse your challenge.\nIf you want a match, state your name properly!
 @324
-I'm grateful for the offer, but\n{01}C{19}{00} seems to have a council.\nBetter hold off this time.
+I'm grateful for the offer, but\nyou seem to have a council.\nBetter hold off this time.
 @324.1
-I'm glad of the offer, but\n{01}C{19}{00} seems to have a council.\nI'll ask another time.
+I'm glad of the offer, but\nyou seem to have a council.\nI'll ask another time.
 @325
 I'm grateful for the offer, but\nhaven't you been called up?\nBetter hold off this time.
 @325.1
@@ -1003,7 +1003,7 @@ I'm glad of the offer, but\nhaven't you been called up?\nI'll ask another time.
 @326
 I'm glad of the offer, but\nhaven't you been called up?\nI'll ask another time.
 @326.1
-I'm glad of the offer, but\n{01}C{19}{00} seems to have a council.\nI'll ask another time.
+I'm glad of the offer, but\nyou seem to have a council.\nI'll ask another time.
 @328
 Oh, the students will be glad.\nI'd like you to look after them\nfor {02}od days. All right?
 @328.1
@@ -1079,11 +1079,11 @@ There's no one here worth fighting.\nI have no interest in small fry.\n\nThere's
 @340.2
 There's no one here worth fighting.\nI have no interest in small fry.\n\nI won't discuss this further.\nNow, {01}C1{00},\nface me in a fair match!
 @341
-{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to me.
+You are ill.\nThere's no need to trouble yourself.\nPlease leave this to me.
 @341.1
-{01}C{19}{00} is ill.\nNo need to trouble yourself.\nLeave this to me.
+You are ill.\nNo need to trouble yourself.\nLeave this to me.
 @341.2
-{01}C{19}{00} is ill.\nThere's no need to trouble yourself.\nPlease leave this to me.
+You are ill.\nThere's no need to trouble yourself.\nPlease leave this to me.
 @342
 Sending someone of lower rank...\nyou underestimate me. Here I come!
 @342.1
@@ -1117,11 +1117,11 @@ If the instructor is this weak...\nso much for {02}yd.\nI'll spread word it's al
 @349.2
 If the instructor is this weak...\nso much for {02}yd.\nWord will spread it's all reputation.
 @350
-Say what you like...\nIf {01}C{AE}{01} got serious,\n{01}C{19}{00} would be nothing.
+Say what you like...\nIf {01}C{AE}{01} got serious,\nyou would be nothing.
 @350.1
-Hmm, say what you like...\nIf {01}C{AE}{01} got serious,\n{01}C{19}{00} would be nothing.
+Hmm, say what you like...\nIf {01}C{AE}{01} got serious,\nyou would be nothing.
 @350.2
-Hmm, say what you like...\nIf {01}C{AE}{01} got serious,\n{01}C{19}{00} would be nothing...
+Hmm, say what you like...\nIf {01}C{AE}{01} got serious,\nyou would be nothing...
 @351
 Ufufu, then next time\nI must have a match with you, {01}C1{00}.
 @351.1
@@ -1163,19 +1163,19 @@ Oh, {01}C1{00} of {02}yd!\nWelcome to my dojo.
 @359
 I'm ashamed before my student, but I'm unwell...\nCough, cough.\nI'll face you once I'm better.
 @359.1
-Cough, cough, I've fallen ill...\nI'm ashamed before my student {01}C{19}{00}.\nI'll face you once I'm better.
+Cough, cough, I've fallen ill...\nI'm ashamed before you, my student.\nI'll face you once I'm better.
 @359.2
 I'm sorry, I'm not feeling well...\nCough, cough.\nI'll face you once I'm better.
 @361
-Cough, cough.\nSorry to my teacher {01}C{19}{00},\nbut I'm unwell; another time, please.
+Cough, cough.\nSorry, my teacher,\nbut I'm unwell; another time, please.
 @361.1
 Cough, cough.\nMaster, I'm unwell right now.\nPlease face me once I'm better.
 @361.2
 Cough, cough.\nMaster, I'm unwell right now.\nPlease face me once I'm better.
 @363
-Sorry to my fellow student {01}C{19}{00},\nbut I'm unwell... cough, cough.\nI'll face you once I'm better.
+Sorry, my fellow student,\nbut I'm unwell... cough, cough.\nI'll face you once I'm better.
 @363.1
-I apologize to my fellow student {01}C{19}{00},\nbut I'm unwell... cough, cough.\nI'll face you once I'm better.
+My apologies, fellow student,\nbut I'm unwell... cough, cough.\nI'll face you once I'm better.
 @363.2
 I'm sorry, fellow student,\nbut right now I'm...... cough, cough.\nI'll face you another day.
 @365
@@ -1191,7 +1191,7 @@ You look quite unwell...\nYou mustn't push yourself.\nA student's health is my o
 @367.2
 You look quite unwell...\nDon't push yourself.\nA student's health is my health too.
 @369
-You look quite unwell...\n{01}C{19}{00} is my one and only teacher.\nTeach me again when you're well.
+You look quite unwell...\nYou are my one and only teacher.\nTeach me again when you're well.
 @369.1
 Master, you look quite unwell...\nYou must take care of yourself...\nPlease teach me again when you're well.
 @369.2
@@ -1239,21 +1239,21 @@ You look quite unwell...\nEven for a bout, the body comes first.\nYou'd better g
 @383.2
 You look quite unwell...\nEven for a bout, the body comes first.\nYou'd better get well first.
 @385
-Oh, my student {01}C{19}{00} wants\nto teach our {02}yd?
+Oh, you want to teach\nour {02}yd, my student?
 @385.1
-Oh, my student {01}C{19}{00} will\nteach our {02}yd?
+Oh, you will teach\nour {02}yd, my student?
 @385.2
 My, my student wants\nto teach my {02}yd?
 @387
-Oh, my teacher {01}C{19}{00}\nwill personally teach me {02}yd?
+Oh, my teacher\nwill personally teach me {02}yd?
 @387.1
 Oh, my master will personally\nteach me {02}yd?
 @387.2
 My, my master will personally\nteach me {02}yd?
 @389
-Oh, my fellow student {01}C{19}{00}\nwants to teach {02}yd?
+Oh, you want to teach\n{02}yd, my fellow student?
 @389.1
-Oh, my fellow student {01}C{19}{00}\nwill teach {02}yd?
+Oh, you will teach\n{02}yd, my fellow student?
 @389.2
 My, my fellow student\nwants to teach {02}yd?
 @391
@@ -1299,11 +1299,11 @@ I see... if you get the chance,\nplease train this student again.
 @403.2
 I see... if you get the chance,\nplease train this student again.
 @405
-You'll stop...\n{01}C{19}{00} is the pride of our school.\nNext time, I hope.
+You'll stop...\nYou are the pride of our school.\nNext time, I hope.
 @405.1
-You'll stop?\n{01}C{19}{00} is the pride of our school.\nNext time, I hope.
+You'll stop?\nYou are the pride of our school.\nNext time, I hope.
 @405.2
-You'll stop?\n{01}C{19}{00} is the pride of our school.\nNext time, I hope.
+You'll stop?\nYou are the pride of our school.\nNext time, I hope.
 @407
 You'll stop...\nNext time, please do teach me.
 @407.1
@@ -1317,7 +1317,7 @@ Just because I'm your teacher,\nthere's no need to hold back...
 @409.2
 My, just because I'm your teacher,\nthere's no need to hold back, you know?
 @411
-I see...\nI wanted a bout\nwith my teacher {01}C{19}{00}...
+I see...\nI wanted a bout\nwith you, my teacher...
 @411.1
 I see...\nI wanted a bout\nwith my master...
 @411.2
@@ -1335,9 +1335,9 @@ You'll stop?
 @415.2
 You'll stop?
 @417
-Heh, that could be fun...\nEven against my student {01}C{19}{00},\nI'll want a real lesson.
+Heh, that could be fun...\nEven against you, my student,\nI'll want a real lesson.
 @417.1
-That could be fun...\nEven against my student {01}C{19}{00},\nI'll want a real lesson.
+That could be fun...\nEven against you, my student,\nI'll want a real lesson.
 @417.2
 Ufufu, that could be fun...\nThen give me a real lesson.
 @419
@@ -1347,11 +1347,11 @@ Master, I'm in your hands.
 @419.2
 Master, I'm in your hands.
 @421
-I'll strive to come closer\nto my instructor {01}C{19}{00}.
+I'll strive to come closer\nto you, my instructor.
 @421.1
-I'll strive to come closer\nto my instructor {01}C{19}{00}.
+I'll strive to come closer\nto you, my instructor.
 @421.2
-I'll strive to come closer\nto my instructor {01}C{19}{00}.
+I'll strive to come closer\nto you, my instructor.
 @423
 I'll watch closely the skill of\n{02}{01}{EC}'s military instructor.
 @423.1
@@ -1365,7 +1365,7 @@ Very well.\nCome at me any time.
 @425.2
 Please,\ncome at me any time.
 @427
-Very well,\nif my teacher {01}C{19}{00} asks.
+Very well,\nif my teacher asks.
 @427.1
 Very well,\nif my master asks.
 @427.2
@@ -1419,7 +1419,7 @@ Splendid!\nTo fall behind my student...\nI can't let my guard down.
 @443.2
 Splendid!\nTo fall behind my student...\nI can't let my guard down...
 @445
-Splendid!\nI'm no match for my teacher {01}C{19}{00}.
+Splendid!\nI'm no match for you, my teacher.
 @445.1
 Splendid!\nI'm no match for my master.
 @445.2
@@ -1487,11 +1487,11 @@ Thank you.\nFrom now on I'll call you master.
 @467.2
 Thank you!\nFrom now on I'll call you\nmaster.
 @469
-For one like {01}C{19}{00} to become\nmy student...\nYou're most welcome.
+For one like you to become\nmy student...\nYou're most welcome.
 @469.1
-For one like {01}C{19}{00} to become\nmy student...\nYou're most welcome.
+For one like you to become\nmy student...\nYou're most welcome.
 @469.2
-For someone like {01}C{19}{00}\nto become my student...\nOf course, you're very welcome!
+For someone like you\nto become my student...\nOf course, you're very welcome!
 @471
 Thank you.\nFrom now on I'll call you master.
 @471.1
@@ -1499,11 +1499,11 @@ Thank you.\nFrom now on I'll call you\nmaster.
 @471.2
 Thank you.\nFrom now on I'll call you\nmaster.
 @473
-Sorry, but with {01}C{19}{00}'s current skill\nI can't accept you as a student.
+Sorry, but with your current skill\nI can't accept you as a student.
 @473.1
-I'm sorry.\nWith {01}C{19}{00}'s current skill\nI can't accept you as a student.
+I'm sorry.\nWith your current skill\nI can't accept you as a student.
 @473.2
-I'm sorry, with {01}C{19}{00}'s current skill\nI can't accept you as a student.
+I'm sorry, with your current skill\nI can't accept you as a student.
 @475
 I see...\nI'll come again once I'm skilled\nenough to be your student.
 @475.1
@@ -1511,11 +1511,11 @@ I see...\nI'll come again once I'm skilled\nenough to be your student.
 @475.2
 It can't be helped...\nThen I'll come again\nonce I've improved.
 @477
-Sorry, but taking a master like\n{01}C{19}{00} as a student is too much for me.\nI must decline.
+Sorry, but taking a master like\nyou as a student is too much for me.\nI must decline.
 @477.1
-I'm sorry.\nTaking a master like {01}C{19}{00}\nas my student is too great an honor.
+I'm sorry.\nTaking a master like you\nas my student is too great an honor.
 @477.2
-I'm sorry, taking a master like {01}C{19}{00}\nas my student is too great an honor...
+I'm sorry, taking a master like you\nas my student is too great an honor...
 @479
 So modest...\nI'll withdraw for today, but\nI, {02}{01}f, will never give up.
 @479.1
@@ -1565,11 +1565,11 @@ Whoa, you made this?!\nAmazing, that's something...\nThis is from me. Take it.
 @486.1
 Whoa, you made this?!\nTo make a thing like this, amazing...\nThis is from me. Take it.
 @486.2
-What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
+What, this is your work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
 @486.3
-What, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
+What, this is your work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
 @486.4
-My, this is {01}C{19}{00}'s work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
+My, this is your work!\nI'm honored to receive such a thing...\nPlease accept my thanks.
 @487
 Say, you sure know a lot.\nIt's like there's nothing\nyou don't know.\nTell you what, let me test\nyour learning a bit......
 @487.1
@@ -1649,31 +1649,31 @@ But for someone like you\nnot to know even yourself...\nI guess I overrated you 
 @512.1
 But for someone like you\nnot to know even yourself...\nI guess I overrated you a bit.
 @512.2
-But for {01}C{19}{00}\nnot to know even yourself...\nI seem to have overrated you.
+But for you\nnot to know even yourself...\nI seem to have overrated you.
 @512.3
-But for {01}C{19}{00}\nnot to know even yourself...\nPerhaps I overrated you...
+But for you\nnot to know even yourself...\nPerhaps I overrated you...
 @512.4
-But for {01}C{19}{00}\nnot to know even yourself...\nI seem to have overrated you.
+But for you\nnot to know even yourself...\nI seem to have overrated you.
 @513
 But for someone like you\nnot to know {02}{02}{EC}...\nI guess I overrated you a bit.
 @513.1
 But for someone like you\nnot to know {02}{02}{EC}...\nI guess I overrated you a bit.
 @513.2
-But for {01}C{19}{00}\nnot to know {02}{02}{EC}...\nI seem to have overrated you.
+But for you\nnot to know {02}{02}{EC}...\nI seem to have overrated you.
 @513.3
-But for {01}C{19}{00}\nnot to know {02}{02}{EC}...\nPerhaps I overrated you...
+But for you\nnot to know {02}{02}{EC}...\nPerhaps I overrated you...
 @513.4
-But for {01}C{19}{00}\nnot to know {02}{02}{EC}...\nPerhaps I overrated you.
+But for you\nnot to know {02}{02}{EC}...\nPerhaps I overrated you.
 @514
 But you don't even know me...\nIs that all our bond is worth...?\nThat's kind of sad.
 @514.1
 But you don't even know me...\nIs that all our bond is worth...
 @514.2
-But not to know me...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+But not to know me...\nIs that all\nour bond is worth...
 @514.3
-But not to know me...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+But not to know me...\nIs that all\nour bond is worth...
 @514.4
-But not to know me...\nIs that all the bond between\n{01}C{0E}{00} and {01}C{19}{00} is worth...
+But not to know me...\nIs that all\nour bond is worth...
 @515
 But you don't know\nabout our {02}{01}{EC}...\nIs that all our bond is worth...?
 @515.1
@@ -1823,17 +1823,17 @@ Thank you very much!\nThen I'll take my leave.
 @530.2
 Thank you very much!\nThen I'll take my leave.
 @531
-...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to {01}C{19}{00}...\n...or so I thought, but I've forgotten who...\nHmm... with some cue,\nI might remember...
+...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to you...\n...or so I thought, but I've forgotten who...\nHmm... with some cue,\nI might remember...
 @531.1
-...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to {01}C{19}{00}...\n...or so I thought, but I've forgotten who...\nHmm... with some cue,\nI might remember...
+...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to you...\n...or so I thought, but I've forgotten who...\nHmm... with some cue,\nI might remember...
 @531.2
-...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to {01}C{19}{00}...\n...or so I thought, but I've forgotten who...\nUm... with some cue,\nI might remember someone to introduce.
+...{02}{02}{EC} is always so helpful.\nAs thanks, I'll introduce someone\nof our house to you...\n...or so I thought, but I've forgotten who...\nUm... with some cue,\nI might remember someone to introduce.
 @532
-...{01}C{19}{00} is always so helpful.\nI'd like to repay you somehow...\n\nI know, I'll do my part too.\n
+...You are always so helpful.\nI'd like to repay you somehow...\n\nI know, I'll do my part too.\n
 @532.1
-...{01}C{19}{00} is always\nso helpful.\nI'd like to repay you somehow...\nI know, I'll do my part too.\n
+...You are always\nso helpful.\nI'd like to repay you somehow...\nI know, I'll do my part too.\n
 @532.2
-...{01}C{19}{00} is always so helpful.\nI'd like to repay you somehow...\n\nI know, I've had a good idea.\n
+...You are always so helpful.\nI'd like to repay you somehow...\n\nI know, I've had a good idea.\n
 @533
 "The Nishi-Mino Triumvirate" is complete.\n"Saito Yoshitatsu" is now available.
 @534
