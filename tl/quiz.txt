@@ -1,0 +1,71 @@
+# Kanji-reading quiz (tools/quiz.py): one of the questions a friend asks ("How is ... read?",
+# msg07 #509). One line per question: index<TAB>question<TAB>4 readings separated by " | ".
+# The question keeps the name in kanji, taken from the disc at build time: {1} = the quoted
+# part 「...」 (the part that is read), {2} = the kanji after it (the rest of a person's name).
+# The first reading is the correct one (the game shuffles the choices); the wrong ones keep
+# the near-miss spellings of the Japanese. Hepburn without macrons, as everywhere else.
+0	Castle: {1}	Ueshi | Hagoromoishi | Haneishi | Hanekinuishi
+1	Person: {1}	Betsuki Akitsura | Totsugi Kanetsura | Hetsugi Kanetsura | Totsugi Akitsura
+2	Town: {1}	Yunotsu | Onsenzu | Izumitsu | Nukuyuzu
+3	Castle: {1}	Takatenjin | Kotenjin | Kotengami | Takaamagami
+4	Person: {1}{2}	Suminokura | Kadokura | Tsunokura | Kakukura
+5	Trade goods: {1}	Konnyaku | Gobo | Budo | Shoga
+6	Tea ware: {1}	Yoroboshi | Yowahoshi | Jakuhoshi | Yowahosshi
+7	Manor: {1}	Tsutsujigasaki | Dokurogasaki | Kumogasaki | Torogasaki
+8	Technique: {1}	Marobashi | Utata | Korogashi | Ten
+9	Task: {1}	Hengaku Kigo | Hengaku Kimo | Hengaku Unmo | Hengaku Ungo
+10	Trade goods: {1}	Egoma | Sogoma | Ningoma | Jingoma
+11	Trade goods: {1}	Aoso | Aoimo | Aocho | Aoo
+12	Castle: {1}	Kozukata | Furaiho | Fukikata | Furaibo
+13	Castle: {1}	Tonogori | Tsunokori | Togun | Tsunigori
+14	Town: {1}	Usukeshi | Usugishi | Usugan | Utsukushi
+15	Castle: {1}	Sato Kanayama | Sato Ginzan | Sahigashi Kaneyama | Saazuma Ginzan
+16	Castle: {1}	Kakunodate | Sumidate | Tsunodate | Kadoyakata
+17	Castle: {1}	Obi | Yokuhi | Magoe | Gyuhi
+18	Fort: {1}	Tosaminato | Jusanminato | Tomiminato | Izayoi
+19	Castle: {1}	Kozuki | Uwatsuki | Jogatsu | Kamitsuki
+20	Castle: {1}	Osumi Koyama | Osumi Takayama | Okuma Takayama | Okuma Kozan
+21	Castle: {1}	Muya | Buyo | Muyo | Nadeyasu
+22	Castle: {1}	Oko | Okatoyo | Okatomi | Okade
+23	Person: {1}{2}	Kozukuri | Kizukuri | Mokuzo | Mozukuri
+24	Person: {1}{2}	Kitajo | Hojo | Hokujo | Kitaeda
+25	Castle: {1}	Shiraga | Hakushika | Hakka | Shirojika
+26	Town: {1}	Saika | Zatsuga | Zoga | Saiga
+27	Castle: {1}	Gassan Toda | Tsukiyama Tomita | Gassan Tomita | Tsukiyama Toda
+28	Person: {1}	Mashita Nagamori | Masuda Nagamori | Masuda Takemori | Mashita Nagakiyo
+29	Person: {1}{2}	Natsuka | Nagatsuka | Nagataba | Nataba
+30	Castle: {1}	Sannohe | Mito | Santo | Mitsunoto
+31	Castle: {1}	Mito | Mizunoto | Sannohe | Suito
+32	Fort: {1}	Bonotsu | Bozu | Boshin | Botsu
+33	Fort: {1}	Shiwaku | Shioaki | Enho | Shioaka
+34	Person: {1}{2}	Kurushima | Kijima | Raito | Kurijima
+35	Village: {1}	Togakushi | Togakure | Hekakushi | Koin
+36	Village: {1}	Kurohabaki | Kurosuneate | Kurozukin | Kurohizaate
+37	Castle: {1}	Mitoya | Santoya | Mikatanaya | Sanbaya
+38	Castle: {1}	Izumi | Demizu | Shusui | Idemizu
+39	Castle: {1}	Kiidani | Shiroidani | Joseidani | Joidani
+40	Person: {1}	Shiba Yoshimune | Konami Yoshimune | Nanba Yoshimune | Kakunami Yoshimune
+41	Castle: {1}	Sogo | Togawa | Jukawa | Sogawa
+42	Place: {1}	Shizugatake | Sengatake | Zenigatake | Zangatake
+43	Landmark: {1}	Kotohiragu | Kintohiragu | Konpira no Miya | Kanetobiragu
+44	Landmark: {1}	Oyashirazu Koshirazu | Oyafuchi Kofuchi | Shinfuchi Shifuchi | Oyakoshirazu
+45	Landmark: {1} Shrine	Oyamazumi | Daisangi | Oyamagi | Daiyamagi
+46	Landmark: {1}	Oboke Koboke | Daihoki Shohoki | Ohoki Kohoki | Oayashi Koayashi
+47	Office: {1}	Hyobu Dayu | Heibu Daibu | Hyobu Tasuke | Heibu Daisuke
+48	Office: {1}	Kamon no Kami | Sobu Atama | Kanbe no Suke | Kanbe no Kami
+49	Office: {1}	Zusho no Kami | Tosho Atama | Tosho no Kami | Zusho no Suke
+50	Office: {1}	Uta no Kami | Gagaku no Kami | Garaku no Kami | Gagaku no Suke
+51	Office: {1}	Tajima no Kami | Tanba no Kami | Tanba no Suke | Tajima Mori
+52	Office: {1}	Emon no Kami | Migi Emon no Kami | Emon no Suke | Saemon no Kami
+53	Office: {1}	Shuri Daibu | Shuri Dayu | Shuri no Suke | Shuri Dayu
+54	Person: {1}{2}	Menju | Keju | Moju | Keuke
+55	Person: {1}{2}	Mishuku | Onjuku | On'yado | Goshuku
+56	Person: {1}{2}	Yakuin | Shiyakuin | Kusuriin | Shirakuin
+57	Person: {1}{2}	Sanponji | Yamamotoji | Yamamotodera | Yamahonji
+58	Person: {1}	Mikogami Tenzen | Okogami Tenzen | Mikogami Daizen | Ogami Tenzen
+59	Person: {1}{2}	Ei | Eiai | Uwai | Eia
+60	Town: {1}	Kanoya | Shikaya | Shikanoya | Kaya
+61	Fort: {1}	Tochi | Jushi | Toichi | Tokaichi
+62	Court Rank: {1}	Jusanmi | Jusan'i | Jusanni | Jumii
+63	Court Rank: {1}	Shoshiige | Seishiige | Shoyon'ige | Seiyon'ige
+64	Person: {1}{2}	Donokawa | Michikawa | Dokawa | Dosen

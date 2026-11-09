@@ -1575,11 +1575,11 @@ Say, you sure know a lot.\nIt's like there's nothing\nyou don't know.\nTell you 
 @487.1
 Say, you sure know a lot.\nIt's like there's nothing\nyou don't know.\nTell you what, let me test\nyour learning......
 @487.2
-{01}C1{00}'s talk is fascinating...\nAs if there were nothing\n{01}C{19}{00} doesn't know.\nMay I test {01}C{19}{00}'s\nlearning a little?
+{01}C1{00}, your talk is fascinating...\nIt's as if there were nothing\nyou don't know.\nMay I test your\nlearning a little?
 @487.3
-{01}C1{00}'s talk is a pleasure...\nIt's as if there were nothing\n{01}C{19}{00} doesn't know.\nMay I test {01}C{19}{00}'s\nlearning a little?
+{01}C1{00}, your talk is a pleasure...\nIt's as if there were nothing\nyou don't know.\nMay I test your\nlearning a little?
 @487.4
-{01}C1{00}'s talk is a pleasure...\nIt's as if there were nothing\n{01}C{19}{00} doesn't know.\nMay I test {01}C{19}{00}'s\nlearning a little?
+{01}C1{00}, your talk is a pleasure...\nIt's as if there were nothing\nyou don't know.\nMay I test your\nlearning a little?
 @488
 Which of these daimyo houses has\nthe second-highest power now?
 @489
@@ -1623,7 +1623,7 @@ Which of these towns\nis the largest right now?
 @508
 Who is the blood sibling\nof "{02}{03}g"?
 @509
-How is {02}yd read?
+{02}yd\nDo you know how that is read?
 @510
 Yep, that's right!\nYou really are amazing!\nThis is from me. Take it.
 @510.1
@@ -1639,11 +1639,11 @@ Whoops, sorry, that's wrong...\nSo even you\ndon't know everything......
 @511.1
 Whoops, sorry, that's wrong...\nSo even you\ndon't know everything......
 @511.2
-Sadly, that's wrong...\nTo think even {01}C{19}{00}\ndoesn't know everything......
+Sadly, that's wrong...\nTo think even you\ndon't know everything......
 @511.3
-Sadly, that's wrong...\nTo think even {01}C{19}{00}\ndoesn't know everything......
+Sadly, that's wrong...\nTo think even you\ndon't know everything......
 @511.4
-Sadly, that's wrong...\nTo think even {01}C{19}{00}\ndoesn't know everything......
+Sadly, that's wrong...\nTo think even you\ndon't know everything......
 @512
 But for someone like you\nnot to know even yourself...\nI guess I overrated you a bit.
 @512.1

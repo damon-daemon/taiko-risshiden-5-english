@@ -5,7 +5,7 @@ usage: .venv/bin/python tools/build.py [clean.iso] [out.iso]
 import json, os, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import battlename, spritetext, datafile, edition, money, evtl, overflow, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, setup, text, ui, vwf
+import battlename, spritetext, datafile, edition, money, evtl, overflow, gfx, menugfx, msgbuf, nameentry, scenarios, elfseg, elfstr, elftables, iso, msgfile, msgwindow, nameplate, names, quiz, setup, text, ui, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ELF = edition.ELF
@@ -53,6 +53,7 @@ def main():
     t = elftables.apply(elf, clean_elf)
     elftables.apply_code(elf, seg)
     n_str, n_moved = elfstr.apply(elf, clean_elf, seg)
+    print('quiz: %d strings (%d moved)' % quiz.apply(elf, clean_elf, seg))
     battlename.apply(elf, seg)
     money.apply(elf, seg)
     spritetext.apply(elf, seg)
