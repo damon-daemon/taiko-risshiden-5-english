@@ -81,9 +81,9 @@ our
 @31
 {01}C{0E}{00} hereby\n take my leave."\nThat is the message.
 @32
-What!\n{01}C {00}?!\nOh, how could this happen...
+What!\nYou mean {01}C {00}?!\nOh, how could this happen...
 @32.1
-What!\n{01}C {00}?!\nWhat does this mean...
+What!\nYou mean {01}C {00}?!\nWhat does this mean...
 @33
 {02}{02}g and their followers\nhave left {02}{01}g\nand gone off somewhere.
 @33.1
@@ -121,9 +121,9 @@ I see...\nWe've lost a fine person.
 @40.3
 I see......\nWe've lost a fine person.
 @41
-Eh...?! No...\n{01}C8{00}?\nIt can't be......
+Eh...?! No...\nYou mean {01}C8{00}?\nIt can't be......
 @41.1
-What?!\n{01}C8{00}......\nWhat does this mean......
+What?!\nYou mean {01}C8{00}......\nWhat does this mean......
 @42
 One can't defy fate, but\nit's so sad......\n
 @42.1
@@ -229,9 +229,9 @@ So {01}C8{00} has finally become {02}{03}i...
 @67.11
 So {01}C8{00} has finally become {02}{03}i...
 @68
-{01}C8{00} as heir?\nI can never accept that!
+Name {01}C8{00} as heir?\nI can never accept that!
 @68.1
-{01}C8{00} as heir?\nI can never accept that!
+Name {01}C8{00} as heir?\nI can never accept that!
 @69
 {02}{01}g declared independence\nwith {02}{15}e as their base\nand became a daimyo.
 @70
@@ -285,7 +285,7 @@ Thank you very much!\nI too have long wanted\na shop of my own.
 @90
 I see... then I grant you\na branch shop!\n\nWe may become rivals from now on,\nbut follow the way of trade as you see fit.
 @91
-Yes... Master, your great kindness\nI, {02}{01}f, will never forget!
+Oh, Master... your great kindness\nI, {02}{01}f, will never forget!
 @92
 If you're starting a new shop,\nyou'll need a shop name.\nWhat will you call it?
 @93
@@ -357,7 +357,7 @@ My lord, Lord {02}{03}g has come\nas an envoy from {02}{0B}e.
 @121
 Wh-what?!\nBecome part of {02}{0B}e...?!
 @122
-Our lord very much wishes to welcome {01}C1{00}.
+Our lord very much wishes to welcome you.
 @123
 Hmm, hmm......
 @124
@@ -455,7 +455,7 @@ Because {02}{0B}e declared war,\n{02}{0C}e now has just cause\nto attack {02}{0B
 @169
 {02}{02}g,\nsomeone sabotaged {02}{15}e,\nand there has been damage.
 @170
-{02}{02}g, someone tried to spread strange rumors under {02}{15}e, but people of {02}{0B}e stopped it in time.
+{02}{02}g, someone tried to spread strange rumours\nin {02}{15}e, but {02}{0B}e's men\nstopped them in time.
 @171
 {02}{02}g, agents of {02}{0C}e tried to spread\nstrange rumors under {02}{15}e,\nbut {02}{0B}e stopped it.
 @172
@@ -485,7 +485,7 @@ Everyone!\nMake your preparations and move\nto {02}{15}e without delay!
 @184
 My! That's a big job!\nThen I'll get ready at once.\nYou go on ahead.
 @185
-Yes! I'm counting on you!
+Good! I'm counting on you!
 @186
 Well... preparations for moving...\nI live alone... there's nothing really.\nI'll head to {02}{15}e as I am...
 @187
@@ -529,7 +529,7 @@ Because of ties with {02}{03}g,\n{02}{0B}e switches from {02}{0C}e\nto purveyor 
 @202.1
 {02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Fujiwara no Ason {02}{02}f is raised\n to Senior First Rank and made Imperial Regent!"\nCongratulations indeed!!
 @202.2
-{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Minamoto no Ason {02}{02}f\n is made Shogun," are the words.\nCongratulations indeed!!
+{02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Minamoto no Ason {02}{02}f\nis made Shogun," so the decree reads.\nCongratulations indeed!!
 @202.3
 {02}{02}g,\nthanks to {02}{03}g's work, an imperial\nenvoy has come from the court!\n"By decree, Taira no Ason {02}{02}f is made\n Grand Chancellor of Senior First Rank!"\nCongratulations indeed!!
 @202.4
@@ -579,7 +579,7 @@ Surely no one will object\nto {02}{02}f succeeding!
 @209.5
 ...Very well.\nI'll unite everyone in place of our late boss.
 @210
-Yes!\nGracious words!
+My lord!\nGracious words!
 @211
 {02}{03}g succeeded\n{02}{04}g and\nbecame daimyo.
 @211.1
@@ -643,7 +643,7 @@ Oho......\nWhat could they want?
 @239
 What, {02}{0B}e wishes to come\nunder our house?
 @240
-Yes!\nPlease grant our request...
+I beg you!\nPlease grant our request...
 @241
 Hmmm......
 @242
@@ -673,7 +673,7 @@ Oh! You accept!\nFrom now on our people will work for {02}{0C}e.\nCommand us as 
 @254
 {02}{02}g, {02}{0B}e tried to make {02}yd fashionable in {02}{15}e and seems to have failed.
 @255
-{02}{02}g, {02}{0B}e's rumors succeeded; {02}yd shows signs of becoming fashionable in {02}{15}e.
+{02}{02}g, {02}{0B}e's rumour campaign worked:\n{02}yd is catching on in {02}{15}e.
 @256
 {02}{02}g, rumor has it demand for {02}yd is rising in {02}{15}e.
 @257
@@ -1237,7 +1237,7 @@ The manor of the chief or ship captain leading a pirate band. If the hero belong
 @502
 Fort Drill Ground
 @503
-A facility to drill the fort's troops: training and gifts. At an enemy fort, you can sneak in to gather information.\n\n{1B}C1● Drill Ground Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Train{1B}C0\nRaise training. A mock battle starts; winning with fewer losses gives better results. Related mission: "Train"
+A facility to drill the fort's troops: drills and alms. At an enemy fort,\nyou can sneak in to gather information.\n\n{1B}C1● Drill Ground Commands{1B}C0\nOnly commands available for the hero's rank and mission are shown.\n{1B}C3◆ Train{1B}C0\nRaise training. A mock battle starts; winning with fewer losses gives\nbetter results. Related mission: "Train"
 @504
 {1B}C3◆ Give Gifts{1B}C0\nGive money to raise morale.\n{1B}C3◆ Talk{1B}C0\nAsk a pirate about problems.\n{1B}C3◆ Scout Fort{1B}C0\nSneak into another power's fort to scout it.\n{1B}C3◆ Become a Pirate{1B}C0\nJoin the band ruling the fort. Low Navy gets you turned away.
 @505

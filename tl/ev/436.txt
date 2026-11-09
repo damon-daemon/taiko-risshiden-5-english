@@ -23,7 +23,7 @@ No need. I have no intention of choosing an heir. Think only of honing your skil
 @1.7
 Hmm... I see.
 @1.9
-Yes. You have both reached maturity and would make fine heirs.
+Indeed. You have both reached maturity and would make fine heirs.
 @1.10
 Very well. Duel to the death, with the right to be heir to my Itto-ryu at stake!
 @1.12
@@ -71,7 +71,7 @@ Take him as student
 @2.18
 Don't take him
 @2.21
-Yes. There is a senior student called \#00CA. Learn techniques from him too.
+Oh, and there is a senior student called \#00CA. Learn techniques from him too.
 @2.23
 Now, loser, go wherever you like.
 @2.25

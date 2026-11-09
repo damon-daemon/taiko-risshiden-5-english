@@ -87,7 +87,7 @@ So it's like this:\nif you can retreat, my lord, the castle\nwon't fall even if 
 @37
 but if your unit hits 0 troops\nor 0 morale, the castle will fall.
 @38
-Yes, you seem to understand.\nAnd if the enemy commander,\nLord Tokugawa, can't fight on, we win.
+Good, you seem to understand.\nAnd if the enemy commander,\nLord Tokugawa, can't fight on, we win.
 @39
 The army attacking the castle is driven off,\nand there's no siege after the field battle.
 @40
@@ -347,7 +347,7 @@ Unit {02}o{CC} of {02}{01}g's army\nof {02}{0B}e is acting.
 @169
 {02}{01}g's army of {02}{0B}e is acting.
 @170
-The {02}{0B}e army is acting.
+The {02}{0B}e army is on the move.
 @171
 There's nowhere to move.
 @172
@@ -651,7 +651,7 @@ Show all the strength you have!\nThen victory is ours!
 @263.1
 Dig deep for strength!\nWe're far from done yet!
 @264
-We'll recover!\nSo we can show all our strength.
+Recover!\nGet back to full strength!
 @264.1
 Recover!\nWe'll get out of this bad spot somehow.
 @265
@@ -697,7 +697,7 @@ Small fry are an eyesore.\nBegone, wherever you like.
 @276
 Loose spies on the enemy unit!!\nScatter gold among their troops, unseen\nby their general, and turn them to our side!
 @276.1
-Even hell's verdicts can be bought.\nScatter gold among their troops and win them over.
+Money talks, even in hell.\nScatter gold among their troops and win them over.
 @277
 {02}{01}g's unit\ncouldn't win over a single soldier.
 @277.1
@@ -1117,7 +1117,7 @@ An attack led by {01}Ch0?
 @412
 {01}Ci0\nWe once shared the same goals, but now you're a foe.\nMen, become demons and strike!
 @412.1
-{01}Ci0\n{01}C {00} is someone I must defeat someday.\nThen I'll do it here, now!
+{01}Ci0\nI must defeat {01}C {00} someday.\nThen I'll do it here, now!
 @412.2
 {01}Ci0\nI bear no grudge, but for the realm, for this land,\nyou'll fall here.
 @413
@@ -1361,7 +1361,7 @@ Sengoku ways or not,\nI hope this is the last time\nI fight {01}Ch0, whom I reve
 @453
 Now do you see, traitor!
 @453.1
-Now do you feel the hammer of justice!
+Feel the hammer of justice!
 @453.2
 Did you think you could win,\ntraitor!
 @454
@@ -1435,7 +1435,7 @@ Ride the momentum, we attack too!
 @463.3
 The waves of attack have them wavering!\nA chance to scatter them!
 @464
-Our unit rides this push too!\nArchers, forward!\nRain arrows on the enemy!
+Our unit joins the push!\nArchers, forward!\nRain arrows on the enemy!
 @464.1
 We won't be outdone by the other units!\nShow them what our arrows can do!
 @464.2
@@ -1531,21 +1531,21 @@ If I may say so,\nthe battle is going against us.\n\nThe best plan is to sue for
 @482.3
 If I may say so,\nthe battle is going against us.\n\nThe best plan is to sue for peace\nwhile we still can.\nPlease send me as envoy.
 @483
-Understood.\n\n\nI leave it to {01}C1{00}.
+Understood.\n\n\nI leave it to you.
 @483.1
-Hmm, understood.\n\n\nI leave it to {01}C1{00}.
+Hmm, understood.\n\n\nI leave it to you.
 @483.2
-Very well.\n\n\nI appoint {01}C1{00} as envoy.
+Very well.\n\n\nI appoint you as envoy.
 @483.3
-Hmm, very well.\n\n\nI appoint {01}C1{00} as envoy.
+Hmm, very well.\n\n\nI appoint you as envoy.
 @484
-Now that we're this far behind,\nit can't be helped.\n\nI leave it to {01}C1{00}.
+Now that we're this far behind,\nit can't be helped.\n\nI leave it to you.
 @484.1
-Hmm, now that we're this far behind,\nit can't be helped.\n\nI leave it to {01}C1{00}.
+Hmm, now that we're this far behind,\nit can't be helped.\n\nI leave it to you.
 @484.2
-Now that we're this far behind,\nit can't be helped.\n\nI appoint {01}C1{00} as envoy.
+Now that we're this far behind,\nit can't be helped.\n\nI appoint you as envoy.
 @484.3
-Hmm, now that we're this far behind,\nit can't be helped.\n\nI appoint {01}C1{00} as envoy.
+Hmm, now that we're this far behind,\nit can't be helped.\n\nI appoint you as envoy.
 @485
 If I may say so,\nI must say the battle is\nvery grim now.\nIt's time to sue for peace.\nPlease send me as envoy.
 @485.1
@@ -1555,13 +1555,13 @@ If I may say so,\nI must say the battle is\nvery grim now.\nIt's time to sue for
 @485.3
 If I may say so,\nI must say the battle is\nvery grim now.\nIt's time to sue for peace.\nPlease send me as envoy.
 @486
-I ask {01}C1{00} to serve as envoy\nto {02}{03}g's army.
+I ask you to serve as envoy\nto {02}{03}g's army.
 @486.1
-I ask {01}C1{00} to serve as envoy\nto {02}{03}g's army.
+I ask you to serve as envoy\nto {02}{03}g's army.
 @486.2
-I order {01}C1{00} to serve as envoy\nto {02}{03}g's army.
+I order you to serve as envoy\nto {02}{03}g's army.
 @486.3
-I order {01}C1{00} to serve as envoy\nto {02}{03}g's army.
+I order you to serve as envoy\nto {02}{03}g's army.
 @487
 What brings you here?
 @487.1

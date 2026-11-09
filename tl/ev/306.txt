@@ -45,6 +45,6 @@ Hm, what to do...
 @8.9
 Attack \#0138
 @8.11
-Yes, this is our chance! We side with \%041FA and destroy \#0938!
+This is our chance! We side with \%041FA and destroy \#0938!
 @8.13
 No, let's not. In the end it's \#084B's private war. We should not move troops lightly.

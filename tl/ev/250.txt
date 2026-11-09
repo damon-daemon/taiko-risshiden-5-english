@@ -41,7 +41,7 @@ That is good. But...
 @0.22
 But what? \%03, speak plainly.
 @0.23
-Yes. It concerns Lord \#00E6 and Lord \#0267.
+It concerns Lord \#00E6 and Lord \#0267.
 @0.24
 They say Lord \#08E6 and Lord \#0A67 are complaining about you, my lord, in all sorts of ways.
 @0.25

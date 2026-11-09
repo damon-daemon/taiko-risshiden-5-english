@@ -1,5 +1,5 @@
 @0.0
-\%01,\nLord \#0293 has passed away!
+Terrible news!\nLord \#0293 has passed away!
 @0.1
 I see, \%04293 is gone... You know, \%03, I was fond of the loyal \%04293.
 @0.2

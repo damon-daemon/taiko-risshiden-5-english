@@ -21,7 +21,7 @@ Allow me to explain.
 @0.11
 The \#11BF and \#1074 clans have never truly been enemies.
 @0.12
-Yes. When the late Lord \#09C1 was dying, he left word that Lord \#0877 was a man to be relied on, and that after his death we should join hands with the \#1074.
+Indeed. When the late Lord \#09C1 was dying, he left word that Lord \#0877 was a man to be relied on, and that after his death we should join hands with the \#1074.
 @0.13
 And in this succession dispute, our \#11BF clan has no reason to back Lord \#0874.
 @0.14
@@ -227,7 +227,7 @@ Have you learned your lesson, \#09FA! Never again will you be greedy enough to t
 @9.2
 Let us return to the castle in triumph for now.
 @9.3
-Yes...!
+Indeed...!
 @9.4
 Our army is all but destroyed!
 @9.5
@@ -265,7 +265,7 @@ What do you intend to do?
 @12.2
 \#0FF1, you must have some idea. Speak.
 @12.3
-Yes, sir. \#09BF is only sending troops to support \#0875 at the request of his ally \#0275.
+Sir. \#09BF is only sending troops to support \#0875 at the request of his ally \#0275.
 @12.4
 By rights it should be \#0A75, his brother, who supports \#0875. \#09BF must have his doubts too.
 @12.5
@@ -279,7 +279,7 @@ Then we adopt this plan and send a secret envoy to the \#11BF.
 @12.11
 What! And what did Lord \%02074 say?
 @12.12
-Yes, sir. He says he will use this chance to bring \#01BF over to our side, so we are not to strike.
+Sir. He says he will use this chance to bring \#01BF over to our side, so we are not to strike.
 @12.13
 Bring \#09BF over to our side? What on earth is our lord thinking...
 @13.0

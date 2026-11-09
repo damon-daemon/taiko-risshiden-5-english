@@ -75,7 +75,7 @@ Hmm... Then it can't be helped. The next time we meet may be on the battlefield!
 @1.63
 Then, farewell!
 @2.0
-Yes, I must meet Lord \#0942 after all and speak my mind.
+Right, I must meet Lord \#0942 after all and speak my mind.
 @2.1
 I must see Lord \#0942.
 @2.2
@@ -165,7 +165,7 @@ Good, I understand.
 @3.29
 What a racket... It spoils the sake. Someone, come here!
 @3.30
-Yes, my lord!
+Here, my lord!
 @3.31
 Go and find out what the noise is about!
 @3.33
@@ -351,7 +351,7 @@ I want you to go to \51E6 and fall ill there.
 @6.26
 Huh? Fall ill?
 @6.27
-Yes. Then say that the medicine you always take is with me.
+That's right. Then say that the medicine you always take is with me.
 @6.28
 This is for Mino, for the \#1142 clan, and needed to admonish Lord \#0942.
 @6.29

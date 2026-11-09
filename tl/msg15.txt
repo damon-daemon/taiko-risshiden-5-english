@@ -339,21 +339,21 @@ Whom will you give orders to?
 @45.3
 Whom will you give orders to?
 @46
-{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to attack {02}yd.\nHow will you change it?
 @46.1
-{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to attack {02}yd.\nHow will you change it?
 @46.2
-{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to attack {02}yd.\nHow will you change it?
 @46.3
-{01}C>{00} is currently\nordered to attack {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to attack {02}yd.\nHow will you change it?
 @47
-{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to {02}yd.\nHow will you change it?
 @47.1
-{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to {02}yd.\nHow will you change it?
 @47.2
-{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to {02}yd.\nHow will you change it?
 @47.3
-{01}C>{00} is currently\nordered to {02}yd.\nHow will you change it?
+At present, {01}C>{00} is\nordered to {02}yd.\nHow will you change it?
 @48
 What orders will you give\n{01}C>{00}?
 @48.1
@@ -445,35 +445,35 @@ No... it's your offer,\nbut I can't accept it.\nPut your effort into your presen
 @60.2
 No... it's your offer,\nbut I can't accept it.\nPlease put your effort into your present task.\nThat's all.
 @61
-Very well... then I give {01}C1{00}\na fresh mission to attack {02}yd.\nWork hard at it.\nThat's all.
+Very well... then I give you\na fresh mission to attack {02}yd.\nWork hard at it.\nThat's all.
 @61.1
-Very well... then I give {01}C1{00}\na fresh mission to attack {02}yd.\nYou offered, so work hard at it.\nYou may go.
+Very well... then I give you\na fresh mission to attack {02}yd.\nYou offered, so work hard at it.\nYou may go.
 @61.2
-Understood... then I entrust {01}C1{00}\nwith attacking {02}yd.\n\nThat's all.
+Understood... then I entrust you\nwith attacking {02}yd.\n\nThat's all.
 @62
-{01}C8{00} has ordered us\nto attack {02}{15}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{15}e.
 @62.1
-{01}C8{00} has ordered us\nto attack {02}{15}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{15}e.
 @62.2
-{01}C8{00} has ordered us\nto attack {02}{15}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{15}e.
 @62.3
-{01}C8{00} has ordered us\nto attack {02}{15}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{15}e.
 @63
-{01}C8{00} has ordered us\nto attack {02}{1F}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{1F}e.
 @63.1
-{01}C8{00} has ordered us\nto attack {02}{1F}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{1F}e.
 @63.2
-{01}C8{00} has ordered us\nto attack {02}{1F}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{1F}e.
 @63.3
-{01}C8{00} has ordered us\nto attack {02}{1F}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{1F}e.
 @64
-{01}C8{00} has ordered us\nto attack {02}{0B}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{0B}e.
 @64.1
-{01}C8{00} has ordered us\nto attack {02}{0B}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{0B}e.
 @64.2
-{01}C8{00} has ordered us\nto attack {02}{0B}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{0B}e.
 @64.3
-{01}C8{00} has ordered us\nto attack {02}{0B}e.
+At present, {01}C8{00} has ordered us\nto attack {02}{0B}e.
 @65
 Some of your subordinates are ill.\nPlease bear it in mind when giving orders.
 @65.1
@@ -559,7 +559,7 @@ There's no base we can fight.
 @75.1
 There's no base we can fight.
 @75.2
-There's no base we can fight.
+There's no base we can attack.
 @75.3
 There's no base we can fight.
 @76
@@ -663,13 +663,13 @@ Choose the {01}C{94}{01} to send them to.
 @89.3
 Choose the {01}C{94}{01} to send them to.
 @90
-{01}C8{00} now has\nenough {01}C{9A}{01}s.
+With this, {01}C8{00} now has\nenough {01}C{9A}{01}s.
 @90.1
-{01}C8{00} now has\nenough {01}C{9A}{01}s.
+With this, {01}C8{00} now has\nenough {01}C{9A}{01}s.
 @90.2
-{01}C8{00} now has\nenough {01}C{9A}{01}s.
+With this, {01}C8{00} now has\nenough {01}C{9A}{01}s.
 @90.3
-{01}C8{00} now has\nenough {01}C{9A}{01}s.
+With this, {01}C8{00} now has\nenough {01}C{9A}{01}s.
 @91
 Choose the {01}C{9D}{01} to send.
 @91.1
@@ -771,11 +771,11 @@ I'm grateful, but I already\nhold the office of {02}yd...\nso I'll decline this 
 @100.4
 With respect, {01}C8{00}\nalready holds the office of {02}yd.\nThere's no need, I believe...
 @100.5
-{01}C8{00} already\nholds the office of {02}yd.\nThere's no need.
+But {01}C8{00} already\nholds the office of {02}yd.\nThere's no need.
 @100.6
 With respect, {01}C8{00}\nalready holds the office of {02}yd.\nThere's no need...
 @101
-{01}C8{00} will surely serve\nyou more faithfully than ever.
+I'm sure {01}C8{00} will serve\nyou more faithfully than ever.
 @101.1
 I'm so happy!\nI swear ever greater loyalty!
 @101.2
@@ -783,11 +783,11 @@ Oh, I'm grateful!\nThank you!
 @101.3
 I'm most grateful!\nI swear ever greater loyalty!
 @101.4
-{01}C8{00} will surely serve\nyou more faithfully than ever.
+I'm sure {01}C8{00} will serve\nyou more faithfully than ever.
 @101.5
-{01}C8{00} will surely serve\nyou more faithfully than ever.
+I'm sure {01}C8{00} will serve\nyou more faithfully than ever.
 @101.6
-{01}C8{00} will surely serve\nyou more faithfully than ever.
+I'm sure {01}C8{00} will serve\nyou more faithfully than ever.
 @102
 {01}C1{00}, with respect,\nthere's no office I can recommend now.
 @102.1
@@ -929,7 +929,7 @@ Oh! Congratulations.
 @133.1
 Oh! Congratulations.\n{01}C1{00}, congratulations.
 @134
-Yes. From now on,\ncastles we take\nbecome our own castles.\n{01}C1{00}, I expect\neven more of you too.
+Indeed. From now on,\ncastles we take\nbecome our own castles.\n{01}C1{00}, I expect\neven more of you too.
 @134.1
 Right. From now on,\ncastles we take\nbecome our own castles.\n{01}C1{00}, I expect\neven more of you too.
 @134.2
@@ -945,45 +945,45 @@ First, let's see how\nyour last mission went.
 @136.2
 First, let's compare how\nthe last missions went.
 @138
-Last time, {01}C1{00} did the best work.\n{01}C1{00}, splendid.\nPlease accept this.
+{01}C1{00}, last time your work\nwas the best. Splendid.\nPlease accept this.
 @138.1
-Last time, {01}C1{00} did the best work.\n{01}C1{00}, splendid.\nTake this as a reward.
+{01}C1{00}, last time your work\nwas the best. Splendid.\nTake this as a reward.
 @138.2
-Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.\nPlease accept this.
+{01}C1{00}, last time your work\nstood out. Splendid.\nPlease accept this.
 @138.3
-Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.\nTake this as a reward.
+{01}C1{00}, last time your work\nstood out. Splendid.\nTake this as a reward.
 @138.4
 {01}C1{00}, you worked well last time.\nPlease accept this.
 @138.5
 {01}C1{00}, you seem to have worked well\nlast time. Take this as a reward.
 @139
-Last time, {01}C1{00} did the best work.\n{01}C1{00}, splendid.
+{01}C1{00}, last time your work\nwas the best. Splendid.
 @139.1
-Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.
+{01}C1{00}, last time your work\nstood out. Splendid.
 @139.2
-Last time, {01}C1{00}'s work stood out.\n{01}C1{00}, splendid.
+{01}C1{00}, last time your work\nstood out. Splendid.
 @140
 Right!
 @140.1
-Yes, sir!\nI'm most grateful!
+Thank you, sir!\nI'm most grateful!
 @141
-Last time, {01}C1{00} did the best work.\nThe rest of you, learn from it.
+{01}C1{00}, last time your work\nwas the best.\nThe rest of you, learn from it.
 @141.1
-Last time, {01}C1{00}'s work stood out.\nI'm counting on you from now on too.
+{01}C1{00}, last time your work\nstood out.\nI'm counting on you from now on too.
 @141.2
 Hm, I see.\n{01}C1{00}, well done.
 @142
-...I, {02}{01}g, am mortified\nto fall behind {01}C1{00}...
+...I, {02}{01}g, am mortified\nto fall behind you...
 @142.1
-...I, {02}{01}g, am mortified,\nto fall behind {01}C1{00} of all people...
+...I, {02}{01}g, am mortified,\nto fall behind you of all people...
 @143
-Hmm, as expected of {01}C1{00}...
+Hmm, just what I'd expect of you...
 @143.1
-Hmm, {01}C1{00} is the one\nI didn't want to lose to...\nI must work harder.
+Hmm, you're the one\nI didn't want to lose to...\nI must work harder.
 @144
-Hmph, that's all {01}C1{00} can do.\nWhat could you possibly achieve?\nLearn a thing or two from me.
+Hmph, that's all you can do.\nWhat could you possibly achieve?\nLearn a thing or two from me.
 @144.1
-Hmph, so that's all {01}C1{00} can do...\nNo, if I'm pleased to beat the likes\nof {01}C1{00}, I still have far to go.
+Hmph, so that's all you've got...\nNo, if beating the likes of you\npleases me, I still have far to go.
 @145
 {01}C1{00},\nif you fall behind me,\nyou still have far to go.
 @146
@@ -999,9 +999,9 @@ Now, this month I will appoint\na new {01}C*;:\n{01}C1{00}!
 @147.1
 Now, this month I will appoint\na new {01}C*;:\n{01}C1{00}! Step forward.
 @148
-Now, this month I will appoint\na new {01}C*;.\nIs {01}C1{00} here?
+Now, this month I will appoint\na new {01}C*;.\n{01}C1{00}, are you here?
 @148.1
-Now, this month I will appoint\na new {01}C*;.\nIs {01}C1{00} here!
+Now, this month I will appoint\na new {01}C*;.\n{01}C1{00}! Are you here?
 @149
 Right!
 @149.1
@@ -1009,7 +1009,7 @@ Yes, sir!
 @150
 Yes, here I am.\n
 @150.1
-Yes, sir, here!
+Here, sir!
 @152
 I entrust {02}{15}e to you.\nSet out at once and rule the castle!\nOrders will follow.
 @152.1
@@ -1029,13 +1029,13 @@ I appoint you {01}C*; of {02}{15}e.\nSet out at once and run the branch.\n\nAt t
 @156
 Oh!\nLeave it to me!
 @156.1
-Yes, sir!\nIt's more than I deserve!
+Thank you, sir!\nIt's more than I deserve!
 @157
 {01}C1{00}!\n
 @158
-Is {01}C1{00} here?
+{01}C1{00}, are you here?
 @158.1
-Is {01}C1{00} here!\n
+{01}C1{00}! Are you here?\n
 @159
 What is it?\n
 @159.1
@@ -1107,45 +1107,45 @@ You refuse?
 @177.1
 ...You refuse.
 @178
-Yes, send someone better suited\nto be {01}C*; than me.
+Hm, you'd better send someone better suited\nto be {01}C*; than me.
 @178.1
-Yes, there must be someone\nbetter suited to be {01}C*;\nthan a novice like me...
+Forgive me, but there must be someone\nbetter suited to be {01}C*;\nthan a novice like me...
 @179
-...Is that so.\nIf {01}C1{00} says so,\nit can't be helped.
+...Is that so.\nIf you say so,\nit can't be helped.
 @179.1
 What did you say!?\nHmph, enough, withdraw!
 @181
 Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand rule the lands around it.
 @181.1
-Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand rule the lands around it!
+Then I order you once more:\nbecome {01}C*; of {02}{15}e\nand rule the lands around it!
 @182
 Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand guard the village!
 @182.1
-Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand guard the village!
+Then I order you once more:\nbecome {01}C*; of {02}{15}e\nand guard the village!
 @183
 Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand guard the fort!
 @183.1
-Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand guard the fort!
+Then I order you once more:\nbecome {01}C*; of {02}{15}e\nand guard the fort!
 @184
 Then, {01}C1{00}, I ask you\nto become {01}C*; of {02}{15}e\nand run the branch.
 @184.1
-Then I order {01}C1{00} once more:\nbecome {01}C*; of {02}{15}e\nand run the branch.
+Then I order you once more:\nbecome {01}C*; of {02}{15}e\nand run the branch.
 @185
 Right, I'm sorry,\nbut I'm not very keen.\nMay I decline this time?
 @185.1
-Th-this is...\nfar too great an honour for me...\nI humbly beg your pardon.
+Th-this is...\nfar too great an honour for me...\nI must humbly decline.
 @187
-Starting with {01}C1{00},\nI promote these people.\nKeep working for me.
+{01}C1{00}, I promote you\nand these others.\nKeep working for me.
 @187.1
 I recognise these people's work\nand promote each of them.\nKeep working for me.
 @188
-I promote {01}C1{00} to {02}yd.\nKeep working for me.
+{01}C1{00}, I promote you to {02}yd.\nKeep working for me.
 @188.1
-I recognise {01}C1{00}'s work\nand promote you to {02}yd.\nKeep working for me.
+{01}C1{00}, I recognise your work\nand promote you to {02}yd.\nKeep working for me.
 @189
 I'm grateful.\nI'll keep working for you.
 @189.1
-Yes, sir, I'm most grateful.\nI'll show you even greater work.
+Thank you, sir! I'm most grateful.\nI'll show you even greater work.
 @190
 Now, I would normally give missions, but\nword has come that the {02}{0B}e army\nis nearing our {02}{15}e.\nSo please go home\nand wait until the battle begins.\nThis council ends here.
 @190.1
@@ -1215,7 +1215,7 @@ Hm.\nI'll trust your divination.\nWe call off the aid.
 @203.1
 Hm.\nI'll trust your divination.\nThe aid is off.
 @203.2
-Hm.\nI'll trust {01}C1{00}'s divination.\nThe aid is off.
+Hm.\nI'll trust your divination.\nThe aid is off.
 @204
 But my divination\ncame out good.\nThere's nothing to worry about.
 @204.1
@@ -1227,9 +1227,9 @@ Now, about what comes next.\n{02}{0C}e, which rules our house,\nhas ordered us t
 @206.*
 bug
 @207
-Now, about what comes next.\nAs you know,\nour house's final goal is {02}yd.
+Now, about what comes next.\nAs you know,\nour house's final goal is "{02}yd".
 @207.1
-Now, about what comes next.\nAs you know,\nour house's final goal is {02}yd.
+Now, about what comes next.\nAs you know,\nour house's final goal is "{02}yd".
 @208
 This month, to develop our lands,\nI want to carry out {02}yd.
 @209
@@ -1287,9 +1287,9 @@ In my view,\nshouldn't our house make "{02}yd"\nits final goal from now on?
 @228
 Hm... "{02}yd", is it...
 @229
-...I see, understood.\n{01}C1{00}'s view makes sense.\nFrom now on our house will aim for "{02}yd".
+...I see, understood.\n{01}C1{00}, your view makes sense.\nFrom now on our house will aim for "{02}yd".
 @229.1
-...Right, understood.\n{01}C1{00}'s view makes sense.\nFrom next month our house aims for "{02}yd".
+...Right, understood.\n{01}C1{00}, your view makes sense.\nFrom next month our house aims for "{02}yd".
 @230
 Oh, you'll take my advice?\nI'm grateful.
 @230.1
@@ -1307,17 +1307,17 @@ Right.
 @234.1
 Yes, sir!
 @235
-...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I think it's too soon.
+...{01}C1{00}, your view certainly\nhas points worth hearing,\nbut I think it's too soon.
 @235.1
-...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I think it's too soon.
+...{01}C1{00}, your view certainly\nhas points worth hearing,\nbut I think it's too soon.
 @236
 ...Is that so.
 @237
-{01}C8{00}, that's the best course.\n{01}C1{00}, hold back too.
+That is the best course.\n{01}C1{00}, hold back too.
 @237.1
-{01}C8{00}, that's the best course.\n{01}C1{00}!\nDon't overstep yourself!
+That is the best course.\n{01}C1{00}!\nDon't overstep yourself!
 @238
-{01}C8{00}, that's the best course.\n{01}C1{00}, please hold back.
+That is the best course.\n{01}C1{00}, please hold back.
 @239
 {01}C1{00}...
 @240
@@ -1335,27 +1335,27 @@ Yes, sir!
 @247
 Hm... {02}{15}e instead, eh...
 @248
-...I see, understood.\n{01}C1{00}'s view makes sense.\nThis time we'll carry out "{02}yd".
+...I see, understood.\n{01}C1{00}, your view makes sense.\nThis time we'll carry out "{02}yd".
 @248.1
-...Right, understood.\n{01}C1{00}'s view makes sense.\nThis time we carry out "{02}yd".
+...Right, understood.\n{01}C1{00}, your view makes sense.\nThis time we carry out "{02}yd".
 @249
-...I see, understood.\n{01}C1{00}'s view makes sense.\nThe target will be {02}{15}e.
+...I see, understood.\n{01}C1{00}, your view makes sense.\nThe target will be {02}{15}e.
 @249.1
-...Right, understood.\n{01}C1{00}'s view makes sense.\nThe target will be {02}{15}e.
+...Right, understood.\n{01}C1{00}, your view makes sense.\nThe target will be {02}{15}e.
 @252
 As expected of {01}C8{00}.\nA splendid idea.
 @253
-...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I'll pass on it this time.
+...{01}C1{00}, your view certainly\nhas points worth hearing,\nbut I'll pass on it this time.
 @253.1
-...{01}C1{00}'s view certainly\nhas points worth hearing,\nbut I'll pass on it this time.
+...{01}C1{00}, your view certainly\nhas points worth hearing,\nbut I'll pass on it this time.
 @257
 We have a non-aggression pact\nwith {02}{0B}e.\nWe can't go to war.
 @257.1
 We have a non-aggression pact with {02}{0B}e.\nWe can't go to war.
 @258
-We seem to have no particular\nreason to attack {02}{0B}e.\nI'll pass on {01}C1{00}'s suggestion.
+We seem to have no particular\nreason to attack {02}{0B}e.\nI'll pass on your suggestion.
 @258.1
-For now we have no particular\nreason to attack {02}{0B}e...\nI'll pass on {01}C1{00}'s suggestion.
+For now we have no particular\nreason to attack {02}{0B}e...\nI'll pass on your suggestion.
 @259
 Nothing?\nThen as I proposed,\nthis month we carry out {02}yd.
 @259.1
@@ -1389,9 +1389,9 @@ A pity I couldn't join the battle...\nI'll train and hone myself instead.
 @265.1
 I leave the home front to you.\nAwait good news.
 @266
-Now, {02}{0C}e recently asked for {02}Qe.\nI ask {01}C1{00} to take this mission.
+Now, {02}{0C}e recently asked for {02}Qe.\nI ask you to take this mission.
 @266.1
-Now, {02}{0C}e recently asked for {02}Qe.\nI entrust this mission to {01}C1{00}.
+Now, {02}{0C}e recently asked for {02}Qe.\nI entrust this mission to you.
 @268
 This mission needs {02}td more people.\nChoose your companions.
 @268.1
@@ -1809,7 +1809,7 @@ Recruit the ronin {02}{03}g\nto our band.
 @279.187
 Get {02}{03}g\nof {02}{03}{EC}\nto defect to our band.
 @279.188
-Take {02}{15}e.
+Please capture {02}{15}e.
 @279.189
 Take {02}{15}e.
 @279.190
@@ -1979,13 +1979,13 @@ That's all the orders.
 @289.1
 The same mission? What a coincidence.\nWell, I know what your work amounts to.\nLeave it to me and go to sleep.
 @289.2
-I doubt {01}C1{00} can\naccomplish that mission...\nNo matter, I won't lose to you!
+I doubt you can\naccomplish that mission...\nNo matter, I won't lose to you!
 @290
 {01}C1{00}!\nI won't lose to you of all people!
 @290.1
 The same mission? What a coincidence.\nThen I'll show you work\nbetter than yours.
 @290.2
-That mission seems beyond\n{01}C1{00}'s ability to me...\nNo, I spoke out of turn.
+To me, that mission seems\nbeyond your ability...\nNo, I spoke out of turn.
 @291
 I've asked {02}{0E}e, who rules {02}yd,\nto make us merchant chief.\n
 @292
@@ -2115,13 +2115,13 @@ You're {02}{02}g,\nretainer of {02}{02}{EC}?
 @332.3
 You're {02}{02}g,\nretainer of {02}{02}{EC}?
 @333
-Oh, if it isn't {01}C1{00}!\n...What, why are you here?
+Oh, {01}C1{00}, it's you!\n...What, why are you here?
 @333.1
 Hm, {01}C1{00}?\n...Why are you here?
 @333.2
 ...You, how did you sneak in?
 @333.3
-Oh, isn't it {01}C1{00}?\n...Why are you here?
+Oh, {01}C1{00}, is that you?\n...Why are you here?
 @333.4
 Oh, {01}C1{00}...\nwhy are you here?
 @333.5
@@ -2255,7 +2255,7 @@ Right, received.
 @353
 Then if you need anything else,\nplease ask {02}{01}{EC}.\nThank you for today.
 @354
-{01}C>{00},\nit's time to repay the loan, please.
+It's time to repay the loan,\nif you please.
 @355
 ...I say, {01}C>{00},\nhere's a proposal: would you knock\nthis loan down to about {02}p{C8}?
 @356
@@ -2305,7 +2305,7 @@ Wait!
 @376
 A mere tradesman, know your place!
 @377
-There's no point staying\nin a place like this.
+We mustn't linger\nin a place like this.
 @378
 Curse you, wait!
 @379
@@ -2373,7 +2373,7 @@ Hahaha, I win.\nI'll take this {02}3g for {02}o{C8}.\nI'll send the money later 
 @400
 ...A promise is a promise; it can't be helped.\nThank you\nfor your purchase.
 @401
-That was a good buy.\n{02}{02}{EC}, I count on you from now on.
+That was a good buy.\n{02}{02}{EC}, I'm counting on you from now on.
 @402
 A draw...\n{02}{02}{EC}, what does this {02}3g\ngo for in town?
 @403
@@ -2389,7 +2389,7 @@ Oho, you'd entrust us with funds?\nAnd how much would we get?
 @408
 Today I've brought {02}o{C8} from our house.\nIt's just a small token,\nso please accept it.
 @409
-Oh, well, well! {01}C2<Give my best\nto your master!
+Oh, how kind! {01}C2<Give my best\nto your master!
 @409.1
 Oh, thank you. {01}C2<Give my regards\nto your master.
 @409.2

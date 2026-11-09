@@ -105,7 +105,7 @@ Decline
 @3.30
 I understand. From now on, I will serve the \#11C1 house.
 @3.31
-Is that so! Known as "the Lone Spear of Kozuke", first of the "Sixteen Spears of the \#1218", with you I have the strength of a hundred!
+Is that so! Known as "the Lone Spear of Kozuke", first of the "Sixteen Spears of the \#1218"... with you on my side, it is like having a hundred men!
 @3.32
 You are too kind.
 @3.33
@@ -153,7 +153,7 @@ Grave news! \#01C1 of Kai has marched to invade Kozuke!
 @4.13
 What!? \#09C1 has marched on Kozuke!
 @4.14
-Yes! His army is about 20,000! It seems he means to besiege this castle with a great force!
+He has! His army is about 20,000! It seems he means to besiege this castle with a great force!
 @4.15
 Ugh, a huge army... \%027F0, what will you do?
 @4.16

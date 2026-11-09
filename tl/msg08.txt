@@ -1,23 +1,23 @@
 @0
-{01}C1{00}, good timing.\nThe rice here was so cheap\nthat {01}C{0E}{00} bought it up.\nThanks to that, the price went up.\nIf you still want it, buy it here.\nOops, no reason to stay. Farewell.
+{01}C1{00}, good timing.\nThe rice here was so cheap\nthat {01}C{0E}{00} bought it up.\nThanks to that, the price went up.\nIf you still want it, buy it here.\nAh, but I mustn't linger. Farewell.
 @0.1
-Oh, {01}C1{00}, buying rice too?\nThe rice here was so cheap\nthat {01}C{0E}{00} bought lots of it.\nThanks to that, the price went up.\nIf you still want it, buy it here.\nWell, no reason to stay. Bye now~
+Oh, {01}C1{00}, buying rice too?\nThe rice here was so cheap\nthat {01}C{0E}{00} bought lots of it.\nThanks to that, the price went up.\nIf you still want it, buy it here.\nWell, I mustn't linger. Bye now~
 @1
-{01}C1{00}, you're late.\nThey said they'd pay well for rice,\nso {01}C{0E}{00} sold first.\nThanks to that, the price collapsed.\nIf you still want to, sell it here.\nOops, no reason to stay. Farewell.
+{01}C1{00}, you're late.\nThey said they'd pay well for rice,\nso {01}C{0E}{00} sold first.\nThanks to that, the price collapsed.\nIf you still want to, sell it here.\nAh, but I mustn't linger. Farewell.
 @1.1
-{01}C1{00}, a bit late, it seems.\nThey said they'd pay well for rice,\nso I sold mine first.\nThanks to that, the price collapsed.\nIf you still want to, sell it here.\nWell, no reason to stay. Bye now~
+{01}C1{00}, a bit late, it seems.\nThey said they'd pay well for rice,\nso I sold mine first.\nThanks to that, the price collapsed.\nIf you still want to, sell it here.\nWell, I mustn't linger. Bye now~
 @2
 You haggled and now won't buy?\nWe don't welcome window-shoppers.\nPlease leave.
 @3
 You haggled and now won't sell?\nWe don't welcome time-wasters.\nPlease leave.
 @4
-Heh, {01}C1{00}, you're late.\nI bought up all the horses here.\nOops, no reason to stay. Farewell.
+Heh, {01}C1{00}, you're late.\nI bought up all the horses here.\nAh, but I mustn't linger. Farewell.
 @4.1
-Oh, {01}C1{00}, a bit late, it seems.\nI bought every last horse here.\nWell, no reason to stay. Bye now~
+Oh, {01}C1{00}, a bit late, it seems.\nI bought every last horse here.\nWell, I mustn't linger. Bye now~
 @5
-What, wandering around\na place like this...\n\nThis is where one learns to ride.\nIf you want to play horsey,\ngo play with the children.\nOops, no reason to stay. Farewell.
+What, wandering around\na place like this...\n\nThis is where one learns to ride.\nIf you want to play horsey,\ngo play with the children.\nAh, but I mustn't linger. Farewell.
 @5.1
-My my, what are you doing\nin a place like this?\n\nWith a face like a horse,\ndid you come to chat with the horses?\nTee hee...\nWell, no reason to stay. Bye now~
+My my, what are you doing\nin a place like this?\n\nWith a face like a horse,\ndid you come to chat with the horses?\nTee hee...\nWell, I mustn't linger. Bye now~
 @6
 Heh heh, sorry to interrupt, {01}CG{1F}\nI've got a sweet deal for you.\nWon't you hear me out?
 @7
@@ -85,13 +85,13 @@ You look like you can fight.\nDraw! Have at you!
 @27.1
 You're one of {02}{02}{EC}!\nDraw, and have at you!!
 @28
-Oho, Lord {02}{02}g......\nWell, well, a pleasure!\nI am {02}{01}g.
+Oho, Lord {02}{02}g......\nWhy, a pleasure to meet you!\nI am {02}{01}g.
 @28.1
 Oho...... a ronin, is it?\nA pleasure.
 @28.2
 Oh, forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nI am {02}{01}g.
 @28.3
-Oho, so it's {01}C1{00}.\nI look forward to knowing you.
+Oho, so it's you, {01}C1{00}.\nI look forward to knowing you.
 @28.4
 Oho, so you are {02}{02}g.\nWhat a surprising place to meet.
 @28.5
@@ -99,9 +99,9 @@ Oho, so you are {02}{02}g.\nWhat a surprising place to meet.
 @28.6
 {01}C1{00}... of {02}{02}{EC}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
 @28.7
-Oho, so it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+Oho, so it's you, {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
 @28.8
-Ah, so it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+Ah, so it's you, {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
 @29
 Lord {02}{02}g?\nHow do you do?\nI am {02}{01}g.
 @29.1
@@ -109,17 +109,17 @@ Oh, a ronin?\nHow do you do?
 @29.2
 Oh! Forgive my rudeness.\n{01}C1{00}, a pleasure to meet you.\nI am {02}{01}g.
 @29.3
-Ah, it's {01}C1{00}.\nPlease remember me from now on.
+Ah, it's you, {01}C1{00}.\nPlease remember me from now on.
 @29.4
 My, you are {02}{02}g?\nWhat a surprising place to meet.
 @29.5
-{01}C1{00} of {02}{02}{EC}?\nForgive me, I don't know you...\nI am {02}{01}g of {02}{01}{EC}.
+You're with {02}{02}{EC}?\nForgive me, I don't know you...\nI am {02}{01}g of {02}{01}{EC}.
 @29.6
-{01}C1{00} of {02}{02}{EC}?\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+You're with {02}{02}{EC}?\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
 @29.7
-Oh, it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+Oh, it's you, {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
 @29.8
-Oh, it's {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
+Oh, it's you, {01}C1{00}.\nForgive my rudeness.\nI am {02}{01}g of {02}{01}{EC}.
 @30
 You've got some nerve, wretch!!\nI'll cut you down!!
 @30.1
@@ -133,13 +133,13 @@ What do you want?\nI have nothing to say to you.\nFarewell.
 @31.3
 What do you want!\nI don't even want to see your face.\nFarewell!
 @31.4
-Oh, it's {01}C1{00}.
+Oh, it's you, {01}C1{00}.
 @31.5
 Well, {01}C1{00}.\nWhat a coincidence.
 @31.6
-Isn't that {01}C1{00}?\nWhat a coincidence.
+Why, {01}C1{00}!\nWhat a coincidence.
 @31.7
-Oh, isn't that {01}C1{00}?\nWhat a coincidence.
+Oh! Why, {01}C1{00}!\nWhat a coincidence.
 @32
 I have nothing to say to you.\nExcuse me.
 @32.1
@@ -153,9 +153,9 @@ Oh, {01}C1{00}.
 @32.5
 Well, {01}C1{00}.\nWhat a coincidence.
 @32.6
-Isn't that {01}C1{00}?\nWhat a coincidence.
+Why, {01}C1{00}!\nWhat a coincidence.
 @32.7
-My, isn't that {01}C1{00}?\nTo meet in a place like this!
+My, {01}C1{00}!\nTo meet you in a place like this!
 @33
 I seem to have had a bit too much. Excuse me.
 @33.1
@@ -199,13 +199,13 @@ I see......\nThen when you rise in the world,\ndo call on me.
 @43.1
 Too bad...\nThen when you rise in the world,\nplease call on me.
 @44
-(Shall I take {01}C1{00}\n into my service?)
+(Shall I take them\n into my service?)
 @44.1
-(Shall I take {01}C1{00}\n into my service?)
+(Shall I take them\n into my service?)
 @45
-What! Really?!\nWith {01}C1{00} on board,\nwe're a hundred strong!
+What! Really?!\nWith you on board,\nit's like having a hundred men!
 @45.1
-Eh, really?!\nWith {01}C1{00} on board,\nwe're a hundred strong!
+Eh, really?!\nWith you on board,\nit's like having a hundred men!
 @46
 I'm deeply grateful!\nI have preparations to make,\nso I'll take my leave.
 @46.1
@@ -233,7 +233,7 @@ Mmm, my head's spinning......\nMaybe I drank a bit much.\nI'll take my leave for
 @52
 Today's sake is on me.\nNo need to hold back.\nCome, let's drink.
 @52.1
-Please let {01}C{0E}{00} pay for today's sake.\nNo need to hold back.\nCome, another cup.
+Please let me pay for today's sake.\nNo need to hold back.\nCome, another cup.
 @53
 (Shall I treat them to some sake?)
 @53.1
@@ -303,11 +303,11 @@ Well, sorry, but\n{01}C{0E}{00} will be going.
 @63.1
 Sorry,\nI'll be going now.
 @64
-Hey, customers!\nIf you want to fight, do it outside!!\nDon't get in the way of business!
+Hey, you there!\nIf you want to fight, do it outside!!\nDon't get in the way of business!
 @65
-Hm? {01}C1{00}...\nNeglecting your mission to idle over sake...\n\nOops, no reason to stay. Farewell.
+Hm? {01}C1{00}...\nNeglecting your mission to idle over sake...\n\nAh, but I mustn't linger. Farewell.
 @65.1
-Oh? {01}C1{00}...\nNeglecting your mission to idle over sake...\n\nWell, no reason to stay. Bye now~
+Oh? {01}C1{00}...\nNeglecting your mission to idle over sake...\n\nWell, I mustn't linger. Bye now~
 @66
 You're working as a bodyguard, aren't you?\nI can't introduce another bodyguard\nto someone who is one.
 @67
@@ -515,7 +515,7 @@ Lately the drunken brawls never stop.\nThey break the shop's things... business 
 @141.1
 Lately there have been strange customers...\nThey brawl in the shop... skip out on the bill...\nI'm at my wits' end.\nPlease! Use that strength of yours\nto protect this shop.
 @142
-Then for the next {02}od days\nplease sleep here.
+Then for the next {02}od days\nyou'll be lodging here.
 @143
 Lately there are so many bandits after cargo.\nPlease escort me to {02}{15}e.
 @260
@@ -651,11 +651,11 @@ Today makes the {02}od days we agreed.\nYou were a big help.\nHere, {02}p{C8}.
 @178.1
 (...Mmm, I'm getting nothing.\n If I ask more they'll get suspicious...\n Oh well, I'll give up.)
 @179
-Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
+Oh, could you be...\nthe {01}C{06} \_one everyone talks about?
 @179.1
-Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
+Oh, could you be...\nthe {01}C{06} \_one everyone talks about?
 @179.2
-Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
+Oh, could you be...\nthe {01}C{06} \_one everyone talks about?
 @180
 {01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nPlease remember me.
 @180.1
@@ -663,7 +663,7 @@ Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?
 @180.2
 {01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nPlease remember me.
 @181
-Oh, that face, could it be...\nthe {01}C{06} \_{01}C1{00}?\nWelcome! Drinks are half price for you.
+Oh, that face, could it be...\nthe {01}C{06} \_one everyone talks about?\nWelcome! Drinks are half price for you.
 @182
 Rumor has it a person called {01}C>{00}\nbears you a great grudge...\nBe careful when you're out.
 @183
@@ -731,15 +731,15 @@ Little {01}C,{00}
 @196
 It's {02}o{C8} a night.\nWith the money you have, you can\nstay up to {02}pd days. How long?
 @197
-Oh, could you be...\nthe {01}C{06} \_{01}C1{00}?\nWelcome! Half price for you.
+Oh, could you be...\nthe {01}C{06} \_one everyone talks about?\nWelcome! Half price for you.
 @198
 far-famed
 @198.1
 renowned
 @199
-What, wandering around a place like this...\n\n\nGoing to learn arithmetic?\nA fine idea.\nYou should at least count your fingers.\nOops, no reason to stay. Farewell.
+What, wandering around a place like this...\n\n\nGoing to learn arithmetic?\nA fine idea.\nYou should at least count your fingers.\nAh, but I mustn't linger. Farewell.
 @199.1
-My my, what are you doing\nin a place like this?\n\nGoing to learn arithmetic?\nA fine idea.\nIt's embarrassing if you can't count your fingers.\nWell, no reason to stay. Bye now~
+My my, what are you doing\nin a place like this?\n\nGoing to learn arithmetic?\nA fine idea.\nIt's embarrassing if you can't count your fingers.\nWell, I mustn't linger. Bye now~
 @200
 (Our house already has many purveyors...\n To deal with {02}{03}{EC},\n we'd have to drop one of them...)
 @200.1
@@ -813,11 +813,11 @@ Then I'll tell the shop's people\nat once.\nPlease leave for today.
 @213.2
 {01}C1{00}...\nFrom today {02}{02}{EC} is no longer\npurveyor to our {02}{01}{EC}. Thank you for everything.
 @214
-What! Are we of no use...\nIf it's {01}C1{00}'s will, it can't be helped...
+What! Are we of no use...\nIf that's your will, it can't be helped...
 @214.1
-What! Are we of no use to you...\nIf it's {01}C1{00}'s wish, it can't be helped.
+What! Are we of no use to you...\nIf that's your wish, it can't be helped.
 @214.2
-What! Are we of no use to you...\nIf it's {01}C1{00}'s wish, it can't be helped.
+What! Are we of no use to you...\nIf that's your wish, it can't be helped.
 @215
 {02}{0B}e was removed as purveyor\nto {02}{0C}e.
 @216
@@ -901,11 +901,11 @@ Oh dear, is that so... then\nlet's forget this talk.\nPlease leave.
 @234.2
 Oh, is that so... then\nlet's forget this talk.\nPlease leave.
 @235
-Then from this month\nwe'll ask you to escort.\nI'm counting on you.\nThat's all for today.
+Then from this month on\nwe'll ask you to escort us.\nI look forward to working with you.\nThat's all for today.
 @235.1
-Then from this month\nwe'll ask you to escort.\nWe're counting on you.\nThat's all for today; please go.
+Then from this month on\nwe'll ask you to escort us.\nWe look forward to working with you.\nThat's all for today; please go.
 @235.2
-Then from this month\nwe'll ask you to escort.\nWe're counting on you.\nThat's all for today; please go.
+Then from this month on\nwe'll ask you to escort us.\nWe look forward to working with you.\nThat's all for today; please go.
 @236
 Welcome.
 @237
@@ -935,13 +935,13 @@ To be called a great doctor\nyou need, besides great skill,\na spirit of compass
 @237.12
 Even with a clinic at home\nyou can still move or take service.\nUnlike a dojo, no need to close it.
 @238
-What, wandering around a place like this...\n\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for you... Oops, no reason to stay. Farewell.
+What, wandering around a place like this...\n\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nNo medicine cures a fool... Ah, but I mustn't linger. Farewell.
 @238.1
 My my, what are you doing\nin a place like this?\n\nYou can learn to tell rabbit droppings\nfrom pills somewhere else.\nThere's no cure for you...\n...Oh, was that a bit vulgar?\nWell, bye now~
 @239
-What, wandering around a place like this...\n\n\nGoing to learn etiquette?\nHaha, how amusing.\nLike reciting sutras to a horse.\nOops, no reason to stay. Farewell.
+What, wandering around a place like this...\n\n\nGoing to learn etiquette?\nHaha, how amusing.\nIt'd go in one ear and out the other.\nAh, but I mustn't linger. Farewell.
 @239.1
-My my, what are you doing\nin a place like this?\n\nGoing to learn etiquette?\nUfufu...\nLike reciting sutras to a horse.\nWell, no reason to stay. Bye now~
+My my, what are you doing\nin a place like this?\n\nGoing to learn etiquette?\nUfufu...\nIt'd go in one ear and out the other.\nWell, I mustn't linger. Bye now~
 @240
 I'm glad of the thought, but\nyou can't make an offering with that money.
 @240.1
@@ -959,9 +959,9 @@ Ah, a worthy deed.\nThe Buddha will be grateful too.
 @243.1
 Thank you very much.\nThe Buddha will be grateful too.
 @244
-You want a letter of introduction\nfrom {01}C{0E}{00} to make peace with {02}{0B}e?
+You want a letter from me\nto help make peace with {02}{0B}e?
 @244.1
-You want a letter of introduction\nfrom {01}C{0E}{00} to make peace with {02}{0B}e?
+You want a letter from me\nto help make peace with {02}{0B}e?
 @245
 Even if I wrote one,\nI don't know you well.\nSorry, I can't help.
 @245.1
@@ -985,11 +985,11 @@ You come here often...\nAlways treasure that faith.
 @250.1
 You come here often.\nAlways treasure that faith.
 @251
-What, wandering around a place like this...\nHey, this is a place\nfor people who enjoy tea.\nHowever hard up you are,\ndon't come selling rice bowls.\nOops, no reason to stay. Farewell.
+What, wandering around a place like this...\nHey, this is a place\nfor people who enjoy tea.\nHowever hard up you are,\ndon't come selling rice bowls.\nAh, but I mustn't linger. Farewell.
 @251.1
-Oh, wandering around a place like this...\nThis is a place for people who enjoy tea.\n\nHowever hard up you are,\nselling rice bowls here is a bit much...\nOops, no reason to stay. Farewell.
+Oh, wandering around a place like this...\nThis is a place for people who enjoy tea.\n\nHowever hard up you are,\nselling rice bowls here is a bit much...\nAh, but I mustn't linger. Farewell.
 @251.2
-What, wandering around a place like this...\nHey, this is a place\nfor people who enjoy tea.\nHowever hard up you are,\ndon't come selling rice bowls.\nOops, no reason to stay. Farewell.
+What, wandering around a place like this...\nHey, this is a place\nfor people who enjoy tea.\nHowever hard up you are,\ndon't come selling rice bowls.\nAh, but I mustn't linger. Farewell.
 @252
 You haggled and now won't buy?\nI've no time for games.\nGet out!
 @252.1
@@ -999,11 +999,11 @@ You haggled and now won't sell?\nI've no time for games.\nGet out!
 @253.1
 You haggled and now won't sell?\nWe don't welcome time-wasters.\nPlease leave.
 @254
-Thanks for your custom as always...\nI'm counting on you.
+Thanks for your custom as always...\nDo come again.
 @254.1
 Thank you for your custom as always.\nWe look forward to serving you.
 @255
-Thanks for your custom as always...\nI'm counting on you.
+Thanks for your custom as always...\nDo come again.
 @255.1
 Thank you for your custom as always.\nWe look forward to serving you.
 @256
@@ -1125,11 +1125,11 @@ Gahaha, I was joking, of course.\nBe grateful you still have your life.\n\nTch..
 @292.1
 Gahaha, did you think I'd really do it?\nBe grateful you still\nhave your life.\nStrange, I aimed between the eyes... must be poorly made...\nAh... talking to myself, never mind.
 @293
-Now, about your pay...\nFor this, {02}o{C8} is about right.\nWell, I'm counting on you again.
+Now, about your pay...\nFor this, {02}o{C8} is about right.\nWell, come back for more work.
 @294
 Now, about your pay...\nSorry, but like this I can't pay a penny.\nWell, ask again if you feel like it.
 @295
-Here's your pay.\nIt's pocket money, but take {02}o{C8}.\nYou were a help; I'm counting on you again.
+Here's your pay.\nIt's pocket money, but take {02}o{C8}.\nYou were a big help; hope to work with you again.
 @296
 Oh, I almost forgot something important.\nYou've really got used to smithing.\nAs a special favor, I'll teach you {02}=e.
 @297
@@ -1183,7 +1183,7 @@ Stop the apprentice work?
 @317
 You can't go on in that condition.\nI don't need dead weight.\nCome back when you're well.
 @318
-Well then, it's pocket money,\nbut here's {02}o{C8} for the work.\nI'm counting on you again.
+Well then, it's pocket money,\nbut here's {02}o{C8} for the work.\nHope to work with you again.
 @319
 Will you take on {02}yd?
 @320
@@ -1193,9 +1193,9 @@ sword
 @321.1
 gun
 @323
-What, wandering around a place like this...\n\n\nGoing to learn to handle guns?\nHow alarming... give you a gun\nand our own side's lives are in danger.\nOops, no reason to stay. Farewell.
+What, wandering around a place like this...\n\n\nGoing to learn to handle guns?\nHow alarming... give you a gun\nand our own side's lives are in danger.\nAh, but I mustn't linger. Farewell.
 @323.1
-My my, what are you doing\nin a place like this?\n\nGoing to learn to handle guns?\nHow alarming... give you a gun\nand our own side's lives are in danger...\nWell, no reason to stay. Bye now~
+My my, what are you doing\nin a place like this?\n\nGoing to learn to handle guns?\nHow alarming... give you a gun\nand our own side's lives are in danger...\nWell, I mustn't linger. Bye now~
 @324
 With this {02}=e,\nit should help with\nopening new fields.
 @325
@@ -1281,15 +1281,15 @@ Very well.\nI shall ask His Majesty for an edict\nof peace with {02}{0B}e.
 @355
 An imperial order was obtained for\n{02}{0B}e and {02}{0C}e to make peace.
 @356
-{02}{01}{EC}'s contribution was\nrecognized very slightly.
+{02}{01}{EC}'s contribution earned\nonly the slightest recognition.
 @356.1
-{02}{01}{EC}'s contribution was\nrecognized slightly.
+{02}{01}{EC}'s contribution won\na little recognition.
 @356.2
-{02}{01}{EC}'s contribution was\nrecognized somewhat.
+{02}{01}{EC}'s contribution won\nsome recognition.
 @356.3
-{02}{01}{EC}'s contribution was\nwell recognized.
+{02}{01}{EC}'s contribution won\nfair recognition.
 @356.4
-{02}{01}{EC}'s contribution was\ngreatly recognized.
+{02}{01}{EC}'s contribution won\ngreat recognition.
 @357
 Good of you to come.\nBut there's nothing left to teach.\nNow put your skills to work.
 @357.1
@@ -1411,9 +1411,9 @@ I can't steal techniques in this state...\nI must get my health back first.
 @378.1
 I can't steal techniques in this state...\nI must get my health back first.
 @379
-The {01}C>{00} who runs this fort\nis in {02}{15}e.\nGo there.
+You'll find {01}C>{00}, who runs\nthis fort, in {02}{15}e.\nGo there.
 @380
-The {01}C>{00} who runs this fort\nis away.\nWhile I keep watch, I can't hear such talk.
+Right now {01}C>{00}, who runs this fort,\nis away.\nWhile I keep watch, I can't hear such talk.
 @381
 What is it? What's all the noise?
 @381.1
@@ -1429,7 +1429,7 @@ A pleasure to meet you.\nI am {02}{01}g.
 @384.1
 ...So, {01}C1{00},\nwhat business brings you?
 @385
-Oh, well, well, {01}C1{00}.\nBuilding a ship, is it?\nPick the kind of ship to build.
+Oh, welcome, {01}C1{00}!\nBuilding a ship, is it?\nPick the kind of ship to build.
 @386
 You've received a mission for {02}yd?
 @386.1

@@ -15,7 +15,7 @@ In any case, thanks to you, the \#1205 and \#11FA houses are now allies.
 @0.9
 That is good to hear.
 @0.10
-Yes! You are the bond that ties the \#1205 and \#11FA houses together!
+Indeed! You are the bond that ties the \#1205 and \#11FA houses together!
 @0.12
 Stay by my side always.
 @0.13
@@ -29,11 +29,11 @@ And \#0AFC grew into a fine general of the \#1205 house...
 @1.0
 Lord \#07FE, I have news!
 @1.2
-Yes! The old lord has sent word to you, Lord \#07FE.
+Sir! The old lord has sent word to you, Lord \#07FE.
 @1.3
 What kind of word?
 @1.4
-Yes! Well... it concerns an adoption...
+Well... it concerns an adoption...
 @1.5
 What?! I am already the old lord's adopted son!
 @1.6

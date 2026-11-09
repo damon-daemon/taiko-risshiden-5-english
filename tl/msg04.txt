@@ -232,9 +232,9 @@ meet
 @73.1
 meet
 @74
-Well, well
+Why, hello
 @75
-Oh, it's {01}C1{00}...\nToday I'd like a match with you.\nDraw your sword! Come on!
+Oho, it's you, {01}C1{00}...\nToday I'd like a match with you.\nDraw your sword! Come on!
 @75.1
 ...You!\nWhat luck to meet you here!\nI'll cut you down!!
 @75.2
@@ -244,7 +244,7 @@ Pleased to meet you.\nI am {02}{01}g.
 @75.4
 Hm? You called me?\nI'm {02}{01}g the smith,\nare you sure you've got the right man?
 @75.5
-Well, well.\nI am {02}{01}g.
+How do you do.\nI am {02}{01}g.
 @76
 What do you want!\nI don't even want to see your face.\nGet lost!
 @76.1
@@ -448,7 +448,7 @@ Oh,\nyou'll sell me something?
 @105.2
 Oho,\nyou'll sell me something?
 @106
-Oho! Well, well...\nAnd the price?
+Oho! Now this is something...\nAnd the price?
 @106.1
 Oho, I see...\nAnd the price?
 @106.2
@@ -622,7 +622,7 @@ Hmm... please,\nwon't you let me pass for this...?
 @125.1
 Please...\nwon't you let me pass for this?
 @126
-Well, well, Master {02}{02}e!\nActually, I have a fine piece\nI'd very much like you to buy.
+Why, Master {02}{02}e! Welcome!\nI have a fine piece\nI'd very much like you to buy.
 @127
 How about it!?\nI've only just got it in,\nisn't it splendid?\nThis must be fate.\n{01}C1{00}, I really\nwish you would buy it.
 @128
@@ -1166,17 +1166,17 @@ Well, that's how it goes.\n{02}{15}e's guard is full of holes.\nTake what we can
 @281.2
 ......\n......\nIt's no good, the boss is down!
 @282
-Huff, huff...\nNo wonder {02}{15}e is called impregnable...\nAnyway, this mission's failed. Get out.
+Huff, huff...\nNo wonder {02}{15}e is called impregnable...\nAnyway, the mission's failed. Time to scram.
 @282.1
-Huff, huff...\nNo wonder {02}{15}e is known for tight guard.\nAnyway, this mission's failed. Get out.
+Huff, huff...\nNo wonder {02}{15}e is known for its security.\nAnyway, the mission's failed. Time to scram.
 @282.2
-Tch, that's not what we were told...\n{02}{15}e's guard was supposed to be full of holes...\nAnyway, this mission's failed. Get out.
+Tch, that's not what we were told...\n{02}{15}e's guard was supposed to be full of holes...\nAnyway, the mission's failed. Time to scram.
 @282.3
-Huff, huff...\nNo wonder {02}{15}e is called impregnable...\nAnyway, this mission's failed. Get out.
+Huff, huff...\nNo wonder {02}{15}e is called impregnable...\nAnyway, the mission's failed. Time to scram.
 @282.4
-Huff, huff...\nNo wonder {02}{15}e is known for tight guard.\nAnyway, this mission's failed. Get out.
+Huff, huff...\nNo wonder {02}{15}e is known for its security.\nAnyway, the mission's failed. Time to scram.
 @282.5
-Tch, that's not what we were told...\n{02}{15}e's guard was supposed to be full of holes...\nAnyway, this mission's failed. Get out.
+Tch, that's not what we were told...\n{02}{15}e's guard was supposed to be full of holes...\nAnyway, the mission's failed. Time to scram.
 @283
 ...Huff, huff\n...Hah!\n...Yah!
 @283.1
@@ -1390,7 +1390,7 @@ I must decide on a name\nto replace {02}{02}{EC}...
 @350
 Shall we call ourselves {02}yd{02}zd...?\n
 @351
-Yes, from today our band\nwill be known as {02}yd{02}zd.
+All right, from today our band\nwill be known as {02}yd{02}zd.
 @352
 The following {01}C{96}{01} and all their men\nhave declared they will rise\nwith {02}{01}g and follow.
 @353
@@ -1580,7 +1580,7 @@ Closed the shop in {02}{02}{81}\nand moved the base to {02}{15}e.
 @411.2
 {02}{15}e in {02}yd\nalready has {01}C{D8}{10}'s branch.\nChange the branch to {02}{15}e?
 @412
-Closed the {02}{15}e branch\nand opened one in {02}{16}e.\nThe branch manager is {01}C1{00}.
+Closed the {02}{15}e branch\nand opened one in {02}{16}e.\nYou will be its branch manager.
 @413
 Closing a branch moves all its money\nand gun stock to the main shop.\nWhich branch will you close?
 @414
@@ -1614,19 +1614,19 @@ Understood.\nThe trade route between {02}{15}e\nand {02}{16}e is abolished.
 @426
 Who shall I dismiss?
 @427
-{01}C1{00} was lent to me as {01}C{99}{01}\nby {01}C{D8}{10}...\nI should send them back to {01}C{D8}{10}.
+This {01}C{99}{01} was lent to me\nby {01}C{D8}{10}...\nI should send them back to {01}C{D8}{10}.
 @428
-Dismiss {01}C1{00}?\nIf I recommend them to {01}C{D8}{10}, no harm done,\nbut is it really all right?
+Really dismiss them?\nIf I recommend them to {01}C{D8}{10}, no harm done,\nbut is it really all right?
 @429
 dismiss
 @429.1
 banish
 @430
-Dismiss {01}C1{00}?\n
+Really dismiss them?\n
 @431
 {01}C1{00}, what is it?\nYou wish to speak with me alone?
 @432
-Yes, {01}C1{00}...\nAs of today\nI release you from my service.
+Hm. {01}C1{00}...\nAs of today\nI release you from my service.
 @433
 Wh-what did you say?!\nYou {01}CM{11} me?!\nTell me why!
 @434
@@ -1808,13 +1808,13 @@ Lord {02}{03}e gathered the commanders in the castle\nand declared independence 
 @508.1
 Lord {02}{03}g has already gathered his men\nand declared independence!\nTheir treachery is now plain!!
 @509
-...That can't be true?!\nThat {01}C8{00} would betray me...\nI can't believe it.\n...Argh, then there will be no mercy.\nTell all our commanders! Our house will\nstrike down {02}{03}g with all its might!
+...That can't be true?!\nTo think {01}C8{00} would betray me...\nI can't believe it.\n...Argh, then there will be no mercy.\nTell all our commanders! Our house will\nstrike down {02}{03}g with all its might!
 @509.1
-Is it true?!\nThat {01}C8{00} would betray me...\nI can't believe it. Then there will be no mercy...\nTell every commander! Our house will\nstrike down {02}{03}g with all its might!
+Is it true?!\nTo think {01}C8{00} would betray me...\nI can't believe it. Then there will be no mercy...\nTell every commander! Our house will\nstrike down {02}{03}g with all its might!
 @509.2
-...That {01}C8{00}\nwould betray our band... I can't believe it.\nForgetting all we did... no mercy!
+...To think {01}C8{00}\nwould betray our band... I can't believe it.\nForgetting all we did... no mercy!
 @509.3
-...That {01}C8{00}\nwould betray our band... I can't believe it.\nAn ungrateful traitor... no mercy!
+...To think {01}C8{00}\nwould betray our band... I can't believe it.\nAn ungrateful traitor... no mercy!
 @510
 {02}{01}{EC} has made\n{02}{02}{EC} its target.
 @510.1
@@ -1974,9 +1974,9 @@ Really? I didn't see one...\n...A rather unsettling tale.\nLet us continue anoth
 @541.2
 Really? I didn't see one...\n...A rather unsettling tale.\nLet's continue another time.
 @542
-(That was close.\n But {01}C1{00}...\n doesn't seem to have noticed...)
+(That was close.\n Still, it looks like\n they didn't notice...)
 @542.1
-(That was close...\n But {01}C1{00}...\n doesn't seem to have noticed...)
+(That was close...\n Still, it looks like\n they didn't notice...)
 @543
 ...{01}C1{00},\nthis tea seems suspicious...\nYou drink it first!
 @543.1
@@ -2020,7 +2020,7 @@ I owe you no more loyalty.\nHere we part ways.\nPlease leave.
 @550
 From now on, I am\nno longer in your service.\nI'm leaving; begone with you.
 @550.1
-From now on, I take my leave\nof your service.\nI'm leaving; please go.
+As of today, I leave your service.\nI'm vacating this place, so please go.
 @550.2
 From now on, I take my leave\nof your service.\nI'm leaving; please go.
 @551
@@ -2144,9 +2144,9 @@ Ugh... as long as you are here,\nthe future of {02}{01}{EC} is plain.\nI won't g
 @573.2
 ......Gulp.\nMm, delicious...
 @574
-(Huh, nothing seems to be happening.\n After drinking that much...\n Is {01}C1{00} some kind of monster?)
+(Huh, nothing seems to be happening.\n After drinking that much...\n What are you, some kind of monster?)
 @574.1
-(Oh my, nothing seems to be happening.\n After drinking that much...\n Is {01}C1{00} some kind of spirit?)
+(Oh my, nothing seems to be happening.\n After drinking that much...\n What are you, some kind of spirit?)
 @575
 ...What delicious tea.\nLike ascending to heaven...\nI've never had tea like this.
 @575.1
@@ -2170,9 +2170,9 @@ Mmh... my eyes are blurring...\nPerhaps I'm suddenly tired...\nI'm sorry, but pl
 @580.*
 Mmh... my head is heavy...\nPerhaps I'm suddenly tired...\nSorry, but go home.
 @581
-As expected of a tea master\nlike {01}C1{00}, fine tea ware.
+A tea master of your standing\nhas fine tea ware indeed.
 @581.1
-As expected of a tea master\nlike {01}C1{00}, you have fine tea ware.
+As expected of a tea master of your standing,\nyou have fine tea ware.
 @581.2
 As expected of a tea master\nlike you, you have fine tea ware.
 @582

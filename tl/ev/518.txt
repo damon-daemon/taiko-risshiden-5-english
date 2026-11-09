@@ -21,7 +21,7 @@ By rights I should order you to commit seppuku, but for the sake of those who be
 @5.0
 Well, we have reached \41DF.
 @5.1
-Yes. So far the march goes smoothly.
+Good. So far the march goes smoothly.
 @5.2
 However, we hear that \#0167 of \41E0 has sided with \#084B.
 @5.3
@@ -73,11 +73,11 @@ That is true...
 @5.29
 Then why not send someone to keep an eye on \41E0, just in case?
 @5.30
-Yes, let's do that. You there! Go and see what is happening at \41E0.
+Good, let's do that. You there! Go and see what is happening at \41E0.
 @5.32
 I am back.
 @5.33
-Yes. What did you see?
+Good. What did you see?
 @5.34
 Lots of men are out, putting up palisades. It doesn't look at all like they're preparing to hand it over.
 @5.35
@@ -113,7 +113,7 @@ Lord \#07FE! \#004B and Lord \#01FA have fought a great battle at Sekigahara!
 @7.1
 Wh-what?! It's already over?!
 @7.2
-Yes. \#004B was easily beaten, and Lord \#01FA won a great victory!
+It is. \#004B was easily beaten, and Lord \#01FA won a great victory!
 @7.3
 Wh... what have I done... I failed to take \41E0, and on top of that I was late for the decisive battle...
 @7.4
@@ -125,7 +125,7 @@ Whoa, look at them all! Friend and foe alike, so many it's absurd!
 @8.1
 A message from Lord \#09FA: Lord \#09FC is to attack the \#004B unit.
 @8.2
-Yes! Our target is \#004B's head! Everyone, attack!
+Right! Our target is \#004B's head! Everyone, attack!
 @9.1
 After him! Don't let \#084B escape!
 @9.5
@@ -205,7 +205,7 @@ Good, we use that plan. Lift the siege for now! Prepare the plan!
 @11.16
 All is ready.
 @11.17
-Yes. Begin at once.
+Good. Begin at once.
 @11.32
 Oh no! The vanguard have gone in too deep!
 @11.47

@@ -1,7 +1,7 @@
 @0.6
 But \#09FA could not touch the \#11CA clan, which had stayed neutral, and its strength was left intact.
 @4.2
-Yes, sir. And... a letter has arrived from Lord \#004B.
+My lord. And... a letter has arrived from Lord \#004B.
 @4.6
 \%03, please come with me.
 @5.41
@@ -113,11 +113,11 @@ From \%0404B... What could it be?
 @15.6
 This is serious... \%03, what do you think?
 @15.11
-Yes, I have decided! Our house will join \%0404B!
+Right, I have decided! Our house will join \%0404B!
 @15.12
 Oh, a fine decision!
 @15.13
-Yes. I too have been sick of \#09FA's high-handedness.
+Indeed. I too have been sick of \#09FA's high-handedness.
 @15.14
 Everyone, we march!
 @15.15
@@ -141,7 +141,7 @@ If we side with neither and stay neutral, the house will come to no harm.
 @15.26
 If we side with one and lose, there is no guarantee the house will survive!
 @15.27
-Yes, your view makes sense. The \#11CA clan will side with neither and stay neutral!
+Indeed, your view makes sense. The \#11CA clan will side with neither and stay neutral!
 @15.29
 Everyone seems to be here. Then...
 @15.30
@@ -171,6 +171,6 @@ But I am torn. I came to talk it over with you before deciding.
 @15.54
 I am glad I came after all. Then farewell.
 @16.4
-Yes. He asks that Lord \#09CA lead the vanguard of the campaign against \#11FA!
+He asks, my lord, that Lord \#09CA lead the vanguard of the campaign against \#11FA!
 @16.6
 We must strike down \#09FA at all costs and end this war!

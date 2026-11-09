@@ -43,7 +43,7 @@ When I saw this globe, I wanted to see foreign lands with my own eyes, and to tr
 @0.41
 That is what I thought. Just looking at this globe makes my dreams grow.
 @0.42
-Yes, I understand that feeling.
+Indeed, I understand that feeling.
 @0.43
 Oh, so Lord \#17FE is just as Lord \#12AA said!
 @0.44
@@ -163,7 +163,7 @@ And what else did the old lord of the \#10C3 say?
 @6.25
 He said "Strike \E07A."
 @6.26
-Yes. Even if not right away, we must prepare to strike \E07A.
+Hm. Even if not right away, we must prepare to strike \E07A.
 @6.27
 As you say. Then I'll go and clean up after the assassin. By your leave.
 @6.28
@@ -201,7 +201,7 @@ The world is vast. I learned that beyond the sea it is vaster than we can imagin
 @7.17
 If you have the chance, Lord \#17FE, do go and hear what Lord \#042F has to say at the Nanban trading house in Sakai.
 @7.18
-Yes, I'll remember that.
+Thank you, I'll remember that.
 @7.19
 Then I will take my leave.
 @7.20

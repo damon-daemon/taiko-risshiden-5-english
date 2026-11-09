@@ -37,7 +37,7 @@ It seems Lord \#0293 is ill.
 @0.22
 What! But Lord \#0A93 was attending to government today, surely.
 @0.23
-Yes. It seems his house has imposed silence, and he is forcing himself to seem well.
+Indeed. It seems his house has imposed silence, and he is forcing himself to seem well.
 @0.24
 Hmm, to hide it so thoroughly, he must not want it known at all. It must be a very grave illness.
 @0.25
@@ -51,7 +51,7 @@ First I must attend councils, earn merit and win \%047F0's trust...
 @1.0
 My lord, I hear Lord \#0293's funeral is to be held in the capital.
 @1.1
-Yes. As chief of the Five Regents, I cannot be absent.
+Indeed. As chief of the Five Regents, I cannot be absent.
 @1.2
 Right, I will go to the capital. \%03, come with me.
 @1.4
@@ -117,7 +117,7 @@ They say seven men raised troops: \#00E6, \#0267, \#0125, \#00E9, \#001A, \#027C
 @3.9
 Hmm... First I had better see \#084B.
 @3.10
-Yes. I will bring him, so please wait.
+Certainly. I will bring him; please wait.
 @3.11
 \%0404B, what a misfortune. But once inside \#09FA's castle, you are safe. Rest assured.
 @3.12
@@ -145,7 +145,7 @@ Something extraordinary? What happened?
 @3.24
 Something extraordinary? What happened?
 @3.25
-Yes. The generals who had grown hostile to \#004B finally rose up and surrounded the \#104B mansion.
+The generals who had grown hostile to \#004B finally rose up and surrounded the \#104B mansion.
 @3.26
 Seven men took part in the siege: \#00E6, \#0267, \#0125, \#00E9, \#001A, \#027C and \#0043.
 @3.27

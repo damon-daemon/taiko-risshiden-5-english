@@ -3,7 +3,7 @@ But \#09FA could not touch the \#12D1 clan, which had stayed neutral, and its st
 @4.1
 Mm. Thank you for coming to meet me.
 @4.2
-Yes, my lord.\nAnd... a letter has arrived from Lord \#004B.
+My lord.\nAnd... a letter has arrived from Lord \#004B.
 @4.7
 Though it had only stood by, the \#12D1 clan was blamed for marching as far as Sekigahara and came close to being abolished...
 @4.8
@@ -65,7 +65,7 @@ Then at least manage things so that you do not fight \%041FA directly. I will se
 @7.24
 We would like you, \%03, to serve as supreme commander...
 @7.25
-Yes, I have thought about it... But would Lord \#0A06 not be better as supreme commander?
+Well, I have thought about it... But would Lord \#0A06 not be better as supreme commander?
 @7.26
 No, Lord \#0A06 is still a child. As second of the regents, you, \%03, are the right man to lead the whole army.
 @7.27
@@ -117,7 +117,7 @@ Even so, I believe I should not leave \41DE.
 @7.52
 ...It cannot be helped. We will scatter \#09FA on our own, you'll see.
 @7.53
-Yes. I shall await good news.
+Very well. I shall await good news.
 @7.54
 Then, I take my leave.
 @7.55
@@ -275,7 +275,7 @@ Accept command
 @14.22
 Oh, a fine decision!
 @14.23
-Yes. I too have been galled by \#09FA's tyranny.
+Indeed. I too have been galled by \#09FA's tyranny.
 @14.24
 Everyone, we march!
 @14.25
@@ -367,6 +367,6 @@ The \#12D1 clan will side with neither and remain neutral.
 @14.89
 I am glad I came after all. Farewell, then.
 @15.4
-Yes. And they ask Lord \#0AD1 to lead the vanguard in the campaign against \#11FA!
+They ask, my lord, that Lord \#0AD1 lead the vanguard in the campaign against \#11FA!
 @15.6
 Whatever it takes, we will strike down \#09FA and end this war!

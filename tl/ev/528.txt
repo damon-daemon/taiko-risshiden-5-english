@@ -21,7 +21,7 @@ No, this is the proper distance between lord and retainer. If I spoke as familia
 @1.6
 If people talk behind a lord's back, it shows his retainer has failed him. I beg you to bear with it.
 @1.7
-Yes, your loyalty pleases me. I'm counting on you from now on, \#0FFE!
+Very well, your loyalty pleases me. I'm counting on you from now on, \#0FFE!
 @1.9
 Oh, I nearly forgot. Lord \#08C3 suggested you change your name.
 @1.10
@@ -49,7 +49,7 @@ The \#1142 clan won't just sit and watch, and on top of that, whenever the long 
 @4.4
 So this castle building is sure to fail, and the \#10C3 will be in for a lot of trouble for nothing.
 @4.5
-Yes, that's probably how it'll go.
+Indeed, that's probably how it'll go.
 @5.0
 Boss! Just like you said! The \#10C3 lot are trying to build a castle at Sunomata again, never learning.
 @5.1
@@ -93,7 +93,7 @@ How have you been, \%03?
 @7.10
 Oh, the chief of the rustic warriors is fine. But you seem to have come up in the world.
 @7.11
-Yes, I served the \#10C3 clan as a foot soldier and was promoted to samurai. My name is now \#0205.
+I have. I served the \#10C3 clan as a foot soldier and was promoted to samurai. My name is now \#0205.
 @7.12
 I see... I've long been on the \#1142 side, so you and I will be enemies...
 @7.13
@@ -139,7 +139,7 @@ Yes! A friend of mine is taking on the Sunomata castle job, so I'm helping him b
 @10.2
 Eh, is that true?
 @10.3
-Yes! Take the men who are free and go into the forest behind Mt. Inaba!
+It is! Take the men who are free and go into the forest behind Mt. Inaba!
 @10.4
 Once you've cut the timber, put together the palisades, towers and the rest as a trial!
 @10.5

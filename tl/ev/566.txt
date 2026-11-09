@@ -7,7 +7,7 @@ Sir! I am a foot soldier named Iwamatsu Hachiya.
 @0.5
 What do you want...?
 @0.8
-Sir! We common soldiers have never seen you up close, old lord...
+Sir! We common soldiers have never seen you up close, my lord...
 @0.9
 You mean you sneaked in because you wanted to see me?
 @0.12
@@ -69,7 +69,7 @@ Even so, my lord... you drove off the villain splendidly.
 @1.0
 Now then, let the council begin.
 @1.1
-Old lord! Good news!
+My lord! Good news!
 @1.2
 What is it? What a racket!
 @1.3
@@ -99,7 +99,7 @@ No. Lord \#006E heard how the old lord slew the \#1323 assassin the other day an
 @1.15
 ...and he said it would be fine to return Lord Takechiyo to the \#1324 clan.
 @1.16
-Oh! Splendid! Old lord! Congratulations!
+Oh! Splendid! My lord! Congratulations!
 @1.17
 Heaven be thanked!
 @1.18

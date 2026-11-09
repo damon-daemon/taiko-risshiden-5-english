@@ -7,7 +7,7 @@ To see \%02287? What could it be?
 @0.5
 I am Isshiki Fujinaga, retainer of \#001D.
 @0.6
-Yes, thank you for the long journey. So, what does the Shogun (\#001D) say?
+Welcome, and thank you for the long journey. So, what does the Shogun (\#001D) say?
 @0.9
 Sir. He asks you to lend your strength to overthrow \#00C3.
 @0.10
@@ -31,7 +31,7 @@ We cannot give it to \#08C3!
 @0.31
 Then you will help overthrow \#08C3?
 @0.32
-Yes, agreed. I will call on the faithful everywhere to rise.
+Agreed. I will call on the faithful everywhere to rise.
 @0.35
 Thank you. The Shogun will be delighted.
 @0.39

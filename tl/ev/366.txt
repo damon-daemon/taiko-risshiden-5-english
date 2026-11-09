@@ -19,7 +19,7 @@ Sir. I think you should hand out rewards in person, my lord. Say, about 5,000 ka
 @0.13
 Very well. That castle is worth it. I'll pay 5,000 kan.
 @0.14
-Yes, sir. Then I will make the arrangements.
+Very good, sir. Then I will make the arrangements.
 @0.15
 Still, this plotting makes me furious. Is there no way to teach the \#11C1 a lesson?
 @0.16

@@ -153,7 +153,7 @@ Damn! Fall back for now!
 @13.5
 Good! A draw is enough! We'll fall back for now!
 @15.2
-Yes! You may all be tired, but now is the time to endure! We turn back at once and strike down \#080E!
+Right! You may all be tired, but now is the time to endure! We turn back at once and strike down \#080E!
 @16.0
 Wh-why... Why would I lose to the likes of \#080E...
 @16.1
@@ -179,7 +179,7 @@ T-to be slain by a nameless foot soldier... Is this... my end?
 @16.15
 Hold on!
 @16.16
-Old lord... forgive Gonroku. I could not repay your kindness... ending up... like this... urgh!
+My lord... forgive Gonroku. I could not repay your kindness... ending up... like this... urgh!
 @16.18
 \#017B, who served both Oda Nobuhide and \#08C3 and stood foremost among their retainers...
 @16.19
@@ -191,7 +191,7 @@ A great victory for our side!
 @16.22
 No, not yet...! Not until we have \#080E's head! Where did he run to... Find him!
 @16.23
-Yes! With all our strength!
+At once! With all our strength!
 @16.24
 But of the enemy commander, \#000E, there was no trace at all...
 @16.25
@@ -223,7 +223,7 @@ They say a foot soldier of the \#07F3 unit, under Lord \#0205, killed him!
 @16.44
 What?! The Monkey's men?! How can that be?!
 @16.45
-Yes... It seems the \#1205 army had laid a net around the \#100E in step with our movements...
+Well... It seems the \#1205 army had laid a net around the \#100E in step with our movements...
 @16.46
 They happened to catch \#000E passing Ogurusu village as he fled, and slew him...
 @16.47

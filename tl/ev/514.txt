@@ -63,7 +63,7 @@ Of the brothers, Lord \#0AA5 is the best loved, I believe! I recommend Lord \#0A
 @0.32
 Hm... Opinions are divided.
 @0.33
-Old lord, whichever it is, please decide soon.
+My lord, whichever it is, please decide soon.
 @0.34
 Dithering will only breed a family feud...
 @0.35
@@ -77,7 +77,7 @@ Make \#0AA5 heir
 @0.41
 Right, I have decided. My heir shall be \#0AFC.
 @0.42
-Old lord...!
+My lord...!
 @0.43
 Then we will support Lord \#0AFC with all our might!
 @0.45

@@ -327,7 +327,7 @@ Sir samurai, might you be Lord \#07FE?
 @13.3
 Ah, I thought so... Then you are looking for Lord \#0157?
 @13.4
-Yes. You know \#0957?
+I am. You know \#0957?
 @13.5
 ...Lord \#0FFE, you are too late.
 @13.6

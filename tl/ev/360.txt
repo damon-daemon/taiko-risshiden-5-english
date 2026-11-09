@@ -19,7 +19,7 @@ My lord... your wife... has passed away...
 @6.1
 What?! \#0443 is dead?! What on earth happened?!
 @6.2
-Yes. \#004B, using Lord \#0A06's name, tried to gather the wives and children of the daimyo in \41DE.
+My lord. \#004B, using Lord \#0A06's name, tried to gather the wives and children of the daimyo in \41DE.
 @6.3
 But your wife said she could not leave the house without your leave, my lord, and after a quarrel with \#084B's envoy...
 @6.4
@@ -89,7 +89,7 @@ What?! What on earth happened?!
 @6.40
 What on earth happened?!
 @6.41
-Yes. \#004B, using \#0A06's name, tried to gather the wives and children of the daimyo in \41DE.
+My lord. \#004B, using \#0A06's name, tried to gather the wives and children of the daimyo in \41DE.
 @6.42
 But your wife said she could not leave the house without your leave, and argued with \#084B's envoy.
 @6.43

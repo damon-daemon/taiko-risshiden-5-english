@@ -79,7 +79,7 @@ Eeek... Our general, Lord \#12A7, is done for... H-help!
 @0.46
 My liege, the enemy is retreating! A great victory for our side!!
 @0.47
-Yes! Everyone, you fought well!
+Good! Everyone, you fought well!
 @0.48
 \#02A7 had this with him. Please accept it.
 @0.49

@@ -9,7 +9,7 @@ Counting the daimyo who serve them, the might of the \#11FA clan... is no small 
 @0.5
 For our part, I believe we should first take into service the ronin of every province who lost their places in the last war.
 @0.6
-Yes, just so! See to it well.
+Indeed, just so! See to it well.
 @0.9
 They say Lord \#0A06 has begun taking ronin from every province into his service.
 @0.10
@@ -57,7 +57,7 @@ I support Lord \#0969's proposal.
 @1.19
 I see... What do you think, my lord?
 @1.20
-Yes, see to it.
+Very well, see to it.
 @1.21
 Then let it be so.
 @1.23
@@ -175,7 +175,7 @@ Our lord? What could he want?
 @4.4
 You called for me, my lord?
 @4.5
-Yes. First, let me introduce you. This is \%2020E of the \#1074 clan.
+I did. First, let me introduce you. This is \%2020E of the \#1074 clan.
 @4.6
 No, no, \%03, there is no need for introductions. I have already met \%047FE.
 @4.7
@@ -203,7 +203,7 @@ I have decided to raise troops to bring down \#09FA!
 @4.18
 He is not an enemy we can beat in a fair fight!
 @4.19
-Yes, if I raised troops alone I would stand no chance... but \%0420E will help me.
+True, if I raised troops alone I would stand no chance... but \%0420E will help me.
 @4.20
 Just so. I will now return to our domain and urge Lord \#0074 to ready his forces.
 @4.21
@@ -219,7 +219,7 @@ Well spotted! As expected of you, \%03!
 @4.26
 That would indeed give us a chance of victory. Some daimyo would rise and join us too.
 @4.27
-Yes! Now is the time to raise a righteous army and punish \Z003's arrogance!
+Indeed! Now is the time to raise a righteous army and punish \Z003's arrogance!
 @4.28
 \%03, we shall defend the \#1206 realm and strike down \Z003 without fail!
 @4.29
@@ -249,7 +249,7 @@ But they say Lord \#11FA's army has already set out for \41DF...
 @5.10
 Outrageous! My lord, I believe our house would do best to stay out of this entirely!
 @5.11
-Yes, this is a private quarrel between \#11FA and \#1074.
+Hm, this is a private quarrel between \#11FA and \#1074.
 @5.12
 Listen, \#0A06... You are lord of the realm... You must not act rashly.
 @5.13
@@ -283,7 +283,7 @@ I thought as much. I am \#00A5.
 @7.11
 So you are \%03. I have heard much of you... And what business brings you to this castle today?
 @7.12
-Yes, I wished to consult \Z002 about the \#1074 clan, so I stopped by in the middle of my march.
+Well, I wished to consult \Z002 about the \#1074 clan, so I stopped by in the middle of my march.
 @7.13
 I see. Then, this way...
 @7.14
@@ -347,7 +347,7 @@ Yes, I will go with you to the depths of the underworld!
 @7.46
 But our two armies alone could never stand against \Z003. We need allies.
 @7.47
-Yes. In fact, through Lord \#0036 I have asked Lord \#02D1 for help.
+Indeed. In fact, through Lord \#0036 I have asked Lord \#02D1 for help.
 @7.48
 Of the remaining regents, Lord \#007D is all but Lord Taiko's adopted son. He will surely side with us.
 @7.49
@@ -389,11 +389,11 @@ Lord \#104B's army has already taken \41DF, they say. We should decide how our h
 @7.72
 My lord, I believe our house would do best to stay out of this entirely!
 @7.73
-Yes, this is a private quarrel between \#09FA and \#084B.
+Hm, this is a private quarrel between \#09FA and \#084B.
 @8.6
 \Z002! I hear you took Nijo Castle!
 @8.7
-Yes. How did it go on your side, \Z001?
+I did. How did it go on your side, \Z001?
 @8.8
 Well... it has become troublesome.
 @8.9
@@ -439,7 +439,7 @@ What?! Do you mean he foresaw our lord's uprising?!
 @8.31
 \Z002! We cannot stay here!
 @8.32
-Yes, we march!
+Right, we march!
 @9.0
 The Western daimyo, victorious at Sekigahara, stripped the daimyo who sided with the East of their domains and built a new Toyotomi government...
 @9.13
@@ -581,7 +581,7 @@ But \#07FE never saw that end, falling in the midst of the enemy, aged \1006...
 @18.0
 Victory is ours!
 @18.1
-Yes! Lord Taiko lent his strength to this golden gourd standard!
+Indeed! Lord Taiko lent his strength to this golden gourd standard!
 @18.2
 Look! Seeing us winning, the \#11FA side's generals are coming over to us!
 @18.4
@@ -665,7 +665,7 @@ We've raised the signal smoke to attack, but they still haven't moved!
 @19.4
 Bah, fence-sitters! But we can't miss this chance. \#0982, pursue!
 @19.5
-Yes! Leave not a single enemy alive! Charge! Charge!
+At once! Leave not a single enemy alive! Charge! Charge!
 @19.6
 \#0182's pursuit was fierce. Driven on by \#0982's hoarse roar, the troops hunted down the \#1125 force without mercy.
 @19.7
@@ -703,7 +703,7 @@ Bah, \#093B!! It's too late to move now!!
 @19.27
 No! The \#113B unit is heading for the \#10A5 unit! \#013B has betrayed us!!
 @19.28
-Damn him!! So \#013B was the worm in the lion's belly!!
+Damn him!! So \#013B was a traitor in our midst!!
 @19.29
 \%03, this is the end.
 @19.30
@@ -737,7 +737,7 @@ But \Z003 got away...
 @20.16
 \Z003 did... That's bad...
 @20.17
-Yes. I'd like to pursue at once, but our losses are not small either.
+Indeed. I'd like to pursue at once, but our losses are not small either.
 @20.18
 I think we should pull back and regroup. What say you?
 @20.19
@@ -753,7 +753,7 @@ We were one step from the realm... How bitter!!
 @21.3
 \#01FA has killed himself, and \#09FC was beheaded by straggler hunters!
 @21.4
-Yes, well done! Now the \#1206 realm is safe!!
+Ha, well done! Now the \#1206 realm is safe!!
 @21.5
 Before the deeds of \#07FE and the rest, \#01FA, who had half the realm in his grasp, finally fell, aged \1006...
 @21.6
@@ -991,7 +991,7 @@ You are too kind, my lord.
 @26.4
 In recognition, I promote you to Commander. Continue to serve me well.
 @26.5
-Yes, my lord! I am most grateful. I will strive all the harder.
+My lord! I am most grateful. I will strive all the harder.
 @26.6
 In recognition, I promote you to Samurai General. Continue to serve me well.
 @26.8
@@ -1027,7 +1027,7 @@ With respect...
 @26.25
 I see... Then become Province Lord in \41E2.
 @26.26
-Yes, my lord, I am most grateful. I will strive all the harder for the \#1206 clan.
+My lord, I am most grateful. I will strive all the harder for the \#1206 clan.
 @26.27
 Then set out for \41E2 at once.
 @26.29

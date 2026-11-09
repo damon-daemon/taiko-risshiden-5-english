@@ -13,13 +13,13 @@ A ronin, are you?\nAnyway, I look forward to knowing you.
 @3.1
 Oho, so you're...\nI look forward to knowing you.
 @3.2
-Oh, you're with {02}{0B}e?\nWell, well, a pleasure.
+Oh, you're with {02}{0B}e?\nWhy, a pleasure to meet you.
 @4
 A ronin?\nI look forward to knowing you.
 @4.1
 Oh, so you're...\nI look forward to knowing you.
 @4.2
-My, you're with {02}{0B}e...\nWell, well, a pleasure.
+My, you're with {02}{0B}e...\nWhat a pleasure to meet you.
 @5
 Good of you to come to my dojo.
 @5.1
@@ -211,9 +211,9 @@ Hm, who's there?!\nEveryone, an intruder!\nSeize them!!
 @38.1
 (...No good,\n I can't find anything useful.)
 @39
-(Good, I have all the information\n on this base.\n No reason to stay; time to leave.)
+(Good, I have all the information\n on this base.\n I mustn't linger; time to leave.)
 @39.1
-(Good, I have all the information\n on this base.\n No reason to stay; let's go...)
+(Good, I have all the information\n on this base.\n I'd better not linger; off I go...)
 @40
 Who's there! An intruder?!
 @40.1
@@ -279,13 +279,13 @@ Hm, quite a good result.
 @54.1
 Hmm...\nI can't call that a good result...
 @54.2
-Yes, quite a good result.
+Mm, quite a good result.
 @54.3
 Hmm...\nI can't call that a good result...
 @55
 Good, it's up to the maximum.
 @55.1
-Yes, it's up to the maximum.
+Good, it's up to the maximum.
 @56
 Good, a splendid result.
 @56.1
@@ -295,13 +295,13 @@ Hm, about what I expected.
 @57.1
 Good, I'll report to our lord at once.
 @58
-Yes, a splendid result.
+Mm, a splendid result.
 @58.1
-Yes, this will please our lord.
+Good, this will please our lord.
 @59
-Yes, that's not bad, is it?
+Mm, that's not bad, is it?
 @59.1
-Yes, I'll report to our lord at once.
+Right, I'll report to our lord at once.
 @60
 Ahem.\nListen, everyone.\nI bring an offer of service with {02}{01}{EC}.
 @60.1
@@ -393,9 +393,9 @@ Hmm, I can't call that a good result.\n
 @80.3
 Hm, about what I expected.\n
 @80.4
-Yes, the best possible result.\n
+Good, the best possible result.\n
 @80.5
-Yes, quite a good result.\n
+Mm, quite a good result.\n
 @80.6
 Hmm, I can't call that a good result.\n
 @80.7
@@ -415,11 +415,11 @@ I won't let an ill-mannered lout cross\nthe threshold of {02}yd.\nPlease leave!
 @86
 I won't let you cross\nthe threshold of {02}yd.\nGet out!
 @88
-Well, well, Master.\nWelcome.
+Oh, Master!\nWelcome.
 @89
 Ah, {01}C1{00}.\nI'm glad you came by.
 @89.1
-Well, well, Master.\nWelcome.
+Why, Master!\nWelcome.
 @90
 Oh, Master.\nWelcome.
 @92
@@ -431,29 +431,29 @@ Master, what brings you today?
 @94
 Master,\nwhat brings you today?
 @96
-Did you know?\nThe {01}C>{00} of {02}yd\nis in {02}{15}e, I hear.
+Did you know?\nI hear {01}C>{00} of {02}yd\nis in {02}{15}e.
 @96.1
-The {01}C>{00} of {02}yd\nis in {02}{15}e, they say.
+They say {01}C>{00} of {02}yd\nis in {02}{15}e.
 @97
-The {01}C>{00} of {02}yd\nis in {02}{15}e, they say.
+They say {01}C>{00} of {02}yd\nis in {02}{15}e.
 @99
-Did you know?\n{01}C>{00}\nuses a technique called {02}yd, I hear.
+Did you know?\nI hear {01}C>{00}\nuses a technique called {02}yd.
 @99.1
-{01}C>{00}\nuses a technique called {02}yd, they say.
+They say {01}C>{00}\nuses a technique called {02}yd.
 @100
-{01}C>{00}\nuses a technique called {02}yd, they say.
+They say {01}C>{00}\nuses a technique called {02}yd.
 @102
-Did you know?\n{01}C>{00}\nis a master of {02}yd, I hear.
+Did you know?\nI hear {01}C>{00}\nis a master of {02}yd.
 @102.1
-{01}C>{00}\nis a master of {02}yd, I hear.
+I hear {01}C>{00}\nis a master of {02}yd.
 @103
-{01}C>{00}\nis a master of {02}yd, I hear.
+I hear {01}C>{00}\nis a master of {02}yd.
 @105
-Did you know? {01}C>{00}\nowns a gem called {02}3g, I hear.\nI'd like to see it someday.
+Did you know? I hear {01}C>{00}\nowns a gem called {02}3g.\nI'd like to see it someday.
 @105.1
-{01}C>{00}\nowns a gem called {02}3g, they say.\nI'd love to see it someday.
+They say {01}C>{00}\nowns a gem called {02}3g.\nI'd love to see it someday.
 @106
-{01}C>{00}\nowns a gem called {02}3g, they say.\nI'd like to see it someday.
+They say {01}C>{00}\nowns a gem called {02}3g.\nI'd like to see it someday.
 @109
 Have you been to {02}=e?\nIt's ideal for a mountain retreat.
 @109.1
@@ -681,7 +681,7 @@ I sparred with {01}C>{00} the other day\nand she scored a point on me...\nQuite 
 @181.3
 I sparred with {01}C>{00} the other day...\nTheir martial skill isn't much, it seems.
 @182
-{01}C>{00} is quite a fighter.\nAs a fellow woman, I find her reassuring.
+What a fighter {01}C>{00} is.\nAs a fellow woman, I find her reassuring.
 @184
 I challenge you!!\nI bear {02}yd no grudge,\nbut I've come for your sign.
 @184.1
@@ -977,15 +977,15 @@ demon
 @315.4
 demon yaksha
 @316
-What, wandering around\na place like this...\n\nThis is a dojo for learning arms.\nIf you want to learn to use a blade,\ngo learn the kitchen knife in the kitchen.\nOops, no reason to stay. Farewell.
+What, wandering around\na place like this...\n\nThis is a dojo for learning arms.\nIf you want to learn to use a blade,\ngo to the kitchen and learn the cleaver.\nAh, but I mustn't linger. Farewell.
 @316.1
-My my, what are you doing\nin a place like this?\n\nThis is a dojo for learning arms.\nIf you want to learn to use a blade,\nwhy not learn the kitchen knife in the kitchen?\nWell, no reason to stay. Bye now~
+My my, what are you doing\nin a place like this?\n\nThis is a dojo for learning arms.\nIf you want to learn to use a blade,\nwhy not go to the kitchen and learn the cleaver?\nWell, I mustn't linger. Bye now~
 @318
 What! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
 @318.1
 What! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
 @319
-What?! {01}C{0E}{00}...\nno, you mean to defy\nour {02}yd?
+What?! You'd defy me...\nno, our {02}yd?
 @321
 ...Very well.\nAs of now, you are\nexpelled from our {02}yd.\n...Now I have no reason\nto refuse your challenge.\nIf it's a match, state your name properly!
 @321.1
@@ -1029,11 +1029,11 @@ I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI want a match w
 @331.5
 I challenge you!\n{01}C{0E}{00} am {02}{01}g\nof {02}{01}{EC}.\nI seek a lesson from this dojo's master.\nA fair match, a match!
 @332
-I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from me.\nFace me in a fair match!
+I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI'd have a lesson from you.\nFace me in a fair match!
 @332.1
-I've waited long enough, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to settle the score.\nI want a match with me.\nFace me in a fair match!
+I've waited long enough, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to settle the score.\nI want a bout with you.\nFace me in a fair match!
 @332.2
-I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI seek a lesson from me.\nA fair match, a match!
+I've been waiting, {01}C1{00}!\nYou insulted our {02}yd.\nToday I've come to repay you.\nI'd have a lesson from you.\nA fair match, a match!
 @333
 I'm sorry,\nI can't accept challenges now.\nPlease leave.
 @333.1
@@ -1053,7 +1053,7 @@ For the name of {02}yd,\nI cannot back down.\nI accept your challenge.
 @336.1
 For the name of {02}yd,\nI can't back down.\nI accept your challenge.
 @336.2
-For the name of {02}yd,\nI cannot back down.\nI accept your challenge.
+On the honor of {02}yd,\nI cannot back down.\nI accept your challenge.
 @337
 ...You don't look well.\nBut in a match, there's no holding back.\nHave at you!
 @337.1
@@ -1149,17 +1149,17 @@ Oh, the military instructor of {02}{83}{B5}!\nGood of you to come.
 @355.2
 Oh, the military instructor of {02}{83}{B5}!\nI look forward to knowing you.
 @356
-Oh, {01}C1{00} of {02}yd.\nI look forward to knowing you.
+Oh, you're from {02}yd.\nI look forward to knowing you.
 @356.1
-Oh, {01}C1{00} of {02}yd!\nGood of you to come.
+Oh, you're from {02}yd!\nGood of you to come.
 @356.2
-Oh, {01}C1{00} of {02}yd!\nI look forward to knowing you.
+Oh, you're from {02}yd!\nI look forward to knowing you.
 @357
-Oh, {01}C1{00} of {02}yd.\nWelcome to my dojo.
+Oh, you're from {02}yd.\nWelcome to my dojo.
 @357.1
-Oh, {01}C1{00} of {02}yd!\nWelcome to my dojo.
+Ah, the famous swordsman of {02}yd!\nWelcome to my dojo.
 @357.2
-Oh, {01}C1{00} of {02}yd!\nWelcome to my dojo.
+Oh, you're from {02}yd!\nWelcome to my dojo.
 @359
 I'm ashamed before my student, but I'm unwell...\nCough, cough.\nI'll face you once I'm better.
 @359.1
@@ -1263,7 +1263,7 @@ Oh, you'll personally\nteach me {02}yd?
 @391.2
 My, you'll personally\nteach me {02}yd?
 @393
-You want to challenge\nyour teacher {01}C{0E}{00} to a bout?
+You want to challenge me,\nyour teacher, to a bout?
 @393.1
 You wish a bout\nwith your teacher?
 @393.2
@@ -1391,7 +1391,7 @@ Sorry, I'm busy too...\nCould we make it another day?
 @435
 Splendid!\nTo be taught by my student...\nThis path is deep. Thank you.
 @435.1
-Splendid!\nTo be taught by my student...\nThis path is deep. Thank you.
+Splendid!\nTo be taught by my student...\nThere's always more to learn. Thank you.
 @435.2
 Splendid!\nTo be taught by my student...\nI must thank you.
 @437
@@ -1469,11 +1469,11 @@ Oh, how lovely!
 @461
 Received {02}3g.
 @463
-Today I, {02}{01}f, am deeply impressed.\nWill you make me\n{01}C1{00}'s student?
+Today I, {02}{01}f, am deeply impressed.\nWill you take me\nas your student?
 @463.1
-I, {02}{01}f, am deeply impressed today.\nWould you make me {01}C1{00}'s student?
+I, {02}{01}f, am deeply impressed today.\nWould you take me as your student?
 @463.2
-I was deeply impressed today.\nWould you make me\n{01}C1{00}'s student?
+I was deeply impressed today.\nWould you take me\nas your student?
 @465
 Very well.\nFrom today I accept you as my student.
 @465.1
@@ -1529,11 +1529,11 @@ Then let's stop here for today.\nI shall take my leave.
 @481.2
 Then let's stop here for today.\nI'll be going.
 @482
-Talking with {01}C1{00}, I almost\nforget we live in different worlds.
+Talking with you, I almost\nforget we live in different worlds.
 @482.1
-Talking with {01}C1{00}, I almost\nforget we live in different worlds...
+Talking with you, I almost\nforget we live in different worlds...
 @482.2
-Talking with {01}C1{00}, I almost\nforget we live in different worlds.
+Talking with you, I almost\nforget we live in different worlds.
 @483
 If only we walked the same path...
 @483.1
@@ -1545,21 +1545,21 @@ Someday you'll surpass me...\nHeh, I can't help feeling that.
 @484.1
 Someday I'll truly understand\nsomeone like you...\nHeh, I can't help feeling that.
 @484.2
-Someday {01}C1{00} and I will\ntruly understand each other...\nI can't help feeling that.
+Someday you and I will\ntruly understand each other...\nI can't help feeling that.
 @484.3
-Someday {01}C1{00} and I will\ntruly understand each other...\nI can't help feeling that.
+Someday you and I will\ntruly understand each other...\nI can't help feeling that.
 @484.4
-Someday {01}C1{00} and I will\ntruly understand each other...\nI can't help feeling that.
+Someday you and I will\ntruly understand each other...\nI can't help feeling that.
 @485
 You're famous as {02}=e now,\nand I'm proud of you.\nThis is a token of respect and thanks. Take it.
 @485.1
 Meeting you, famed as {02}=e,\nmade my work more worthwhile.\nThis is a token of respect and thanks. Take it.
 @485.2
-Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of my life.\nAccept this token of respect and thanks.
+Meeting you, famed as {02}=e,\nis a treasure of my life.\nAccept this token of respect and thanks.
 @485.3
-Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of my life...\nAccept this token of respect and thanks.
+Meeting you, famed as {02}=e,\nis a treasure of my life...\nAccept this token of respect and thanks.
 @485.4
-Meeting {01}C1{00}, famed as {02}=e,\nis a treasure of my life.\nAccept this token of respect and thanks.
+Meeting you, famed as {02}=e,\nis a treasure of my life.\nAccept this token of respect and thanks.
 @486
 Whoa, you made this?!\nAmazing, that's something...\nThis is from me. Take it.
 @486.1
@@ -1629,11 +1629,11 @@ Yep, that's right!\nYou really are amazing!\nThis is from me. Take it.
 @510.1
 Yep, that's right!\nYou really are amazing!\nThis is from me. Take it.
 @510.2
-Correct!\nAs expected of {01}C1{00}, truly admirable!\nAccept this token of respect and thanks.
+Correct!\nJust what I'd expect of you. Truly admirable!\nAccept this token of respect and thanks.
 @510.3
-Correct!\nAs expected of {01}C1{00}, truly admirable!\nAccept this token of respect and thanks.
+Correct!\nJust what I'd expect of you. Truly admirable!\nAccept this token of respect and thanks.
 @510.4
-Correct!\nAs expected of {01}C1{00}, truly amazing!\nAccept this token of respect and thanks.
+Correct!\nJust what I'd expect of you. Truly amazing!\nAccept this token of respect and thanks.
 @511
 Whoops, sorry, that's wrong...\nSo even you\ndon't know everything......
 @511.1
@@ -1725,11 +1725,11 @@ Same-name bonus! Miyoshi Jikkyu (Yoshikata),\nwho shares a name with Rokkaku Jot
 @517.18
 Same-name bonus! {02}{02}g,\nwho shares the name {02}{01}f,\ncan now be chosen as a hero!
 @518
-...{01}C1{00} is always so helpful to me.\nI'd like to repay you somehow...
+...You are always so helpful to me.\nI'd like to repay you somehow...
 @518.1
-...{01}C1{00} is always\nso helpful to me.\nI'd like to repay you somehow...
+...You are always\nso helpful to me.\nI'd like to repay you somehow...
 @518.2
-...{01}C1{00} is\nalways so helpful to me.\nI'd like to repay you somehow...
+...You are\nalways so helpful to me.\nI'd like to repay you somehow...
 @519
 I know!\nI'll make {02}{02}{EC} a purveyor\nto our {02}{01}{EC}. How about it?
 @519.1
@@ -1789,13 +1789,13 @@ Hm? You don't have the money!\nThere's a limit to making a fool of me!\nGet out.
 @525.1
 Hm? You don't have the money!\nThere's a limit to making fools of us!\nPlease leave...
 @525.2
-Oh? You don't have the money!\nThere's a limit to making fools of us!\nPlease go home for today.
+Oh? You don't have the money!\nThis is an insult!\nPlease leave for today.
 @526
-Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
+Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I look forward to our dealings.
 @526.1
-Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
+Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I look forward to our dealings.
 @526.2
-Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I'm counting on you.
+Received.\nFrom today {02}{02}{EC} is\nour house's purveyor... I look forward to our dealings.
 @526.3
 Received.\nLeave the rest to me.
 @526.4
@@ -1805,11 +1805,11 @@ Received.\nPlease leave the rest to me.
 @527
 {02}{02}{EC} became a purveyor\nto {02}{01}{EC}.
 @528
-From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I'm counting on you.
+From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I look forward to working with you.
 @528.1
-From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I'm counting on you.
+From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I look forward to working with you.
 @528.2
-From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I'm counting on you.
+From now on {01}C{0E}{00} will be\nyour go-between with {02}{01}{EC}.\n{02}{02}{EC}, I look forward to working with you.
 @529
 Oh yes, I'll grant you this permit.
 @529.1
@@ -1817,7 +1817,7 @@ Oh yes, I'll grant you this permit.
 @529.2
 Oh yes, I'll grant you this permit.
 @530
-Well, well... thank you.\nThen I'll take my leave.
+Oh, how kind... thank you.\nThen I'll take my leave.
 @530.1
 Thank you very much!\nThen I'll take my leave.
 @530.2

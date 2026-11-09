@@ -1,5 +1,5 @@
 @1.1
-Old lord! A letter has come from Lord \#01FA...
+My lord! A letter has come from Lord \#01FA...
 @1.2
 What... Let me see it.
 @1.3
@@ -25,7 +25,7 @@ Hmm... I can think of no one else. I'll leave it to \#080E.
 @1.13
 With a senior vassal like Lord \#100E as host, Lord \#11FA will surely see our sincerity.
 @1.14
-Yes... you're right. I'll make \#080E host. Issue the orders at once.
+Hm... you're right. I'll make \#080E host. Issue the orders at once.
 @2.0
 T-terrible news!!
 @2.1
@@ -39,7 +39,7 @@ It is true! He was taken by a sudden illness and breathed his last!
 @2.5
 Lies! You're joking!
 @2.6
-No one would say such a thing as a lie or a joke.
+I would never jest about such a thing!
 @2.10
 Owari isn't even united yet... Why did you die... Old man...
 @2.11
@@ -49,7 +49,7 @@ Funerals... I don't care. Father wouldn't be pleased by such a thing.
 @2.13
 That won't do. Come now, hurry!
 @3.0
-A row of monks' heads won't please Father...
+A pack of monks lined up chanting won't please Father...
 @3.1
 Better I send the old man off to the other shore my own way, with a bang!
 @3.2
@@ -143,7 +143,7 @@ I understand... It seems I too said too much... I humbly beg your pardon.
 @4.25
 As long as you understand. Farewell.
 @5.0
-Old lord! Everything is ready to welcome Lord \#11FA.
+My lord! Everything is ready to welcome Lord \#11FA.
 @5.5
 Lord \#09FA will arrive soon... Once you've shown him around the castle town, bring him up to the keep.
 @5.7
@@ -169,7 +169,7 @@ At any rate, for my sake, please forgive Lord \#100E.
 @5.39
 If you insist, \%03, I'll let it go...
 @5.41
-Old lord! May I have a moment?!
+My lord! May I have a moment?!
 @5.42
 What is it! I'm entertaining Lord \#11FA!
 @5.43
@@ -177,7 +177,7 @@ It seems to be urgent... Don't mind me.
 @5.44
 What do you want!
 @5.45
-Yes, sir! An urgent letter has come from Lord \#0205 in the west!
+My lord! An urgent letter has come from Lord \#0205 in the west!
 @5.46
 What? ...From the Monkey? Let me see it, quickly.
 @5.55
@@ -189,7 +189,7 @@ Show Lord \#11FA and his party to their lodgings. And call \#080E back. He'll jo
 @5.61
 Then, Lord \#09FA, farewell.
 @5.62
-Old lord! You have need of me?
+My lord! You have need of me?
 @5.77
 Good... I'll be leaving right away too. We'll meet in the west.
 @5.79
@@ -199,7 +199,7 @@ N-no, it's nothing. Then...
 @5.81
 ......?
 @5.82
-Old lord, Lord \#01FA and his vassals have been shown to their lodgings to rest. Tomorrow, as planned, they go to see Sakai.
+My lord, Lord \#01FA and his vassals have been shown to their lodgings to rest. Tomorrow, as planned, they go to see Sakai.
 @5.83
 Good... I see. For now, I'll leave command of these reinforcements to \#08C2...
 @5.84
@@ -221,11 +221,11 @@ I'll be as quick as I can... Father, you're lodging at Honnoji for now, so pleas
 @6.14
 Good, understood. Come back as soon as you can.
 @6.16
-Then, old lord... to Honnoji.
+Then, my lord... to Honnoji.
 @6.18
-Old lord... I hear the Hakata merchant Lord \#0181 is in the capital with some rare tea ware...
+My lord... I hear the Hakata merchant Lord \#0181 is in the capital with some rare tea ware...
 @6.19
-Old lord... I hear the Sakai tea master Lord \#01AA is in the capital with some rare tea ware...
+My lord... I hear the Sakai tea master Lord \#01AA is in the capital with some rare tea ware...
 @6.20
 Oh... that's interesting. Then I'll hold a tea gathering tonight and invite him.
 @6.21
@@ -237,7 +237,7 @@ Ha ha ha, you worry too much, \#08C2! Well, I'll rest at my lodgings at Honnoji.
 @6.43
 What is it! What's all the noise!
 @6.44
-Old lord! Terrible news! This temple is surrounded!
+My lord! Terrible news! This temple is surrounded!
 @6.45
 Don't be absurd! This is the heart of my domain! Who would attack me?!
 @6.46
@@ -283,7 +283,7 @@ Our aim is to get back to \51E5... That alone!
 @7.11
 Awataguchi to the west will be heavily guarded... Shall we slip out south toward Toba...
 @7.12
-I report! \#100E's army is surrounding this temple! Old lord, young lord, flee quickly!
+I report! \#100E's army is surrounding this temple! My lord, young lord, flee quickly!
 @7.13
 Curse it... \#080E. He's a quick-witted one, I'll give him that. So he's noticed!
 @7.14
@@ -339,11 +339,11 @@ My life... cut short by the likes of \#080E...
 @10.4
 Bring a drum! I will dance the Atsumori!
 @10.5
-Old lord! Never mind that, flee quickly!
+My lord! Never mind that, flee quickly!
 @10.6
-There isn't a gap for an ant to crawl through... Clinging to life would only make me a laughing stock. I'll fall here... Set fire to the temple!
+We're completely surrounded... Clinging to life would only make me a laughing stock. I'll fall here... Set fire to the temple!
 @10.7
-Old lord...!!
+My lord...!!
 @10.8
 Man's fifty years, set against the world below, are but a dream, an illusion...
 @10.9
@@ -359,7 +359,7 @@ Young lord! The old lord is here!!
 @10.15
 Father!! You're safe! I'm late, but I, \#08C2, have come with troops!
 @10.16
-Yes!! Well done for coming back!
+Ah!! Well done for coming back!
 @10.17
 What on earth has happened! Look at this!
 @10.18
@@ -383,7 +383,7 @@ But his glory came to an abrupt end\nwith \#000E's unexpected rebellion...\nHe w
 @10.34
 \#080E, you idiot! Now you know you're no match for me!
 @10.35
-Old lord! Thank heaven you're safe!
+My lord! Thank heaven you're safe!
 @10.36
 That's right... What became of \#08C2 at Myokakuji?!
 @10.37
@@ -403,9 +403,9 @@ Even so, \#080E is unforgivable. Send word to the nearby provinces at once! Don'
 @10.45
 No need to take him alive! Whoever kills him will be rewarded!
 @10.51
-\%01! You lot! Who are you?!
+My lord! You lot! Who are you?!
 @10.54
-\%01!!
+My lord!!
 @11.0
 Fall back!! I won't lose my life in a place like this! Fall back!
 @11.1
@@ -413,7 +413,7 @@ Stop! \#080E! You coward!
 @11.2
 Father, don't chase him too far! We've done what we came for. We can get back to \41DE now!
 @11.3
-Yes, so we can... \#080E! I'll leave that head of yours with you a while longer! Wash your neck and wait!
+You're right... \#080E! I'll let you keep your head a while longer. Make your peace and wait for me!
 @11.4
 Everyone, back to \41DE!
 @11.6

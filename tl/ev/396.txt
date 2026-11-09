@@ -173,7 +173,7 @@ Yes. Fools like that need to be taught a lesson.
 @1.31
 Anyone who troubles our seas, even \#00C3, I will not forgive.
 @1.32
-Well said. Then I count on you from now on.
+Well said. Then I'm counting on you from now on.
 @2.0
 I want to take this \E079 for myself somehow, but how?
 @2.1
@@ -291,7 +291,7 @@ Well... now that I am chief, I should change my attire.
 @4.34
 Your clothes are ready here, sir.
 @4.35
-Yes, these will do.
+Hm, these will do.
 @4.36
 If anyone dislikes how I did this, he may leave.
 @4.37
@@ -495,11 +495,11 @@ What!! You are Lord Sumitaka's younger brother! Well, well...
 @10.68
 You knew my brother?
 @10.69
-Yes... I was born in Koga in Omi, and before serving the \A3A2 I wandered the provinces.
+I did... I was born in Koga in Omi, and before serving the \A3A2 I wandered the provinces.
 @10.70
 That is when I met Lord Kuki... How it takes me back. I heard he died a few years ago.
 @10.71
-Yes... Sadly. Now I am head of the Kuki house.
+Indeed... Sadly, he did. Now I am head of the Kuki house.
 @10.72
 I hear you belong to the \E079. Actually, I have a favour to ask...
 @10.73
@@ -567,7 +567,7 @@ He means to seize on Lord \#081D's request, march on Kyoto, and command the real
 @11.23
 Well... That is thrilling.
 @11.24
-Yes... For that, the road from Owari and Mino to Kyoto must be made safe.
+Indeed... For that, the road from Owari and Mino to Kyoto must be made safe.
 @11.25
 So that's why the Ise road...?
 @11.26
@@ -599,7 +599,7 @@ Thank you very much!
 @11.42
 Well then, I take my leave for today.
 @11.43
-Yes, sir. Farewell...
+By your leave, sir...
 @11.44
 (For the \A3A2 to approach me first... This may be the chance of my life. I must become head of the \E079 soon...)
 @12.0
@@ -637,7 +637,7 @@ He was even bolder than the rumours said. A man like that, I could follow.
 @12.39
 Good. I look forward to the day you lead the \E079!
 @12.40
-Yes, sir! Farewell.
+Thank you, sir! Farewell.
 @12.57
 Good. I look forward to the day you build that giant ship!
 @14.11
@@ -721,7 +721,7 @@ The \E079 led by \#0117 was freed from its long bondage...
 @31.6
 Chief, the old lord of the \#10C3 has taken \#0103's castle!
 @31.7
-Yes... As expected of Lord \#00C3...
+Indeed... As expected of Lord \#00C3...
 @33.0
 Everyone here? This man is the younger brother of Kuki Sumitaka.
 @33.1

@@ -65,7 +65,7 @@ Hmm... What is \#02D2 thinking...?
 @2.0
 It's been a long time... Lord \#02CA.
 @2.1
-...Well, well, Lord \#1199, who rules the \#1098. What brings you here?
+...Why, Lord \#1199, who rules the \#1098. What brings you here?
 @2.2
 In truth, I wish to apologise for what happened some years ago...
 @2.3
@@ -117,7 +117,7 @@ We'll see who becomes master of Chugoku.
 @2.30
 Mm! Then I'll take my leave!
 @3.0
-Old lord, Lord \#0199 has returned.
+My lord, Lord \#0199 has returned.
 @3.1
 My lord, I have defeated \#02D2!
 @3.2
@@ -153,11 +153,11 @@ Mm, thank you all. I am Otomo Haruhide... from now on, Ouchi Haruhide. From now 
 @5.7
 First I wish to end the turmoil in the house and spread the \#1098 house's glory. Lend me your strength, all of you.
 @5.8
-Yes, sir! We will all serve you as one!
+My lord! We will all serve you as one!
 @5.9
 And \#0999, I give you a character of my name. From now on, call yourself Sue Harukata.
 @5.14
-Yes, sir! I am deeply honoured!
+Thank you, my lord! I am deeply honoured!
 @5.15
 Then that is all for today.
 @6.0

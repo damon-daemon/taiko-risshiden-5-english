@@ -1,7 +1,7 @@
 @0.0
 Now... I must settle the turmoil in the house.
 @0.1
-Yes, my lord! Your first task as the new head of the Oda house.
+Indeed, my lord! Your first task as the new head of the Oda house.
 @0.2
 After that, \#08C3's former retainers came over to \#08BE one after another...
 @0.3
@@ -57,7 +57,7 @@ With their commander \#00C3 dead, his retainers wavered, and more and more of th
 @2.5
 And so \#00BE became head of the Oda house...
 @2.6
-Yes! But we couldn't kill my brother...
+Good! But we couldn't kill my brother...
 @2.8
 And so \#00BE broke away from his brother Nobunaga and lived on as a rival daimyo...
 @2.9

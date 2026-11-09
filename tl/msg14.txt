@@ -179,7 +179,7 @@ Province taken
 @20.37
 Attacking
 @20.38
-Power taken
+Target faction conquered
 @20.39
 Attacking
 @20.40
@@ -257,7 +257,7 @@ Learned strategy
 @20.76
 Base taken
 @20.77
-Power taken
+Faction conquered
 @20.78
 Learned {01}C{C0}6
 @20.79
@@ -491,7 +491,7 @@ Stop resting?
 @38.1
 ...Oops, time to get up already?\nI'd like a little more rest.
 @38.2
-...Mm, not a bad awakening.\nI feel much better.
+...Mm, I slept fairly well.\nI feel much better.
 @38.3
 ...Mmm, a fine morning.\nI'm in perfect shape.
 @39
@@ -1129,17 +1129,17 @@ Oh dear!\nLord {02}{02}e, you may have a fever...\nLet me feel your forehead, th
 @183.3
 *Bonk!*
 @184
-Hahaha, no match for {01}Ci7.\nTruly, too good a wife\nfor {01}C1{00}.
+Hahaha, no match for {01}Ci7.\nTruly, she's too good a wife\nfor you.
 @184.1
-Hee hee...\nNo match for {01}Ci7.\nToo good a wife for {01}C1{00}.
+Hee hee...\nNo match for {01}Ci7.\nShe's too good a wife for you.
 @184.2
 Wh-wh-what, {01}Ci7!\nWhat are you doing... stop it.\nI-I'll retreat for {02}{03}f's sake.
 @184.3
 W-wait... {01}Ci7!\nWhat are you... please stop.\nI'll retreat for {02}{03}f's sake.
 @184.4
-Hahaha, no match for {01}Ci7.\nTruly, too good a wife\nfor {01}C1{00}.
+Hahaha, no match for {01}Ci7.\nTruly, she's too good a wife\nfor you.
 @184.5
-Hee hee...\nNo match for {01}Ci7.\nToo good a wife for {01}C1{00}.
+Hee hee...\nNo match for {01}Ci7.\nShe's too good a wife for you.
 @184.6
 Wh-wh-what, {01}Ci7!\nWhat are you doing... stop it.\nI-I'll retreat for {02}{03}f's sake.
 @184.7
@@ -1357,7 +1357,7 @@ Then take care...
 @279
 *cough cough*...\n{01}C{EE}7!?\nWhat are you doing here?
 @280
-I heard {01}C1{00} had fallen ill,\nso I begged them to let me in.\n\nI made rice porridge\nso you'll get well soon.\nCome, before it gets cold...
+I heard you had fallen ill,\nso I begged them to let me in.\n\nI made rice porridge\nso you'll get well soon.\nCome, before it gets cold...
 @281
 You came all this way just for that...\nI'll have some right away.
 @282
@@ -1399,17 +1399,17 @@ This isn't a lie, is it? It isn't, is it!?
 @293.4
 Ah, if this is a dream, let me never wake...
 @294
-I am {02}{01}g.\nI've rushed here to meet\nthe famous {01}C1{00}.\nI'm glad to know you.
+I am {02}{01}g.\nI've rushed here to meet\nsomeone as famous as you.\nI'm glad to know you.
 @294.1
-I am {02}{01}g.\nI've rushed here hoping to meet\nthe famous {01}C1{00}.\nI'm glad to know you.
+I am {02}{01}g.\nI've rushed here hoping to meet\nsomeone as famous as you.\nI'm glad to know you.
 @294.2
-I am {02}{01}g.\nI've rushed here hoping to meet\nthe famous {01}C1{00}.\nI'm glad to know you.
+I am {02}{01}g.\nI've rushed here hoping to meet\nsomeone as famous as you.\nI'm glad to know you.
 @295
-So you're {01}C1{00}.\nThe pleasure is mine.
+Ah, {01}C1{00}!\nThe pleasure is mine.
 @295.1
-So you're {01}C1{00}.\nThe pleasure is mine.
+Ah, {01}C1{00}!\nThe pleasure is mine.
 @295.2
-So you're {01}C1{00}.\nThe pleasure is mine.
+Ah, {01}C1{00}!\nThe pleasure is mine.
 @296
 Then I'll take my leave.
 @296.1
@@ -1459,11 +1459,11 @@ How wonderful.\nThen please come\nto {02}{15}e at once.
 @303.2
 {01}C1{00}...\nI hear you're a villain\nof real promise.
 @304
-Our {02}{01}{EC} would like\nto welcome {01}C1{00} as {02}yd.\nWhat do you say?
+Our {02}{01}{EC} would like\nto welcome you as {02}yd.\nWhat do you say?
 @304.1
-Our {02}{01}{EC} would like\nto welcome {01}C1{00} as {02}yd.\nWhat do you say?
+Our {02}{01}{EC} would like\nto welcome you as {02}yd.\nWhat do you say?
 @304.2
-Our {02}{01}{EC} would love\nto welcome {01}C1{00} as {02}yd.\nWhat do you say?
+Our {02}{01}{EC} would love\nto welcome you as {02}yd.\nWhat do you say?
 @305
 Sorry, but I won't sink that low.\nNow, go home.
 @305.1
@@ -1471,11 +1471,11 @@ I'm sorry, but\nI won't sink that low.\nPlease leave.
 @305.2
 I'm sorry, but\nI won't sink that low.\nPlease leave.
 @306
-A pity...\nFew suit the darkness\nas well as {01}C1{00}...
+A pity...\nFew suit the darkness\nas well as you...
 @306.1
-A pity...\nFew suit the darkness\nas well as {01}C1{00}...
+A pity...\nFew suit the darkness\nas well as you...
 @306.2
-Oh, what a pity...\nFew suit the darkness\nas well as {01}C1{00}...
+Oh, what a pity...\nFew suit the darkness\nas well as you...
 @307
 What, that's more than I could hope for!\nPlease let me join\n{02}{02}{EC}.
 @307.1
@@ -1489,11 +1489,11 @@ Oh, thank you.\nThen please come\nto {02}{15}e at once.
 @308.2
 Understood.\nThen please come\nto {02}{15}e at once.
 @309
-Today I thought I'd serve\n{01}C1{00} some tea.\nWhat do you say?
+Today I thought I'd serve\nyou some tea.\nWhat do you say?
 @309.1
-Today I thought I'd serve\n{01}C1{00} some tea...\nWhat do you say?
+Today I thought I'd serve\nyou some tea...\nWhat do you say?
 @309.2
-Today I thought I'd serve\n{01}C1{00} some tea.\nWhat do you say?
+Today I thought I'd serve\nyou some tea.\nWhat do you say?
 @310
 Sorry, I'm busy right now.\nCould we make it another time?
 @310.1
@@ -1507,11 +1507,11 @@ A pity.\nAnother time, then.
 @311.2
 What a pity.\nAnother time, then.
 @312
-Heh, if {01}C1{00} invites me,\nI can hardly refuse.\nI'd be glad to.
+Heh, if you invite me,\nI can hardly refuse.\nI'd be glad to.
 @312.1
-Oh, if {01}C1{00} invites me,\nI can hardly refuse.\nI'd be glad to.
+Oh, if you invite me,\nI can hardly refuse.\nI'd be glad to.
 @312.2
-My, if {01}C1{00} invites me,\nI can hardly refuse.\nI'd be glad to.
+My, if you invite me,\nI can hardly refuse.\nI'd be glad to.
 @313
 Heh heh, I thought you'd say that,\nso today I brought\nmy finest tea ware.
 @313.1
@@ -1573,11 +1573,11 @@ Lord {01}C,{00}
 @318.13
 little {01}C,{00}
 @319
-Today I'd like {01}C1{00}\nto teach me the secret of {02}yd...\nWould you show me how it's done?
+Today I'd like you\nto teach me the secret of {02}yd...\nWould you show me how it's done?
 @319.1
-Today I hoped {01}C1{00} would teach me\nthe secret of {02}yd...\nWould you show me how it's done?
+Today I hoped you would teach me\nthe secret of {02}yd...\nWould you show me how it's done?
 @319.2
-Today I'd like {01}C1{00}\nto show me the secret of {02}yd...\nWould you show me how it's done?
+Today I'd like you\nto show me the secret of {02}yd...\nWould you show me how it's done?
 @320
 Sorry, I'm not confident enough\nin {02}yd to teach others...\nAnother time.
 @320.1
@@ -1593,17 +1593,17 @@ Oh, what a pity...\nAnother time, then.
 @322
 This requires using {02}yd.\nReally show them how?
 @323
-Very well.\nIf {01}C1{00} asks,\nI can hardly refuse.
+Very well.\nIf it's you asking,\nI can hardly refuse.
 @323.1
-Very well.\nIf {01}C1{00} asks,\nI can hardly refuse.
+Very well.\nIf it's you asking,\nI can hardly refuse.
 @323.2
-Very well.\nIf {01}C1{00} asks,\nI can hardly refuse.
+Very well.\nIf it's you asking,\nI can hardly refuse.
 @324
-Is this all a master like\n{01}C1{00} can do...\nThat's no help at all. I'll take my leave.
+Is this all a master like\nyou can do...\nThat's no help at all. I'll take my leave.
 @324.1
-Is this all a master like\n{01}C1{00} can do...\nThat's no help at all. I'll take my leave.
+Is this all a master like\nyou can do...\nThat's no help at all. I'll take my leave.
 @324.2
-Is this all a master like\n{01}C1{00} can do...\nThat's no help at all. I'll take my leave.
+Is this all a master like\nyou can do...\nThat's no help at all. I'll take my leave.
 @325
 Splendid!\nI've seen the secret of {02}yd.\nThen I'll take my leave for today.
 @325.1
@@ -1747,9 +1747,9 @@ Whom will you entrust this request to?
 @386.1
 Whom shall I entrust this request to?
 @387
-I ask {01}C1{00} to take this mission.\nTake our 1000 kan profit out, use\nthe other 3000 kan to buy {01}C18\nand deliver them to {02}{0B}e.
+I ask you to take this mission.\nTake our 1000 kan profit out, use\nthe other 3000 kan to buy {01}C18\nand deliver them to {02}{0B}e.
 @387.1
-I entrust this mission to {01}C1{00}.\nTake our 1000 kan profit out, use\nthe other 3000 kan to buy {01}C18\nand deliver them to {02}{0B}e.
+I entrust this mission to you.\nTake our 1000 kan profit out, use\nthe other 3000 kan to buy {01}C18\nand deliver them to {02}{0B}e.
 @388
 Leave it to me.
 @388.1
@@ -1767,11 +1767,11 @@ This requires using {02}yd.\nReally train?\n
 @391
 Let's begin training in {02}yd.\nNow we'll do {02}zd.
 @392
-Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a wandering ronin now, but\nI've come from {02}{15}e\nwishing to serve the famed {01}C1{00}.\nI'm confident in my {01}C98.\nWould you take me on as {02}yd?
+Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a wandering ronin now, but\nI've come from {02}{15}e\nwishing to serve one as famed as you.\nI'm confident in my {01}C98.\nWould you take me on as {02}yd?
 @392.1
-Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a ronin now, but\nI've come from {02}{15}e\nwishing to serve the famed {01}C1{00}.\nI'm confident in my {01}C98.\nWould you take me on\nas {02}yd?
+Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a ronin now, but\nI've come from {02}{15}e\nwishing to serve one as famed as you.\nI'm confident in my {01}C98.\nWould you take me on\nas {02}yd?
 @392.2
-Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a ronin now, but\nI've come from {02}{15}e\nwishing to serve the famed {01}C1{00}.\nI'm confident in my {01}C98.\nWould you take me on\nas {02}yd?
+Forgive this sudden visit.\nI am {02}{01}g.\n\nI'm a ronin now, but\nI've come from {02}{15}e\nwishing to serve one as famed as you.\nI'm confident in my {01}C98.\nWould you take me on\nas {02}yd?
 @393
 kemari skill
 @393.1
@@ -1851,9 +1851,9 @@ Oh, a noise in the ceiling!\nCould it be {02}yd?
 @402.1
 A {02}yd that cries\nso unnaturally? Never!\nWho is it!
 @403
-As expected of {01}C1{00}, you saw through me.\nIn that case...\n\n{01}C1{00}, your life is mine!
+Just as I'd expect, you saw through me.\nIn that case...\n\n{01}C1{00}, your life is mine!
 @403.1
-As expected of {01}C1{00}, you saw through me.\nIn that case...\n\n{01}C1{00}, your life is mine!
+Just as I'd expect, you saw through me.\nIn that case...\n\n{01}C1{00}, your life is mine!
 @404
 {01}C1{00},\nleave this to me!
 @404.1
@@ -1991,7 +1991,7 @@ Enough!\nI'll overlook this. Withdraw.
 @427
 I understand...\nForgive me for overstepping.
 @427.1
-Yes, sir.\nI overstepped myself.
+My apologies.\nI overstepped myself.
 @427.2
 I'm sorry!\nI overstepped myself.
 @428
@@ -2077,11 +2077,11 @@ To refuse after all that\nwould shame a samurai...\nVery well, I'll join {02}{02
 @442.2
 To refuse after all that\nwould shame a samurai...\nVery well, I'll join {02}{02}{EC}.
 @443
-Oh, I believed you'd say so.\nWith you, we're a hundred strong.\nHelp {02}{01}{EC} prosper.
+Oh, I knew you'd say so. With you,\nit's like having a hundred men!\nHelp {02}{01}{EC} prosper.
 @443.1
-Oh, I'm most grateful.\nWith you, we're a hundred strong.\nPlease help {02}{01}{EC} prosper.
+Oh, I'm most grateful. With you,\nit's like having a hundred men!\nPlease help {02}{01}{EC} prosper.
 @443.2
-Oh, I'm so grateful.\nWith you, we're a hundred strong.\nPlease help {02}{01}{EC} prosper.
+Oh, I'm so grateful. With you,\nit's like having a hundred men!\nPlease help {02}{01}{EC} prosper.
 @447
 (Come to think of it, I've fought\n battles to be proud of\n as a martial artist.)
 @448
@@ -2301,7 +2301,7 @@ Off to the dojo?\nDo your best.
 @578
 (Hmm, not enough money...\n To build a dojo that's the face of the school\n I'll need {02}o{C8}...)
 @578.1
-(Oh, not enough money...\n To build a dojo that's the face of the school\n I'll need {02}o{C8}...)
+(Oh, not enough money...\n To build a flagship dojo for the school\n I'll need {02}o{C8}...)
 @579
 Dear, there isn't enough money.\nA dojo that's the face of the school\nneeds {02}o{C8}.
 @580

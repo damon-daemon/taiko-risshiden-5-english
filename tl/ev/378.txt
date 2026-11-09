@@ -39,11 +39,11 @@ My lord, there is something I must tell you.
 @2.1
 What is it?
 @2.2
-Yes, sir. It concerns Lord \#0199. I have received word that he may be plotting rebellion.
+Well, sir, it concerns Lord \#0199. I have received word that he may be plotting rebellion.
 @2.3
 Rebellion?
 @2.4
-Yes, sir. Rumour has it he is gathering private troops at his residence and holding secret talks with other powerful retainers.
+Indeed, sir. Rumour has it he is gathering private troops at his residence and holding secret talks with other powerful retainers.
 @2.5
 The \#1199 family is a pillar of our \#1322, and \#0999 is my right hand. Don't say such reckless things.
 @2.8
@@ -93,7 +93,7 @@ There is no mistake. Word is he raised troops outside \41DE and is marching on t
 @3.4
 In any case, we must act quickly too.
 @3.5
-Yes. Gather the men of the house.
+Right. Gather the men of the house.
 @3.7
 Now, those who have gathered, give your names.
 @3.8
@@ -111,7 +111,7 @@ Only \1007 senior retainers...
 @3.14
 I'm afraid the rebels likely have more men. What will you do now?
 @3.15
-Yes, that is the question...
+Well, that is the question...
 @3.16
 If the paintings, calligraphy and treasures the \#1322 clan has gathered over generations were lost in the fighting, I could never face my ancestors.
 @3.17
@@ -151,7 +151,7 @@ Send a letter to the \#10A7 clan in Bungo at once. Once Lord \#0B22 is overthrow
 @3.35
 I see. Lord \#0898 was once Lord \#0B22's adopted son. He is a fitting heir to the \#1322 clan.
 @3.36
-Yes, exactly.
+Exactly so.
 @3.37
 With the \#10A7 clan's consent to send \#0898, \#0199's preparations were complete. He raised troops to overthrow \#0322.
 @3.38
@@ -223,7 +223,7 @@ First we surround \41DE. We clearly have more men. We're sure to win.
 @3.99
 And Lord \#0B22...
 @3.100
-Yes, I agonised over it, but there's no choice but to have him take his own life.
+Ah, I agonised over it, but there's no choice but to have him take his own life.
 @3.101
 ...And after that?
 @3.102
@@ -267,7 +267,7 @@ But \#0999 was a warrior too. He must have been prepared for this.
 @5.10
 And in losing, he learned that you are no weakling. I think he took his life content.
 @5.11
-Yes. At any rate, this must never happen again. From now on I must work all the harder.
+Indeed. At any rate, this must never happen again. From now on I must work all the harder.
 @5.12
 As you say. Only then will those who died rest in peace.
 @5.13
@@ -277,7 +277,7 @@ Ugh, it was beyond us...
 @5.17
 My lord, what will you do now?
 @5.18
-Yes. Let's escape to somewhere safe.
+Well, let's escape to somewhere safe.
 @5.19
 Then please hurry.
 @5.20
@@ -287,7 +287,7 @@ Taineiji temple lies ahead.
 @5.22
 Now that we've come this far, our pursuers won't catch up soon.
 @5.23
-Yes, let's rest here. By the way, is there a mirror anywhere... My hair is a mess.
+Right, let's rest here. By the way, is there a mirror anywhere... My hair is a mess.
 @5.24
 There's no mirror, but there's a pond over there. Perhaps you could look at your reflection in the water.
 @5.25
@@ -379,7 +379,7 @@ In fact, I have already sent for him from the \#10A7 clan... Come in, \#0898.
 @7.6
 I am \#0098. I look forward to serving you.
 @7.8
-Yes. \#0898, from today you are one of the \#1322. From now on, you shall call yourself "Ouchi Yoshinaga".
+Good. \#0898, from today you are one of the \#1322. From now on, you shall call yourself "Ouchi Yoshinaga".
 @7.15
 Everyone seems to be here.
 @7.16

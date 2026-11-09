@@ -91,7 +91,7 @@ The investment has raised\nthe effect of {02}yd.
 @23
 Ohoho,\nit looks to become a fine temple.
 @23.1
-How wonderful...\nOnce the temple is fine,\nI'll come and pray every day.
+How wonderful...\nOnce the temple's been done up,\nI'll come and pray every day.
 @23.2
 Wow,\nthey're building a fine temple!\nCan I go too?
 @23.3
@@ -381,7 +381,7 @@ The spirit of wabi and sabi\nis one with the Buddhist way.
 @31.9
 Tea is tasty.\nMaybe I'll serve it to my guests.
 @31.10
-People are coming for the gathering.\nThe town's livelier, and it should\nhelp my business too.
+Word of the tea gathering has drawn crowds.\nThe town's livelier, and it should\nhelp my business too.
 @31.11
 Tea masters and merchants at the gathering\nhave my inn run off its feet!
 @31.12
@@ -563,15 +563,15 @@ Wow, what a crowd.\nI'm making money at the free market.
 @66
 {02}{02}g's merit rose.
 @67
-{01}C1{00}, {02}{0B}e is now\nholding a grand tea gathering in {02}{15}e.\n\nWe'd love {01}C1{00}, a renowned tea master, to attend.
+{01}C1{00}, {02}{0B}e is now\nholding a grand tea gathering in {02}{15}e.\n\nWe would love a tea master\nof your renown to attend.
 @68
 Thank you for the invitation,\nbut I am very busy...\nso I must decline this time.\nFarewell.
 @68.1
 Thank you for the invitation,\nbut {01}C{0E}{00} am busy,\nso I must decline this time...\nFarewell.
 @69
-Since {01}C1{00} asks,\nI accept...\nI'll attend the gathering in {02}{15}f.
+Since it is you who asks,\nI accept...\nI'll attend the gathering in {02}{15}f.
 @69.1
-Since {01}C1{00} asks,\nI accept...\nI'll attend the gathering in {02}{15}f.
+Since it is you who asks,\nI accept...\nI'll attend the gathering in {02}{15}f.
 @70
 Ah, thank you...\nThen we'll be waiting in {02}{15}f.
 @71
@@ -583,11 +583,11 @@ Oh, they're out...\nRight, I invited them to the votive sumo.
 @72.1
 Hm, they're out...\nRight, I invited them to the votive sumo.
 @73
-{01}C1{00}, {02}{0B}e is promoting\nthe temples in {02}{15}e and holding\nvotive sumo to raise donations.\nWould {01}C1{00}, famed for martial skill, take part?
+{01}C1{00}, {02}{0B}e is promoting\nthe temples in {02}{15}e and holding\nvotive sumo to raise donations.\nWould you take part, famed as you are for martial skill?
 @74
 Thank you for the invitation,\nbut {01}C{0E}{00} am busy...\nso I must decline this time.\nFarewell.
 @75
-Since {01}C1{00} asks,\nI'll take part in the votive sumo in {02}{15}e.
+Since it is you who asks,\nI'll take part in the votive sumo in {02}{15}e.
 @76
 Ah, thank you.\nThen, in {02}{15}f.
 @77
@@ -765,13 +765,13 @@ Oh, they're out...\nRight, I invited them to the tea gathering.
 @135.1
 Hm, they're out...\nRight, I invited them to the tea gathering.
 @136
-{01}C1{00}, {02}{0B}e is holding\na grand tea gathering in {02}{15}e.\n\nWe'd like to hold an appraisal of\nthe tea ware everyone brings, and\nwould love {01}C1{00}, a famed tea master, to join...
+{01}C1{00}, {02}{0B}e is holding\na grand tea gathering in {02}{15}e.\n\nWe'd like to hold an appraisal of\nthe tea ware everyone brings, and\nwould love a famed tea master like you to join...
 @136.1
-{01}C1{00}, {02}{0B}e is holding\na grand tea gathering in {02}{15}e.\n\nWe'd like to hold an appraisal of\nthe tea ware everyone brings, and\nwould love {01}C1{00}, a famed tea master, to join...
+{01}C1{00}, {02}{0B}e is holding\na grand tea gathering in {02}{15}e.\n\nWe'd like to hold an appraisal of\nthe tea ware everyone brings, and\nwould love a famed tea master like you to join...
 @137
 Thank you for the invitation,\nbut I am busy, so I must\ndecline this time... Farewell.
 @138
-Since {01}C1{00} asks,\nI accept...\nI may come across rare tea ware.
+Since it is you who asks,\nI accept...\nI may come across rare tea ware.
 @139
 Thank you very much.\nThen we'll be waiting in {02}{15}f.
 @139.1
@@ -795,7 +795,7 @@ Reverend, {02}{0B}e is trying\nto make the temples of {02}{15}e flourish...\nSo 
 @144
 It's a kind offer, but...\nthis humble monk has been busy of late.\nPlease ask me another time.
 @145
-If {01}C1{00} asks,\nI cannot refuse.\n\nIf my humble words will do,\nI shall visit {02}{15}e.
+If it is you who asks,\nI cannot refuse.\n\nIf my humble words will do,\nI shall visit {02}{15}e.
 @146
 Thank you very much.\nThe worshippers will be glad.
 @146.1
@@ -979,17 +979,17 @@ My lord!\nTo come all the way\nto a place like this...
 @210
 With results like these,\nI must appoint you merchant chief.\nHahaha!\nI name {02}{0B}e merchant chief of {02}yd.\nKeep up the good work.
 @211
-Yes, sir...\nI'm deeply grateful!
+Sir...\nI'm deeply grateful!
 @212
 Well, I'll be off.\nFarewell.
 @213
-Yes...\n\n\nEveryone, you did well.\nIt's all thanks to you.
+Sir...\n\n\nEveryone, you did well.\nIt's all thanks to you.
 @214
 Lord {02}{0B}e, thank you for your work.\nQuite splendid development... but\nour lord is not satisfied.\nIt seems he expected a little more of you.
 @215
 ...Meaning?
 @216
-Yes, sadly the merchant chief post\nhas been passed over this time.\nI'm sorry.
+Indeed. Sadly, the appointment as merchant chief\nhas been put off this time.\nI'm sorry.
 @217
 ...I see.\nIs that so.\nOur efforts fell short...
 @218
@@ -1595,9 +1595,9 @@ S-splendid...\n...But why not finish me?\nFrom now on you are a rogue ninja.
 @420.1
 ...You don't fear for your life?\nBut don't think everything\nwill go as you wish...
 @421
-...No reason to stay longer.\nFarewell!
+...I mustn't linger.\nFarewell!
 @421.1
-...No reason to stay longer.\nFarewell, then!
+...I mustn't linger any longer.\nFarewell, then!
 @422
 I don't know what you were plotting,\nbut prepare yourself.\nDie! Hyah!!
 @422.1
@@ -1639,9 +1639,9 @@ I see...\nPlease come any time.
 @432.1
 I see...\nCome any time.
 @433
-Understood.\nThen leave the training to us.\nWe're counting on you.
+Understood.\nThen I'll leave the training to you.\nI'm counting on you.
 @433.1
-Understood.\nThen leave the training to us.\nI'm counting on you.
+Understood.\nThen I'll leave the training to you.\nI'm counting on you.
 @434
 Training rose by {02}od.
 @434.1
@@ -1817,9 +1817,9 @@ Hm, quite good.\nYou'll soon be granted a new rank.\nPlease keep up your efforts
 @458.1
 (Now, let's peek at what technique\n they're drilling...)
 @459
-(Huh?\n I already know this technique.\n No reason to stay longer.)
+(Huh?\n I already know this technique.\n Then I needn't stay any longer.)
 @459.1
-(Oh?\n I already know this technique.\n No reason to stay longer.)
+(Oh?\n I already know this technique.\n Then I needn't stay any longer.)
 @460
 (Yes, I've mastered\n {02}=e!)
 @460.1
@@ -1857,9 +1857,9 @@ I can't steal techniques in this state...\nI must get my health back first.
 @470.1
 I can't steal techniques in this state...\nI must get my health back first.
 @471
-The {01}C>{00} who runs this village\nis in {02}{15}e.\nGo there.
+You'll find {01}C>{00}, who runs\nthis village, in {02}{15}e.\nGo there.
 @472
-The {01}C>{00} who runs this village\nis away.\nWhile I keep watch, I can't hear such talk.
+Right now {01}C>{00}, who runs this village,\nis away.\nWhile I keep watch, I can't hear such talk.
 @473
 What is it? What's all the noise?
 @473.1
@@ -2223,11 +2223,11 @@ Hahahahahaha!\nDid you think I'd let you leave\nafter such an insult?!
 @548
 You! Wait!
 @549
-No reason to stay in such a place.\nI've delivered the message.
+I mustn't linger in a place like this.\nI've delivered the message.
 @549.1
-No reason to stay in such a place.\nThe message is delivered.
+I mustn't linger in a place like this.\nThe message is delivered.
 @549.2
-No reason to stay in such a place.\nThe message is delivered.
+I mustn't linger in a place like this.\nThe message is delivered.
 @550
 You insolent wretch, prepare yourself!
 @551
@@ -2283,7 +2283,7 @@ You'll call it off...
 @568
 I'm sorry, but that route\nis currently escorted\nby the people of {02}{03}{EC}...
 @569
-(I see... if I want the escort rights,\n I must show at least\n more strength than {02}{03}{EC}.)
+(I see... if I want the escort rights,\n I must prove I'm at least\n as strong as {02}{03}{EC}.)
 @570
 We have the powers already in charge\nto consider, so for now\nplease make no further offers.
 @571

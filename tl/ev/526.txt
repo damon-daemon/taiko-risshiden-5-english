@@ -15,7 +15,7 @@ And... this is a diplomatic paper that allows you to cross to foreign lands.
 @0.7
 To foreign lands...?
 @0.8
-Yes. It is a permit to sail to Luzon. With this, if you come to terms with the pirate bands, the way to Luzon will open.
+Indeed. It is a permit to sail to Luzon. With this, if you come to terms with the pirate bands, the way to Luzon will open.
 @0.9
 A ship's destination need not be a town in Japan.
 @0.10
@@ -539,7 +539,7 @@ You overestimate us...
 @18.15
 ......And \#086B, I see you have brought \#07FE along today.
 @18.16
-Yes, my lord. This person worked hard for \%03 to gather the levy I brought today.
+Indeed, my lord. This person worked hard for \%03 to gather the levy I brought today.
 @18.17
 Oh... To have such a person, \#006B is a lucky man indeed.
 @18.18
@@ -557,7 +557,7 @@ I-I am \#17FE... \#0FFE!
 @18.24
 Hm, \#0FFE, is it... You did well. I shall remember your name.
 @18.25
-Yes, my lord!
+Thank you, my lord!
 @18.26
 Now, \#006B. The work of \B079 is splendid. I leave you in charge of uniting the people of Sakai.
 @18.27
@@ -573,9 +573,9 @@ Now then, people of \B079. When you need anything, come to me.
 @18.35
 ...You did well, \%03. Thanks to you, this audience brought us a great deal.
 @18.36
-I count on you from now on too, \%03.
+I'm counting on you from now on too, \%03.
 @18.37
-Yes, \%01!
+Yes, my lord!
 @18.38
 Now, shall we go back to \61EC?
 @19.0
@@ -691,7 +691,7 @@ Ha ha ha! I suppose it was wrong to ask you.
 @21.58
 Hearing of foreign lands was reward enough this time.
 @21.59
-\%03, I count on you from now on. Thank you for coming all this way.
+\%03, I'm counting on you from now on. Thank you for coming all this way.
 @21.60
 (......No good. I've already parted with that. I can't use it...)
 @21.61

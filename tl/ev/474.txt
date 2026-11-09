@@ -9,7 +9,7 @@ Hmm, is that so...
 @0.4
 Indeed it is. \%041FA took my hand and...
 @0.5
-Yes, I've heard that. So which of your hands did \%041FA take?
+I've heard that already. So which of your hands did \%041FA take?
 @0.6
 Why, this one! This right hand.
 @0.7
@@ -105,7 +105,7 @@ Well, good work. You may go.
 @5.8
 Understood. And what does \%04125 say?
 @5.9
-Yes. He says he will side with \%041FA.
+He says he will side with \%041FA, sir.
 @5.10
 Mm. I don't like \#084B either. That's fine...
 @5.11
@@ -183,11 +183,11 @@ I too think the \#12D2 will win.
 @11.6
 Hmm, many favour the \#12D2. \#0924, what do you think?
 @11.7
-Yes. I believe the \#10C3 will win.
+If I may, I believe the \#10C3 will win.
 @11.8
 Oh, \#0924 backs the \#10C3? Let's hear your reasons.
 @11.9
-Yes, then...
+Certainly. Well then...
 @11.10
 Certainly \#02D2 is a hero who conquered all around him in one generation, but he is already old.
 @11.11

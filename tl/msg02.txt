@@ -77,7 +77,7 @@ Then please be quick about it.
 @19.1
 Then get it done quick.
 @20
-Then what are the results?
+Now then, how did it go?
 @20.1
 Then let's hear the results.
 @21
@@ -145,7 +145,7 @@ I see...\nIt seems I asked the wrong person.
 @36.1
 What!\nI shouldn't have asked you in the first place.
 @37
-Well, well,\nwelcome.
+Why, hello there!\nThank you for coming.
 @37.1
 Hey, welcome.
 @38
@@ -155,7 +155,7 @@ What do you need?
 @39
 Hey, making money?
 @40
-Well, well,\nwelcome.
+Why, hello there!\nThank you for coming.
 @40.1
 Welcome.
 @41
@@ -571,9 +571,9 @@ It's a kind offer, but more investment\nwouldn't have any use right now.\n...I'l
 @140.1
 Thanks, but right now more\ninvestment would have no use.\nSo... I'll just take the thought.
 @141
-Hm? {01}C1{00}...\nOf all places to meet you,\nit had to be here.\nWell, the result is a foregone conclusion,\nbut don't hold {01}C{A8}{01} back.\nI won't stay long. Farewell.
+Hm? {01}C1{00}...\nOf all places to meet you,\nit had to be here.\nWell, the result is a foregone conclusion,\nbut don't hold {01}C{A8}{01} back.\nI mustn't linger. Farewell.
 @141.1
-Oh? {01}C1{00}...\nOf all places to meet you,\nit had to be here.\nWell, the result is a foregone conclusion,\nbut don't hold {01}C{A8}{01} back.\nI won't stay long. Excuse me~
+Oh? {01}C1{00}...\nOf all places to meet you,\nit had to be here.\nWell, the result is a foregone conclusion,\nbut don't hold {01}C{A8}{01} back.\nI mustn't linger. Bye now~
 @142
 {02}{15}e has no specialty yet. If trade\nroutes expand, it could make one, it seems...\n
 @142.1
@@ -749,9 +749,9 @@ Even if you bow your head like that,\nI can't pay what I don't have.\nI'm sorry.
 @183.1
 ...Please raise your head.\nI can't send you back like this.\nPlease take the remaining {02}o{C8}.
 @184
-(No intention of paying, it seems...\n I'll drop some money to distract {01}C1{00}\n and quietly help myself meanwhile.)
+(No intention of paying, it seems...\nI'll drop some money as a distraction\nand quietly help myself meanwhile.)
 @184.1
-(No intention of paying, it seems...\n I'll drop some money to distract {01}C1{00}\n and quietly help myself meanwhile.)
+(No intention of paying, it seems...\nI'll drop some money as a distraction\nand quietly help myself meanwhile.)
 @185
 Then I will keep\nthis money safe for you.\n\n...Oops! It slipped from my hand...
 @185.1
@@ -785,9 +785,9 @@ N-no, nothing of the sort!\n...E-excuse me!
 @193.1
 N-no, nothing of the sort!\n...E-excuse me!
 @194
-Hey, aren't you going to pick up the money?!\nWait, {01}C1{00}!\n\n...Hmm, gone.\nWhat a hasty one {01}C1{00} is...
+Hey, aren't you going to pick up the money?!\nWait, {01}C1{00}!\n\n...Hmm, gone.\nSo impatient...
 @194.1
-Oh, aren't you going to pick up the money?!\nWait, {01}C1{00}!\n\n...Hmm, gone.\nWhat a hasty one {01}C1{00} is...
+Oh, aren't you going to pick up the money?!\nWait, {01}C1{00}!\n\n...Hmm, gone.\nSo impatient...
 @195
 In the rush to escape,\nI dropped another {02}o{C8} of my own.
 @196

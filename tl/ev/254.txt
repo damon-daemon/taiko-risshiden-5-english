@@ -13,7 +13,7 @@ No, my lord... Ichi is your wife. Now that it has come to this, I can only pray 
 @0.8
 My lord, the officers have gathered. Please come to the Council Chamber.
 @0.9
-Yes! I'm coming.
+Good! I'm coming.
 @0.10
 Lord \#07FE! The armies of \#00C3 and \#01FA are marching on our lands!
 @0.11
@@ -63,7 +63,7 @@ Men! Attack!
 @3.0
 Victory for our side!
 @3.1
-Yes! Now we chase \#08C3's main army at once!
+Good! Now we chase \#08C3's main army at once!
 @3.2
 Sadly... he seems a man with the devil's own luck. His main force appears to have already escaped to \51E5.
 @3.3
@@ -77,7 +77,7 @@ There was no doubt the furious \#08C3 would make war on the \#1017 and \#1010 cl
 @3.8
 Ugh! ...How bitter.
 @3.9
-Old lord... please flee, quickly! As long as you live, you can rise again.
+My lord... please flee, quickly! As long as you live, you can rise again.
 @3.10
 With the surprise attack on \#00C3's army, relations between the \#10C3 and \#1010 clans went completely cold...
 @4.0
@@ -143,7 +143,7 @@ Forgive me, Oichi...! This is the last thing I can do for you.
 @5.34
 And the clan head, \#0010, took his own life in \51E6 Castle, aged \1007...
 @6.0
-Old lord! Grave news!
+My lord! Grave news!
 @6.2
 Lord \#00C3 has marched on Echizen to subdue Lord \#0017!
 @6.3
@@ -183,7 +183,7 @@ Father... the times are changing. I will follow \#00C3, who is opening a new age
 @6.23
 My lord! Thank you.
 @6.24
-Yes... Oichi, I am staking all on your brother.
+Indeed... Oichi, I am staking all on your brother.
 @6.26
 \#0010 betrayed his longtime ally \#0017 and sided with his brother-in-law \#00C3...
 @6.27
@@ -253,7 +253,7 @@ I am \#0810! Welcome!
 @7.22
 I humbly ask your favour, for all the years to come.
 @7.23
-Yes! Now, you must be tired from the long journey. Go and rest.
+Good! Now, you must be tired from the long journey. Go and rest.
 @7.24
 Yes... Then by your leave.
 @7.25
@@ -263,7 +263,7 @@ It was a political marriage, common in the Sengoku era, but they were happy toge
 @7.27
 I see. So that lady is Lord \#08C3's jewel.
 @7.28
-Yes. I asked Lord \#08C3 knowing it was a lot to ask, but it never hurts to ask.
+Indeed. I asked Lord \#08C3 knowing it was a lot to ask, but it never hurts to ask.
 @7.29
 This affair shows how much the \#10C3 clan values its alliance with our \#1010 clan.
 @7.30

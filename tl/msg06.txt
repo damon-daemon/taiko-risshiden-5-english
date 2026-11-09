@@ -39,7 +39,7 @@ Abandoning the mission...\nSo that's all you're capable of.\nI'm disappointed.
 @10
 Understood...\nYou seem to have your reasons,\nbut it's a pity.
 @10.1
-You can't fulfill the mission...?\nI see.\nI'm disappointed in {01}C1{00}.
+You can't fulfill the mission...?\nI see.\nI'm disappointed in you.
 @11
 {02}{01}g's samurai merit\nfell by {02}od.
 @11.1
@@ -1013,7 +1013,7 @@ I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @180.1
 I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @180.2
-At the {02}{15}e branch I got\n{02}od months of advertising effect.
+I ran {02}od months of publicity\nat the {02}{15}e branch.
 @181
 I'm sorry...\nI couldn't make a profit\nselling {02}3g...
 @181.1
@@ -1095,7 +1095,7 @@ Good, {01}C1{00}.\nThank you for your trouble.
 @190.8
 ...{01}C1{00},\nthat's hardly a result to praise.\nWork harder from now on.
 @190.9
-From someone like {01}C1{00}...\nI am disappointed.
+From someone of your standing...\nI am disappointed.
 @190.10
 Fool!!\n{01}C1{00}, what have you been doing?!\nEnough, get out!
 @191
@@ -1115,9 +1115,9 @@ Oh, is that all...?\nAh, no, just talking to myself.\n{01}C1{00}, thank you for 
 @191.7
 {01}C1{00}...\nNo, it's nothing.\nI hope for better next time.
 @191.8
-...Surely {01}C1{00}\ncan do better than that?\nI expect more next time.
+...Surely you\ncan do better than that?\nI expect more next time.
 @191.9
-From someone like {01}C1{00}...\nCould you show a little\nmore effort?
+From someone of your standing...\nCould you show a little\nmore effort?
 @191.10
 What is the meaning of this?!!\n{01}C1{00}, what have you been doing?\n...Enough, get out.
 @192
@@ -1175,7 +1175,7 @@ A single day's delay can cause\ntens of thousands of kan in losses.\nEngrave tha
 @205
 I'm ashamed...
 @205.1
-Yes, sir...!\nI am very sorry!
+Sir...!\nI am very sorry!
 @206
 I'll reflect on it...
 @206.1
@@ -1341,17 +1341,17 @@ Oho, you want more {01}C{99}{01}s?\nWho do you want?
 @241.1
 I see, you want more {01}C{99}{01}s.\nWho do you want?
 @242
-{01}C8{00} is on campaign.\nI can't send them now.
+I'm afraid {01}C8{00} is on campaign.\nI can't send them now.
 @243
 You want {01}C8{00} as your {01}C{99}{01}?
 @243.1
 You want {01}C8{00} as your {01}C{99}{01}?
 @244
-{01}C8{00}, then.\nI'll arrange it at once.
+So it's {01}C8{00}, then.\nI'll arrange it at once.
 @244.1
 Very well.\nI'll send {01}C8{00} as your {01}C{99}{01}.\nI'll arrange it at once.
 @245
-{01}C8{00}, then.\nI'll arrange it at once.
+So it's {01}C8{00}, then.\nI'll arrange it at once.
 @245.1
 Understood.\nI'll lend you {01}C8{00} as your {01}C{99}{01}.\nI'll arrange it at once.
 @246
@@ -1511,9 +1511,9 @@ Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\nYou too, act with t
 @282.1
 {01}C{82}{18}to take {02}[e.\nYou too, act with that in mind.
 @283
-(Shall I really urge\n {01}C1{00} to rebel?)
+(Shall I really urge\n them to rebel?)
 @283.1
-(Should I really urge\n {01}C1{00} to rebel?)
+(Should I really urge\n them to rebel?)
 @284
 {01}C1{00}, I, {02}{01}f,\nhave something to urge\nupon you.
 @284.1
@@ -1529,11 +1529,11 @@ Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\nYou too, act with t
 @287
 {01}C1{00}, will you stay buried\nas just one member of {02}{0B}e?
 @287.1
-{01}C1{00}, will {01}C1{00} stay\nburied as just one member\nof {02}{0B}e?
+{01}C1{00}, will you stay\nburied as just one member\nof {02}{0B}e?
 @288
 {01}C1{00}, will you stay buried\nas just one member of {02}{0B}e?
 @288.1
-{01}C1{00}, will {01}C1{00} stay\nburied as just one member\nof {02}{0B}e?
+{01}C1{00}, will you stay\nburied as just one member\nof {02}{0B}e?
 @289
 ...What are you suddenly saying?
 @289.1
@@ -1609,7 +1609,7 @@ Then I'll say it...\n{01}C1{00}, now is the time to break away\nhere and lead a 
 @307
 {01}C1{00}, now is the time to break away\nhere and have your own shop.
 @307.1
-Yes, then I'll say it.\n{01}C1{00}, I believe you should break\naway here and have your own shop.
+Sir. Then I shall speak plainly.\n{01}C1{00}, I believe you should break\naway here and have your own shop.
 @308
 {01}C1{00}, now is the time to break away\nhere. Have your own shop.
 @308.1
@@ -1655,13 +1655,13 @@ For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a wo
 @318.1
 For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a world\nwhere the strong eat the weak. Please decide!
 @319
-No need to keep faith with {02}{0B}e!\n{01}C1{00} is fit to be the pirate boss\nof a new age! Now is the time to decide!
+No need to keep faith with {02}{0B}e!\nYou are fit to be the pirate chief\nof a new age! Now is the time to decide!
 @319.1
-No need to keep faith with {02}{0B}e!\n{01}C1{00} is the boss for a new age!\nI think now is the time to decide!
+No need to keep faith with {02}{0B}e!\nYou are the chief for a new age!\nI think now is the time to decide!
 @320
-No need to keep faith with {02}{0B}e.\n{01}C1{00} is fit to be the pirate boss\nof a new age!
+No need to keep faith with {02}{0B}e.\nYou are fit to be the pirate chief\nof a new age!
 @320.1
-No need to keep faith with {02}{0B}e!\n{01}C1{00} is fit to be the pirate boss\nof a new age, I believe!
+No need to keep faith with {02}{0B}e!\nYou are fit to be the pirate chief\nof a new age, I believe!
 @321
 This is the age of warring states.\nChances to profit are everywhere.\n{01}C1{00}! Now is the time to decide!
 @321.1
@@ -1731,7 +1731,7 @@ Oh, {01}C1{00}!\nYou've made your decision!
 @338.1
 {01}C1{00}!\nYou've made your decision!
 @339
-Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, I'm counting on you.
+Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, I hope you'll keep supporting me.
 @339.1
 Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, will you follow me?
 @340
@@ -1739,7 +1739,7 @@ Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, please keep guiding m
 @340.1
 Yes, {01}C{0E}{00} will raise my banner here.\n{01}C1{00}, I'm counting on you.
 @341
-Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, I'm counting on you.
+Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, I hope you'll keep supporting me.
 @341.1
 Yes, {01}C{0E}{00} will break away here.\n{01}C1{00}, will you follow me?
 @342
@@ -1787,13 +1787,13 @@ So no one took a castle last year.\nThat won't do.\nI expect much this year.
 @352.1
 No one took a castle last year.\nThat won't do.\nI expect much of you this year.
 @353
-Last year {01}C1{00}'s work\nstood out the most.\n{01}C1{00}, splendid.
+Last year your work\nstood out the most.\n{01}C1{00}, splendid.
 @353.1
-Last year {01}C1{00}'s work\nstood out the most.\n{01}C1{00}, splendid.
+Last year your work\nstood out the most.\n{01}C1{00}, splendid.
 @354
 Not at all; thinking of you,\nit was only natural.
 @354.1
-Yes, sir!\nI'm honored by your praise!
+Sir!\nI'm honored by your praise!
 @355
 No, thinking of you,\nit was only natural.
 @355.1
@@ -1823,11 +1823,11 @@ In praise of your merit, I grant\nyou my {02}3g.\nPlease keep supporting me.
 @361.1
 In praise of your merit, I grant\nyou my {02}3g.\nKeep serving our house loyally.
 @363
-Last year {01}C8{00}'s work\nstood out the most.\nI expect much of {01}C1{00} too.
+Last year {01}C8{00}'s work\nstood out the most.\nI expect much of you too.
 @363.1
 Last year {01}C8{00}'s work\nstood out the most.\n{01}C1{00}, learn from {01}C {00}.
 @364
-Last year {01}C8{00}'s work\nstood out the most.\nI expect much of {01}C1{00} this year too.
+Last year {01}C8{00}'s work\nstood out the most.\nI expect much of you this year too.
 @364.1
 Last year {01}C8{00}'s work\nstood out the most.\n{01}C1{00}, learn from {01}C {00}.
 @365
@@ -1847,21 +1847,21 @@ Whom will you recommend?
 @368.1
 Whom will you recommend?
 @369
-{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+I sent you {01}C8{00}\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @369.1
-{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+I sent you {01}C8{00}\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @369.2
-You recommend {01}C8{00} as\nMy direct vassal?
+You would recommend {01}C8{00}\nas my direct vassal?
 @369.3
-You recommend {01}C8{00} as\nMy direct vassal?
+You recommend {01}C8{00}\nas my direct vassal?
 @370
-{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+I sent you {01}C8{00}\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @370.1
-{01}C8{00} was sent\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
+I sent you {01}C8{00}\nas your {01}C{99}{01}.\nReturn them as a direct vassal?
 @370.2
-You recommend {01}C8{00} as\nMy direct vassal?
+You would recommend {01}C8{00}\nas my direct vassal?
 @370.3
-You recommend {01}C8{00} as\nMy direct vassal?
+You recommend {01}C8{00}\nas my direct vassal?
 @371
 I see.\nThen {01}C8{00} returns\nto be my direct vassal.
 @371.1
@@ -1901,7 +1901,7 @@ A ronin? Insolent wretch!\nBut you did well to get into this castle.\nI'll prais
 @376.3
 ...Oho, {01}C1{00}...\nWho'd have thought we'd meet like this?\nBut so sudden.
 @376.4
-Is it {01}C1{00}...?\nWho'd have thought we'd meet like this?\nBut so sudden.
+So it's you, {01}C1{00}...?\nWho'd have thought we'd meet like this?\nBut so sudden.
 @377
 My, {01}C1{00}...\nAgainst you,\nthe gate guards are useless.
 @377.1
@@ -2195,9 +2195,9 @@ Then you'll invest {02}o{C8}\nin {02}{15}e?
 @440.1
 Then you'll invest {02}o{C8}\nin {02}{15}e?
 @441
-Oh! That's {01}C1{00} for you.\nWe'll put it to good use.
+Oh! Just what I'd expect of you, {01}C1{00}.\nWe'll put it to good use.
 @441.1
-Oh! That's {01}C1{00} for you.\nWe'll put it to good use.
+Oh! Just what I'd expect of you, {01}C1{00}.\nWe'll put it to good use.
 @442
 I see... a pity.\nIf you change your mind, please do.
 @442.1

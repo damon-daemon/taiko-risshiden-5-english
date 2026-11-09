@@ -21,7 +21,7 @@ Grr... Insolent dogs! It can't be helped. Shall I take refuge in \41E0...
 @1.10
 \%03! This is a private feud! You must not drag Lord \#0A06 into it!
 @1.11
-Yes, you are right... But where can I flee...
+Indeed, you are right... But where can I flee...
 @1.12
 That's it! \%041FA came to \41DF, didn't he?
 @1.13
@@ -125,9 +125,9 @@ Also, I have had the daimyo who sided with us gather their armies here at \41DF.
 @7.30
 What?! You mean he foresaw that I would raise troops?!
 @8.4
-Yes, sir. And... a letter has arrived from Lord \#007D.
+My lord. And... a letter has arrived from Lord \#007D.
 @8.6
-Yes. The aim is to show the unity and prestige of our Western Army so no one goes over to \Z003...
+Hm. The aim is to show the unity and prestige of our Western Army so no one goes over to \Z003...
 @9.9
 Oh, \%047FE! To beat \Z003... you are quite the general after all!
 @9.10

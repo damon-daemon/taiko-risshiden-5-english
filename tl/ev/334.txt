@@ -31,7 +31,7 @@ My lord.
 @2.1
 \#0FF1, is it? So you've come.
 @2.2
-Yes. I have hurried here for no other reason.
+Sir. I have hurried here for one reason alone.
 @2.3
 The enemy is already close enough to threaten this castle, \51E5.
 @2.4
@@ -83,7 +83,7 @@ move to \51E7 Castle
 @2.30
 It pains me to leave Kai, but I will do as \#0967 says and move to \51E6 Castle.
 @2.31
-Yes, my lord. I am grateful you have accepted my advice.
+My lord, I am grateful you have accepted my advice.
 @2.32
 I will return to \51E6 Castle at once to prepare to receive you, my lord. With your leave.
 @2.35
@@ -225,7 +225,7 @@ Our lord is holding a council on the matter. Please come to the castle at once.
 @5.28
 It seems everyone is here. You will all have heard the news.
 @5.29
-Yes, my lord. It is truly unexpected.
+Indeed, my lord. It is truly unexpected.
 @5.30
 Hm, I feel the same. But we have no time to dwell on grief.
 @5.31
@@ -243,7 +243,7 @@ First, we should make ties with the powerful daimyo around us.
 @5.39
 I know. I'll make arrangements at once. All of you, work even harder.
 @5.41
-Yes, my lord. I'm itching to get to work.
+Sir! I'm itching to get to work.
 @5.54
 Having thus become independent, the \#1167 clan at once hurried in all directions on diplomacy with other clans, to survive...
 @5.55
@@ -291,7 +291,7 @@ Lord \#1029, good of you to come. May I hear your answer?
 @6.26
 Of course, Lord \#1029, we welcome you into the \#11FA clan.
 @6.27
-Yes, my lord. From today I shall serve the \#11FA clan.
+Thank you, my lord. From today I shall serve the \#11FA clan.
 @6.28
 News! \#0028 has escaped \51E6 Castle and fled.
 @6.29
@@ -631,7 +631,7 @@ Right! We march!!
 @21.12
 \#07F0! Urgent news from the great lord!
 @21.14
-Yes... The great lord has decided to attack \51E8 of the \#11FA clan and has set out!
+Sir... The great lord has decided to attack \51E8 of the \#11FA clan and has set out!
 @21.16
 Naturally, the \#11FA main army and the \#10C3 clan will send relief forces.
 @21.17

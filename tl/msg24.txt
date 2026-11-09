@@ -15,9 +15,9 @@ The route between\n{02}{15}e and {02}{16}e...\nHmm, and what's in it for me?
 @3.1
 The route between\n{02}{15}e and {02}{16}e?\nHmm... and what would you pay?
 @4
-Even at {01}C1{00}'s request,\nI can't take it on for that sum.\nWe're in business too, you know...
+Even at your request,\nI can't take it on for that sum.\nWe're in business too, you know...
 @4.1
-Even at {01}C1{00}'s request,\nI can't accept it for that sum.\nWe're in business too, you know...
+Even at your request,\nI can't accept it for that sum.\nWe're in business too, you know...
 @5.*
 Very well.\nI'll hold the goods between {02}{15}e\nand {02}{16}e for about {02}od months.
 @6
@@ -103,17 +103,17 @@ You dare!? Why, you...! I'll strike\nyou off our purveyors!\nHmph, you'll be sor
 @20
 {02}{0B}e lost its place\nas {02}{0C}e's purveyor.\nRelations worsened.
 @21
-Yes, and it's all\nthanks to {01}C1{00}.\n\nHere, please accept this, no questions.
+Indeed, and it's all\nthanks to you.\n\nHere, please accept this, no questions.
 @21.1
-Indeed... it's all\nthanks to {01}C1{00}.\n\nPlease, say nothing,\nand accept this.
+Indeed... it's all\nthanks to you.\n\nPlease, say nothing,\nand accept this.
 @21.2
-Indeed... it's all\nthanks to {01}C1{00}.\n\nPlease, say nothing,\nand accept this.
+Indeed... it's all\nthanks to you.\n\nPlease, say nothing,\nand accept this.
 @22
 Handed over {02}o{C8}.
 @23
 Ha ha, well now!\nYou understand me.\n\nHeh heh, {02}{02}{EC},\nyou're a wicked one...
 @23.1
-Ha ha ha, as expected of {01}C1{00},\nyou understand.\n\nHeh heh, {02}{02}{EC}...\nno, {01}C1{00}...\nhow naughty of you...
+Ha ha ha, just as I'd expect,\nyou understand.\n\nHeh heh, {02}{02}{EC}...\nno, {01}C1{00}...\nhow naughty of you...
 @23.2
 Ufufufu... well now! So you do understand.\n\nHeh heh, {02}{02}{EC},\nyou're a wicked one...
 @24
@@ -1007,11 +1007,11 @@ That fee filled my purse.\nMore fees won't add any money,\nand I won't work for 
 @185.1
 That fee filled my purse.\nMore fees won't add any money,\nand I won't work for nothing!
 @186
-Yes, I can't abandon the sick\nfor the sake of a little money.
+Right, I can't abandon the sick\nfor the sake of a little money.
 @186.1
-Yes, I mustn't abandon the sick\nfor the sake of a little money.
+Right, I mustn't abandon the sick\nfor the sake of a little money.
 @187
-Yes, treat them free now to earn their\ngratitude, and win it all back later.
+Right, treat them free now to earn their\ngratitude, and win it all back later.
 @187.1
 Ufufu, treat them free now to earn their\ngratitude, and win it all back later.
 @188
@@ -1121,19 +1121,19 @@ Ufufu, a child's smile is the best reward.
 @207.1
 Really... I hate children with no manners.\nWhat am I to do with junk like this...
 @208
-{01}C{88}^,\n{01}C>{00} is in your debt.\nI was asked to give you this.
+{01}C{88}^,\nthank you for caring for {01}C>{00}.\nI was asked to give you this.
 @209
 Received {02}o{C8}.
 @210
 Then I'll take my leave.
 @211
-Oh, though I said no fee was needed...\nhow generous {01}C1{00} is.
+Oh, though I said no fee was needed...\nhow generous you are.
 @211.1
-My, though I said no fee was needed...\nhow generous {01}C1{00} is.
+My, though I said no fee was needed...\nhow generous you are.
 @212
-As expected of {01}C1{00}.\nThose of {02}{02}{EC} know\nhow to use money...
+Just as I'd expect of you.\nThose of {02}{02}{EC} know\nhow to use money...
 @212.1
-As expected of {01}C1{00}.\nThose of {02}{02}{EC} know\nhow to use money...
+Just as I'd expect of you.\nThose of {02}{02}{EC} know\nhow to use money...
 @213
 (Ugh, more {02}3g than I can carry...\n No use hoarding useless medicine.\n A waste, but I'll throw it out.)
 @213.1

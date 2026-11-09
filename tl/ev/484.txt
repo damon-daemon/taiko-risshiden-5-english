@@ -49,7 +49,7 @@ This? It is not a sash. It is cotton woven flat. I had it made to my own design.
 @2.5
 Oh, you made it, Father...
 @2.6
-Yes. It works rather well. Take a look.
+I did. It works rather well. Take a look.
 @2.7
 Then, with your leave... Hm, it is very sturdy work.
 @2.8
@@ -131,7 +131,7 @@ Despite devoted nursing, \#0167 passed away in exile in Kishu, aged \1009...
 @3.28
 (Father... I, \#0969, will keep your words close to my heart and live on...)
 @4.3
-Yes, I will come at once.
+Very well, I will come at once.
 @4.8
 I have a proposal.
 @4.16
@@ -141,7 +141,7 @@ Yes, sir. Then I will start work at once. By your leave.
 @4.20
 Right, there is no time to dawdle. Let's get building.
 @4.21
-Yes! The outwork has turned out just as I wanted!
+There! The outwork has turned out just as I wanted!
 @4.22
 Hmm, it turned out differently from what I pictured, but it is done, more or less...
 @4.26
@@ -199,7 +199,7 @@ Exactly. The time to leave this place has finally come.
 @8.16
 I saw you with someone dressed as a monk just now, my lord. I thought something was afoot and came at once.
 @8.17
-Yes. An invitation has come from the \#1206 clan.
+You were right. An invitation has come from the \#1206 clan.
 @8.18
 Then at last...
 @8.19
@@ -211,7 +211,7 @@ The retainers who had followed \#1169 father and son to \41DF gathered once more
 @8.24
 Like I promised, I'm coming with you, big brother!
 @8.25
-Yes, I am counting on you.
+Ah, I am counting on you.
 @8.26
 Right, now then...
 @8.29
@@ -309,7 +309,7 @@ Don't chase too far! We fall back too!
 @20.25
 The enemy has taken heavy losses.
 @20.26
-Yes. Raise the victory cry!
+Good. Raise the victory cry!
 @20.27
 Ei, ei, ohhhh!!
 @20.28

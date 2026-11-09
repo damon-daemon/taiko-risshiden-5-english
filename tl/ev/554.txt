@@ -223,7 +223,7 @@ Ah, \%03!
 @4.46
 ...Hm? Shikanosuke, can this be...
 @4.47
-Yes, the one we were looking for. Lord \#002C.
+Indeed, the one we were looking for. Lord \#002C.
 @4.48
 Oh, forgive my rudeness! I am \#0009, a vassal of the Amago, like Shikanosuke.
 @4.49
@@ -295,7 +295,7 @@ Good. We'll be waiting at Shiraga Castle.
 @7.0
 Shikanosuke, I've been waiting. How did it go?
 @7.1
-Yes, Tachihara and Akiage have everything ready. Let us head for Shiraga Castle.
+Sir, Tachihara and Akiage have everything ready. Let us head for Shiraga Castle.
 @7.2
 I see. Then let us go at once.
 @7.3
@@ -357,11 +357,11 @@ Have no fear. Just as you rely on \A3A5, I am relying on \A3A2.
 @9.0
 Oh, Shikanosuke! We've been waiting!
 @9.1
-Yes, I have brought our lord.
+Here we are. I have brought our lord.
 @9.2
 Ah, my lord! I am Tachihara Hisatsuna. I am at your service.
 @9.3
-The Amago house stands thanks to all of you. I count on you from now on.
+The Amago house stands thanks to all of you. I'm counting on you from now on.
 @9.4
 \#0AF4, the men are gathered. All that remains is to bring in the Amago supporters inside the castle.
 @9.6

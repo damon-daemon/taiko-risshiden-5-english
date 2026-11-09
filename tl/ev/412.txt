@@ -39,7 +39,7 @@ Well, time I was going.
 @0.20
 Eh? You are leaving this town?
 @0.21
-Yes. I mean to open a dojo in the town of Kanazawa. I have saved enough for it.
+I am. I mean to open a dojo in the town of Kanazawa. I have saved enough for it.
 @0.22
 Farewell, \#0FFE.
 @0.23
@@ -151,7 +151,7 @@ He cannot have gone far yet. Find him, give him the challenge, then come to this
 @1.59
 Very well... Then I take my leave for today.
 @1.60
-Yes... I am counting on you.
+Good... I am counting on you.
 @1.61
 (\#02BC... He must be quite a swordsman.)
 @2.0
@@ -501,7 +501,7 @@ Hmph... All talk. There are too many of his kind lately.
 @10.62
 Master, leave the rest to us.
 @10.63
-Yes... I will rest a while.
+Very well... I will rest a while.
 @10.66
 Now, you are a swordsman too... You know what happens to the loser...?
 @10.67
@@ -669,7 +669,7 @@ Now... I will rest a while in this town.
 @12.1
 Oh, isn't it \#07FE!
 @12.2
-Well, well... Lord \#127C. It has been a long time.
+Why, Lord \#127C! It has been a long time.
 @12.3
 I have heard the rumours about you. They say you defeated \#00CB...
 @12.4
@@ -769,7 +769,7 @@ A fitting place for you or me to die... That is Funashima.
 @13.10
 Which of us will die, I wonder... \#0FFE! Until Funashima!
 @13.11
-Yes... I will be waiting! Do not run away!
+Agreed... I will be waiting! Do not run away!
 @13.12
 Sir, are you perhaps Lord \#07FE?
 @13.13
@@ -873,7 +873,7 @@ Oh, your name... To what?
 @15.54
 I will take the name of the "Ganryu" school I founded, and call myself "Sasaki Ganryu."
 @15.55
-Yes... a good name.
+Hm... a good name.
 @15.61
 Well then, I return to the castle.
 @15.63

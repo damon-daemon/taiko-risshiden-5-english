@@ -19,7 +19,7 @@ But the real test begins now...
 @0.10
 .........\nSo now you aim for the realm...
 @0.11
-Yes. I'll advance to the centre soon and seize the realm with these hands!
+Indeed. I'll advance to the centre soon and seize the realm with these hands!
 @0.12
 \#09D2, you've done well... I thank you...
 @0.13
@@ -69,7 +69,7 @@ Ugh.........\nTo be insulted so at a celebration... I take my leave!
 @1.22
 \#09D2, was that wise? Weren't you a little too harsh?
 @1.23
-You were watching, \%01?
+So you were watching?
 @1.24
 Didn't \#0A33 come intending to submit to the \#11D2 clan?
 @1.25
@@ -101,7 +101,7 @@ Today he only came to see what sort of man I am.
 @1.38
 So I gave him a little scare.
 @1.40
-Yes, just so. Besides, \#0233 is not a man to be trusted.
+Precisely. Besides, \#0233 is not a man to be trusted.
 @1.42
 That is the kind of man \#0233 is.
 @1.43
@@ -203,11 +203,11 @@ Hm, it can't be helped. I'll meet him.
 @3.8
 Ah, sorry to keep you waiting. Now, what brings you here today?
 @3.9
-Yes...\nIn truth, I have a serious request for you, \#09D0...
+Well...\nIn truth, I have a serious request for you, \#09D0...
 @3.10
 Hm, go on.
 @3.11
-Yes...\nWhen I asked Lord \#09D2 to take us as vassals, he said all our ancestral lands would be confiscated...
+My lord...\nWhen I asked Lord \#09D2 to take us as vassals, he said all our ancestral lands would be confiscated...
 @3.12
 My family will starve. I beg you, my retired lord, put in a word for us so our lands may be confirmed.
 @3.13
@@ -409,7 +409,7 @@ What! So he has finally raised troops!
 @7.3
 And what is Lord \#09FA doing?
 @7.4
-Yes! He seems to have called off the attack on the \#1074 and is returning to his main castle.
+My lord! He seems to have called off the attack on the \#1074 and is returning to his main castle.
 @7.5
 Hm... And the \#1074?
 @7.6
@@ -465,7 +465,7 @@ Well done, \#09D2! You've finally beaten the \#1020!
 @10.9
 At last the realm is in sight.
 @10.10
-Yes, just so!
+Exactly so!
 @10.11
 In \M001, \#01D2 defeated \#07F0 in a field battle.
 @10.12
@@ -583,7 +583,7 @@ News! Lord \#11FA's army has returned safely.
 @15.3
 What! The \#1074 didn't pursue the \#11FA!?
 @15.4
-Yes! They were attacked by the \#12D3 army, and it seems they had their hands full defending.
+Sir! They were attacked by the \#12D3 army, and it seems they had their hands full defending.
 @15.5
 Hmm...... That meddling \#12D3......
 @15.6
