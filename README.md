@@ -133,13 +133,14 @@ README.txt. The disc image itself is never packaged.
 | `tl/names_persons.json`, `tl/names_pool.txt` | English officer and character names |
 | `tl/ev/NNN.txt`, `tl/ev/names.txt` | English for the event scripts (TAI5DATA entry NNN), by script and string number; event-only names |
 | `tl/scenarios.txt`, `tl/menu.txt`, `tl/gfx.txt` | Scenario titles and intros; text drawn into graphics |
+| `tl/quiz.txt` | The kanji-reading quiz: question labels and romaji answers (the kanji come from your disc) |
 | `tools/setup.py`, `tools/build.py` | Create `script/`; build the patched disc and the patch |
 | `tools/tl.py` | Validates and word-wraps translations (`apply`, `show`, `stats`) |
 | `tools/evscript.py`, `tools/evtl.py` | Event-script format (parse and rebuild); event translation helper (`show`, `apply`, `stats`) |
 | `tools/iso.py`, `datafile.py`, `msgfile.py`, `msgscript.py`, `text.py` | Disc image, archive and message formats |
 | `tools/vwf.py`, `latinfont.py`, `msgwindow.py`, `msgbuf.py` | Proportional font, message window and buffer patches |
 | `tools/names.py`, `nameplate.py`, `nameentry.py` | English names in the game, speaker plates, English name entry |
-| `tools/ui.py`, `elfstr.py`, `elftables.py`, `elfseg.py`, `battlename.py`, `scenarios.py` | Program text and the English data segment |
+| `tools/ui.py`, `elfstr.py`, `elftables.py`, `elfseg.py`, `battlename.py`, `scenarios.py`, `quiz.py` | Program text and the English data segment |
 | `tools/tk5p.py`, `gfx.py`, `menugfx.py` | Texture format (decoder and compressor) and redrawn graphics |
 | `tools/overflow.py` | Buffer limits: fails the build when text could overflow a fixed-size buffer in the game |
 | `tools/package.py` | Makes the release zip (patch + README.txt with checksums) |

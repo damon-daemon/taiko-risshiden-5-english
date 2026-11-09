@@ -214,6 +214,9 @@ def candidates(elf):
         covered.append((base, base + st * cnt))
     covered.append((names.OFFICERS, names.OFFICERS + names.OFF_REC * names.OFF_COUNT))
     covered.append((names.POOL, names.POOL + names.POOL_REC * names.POOL_COUNT))
+    import quiz                     # the kanji-reading quiz strings (tools/quiz.py)
+    for at, (va, b) in quiz.english(elf).items():
+        covered.append((_f(va), _f(va) + len(slot(elf, va)[0]) + 1))
     out, o, hi = [], _f(DATA_LO), _f(DATA_HI)
     while o < hi:
         if elf[o] == 0:
