@@ -1858,17 +1858,17 @@ Foolish wretch...\nIf you had time for excuses, you should have run...\nGo to he
 @519.*
 .........
 @520
-No intention of talking, eh...\nHmph, small fry like {01}C{19}{00} aren't worth killing.\nBegone, now!
+No intention of talking, eh...\nHmph, small fry like you aren't worth killing.\nBegone, now!
 @520.1
-No intention of talking, it seems...\nHmph, small fry like {01}C{19}{00} aren't worth killing.\nBegone, now!
+No intention of talking, it seems...\nHmph, small fry like you aren't worth killing.\nBegone, now!
 @521
 No intention of talking, eh.\nSo eager to die...\nThen I'll send you to the next world. Hmph!
 @521.1
 No intention of talking, it seems.\nSo eager to die, you fool...\nThen I'll send you to the next world. Hah!
 @522
-Cu... curses...\nIs there no one in {02}{0B}e\nwho can defeat {01}C{19}{00}...
+Cu... curses...\nIs there no one in {02}{0B}e\nwho can defeat you...
 @522.1
-Cu... curses...\nIs there no one in {02}{0B}e\nwho can defeat {01}C{19}{00}...
+Cu... curses...\nIs there no one in {02}{0B}e\nwho can defeat you...
 @523
 Ugh, curses...\nBut {02}{0B}e does not forgive failure...\nI'll... take you... with me...
 @523.1
@@ -1982,7 +1982,7 @@ Really? I didn't see one...\n...A rather unsettling tale.\nLet's continue anothe
 @543.1
 ...{01}C1{00},\nthis tea seems suspicious...\nPlease drink it first.
 @543.2
-...{01}C1{00},\nthis tea feels suspicious...\nPlease, {01}C{19}{00} drink first.
+...{01}C1{00},\nthis tea feels suspicious...\nPlease, you drink first.
 @544
 (...They've noticed!)
 @544.1
@@ -1994,11 +1994,11 @@ Why won't you drink it?\nWhat did you mean by plotting against me?!
 @545.2
 Why won't you drink it?\nWhat did you mean\nby plotting against me?!
 @546
-I can't let {01}C{19}{00} go just like that.\nNow, you will take responsibility.
+I can't let you go just like that.\nNow, you will take responsibility.
 @546.1
-I can't let {01}C{19}{00} go just like that.\nNow, you will be made\nto take responsibility.
+I can't let you go just like that.\nNow, you will be made\nto take responsibility.
 @546.2
-I can't let {01}C{19}{00} go just like that.\nNow, you will\ntake responsibility.
+I can't let you go just like that.\nNow, you will\ntake responsibility.
 @547
 ...Why won't you drink it?\nIs there something on your conscience...?\n\nHmph... to think I served such a person.\nThe blunder of my life...
 @547.1
@@ -2006,11 +2006,11 @@ I can't let {01}C{19}{00} go just like that.\nNow, you will\ntake responsibility
 @547.2
 ...Why won't you drink it?\nIs there something on your conscience...?\n\nTo think I served such a person...\nI must have had no eye for people...
 @548
-I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nGet out.
+I owe you no more loyalty.\nHere we part ways.\nGet out.
 @548.1
-I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nPlease leave.
+I owe you no more loyalty.\nHere we part ways.\nPlease leave.
 @548.2
-I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nPlease leave.
+I owe you no more loyalty.\nHere we part ways.\nPlease leave.
 @549
 ...Why won't you drink it?\nIs there something on your conscience...?\n\nTo have kept such a person...\n{01}C{0E}{00} had no eye for people...
 @549.1
@@ -2018,17 +2018,17 @@ I owe {01}C{19}{00} no more loyalty.\nHere we part ways.\nPlease leave.
 @549.2
 ...Why won't you drink it?\nIs there something on your conscience...?\n\nTo have kept such a person...\n{01}C{0E}{00} had no eye for people...
 @550
-From now on, you are\nno longer in {01}C{19}{00}'s service.\nI'm leaving; begone with you.
+From now on, I am\nno longer in your service.\nI'm leaving; begone with you.
 @550.1
-From now on, I take my leave\nof {01}C{19}{00}'s service.\nI'm leaving; please go.
+From now on, I take my leave\nof your service.\nI'm leaving; please go.
 @550.2
-From now on, I take my leave\nof {01}C{19}{00}'s service.\nI'm leaving; please go.
+From now on, I take my leave\nof your service.\nI'm leaving; please go.
 @551
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @551.1
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @551.2
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @552
 As a samurai's mercy,\nI'll end you with my own hand.\nAre you ready? Hmph!
 @552.1
@@ -2066,11 +2066,11 @@ Now nothing binds me...\nNo one can blame me for rebelling!
 @559.1
 Now nothing binds me...\nNo one can blame me for rebelling!
 @560
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @560.1
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @560.2
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @561
 {01}C{D2}{11}:\nI'll end you with my own hand.\nAre you ready? Hmph!
 @561.1
@@ -2082,35 +2082,35 @@ As a samurai's mercy
 @562.1
 As a last mercy
 @563
-{01}C{A7}{01} has no need of traitors.\nAs of now, {01}C{19}{00} is banished.\nGo wherever you like.
+{01}C{A7}{01} has no need of traitors.\nAs of now, you are banished.\nGo wherever you like.
 @563.1
-{01}C{A7}{01} has no need of traitors.\nAs of now, {01}C{19}{00} is banished.\nGo wherever you like.
+{01}C{A7}{01} has no need of traitors.\nAs of now, you are banished.\nGo wherever you like.
 @563.2
-{01}C{A7}{01} has no need of traitors!\nAs of now, {01}C{19}{00} is banished.\nGo wherever you like.
+{01}C{A7}{01} has no need of traitors!\nAs of now, you are banished.\nGo wherever you like.
 @564
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @564.1
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @564.2
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @565
-Someone like {01}C{19}{00} shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nAre you ready? Hmph!
+Someone like you shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nAre you ready? Hmph!
 @565.1
-Someone like {01}C{19}{00} shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nPrepare yourself! Hmph!
+Someone like you shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nPrepare yourself! Hmph!
 @565.2
-Someone like {01}C{19}{00} shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nAre you ready? Hah!
+Someone like you shames {01}C{A7}{01}!\n{01}C{0E}{00} will punish you for {01}C {00}.\nAre you ready? Hah!
 @566
-Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
+Someone like you shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
 @566.1
-Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
+Someone like you shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
 @566.2
-Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
+Someone like you shames {01}C{A7}{01}!\nI banish you on behalf of {01}C {00}.\nGo wherever you like.
 @567
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @567.1
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @567.2
-...Why won't you drink it?\n{01}C{19}{00}, you've done\nsomething unforgivable...
+...Why won't you drink it?\nYou've done\nsomething unforgivable...
 @568
 ...Even a member of {02}{01}{EC}\ncan't be let off.\nAre you ready? Hmph!
 @568.1
@@ -2118,17 +2118,17 @@ Someone like {01}C{19}{00} shames {01}C{A7}{01}!\nI banish you on behalf of {01}
 @568.2
 ...Even a member of {02}{01}{EC}\ncan't be let off.\nAre you ready? Hah!
 @569
-...{01}C{19}{00} isn't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
+...You aren't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
 @569.1
-...{01}C{19}{00} isn't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
+...You aren't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
 @569.2
-...{01}C{19}{00} isn't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
+...You aren't even worth cutting down.\nLeave {01}C{A7}{01} and I'll let you go.\nGo wherever you like.
 @570
-Ugh... as long as {01}C{19}{00} holds sway,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Farewell.
+Ugh... as long as you hold sway,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Farewell.
 @570.1
-Ugh... as long as {01}C{19}{00} holds sway,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Farewell!
+Ugh... as long as you hold sway,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Farewell!
 @570.2
-Ugh... as long as {01}C{19}{00} is here,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Goodbye.
+Ugh... as long as you are here,\nthe future of {02}{01}{EC} is plain.\nI won't go down with you. Goodbye.
 @571.*
 {02}{02}g has fled {02}{02}{EC}.
 @572
@@ -2174,13 +2174,13 @@ As expected of a tea master\nlike {01}C1{00}, fine tea ware.
 @581.1
 As expected of a tea master\nlike {01}C1{00}, you have fine tea ware.
 @581.2
-As expected of a tea master\nlike {01}C{19}{00}, you have fine tea ware.
+As expected of a tea master\nlike you, you have fine tea ware.
 @582
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you sell it for {02}o{C8}?
+By the way, rumor has it you\nown {02}3g...\nWould you sell it for {02}o{C8}?
 @582.1
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you part with it for {02}o{C8}?
+By the way, rumor has it you\nown {02}3g...\nWould you part with it for {02}o{C8}?
 @582.2
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you part with it for {02}o{C8}?
+By the way, rumor has it you\nown {02}3g...\nWould you part with it for {02}o{C8}?
 @583
 Not enough, you say...\nThen I'll offer all I have.\nPlease, sell it for {02}o{C8}.
 @583.1
@@ -2200,17 +2200,17 @@ Really?!\nI'm overjoyed.\nIt shall be our heirloom forever!
 @585.2
 Really?!\nI'm overjoyed.\nIt shall be our heirloom forever.
 @586
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to me.
+By the way, rumor has it you\nown {02}3g...\nPlease, give it to me.
 @586.1
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nPlease, give it to me.
+By the way, rumor has it you\nown {02}3g...\nPlease, give it to me.
 @586.2
-By the way, rumor has it {01}C{19}{00}\nowns {02}3g...\nWould you give it to me?
+By the way, rumor has it you\nown {02}3g...\nWould you give it to me?
 @587
-If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nWell? Not a bad deal, is it?
+If you agree, I'll make you\nlord of my castle {02}{15}e.\nWell? Not a bad deal, is it?
 @587.1
-If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nWhat say you? Not a bad deal, surely?
+If you agree, I'll make you\nlord of my castle {02}{15}e.\nWhat say you? Not a bad deal, surely?
 @587.2
-If you agree, I'll make {01}C{19}{00}\nlord of my castle {02}{15}e.\nNot a bad deal, I think. What say you?
+If you agree, I'll make you\nlord of my castle {02}{15}e.\nNot a bad deal, I think. What say you?
 @588
 What, you refuse?\n{02}3g in exchange for {02}{15}e!\nYou won't get an offer like this again!
 @588.1
@@ -2224,11 +2224,11 @@ Mmm... a gem like {02}3g\nis worth more than a castle...\nNow I want it even mor
 @589.2
 I see... a gem like {02}3g\nis worth more than a castle...\n...A pity. Now I want it even more.
 @590
-Really! Splendid!\nThen from today, {02}{15}e\nbelongs to {01}C{19}{00}.
+Really! Splendid!\nThen from today, {02}{15}e\nbelongs to you.
 @590.1
-You agree! Splendid!\nThen from today, {02}{15}e\nshall belong to {01}C{19}{00}.
+You agree! Splendid!\nThen from today, {02}{15}e\nshall belong to you.
 @590.2
-Really! Splendid!\nThen from today, {02}{15}e\nshall belong to {01}C{19}{00}.
+Really! Splendid!\nThen from today, {02}{15}e\nshall belong to you.
 @591
 Serve {02}{01}{EC} well from now on.\nI'll make the arrangements at once.
 @591.1
