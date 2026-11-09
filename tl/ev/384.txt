@@ -25,7 +25,7 @@ Ah, Lord \#0FFE. Where are you off to?
 @0.13
 Mm, I'm going to the Hamawaki hot springs.
 @0.14
-Yes, sir. Have a safe trip.
+Very good, sir. Have a safe trip.
 @0.15
 Lord \#0FFE, I've been hearing a strange rumour lately...
 @0.17
@@ -139,7 +139,7 @@ As heir of the \#132B, you must master both letters and arms, and know your mann
 @3.11
 Mm. If I hear more rumours like this, I'll have to reconsider the succession...
 @3.12
-Old lord, you mustn't say such rash things!
+My lord, you mustn't say such rash things!
 @3.13
 W-well, yes. Anyway, work hard.
 @3.15

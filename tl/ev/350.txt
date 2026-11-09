@@ -681,7 +681,7 @@ By the way, I have one request.
 @11.19
 Wh-what is it? Speak!
 @11.20
-Yes, my lord. Your battle surcoat is truly magnificent. Would you grant it to me, \#09FA?
+My lord, your battle surcoat is truly magnificent. Would you grant it to me, \#09FA?
 @11.21
 My surcoat...? That is what I wear in battle. If you want one, I will have a new one made for you...
 @11.22
@@ -735,7 +735,7 @@ Have you come to see the finished castle too?
 @12.2
 \%04205! A truly splendid castle!
 @12.3
-Yes... When I heard it was finished, I could not keep still...
+My lord... When I heard it was finished, I could not keep still...
 @12.4
 I have never seen a keep that shines like this.
 @12.5
@@ -825,7 +825,7 @@ How could I ever slight you, Lord \#08BF, our late lord's own son?
 @14.12
 Y-yes... Quite so. A-anyway, I trust you. I am counting on you from now on.
 @14.13
-Yes, my lord! Most gracious words. Then I shall take my leave.
+My lord! Most gracious words. Then I shall take my leave.
 @14.15
 Ha ha ha! \#08BF is a hopelessly good-natured fool. At this rate he will ruin himself sooner or later...
 @14.16
@@ -915,7 +915,7 @@ We must show the realm who Lord \#08C3's successor is.
 @16.6
 Then it must be done in grand style.
 @16.7
-Yes. It must be a funeral grander than any ever seen!
+Indeed. It must be a funeral grander than any ever seen!
 @16.8
 In month \M002 of \M001, \#0205 held a funeral for \#00C3.
 @16.9
@@ -945,7 +945,7 @@ How about holding a funeral for Lord \#08C3?
 @16.23
 Then it must be done in grand style.
 @16.24
-Yes! It must be a funeral grander than any ever seen!
+Indeed! It must be a funeral grander than any ever seen!
 @16.29
 Lord \#0A05 has held Lord \#08C3's funeral!
 @16.30
@@ -1241,7 +1241,7 @@ What! She took her own life?
 @30.1
 News, sir! Our lord has fought a battle with \#01FA's forces at Komaki!
 @30.4
-Yes... In truth, Lord \#00BF joined hands with \#01FA and rose in revolt against our house!
+My lord... In truth, Lord \#00BF joined hands with \#01FA and rose in revolt against our house!
 @30.8
 Well... Our lord fell into \#01FA's trap and was defeated.
 @30.9

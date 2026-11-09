@@ -1,11 +1,11 @@
 @0
 Hm, {01}C1{00}...\nWhat a coincidence,\nmeeting in a place like this.\nWell, do your best.\nI look forward to the next council.\nFarewell, then.
 @0.1
-Hm, {01}C1{00}...\nOf all places,\nto meet you here.\nWell, we know how you will do.\nI look forward to the next council.\nNo reason to stay. Farewell.
+Hm, {01}C1{00}...\nOf all places,\nto meet you here.\nWell, we know how you will do.\nI look forward to the next council.\nI mustn't linger. Farewell.
 @1
 Oh, {01}C1{00}...\nI never thought\nwe'd meet here.\nWell, do your best.\nI look forward to the next council.\nExcuse me, then.
 @1.1
-Oh, {01}C1{00}...\nOf all places,\nto meet you here.\nWell, we know how you will do.\nI look forward to the next council.\nNo reason to stay. Bye now~
+Oh, {01}C1{00}...\nOf all places,\nto meet you here.\nWell, we know how you will do.\nI look forward to the next council.\nI mustn't linger. Bye now~
 @2
 Hm, {01}C1{00}...\nWhat a coincidence,\nmeeting you in a place like this.\nWell, do your best.\nI look forward to the next council.\nFarewell, then.
 @2.1
@@ -317,13 +317,13 @@ Oh, a ronin?\nWelcome to my home.
 @109.1
 You're with {02}{02}{EC}?\nWelcome to my home.
 @110
-Oh, it's {01}C1{00}.
+Oh, it's you, {01}C1{00}.
 @110.1
 Ah, {01}C1{00}.\nWelcome to my home.
 @110.2
 Ah, {01}C1{00}!\nYou're most welcome.
 @111
-Oh, it's {01}C1{00}.
+Oh, it's you, {01}C1{00}.
 @111.1
 My, {01}C1{00}.\nWelcome to my home.
 @111.2
@@ -345,11 +345,11 @@ What is it? So formal.
 @114.2
 Yes, what is it?
 @115
-I'll be blunt.\nLord {02}{03}f very much wishes\nto invite {01}C1{00} to serve.
+I'll be blunt.\nLord {02}{03}f very much wishes\nto invite you to serve.
 @115.1
-I'll be blunt.\nLord {02}{03}f very much wishes\nto invite {01}C1{00} to serve.
+I'll be blunt.\nLord {02}{03}f very much wishes\nto invite you to serve.
 @115.2
-I'll be blunt.\nLord {02}{03}f very much wishes\nto invite {01}C1{00} to serve.
+I'll be blunt.\nLord {02}{03}f very much wishes\nto invite you to serve.
 @116
 {01}C{0E}{00}...?\nIs that true?
 @116.1
@@ -393,9 +393,9 @@ I see......\nUnderstood.
 @122.2
 I see...\nUnderstood.
 @125
-I'll be blunt.\nI want to take {01}C1{00}\non as my {01}C{AA}{01}.
+I'll be blunt.\nI want to take you\non as my {01}Cｪ{01}.
 @125.1
-I'll be blunt.\nI wish to invite {01}C1{00}\nas my {01}C{AA}{01}.
+I'll be blunt.\nI wish to invite you\nto be my {01}Cｪ{01}.
 @125.2
 I'll be blunt.\n{01}C1{00}, I'd like to invite you\nas my {01}C{AA}{01}.
 @126
@@ -423,13 +423,13 @@ I'm deeply grateful!\nPlease add me\nto the lowest seat of {02}{02}{EC}.
 @129.2
 Such gracious words.\nPlease add me\nto the lowest seat of {02}{02}{EC}.
 @130
-Oh! I was waiting for that answer!\nWith you, we're a hundred strong.\nMost reassuring.
+Oh! I was waiting for that answer!\nWith you, it's like having a hundred men.\nMost reassuring.
 @130.1
-Oh! I'm grateful!\nWith you joining us,\nwe're a hundred strong.
+Oh! I'm grateful!\nWith you joining us,\nit's like having a hundred men.
 @130.2
-Thank you very much!\nWith you joining us,\nwe're a hundred strong.
+Thank you very much!\nWith you joining us,\nit's like having a hundred men.
 @134
-Who's there?\n...Oh, {01}C1{00}! It's {01}C1{00}!
+Who's there?\n...Oh, {01}C1{00}! It's you!
 @134.1
 Welcome...\n...Oh, who might you be?
 @134.2
@@ -451,7 +451,7 @@ Oh, welcome home.
 @137.1
 Oh, {01}C1{00},\nwelcome.\nThank you for always looking after Tokichiro.
 @137.2
-Oh, isn't that {01}C1{00}?\nWelcome.
+Oh, if it isn't you, {01}C1{00}!\nWelcome.
 @138
 What's the matter today?
 @138.1
@@ -487,13 +487,13 @@ Hello.\nI am {02}{01}g.
 @143
 A ronin, are you?\nAnyway, I look forward to knowing you.
 @143.1
-You're with {02}{0B}e?\nWell, well...
+You're with {02}{0B}e?\nWhy, how nice...
 @143.2
 You're with {02}{0B}e?\nPlease favor us from now on.
 @144
 A ronin?\nPlease favor us from now on.
 @144.1
-You're with {02}{0B}e?\nMy, well, well...
+You're with {02}{0B}e?\nOh, my...
 @144.2
 You're with {02}{0B}e?\nPlease favor us from now on.
 @145
@@ -503,11 +503,11 @@ Welcome.\nThank you for your custom.
 @145.2
 Ah, {01}C1{00},\ngood of you to come.
 @145.3
-Well, well, {01}C1{00},\nthank you for your custom.
+Ah, {01}C1{00},\nthank you for your custom.
 @145.4
-Why, isn't it {01}C1{00}!\nGood of you to come.
+Why, it's you, {01}C1{00}!\nGood of you to come.
 @145.5
-Well, well, {01}C1{00},\nthank you for coming.
+Why, {01}C1{00},\nthank you for coming.
 @146
 Welcome.\nThank you for your custom.
 @146.1
@@ -515,7 +515,7 @@ Oh, {01}C1{00},\nthank you for your custom.
 @146.2
 Why, {01}C1{00},\nwelcome.
 @147
-Oh, it's {01}C1{00}.
+Oh, it's you, {01}C1{00}.
 @147.1
 Welcome.
 @147.2
@@ -611,7 +611,7 @@ What would you sell us?
 @162.2
 What would you sell us?
 @163
-{02}3g, I'll take\nat {02}o{C8} each.\nHow many will you sell?
+{02}3g? I'll buy them\nat {02}oﾈ each.\nHow many will you sell?
 @163.1
 {02}3g, we'll take\nat {02}o{C8} each.\nHow many will you sell?
 @163.2
@@ -691,15 +691,15 @@ How do you do?\nI am {02}{01}g.
 @177
 Oho, Lord {02}{02}g.\nWelcome.
 @178
-Oh, it's {01}C1{00}...
+Oh, it's you, {01}C1{00}...
 @178.1
 Ah, Lord {02}{02}g.
 @178.2
 Ah, {01}C1{00}.\nGood of you to come.
 @178.3
-Oh, it's {01}C1{00}.
+Oh, it's you, {01}C1{00}.
 @178.4
-Why, isn't it {01}C1{00}!\nGood of you to come.
+Why, it's you, {01}C1{00}!\nGood of you to come.
 @178.5
 Ah, {01}C1{00}.
 @178.6
@@ -755,19 +755,19 @@ Medicine is expensive... use it carefully.\nBut don't be too stingy with it eith
 @190.1
 Medicine is precious...\nPlease use it carefully.
 @191
-Oh, it's {01}C1{00}...
+Oh, it's you, {01}C1{00}...
 @191.1
 Welcome.
 @191.2
 Ah, {01}C1{00}.\nGood of you to come.
 @191.3
-Oh, it's {01}C1{00}.\nWelcome.
+Oh, it's you, {01}C1{00}.\nWelcome.
 @191.4
-Why, isn't it {01}C1{00}!\nGood of you to come.
+Why, it's you, {01}C1{00}!\nGood of you to come.
 @191.5
 Ah, {01}C1{00}.\nWelcome.
 @191.6
-Why, it's {01}C1{00}!\nGood of you to come.
+Why, it's you, {01}C1{00}!\nGood of you to come.
 @191.7
 Ah, {01}C1{00}.\nWe've been expecting you.
 @192
@@ -803,9 +803,9 @@ Then how about {02}o{C8}?
 @199.1
 Not satisfied...... then\nhow about {02}o{C8}?
 @200
-Oh, all right...\nIf my dear {01}C1{00} asks...\nhow about {02}o{C8}?
+Oh, all right...\nFor you, my dear...\nhow about {02}oﾈ?
 @200.1
-Very well.\nSince it's {01}C1{00} asking,\nhow about {02}o{C8}?
+Very well.\nSince it's you asking,\nhow about {02}oﾈ?
 @201
 Sorry, but go home for today.
 @201.1
@@ -843,7 +843,7 @@ Then how about {02}o{C8}?
 @209.1
 Not satisfied...... then\nhow about {02}o{C8}?
 @210
-Oh, all right...\nIf my dear {01}C1{00} asks...\nhow about {02}o{C8}?
+Oh, all right...\nFor you, my dear...\nhow about {02}oﾈ?
 @210.1
 Very well.\nSince it's Lord {02}{02}g asking,\nhow about {02}o{C8}?
 @211
@@ -855,9 +855,9 @@ Appraisal costs {02}o{C8}.\nYou seem short of money...
 @212.1
 Appraisal costs {02}o{C8}.\nYou seem short of money.
 @213
-Something to appraise?\nSince my dear {01}C1{00} asks,\nno charge.
+Something to appraise?\nFor you, my dear,\nno charge.
 @213.1
-An appraisal?\nIf {01}C1{00} asks,\nwe won't take any money.
+An appraisal?\nFor you,\nwe won't take any money.
 @213.2
 Appraisal is {02}o{C8} apiece.\nAll right?
 @213.3
@@ -887,15 +887,15 @@ Welcome.
 @219.2
 Oh, {01}C1{00}...\nGood of you to come.
 @219.3
-Oh, it's {01}C1{00}.\nYou're most welcome.
+Oh, it's you, {01}C1{00}.\nYou're most welcome.
 @219.4
 Ah, {01}C1{00}...\nGood of you to come.
 @219.5
 Well, {01}C1{00},\nwelcome.
 @219.6
-Why, isn't it {01}C1{00}!\nI'm glad you came.
+Why, it's you, {01}C1{00}!\nI'm glad you came.
 @219.7
-Well, well, {01}C1{00},\nI've wanted to see you.
+Oh, {01}C1{00}!\nI've so wanted to see you.
 @220
 Ah, {01}C1{00}.
 @220.1
@@ -913,9 +913,9 @@ Appraisal costs {02}o{C8}...\nbut you don't seem to have it on you.
 @223.1
 Appraisal costs {02}o{C8}.\nI'm afraid you don't have enough on you.
 @224
-An appraisal...\nSince {01}C1{00} asks, I'll do it for free.
+An appraisal...\nSince it's you asking, I'll do it for free.
 @224.1
-An appraisal?\nIf {01}C1{00} asks,\nthere's no charge.
+An appraisal?\nFor you,\nthere's no charge.
 @224.2
 Appraisal is {02}o{C8} apiece.\nAll right?
 @224.3
@@ -1095,7 +1095,7 @@ Oh, it cannot be heelped......\nHow about {02}o{C8}?
 @270
 Hmm, you have me beaten.\nNo choice at aall.\nHow about {02}o{C8}?
 @271
-We cannot do business.\nPlease go hoome.
+We cannot do business-ah.\nPlease go home-ah.
 @272
 Thank yooou!
 @273
@@ -1155,9 +1155,9 @@ Hm? A mere ronin, is it?
 @295.3
 One of {02}{02}{EC}, is it?
 @296
-Oh, well, well,\n{01}C1{00}, the famed tea sage.\nYou are most welcome.
+Oh, what an honour!\n{01}C1{00}, the famed tea sage.\nYou are most welcome.
 @296.1
-Oh, well, well,\n{01}C1{00}, the famed tea immortal.\nYou are most welcome.
+Oh, what an honour!\n{01}C1{00}, the famed tea immortal.\nYou are most welcome.
 @296.2
 What is your business?\nI shall hear it.
 @296.3
@@ -1165,9 +1165,9 @@ Oh, what was your name again......\nWhat brings you here today?
 @296.4
 Oh, one of {02}{02}{EC}.\nSo, what is your business today?
 @296.5
-Ah, it is {01}C1{00}.\nSo, what is your business today?
+Ah, it is you, {01}C1{00}.\nSo, what is your business today?
 @296.6
-Ah, if it isn't {01}C1{00}.\nGood of you to come.
+Ah, if it isn't you, {01}C1{00}.\nGood of you to come.
 @297
 What will you do?
 @298
@@ -1195,7 +1195,7 @@ Ah, Harusue.\nAnd what is your business?
 @309
 Oho, is that so.\nThis {02}{02}e...\nWe thank you.
 @310
-Yes, Your Majesty!\nPlease accept it.
+At once, Your Majesty!\nPlease accept it.
 @311
 We are pleased by your loyal service.\nWe appoint {02}{03}g to {02}yd.\nWe rely on you.
 @311.1
@@ -1225,19 +1225,19 @@ What, {02}yd!\nYes, Your Majesty, I am deeply honored!
 @315
 Good, you have done well.\nYou may both withdraw.
 @316
-Yes.\nThen, {01}C1{00},\nI shall take my leave.
+Very well.\nThen, {01}C1{00},\nI shall take my leave.
 @317
 Oh, you are Lord {02}{02}g.\nYou have come at just the right time.
 @318
 ......The right time?
 @319
-His Majesty, recognizing your daily work,\nwill grant you the post of {02}yd.\nAccept it humbly.
+In recognition of your service,\nHis Majesty grants you the post of {02}yd.\nReceive it with reverence.
 @320
 {02}yd for me......\nAn honor beyond my station.\nPlease convey my thanks to His Majesty.
 @321
 Good.\nHis Majesty will be pleased.\nYou may withdraw.
 @322
-Yes.\nI take my leave.
+Sir!\nI take my leave.
 @323
 Good of you to come... but\nHis Majesty seems busy.\nPlease come another time.
 @323.1
@@ -1259,13 +1259,13 @@ A pleasure to meet you.\nI am {02}{01}g.
 @327.1
 How do you do?\nI am {02}{01}g.
 @328
-A ronin, are you?\nAnyway, I look forward to knowing you.
+A ronin, are you?\nAnyway, I hope we'll get along.
 @328.1
-You're with {02}{02}{EC}?\nWell, well,\nwelcome.
+You're with {02}{02}{EC}?\nOh, my!\nWelcome.
 @329
 Welcome.
 @329.1
-Oh, it's {01}C1{00}.\nWelcome.
+Oh, it's you, {01}C1{00}.\nWelcome.
 @329.2
 Why, {01}C1{00},\nwelcome.
 @329.3
@@ -1291,7 +1291,7 @@ You don't have any\nunappraised items.
 @339
 Appraisal costs {02}o{C8}......\nbut you don't seem to have it on you.
 @340
-An appraisal? Very well.\nIf {01}C1{00} asks,\nwe won't take any money.
+An appraisal? Very well.\nFor you,\nwe won't take any money.
 @340.1
 Appraisal is {02}o{C8} apiece.\nIs that all right?
 @341
@@ -1311,13 +1311,13 @@ Hm... I'd say this is {02}3g...
 @344.1
 ...This is the place.\nFirst I must find out where\n{01}C1{00}, owner of {02}3g, is.
 @345
-Hm, {01}C1{00} is at home.\nBetter come back later.
+Hm, the owner is at home.\nBetter come back later.
 @345.1
-Ah, {01}C1{00} is at home.\nBetter come back later.
+Ah, the owner is at home.\nBetter come back later.
 @346
-Good, luck is with me.\n{01}C1{00} seems to be out.\nI'll take {02}3g while I can.
+Good, luck is with me.\nThe owner seems to be out.\nI'll take {02}3g while I can.
 @346.1
-Good, luck is with me.\n{01}C1{00} seems to be out.\nI'll take {02}3g while I can.
+Good, luck is with me.\nThe owner seems to be out.\nI'll take {02}3g while I can.
 @347
 Now, where's the hiding place?
 @347.1
@@ -1339,9 +1339,9 @@ Not here, then.
 @352
 ......
 @353
-Damn, {01}C1{00} seems to be back.\nI'll come back later.
+Damn, the owner seems to be back.\nI'll come back later.
 @353.1
-Oh no, {01}C1{00} seems to be back.\nI'll come back later.
+Oh no, the owner seems to be back.\nI'll come back later.
 @354
 ...It seems luck really is with me today.\nNo sign of them coming home yet.\nI'll keep looking for {02}3g.
 @354.1
@@ -1391,9 +1391,9 @@ Heave-ho...\nHmm, quite heavy.
 @359.9
 Heave-ho...\nUgh, really heavy.
 @360
-Right, no reason to stay here.\nTiptoe, tiptoe...
+Right, I mustn't linger here.\nTiptoe, tiptoe...
 @360.1
-Right, no reason to stay here.\nTiptoe, tiptoe...
+Right, I mustn't linger here.\nTiptoe, tiptoe...
 @361
 ......
 @362
@@ -1443,7 +1443,7 @@ The notoriety of {02}{02}g, who gave the\nmission, and {02}{03}g, who carried it
 @375
 Hm!\nWretch, whose agent are you?!
 @375.1
-Is that... {01}C1{00} there?
+Is that... you, {01}C1{00}?
 @376
 No more words... prepare yourself!
 @377
@@ -1739,9 +1739,9 @@ Good, I'm disguised as {02}{01}g.\nNow then...
 @427
 Yes...\nWhat is it?
 @427.1
-Yes, sir!\nWhat can I do for you?
+Sir!\nWhat can I do for you?
 @427.2
-Yes, sir!\nWhat can I do for you?
+Sir!\nWhat can I do for you?
 @427.3
 Y-yes!\nWhat brings you here today?
 @427.4
@@ -1751,7 +1751,7 @@ Hm?\nWhat?
 @427.6
 Y-yes,\nwhat is it?
 @427.7
-...Oh, it's {01}C1{00}.
+...Oh, it's you, {01}C1{00}.
 @428
 ...Oops.
 @428.1
@@ -1835,11 +1835,11 @@ Oho, a {02}{02}{EC} shop.
 @437.2
 Oh, a {02}{02}{EC} shop\nis advertising.
 @438
-Well, well, my my...\n\n\nWhat a fine shop.\nThis looks promising.
+Hmm, my my...\n\n\nWhat a fine shop.\nThis looks promising.
 @438.1
-Well, well, my my...\n\n\nQuite a fine shop.\nThis looks promising.
+Hmm, my my...\n\n\nQuite a fine shop.\nThis looks promising.
 @438.2
-Well, well, my my...\n\n\nHey, what a shabby shop.\n...Better stay away.
+Hmm, my my...\n\n\nHey, what a shabby shop.\n...Better stay away.
 @439
 Five days since we started advertising...\n\n\nHmm,\nthe shop is deserted.\nSadly the promotion had no effect.
 @439.1
@@ -1915,11 +1915,11 @@ How are domestic policy and\narmament progressing at present?
 @452.8
 How are battle preparations going?
 @453
-Yes, reports say\nthe work is going smoothly.
+Sir, reports say\nthe work is going smoothly.
 @454
 Everyone, work toward\n"Develop Territory".
 @454.1
-Everyone, work toward\n"Defend Territory".
+Everyone, give priority to\n"Defend Territory".
 @454.2
 Everyone, work toward\n"Take {02}{15}e".
 @454.3
@@ -2523,15 +2523,15 @@ M-my!\n\n\n...I'm happy you feel so, but\nthe memory of betrayal between us\nwil
 @594
 M-my!\n\n\n...Marriage is a decision that shapes a life.\nIf I can, I wish to marry\nsomeone who has seen much of the world.
 @595
-Yes!\n\n\n{01}C{0E}{00} have traveled all over Japan\nand burned the famous sights into my eyes.\n\nI wish you could know\ntheir beauty and wonder too.
+Indeed!\n\n\n{01}C{0E}{00} have traveled all over Japan\nand burned the famous sights into my eyes.\n\nI wish you could know\ntheir beauty and wonder too.
 @595.1
-Yes!\n\n\n{01}C{0E}{00} have gone to many battlefields\nand drilled strategy into this head.\n\nEven in this age of war,\nwith these wits I'll surely protect you!
+Indeed!\n\n\n{01}C{0E}{00} have gone to many battlefields\nand drilled strategy into this head.\n\nEven in this age of war,\nwith these wits I'll surely protect you!
 @595.2
-Yes!\n\n\n{01}C{0E}{00} have fought many strong foes\nand honed my martial arts single-mindedly.\n\nEven in this age of war,\nwith these arms I'll surely protect you!
+Indeed!\n\n\n{01}C{0E}{00} have fought many strong foes\nand honed my martial arts single-mindedly.\n\nEven in this age of war,\nwith these arms I'll surely protect you!
 @595.3
-Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave earned many titles.\n\nIn this age of war, from every misfortune\nI'll surely protect you!
+Indeed!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave earned many titles.\n\nIn this age of war, from every misfortune\nI'll surely protect you!
 @595.4
-Yes!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave learned many things.\n\nIn this age of war, from every misfortune\nI'll surely protect you!
+Indeed!\n\n\nThrough daily effort, {01}C{0E}{00}\nhave learned many things.\n\nIn this age of war, from every misfortune\nI'll surely protect you!
 @596
 Why would I hesitate to marry\none who has seen so much?\nI humbly accept.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
 @597
@@ -2541,7 +2541,7 @@ Yes!\nLady {02}{02}f...\nno, {02}{02}f!\nHand in hand,\nlet's build a happy home
 @599
 M-my!\n\n\n...Marriage is a decision that shapes a life.\nIf I can, I wish to marry\nsomeone of proper standing.
 @600
-Yes!\n\n\n{01}C{0E}{00} am lord of {02}{15}e!\nYou'll never want for anything.
+Indeed!\n\n\n{01}C{0E}{00} am lord of {02}{15}e!\nYou'll never want for anything.
 @601
 Why would I hesitate to marry\none of such standing?\nI humbly accept.\nI'm inexperienced, but\nplease take care of me forever,\n{02}{02}f.
 @602
@@ -2623,13 +2623,13 @@ Fellow student or not, no holding back.\nNow, the match.
 @626.4
 Ah, {01}C1{00}.\nI'll enjoy the fine arts\nof {02}{02}{C7}.
 @626.5
-My opponent is {01}C1{00}, is it?\nI'll enjoy the fine arts\nof {02}{02}{C7}.
+So my opponent is you, {01}C1{00}?\nI'll enjoy the fine arts\nof {02}{02}ﾇ.
 @626.6
 {02}{02}{C7}, eh...\nA worthy opponent.
 @626.7
 For the honor of {02}{01}{EC},\nI'll face you.
 @626.8
-To fight {01}C1{00} here\nis an honor.\n{02}{01}g, here I come!
+To fight you here\nis an honor.\n{02}{01}g, here I come!
 @626.9
 {01}C1{00},\na worthy opponent.\n{02}{01}g, here I come!
 @626.10
@@ -2643,13 +2643,13 @@ Fellow student or not, no holding back.\nNow, the match.
 @626.14
 My, {01}C1{00}.\nI'll enjoy the fine arts\nof {02}{02}{C7}.
 @626.15
-My opponent is {01}C1{00}, is it?\nI'll enjoy the fine arts\nof {02}{02}{C7}.
+So my opponent is you, {01}C1{00}?\nI'll enjoy the fine arts\nof {02}{02}ﾇ.
 @626.16
 {02}{02}{C7}...\nA worthy opponent.
 @626.17
 For the honor of {02}{01}{EC},\nI'll face you.
 @626.18
-To fight {01}C1{00} here\nis an honor.\n{02}{01}g, here I come!
+To fight you here\nis an honor.\n{02}{01}g, here I come!
 @626.19
 {01}C1{00},\na worthy opponent.\n{02}{01}g, here I come!
 @626.20

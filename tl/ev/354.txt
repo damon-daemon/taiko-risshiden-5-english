@@ -41,7 +41,7 @@ Ah, you. I was thinking that we must support Lord \#0A18.
 @0.25
 I see. With Joshu so unsettled, you and I must work hard for the \#1218 house.
 @0.26
-Yes, I'm honoured. But don't you have something else on your mind as well?
+You honour me. But don't you have something else on your mind as well?
 @0.29
 But that is for later. You can't do as you please now. First, serve well.
 @0.36
@@ -177,7 +177,7 @@ Grave news! \#01C1 of Kai has marched to invade Kozuke!
 @10.26
 What!? \#09C1 has marched on Kozuke!
 @10.27
-Yes! His army is about 20,000! It seems he means to besiege this castle with a great force!
+He has! His army is about 20,000! It seems he means to besiege this castle with a great force!
 @10.28
 Ugh, such a huge army... \%027F0, what will you do?
 @10.29

@@ -9,7 +9,7 @@ Lord \#07FE, we have been waiting for you. Lord \#0877 is in the castle.
 @1.4
 Lord \#0B20, I am honoured that you have come all this way.
 @1.5
-Yes. What is the business today?
+Hm. Now, what is the business today?
 @3.7
 I am \#0228.
 @3.8
@@ -27,4 +27,4 @@ Not at all. Lord \#0877 has shown his might in the Kanto and done great honour t
 @7.2
 Leave the rest to me, \#0877.
 @7.3
-Yes, so be it.
+Very well, so be it.

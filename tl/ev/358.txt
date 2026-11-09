@@ -47,11 +47,11 @@ Oh, so the envoy is you, \%03. What brings you to me today?
 @6.4
 It is an honour to meet you. I am \#07F0, retainer of the \#106D clan.
 @6.5
-Yes. And what brings you to me?
+Well met. And what brings you to me?
 @6.6
 You are Lord \#0276, I take it. Lord \#006D has entrusted me with a message.
 @6.8
-Yes, sir. Our \#106D clan is hard-pressed by the attacks of the \#11C1 clan.
+Sir. Our \#106D clan is hard-pressed by the attacks of the \#11C1 clan.
 @6.9
 So, taking advantage of the fact that the \#11C1 lands are in the mountains, we are planning a salt embargo.
 @6.10
@@ -83,7 +83,7 @@ Hmm... I wonder if it will have any effect.
 @7.0
 \%03, about the salt embargo we asked Lord \#0077 to help with...
 @7.1
-Yes. Lord \#0877 will surely have agreed gladly?
+Ah. Lord \#0877 will surely have agreed gladly?
 @7.2
 No, well... He said, "We fight with bows and arrows, not with salt and rice"...
 @7.3
@@ -115,7 +115,7 @@ If I'm out wandering at a time like this, I may not be there when I'm needed. I'
 @11.0
 It seems the \#1320 army has come out too.
 @11.1
-Yes, sir. \#0320 seems to be leading the troops himself.
+Indeed, sir. \#0320 seems to be leading the troops himself.
 @11.2
 Hmph. Let's show him that a poor general gains nothing however many men he gathers. Forward!
 @13.0
@@ -171,7 +171,7 @@ Damn that \#0877! To send no reinforcements even when my castle is under attack.
 @15.4
 There's no use regretting that now. Give the order to march at once!
 @15.5
-Yes! Even if no help comes from the \#1077, this Odawara Castle is impregnable!
+Right! Even if no help comes from the \#1077, this Odawara Castle is impregnable!
 @15.6
 Throw everything we have at the \#11C1 army and drive them off!
 @16.0
@@ -189,7 +189,7 @@ But if we lose these battles, our \#1276 has no future! Men, throw everything at
 @18.0
 Victory is ours!
 @18.1
-Yes. What of \#0320?
+Good. What of \#0320?
 @18.2
 Well, sir, word is he had already fled the castle and escaped towards Echigo.
 @18.3
@@ -249,9 +249,9 @@ Spurred on by \#0877's victory, the Kanto lords fought hard, and before \#0077's
 @20.4
 But realising he could advance no further, \#0877 led his troops back to Kamakura and became Kanto deputy at Tsurugaoka Hachimangu.
 @20.6
-Yes! Well done, everyone! If we beat \#0877, the Kanto lords will lose heart too!
+Good! Well done, everyone! If we beat \#0877, the Kanto lords will lose heart too!
 @20.8
-Yes! Well done, everyone. Even if we didn't win, as long as we didn't lose, it's a victory for us in the end.
+Good! Well done, everyone. Even if we didn't win, as long as we didn't lose, it's a victory for us in the end.
 @20.9
 Even \#0077's valour and his 100,000 men could not take the famous impregnable castle of \41DE.
 @20.10
@@ -269,7 +269,7 @@ Indeed. But the \#11C1 army retreated with strength to spare.
 @21.4
 As things stand, they may well invade our lands again some day.
 @21.5
-Yes. Now is the perfect chance to pursue the retreating \#11C1 army and deal it a heavy blow!
+Indeed. Now is the perfect chance to pursue the retreating \#11C1 army and deal it a heavy blow!
 @21.6
 Form a pursuit force at once!
 @22.0
@@ -293,11 +293,11 @@ Send an envoy to the \#1077 clan at once to ask for reinforcements!
 @22.11
 Lord \%04276, Odawara Castle is impregnable. I believe our best plan is to hold out in the castle, wait for reinforcements, then catch them in a pincer.
 @22.12
-Yes. Have every castle strengthen its defences. Even if \#09C1 attacks, they must not strike back; if in danger, they fall back to \51E6. Strict orders.
+Very well. Have every castle strengthen its defences. Even if \#09C1 attacks, they must not strike back; if in danger, they fall back to \51E6. Strict orders.
 @22.14
 Even \#0077 couldn't make a dent in it. Let's show them how strong Odawara Castle is!
 @22.15
-Yes. Everyone, rest well to be ready for battle. That ends today's council!
+Indeed. Everyone, rest well to be ready for battle. That ends today's council!
 @23.0
 We've done all we can. Now we just wait for the \#11C1 army. There's nothing left to discuss!
 @24.0
@@ -305,7 +305,7 @@ Now, let us begin the council. Today I have something important to tell you all.
 @24.1
 Something important? What is it?
 @24.2
-Yes. At last the time is ripe. Now is the time to bring down the Kanto deputy's house and win mastery of Kanto!
+It is this: at last the time is ripe. Now is the time to bring down the Kanto deputy's house and win mastery of Kanto!
 @24.3
 Oh! So at last we raise troops to overthrow the \#1320!
 @24.4
@@ -331,7 +331,7 @@ Our preparations are complete. At last, let us deal the \#1320 the final blow.
 @25.2
 Oh! So the time has come at last.
 @25.3
-Yes. I hear that since the battle at the Kanna River, morale at \41DF has fallen and men keep deserting.
+Indeed. I hear that since the battle at the Kanna River, morale at \41DF has fallen and men keep deserting.
 @25.4
 So now is the time to strike?
 @25.5
@@ -355,7 +355,7 @@ But, \%03! We have fought \#0077 for years over control of Kanto.
 @26.6
 He is sure to make impossible demands!
 @26.7
-Yes. But \#0077 has also fought \#01C1 to the death many times over Shinano.
+True. But \#0077 has also fought \#01C1 to the death many times over Shinano.
 @26.8
 If it means settling things with \#09C1, even \#0877 will be willing to join hands with us.
 @26.9
@@ -423,7 +423,7 @@ He has taken the name Uesugi Kagetora and become heir to the \#1077 clan.
 @27.50
 Kagetora... wasn't that the name Lord \#0077 once used himself?
 @27.51
-Yes, to give him his own former name... Lord \#0877 must have high hopes for Lord \#0875.
+Indeed, to give him his own former name... Lord \#0877 must have high hopes for Lord \#0875.
 @29.0
 Lord \#07FE! It seems \#0077 is marching into Kanto in the name of the Kanto deputy \#0320, now in exile in Echigo!
 @29.1
@@ -437,7 +437,7 @@ Grave news! It seems \#0077 is marching into Kanto in the name of the Kanto depu
 @29.5
 What!? \#0077 is crossing the mountains into Kanto!
 @29.6
-Yes! It seems he has sent out a call to the Kanto lords to join a campaign against the \#1276!
+He is! It seems he has sent out a call to the Kanto lords to join a campaign against the \#1276!
 @29.7
 Lord \%027F0, as long as we hold this \41DF, our \#1276 cannot be defeated! What is \#0077 to us?
 @29.8

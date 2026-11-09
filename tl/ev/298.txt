@@ -75,7 +75,7 @@ From now on, our house will carry ever more weight in the realm...
 @8.6
 Please wait! You must be Lord \#00A5!
 @8.7
-Yes, I am \#00A5. What is it?
+Indeed, I am \#00A5. What is it?
 @8.8
 My master, \#004B, has something important he wishes to discuss with you. Please, I beg you to call on him.
 @8.9

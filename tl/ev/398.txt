@@ -9,7 +9,7 @@ Today I have a reward for you.
 @0.4
 A reward, my lord?
 @0.5
-Yes. From this day on, I make you\nan Ashigaru Captain.\nServe me well!
+Indeed. From this day on, I make you\nan Ashigaru Captain.\nServe me well!
 @0.6
 Me, an Ashigaru Captain...\nIs this really true, my lord?!
 @0.7
@@ -133,7 +133,7 @@ I am \#0205.\nI humbly ask for your favour\nfrom now on, everyone.
 @0.66
 What...\nThis fellow, an Ashigaru Captain!
 @0.67
-To promote a nobody of unknown origin like this... our lord's whims are truly troublesome!
+To promote a nobody of unknown origin like this... Our lord's eccentric tastes will be the death of us!
 @0.68
 ...............
 @0.69
@@ -269,7 +269,7 @@ It's from a ditty that's popular in \41DE: "Charge, Shibata! Fall back, Sakuma! 
 @2.19
 "Charge, Shibata" is Lord \#017B, "Fall back, Sakuma" is Lord \#0153, "Rice Gorozaemon" is Lord \#0235...
 @2.20
-"Cotton Tokichi" means that \%03 can do anything, as handy as cotton.
+"Cotton Tokichi" means \%03 is as handy as cotton: good for anything.
 @2.21
 To be named beside the \#10C3 clan's senior retainers, Lord \#117B, Lord \#1153 and Lord \#1235... it makes me proud!
 @2.22
@@ -277,9 +277,9 @@ By the way, \%03, are you interested in being a merchant?
 @2.23
 If you like, I can tell you about it when you visit my shop in \41DE.
 @2.24
-And so \#0205 married \#0435, adopted daughter of Asano Nagakatsu, with the \#0293 couple as go-betweens.
+And so \#0205 married \#0435, adopted daughter of Asano Nagakatsu, with \#0293 and his wife as go-betweens.
 @2.25
-At long last, spring had come for the hard-working \#0A05.
+Spring had come at last for \#0A05, who had known such hardship.
 @2.26
 Ah, you're back, \%03. So, have you told your family?
 @2.27
@@ -295,7 +295,7 @@ Ah, you're back. And how did it go?
 @2.32
 Oops! I forgot to tell \#0A04!
 @2.33
-You mustn't keep your bride waiting too long. I believe he lives at a merchant's house in \41DE.
+You mustn't keep your bride waiting too long. I believe they live at a merchant's house in \41DE.
 @2.34
 Oops! I forgot. How careless of me.
 @2.35
@@ -353,7 +353,7 @@ Mountain roads are especially dangerous. If you're not confident in your strengt
 @3.27
 That's all I have to tell you.
 @3.28
-Yes, thank you. I'll keep it in mind.
+Ah, thank you. I'll keep it in mind.
 @3.29
 No, I'll pass.
 @3.30
@@ -451,7 +451,7 @@ Dear, please take care of yourself.
 @6.16
 Dear...
 @6.17
-Nene's medicine cured the illness! Your strength is fully restored!
+Nene's medicine cured your illness! Your strength is fully restored!
 @7.0
 Hey, \%03. Is it true you got engaged to Lady \#0435 in all the confusion of the battle of Okehazama?
 @7.1
@@ -487,7 +487,7 @@ It's me, \#0A05! \#0A05 is back!
 @8.2
 What's all the noise? Oh, \#0A05, what's the matter?
 @8.3
-Yes, I have news. I've been made a samurai!
+Listen, I have news. I've been made a samurai!
 @8.4
 And that's not all. It's sudden, but I'm getting married! She's the daughter of a samurai house, Lady \#0435.
 @8.5

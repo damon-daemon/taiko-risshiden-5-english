@@ -129,7 +129,7 @@ Grave news! \#01C1 of Kai has marched to invade Kozuke!
 @3.13
 What!? \#09C1 has marched on Kozuke!
 @3.14
-Yes! His army is about 20,000! It seems he means to besiege this castle with a great force!
+He has! His army is about 20,000! It seems he means to besiege this castle with a great force!
 @3.15
 Ugh, a huge army... \%027F0, what will you do?
 @3.16

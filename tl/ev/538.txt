@@ -101,11 +101,11 @@ I'm sorry... \#0FF2. I've incurred the old lord's wrath... For a while we'll liv
 @0.78
 So... the rumours are true.
 @0.79
-Yes... I'm sorry. I have no excuse...
+They are... I'm sorry. I have no excuse...
 @0.81
 W-well, until the old lord's mood improves, all you can do is accept your punishment quietly...
 @0.82
-Yes... For now I'll lie low in some town or other...
+I suppose... For now I'll lie low in some town or other...
 @0.83
 Dear, I'll follow you wherever you go.
 @0.84
@@ -143,7 +143,7 @@ Yes... I-I'm sorry, Lord \#17FE... I'll never do it again, so please forgive me.
 @0.112
 Good. Withdraw... You're confined for a while. \#0A93, does that satisfy you?
 @0.113
-Yes... I'm sorry to have shown my lord such an ugly scene.
+My lord... I'm sorry to have shown you such an ugly scene.
 @0.114
 Good... You may withdraw too. Cool your head for a while.
 @1.0
@@ -207,7 +207,7 @@ Though I've been disowned by my lord! When I heard the \#106E forces had invaded
 @2.22
 ...Hm, a commendable spirit. Very well! Your disowning is lifted! Show me what your spear can do!
 @2.23
-Yes, sir! Then I'm ready to die before my lord's horse!
+My lord! Then I'm ready to die before my lord's horse!
 @2.24
 Then follow me!
 @3.1
@@ -225,7 +225,7 @@ For his merit at the battle of Okehazama,\n\#07FE was formally pardoned and\nres
 @4.0
 Welcome home. You're back very early.
 @4.1
-Yes... we pulled back without really fighting.
+Well... we pulled back without really fighting.
 @4.3
 \#0FF1, I've made up my mind. I'm giving up on Lord \#117B. From now on I'll serve \#0205.
 @4.4
@@ -241,7 +241,7 @@ What?! B-bring him in at once!
 @4.12
 Not at all, I did nothing worth mentioning. I'm sorry...
 @4.13
-Yes, your withdrawal sealed our army's defeat... You could call it the key to our collapse.
+Indeed, your withdrawal sealed our army's defeat... You could call it the key to our collapse.
 @4.14
 To \#0A05, you must be the man of the hour...
 @4.15
@@ -337,7 +337,7 @@ But if we're beaten instead, your army will be our hope... Is that acceptable?
 @5.4
 Your consideration touches me deeply...
 @5.5
-Yes, I understand you don't want to cross blades with a friend...
+Of course. I understand you don't want to cross blades with a friend...
 @5.6
 \%04293, we will settle the battle on our own, so rest easy and hold the rear.
 @5.7
@@ -451,7 +451,7 @@ Lord \#117B... forgive me. I choose my friend...
 @10.0
 I report!! A message from the old lord.
 @10.1
-Yes, what is it?!
+Well, what is it?!
 @10.2
 His order is that Lord \#07FE be appointed lord of \41DF!
 @10.3

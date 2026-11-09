@@ -143,7 +143,7 @@ I will bring down my brother and take the headship of the Oda clan!
 @3.36
 Inspiring words!! A war council at once!
 @3.37
-Yes! To council!
+Right! To council!
 @3.38
 I rise against my brother, \#00C3! Are you with me, all of you?!
 @3.39
@@ -193,7 +193,7 @@ I hear many Harima warriors are devout followers of the \#1287.
 @4.6
 If we sit idle, he may join hands with the \#1287 as well.
 @4.7
-Yes! We must take \51E7 Castle quickly.
+Indeed! We must take \51E7 Castle quickly.
 @4.8
 Yes! We must take \51E7 Castle quickly.
 @5.0
@@ -215,7 +215,7 @@ Ah... Heaven has not abandoned us yet. Now the Sanyo road too will belong to the
 @6.0
 Ho there!
 @6.1
-Yes, my lord!
+Here, my lord!
 @6.2
 Build a castle at Sunomata. See to it!
 @6.4
@@ -285,7 +285,7 @@ A final ultimatum at last... I wonder if \#001D will surrender?
 @10.0
 You called, \%03?
 @10.1
-Yes. I have a job for you this time.
+I did. I have a job for you this time.
 @10.2
 What is it, my lord?
 @10.3
@@ -467,7 +467,7 @@ When I married, I bade Father farewell, saying we might be enemies the next time
 @12.13
 Ha ha ha! Truly the Viper's daughter... Then I'll tell him you are well. ...Ho, is anyone there!
 @12.14
-Yes, my lord! What do you require?
+Here, my lord! What do you require?
 @12.15
 Good. I'm going to meet the Viper! Make ready!
 @12.16
@@ -497,7 +497,7 @@ From an oil seller in Kyoto, he rose to be master of all Mino: the great villain
 @13.9
 Dosan, called "the Viper of Mino," met such a sad end... He was \1009.
 @13.10
-Old lord! Something terrible has happened in Mino!
+My lord! Something terrible has happened in Mino!
 @13.13
 What, \#0947 has?! Damn it, what is this!
 @13.15
@@ -641,7 +641,7 @@ Good. It took a few days too many, but well done, \%03.
 @16.2
 Oh, really! Well done, \%03.
 @16.3
-Yes, my lord! Lord \#09C7, this way.
+Thank you, my lord! Lord \#09C7, this way.
 @16.4
 I am \#01C7.
 @16.5
@@ -691,7 +691,7 @@ That sea battle the other day... \E07B's strength is not to be taken lightly. Le
 @18.5
 Tell \#0117 of \E079 to come at once!
 @18.7
-You called, old lord?
+You called, my lord?
 @18.8
 Ah, you've come, \#0917. That lost battle the other day... You remember it, I trust.
 @18.9
@@ -699,7 +699,7 @@ How could I forget? Since then my men have trained hard, nursing their grudge.
 @18.10
 Ah, you've come, \#0917. That sea battle the other day... You remember it, I trust. The battle with \E07B.
 @18.11
-Yes... They sent out many warships too. We have trained so as not to be outdone.
+Indeed... They sent out many warships too. We have trained so as not to be outdone.
 @18.12
 But I do not think training alone will beat \E07B... We need something new. Is there no way to solve this?
 @18.13
@@ -721,7 +721,7 @@ Good... I look forward to good news.
 @18.24
 Welcome home, dear.
 @18.25
-Yes, I'm back.
+Mm, I'm back.
 @18.26
 I heard a strange rumour today.
 @18.27
@@ -831,7 +831,7 @@ You may go.
 @20.7
 You fool! Where have you been idling? You're past the deadline!
 @20.8
-Yes, my lord, I am deeply sorry!
+My lord, I am deeply sorry!
 @20.9
 Bah, get out!
 @20.11
@@ -845,7 +845,7 @@ But \#0081 has already fled somewhere.
 @20.16
 You fool! Where have you been idling?
 @20.17
-Yes, my lord. I am deeply sorry I failed the mission!
+My lord, I am deeply sorry I failed the mission!
 @20.18
 Bah, enough! I was a fool to expect anything of you!
 @20.19
@@ -927,7 +927,7 @@ Ah, \#0FFE... This is a troublesome business...
 @23.14
 So you have heard already! About Shojumaru!
 @23.15
-Yes... I'm sorry for \#0924, but I cannot defy the old lord's orders...
+Indeed... I'm sorry for \#0924, but I cannot defy the old lord's orders...
 @23.16
 You must not! Lord \#0924 only went to persuade him. He never joined the rebellion!
 @23.17
@@ -949,7 +949,7 @@ My lord!!
 @23.27
 I leave everything to you. Handle it well.
 @23.28
-Yes, my lord! I am most grateful.
+My lord! I am most grateful.
 @23.29
 I will leave him at some small temple nearby, explain the situation, and keep him out of sight.
 @23.30
@@ -1005,7 +1005,7 @@ You will all have heard... The \#11C1 army is marching on Kyoto.
 @26.10
 The \#11FA clan is our ally. Naturally we must send reinforcements.
 @26.11
-Yes... Is there anyone who will go to support Lord \#11FA?
+Indeed... Is there anyone who will go to support Lord \#11FA?
 @26.12
 Right, \#0953! You go!
 @26.13
@@ -1021,7 +1021,7 @@ Volunteer
 @26.19
 No one comes forward... Then \#07F1! \#07F3! You go as well!
 @26.21
-Old lord! With respect, I would like to save Lord \#11FA from danger.
+My lord! With respect, I would like to save Lord \#11FA from danger.
 @26.22
 Good! Well said! You go as well!
 @26.23
@@ -1083,7 +1083,7 @@ For a castle lord, the name \#0A05 is a little light.
 @27.15
 Then I shall change my name... How about "Hideyoshi"?
 @27.16
-Yes, a fine name! Kinoshita Hideyoshi, is it!
+Ah, a fine name! Kinoshita Hideyoshi, is it!
 @27.17
 No, while I'm at it, I'd like to change my family name too.
 @27.18
@@ -1165,7 +1165,7 @@ My lord, a letter has come from the old lord in \51E5.
 @28.1
 Oh? Let me see it.
 @28.2
-Yes, my lord! Here.
+Here it is, my lord.
 @28.3
 Let's see...
 @28.4
@@ -1201,7 +1201,7 @@ Oh, that's it! I'll take this chance to change my name!
 @28.20
 Your name?
 @28.21
-Yes. \#0205 becomes "Hashiba Hideyoshi." What do you think?
+Indeed. \#0205 becomes "Hashiba Hideyoshi." What do you think?
 @28.22
 "Hashiba"... An odd family name. Is there some history to it...?
 @28.35
@@ -1267,7 +1267,7 @@ I must keep striving for the good of the \#10C3 clan.
 @28.125
 "Imahama Castle" was also renamed "Nagahama Castle."
 @29.0
-Old lord! A letter has come from Lady \#0446, who is married to Lord \#01FB.
+My lord! A letter has come from Lady \#0446, who is married to Lord \#01FB.
 @29.1
 What! From Toku? Writing again that she wants to see her father...? Let's see.
 @29.2
@@ -1277,7 +1277,7 @@ It was a secret report that her husband \#01FB and his mother \#0445 were in lea
 @29.4
 What is this! What does it mean! That \#09FB?!
 @29.6
-Yes, my lord! What is it?
+My lord! What is the matter?
 @29.7
 Tell \#09FA! Does he side with the \#10C3 or with the \#11BF?
 @29.8
@@ -1317,7 +1317,7 @@ To order the deaths of his beloved heir and his wife... Lord \#11FA's anguish is
 @29.27
 It would have been enough to know the \#11FA clan bears us no ill will. He need not have ordered seppuku...
 @29.28
-But Lord \#11FA felt your words as pressure, old lord, and gave the order...
+But Lord \#11FA felt your words as pressure, my lord, and gave the order...
 @29.29
 I only hope this does not leave bad blood between our houses...
 @29.30
@@ -1457,7 +1457,7 @@ What could it be?
 @31.9
 \#0FFE, at your service.
 @31.10
-Yes. Once again I've received unpleasant news.
+Mm. Once again I've received unpleasant news.
 @31.11
 It seems \#081D is in busy contact with other powerful daimyo.
 @31.12
@@ -1493,7 +1493,7 @@ A while later...
 @32.7
 I have stayed far too long. I must take my leave.
 @32.8
-Yes. Go carefully.
+Very well. Go carefully.
 @32.9
 Now, let me see what Lord \#081D is up to.
 @32.10
@@ -1537,7 +1537,7 @@ To Kyoto... At last!
 @33.8
 Now the \#10C3 clan is the greatest house in the realm. I am deeply moved.
 @33.9
-Yes. But we must not let our guard down. Nothing leads men astray like carelessness.
+Indeed. But we must not let our guard down. Nothing leads men astray like carelessness.
 @33.10
 Lest we end up like Kiso Yoshinaka, the Rising Sun General, every unit is to tighten discipline once more!
 @33.11
@@ -1553,7 +1553,7 @@ Write what I just said on notice boards and put them up at every crossroads in t
 @33.17
 Once they know the discipline of the \#10C3 army, the people will calm down naturally.
 @33.18
-Yes, my lord. Such care for the hearts of Kyoto's people... I am filled with admiration.
+My lord, such care for the hearts of Kyoto's people... I am filled with admiration.
 @33.19
 There is one more job. Our reason for going to Kyoto is to make Lord \#001D shogun. The appointment has already been arranged.
 @33.20
@@ -1587,7 +1587,7 @@ I see... If it is Lord \#08C3's order, it can't be helped.
 @33.36
 It seems Lord \#07F3, lord of Nijo Castle, will be relieved of the castle and placed under the old lord.
 @33.37
-Yes. Understood.
+Hm. Understood.
 @33.38
 I see. All right.
 @34.0
@@ -1691,7 +1691,7 @@ I will guarantee the rights of the new merchants of \41E1.
 @35.23
 And I appoint you purveyor to the \#10C3 clan!
 @35.24
-Yes, my lord. Most gracious words.
+Thank you, my lord. Most gracious words.
 @35.25
 Whenever you need anything, tell me.
 @35.26
@@ -1735,13 +1735,13 @@ Oh, \%03.
 @36.1
 My lord! You came quickly!
 @36.2
-Yes. Have you put up the notice boards?
+Mm. Have you put up the notice boards?
 @36.3
 Yes, my lord, as you commanded.
 @36.4
 Lord \#10C3, Lord \#081D awaits you.
 @36.5
-Yes. I'll come at once.
+Very well. I'll come at once.
 @36.6
 \#00C3, at your service.
 @36.7
@@ -1851,7 +1851,7 @@ Yes, and besides that he burned Todaiji and destroyed the Great Buddha...
 @37.36
 He slandered \#0026, younger brother of his master \#02C0, and drove him to his death... There's no shortage of bad rumours.
 @37.37
-Yes, he's also infamous for burning Todaiji and destroying the Great Buddha.
+Indeed, he's also infamous for burning Todaiji and destroying the Great Buddha.
 @37.38
 They say when the old lord accused him of murdering the shogun, he replied that it was the shogun's fault for being too weak.
 @37.39
@@ -1921,7 +1921,7 @@ Ha ha ha, a joke.
 @38.32
 A joke too far... You never know who might be listening.
 @38.33
-Yes... I'll be careful.
+You're right... I'll be careful.
 @38.34
 (But to have that fool of a brother as my master forever... I cannot bear it...)
 @38.35
@@ -1963,7 +1963,7 @@ A report! A messenger has come from your brother!
 @39.4
 What?
 @39.5
-Old lord, it is \#0A52...
+My lord, it is \#0A52...
 @39.6
 And \#097B... All of this was our doing... Lord \#08BE is not to blame.
 @39.7
@@ -1977,7 +1977,7 @@ Lady Dota, mother of the brothers \#08C3 and \#08BE, loved \#08BE more than \#08
 @39.12
 The letter was a plea to spare \#08BE's life...
 @39.13
-Old lord, we will watch Lord \#08BE closely so that he never does such a thing again.
+My lord, we will watch Lord \#08BE closely so that he never does such a thing again.
 @39.14
 We will accept any punishment. But this time only, we beg you to forgive Lord \#08BE...
 @39.15
@@ -2019,7 +2019,7 @@ Y-yes, my lord!
 @39.38
 That settles it...
 @40.0
-Old lord! Lord \#017B has come on urgent business!
+My lord! Lord \#017B has come on urgent business!
 @40.1
 ...Yes, \#097B. Show him in at once!
 @40.3
@@ -2031,7 +2031,7 @@ You see right through it... Lord \#08BE has not given up his treachery after all
 @40.6
 He never learns... But this time I cannot spare him. It would set a bad example to the clan.
 @40.7
-Yes... I too have given up. I can no longer follow Lord \#08BE.
+Indeed... I too have given up. I can no longer follow Lord \#08BE.
 @40.8
 Well said... Then you won't object if I deal with \#08BE...?
 @40.10
@@ -2253,7 +2253,7 @@ Summon \%0400E.
 @42.5
 \%0400E, the old lord summons you.
 @42.6
-Yes, I'll come at once.
+Very well, I'll come at once.
 @42.7
 \%03, good of you to come.
 @42.9
@@ -2269,7 +2269,7 @@ No matter. Let \%0400E govern it.
 @42.20
 And I give \#0145 to you.
 @42.21
-Yes, my lord. I am most grateful.
+Thank you, my lord. I am most grateful.
 @42.22
 Then I will go to \51E8 Castle at once!
 @42.23
@@ -2495,7 +2495,7 @@ If it could be built before the enemy noticed, eh... Ha ha ha, \%03 says funny t
 @48.30
 Shape the timber beforehand and only do the assembly at Sunomata. If I plan the building order well...
 @48.31
-Yes, this might work! I'll volunteer at the next council...
+Hm, this might work! I'll volunteer at the next council...
 @48.32
 Even so... Is there no way to build the castle at Sunomata?
 @48.33
@@ -2503,7 +2503,7 @@ If it could be built before the enemy noticed... Heh heh, \%03 says funny things
 @48.35
 ...If the building time were cut down drastically, then maybe...
 @48.37
-Yes, this might work! Maybe I'll volunteer at the next council...
+Hmm, this might just work! Maybe I'll volunteer at the next council...
 @49.0
 Bump!
 @49.1
@@ -2527,7 +2527,7 @@ Are you the same as ever, Lord \#0A49?
 @49.10
 Aye, still chief of the rustic warriors. You, though, seem to have come up in the world.
 @49.11
-Yes, I served the \#10C3 clan as a foot soldier and was promoted to samurai.
+Indeed, I served the \#10C3 clan as a foot soldier and was promoted to samurai.
 @49.12
 I see... I've long been on the \#1142 side, so you and I will be enemies...
 @49.13
@@ -2589,7 +2589,7 @@ I have completed the castle at Sunomata!
 @52.3
 Good, \%03! Well done!
 @52.4
-Yes, my lord. I am most grateful.
+Thank you, my lord. I am most grateful.
 @52.5
 And how did you manage to build it?
 @52.6
@@ -2613,7 +2613,7 @@ Now, to report to Lord \#08C3!
 @52.19
 And this way of building a castle is truly interesting! Clever thinking.
 @52.20
-Yes, my lord. This castle was built with the help of \#0249.
+My lord, this castle was built with the help of \#0249.
 @52.23
 But for a samurai, the name \#0A49 is a little light. Why not take another name on this occasion?
 @52.24
@@ -2765,7 +2765,7 @@ We start building now. Hurry!
 @57.35
 By the way, what shall we do about \%047F3, lord of Kannonji Castle?
 @57.36
-Yes. I'll relieve him of the castle for now and put him under me.
+Hm. I'll relieve him of the castle for now and put him under me.
 @57.37
 Understood. It will be done.
 @57.38
@@ -2819,7 +2819,7 @@ The fifth storey is a red-lacquered octagon, the top a black-lacquered square. A
 @58.15
 Truly a castle fit for one who aims at the realm!
 @58.16
-Yes! Exactly!
+Indeed! Exactly so!
 @58.17
 I'm in a good mood today. I'll show you inside the castle too!
 @58.18
@@ -2999,7 +2999,7 @@ Oh! As expected of \%040C3! What a quick decision! Thank you for the report.
 @63.12
 As expected of \%040C3! What a quick decision! Thank you for the report.
 @63.13
-Yes.
+Sir.
 @64.0
 We lost... A bitter blow.
 @64.1
@@ -3209,7 +3209,7 @@ Understood... Come, \%03, let us go.
 @68.18
 Welcome, my lords.
 @68.19
-Yes, we'll be in your care.
+Thank you. We'll be in your care.
 @68.20
 And evening fell over Kyoto...
 @68.21
@@ -3225,7 +3225,7 @@ Oh, \#07F3. I've been waiting for you.
 @68.26
 There are a great many guests tonight, aren't there.
 @68.27
-Yes. You've brought the tea ware from \#09AA's collection, I trust? I look forward to it.
+Indeed. You've brought the tea ware from \#09AA's collection, I trust? I look forward to it.
 @68.28
 Lord \#10C3, I trust you are well?
 @68.29
@@ -3465,7 +3465,7 @@ Welcome home!
 @71.2
 Congratulations!
 @71.3
-Yes! Your husband is the greatest general of all time! You're the luckiest woman in the land! Ha ha ha...
+Indeed! Your husband is the greatest general of all time! You're the luckiest woman in the land! Ha ha ha...
 @71.4
 Yes!!
 @71.5
@@ -3573,7 +3573,7 @@ Oh... And what did our lord do?
 @72.22
 And what did our lord do?
 @72.23
-Yes, the old lord gladly agreed, they say.
+The old lord gladly agreed, they say.
 @72.24
 Good, thank you for the report.
 @72.25
@@ -3619,7 +3619,7 @@ I had a feeling someone was watching my procession from there... Well, never min
 @74.10
 This way, please. My master \#0944 is waiting eagerly.
 @74.13
-Well, well, father-in-law! A pleasure to meet you. I am Oda Saburo Nobunaga... You're dressed very casually.
+Why, father-in-law! A pleasure to meet you. I am Oda Saburo Nobunaga... You're dressed very casually.
 @74.14
 Ugh... No, well... To meet my son-in-law, I thought being too formal would seem distant...
 @74.15
@@ -3697,7 +3697,7 @@ Oh... Father...
 @75.20
 And for Lord \#08C3, this testament...
 @75.21
-Yes, show it to me...
+Very well, show it to me...
 @75.22
 Can it be... this?! My father-in-law writes that he leaves Mino to me!
 @75.23
@@ -3709,7 +3709,7 @@ I beg you, carry on the will of the late Lord \#0944 and rule Mino!
 @75.27
 Need you ask... \#0147 is no longer my brother. He is my father's enemy...
 @75.28
-Yes! Understood!
+Very well! Understood!
 @75.29
 Then I shall...
 @75.30
@@ -3745,13 +3745,13 @@ Break off the alliance with \#17F2! I'll crush him!
 @76.6
 As for the Chugoku, \%04205 is at \51E8...
 @76.7
-Yes. Let \%04205 handle it.
+Hm. Let \%04205 handle it.
 @76.8
 I'll leave this attack on \#17F2 to \%04205.
 @76.9
 But \%04205 is only a castle lord. It will be hard for one castle lord to stand against \#17F2...
 @76.10
-Yes. Then I'll make \%04205 a province lord.
+Hm. In that case, I'll make \%04205 a province lord.
 @76.11
 Tell \%04205! He is to make \51E8 his base and lead the attack on \#17F2!
 @76.13
@@ -3805,7 +3805,7 @@ My lord, a strange rumour is going around \41DE. That the master of \51E6 is now
 @78.1
 What? What on earth do you mean?!
 @78.2
-Yes. \#01C7 has long been admonishing \#0142, who is drowning in wine and women.
+\#01C7 has long been admonishing \#0142, who is drowning in wine and women.
 @78.3
 But \#0942 did not change his ways at all, so \#09C7, angered, seized \51E6, they say.
 @78.4
@@ -3817,7 +3817,7 @@ And if the rumour is true, \#09C7 took \51E6 with only 16 men.
 @78.7
 What, 16 men!!
 @78.8
-Yes. They say he struck when the garrison was off guard and took it in an instant.
+Indeed. They say he struck when the garrison was off guard and took it in an instant.
 @78.9
 It seems \#09C7's master, \#003A, is secretly helping him too.
 @78.10
@@ -3825,11 +3825,11 @@ Hmm, that \51E6... Well, if the rumour is true, it's more than worth trying to w
 @78.11
 Summon the Monkey!
 @78.14
-Yes. Have you heard about \51E6?
+Hm. Have you heard about \51E6?
 @78.15
 Yes. They say \#01C7 took it from \#0142.
 @78.16
-Yes. So I order you to win over \#01C7.
+Good. So I order you to win over \#01C7.
 @78.17
 If we can get \51E6 this way, Mino is as good as ours!
 @78.19
@@ -3857,13 +3857,13 @@ To \51E6
 @78.38
 Nothing
 @78.39
-Yes, this is our chance! I'll propose to our lord that we win over \#01C7!
+Ah, this is our chance! I'll propose to our lord that we win over \#01C7!
 @78.40
 This is our chance! I'll propose to our lord that we win over \#01C7!
 @78.41
 Oh, \%03. What is it?
 @78.42
-Yes, my lord. Have you heard about \51E6, \%03?
+My lord, have you heard about \51E6?
 @78.43
 Yes. I just sent the Monkey as my envoy.
 @78.45
@@ -3967,21 +3967,21 @@ The old lord has placed Lord \#09C7 under Lord \#0205.
 @81.12
 Hmm, \#0205 did well for himself.
 @82.0
-Old lord! Urgent news has come from Lord \#0117, chief of \E079!
+My lord! Urgent news has come from Lord \#0117, chief of \E079!
 @82.1
-Yes, what is it?
+Mm, what is it?
 @82.2
 "The giant ship I spoke of before is complete," he says!
 @82.3
 Oh, it's done!
 @82.4
-Yes! The whole hull is covered in iron plate, so neither arrows nor bullets can pierce it... He wants you to see it at once.
+Indeed! The whole hull is covered in iron plate, so neither arrows nor bullets can pierce it... He wants you to see it at once.
 @82.5
 Good! There's no point just looking at it. A warship should be seen on the battlefield! We march on the Honganji at once!
 @82.6
 Then give the generals the order to march!
 @82.7
-Yes! Send out word for all to gather in the council chamber at once!
+Good! Send out word for all to gather in the council chamber at once!
 @82.9
 Phew...
 @82.10
@@ -4055,7 +4055,7 @@ Ho there! Call the Monkey!
 @83.7
 You called for me?
 @83.8
-Yes. I order you to win over the Mino Triumvirate.
+I did. I order you to win over the Mino Triumvirate.
 @83.9
 It goes without saying that winning over the three will decide the conquest of Mino. Give it everything you have!
 @83.10
@@ -4069,7 +4069,7 @@ I give you 100 kan for the work. Do not waste it! If it is not enough, use your 
 @83.21
 Is it true that you have been ordered to win over the Mino Triumvirate?
 @83.22
-Oh, news travels fast! Just what I'd expect of you, \%03!
+Oh, you've heard already! Sharp as ever, \%03!
 @83.23
 Then I suggest you begin by meeting my former lord, \#003A.
 @83.24
@@ -4133,9 +4133,9 @@ Use it for a ruse to sow discord. Have a ninja slip \#0865's treasured bowl in a
 @84.16
 I see. Then I gratefully accept that plan.
 @84.17
-Yes. For the ninja, I'd use the Koga band.
+Good. For the ninja, I'd use the Koga band.
 @84.18
-Yes, sir. Thank you very much.
+Sir, thank you very much.
 @84.19
 \#0065
 @84.20
@@ -4353,7 +4353,7 @@ I'll go to the castle and see what's happening.
 @90.7
 An honour to meet you. I am \#000E, a vassal of the \#1017 clan.
 @90.8
-Yes. And what do you want of me?
+Well met. And what do you want of me?
 @90.9
 I suspect this "envoy of the \#1017 clan" story is a lie, and you are the envoy of Lord \#001D, who is living as a guest of \#0817. Am I wrong?
 @90.10
@@ -4501,11 +4501,11 @@ From the \#1008 clan? Very well, I'll see him.
 @92.2
 \%03, it has been a long time.
 @92.3
-Yes, welcome. So, what brings you here today?
+Indeed, welcome. So, what brings you here today?
 @92.4
 An honour to meet you. I am \#0124, a vassal of the \#1008 clan.
 @92.5
-Yes, you have come a long way. I am \#00C3. So, what do you want of me?
+Well met. You have come a long way. I am \#00C3. So, what do you want of me?
 @92.6
 Sir. I have come to ask that the \#1008 clan be placed under the \#10C3 clan's protection.
 @92.7
@@ -4749,7 +4749,7 @@ I came only to crush their home ground.
 @99.6
 Set fire to the villages nearby! Spare not even the shrines and temples! Burn the fields and forests too!!
 @99.7
-Wh-... Old lord!! But the common people will suffer too!
+Wh-... My lord!! But the common people will suffer too!
 @99.8
 I don't care!! This is to make an example of them!! Go and set the fires, quickly!!
 @99.10
@@ -4759,7 +4759,7 @@ Th-that is... too much!!
 @99.12
 Let every province know what becomes of those who defy my authority!
 @99.13
-Old lord!!
+My lord!!
 @99.20
 Once it is reduced to ashes, I have no interest in this land!! Everyone, we go home!!
 @99.21
@@ -4875,7 +4875,7 @@ A report! \#07F2's army has marched out of \51E7 Castle!
 @105.4
 So he's come! This will be the battle that decides everything on the Hokuriku road!
 @105.5
-Yes! The likes of \#0FF2 are no match for us! Everyone, are you ready to meet them?
+Indeed! The likes of \#0FF2 are no match for us! Everyone, are you ready to meet them?
 @105.7
 ...Strange. \#17F2's army is slow to move. It seems to be watching us.
 @105.8
@@ -4935,7 +4935,7 @@ If we act by halves now and show the enemy our backs, the late old lord would ne
 @105.42
 Sir! At your command! Then give the order to meet them!
 @105.43
-Yes! Everyone, listen well! \#07F2 has joined the traitor \#080E like a coward and is attacking us!
+Good! Everyone, listen well! \#07F2 has joined the traitor \#080E like a coward and is attacking us!
 @105.44
 We will beat him back quickly, then strike down the old lord's enemy, \#000E! Is everyone ready?!
 @105.45
@@ -5153,7 +5153,7 @@ Ugh... O-old lord... Waaaah...!
 @107.128
 Shut up!! How can I not weep?! The old lord, who raised a farm boy from Owari to this rank... is no longer in this world...
 @107.129
-Ugh... ugh... Old lord...
+Ugh... ugh... My lord...
 @107.130
 Get a grip on yourself! If you don't stand firm now, when will you!
 @107.131
@@ -5413,7 +5413,7 @@ Meanwhile, the troops behind caught up and at last formed an army: about five th
 @109.10
 Oh, the sound of armour before battle! That is a good omen!
 @109.11
-Yes, a good omen!
+Indeed, a good omen!
 @109.12
 Listen, everyone! The god of Atsuta has sent us an auspicious sign!
 @109.13
@@ -5447,7 +5447,7 @@ Right, we surround \41DE! I leave the sea to the Kumano navy!
 @111.1
 As you command!
 @112.0
-Oh, old lord! Here it is at last, the giant iron-clad ship, which I have named the "Ironclad"! It is complete!
+Oh, my lord! Here it is at last, the giant iron-clad ship, which I have named the "Ironclad"! It is complete!
 @112.1
 Oh, show me at once!
 @112.2
@@ -5647,7 +5647,7 @@ Ngh... To think we'd lose...
 @129.2
 I-I am truly sorry... Father.
 @129.3
-Now, now, old lord... Victory and defeat are a soldier's lot. The young lord fought well this time.
+Now, now, my lord... Victory and defeat are a soldier's lot. The young lord fought well this time.
 @129.5
 Silence! \%03! Do you mean to cover for him?!
 @129.6
@@ -5737,7 +5737,7 @@ By destroying the \A3A3 at Tenmokuzan, the \A3A2 drew nearer to unifying the rea
 @129.61
 From then on, an indefinable discord began to be heard within the \A3A2...
 @130.0
-Old lord! Good news! Lord \#07F1 drove off the \#1017 army and succeeded in retreating safely!
+My lord! Good news! Lord \#07F1 drove off the \#1017 army and succeeded in retreating safely!
 @130.1
 Oh, well done! \#0FF1 has done great service this time.
 @130.2
@@ -5745,7 +5745,7 @@ Still, the \#1017 and the \#1010... They won't get away with this!
 @130.3
 \#07F1's merit has risen.
 @130.4
-Old lord! It seems Lord \#07F1's army has been defeated by the \#1017 army!
+My lord! It seems Lord \#07F1's army has been defeated by the \#1017 army!
 @130.5
 What! ...And \#0FF1?
 @130.6
@@ -5771,19 +5771,19 @@ Ngh... Curses! To be beaten so shamefully by the likes of the \#1010 and \#1017!
 @131.10
 Lord \#10C3... I am sorry. We were no help either...
 @131.11
-No, I thank the \#11FA army for its efforts.
+Not at all. I'm grateful for the \#11FA army's help.
 @131.12
-Old lord, you must not lose heart.
+My lord, you must not lose heart.
 @131.13
 Lose heart? Me? ...A defeat like this is nothing! I won't give up until I've destroyed them!
 @131.14
 In the famous Battle of Anegawa, the allied \#10C3 and \#11FA armies were beaten by the forces of \#1010 and \#1017...
 @131.15
-But \#00C3's "Rule the Realm by Force" was not something to falter over this...
+But \#00C3's quest to "Rule the Realm by Force" would not falter over one defeat...
 @132.0
 Lord \#07FE, a report! Lord \#017B's army has defeated the \#1077 army!
 @132.1
-Oh, really!! \%0417B, well done!
+Excellent!! \%0417B, well done!
 @132.2
 What! \%0417B did?! A great feat! Thank you for the report.
 @132.3
@@ -5813,7 +5813,7 @@ See that, \#0FF3! Never again set your greedy eyes on our \#10C3 lands!
 @133.1
 We did it, my lord! Now we have nothing to fear behind us! Turn around at once for the battle of vengeance!
 @133.2
-Yes! You may all be tired, but now is the time to endure! We turn back at once and strike down \#080E!
+Right! You may all be tired, but now is the time to endure! We turn back at once and strike down \#080E!
 @133.4
 Ngh... To think I'd lose to the likes of \#17F3...!
 @133.5
@@ -5917,7 +5917,7 @@ Bad...! I must survive, or \%040C2's wishes will be for nothing...!
 @135.17
 Victory for our side!
 @135.18
-Yes! Justice prevails! As if we'd lose to a traitor!
+Indeed! Justice prevails! As if we'd lose to a traitor!
 @135.19
 The battle between \#00C2 and \#000E ended in an overwhelming victory for \#08C2...
 @135.20
@@ -5985,9 +5985,9 @@ They both won \#006E's sword, but say it is too fine a blade for them, and wish 
 @136.12
 You obtained the Sozan Samonji.
 @136.13
-Yes, I accept it gratefully. Well done, everyone!
+I accept it gratefully. Well done, everyone!
 @136.14
-Yes, raise a victory cry!!
+Now, raise a victory cry!!
 @136.15
 Ei, ei, oh!!
 @136.16
@@ -6055,7 +6055,7 @@ Ei, ei, oh!
 @138.7
 Ngh... Even with the power of the ironclads, we can't beat \E07B?!
 @138.8
-Old lord! Lord \#0117 has been killed!
+My lord! Lord \#0117 has been killed!
 @138.9
 What?! ...Damn it! We withdraw!
 @138.10
@@ -6157,7 +6157,7 @@ Oh, that's a great help!
 @142.29
 There's no water from here on. Please take this big gourd and use it.
 @142.30
-Yes, a splendid gourd. I like it. If I'm ever allowed a battle standard, I'll make this gourd my standard!
+Ah, a splendid gourd. I like it. If I'm ever allowed a battle standard, I'll make this gourd my standard!
 @142.31
 Near the rear gate of \51E6
 @142.32
@@ -6303,7 +6303,7 @@ The \#11C1 clan has broken its alliance with the \#10C3 clan!
 @146.0
 A report: \51E5 has fallen.
 @146.1
-Yes, so we have finally brought down the \#11BF...
+So we have finally brought down the \#11BF...
 @146.2
 As the castle fell, \#01BF took his own life along with his wife and children.
 @146.3
@@ -6591,7 +6591,7 @@ The head of the clan, \#02A7, set fire to \41DF and blew himself up along with h
 @151.0
 Behold the pride of the Mikawa samurai!
 @151.1
-Ugh... Old lord, forgive me. \#0FFE goes on ahead of you!
+Ugh... My lord, forgive me. \#0FFE goes on ahead of you!
 @151.3
 Ah! Lord \#0FFE!
 @151.4
@@ -6599,7 +6599,7 @@ And so \#07FE's short life came to an end...
 @151.5
 We did it! The enemy is pulling back!
 @151.6
-Yes! Now I can face the old lord with pride...
+Good! Now I can face the old lord with pride...
 @151.7
 A report! At Dengakuhazama, the old lord's army has clashed with \#006E's army!
 @151.8
@@ -6693,7 +6693,7 @@ Sir, I am honoured. This time it was thanks to \#0280's guidance that I could ca
 @152.53
 I wish to take this man on as one of my men. Please allow it.
 @152.54
-Yes, very well. But the name \#0A80 is not a samurai's name.
+Very well. But the name \#0A80 is not a samurai's name.
 @152.55
 So that others don't look down on him, why not take another name?
 @152.56
@@ -6857,7 +6857,7 @@ As I have told you all, today's question is how to take \51E6, the seat of my ol
 @162.1
 \51E6 is a castle famous throughout the land. It won't fall to a sudden attack.
 @162.2
-Yes. So I mean to build a castle at Sunomata and make it our base for the conquest of Mino.
+Indeed. So I mean to build a castle at Sunomata and make it our base for the conquest of Mino.
 @162.3
 My lord! Please wait! It is impossible to build a castle at Sunomata.
 @162.4
@@ -6881,7 +6881,7 @@ Curse you, \%03! You're far too pushy! Stay out of this!!
 @162.17
 My lord, I believe Lord \37F0 is the right man for this task.
 @162.18
-Yes, \%03, will you take on the building of the castle at Sunomata?
+Hm. \%03, will you take on the building of the castle at Sunomata?
 @162.19
 Sir! I will overcome every obstacle and give everything to building the castle at Sunomata.
 @162.20
@@ -7351,7 +7351,7 @@ After long talks, I have finally had a favourable answer.
 @174.14
 Oh, then...!
 @174.15
-Yes. We will now ally with the \#11FA clan.
+Indeed. We will now ally with the \#11FA clan.
 @174.16
 Toku, come in!
 @174.17
@@ -7429,7 +7429,7 @@ I am Takugen of Seishuji in Owari. The meaning of "Gifu" is none other than "Mou
 @176.7
 In ancient times, the sage king Wen of Zhou rose from Mount Qi and brought order to the realm.
 @176.8
-Yes. You've all heard him!
+Right. You've all heard him!
 @176.9
 Like King Wen, we will rise from this land and unify the realm!
 @176.10
@@ -7463,7 +7463,7 @@ But an ordinary army won't take it...
 @177.5
 After all, \A3A4 stands behind \#1287.
 @177.6
-Yes... That's why, this time, I mean to borrow the strength of a navy.
+Indeed... That's why, this time, I mean to borrow the strength of a navy.
 @177.7
 A navy?
 @177.8
@@ -7505,11 +7505,11 @@ To get from \51E5 to Kyoto with the \#1010 clan as an enemy would be very awkwar
 @178.6
 We have been negotiating a long time, and at last I have a favourable answer.
 @178.8
-Yes. From now on we, the \#10C3, are allied with the \#1010 clan.
+Indeed. From now on we, the \#10C3, are allied with the \#1010 clan.
 @178.9
 But however did you get the \#1010 clan to agree?
 @178.10
-Yes, this time I had to play my trump card too.
+Well, this time I had to play my trump card too.
 @178.11
 Ichi, come in!
 @178.13
@@ -7531,13 +7531,13 @@ I'm relieved. I will go to Lord \#0810.
 @178.22
 Lady Oichi...
 @178.23
-Yes, I'm truly glad to gain such a reliable brother-in-law... Ichi, be happy.
+Indeed, I'm truly glad to gain such a reliable brother-in-law... Ichi, be happy.
 @178.24
 This removes one obstacle to marching on Kyoto.
 @178.25
 And this alliance will also keep the \#1142 clan in check. A splendid plan.
 @178.26
-Yes. Now we must take Mino as soon as possible and prepare to march on Kyoto.
+Indeed. Now we must take Mino as soon as possible and prepare to march on Kyoto.
 @178.28
 The old lord has made an alliance with \#0010!
 @178.29
@@ -7575,7 +7575,7 @@ I have something to tell you all.
 @180.2
 The \#1008! Then...
 @180.3
-Yes. \#0008 and all the \#1008 retainers are now under my command.
+Indeed. \#0008 and all the \#1008 retainers are now under my command.
 @180.4
 The \#1008 clan has surrendered, but our rule of the realm by force is not over yet. Everyone, work even harder!
 @180.8

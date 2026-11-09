@@ -829,11 +829,11 @@ Our unit's morale seems low.\nMay we pull back to the siege lines and wait?
 @144.2
 {02}yd's morale seems low.\nI believe it should pull back to\nthe siege lines and wait.
 @145
-{01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe siege lines and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should pull back to\nthe siege lines and wait.
 @145.1
-{01}C8{00}'s morale is low. Pull back to the siege lines.
+Morale is low in {01}C8{00}'s unit. Pull back to the siege lines.
 @145.2
-{01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe siege lines and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should pull back to\nthe siege lines and wait.
 @146
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or wait.
 @146.1
@@ -853,11 +853,11 @@ Our unit's morale seems low.\nMay we stand by and wait?
 @148.2
 {02}yd's morale seems low.\nI believe it should stand by and wait.
 @149
-{01}C8{00}'s unit's morale seems low.\nI believe they should stand by and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should stand by and wait.
 @149.1
-{01}C8{00}'s unit's morale seems low.\nI think they should stand by and wait.
+Morale seems low in {01}C8{00}'s unit.\nI think they should stand by and wait.
 @149.2
-{01}C8{00}'s unit's morale seems low.\nI believe they should stand by and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should stand by and wait.
 @150
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or pull back to the main keep and wait.
 @150.1
@@ -877,11 +877,11 @@ Our unit's morale seems low.\nMay we pull back to the main keep and wait?
 @152.2
 {02}yd's morale seems low.\nI believe it should pull back to\nthe main keep and wait.
 @153
-{01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe main keep and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should pull back to\nthe main keep and wait.
 @153.1
-{01}C8{00}'s morale is low. Pull back to the main keep.
+Morale is low in {01}C8{00}'s unit. Pull back to the main keep.
 @153.2
-{01}C8{00}'s unit's morale seems low.\nI believe they should pull back to\nthe main keep and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should pull back to\nthe main keep and wait.
 @154
 {01}C1{00}, your unit's morale seems low.\nI believe you should use a morale-raising\nskill, or wait.
 @154.1
@@ -901,11 +901,11 @@ Our unit's morale seems low.\nMay we stand by and wait?
 @156.2
 {02}yd's morale seems low.\nI believe it should stand by and wait.
 @157
-{01}C8{00}'s unit's morale seems low.\nI believe they should stand by and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should stand by and wait.
 @157.1
-{01}C8{00}'s unit's morale seems low.\nI think they should stand by and wait.
+Morale seems low in {01}C8{00}'s unit.\nI think they should stand by and wait.
 @157.2
-{01}C8{00}'s unit's morale seems low.\nI believe they should stand by and wait.
+Morale seems low in {01}C8{00}'s unit.\nI believe they should stand by and wait.
 @158
 Our army's morale is falling.
 @158.1

@@ -171,9 +171,9 @@ Is everyone here!?\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
 @63.1
 Hear me, all!\nThe {02}{03}g army of {02}{0B}e\nhas surrounded {02}{15}e!
 @64
-{01}C8{00} is away right now,\nso {01}C{0E}{00} will lead the defence for now.
+With {01}C8{00} away at present,\nI will lead the defence for now.
 @64.1
-{01}C8{00} is away right now,\nso {01}C{0E}{00} will lead the defence for now.
+With {01}C8{00} away at present,\nI will lead the defence for now.
 @65
 {01}C1{00}!
 @66
@@ -189,9 +189,9 @@ We must ready our forces at once!
 @68.1
 Right, ready our forces at once!
 @69
-{01}C1{00} isn't back yet...\nThen {01}C{0E}{00} will command in their place.
+Still not back, then...\nI will command in their place.
 @69.1
-{01}C1{00} isn't back yet...\nThen {01}C{0E}{00} will command in their place.
+Still not back, then...\nI will command in their place.
 @70
 Then I entrust you\nwith a unit too. We must hold at all costs!
 @70.1
@@ -653,61 +653,61 @@ Top honours... are they mine?
 @220.1
 Top honours... are they mine?
 @221
-As expected of {01}C1{00}.\nA splendid command.\nI'm deeply impressed.
+As expected of you.\nA splendid command.\nI'm deeply impressed.
 @221.1
-As expected of {01}C1{00}.\nA splendid command.\nI'm deeply impressed!
+As expected of you.\nA splendid command.\nI'm deeply impressed!
 @221.2
-Top honours this time go to {01}C1{00}.\nI expect great things in the next battle too.
+Top honours this time go to you.\nI expect great things in the next battle too.
 @221.3
 {01}C1{00}, your work was truly splendid!\nKeep it up.
 @221.4
-Top honours this time go to {01}C1{00}.\nI expect great things in the next battle too.
+Top honours this time go to you.\nI expect great things in the next battle too.
 @222
-And {01}C1{00},\na splendid command.\nI'm deeply impressed.
+And you, {01}C1{00}:\na splendid command.\nI'm deeply impressed.
 @222.1
-And {01}C1{00},\na splendid command.\nI'm deeply impressed!
+And you, {01}C1{00}:\na splendid command.\nI'm deeply impressed!
 @222.2
-And {01}C1{00} also earns top honours.\nI expect great things in the next battle too.
+And you also earn top honours.\nI expect great things in the next battle too.
 @222.3
 And {01}C1{00}, your work was truly splendid!\nKeep it up.
 @222.4
-And {01}C1{00} also earns top honours.\nI expect great things in the next battle too.
+And you also earn top honours.\nI expect great things in the next battle too.
 @223
 Leave it to me.\nI won't let you down.
 @223.1
 Ha, leave it to me.\nI won't let you down!
 @223.2
-Yes, sir!\nI'm most grateful!
+My lord!\nI'm most grateful!
 @223.3
 As you wish.
 @223.4
-Yes, sir!\nI'll surely live up to your hopes!
+My lord!\nI'll surely live up to your hopes!
 @223.5
-Yes, sir!\nI'm most grateful!
+My lord!\nI'm most grateful!
 @224
 Second honours... are they mine?
 @224.1
 Second honours... are they mine?
 @225
-Second honours go to {01}C1{00}.\nI'm counting on you next battle too.
+Second honours go to you.\nI'm counting on you next battle too.
 @225.1
-Second honours go to {01}C1{00}.\nI'm counting on you next battle too!
+Second honours go to you.\nI'm counting on you next battle too!
 @225.2
-Second honours go to {01}C1{00}.\nDon't rest there; strive even harder.
+Second honours go to you.\nDon't rest there; strive even harder.
 @225.3
-Second honours go to {01}C1{00}.\nDon't rest there; strive even harder!
+Second honours go to you.\nDon't rest there; strive even harder!
 @225.4
-{01}C1{00} earns second honours.\nKeep it up in the next battle.
+You earn second honours.\nKeep it up in the next battle.
 @226
-And second honours go to {01}C1{00}.\nI'm counting on you next battle too.
+And second honours go to you.\nI'm counting on you next battle too.
 @226.1
-And second honours go to {01}C1{00}.\nI'm counting on you next battle too!
+And second honours go to you.\nI'm counting on you next battle too!
 @226.2
-And {01}C1{00} also earns second honours.\nDon't rest there; strive even harder.
+And you also earn second honours.\nDon't rest there; strive even harder.
 @226.3
-And {01}C1{00} also earns second honours.\nDon't rest there; strive even harder!
+And you also earn second honours.\nDon't rest there; strive even harder!
 @226.4
-And {01}C1{00} also earns second honours.\nKeep it up in the next battle.
+And you also earn second honours.\nKeep it up in the next battle.
 @227
 Leave it to me.\nNext battle I'll take top honours.
 @227.1
@@ -721,7 +721,7 @@ Yes, sir!\nNext time I'll take top honours!
 @227.5
 Yes, sir!\nI'll strive harder.
 @228
-To lose top honours\nto {01}C1{00}...\nI must strive harder...
+To lose top honours\nto you...\nI must strive harder...
 @228.1
 As you wish.
 @228.2
@@ -733,17 +733,17 @@ Third honours... are they mine?
 @229.1
 Third honours... are they mine?
 @230
-Third honours go to {01}C1{00}.
+Third honours go to you.
 @230.1
-Third honours go to {01}C1{00}.
+Third honours go to you.
 @230.2
-Third honours go to {01}C1{00}.
+Third honours go to you.
 @231
-And third honours go to {01}C1{00}.
+And third honours go to you.
 @231.1
-And third honours go to {01}C1{00}.
+And third honours go to you.
 @231.2
-And third honours go to {01}C1{00}.
+And third honours go to you.
 @232
 It seems I didn't do enough.\nNext battle I'll take top honours.
 @232.1
@@ -757,7 +757,7 @@ Hmm, I didn't do enough...
 @232.5
 I still have far to go...
 @233
-To be outdone\nby the likes of {01}C1{00}...\nI'll strive harder.
+To be outdone\nby the likes of you...\nI'll strive harder.
 @233.1
 I didn't do enough...\nNext time I'll take top honours!
 @233.2
@@ -995,7 +995,7 @@ Only shooting and bombarding are lost;\nyou can still break gates and use skills
 @321
 I see.\n\n\nWhen besieging with gun or cannon units,\nbetter to avoid the rainy seasons,\nis that it?
 @322
-Next, strength is shown here.\nThis is the hero's strength,\nthat is, {01}C1{00}'s.
+Next, strength is shown here.\nThis is the hero's strength,\nthat is, your own.
 @323
 Hm? As the days pass,\nstrength goes down... So I could\nfall ill in the middle of a siege?
 @324
@@ -1231,7 +1231,7 @@ That's all.\n\n\nWell, if I may add one thing:\nif you retreat with the [Retreat
 @439
 And if I don't press [Retreat] but\nam forced to retreat by the enemy,\nwhat happens?
 @440
-Then the army is disbanded\nand {01}C1{00} returns alone.
+Then the army is disbanded\nand you return alone.
 @441
 I see...\nI'll make sure that doesn't happen.
 @442

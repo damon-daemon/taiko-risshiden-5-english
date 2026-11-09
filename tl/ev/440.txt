@@ -7,7 +7,7 @@ By order of the Shogun!!
 @0.5
 His Highness is greatly pleased that Lord \#0877 has become Kanto deputy, and with his deeds in the Kanto.
 @0.6
-Yes, sir! Words far beyond my worth.
+Sir! I am unworthy of such words.
 @0.7
 Therefore His Highness grants Lord \#0877 the character "Teru" from his own name, and bids him henceforth call himself "Terutora".
 @0.8
@@ -111,7 +111,7 @@ This is my last advice to you as your master.
 @4.31
 I understand. Then I will do so.
 @4.32
-Yes... meditate with a quiet heart. While you are there, a way out is sure to open.
+Good... meditate with a quiet heart. While you are there, a way out is sure to open.
 @4.33
 Eh??
 @4.34

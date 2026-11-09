@@ -79,7 +79,7 @@ What are you planning!?
 @2.42
 I will take all the blame. Your name will not come up, so rest easy.
 @2.43
-Yes, knowing you, I'm not worried. What do you need?
+Mm. Knowing you, I'm not worried. What do you need?
 @2.44
 Yes, I'd like to borrow a few soldiers.
 @2.45
@@ -121,7 +121,7 @@ Wh-what!? Rebellion! And the old lord!?
 @2.63
 Wh-what!? Rebellion! And the old lord!?
 @2.64
-Yes, sir, the old lord is unharmed.
+Rest assured, sir, the old lord is unharmed.
 @2.65
 You see, Lord \#11C7 says he did the outrageous thing of seizing the castle to admonish the old lord...
 @2.67
@@ -319,7 +319,7 @@ My lord, a letter calling for surrender has come from Lord \#00C3!
 @13.2
 What! What does he say? Read it!
 @13.3
-Yes, sir... well, but...
+Sir... well, but...
 @13.4
 Bah, give it here!
 @13.5
@@ -405,7 +405,7 @@ The \#10C3 army has taken the keep! It's all over...
 @13.63
 What became of the old lord!?
 @13.64
-Yes, sir. The old lord surrendered to Lord \#08C3 early on, but was banished and went down the Nagara River!
+The old lord surrendered to Lord \#08C3 early on, but was banished and went down the Nagara River!
 @13.65
 What... What should we do now...
 @13.66

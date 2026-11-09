@@ -203,7 +203,7 @@ So... the \#102D clan's fighting strength has fallen sharply! Good news for our 
 @4.14
 As expected, Father's cunning is the finest in the land! To strip the \#102D of so much power without losing a single man!
 @4.17
-Old lord... I'm a ninja of \D07B. I bring word from the Boss.
+My lord... I'm a ninja of \D07B. I bring word from the Boss.
 @4.18
 Oh... And what does he say?
 @4.19
@@ -443,7 +443,7 @@ To kill a man in my domain without proof and without a word to me... What is the
 @7.11
 \#0B50's arrogance is no longer to be borne. Summon the ninja of \D07A at once!
 @7.13
-Old lord, you called for me?
+My lord, you called for me?
 @7.14
 Mm, you've come. The truth is, there's something I'd ask of you men of \D07A.
 @7.15
@@ -681,7 +681,7 @@ Mm... I've decided. From now on, we of \E079 will serve \A3A2.
 @14.7
 It's \A3A2 that will rule Chugoku from now on, most likely... We'd rather back the winning horse.
 @14.8
-I'm obliged... I count on you from now on.
+I'm obliged... I'm counting on you from now on.
 @14.10
 \E079 came under \A3A2.
 @14.11

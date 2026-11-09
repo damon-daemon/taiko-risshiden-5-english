@@ -149,7 +149,7 @@ Ah, I have been waiting for you. Come, this way.
 @4.4
 Hm? Oh!?
 @4.5
-Well, well...
+Oh, my...
 @4.6
 Lord \#086E, is it?
 @5.0
@@ -393,7 +393,7 @@ In any case, I must study under Zen master \#09B1 and strive until I become a fi
 @6.70
 Well said! We too will support you with all our strength!
 @6.71
-Yes, I count on you.
+Good. I'm counting on you.
 @7.0
 At last... the day has come when I can stand on my own in my home of Okazaki.
 @7.2
@@ -409,7 +409,7 @@ Mikawa was always the land of the \#11FA house. From now on, we shall defend it 
 @7.7
 All of us swear to support you, my lord, and serve you with loyalty!
 @7.8
-Good! I count on you!
+Good! I'm counting on you!
 @7.9
 With \#006E's unexpected death at the Battle of Okehazama, \#01FA gained his independence...
 @8.0
@@ -449,7 +449,7 @@ Well, well, that was a nasty experience.
 @9.1
 That is why I told you... not to let your guard down.
 @9.2
-Yes, I was careless. I underestimated that fool of Owari. I nearly lost my head.
+Indeed, I was careless. I underestimated that fool of Owari. I nearly lost my head.
 @9.3
 At any rate, I am glad you are safe. What of the march on Kyoto?
 @9.4
@@ -477,7 +477,7 @@ What will become of the \#106D clan now, I wonder...
 @11.0
 My lord... at last we hold Nijo Castle. At last, your dream of marching on Kyoto has come true!
 @11.1
-Yes... It was a long road. Now, gather everyone in the council chamber!
+Indeed... It was a long road. Now, gather everyone in the council chamber!
 @11.3
 It is all thanks to your virtue, my lord!
 @11.6
@@ -681,7 +681,7 @@ Before the council, I have something to tell you all.
 @18.13
 I have decided to change my name, after my grandfather, Lord Kiyoyasu, famed as the restorer of the Matsudaira house.
 @18.14
-From now on, I shall be called Motoyasu. I count on you all.
+From now on, I shall be called Motoyasu. I'm counting on you all.
 @18.16
 My lord, may I have a moment?
 @19.0
@@ -751,7 +751,7 @@ That is certainly true, my lord, but...
 @19.37
 Good. Then \#09FA, as the vanguard, shall carry provisions into \51E6 Castle!
 @19.38
-The \#10C3 will surely attack to retake \51E6... I count on you to relieve the castle and bring in the provisions!
+The \#10C3 will surely attack to retake \51E6... I'm counting on you to relieve the castle and bring in the provisions!
 @19.39
 ...As you command. I shall set out at once.
 @19.40
@@ -761,7 +761,7 @@ Good... I await good news. The main army under me will soon follow. Oh yes, if y
 @19.42
 I, \#006E, do not go back on my word.
 @19.43
-Yes, sir! What an honour! I shall set out at once!
+Sir! What an honour! I shall set out at once!
 @19.44
 Sir! In fact, \51E6 Castle in Owari has come over to our side. We now have an outpost in \#10C3 territory.
 @19.46
@@ -785,11 +785,11 @@ And so \#01FA set out with the vanguard to carry provisions into \51E6 Castle...
 @19.62
 First, take \51E6 from the \#10C3!
 @19.63
-Yes, sir! As you command!
+Yes, my lord! As you command!
 @19.64
 Tell him to take \51E6 from the \#10C3 first!
 @19.65
-Yes, sir! At once!
+Yes, my lord! Right away!
 @19.66
 And so \#01FA set out with the vanguard...
 @19.73

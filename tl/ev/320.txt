@@ -31,7 +31,7 @@ With father and son at odds like this... it hands other provinces an excuse to a
 @0.15
 They say \#00C3 of Owari has his eye on Mino, even if he is the old lord's son-in-law... Whatever will become of Mino...
 @1.0
-Old lord, a letter has come from Lady \#0444.
+My lord, a letter has come from Lady \#0444.
 @1.1
 What? From \#0444?
 @1.2
@@ -143,7 +143,7 @@ What! The Saito house will bow to \#00C3?! That's not like the old lord at all..
 @1.90
 Perhaps the old lord truly does not think well of the young lord...
 @2.0
-Old lord! Terrible news! Lord \#0947 has declared he will strike you down and raised an army!
+My lord! Terrible news! Lord \#0947 has declared he will strike you down and raised an army!
 @2.1
 What?! \#0947?! Curse it, what is the meaning of this!
 @2.2
@@ -183,7 +183,7 @@ Mino, the province I won over a lifetime... It's too good for that idiot son...
 @2.23
 I give all of Mino to my son-in-law... "Take it as you will"... That is what I wrote. See that it reaches him.
 @2.24
-Yes, sir! Even at the cost of my life, \#0869!
+Sir! I, \#0869, will see it delivered with my life!
 @2.25
 Good... and give my regards to \#0444... Tell her to live long and happily with Lord \#08C3...
 @2.26
@@ -195,7 +195,7 @@ My lorrrd!!
 @2.29
 S... second me...
 @2.30
-Yes! Forgive me!
+As you wish... Forgive me!
 @2.36
 My son-in-law... \#00C3... That man will surely...
 @2.38
@@ -271,7 +271,7 @@ I report! \#00C3 of Owari was about to invade our lands...
 @2.102
 Ha ha... \#10C3 has less backbone than I thought.
 @2.103
-Good...! Hear me, all of you! From now on, I, \#0947, am master of Mino! I count on you!
+Good...! Hear me, all of you! From now on, I, \#0947, am master of Mino! I'm counting on you!
 @2.104
 Ei, ei, oh!!
 @2.107
@@ -283,7 +283,7 @@ How rash! Father and son at war with each other! We must protect the old lord at
 @2.111
 My lord! You're safe! Qu-quickly, flee!
 @2.137
-Yes! Forgive me!
+Sir! Forgive me!
 @2.141
 I must hide the old lord's head... and deliver the letter of bequest to Lord \#10C3, as he willed...
 @2.143

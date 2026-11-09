@@ -497,7 +497,7 @@ Will you buy into "oicho-kabu"?
 @189
 Close, close
 @189.1
-Yes!
+All right!
 @190
 Woo! Woo!
 @190.1
@@ -615,7 +615,7 @@ I'm not done yet!
 @202.2
 I can't stop laughing
 @202.3
-Oho, well, well
+Oho, look at this!
 @202.4
 Ha ha, this feels good
 @203
@@ -653,7 +653,7 @@ The natural outcome
 @206.1
 Delightful
 @206.2
-Yes, the match is decided
+Right, the match is settled
 @206.3
 I win
 @206.4
@@ -813,7 +813,7 @@ Hm, a worthy opponent, it seems
 @224.4
 I was careless
 @225
-Well, well... not bad
+My, my... not bad
 @225.1
 It won't go like this next time
 @225.2
@@ -1349,35 +1349,35 @@ I'm beaten
 @369.1
 5, eh, feels good
 @370
-Yes!
+All right!
 @370.1
 I'm on a roll
 @371
 Double?!\nGive me a break!
 @372
-Yes!
+All right!
 @372.1
-Yes, mine!
+All right, mine!
 @373
 Double for me!
 @373.1
-Yes, double for me!
+All right, double for me!
 @374
 Triple for me!
 @374.1
-Yes, triple for me!
+All right, triple for me!
 @375
 Four times for me!
 @375.1
-Yes, four times for me!
+All right, four times for me!
 @376
 Five times for me!
 @376.1
-Yes, five times for me!
+All right, five times for me!
 @377
 Six times for me!
 @377.1
-Yes, six times for me!
+All right, six times for me!
 @378
 I lost...
 @378.1
@@ -1443,7 +1443,7 @@ Tch, stingy.
 @405.1
 Well, about what I expected
 @405.2
-Yes! I'll take that
+All right! I'll take that
 @405.3
 It came! This is a big one!
 @406
@@ -1473,7 +1473,7 @@ Used "{02}=e".
 @413
 Used a card.
 @414
-Yes, perfect.\nIt couldn't have gone better.
+There, perfect.\nIt couldn't have gone better.
 @414.1
 Perfect.\nIt couldn't have gone better.
 @415
@@ -2011,15 +2011,15 @@ This is the last one.
 @578.1
 ...Correct.\nNaturally.
 @579
-Yes, a complete victory.
+Excellent, a complete victory.
 @579.1
 A complete victory.
 @579.2
-Yes, a satisfying result.
+Good, a satisfying result.
 @579.3
 A satisfying result.
 @579.4
-Yes, I won.
+All right, I won.
 @579.5
 I win.
 @579.6

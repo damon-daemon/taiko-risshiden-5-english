@@ -95,13 +95,13 @@ If you wish to serve our house,\nwe can take you as a direct vassal...\nHowever,
 @60
 If you wish to serve our house,\nI can make you a direct vassal, but then\nyou'll have to close your dojo.\nIf you want to keep running your dojo,\nyou can be instructor\nwhile you remain a ronin.
 @62
-But even as a direct vassal, an instructor\nmust always be at my side,\nso I can't make you a castle lord, whatever your deeds.\nIf you're instructor as a ronin,\ntrain our men from time to time.\nNeglect it and I may dismiss you.
+But even as a direct vassal, an instructor\nmust always be at my side,\nso I can't make you a castle lord, whatever your deeds.\nIf you instruct us while still a ronin,\ntrain our men from time to time.\nNeglect it and I may dismiss you.
 @63
 But even as a direct vassal, an instructor\nmust always be at my side,\nso we cannot make you a castle lord, whatever your deeds.\nIf you are instructor as a ronin,\nplease train our men from time to time.\nIf you neglect it, we must dismiss you.
 @64
 But even as a direct vassal, an instructor\nmust always be at my side,\nso I can't make you a castle lord, whatever your deeds.\nIf you're instructor as a ronin,\nplease train our men from time to time.\nNeglect it and I may dismiss you.
 @66
-Someone like you\ncould be taken on as {02}yd\ninstead of instructor.\nIf you would come to me\nas {02}yd,\nI'd take your followers too.
+Someone like you\ncould be taken on as {02}yd\ninstead of as an instructor.\nIf you would come to me\nas {02}yd,\nI'd take your followers too.
 @67
 Someone of your standing\ncould be taken on as {02}yd\ninstead of instructor.\nIf you would come to us\nas {02}yd,\nwe would take your followers too.
 @68
@@ -125,23 +125,23 @@ Then what will you do?
 @80
 Then what will you do?
 @82
-That you would betray {02}{02}{EC}\nto instruct our house... I'm deeply grateful.\nI'm counting on you.
+That you would betray {02}{02}{EC}\nto instruct our house... I'm deeply grateful.\nI look forward to your teaching.
 @83
-That you would betray {02}{02}{EC}\nto instruct our house... we are deeply grateful.\nWe are counting on you.
+That you would betray {02}{02}{EC}\nto instruct our house... we are deeply grateful.\nWe look forward to your teaching.
 @84
-That you would betray {02}{02}{EC}\nto instruct us... I'm overwhelmed.\nI'm counting on you.
+That you would betray {02}{02}{EC}\nto instruct us... I'm overwhelmed.\nI look forward to your teaching.
 @86
-Oh, to have my master\ninstruct us in person is reassuring.\nI'm counting on you.
+Oh, it's reassuring to have my master\ninstruct us in person.\nI look forward to your teaching.
 @87
-Oh, to have my master\ninstruct us in person is reassuring.\nI'm counting on you.
+Oh, it's most reassuring to have my master\ninstruct us in person...\nI look forward to your teaching.
 @88
-Oh, to have my master\ninstruct us in person is reassuring.\nI'm counting on you.
+Oh, it's reassuring to have my master\ninstruct us in person...\nI look forward to your teaching.
 @90
-Oh, to have you,\n{01}C1{00}, instruct us is reassuring.\nI'm counting on you.
+Oh, it's reassuring to have you,\n{01}C1{00}, instruct us.\nI look forward to your teaching.
 @91
-Oh, to have you, {01}C1{00},\ninstruct us is most reassuring...\nWe are counting on you.
+Oh, it's most reassuring to have you,\n{01}C1{00}, instruct us...\nWe look forward to your teaching.
 @92
-To have you instruct us, {01}C1{00},\nis more than I could hope for...\nI'm counting on you.
+To have you instruct us, {01}C1{00},\nis more than I could hope for...\nI look forward to your teaching.
 @93
 {02}{02}g has become\nthe martial arts instructor of {02}{0B}e.
 @94
@@ -415,7 +415,7 @@ I am working out our next strategy right now...\nIt should be decided by the nex
 @201.2
 I'm working out our next strategy right now...\nIt should be decided by the next council.\nPlease wait until then.
 @202.*
-Our house's final goal is {02}yd.
+Our house's final goal is "{02}yd".
 @203.*
 So for now, to develop our lands,\nwe are putting weight on\n{02}yd.
 @204.*
@@ -591,7 +591,7 @@ Really leave the house, resign as instructor\nand become a ronin?
 @241.2
 {02}{15}e is under attack right now.\nNo time for such nonsense.
 @242.*
-(Do I really set up {01}C1{00}\n and rebel?)
+(Am I really to raise a new lord\n and rebel?)
 @243
 Sadly, {01}C{AC}{0C} is no ruler of the realm.\nIf you raise your banner, {01}C1{00},\nI, {02}{01}e, will go with you.
 @243.1
@@ -683,11 +683,11 @@ And since it's you, {01}C1{00},\nwho went this far for me,\nbacking down would s
 @260.2
 ...Yes, a samurai's word is binding.\nI and all my retainers\nwill follow you, {01}C1{00}!
 @261
-With you, {01}C1{00}, it's like a hundred men...\n...No, more than that!\nHelp me.
+{01}C1{00}, you're worth a hundred men...\n...No, more than that!\nHelp me.
 @261.1
-With you, {01}C1{00}, it is like a hundred men...\n...No, more than that.\nPlease lend me your strength.
+{01}C1{00}, you are worth a hundred men...\n...No, more than that.\nPlease lend me your strength.
 @261.2
-With you, {01}C1{00}, it's like a hundred men...\n...No, more than that.\nLend me your strength.
+{01}C1{00}, you're worth a hundred men...\n...No, more than that.\nLend me your strength.
 @262
 The castles other than {02}{15}e\nwere returned to {02}{02}g.
 @263
@@ -749,11 +749,11 @@ What are you doing?!!\nIn that case...
 @277.2
 What are you doing?!!\nThen...
 @278
-This time I have received\nan imperial order for peace.\nCome, make up your mind.
+We have received an imperial edict\ncalling for peace.\nCome, make up your mind.
 @278.1
-This time I have received\nan imperial order for peace.\nWhat do you say?
+We have received an imperial edict\ncalling for peace.\nWhat do you say?
 @278.2
-This time I have received\nan imperial order for peace.\nWhat do you say?
+We have received an imperial edict\ncalling for peace.\nWhat do you say?
 @279
 What?!\nAn imperial order?
 @279.1
@@ -933,9 +933,9 @@ Crash!
 @321
 Lord {02}{03}e gathered the commanders in the castle\nand declared independence on the spot!\nTheir treachery is now plain!
 @322
-...That can't be true!?\nThat {01}C8{00}\nwould betray me... I can't believe it.\n
+...That can't be true!?\nTo think {01}C8{00}\nwould betray me... I can't believe it.\n
 @322.1
-Is it true!?\nThat {01}C8{00}\nwould betray me... I can't believe it.
+Is it true!?\nTo think {01}C8{00}\nwould betray me... I can't believe it.
 @323
 From what I hear...\nit was {02}{03}g\nwho incited it!
 @324
@@ -1003,9 +1003,9 @@ I will never forget this humiliation!\nFrom this moment {01}C{AC}{0C} is our ene
 @340.1
 I will never forget this humiliation!\nFrom this moment {01}C{AC}{0C} is our enemy.
 @341
-......But {01}C{AC}{0C}...\nSo {01}C {00} was the worm in the lion's belly.
+......But {01}C{AC}{0C}...\nSo {01}C {00} was the traitor in our midst.
 @341.1
-......Even so, {01}C{AC}{0C}...\nTo think {01}C {00} was the worm in the lion's belly.
+......Even so, {01}C{AC}{0C}...\nTo think {01}C {00} was the traitor in our midst.
 @342
 In {02}{84}e/{02}{84}f/{02}{84}g, {02}{01}g\nrebelled at {02}{15}e\nand became a daimyo.
 @343
@@ -1117,7 +1117,7 @@ But traitors will never be forgiven.\nI will make them regret deeply\nbaring the
 @368
 Yes, sir!
 @369.*
-But {01}C{AC}{0C} was pulling the strings...\nThe one to fear may not be {01}C1{00},\nbut {01}C {00}...
+But {01}C{AC}{0C} was pulling the strings...\nThe one to fear may not be you,\nbut {01}C {00}...
 @370
 Not enough spirit.
 @371
@@ -1546,3 +1546,9 @@ OK
 End
 @542
 Message log
+@206.1
+Our immediate goal is to defeat {02}{0B}e.\nTo that end, we are carrying out {02}yd.
+@206
+Our immediate goal is to defeat {02}{0B}e.\nTo that end, we are carrying out {02}yd.
+@206.2
+Our immediate goal is to defeat {02}{0B}e.\nTo that end, we are carrying out {02}yd.

@@ -319,7 +319,7 @@ To mark the occasion, I will rename this castle Nagahama.
 @5.3
 Nagahama? It has a fine ring to it!
 @5.4
-Yes. I took one character from our lord's name!
+Indeed. I took one character from our lord's name!
 @5.5
 Now, \%03, come and see the repaired castle.
 @5.8
@@ -333,7 +333,7 @@ Many people pass through Omi. Seeing this castle town, more will surely come.
 @5.13
 I can picture my castle town bustling already.
 @6.0
-Well, well, my lord of the castle.
+Oh, my! The lord of the castle himself!
 @6.1
 I have come today because there is much I want to ask you.
 @6.2
@@ -693,7 +693,7 @@ I am grateful! Please work for our house from now on.
 @18.31
 I am grateful! Please give my regards to the head of \D07B as well.
 @18.32
-Yes, sir! Then I shall take my leave!
+I will! Then I shall take my leave!
 @18.34
 Vanished...!!
 @18.35
@@ -965,7 +965,7 @@ Most gracious words! I will return at once and tell my master.
 @38.27
 Hmm. Give Lord \#11FA my warmest regards.
 @38.28
-Yes, sir... Then I shall take my leave.
+I will, sir... Then I shall take my leave.
 @38.29
 My lord, how fortunate that \A3A4 is coming over to our side.
 @38.30

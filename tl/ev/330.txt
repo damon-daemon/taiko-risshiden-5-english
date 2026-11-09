@@ -13,7 +13,7 @@ As you have all heard, \%201FA is sending an army against \%20074. I intend for 
 @3.14
 But our lands have been in disorder these past years. We cannot field a very large army...
 @3.15
-Yes, but the number of men hardly matters now. What matters is that \#118B sent an army.
+True, but the number of men hardly matters now. What matters is that \#118B sent an army.
 @3.16
 By sending troops we show that we honour our debt to the \#1206 clan. That is enough.
 @3.19
@@ -33,9 +33,9 @@ We cannot take many men, but should it come to war, let us show all Japan the va
 @3.31
 And so, small though it was, the mighty army that was the \#118B clan's pride set out straight for \41DF.
 @4.1
-Yes. Thank you for coming to meet me.
+Mm. Thank you for coming to meet me.
 @4.2
-Yes, sir. And... a letter has arrived from Lord \#02D1.
+Sir. And... a letter has arrived from Lord \#02D1.
 @4.7
 As an exception, however, the \#118B clan was confirmed in its home provinces of Satsuma and Osumi.
 @4.8
@@ -75,7 +75,7 @@ That's the old lord for you! I wish I had marched with him...
 @8.1
 \%03, I had no idea you were here.
 @8.2
-Yes. I am off to subdue \#1074, so I came to pay my respects to Lord \#0A06.
+Mm. I am off to subdue \#1074, so I came to pay my respects to Lord \#0A06.
 @8.3
 After all, I hold the command as Lord \#0A06's proxy.
 @8.4
@@ -87,7 +87,7 @@ It is this: while I, \#09FA, am away fighting \#1074, someone may raise troops w
 @8.7
 Oh... That is a dangerous tale indeed.
 @8.8
-Yes. And so I would like your army, \%03, to stay behind and keep order in the capital region.
+Indeed. And so I would like your army, \%03, to stay behind and keep order in the capital region.
 @8.9
 Should anything happen, it would be best to hold out in \41DF.
 @8.10

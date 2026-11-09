@@ -81,7 +81,7 @@ But such a giant ship... building it would take a vast sum of money and time... 
 @2.33
 The \E07A can do it. That's exactly why I came all this way to ask in person!
 @2.34
-Yes, sir! You honour me...
+You honour me, sir...
 @2.35
 If you can build that giant ship, the fame of the \E07A will surpass the other pirate bands! You'll be the finest pirate band in Japan!
 @2.36
@@ -381,9 +381,9 @@ From \%0404B? What could it be...
 @24.3
 I am honoured to be granted an audience.
 @24.4
-Yes. And what is your business?
+Very well. And what is your business?
 @24.5
-Yes, sir. My master, \#004B, has raised an army to overthrow \#01FA, who has acted as a tyrant since the death of Lord Taiko.
+It is this, sir. My master, \#004B, has raised an army to overthrow \#01FA, who has acted as a tyrant since the death of Lord Taiko.
 @24.6
 Many have joined this righteous cause: Lord \#01CA, Lord \#00A5, Lord \#0138, Lord \#007D and more...
 @24.7
@@ -405,7 +405,7 @@ Hmph, you've thought of everything... Very well, I'll help \%0404B.
 @24.17
 Oh, you've decided! My master asks that you take control of Ise Bay, \%03.
 @24.18
-Yes, leave it to me!
+Hah, leave it to me!
 @24.19
 Then I take my leave.
 @24.20

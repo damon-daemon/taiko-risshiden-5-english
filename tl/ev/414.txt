@@ -53,7 +53,7 @@ It suits us two better to turn our backs on the world and drink.
 @2.21
 Ah, I have said something tiresome. Forget it, ha ha ha! Let us drink again when we have the chance.
 @3.0
-Oh, well, well.
+Oh! Why, what a surprise.
 @3.1
 Why, if it isn't Lord \#0969. What a coincidence.
 @3.2
@@ -293,7 +293,7 @@ Until now I have gained my knowledge only from study, but that alone is not enou
 @10.15
 Then I would very much like to learn true warcraft under you, Lord \#1169. Will you take me among your men?
 @10.16
-Of course. With your strategy, Lord \#088E, I will have the strength of a hundred.
+Of course. With your strategy, Lord \#088E, it will be like having a hundred men at my side.
 @10.17
 \#008E has joined you.
 @10.18

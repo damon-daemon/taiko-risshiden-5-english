@@ -137,7 +137,7 @@ Oh! ...Is that so.\nUnderstood.
 @28
 Oh, my lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
 @28.1
-Oh, old lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
+Oh, my lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
 @28.2
 {02}{03}g, who rules this castle,\nis in {02}{15}e.\nThere's no need for you here. Begone.
 @28.3
@@ -155,7 +155,7 @@ Squad chief, welcome.\nAs you see, we're\nhard at our guard duty every day.
 @29.4
 {02}{03}g, who rules this village,\nis in {02}{15}e.\nPlease take your leave.
 @30
-Oh, old lord, welcome.\n{02}{03}g\nis out right now.
+Oh, my lord, welcome.\n{02}{03}g\nis out right now.
 @30.1
 Oh, boss, welcome.\n{02}{03}g\nis out right now.
 @30.2
@@ -265,7 +265,7 @@ No one lives here.\nPlease take your leave.
 @56.10
 Oh, my lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
 @56.11
-Oh, old lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
+Oh, my lord, welcome.\nAs you see, we're\nhard at our guard duty every day.
 @56.12
 No one lives here.\nYou've no business here. Begone.
 @56.13
@@ -273,9 +273,9 @@ No one lives here.\nYou've no business here. Begone.
 @56.14
 There's no one here.\nPlease take your leave.
 @57
-Hm?\n{01}C1{00} is out......
+Hm?\nNo one's home......
 @57.1
-Oh?\n{01}C1{00} seems to be out...
+Oh?\nNo one seems to be home...
 @58
 Well, I've sneaked in,\nbut now what?
 @58.1
@@ -345,7 +345,7 @@ Thank you for keeping watch.\nIt's {02}{01}g.
 @73.1
 It's me.\nThank you for your work.
 @74
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @74.1
 Oh, {02}{02}f.\nYou may pass.
 @75
@@ -361,7 +361,7 @@ Don't you know me?\nI'm {02}{01}g.
 @76.2
 Don't you know me?\nI'm {02}{01}g of {02}{01}{EC}.
 @77
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @77.1
 Oh, forgive my rudeness.\nPlease, go through.
 @77.2
@@ -397,9 +397,9 @@ I've come to request a job.\nNothing more.
 @84.1
 I've come to request a job.\nNothing more.
 @85
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @85.1
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @85.2
 ...I see, understood.\nThen you may pass.\nThe chief is at the manor.
 @86
@@ -415,9 +415,9 @@ No, nothing in particular.\nI've just come back.
 @87.2
 Nothing in particular.\nI just want to train in ninjutsu.
 @88
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @88.1
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @88.2
 ...We can't teach you our secret arts,\nbut you may train as you like.
 @89
@@ -465,9 +465,9 @@ This village sent for me\nwith a job...
 @100.1
 This village sent for me\nwith a job...
 @101
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @101.1
-Yes, sir.\nPlease, go through.
+Of course, sir.\nPlease go through.
 @101.2
 ...I see, understood.\nWe're counting on you.
 @102
@@ -711,7 +711,7 @@ Blast, I've been spotted.\nI'll run for it.
 @173.2
 No one lives here.\nYou've no business here. Begone.
 @174
-Hm?\n{01}C1{00} is out......
+Hm?\nNo one's home......
 @175
 Well, I've sneaked in,\nbut now what?
 @175.1
@@ -841,11 +841,11 @@ Burned {02}pd.{02}od tenths\nof the goods of {02}{15}e.
 @187
 View the game's explanation?
 @188
-Then let's see {01}C1{00}'s skill.\nBegin at once.
+Then let's see your skill.\nBegin at once.
 @189
 My lord! Thank goodness you're safe.\nIt's an emergency; come to the council room!
 @190
-Old lord! Thank goodness you're safe.\nIt's an emergency; come to the council room!
+My lord! Thank goodness you're safe.\nIt's an emergency; come to the council room!
 @191
 {01}C1{00}! Thank goodness you're safe.\nIt's an emergency; come to the council room!
 @192
@@ -937,47 +937,47 @@ No more work can be done in this village.\nEverything is at its lowest.
 @225
 We're allied with this {02}yd's power.\nWe can't sabotage it.
 @226
-{01}C8{00} is busy\nand can't see you.
+I'm afraid {01}C8{00} is busy\nand can't see you.
 @227
 ...I see, a pity.\nThen I'll take my leave.
 @227.1
 ...I see, what a pity.\nThen I'll take my leave.
 @228
-(It seems {01}C1{00}\n is inside.\n Is there any way to meet them...)
+(It seems the one I'm after\n is inside.\n Is there any way to meet them...)
 @228.1
-(It seems {01}C1{00}\n is inside...\n Is there any way to meet them...)
+(It seems the one I'm after\n is inside...\n Is there any way to meet them...)
 @229
 Oh, so you are\n{01}C1{00}, the {02}=e...\nForgive me, please go through.
 @230
-Oh, so you are\nthe famous {01}C1{00}...\nForgive me, please go through.
+Oh, so you're the famous one\nwe've all heard of...\nForgive me, please go through.
 @231
 Hmph, so you're\nthe one famed as {02}=e...\nYour kind doesn't pass. Go home!
 @232
-Hmph, so you're\nthe infamous {01}C1{00}!\nI can't let you through. Go home!
+Hmph, so you're the infamous one\nwe've all heard of!\nI can't let you through. Go home!
 @233
 Hey, by {02}{03}e's sudden order\nthe watch has changed.\nGo on, leave the rest to me!
 @233.1
 Hey, by {02}{03}e's sudden order\nthe watch has changed.\nGo on, leave the rest to me!
 @234
-Hmph, I know that face.\nYou're {01}C1{00}, the {02}=e.\nWho'd be fooled by that? Begone!
+Hmph, I know that face.\nYou're the one they call {02}=e.\nWho'd be fooled by that? Begone!
 @235
 (That won't work...\n Being called {02}=e\n is a nuisance at times like this...)
 @235.1
 (That won't work...\n Being called {02}=e\n is a nuisance at times like this...)
 @236
-Hmph, I know that face.\nYou're the famous {01}C1{00}...\nWho'd be fooled by that? Begone!
+Hmph, I know that face.\nYou're that famous one...\nWho'd be fooled by that? Begone!
 @237
 (That won't work...\n Being known across the land\n is a nuisance at times...)
 @237.1
 (That won't work...\n Being known across the land\n is a nuisance at times...)
 @238
-Hmph, I've seen that face on a wanted notice.\nYou're {01}C1{00}, the {02}=e.\nHow rude to try to trick me. Begone!
+Hmph, I've seen that face on a wanted notice.\nYou're the one they call {02}=e.\nHow rude to try to trick me. Begone!
 @239
 (That won't work...\n Called {02}=e the moment they see me...\n I'm truly hated.)
 @239.1
 (That won't work...\n Called {02}=e the moment they see me...\n I'm truly hated.)
 @240
-Hmph, I've seen that face on a wanted notice.\nYou're the infamous {01}C1{00}!\nWhat an obvious lie. Begone!
+Hmph, I've seen that face on a wanted notice.\nYou're that infamous one!\nWhat an obvious lie. Begone!
 @241
 (That won't work...\n Everyone knows my face...\n Ill deeds really do travel far.)
 @241.1
@@ -987,7 +987,7 @@ Hmph, I've seen that face on a wanted notice.\nYou're the infamous {01}C1{00}!\n
 @242.1
 (Hmm, I'm not good enough to bluff my way in...\n I'll back off.)
 @243
-{01}C8{00} is busy\nand wouldn't give such an order.\nIs what you say really true?
+Surely {01}C8{00} is too busy\nto give such an order.\nIs what you say really true?
 @244
 (Hmm, this looks bad.\n I'll back off.)
 @244.1
@@ -999,7 +999,7 @@ Never seen your face...\nAnd you're dressed oddly. New, are you?\nThanks for tak
 @246.1
 (Ufufu, fooled without knowing it...\n I'll slip in quickly\n before they notice.)
 @247
-Giving me that is no use.\n{01}C8{00} is busy\nand can't see you.
+Giving me that is no use.\nI'm afraid {01}C8{00} is busy\nand can't see you.
 @248
 (Time for my last resort...\n I didn't want to do this, but\n I'll pass as a woman.)
 @248.1
@@ -1027,7 +1027,7 @@ Ugh, creepy!\nAnd that's meant to seduce me?\nGo look in a mirror.
 @253.1
 (How rude...\n Not seeing my charms?\n His eyes must be rotten.)
 @254
-I'm flattered, but...\n{01}C8{00} is busy\nand can't see you.
+I'm flattered, but...\nI'm afraid {01}C8{00} is busy\nand can't see you.
 @255
 Ooh, praise from a pretty woman\nmakes me blush...\nKeep it quiet, now; go on through.
 @256
@@ -1035,9 +1035,9 @@ Ooh, praise from a pretty woman\nmakes me blush...\nKeep it quiet, now; go on th
 @256.1
 (Oh my, it actually worked.\n Worth a try after all.)
 @257
-...Hmm, I got in fine, but\n{01}C1{00} is never alone...\nNo choice; I'll come back another time.
+...Hmm, I got in fine, but\nmy target is never alone...\nNo choice; I'll come back another time.
 @257.1
-...Hmm, I got in fine, but\n{01}C1{00} is never alone...\nNo choice; I'll come back another time.
+...Hmm, I got in fine, but\nmy target is never alone...\nNo choice; I'll come back another time.
 @258
 What do you want?\nWhat business have you with us?
 @259
@@ -1139,7 +1139,7 @@ Why, this is serious...\nHere, drink this water.
 @291.1
 Oh dear...\nHere, drink this water.
 @292
-*gulp gulp*...\n\n\nPhew, I'm alive again.\nThank you.\n\nAh... could you be...\nthe famous {01}C1{00}?\nTruly as fine as they say...
+*gulp gulp*...\n\n\nPhew, I'm alive again.\nThank you.\n\nAh... could you be...\nthat famous samurai?\nTruly as fine as they say...
 @293
 *gulp gulp*...\n\n\nPhew, I'm alive again.\nI'd like to thank you.\nPlease, come this way...
 @294
@@ -1161,7 +1161,7 @@ Here, take this medicine\nwith the water.
 @299.1
 Here, take this medicine\nwith the water.
 @300
-*gulp*...\n\n\n*cough cough*... Awful!\nGiving that to a weak person...\n\nAh... could you be...\nthe famous {01}C1{00}!?\nNothing like they say... Eeek!
+*gulp*...\n\n\n*cough cough*... Awful!\nGiving that to a weak person...\n\nAh... could you be...\nthat famous samurai!?\nNothing like they say... Eeek!
 @301
 (Hmm... did I get it wrong?)
 @301.1
@@ -1171,7 +1171,7 @@ Here, take this medicine\nwith the water.
 @303
 ...As expected, {01}C1{00},\nyou saw through my disguise.\nThen you're ready... your life is mine!
 @304
-*gulp*...\n\n\nOh, my strength is back.\nThank you.\n\nWhy, could you be...\nthe famous {01}C1{00}?\nI'm overjoyed.
+*gulp*...\n\n\nOh, my strength is back.\nThank you.\n\nWhy, could you be...\nthat famous samurai?\nI'm overjoyed.
 @305
 *gulp*...\n\n\nOh... my strength is back.\nThank you.\n\nI'd like to thank you.\nPlease, come this way.
 @306
@@ -1187,7 +1187,7 @@ Hold on!\nLeave it to me.\nIs it here I should rub?
 @310.1
 Hold on!\nLeave it to me.\nHere, should I rub?
 @311
-...More {01}C{C3}?...\n\n\n...Ah, that's better.\nThank you.\n\nAh... could you be...\nthe famous {01}C1{00}!?\nJust as lovely as they say... (blush)
+...More {01}C{C3}?...\n\n\n...Ah, that's better.\nThank you.\n\nAh... could you be...\nthat famous samurai!?\nJust as lovely as they say... (blush)
 @312
 ...More {01}C{C3}?...\n\n\n...Ah, that's better.\nThank you.\n\nLet me do something nice to thank you.\nPeople will see us here; this way...
 @313
@@ -1207,13 +1207,13 @@ Here, take this medicine.
 @317.1
 Here, take this medicine.
 @318
-*gulp*...\n\n\nUgh... what is this?\nWhat are you making me drink!?\n\nWhy, could you be...\nthe famous {01}C1{00}?\nNothing like they say... Eeek!
+*gulp*...\n\n\nUgh... what is this?\nWhat are you making me drink!?\n\nWhy, could you be...\nthat famous samurai?\nNothing like they say... Eeek!
 @319
 *gulp*...\n\n\n*cough cough*, what is this!\nY-you tricked me!?
 @320
 ...As expected, {01}C1{00},\nyou saw through my disguise...\nThen you're ready, aren't you? Your life is mine!
 @321
-*gulp*...\nAh... I'm warming up.\nThank you.\nAh... could you be...\nthe famous {01}C1{00}!?\nJust as wonderful as they say... (blush)
+*gulp*...\nAh... I'm warming up.\nThank you.\nAh... could you be...\nthat famous samurai!?\nJust as wonderful as they say... (blush)
 @322
 *gulp*...\n\n\nAh... I'm warming up. Thank you.\nLet me do something nice for you.\nNot here, people will see; this way...
 @323
@@ -1243,7 +1243,7 @@ Ufufu, next time you're born,\nwatch out for fine women like me.\nGoodbye... hya
 @328
 Why, {01}C1{00}.\nFor {02}{02}{EC} to prosper\nwe work hard at trade every day.
 @329
-Why, {01}C1{00}.\n{01}C8{00}, who manages this shop,\nis at the {02}{15}e shop.
+Why, {01}C1{00}.\nThe manager of this shop, {01}C8{00},\nis at the {02}{15}e shop.
 @333
 Oh, is there something\nyou'd like of me as my student?
 @333.1
@@ -1303,7 +1303,7 @@ What?\nYou'd give up your post as instructor of {02}yd\nto join my {02}zd?
 @349.2
 Eh?\nYou'd give up your post as instructor of {02}yd\nto join my {02}zd?
 @351
-You want to join {02}yd?\nAnd as my student,\nnot the head of the school's?
+You want to join {02}yd?\nAnd as my pupil,\nrather than the grandmaster's?
 @351.1
 You want to join {02}yd?\nAnd as my student,\nnot the head's?
 @351.2
@@ -1387,17 +1387,17 @@ I'm deeply honoured!\nFor you, I'll lend\nmy strength any time.
 @378.2
 Thank you.\nFor you, I'll lend\nmy strength any time.
 @380
-(...I already have enough instructors.\n To take on {01}C1{00},\n I'd have to let someone go...)
+(...I already have enough instructors.\n To take on another,\n I'd have to let someone go...)
 @380.1
-(...I already have enough instructors.\n To take on {01}C1{00},\n I'd have to let someone go...)
+(...I already have enough instructors.\n To take on another,\n I'd have to let someone go...)
 @382
-(If I take on {01}C1{00}\n as an instructor,\n my dojo's books...)
+(If I take this one on\n as an instructor,\n my dojo's books...)
 @382.1
-(If I take on {01}C1{00}\n as an instructor,\n my dojo's books...)
+(If I take this one on\n as an instructor,\n my dojo's books...)
 @384
-(Blast, even if I hire {01}C1{00},\n I can't pay the stipend...)
+(Blast, even if I hire them,\n I can't pay the stipend...)
 @384.1
-(Hmm, even if I hire {01}C1{00},\n I can't pay the stipend...)
+(Hmm, even if I hire them,\n I can't pay the stipend...)
 @386
 (Mm, the books still have room.\n No problem taking them on as instructor. Good!)
 @386.1
@@ -1765,7 +1765,7 @@ You only learned a secret art this month.\nYou haven't mastered it yet.\nAs your
 @509.1
 You only learned a secret art this month.\nYou haven't mastered it yet.\nAs your teacher, I won't teach the next yet...
 @509.2
-You only learned a new secret art this month.\nYou haven't mastered it yet.\nAs your teacher, I won't teach the next yet...
+You only learned a new secret art this month.\nYou haven't mastered it yet.\nAs your master, I can't pass on the next one yet...
 @510
 You only learned a new secret art this month.\nEven my teacher should polish it now...\nThe next one is too soon, I'd say.
 @510.1
@@ -1893,9 +1893,9 @@ I'd like to join\n{02}{02}{EC}.
 @543.1
 Would you let me join\n{02}{02}{EC}?
 @544
-What!! You, under me?\nIt's true someone like {01}C1{00}\ncoming to our house would be a great help...
+What!! You, under me?\nTrue, having someone like you\njoin our house would be a great help...
 @544.1
-Eh!! You, under me?\nIt's true someone like {01}C1{00}\ncoming to our house would be a great help...
+Eh!! You, under me?\nTrue, having someone like you\njoin our house would be a great help...
 @545
 Our {02}{15}e is in crisis now;\nthis is no time for such talk.\nPlease leave for today.
 @545.1
@@ -1909,7 +1909,7 @@ Isn't your {02}{15}e\nin crisis now?\nYou shouldn't bring this up now...
 @547.1
 Isn't your {02}{15}e\nin crisis now?\nYou shouldn't bring this up now.
 @548
-Yes, I wish anew to serve {02}{02}{EC}.\nPlease grant\nmy request!
+I wish to serve {02}{02}{EC} once more.\nPlease grant\nmy request!
 @548.1
 I wish anew to serve {02}{02}{EC}.\nPlease grant\nmy request!
 @549
@@ -1965,7 +1965,7 @@ Is that so...\nThen I'll take my leave for today.
 @562.1
 ...I see.\nThen I'm counting on you.\nServe {02}{0B}e well.
 @563
-Yes, sir!\nI'll work as hard as I can\nfor {02}{02}{EC}!
+Thank you, sir!\nI'll work as hard as I can\nfor {02}{02}{EC}!
 @563.1
 Yes!\nI'll work as hard as I can\nfor {02}{02}{EC}!
 @564
@@ -2045,9 +2045,9 @@ Thank you for the words, but... I'm\nin no position to have followers now.\nLet'
 @592.1
 Your feelings make me very happy,\nbut I have no followers now.\nLet's say this never happened.
 @593
-(Shall I take {01}C1{00}\n into my service?)
+(Shall I take them\n into my service?)
 @593.1
-(Shall I take {01}C1{00}\n into my service, I wonder?)
+(Shall I take them\n into my service, I wonder?)
 @594
 I'm glad to hear it, but\nI can't take you on now...\nLet's say this never happened.
 @594.1

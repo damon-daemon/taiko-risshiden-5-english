@@ -403,7 +403,7 @@ Oh? What is it?
 @8.114
 Mm... Everyone, let's go!
 @9.1
-Old lord, what will you do now?
+My lord, what will you do now?
 @9.2
 Don't call me "old lord"... I didn't rebel because I wanted to be a daimyo.
 @9.4
@@ -877,7 +877,7 @@ That was a rare chance for peace... Forgive me, all of you.
 @19.43
 Do not trouble yourself, \&03. No one could accept such terms. Now, give the order to storm the castle!
 @19.44
-Yes! Very well, attack!
+Indeed! Now, attack!
 @20.0
 All troops! Halt!
 @20.1
@@ -981,11 +981,11 @@ Defeated...! So it was impossible after all to defy that Demon King of the Sixth
 @24.13
 You've done it, \%03!
 @24.14
-Yes... but it's a pity he escaped. Well, no matter... we'll crush him at our leisure.
+We have... but it's a pity he escaped. Well, no matter... we'll crush him at our leisure.
 @24.15
 Now those who meant to side with \#0A05 may change their minds.
 @24.16
-Yes... Well then, first a triumphant return. And then we shall welcome the Shogun.
+Indeed... Well then, first a triumphant return. And then we shall welcome the Shogun.
 @25.0
 We've taken \51E5! When \#001D hears we have entered the capital, he'll be delighted.
 @25.1

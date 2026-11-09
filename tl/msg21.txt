@@ -396,7 +396,7 @@ Oh!\nYou left this house once,\nand you wish to serve again?
 @133
 I wish to serve you once more.\nPlease,\ngrant my request!
 @133.1
-Yes, I wish to serve you once more.\nPlease,\ngrant my request!
+I wish to serve you once more.\nPlease,\ngrant my request!
 @134
 I want to be of use to you.\nPlease,\nwon't you grant my request?
 @134.1
@@ -428,7 +428,7 @@ But now that you serve me,\nwe are lord and retainer.\nYou will follow my orders
 @141
 I understand.\nFrom now on I will work\nas hard as I can for you!
 @141.1
-Yes, sir!\nFrom now on I will work\nas hard as I can for you!
+At your service!\nFrom now on I will work\nas hard as I can for you!
 @142
 I understand.\nFrom now on I will\ndo my best for you.
 @142.1
@@ -516,7 +516,7 @@ Right!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
 @153.1
 Yes!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
 @153.2
-Yes, sir!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
+At your service!\nFrom now on I will work\nas hard as I can for you, {01}C1{00}!
 @153.3
 Yes!\nFrom now on please let me\nwork as hard as I can for you, {01}C1{00}!
 @154
@@ -642,9 +642,9 @@ Yes!
 @185
 That's my {02}3g,\nwhich has been missing for days...?
 @186
-(Oh no,\n this is the {02}3g\n I got from {01}C1{00}!)\nI-I just remembered something urgent.\nI must be going!
+(Oh no,\n this is the {02}3g\n I got from this very person!)\nI-I just remembered something urgent.\nI must be going!
 @186.1
-(Oh no,\n this is the {02}3g\n I got from {01}C1{00}!)\nI-I just remembered something urgent.\nI must be going!
+(Oh no,\n this is the {02}3g\n I got from this very person!)\nI-I just remembered something urgent.\nI must be going!
 @187
 Hey, wait!
 @187.1
@@ -736,9 +736,9 @@ Oh, this is splendid...\nI accept it with thanks.
 @202.1
 Oh!\nThis is splendid...\nI accept it with thanks.
 @202.2
-Well, well...\nI accept it with thanks.
+Oho, how kind of you...\nI accept it with thanks.
 @202.3
-Well, well...\nThen I'll accept it.
+Oh, how kind...\nThen I'll accept it.
 @202.4
 ...I see.\nThen I'll accept it.
 @203
@@ -1042,7 +1042,7 @@ From now on I too will be a ronin\nand stand where you stand.\n\nBut if you ever
 @266.1
 From now on I too will be a ronin\nand stand where you stand.\n\nBut if you ever serve someone again,\nI wish to serve you once more.\nPlease keep that in your heart...
 @267
-Yes, I gratefully accept\nyour feelings.\n{01}C1{00}, take care.
+Very well. I gratefully accept\nyour feelings.\n{01}C1{00}, take care.
 @267.1
 Thank you...\n{01}C1{00}, let's meet again.
 @267.2
@@ -1396,9 +1396,9 @@ What is it? So formal.
 @360.1
 What is it? So formal.
 @361
-I'll be frank.\n{01}C8{00} would very much\nlike to have you join us.
+I'll be frank.\nIt is {01}C8{00}'s earnest wish\nto have you join us.
 @361.1
-I'll be frank.\n{01}C8{00} would very much\nlike to have you join us.
+I'll be frank.\nIt is {01}C8{00}'s earnest wish\nto have you join us.
 @362
 I'll be frank.\nWouldn't you like to put your talents\nto use under Lord {02}{03}f?
 @362.1
@@ -1412,13 +1412,13 @@ Eh?!\nYou'd take me, a ronin...?\nAre you serious?
 @364.1
 Eh?!\nYou'd take me, who serves {02}{0B}e...?\nAre you serious?
 @365
-Indeed...\nIf you would come to us,\nit would be like a hundred men!
+Indeed...\nIf you joined us, it would be\nlike having a hundred more men!
 @365.1
-Indeed...\nIf you would come to us,\nit would be like a hundred men!
+Indeed...\nIf you joined us, it would be\nlike having a hundred more men!
 @366
-I don't lie.\nIf you would come to us,\nit would be like a hundred men!
+I don't lie.\nIf you joined us, it would be\nlike having a hundred more men!
 @366.1
-I don't lie.\nIf you would come to us,\nit would be like a hundred men!
+I don't lie.\nIf you joined us, it would be\nlike having a hundred more men!
 @367
 ............
 @367.1
@@ -1444,9 +1444,9 @@ What do you say?\nWon't you give me\na good answer...?
 @373.1
 (Right,\n I still have stipend to spare.\n Recruiting is no problem.)
 @374
-(Then shall I really\n try to recruit {01}C1{00}?)
+(Then shall I really\n try to recruit them?)
 @374.1
-(Then shall I really\n try to recruit {01}C1{00}?)
+(Then shall I really\n try to recruit them?)
 @375
 (...No,\n I'll leave it for today.)
 @375.1
@@ -1488,9 +1488,9 @@ Eh?!\nYou'd take me, who serves {02}{0B}e...?\n{01}C1{00}, are you serious?
 @389.1
 ...It is more than I deserve.\nPlease, introduce me to {01}C8{00}.
 @390
-Oh! I'm grateful!\n{01}C {00} will surely be pleased!
+Oh! I'm grateful!\nI'm sure {01}C {00} will be pleased!
 @390.1
-You accept?!\n{01}C {00} will surely be pleased!
+You accept?!\nI'm sure {01}C {00} will be pleased!
 @391
 Then I look forward to working with you.
 @391.1
@@ -1660,9 +1660,9 @@ I see...\nSo not even you, {01}C1{00},\nwill help me.
 @442
 I see...
 @443
-I want to leave a token\nthat {01}C1{00} was my friend.
+I want to leave a token\nthat you were my friend.
 @443.1
-I am proud to have\n{01}C1{00} as a friend.\nI want to leave that pride in some form.
+I am proud to have\nyou as a friend.\nI want to leave that pride in some form.
 @444
 Say, I see promise in you,\nand there's a favor I'd like to ask.\nGot a moment?
 @445
@@ -1730,21 +1730,21 @@ Then next time...
 @459
 ...Please accept this.\nI humbly ask for\ngood treatment...
 @460
-Oh! Well, well!\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
+Oh! How generous!\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
 @460.1
 Oh, this is most welcome!\n{01}C1{00}, I will welcome you\nwith the best treatment I can.
 @460.2
-Yes, I accept this with thanks.\nI will see that you are welcomed\nas a vassal with good treatment.
+Very well, I accept this with thanks.\nI will see that you are welcomed\nas a vassal with good treatment.
 @460.3
 Hm, I'll take it.\nI'll consider your treatment a little.\nDon't expect too much.
 @460.4
 Oh, this is most welcome!\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
 @460.5
-Yes, I accept this with thanks.\nI will see that you are welcomed\nas a vassal with good treatment.
+Very well, I accept this with thanks.\nI will see that you are welcomed\nas a vassal with good treatment.
 @460.6
 Hm, I'll take it.\nI'll consider your treatment a little.\nDon't expect too much.
 @460.7
-Yes, I accept this with thanks.\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
+Very well, I accept this with thanks.\n{01}C1{00}, I will welcome you\nwith the best treatment I can offer.
 @460.8
 Hm, I'll take it.\nI'll consider your treatment a little.\nDon't expect too much.
 @460.9
@@ -1796,9 +1796,9 @@ From now on, you are the daimyo.\nI am at your service.
 @482
 You are too kind.\nI ask for your guidance\nfrom now on.
 @483
-Our house's final goal is {02}yd.
+Our house's final goal is "{02}yd".
 @483.1
-Our house's final goal is {02}yd.
+Our house's final goal is "{02}yd".
 @484
 So for now, to develop our lands,\nwe are putting weight on\n{02}yd.
 @484.1
@@ -1864,13 +1864,13 @@ Oh, {02}yd, is it?\nThen how much would that be\nin money?
 @499.1
 {02}yd, is it?\nThen how much would that be\nin money?
 @500
-Oh! Well, well!\n{02}{83}{A3}, I gladly accept\nyour goodwill.
+Oh! How generous!\n{02}{83}{A3}, I gladly accept\nyour goodwill.
 @500.1
 Oh, this is most welcome!\n{02}{83}{A3}, I thank you.
 @500.2
-Yes, I accept this with thanks.\n{02}{83}{A3}, I am glad.
+Very well, I accept this with thanks.\n{02}{83}{A3}, I am glad.
 @500.3
-Yes, I'll take it.\n{02}{83}{A3}, well done.
+Very well, I'll take it.\n{02}{83}{A3}, well done.
 @500.4
 I'll take what I'm given.
 @501

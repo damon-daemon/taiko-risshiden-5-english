@@ -483,7 +483,7 @@ Lord \#02B7, lord of Mitoya Castle, has gone over to the Mori!
 @21.8
 What!\nIs that true?
 @21.9
-Yes. It seems Mitoya Castle let in the Mori army without a fight.
+It is. It seems Mitoya Castle let in the Mori army without a fight.
 @21.10
 That's strange...
 @21.11
@@ -567,7 +567,7 @@ Indeed, it is strange... I haven't seen them either...
 @23.2
 Bah, what are they doing at a time like this! \%03, go and fetch them both.
 @23.4
-\%01, \#1006 and \#1159 seem to have already left the main castle! Both their residences are empty!
+My lord! \#1006 and \#1159 seem to have already left the main castle! Both their residences are empty!
 @23.5
 What!
 @23.6

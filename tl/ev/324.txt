@@ -143,7 +143,7 @@ Good, that should do. Fall back!
 @1.47
 The plan worked beautifully!
 @1.48
-Yes. Anyone who tries petty tricks against me only gets hurt.
+Indeed. Anyone who tries petty tricks against me only gets hurt.
 @2.0
 A report! \#11FA's army is closing in on \41E0!
 @2.1
@@ -233,7 +233,7 @@ We have been asked to join the campaign as well.
 @5.30
 And what will you do, my lord?
 @5.31
-Yes, we have no choice but to obey.
+We have no choice but to obey.
 @5.32
 We first go to \41E2, join up with \#0965's army there, and wait for Lord \#11FA's main force to arrive.
 @5.33
@@ -281,13 +281,13 @@ Now, don't panic. It won't be too late to act once we see what they do.
 @6.22
 My lord, a letter has come from Lord \#09FC.
 @6.23
-Yes, show me.
+Mm, show me.
 @6.24
 ...I see.
 @6.25
 Father, what does \#09FC say?
 @6.26
-Yes, he tells us to quietly surrender \41DE.
+He tells us to quietly surrender \41DE.
 @6.27
 A call to surrender, then?
 @6.28
@@ -311,7 +311,7 @@ And Lord \#09FC's army is marching along the Nakasendo.
 @6.42
 So the time has come?
 @6.43
-Yes. Since we side with \%041FA, we must send troops!
+It has. Since we side with \%041FA, we must send troops!
 @6.44
 But taking the Nakasendo means passing the old lord's \41DE.
 @6.45
@@ -357,7 +357,7 @@ Then, farewell.
 @6.67
 My lord, it seems we won't have to cross blades with the old lord.
 @6.68
-Yes, that's good, but would Father really submit so easily...?
+True, that's good, but would Father really submit so easily...?
 @6.69
 That is all for now. You may go!
 @6.70
@@ -399,7 +399,7 @@ Exactly. I wanted everyone to know that. Now, you may go!
 @7.0
 My lord! Congratulations on your great victory!
 @7.1
-Yes, thank you for coming to greet me.
+Mm, thank you for coming to greet me.
 @7.3
 Oh, \#0965 is here too.
 @7.4
@@ -441,7 +441,7 @@ Now, what shall we do with the Eastern daimyo?
 @8.13
 Those who sided with \Z003 must be punished severely!
 @8.14
-Yes. Then let us confiscate the Eastern lords' domains and share them among the daimyo loyal to the \#1206. Agreed?
+Indeed. Then let us confiscate the Eastern lords' domains and share them among the daimyo loyal to the \#1206. Agreed?
 @8.15
 Yes, I have no objection.
 @8.16
@@ -591,13 +591,13 @@ Farewell, Brother.
 @10.70
 \%047FE, I have come to say goodbye.
 @10.71
-Old lord! \%04169!
+My lord! \%04169!
 @10.72
 I am no longer your old lord. From now on, give \#0965 your full support.
 @10.73
 ...As you wish. Both of you, take care of yourselves.
 @10.74
-Yes, I'll take good care of myself until the day I can do the same to \#09FA.
+Mm, I'll take good care of myself until the day I can do the same to \#09FA.
 @10.76
 Well, farewell.
 @10.77
@@ -697,7 +697,7 @@ Urge joining \#09FA
 @11.50
 I believe we should join \%0404B.
 @11.51
-Yes, the same as me. Good, our house will join \%0404B!
+Ah, the same as me. Good, our house will join \%0404B!
 @11.53
 I believe we should do as my brother says and join \%041FA.
 @11.54
@@ -713,7 +713,7 @@ Father and son fighting on opposite sides is the way of this age of war. Whichev
 @11.62
 Go, \#0965.
 @11.63
-Yes, then... Take care, Father.
+I will, then... Take care, Father.
 @11.65
 \#0969, look after Father.
 @11.66
@@ -777,7 +777,7 @@ But I think we should join \%041FA.
 @11.104
 Your wife, my lord, is \%041FA's adopted daughter, so surely what to do is clear.
 @11.105
-Yes, I thought so too. Good, my mind is made up!
+Indeed, I thought so too. Good, my mind is made up!
 @11.108
 Right now Father and my brother are divided.
 @11.109
@@ -787,7 +787,7 @@ But my brother thinks we should join \%041FA.
 @11.115
 I think we should do as \%02167 says and join \%0404B.
 @11.116
-Yes, it's reassuring that you think so too.
+Hm, it's reassuring that you think so too.
 @11.117
 Father, I believe we should join \%0404B.
 @11.120
@@ -867,7 +867,7 @@ It seems he's besieging \41DF.
 @13.3
 \#09FA may have been beaten at Sekigahara, but he is a seasoned veteran. Drop our guard and it will be our heads that roll.
 @13.4
-Yes. Let us proceed with care.
+Indeed. Let us proceed with care.
 @13.5
 Very well, we advance!
 @14.0
@@ -883,7 +883,7 @@ Yes... that \#0125 and \#0267 have turned traitor and are heading for \#09FA's h
 @14.5
 And when \#09FA's headquarters loses its nerve, we charge in.
 @14.6
-Yes. We are outnumbered. Know that unless everyone moves as one, we will be wiped out.
+Right. We are outnumbered. Know that unless everyone moves as one, we will be wiped out.
 @14.8
 So they've begun... Right, let's go!
 @16.0
@@ -893,7 +893,7 @@ How goes the battle?!
 @16.2
 With their headquarters in confusion, the enemy has lost all order and is collapsing. A great victory for our side!!
 @16.3
-Yes! Raise a victory cry!
+Good! Raise a victory cry!
 @16.5
 Ugh, as expected of \#09FA. Rumours and a surprise attack didn't shake him!
 @16.6
@@ -907,7 +907,7 @@ Then I'll take as many enemies as I can with me to the underworld!
 @16.10
 \%03! I'll go with you!
 @16.11
-Yes, let's go!
+Right, let's go!
 @16.12
 Raaah!
 @16.13
@@ -949,7 +949,7 @@ Grr... Then there's no help for it. Lift the siege! We hurry to Mino!
 @19.6
 A great victory for our side.
 @19.7
-Yes. Now they won't make it to the decisive battle.
+Indeed. Now they won't make it to the decisive battle.
 @19.8
 Having cut away this much of the \#11FA side's strength, we can say \%0404B's victory is assured.
 @19.9
@@ -965,7 +965,7 @@ But the Daimon Pass that \#09FC's army chose was a narrow, steep cliff path, unf
 @19.14
 With that army, the Daimon Pass will be nothing but trouble. They are certain to miss the decisive battle.
 @19.15
-Yes, just so, but it seems something even more interesting could be done here...
+Quite so, but it seems something even more interesting could be done here...
 @19.16
 Oh? What are you thinking, Father?
 @19.17
@@ -973,7 +973,7 @@ What if we cross the Wada Pass in \#09FC's place?
 @19.18
 You don't mean...
 @19.19
-Yes, we lead an army there and reach the battlefield before \#09FC.
+Exactly. We lead an army there and reach the battlefield before \#09FC.
 @19.20
 What?! What an outrageous idea!
 @19.21
@@ -997,9 +997,9 @@ Right, I've decided! We'll do it!
 @19.30
 Oh, truly?
 @19.31
-Yes, prepare at once.
+Truly. Prepare at once.
 @19.32
-Yes, quite an interesting idea, if I say so myself, but there's no need to carry it out.
+Hm, quite an interesting idea, if I say so myself, but there's no need to carry it out.
 @19.33
 Just so. Even as things stand, \%0404B will win.
 @19.35
@@ -1019,7 +1019,7 @@ Indeed. Now we just wait for good news.
 @20.0
 My lord, a letter has arrived from \#01FA.
 @20.1
-Yes, let me see it.
+Mm, let me see it.
 @20.5
 What is this?!
 @20.7
@@ -1075,7 +1075,7 @@ But though I'm ready to fight \#09FA, I'd like to secure our rear.
 @20.34
 ...Then it would be wise to make friends with \#1074.
 @20.35
-Yes, send an envoy to \#1074 to propose an alliance.
+Right, send an envoy to \#1074 to propose an alliance.
 @20.37
 Good, I've decided!
 @20.38
@@ -1133,7 +1133,7 @@ She is \#0448, daughter of \#11FA retainer \#028C, and she would marry as \#09FA
 @22.8
 For binding the \#1167 and \#11FA houses together, it's a golden opportunity.
 @22.9
-Yes, I suppose so. But to be honest, having that \#09FA as my son's father-in-law is not very pleasant.
+Hm, I suppose so. But to be honest, having that \#09FA as my son's father-in-law is not very pleasant.
 @22.10
 What do you intend to do?
 @22.11
@@ -1141,7 +1141,7 @@ Accept the match
 @22.12
 Refuse the match
 @22.13
-Yes, my own likes and dislikes aside, we must accept. Tell \#11FA we agree.
+Hm, my own likes and dislikes aside, we must accept. Tell \#11FA we agree.
 @22.15
 \#0965, you have no objection?
 @22.16
@@ -1151,19 +1151,19 @@ In month \1007 of \1006, \#0165 married Komatsu, adopted daughter of \#01FA.
 @22.19
 ......I look forward to a long life together.
 @22.20
-Yes, likewise, I'm sure...
+Likewise, I'm sure...
 @22.21
 (I wasn't keen at first, but she's quite a fine bride.)
 @22.22
 I still don't like it. Tell them he has another match and turn them down.
 @22.25
-Yes, as you command.
+As you command.
 @22.26
 \#0965, what do you think of this?
 @22.29
 Sir, I think it would be good to accept.
 @22.30
-Yes, if \#0965 has no objection, we must accept. Tell \#11FA we agree.
+Hm, if \#0965 has no objection, we must accept. Tell \#11FA we agree.
 @22.34
 Likewise, I'm sure...
 @22.36
@@ -1171,7 +1171,7 @@ Like you, Father, I'm not keen on it.
 @22.37
 I thought so. Very well, tell them he has another match and turn them down.
 @22.45
-Yes, truly a joyous day! Everyone, tonight we drop all formalities!
+Indeed, truly a joyous day! Everyone, tonight we drop all formalities!
 @22.46
 (Well, well, the old lord seems not entirely displeased.)
 @22.47

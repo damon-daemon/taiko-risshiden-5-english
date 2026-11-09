@@ -43,7 +43,7 @@ Surely so, I fear... If the \D07A moved, then... the old lord gave them secret o
 @1.9
 What is he thinking... Cutting off the Shingu Clique, the right arm of the \#102D clan, with his own hand!
 @1.15
-Old lord... I am a \D07A ninja. I bring a message from our chief.
+My lord... I am a \D07A ninja. I bring a message from our chief.
 @1.18
 What, then my uncle...
 @1.19
@@ -57,7 +57,7 @@ What a weight off my shoulders! With the Shingu Clique gone, no one in the clan 
 @1.27
 Now at last the \#102D clan is united! Ha ha ha ha ha!!
 @1.28
-Old lord! Terrible news!
+My lord! Terrible news!
 @1.30
 Lord \#0347 has rebelled!
 @1.31
@@ -153,7 +153,7 @@ What might it be...
 @4.17
 It is nothing other than... the assassination of \#0347 and his son \#0B48.
 @4.18
-What?! Old lord, are you in your right mind?! They are your uncle and your cousin!
+What?! My lord, are you in your right mind?! They are your uncle and your cousin!
 @4.19
 In this warring age, there is no father, brother or blood... Relatives or not, drop your guard and they'll cut your throat in your sleep.
 @4.20
@@ -185,7 +185,7 @@ Order the killing
 @4.34
 Think better of it
 @4.35
-No need to ask... I hesitate no more. The worm within the lion must be removed!
+No need to ask... I hesitate no more. The traitor in our midst must be removed!
 @4.36
 ...As you command. Then I will send my men.
 @4.38

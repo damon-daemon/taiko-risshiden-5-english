@@ -58,7 +58,8 @@ you
 @21-25.*
 you
 
-# vocative lord titles (J targets of the vocative chain)
+# lord titles: 17/19 = listener (vocative chain #39/#49): "My lord"; 18/20 = third person
+# (reached only from the third-person inserts #32/#56/#62/#430 and event \%02/\%04/\%20): "His Lordship"
 @17
 My liege
 @17.1
@@ -68,13 +69,13 @@ Your Holiness
 @17.3
 My lord
 @18
-My liege
+the Shogun
 @18.1
-My lord
+His Lordship
 @18.2
-Your Holiness
+His Holiness
 @18.3
-My lord
+His Lordship
 @19
 My liege
 @19.1
@@ -84,13 +85,13 @@ Your Holiness
 @19.3
 My lord
 @20
-My liege
+the Shogun
 @20.1
-My lord
+His Lordship
 @20.2
-Your Holiness
+His Holiness
 @20.3
-My lord
+His Lordship
 
 # that person (third person, absent)
 @26
@@ -218,7 +219,7 @@ the master
 @31.13
 that person
 @32
-our lord
+His Lordship
 @32.1
 the master
 @32.2
@@ -354,7 +355,7 @@ this one
 @38.10
 this person
 @39
-our lord
+His Lordship
 @39.1
 the master
 @39.2
@@ -594,7 +595,7 @@ the master
 @54.8
 Master {02}{03}{EC}
 @55
-our lord
+His Lordship
 @55.1
 your master
 @55.2
@@ -650,7 +651,7 @@ Lord {02}{03}f
 @56
 the Shogun
 @56.1
-our lord
+His Lordship
 @56.2
 the master
 @56.3
@@ -738,7 +739,7 @@ the master
 @60.7
 Master {02}{03}{EC}
 @61
-our lord
+His Lordship
 @61.1
 your master
 @61.2
@@ -790,7 +791,7 @@ Lord {02}{03}g
 @62
 the Shogun
 @62.1
-our lord
+His Lordship
 @62.2
 the master
 @62.3
