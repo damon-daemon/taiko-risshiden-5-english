@@ -1,5 +1,5 @@
-"""Two PCSX2 cheats for the extras: all cards collected (Card List) and all events seen
-(Event Gallery). The main-menu cards unlock from these counts.
+"""PCSX2 cheats for the extras: all cards collected (Card List), all events seen (Event
+Gallery), game completed once (1549 scenario) and all New Officer looks.
 
 usage: .venv/bin/python tools/cheat.py doc                    -> docs/cheats.md
        .venv/bin/python tools/cheat.py pnach [image.iso] [dir]  -> <dir>/SLPM-66267_<CRC>.pnach
@@ -11,6 +11,13 @@ addresses are the same in the Japanese and the English build):
   LCG 0x342F10: seed = seed * 0x6C078965 + 12345, value = (seed >> 16) & 0xFFFF).
 - other cards 860-1237: bits at 0x6CCA18 (check 0x30DFA0); 1200 of them are real cards.
 - events 0-73: bits at 0x6CCA48 (check 0x30E080, Event Gallery).
+- New Officer looks 0-20 (Straw Hat ... Pipe, 20 parts: 7 and 8 are both the Cloak;
+  earned by feats in play, check 0x2B2190; the editor lists a part when its slot is
+  not 0, 0x2CCC00):
+  2 bits each at 0x6CCA52 (get 0x30E140): 0 = locked, 1 = new, 2 = unlocked.
+- game completed once: byte 0x6CCA58 (set at an ending, 0x2F2348); scenario select
+  (0x2C7740) opens the 1549 scenario with it. The other extra scenarios open with the
+  card milestones (u16 0x6CCA5A, set by the game from the card counts, 0x311E40).
 Main-menu cards unlock from these counts (0x2C85F0): some always, others with >= 1 card,
 >= 1 event, >= 50 / 600 / 700 cards.
 The values are written continuously (patch=1), so the system data saved to the memory
@@ -29,11 +36,17 @@ SERIAL = 'SLPM-66267'
 OFFICERS, OFFICER_BASE = 860, 0x6CC6BC
 CARD_BITS, CARD_BASE = 1238 - 860, 0x6CCA18
 EVENT_BITS, EVENT_BASE = 74, 0x6CCA48
+LOOKS, LOOK_BASE = 21, 0x6CCA52
+CLEARED = 0x6CCA58
 CHEATS = [
     ('All cards', 'Collects every card in the Card List (1200) and unlocks the main-menu cards '
      'that need cards. Save once in the game and it stays on the memory card.'),
     ('All events seen', 'Marks every event as seen (Event Gallery). Save once in the game and '
      'it stays on the memory card.'),
+    ('Game completed', 'Counts the game as completed once: opens the 1549 scenario. Save once '
+     'in the game and it stays on the memory card.'),
+    ('All New Officer looks', 'Unlocks every extra head, clothes and accessory for New Officers. '
+     'Save once in the game and it stays on the memory card.'),
 ]
 
 def key(i):
@@ -50,7 +63,9 @@ def blocks():
     """(cheat index, base address, bytes)."""
     assert OFFICER_BASE + OFFICERS == CARD_BASE and CARD_BASE + len(bits(CARD_BITS)) == EVENT_BASE
     return [(0, OFFICER_BASE, bytes(key(i) for i in range(OFFICERS)) + bits(CARD_BITS)),
-            (1, EVENT_BASE, bits(EVENT_BITS))]
+            (1, EVENT_BASE, bits(EVENT_BITS)),
+            (2, CLEARED, b'\x01'),
+            (3, LOOK_BASE, sum(2 << 2 * i for i in range(LOOKS)).to_bytes((LOOKS + 3) // 4, 'little'))]
 
 def crc(elf):
     """PCSX2's game CRC: XOR of the ELF's 32-bit words."""
@@ -60,13 +75,17 @@ def crc(elf):
     return c
 
 def writes(cheat):
-    """(address, size, value) of one cheat: words, then the leftover bytes."""
+    """(address, size, value) of one cheat: aligned words, single bytes around them."""
     out = []
     for c, base, data in blocks():
-        if c == cheat:
-            words = len(data) // 4
-            out += [(base + 4 * k, 4, struct.unpack_from('<I', data, 4 * k)[0]) for k in range(words)]
-            out += [(base + k, 1, data[k]) for k in range(4 * words, len(data))]
+        k = 0
+        while c == cheat and k < len(data):
+            if (base + k) % 4 == 0 and k + 4 <= len(data):
+                out.append((base + k, 4, struct.unpack_from('<I', data, k)[0]))
+                k += 4
+            else:
+                out.append((base + k, 1, data[k]))
+                k += 1
     return out
 
 def pnach_lines(cheat):
@@ -84,15 +103,21 @@ def pnach(elf_crc):
         lines += [''] + pnach_lines(c)
     return '\n'.join(lines) + '\n'
 
-DOC = """# Cheats: all cards, all events
+DOC = """# Cheats: all cards, all events, completed game, New Officer looks
 
-Two optional cheats for the Koei the Best edition ({serial}), English patch or Japanese disc:
+Four optional cheats for the Koei the Best edition ({serial}), English patch or Japanese disc:
 
 - **All cards**: collects every card in the Card List (1200: officers, titles, sights,
   techniques, battles, other) and opens the main-menu cards that unlock by number of
   cards: Music Room, Mini-Games and New Officers.
 - **All events seen**: marks every event as seen, so the Event Gallery shows all its
   artwork (its main-menu card appears).
+- **Game completed**: counts the game as completed once, which opens the 1549 scenario
+  (Exile) in the scenario list. (The other extra scenarios open with the number of cards
+  collected; Dreams needs every officer card.)
+- **All New Officer looks**: unlocks the 20 extra parts of the New Officers editor
+  (4 heads, 5 clothes, 11 extras: Straw Hat, Hannya Mask, Nanban Clothes, Eye Patch,
+  Pipe, ...) that are normally earned one by one by feats in play.
 
 You only need them once: with a cheat on, load any save and **save again in the game**.
 The unlocks are then stored on the memory card and the cheat can be turned off.
@@ -104,7 +129,7 @@ They don't change anything inside a playthrough (money, stats, items, heroes).
    the log when the game starts. For the English patch v0.12.0 it is `14E09517`; every
    release of the patch has a different CRC, the Japanese disc is `06E0A070`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `{serial}_<CRC>.pnach`
-   (e.g. `{serial}_14E09517.pnach`) and paste one or both blocks below into it. Other
+   (e.g. `{serial}_14E09517.pnach`) and paste the blocks you want from below into it. Other
    emulators that read `.pnach` files (tested in PCSX2 2.4 only) may want the file named
    just `<CRC>.pnach`.
 3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick the ones
