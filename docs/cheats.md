@@ -1,12 +1,18 @@
-# Cheats: all cards, all events
+# Cheats: all cards, all events, completed game, New Officer looks
 
-Two optional cheats for the Koei the Best edition (SLPM-66267), English patch or Japanese disc:
+Four optional cheats for the Koei the Best edition (SLPM-66267), English patch or Japanese disc:
 
 - **All cards**: collects every card in the Card List (1200: officers, titles, sights,
   techniques, battles, other) and opens the main-menu cards that unlock by number of
   cards: Music Room, Mini-Games and New Officers.
 - **All events seen**: marks every event as seen, so the Event Gallery shows all its
   artwork (its main-menu card appears).
+- **Game completed**: counts the game as completed once, which opens the 1549 scenario
+  (Exile) in the scenario list. (The other extra scenarios open with the number of cards
+  collected; Dreams needs every officer card.)
+- **All New Officer looks**: unlocks the 20 extra parts of the New Officers editor
+  (4 heads, 5 clothes, 11 extras: Straw Hat, Hannya Mask, Nanban Clothes, Eye Patch,
+  Pipe, ...) that are normally earned one by one by feats in play.
 
 You only need them once: with a cheat on, load any save and **save again in the game**.
 The unlocks are then stored on the memory card and the cheat can be turned off.
@@ -18,7 +24,7 @@ They don't change anything inside a playthrough (money, stats, items, heroes).
    the log when the game starts. For the English patch v0.12.0 it is `14E09517`; every
    release of the patch has a different CRC, the Japanese disc is `06E0A070`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `SLPM-66267_<CRC>.pnach`
-   (e.g. `SLPM-66267_14E09517.pnach`) and paste one or both blocks below into it. Other
+   (e.g. `SLPM-66267_14E09517.pnach`) and paste the blocks you want from below into it. Other
    emulators that read `.pnach` files (tested in PCSX2 2.4 only) may want the file named
    just `<CRC>.pnach`.
 3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick the ones
@@ -275,6 +281,30 @@ patch=1,EE,006CCA51,byte,03
 ```
 </details>
 
+<details>
+<summary>.pnach: Game completed (4 lines)</summary>
+
+```
+[Game completed]
+author=damon-daemon
+description=Counts the game as completed once: opens the 1549 scenario. Save once in the game and it stays on the memory card.
+patch=1,EE,006CCA58,byte,01
+```
+</details>
+
+<details>
+<summary>.pnach: All New Officer looks (6 lines)</summary>
+
+```
+[All New Officer looks]
+author=damon-daemon
+description=Unlocks every extra head, clothes and accessory for New Officers. Save once in the game and it stays on the memory card.
+patch=1,EE,006CCA52,byte,AA
+patch=1,EE,006CCA53,byte,AA
+patch=1,EE,006CCA54,word,02AAAAAA
+```
+</details>
+
 ## Raw codes
 
 The same writes as unencrypted raw codes (`2aaaaaaa vvvvvvvv` = 32-bit write,
@@ -523,6 +553,24 @@ on a real PS2 may also need a master code for this game, which is not provided.
 206CCA4C FFFFFFFF
 006CCA50 000000FF
 006CCA51 00000003
+```
+</details>
+
+<details>
+<summary>Game completed (1 lines)</summary>
+
+```
+006CCA58 00000001
+```
+</details>
+
+<details>
+<summary>All New Officer looks (3 lines)</summary>
+
+```
+006CCA52 000000AA
+006CCA53 000000AA
+206CCA54 02AAAAAA
 ```
 </details>
 

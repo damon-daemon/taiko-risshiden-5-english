@@ -104,12 +104,13 @@ The instructions in this README are for the current releases (Koei the Best). Ea
 standard-edition release (v0.10.3 and earlier) has its own README.txt in its zip, with
 the matching file names.
 
-## Cheats: all cards, all events
+## Cheats: all cards, all events, completed game, New Officer looks
 
-[docs/cheats.md](docs/cheats.md) has two optional cheats (PCSX2 `.pnach` and raw codes):
+[docs/cheats.md](docs/cheats.md) has four optional cheats (PCSX2 `.pnach` and raw codes):
 **All cards** fills the Card List and opens Music Room, Mini-Games and New Officers, **All
-events seen** fills the Event Gallery. Use them once, save in the game, and the unlocks
-stay on your memory card.
+events seen** fills the Event Gallery, **Game completed** opens the 1549 scenario, **All
+New Officer looks** unlocks the extra heads, clothes and extras of the New Officers editor.
+Use them once, save in the game, and the unlocks stay on your memory card.
 
 ## Building from source
 
@@ -152,7 +153,7 @@ README.txt. The disc image itself is never packaged.
 | `tools/ui.py`, `elfstr.py`, `elftables.py`, `elfseg.py`, `battlename.py`, `scenarios.py`, `quiz.py` | Program text and the English data segment |
 | `tools/tk5p.py`, `gfx.py`, `menugfx.py` | Texture format (decoder and compressor) and redrawn graphics |
 | `tools/overflow.py` | Buffer limits: fails the build when text could overflow a fixed-size buffer in the game |
-| `tools/cheat.py`, `docs/cheats.md` | Card and event cheats (generator and the codes) |
+| `tools/cheat.py`, `docs/cheats.md` | Unlock cheats (generator and the codes) |
 | `tools/package.py` | Makes the release zip (patch + README.txt with checksums) |
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, PCSX2 automation) |
 
