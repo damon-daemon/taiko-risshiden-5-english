@@ -57,7 +57,7 @@ def main():
     battlename.apply(elf, seg)
     money.apply(elf, seg)
     spritetext.apply(elf, seg)
-    nameentry.apply(elf)
+    nameentry.apply(elf, seg)
     msgbuf.apply(elf, seg)
     print('elf strings: %d (%d moved)' % (n_str, n_moved))
     print('tables: %d names in %d tables' % (sum(t.values()), len(t)))

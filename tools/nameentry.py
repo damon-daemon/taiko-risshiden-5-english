@@ -14,6 +14,11 @@ Changes:
   still force hiragana (mode 3).
 Mode names and buttons are in tl/elfstr.txt.
 
+The naming dialog (0x500D80: up to 4 fields + OK; sword technique names, issue #27)
+refuses OK while a field is blank (0x500D10 calls the blank test 0x500C80 for every
+field). Its reading fields (flag at dialog +0x5C + 4*i) only take kana and English
+has no readings, so the test is skipped for them: Reading may stay empty.
+
 The new-officer card joins family and given with the format at 0x58AFE0 (made
 "%s %s" in tl/elfstr.txt) for the name and for the reading line; the reading call
 (0x2CAF04/0x2CAF0C) is pointed at an unreferenced "%s%s" (0x54EA18) instead, since
@@ -30,8 +35,10 @@ SIZE_CALL = 0x4FE2C0            # jal strlen(table) for mode 1
 STRLEN = 0x3432F0
 OPEN_MODE = [0x2CDC88, 0x500B90]  # delay slots of jal 0x4FF640: move a1, zero (mode 0)
 READING_FMT = (0x2CAF04, 0x2CAF0C, 0x54EA18)   # lui a1 / addiu a1 -> "%s%s"
+BLANK_CALL = 0x500D54           # jal 0x500C80 (is field s0 blank?), s0 = dialog + 4*i
+BLANK_TEST = 0x500C80
 
-def apply(elf):
+def apply(elf, seg):
     f = TABLE - elfseg.VBASE + elfseg.FOFF
     old = bytes(elf[f:f + 2 * len(CHARS)])
     assert old[:2] == '０'.encode('cp932') and len(old) == 124
@@ -52,3 +59,11 @@ def apply(elf):
         assert elf[o:o + 4] == struct.pack('<I', w)
     elfseg.patch(elf, hi_at, asm.assemble(hi_at, [('lui', 'a1', asm.hi(fmt))]))
     elfseg.patch(elf, lo_at, asm.assemble(lo_at, [('addiu', 'a1', 'a1', asm.lo(fmt))]))
+    o = BLANK_CALL - elfseg.VBASE + elfseg.FOFF
+    assert elf[o:o + 4] == struct.pack('<I', 0x0C000000 | BLANK_TEST >> 2)
+    stub = seg.end + (-seg.end % 4)
+    seg.add(asm.assemble(stub, [
+        ('lw', 'v0', 0x5C, 's0'), ('bnez', 'v0', 'reading'), ('nop',),
+        ('j', BLANK_TEST), ('nop',),
+        'reading:', ('jr', 'ra'), ('addu', 'v0', 'zero', 'zero')]), 4)
+    elfseg.patch(elf, BLANK_CALL, asm.assemble(BLANK_CALL, [('jal', stub)]))
