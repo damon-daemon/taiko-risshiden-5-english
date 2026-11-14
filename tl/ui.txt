@@ -738,7 +738,7 @@
 737	Banish
 738	Helpers
 739	Return Castle
-740	Results
+740	Result
 741	Ship Flags
 742	Trade Goods
 743	Buy now
@@ -1034,8 +1034,8 @@
 1031	Build arms
 1032	Develop lands
 1033	Give your view
-1034	Out of the question
-1035	Not enough
+1034	Dismal
+1035	Lacking
 1036	Ordinary
 1037	Well done
 1038	Splendid!

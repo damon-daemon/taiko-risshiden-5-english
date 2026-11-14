@@ -95,6 +95,13 @@ def apply(elf, clean_elf):
 # castle names and used by 8 callers). The English name runs on into the reading field,
 # so the reading is garbage: the function returns an empty string instead.
 TOWN_READING = 0x27F2F0
+# Every other table has its own reading getter (offices 0x3076A0, items, goods, court
+# ranks ...: about ten), all through the half-width -> full-width kana converter
+# 0x34DD70, which turns the tail of an English name into kana garbage (Court Titles
+# list, issue #24). Real readings are half-width kana (>= 0xA6), so the converter's
+# loop test 'lb v0; beqz v0, end' becomes 'bgez v0, end': it stops at a NUL or at any
+# ASCII byte, and a reading that is really English text comes out empty.
+KANA_CONV_TEST = 0x34DDA0
 
 def apply_code(elf, seg):
     import asm
@@ -103,6 +110,9 @@ def apply_code(elf, seg):
     assert elf[o:o + 4] == bytes.fromhex('e0ffbd27'), 'town reading function moved'   # addiu sp, sp, -0x20
     elfseg.patch(elf, TOWN_READING, asm.assemble(TOWN_READING, [
         ('lui', 'v0', asm.hi(empty)), ('jr', 'ra'), ('addiu', 'v0', 'v0', asm.lo(empty))]))
+    o = KANA_CONV_TEST - elfseg.VBASE + elfseg.FOFF
+    assert elf[o:o + 4] == struct.pack('<I', 0x10400015), 'kana converter moved'     # beqz v0, 0x34DDF8
+    elfseg.patch(elf, KANA_CONV_TEST, struct.pack('<I', 0x04410015))                 # bgez v0, 0x34DDF8
 
 def export(elf):
     os.makedirs(SCRIPT, exist_ok=True)
