@@ -1,5 +1,5 @@
 """PCSX2 cheats for the extras: all cards collected (Card List), all events seen (Event
-Gallery), game completed once (1549 scenario) and all New Officer looks.
+Gallery), game completed once (1549 scenario), all New Officer looks and money.
 
 usage: .venv/bin/python tools/cheat.py doc                    -> docs/cheats.md
        .venv/bin/python tools/cheat.py pnach [image.iso] [dir]  -> <dir>/SLPM-66267_<CRC>.pnach
@@ -20,8 +20,15 @@ addresses are the same in the Japanese and the English build):
   card milestones (u16 0x6CCA5A, set by the game from the card counts, 0x311E40).
 Main-menu cards unlock from these counts (0x2C85F0): some always, others with >= 1 card,
 >= 1 event, >= 50 / 600 / 700 cards.
+- money: the hero's money is a u32 at 0x6D6CB0 in units of 100 mon (10 = 1 kan; 30200 =
+  "3020 kan 0 mon"): +8 of the object at 0x6D6CA8 (vtable 0x64CF4C), a member of the
+  static game object at 0x6D6C60 (BSS, so a fixed address). Gains are refused when the
+  total would reach 9,999,999 (0x175020: get vfunc +0xC8, add vfunc +0xCC). The cheat
+  writes 999990 = 99,999 kan: at the cap the English status bar text ("999999 kan 900
+  mon") runs into the HP icon.
 The values are written continuously (patch=1), so the system data saved to the memory
-card keeps them: a player can save once and remove the cheat.
+card keeps them: a player can save once and remove the cheat. Money is per save: it
+stays at 99,999 kan while the cheat is on, and the last value is saved with the game.
 
 PCSX2 names a cheat file after the serial and the CRC of the main program, which changes
 with every build; the codes themselves do not, so docs/cheats.md lists them once.
@@ -38,6 +45,7 @@ CARD_BITS, CARD_BASE = 1238 - 860, 0x6CCA18
 EVENT_BITS, EVENT_BASE = 74, 0x6CCA48
 LOOKS, LOOK_BASE = 21, 0x6CCA52
 CLEARED = 0x6CCA58
+MONEY, MONEY_VALUE = 0x6D6CB0, 999990    # 99,999 kan (units of 100 mon)
 CHEATS = [
     ('All cards', 'Collects every card in the Card List (1200) and unlocks the main-menu cards '
      'that need cards. Save once in the game and it stays on the memory card.'),
@@ -47,6 +55,8 @@ CHEATS = [
      'in the game and it stays on the memory card.'),
     ('All New Officer looks', 'Unlocks every extra head, clothes and accessory for New Officers. '
      'Save once in the game and it stays on the memory card.'),
+    ('Max money', 'Keeps the hero\'s money at 99,999 kan. Spending does not lower it while '
+     'the cheat is on; turn it off to play normally with what you have.'),
 ]
 
 def key(i):
@@ -65,7 +75,8 @@ def blocks():
     return [(0, OFFICER_BASE, bytes(key(i) for i in range(OFFICERS)) + bits(CARD_BITS)),
             (1, EVENT_BASE, bits(EVENT_BITS)),
             (2, CLEARED, b'\x01'),
-            (3, LOOK_BASE, sum(2 << 2 * i for i in range(LOOKS)).to_bytes((LOOKS + 3) // 4, 'little'))]
+            (3, LOOK_BASE, sum(2 << 2 * i for i in range(LOOKS)).to_bytes((LOOKS + 3) // 4, 'little')),
+            (4, MONEY, struct.pack('<I', MONEY_VALUE))]
 
 def crc(elf):
     """PCSX2's game CRC: XOR of the ELF's 32-bit words."""
@@ -103,9 +114,9 @@ def pnach(elf_crc):
         lines += [''] + pnach_lines(c)
     return '\n'.join(lines) + '\n'
 
-DOC = """# Cheats: all cards, all events, completed game, New Officer looks
+DOC = """# Cheats: all cards, all events, completed game, New Officer looks, money
 
-Four optional cheats for the Koei the Best edition ({serial}), English patch or Japanese disc:
+Five optional cheats for the Koei the Best edition ({serial}), English patch or Japanese disc:
 
 - **All cards**: collects every card in the Card List (1200: officers, titles, sights,
   techniques, battles, other) and opens the main-menu cards that unlock by number of
@@ -118,18 +129,21 @@ Four optional cheats for the Koei the Best edition ({serial}), English patch or 
 - **All New Officer looks**: unlocks the 20 extra parts of the New Officers editor
   (4 heads, 5 clothes, 11 extras: Straw Hat, Hannya Mask, Nanban Clothes, Eye Patch,
   Pipe, ...) that are normally earned one by one by feats in play.
+- **Max money**: keeps the hero's money at 99,999 kan in any playthrough. Spending
+  doesn't lower it while the cheat is on. Turn it off to play normally with what you
+  have; the money you have is saved with the game.
 
-You only need them once: with a cheat on, load any save and **save again in the game**.
-The unlocks are then stored on the memory card and the cheat can be turned off.
-They don't change anything inside a playthrough (money, stats, items, heroes).
+You only need the unlock cheats once: with a cheat on, load any save and **save again
+in the game**. The unlocks are then stored on the memory card and the cheat can be turned
+off. They don't change anything inside a playthrough (stats, items, heroes).
 
 ## PCSX2
 
 1. Find the game's CRC: in PCSX2 it is shown in the game's Properties (Summary) and in
-   the log when the game starts. For the English patch v0.12.0 it is `14E09517`; every
+   the log when the game starts. For the English patch v0.12.2 it is `16D3BF5B`; every
    release of the patch has a different CRC, the Japanese disc is `06E0A070`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `{serial}_<CRC>.pnach`
-   (e.g. `{serial}_14E09517.pnach`) and paste the blocks you want from below into it. Other
+   (e.g. `{serial}_16D3BF5B.pnach`) and paste the blocks you want from below into it. Other
    emulators that read `.pnach` files (tested in PCSX2 2.4 only) may want the file named
    just `<CRC>.pnach`.
 3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick the ones

@@ -1,6 +1,6 @@
-# Cheats: all cards, all events, completed game, New Officer looks
+# Cheats: all cards, all events, completed game, New Officer looks, money
 
-Four optional cheats for the Koei the Best edition (SLPM-66267), English patch or Japanese disc:
+Five optional cheats for the Koei the Best edition (SLPM-66267), English patch or Japanese disc:
 
 - **All cards**: collects every card in the Card List (1200: officers, titles, sights,
   techniques, battles, other) and opens the main-menu cards that unlock by number of
@@ -13,18 +13,21 @@ Four optional cheats for the Koei the Best edition (SLPM-66267), English patch o
 - **All New Officer looks**: unlocks the 20 extra parts of the New Officers editor
   (4 heads, 5 clothes, 11 extras: Straw Hat, Hannya Mask, Nanban Clothes, Eye Patch,
   Pipe, ...) that are normally earned one by one by feats in play.
+- **Max money**: keeps the hero's money at 99,999 kan in any playthrough. Spending
+  doesn't lower it while the cheat is on. Turn it off to play normally with what you
+  have; the money you have is saved with the game.
 
-You only need them once: with a cheat on, load any save and **save again in the game**.
-The unlocks are then stored on the memory card and the cheat can be turned off.
-They don't change anything inside a playthrough (money, stats, items, heroes).
+You only need the unlock cheats once: with a cheat on, load any save and **save again
+in the game**. The unlocks are then stored on the memory card and the cheat can be turned
+off. They don't change anything inside a playthrough (stats, items, heroes).
 
 ## PCSX2
 
 1. Find the game's CRC: in PCSX2 it is shown in the game's Properties (Summary) and in
-   the log when the game starts. For the English patch v0.12.0 it is `14E09517`; every
+   the log when the game starts. For the English patch v0.12.2 it is `16D3BF5B`; every
    release of the patch has a different CRC, the Japanese disc is `06E0A070`.
 2. In PCSX2's `cheats` folder (Settings > Folders) create `SLPM-66267_<CRC>.pnach`
-   (e.g. `SLPM-66267_14E09517.pnach`) and paste the blocks you want from below into it. Other
+   (e.g. `SLPM-66267_16D3BF5B.pnach`) and paste the blocks you want from below into it. Other
    emulators that read `.pnach` files (tested in PCSX2 2.4 only) may want the file named
    just `<CRC>.pnach`.
 3. Enable cheats for the game (PCSX2 2.x: the game's Properties > Cheats, tick the ones
@@ -305,6 +308,17 @@ patch=1,EE,006CCA54,word,02AAAAAA
 ```
 </details>
 
+<details>
+<summary>.pnach: Max money (4 lines)</summary>
+
+```
+[Max money]
+author=damon-daemon
+description=Keeps the hero's money at 99,999 kan. Spending does not lower it while the cheat is on; turn it off to play normally with what you have.
+patch=1,EE,006D6CB0,word,000F4236
+```
+</details>
+
 ## Raw codes
 
 The same writes as unencrypted raw codes (`2aaaaaaa vvvvvvvv` = 32-bit write,
@@ -571,6 +585,14 @@ on a real PS2 may also need a master code for this game, which is not provided.
 006CCA52 000000AA
 006CCA53 000000AA
 206CCA54 02AAAAAA
+```
+</details>
+
+<details>
+<summary>Max money (1 lines)</summary>
+
+```
+206D6CB0 000F4236
 ```
 </details>
 

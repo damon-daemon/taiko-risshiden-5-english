@@ -104,13 +104,14 @@ The instructions in this README are for the current releases (Koei the Best). Ea
 standard-edition release (v0.10.3 and earlier) has its own README.txt in its zip, with
 the matching file names.
 
-## Cheats: all cards, all events, completed game, New Officer looks
+## Cheats: all cards, all events, completed game, New Officer looks, money
 
-[docs/cheats.md](docs/cheats.md) has four optional cheats (PCSX2 `.pnach` and raw codes):
+[docs/cheats.md](docs/cheats.md) has five optional cheats (PCSX2 `.pnach` and raw codes):
 **All cards** fills the Card List and opens Music Room, Mini-Games and New Officers, **All
 events seen** fills the Event Gallery, **Game completed** opens the 1549 scenario, **All
-New Officer looks** unlocks the extra heads, clothes and extras of the New Officers editor.
-Use them once, save in the game, and the unlocks stay on your memory card.
+New Officer looks** unlocks the extra heads, clothes and extras of the New Officers editor,
+**Max money** keeps the hero's money at 99,999 kan. Use the unlock cheats once, save in the
+game, and the unlocks stay on your memory card.
 
 ## Building from source
 
